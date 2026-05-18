@@ -309,22 +309,22 @@ def build_and_render(script: dict, clips: list, audio_url: str,
             "offset": {"y": 0.12},
         })
 
-    # Watermark clip (track[0] — top layer)
+    # Watermark clip (track[0] — top layer), 65% opacity, serif font distinct from captions
     watermark_clips = [{
         "asset": {
             "type": "html",
             "html": (
-                f'<div style="opacity:0.75;padding:10px 14px;">'
-                f'<p style="font-family:Arial,sans-serif;font-size:30px;font-weight:700;'
-                f'color:#FFFFFF;margin:0;white-space:nowrap;'
-                f'text-shadow:1px 1px 6px rgba(0,0,0,0.85);">{SITE_CHANNEL_NAME}</p></div>'
+                f'<div style="opacity:0.65;padding:8px 12px;">'
+                f'<p style="font-family:Georgia,\'Times New Roman\',serif;font-size:35px;font-weight:700;'
+                f'color:#FFFFFF;margin:0;white-space:nowrap;letter-spacing:0.03em;'
+                f'text-shadow:1px 1px 8px rgba(0,0,0,0.9);">{SITE_CHANNEL_NAME}</p></div>'
             ),
-            "width": 460, "height": 70,
+            "width": 520, "height": 75,
         },
         "start": 0,
         "length": audio_duration + 1.0,
         "position": "topLeft",
-        "offset": {"x": 0.02, "y": -0.02},
+        "offset": {"x": 0.01, "y": -0.01},
     }]
 
     # Music clip (track[3])
