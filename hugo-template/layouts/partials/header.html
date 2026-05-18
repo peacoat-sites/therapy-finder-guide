@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="site-logo">{{ .Site.Params.logo_text }}</a>
+
+    <form class="site-search" action="/search/" method="get" role="search">
+      <input type="search" name="q" class="search-input" placeholder="Search articles…" aria-label="Search articles" autocomplete="off">
+      <button type="submit" class="search-btn" aria-label="Search">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </button>
+    </form>
+
+    <nav class="site-nav">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/contact/">Contact</a>
+      <a href="/privacy/">Privacy</a>
+    </nav>
+    <button class="nav-toggle" aria-label="Menu">&#9776;</button>
+  </div>
+</header>

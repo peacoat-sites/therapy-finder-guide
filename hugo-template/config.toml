@@ -1,0 +1,42 @@
+baseURL = "https://SITE_DOMAIN/"
+languageCode = "en-us"
+title = "SITE_TITLE"
+[pagination]
+  pagerSize = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "SITE_DESCRIPTION"
+  niche = "SITE_NICHE"
+  adsense_id = "ca-pub-ADSENSE_ID"
+  adsense_slot_header = "SLOT_HEADER"
+  adsense_slot_incontent = "SLOT_INCONTENT"
+  adsense_slot_sidebar = "SLOT_SIDEBAR"
+  image_query = "IMAGE_QUERY_KEYWORDS"
+  author = "SITE_TITLE Editorial Team"
+  logo_text = "SITE_TITLE"
+  tagline = "SITE_TAGLINE"
+  primary_color = "SITE_COLOR"
+  cloudflare_analytics = "CF_ANALYTICS_TOKEN"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:slug/"
