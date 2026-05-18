@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  {{ if .Params.image }}<meta property="og:image" content="{{ .Params.image }}">{{ end }}
+
+  <!-- Sitemap -->
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+  <link rel="alternate" type="application/rss+xml" href="/index.xml">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <!-- AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsense_id }}" crossorigin="anonymous"></script>
+
+  <!-- Affiliate network verification tags (site-specific, set in config.toml params) -->
+  {{ if .Site.Params.impact_verification }}
+  <meta name="impact-site-verification" content="{{ .Site.Params.impact_verification }}">
+  {{ end }}
+
+  <!-- Cloudflare Analytics -->
+  {{ if .Site.Params.cloudflare_analytics }}
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ .Site.Params.cloudflare_analytics }}"}'></script>
+  {{ end }}
+
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+  {{ partial "header.html" . }}
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <script src="/js/main.js"></script>
+
+  <!-- Impact affiliate tracker (site-specific) -->
+  {{ if .Site.Params.impact_tracking_id }}
+  <script type="text/javascript">
+  (function(i,m,p,a,c,t){c.ire_o=p;c[p]=c[p]||function(){(c[p].a=c[p].a||[]).push(arguments)};t=a.createElement(m);var z=a.getElementsByTagName(m)[0];t.async=1;t.src=i;z.parentNode.insertBefore(t,z)})('https://utt.impactcdn.com/{{ .Site.Params.impact_tracking_id }}.js','script','impactStat',document,window);impactStat('trackImpression');
+  </script>
+  {{ end }}
+</body>
+</html>
