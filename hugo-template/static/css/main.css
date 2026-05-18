@@ -207,3 +207,19 @@ a { color: inherit; text-decoration: none; }
   width: 100%; height: 100%;
   border: 0;
 }
+
+
+/* ── STATIC PAGES (about, contact, privacy) ── */
+.page-wrap { max-width: 780px; margin: 0 auto; padding: 48px 24px 80px; }
+.page-header { margin-bottom: 32px; padding-bottom: 20px; border-bottom: 2px solid var(--border); }
+.page-title { font-family: var(--serif); font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 700; color: var(--text); line-height: 1.2; }
+.page-subtitle { font-size: 16px; color: var(--muted); margin-top: 10px; }
+.page-content { font-size: 16px; line-height: 1.85; }
+.page-content .disclaimer-box { background: #fff8e7; border-left: 4px solid var(--accent); border-radius: var(--radius); padding: 16px 20px; margin: 24px 0; font-size: 14px; line-height: 1.7; color: var(--text); }
+.page-content .disclaimer-box strong { color: var(--primary); }
+.contact-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin: 28px 0; }
+.contact-card { background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px 24px; }
+.contact-card h3 { font-family: var(--serif); font-size: 1.05rem; font-weight: 700; color: var(--primary); margin-bottom: 8px; }
+.contact-card p { font-size: 14px; color: var(--muted); line-height: 1.6; }
+.contact-card a { color: var(--primary); font-weight: 500; }
+@media (max-width: 600px) { .contact-grid { grid-template-columns: 1fr; } }
