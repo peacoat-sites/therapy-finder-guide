@@ -1,0 +1,16 @@
+<div class="trust-ribbon">
+  <div class="trust-ribbon-inner">
+    <span class="trust-item">
+      <svg width="11" height="11" viewBox="0 0 12 12" fill="currentColor"><path d="M6 0l1.5 4.5H12L8.25 7.28l1.5 4.5L6 9 2.25 11.78l1.5-4.5L0 4.5h4.5z"/></svg>
+      Editorially independent
+    </span>
+    <span class="trust-sep">·</span>
+    <span class="trust-item">Updated monthly</span>
+    <span class="trust-sep">·</span>
+    <span class="trust-item">{{ len .Site.RegularPages }} articles published</span>
+    {{ with .Site.Params.trust_extra }}
+    <span class="trust-sep">·</span>
+    <span class="trust-item">{{ . }}</span>
+    {{ end }}
+  </div>
+</div>

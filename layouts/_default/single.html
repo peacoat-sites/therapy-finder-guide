@@ -7,7 +7,7 @@
       <a href="/">Home</a>
       {{ if .Params.categories }}
       <span>›</span>
-      <a href="/categories/{{ index .Params.categories 0 | urlize }}/">{{ index .Params.categories 0 }}</a>
+      <a href="/categories/{{ index .Params.categories 0 | urlize }}/">{{ index .Params.categories 0 | title }}</a>
       {{ end }}
       <span>›</span>
       <span>{{ .Title | truncate 40 }}</span>
@@ -16,7 +16,7 @@
     <!-- Header -->
     <header class="post-header">
       {{ if .Params.categories }}
-      <span class="post-cat">{{ index .Params.categories 0 }}</span>
+      <span class="post-cat">{{ index .Params.categories 0 | title }}</span>
       {{ end }}
       <h1 class="post-title">{{ .Title }}</h1>
       <div class="post-meta">
@@ -33,8 +33,11 @@
     </div>
     {{ end }}
 
-    <!-- Top Ad -->
-    <div class="ad-container">
+    <!-- Top CTA -->
+    {{ partial "cta-box.html" . }}
+
+    <!-- Top Ad (collapses when unfilled) -->
+    <div class="ad-container ad-incontent">
       <ins class="adsbygoogle"
         style="display:block;text-align:center"
         data-ad-client="{{ .Site.Params.adsense_id }}"
@@ -50,8 +53,8 @@
       {{ .Content }}
     </div>
 
-    <!-- In-content Ad (injected mid-article by pipeline) -->
-    <div class="ad-container">
+    <!-- In-content Ad -->
+    <div class="ad-container ad-incontent">
       <ins class="adsbygoogle"
         style="display:block"
         data-ad-client="{{ .Site.Params.adsense_id }}"
@@ -60,6 +63,9 @@
         data-full-width-responsive="true"></ins>
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
+
+    <!-- Bottom CTA -->
+    {{ partial "cta-box.html" . }}
 
     <!-- Tags -->
     {{ if .Params.tags }}
@@ -78,24 +84,17 @@
     </div>
     {{ end }}
 
-    <!-- YouTube Short Embed (auto-injected by video pipeline when available) -->
-    {{ $youtube := dict }}
-    {{ $dataFile := "data/youtube.json" }}
-    {{ if fileExists $dataFile }}
-      {{ $youtube = getJSON $dataFile }}
-    {{ end }}
-    {{ $videoData := index $youtube .Slug }}
-    {{ if $videoData }}
-    <div class="youtube-short-wrap">
-      <p class="youtube-short-label">Watch: Quick Summary</p>
-      <div class="youtube-short-frame">
+    <!-- YouTube Video Embed (standard 16:9, autoplay muted, most recent video) -->
+    {{ if .Site.Data.youtube }}
+    {{ $latest := index .Site.Data.youtube 0 }}
+    <div class="youtube-video-wrap">
+      <p class="youtube-video-label">Watch: Quick Summary</p>
+      <div class="youtube-video-frame">
         <iframe
-          src="https://www.youtube.com/embed/{{ $videoData.video_id }}?rel=0"
-          width="315" height="560"
+          src="https://www.youtube.com/embed/{{ $latest.video_id }}?autoplay=1&mute=1&rel=0&modestbranding=1&playsinline=1"
           frameborder="0"
-          allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-          loading="lazy">
+          allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
         </iframe>
       </div>
     </div>
@@ -105,6 +104,10 @@
 
   <!-- Sidebar -->
   <aside class="sidebar">
+
+    <!-- Table of Contents (auto-generated, sticky) -->
+    {{ partial "toc.html" . }}
+
     <div class="widget">
       <ins class="adsbygoogle"
         style="display:block"
@@ -129,7 +132,7 @@
       <div class="widget-title">Browse Categories</div>
       <ul class="widget-list">
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-        <li><a href="/categories/{{ $name | urlize }}/">{{ $name }} ({{ len $taxonomy }})</a></li>
+        <li><a href="/categories/{{ $name | urlize }}/">{{ $name | title }} ({{ len $taxonomy }})</a></li>
         {{ end }}
       </ul>
     </div>

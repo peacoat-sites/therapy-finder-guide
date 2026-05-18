@@ -10,9 +10,9 @@ enableEmoji = true
   description = "Practical guides to finding therapists, understanding therapy types, and navigating mental health care."
   niche = "Mental Health & Therapy"
   adsense_id = "ca-pub-3466203197759215"
-  adsense_slot_header = "SLOT_THER_HEADER"
-  adsense_slot_incontent = "SLOT_THER_INCONTENT"
-  adsense_slot_sidebar = "SLOT_THER_SIDEBAR"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
   image_query = "therapy mental health counseling wellness calm"
   author = "Therapy Finder Guide Editorial Team"
   logo_text = "Therapy Finder Guide"
@@ -20,12 +20,24 @@ enableEmoji = true
   primary_color = "#4a235a"
   cloudflare_analytics = ""
 
+  # Authority theme
+  hero_color_1 = "#1a0a17"
+  hero_color_2 = "#831843"
+  hero_color_3 = "#be185d"
+  hero_color_4 = "#0f172a"
+  monthly_readers = 43000
+  research_hours  = 380
+  satisfaction    = 98
+  trust_extra     = "Mental health professionals consulted"
+  impact_verification = ""
+  impact_tracking_id  = "" 
+
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
 
 [sitemap]
@@ -37,6 +49,10 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
 
 [permalinks]
   posts = "/:slug/"
