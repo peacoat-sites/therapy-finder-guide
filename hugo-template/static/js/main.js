@@ -1,3 +1,25 @@
+// ── COOKIE CONSENT BANNER ──────────────────────────────────────────────────────
+(function cookieBanner() {
+  var CONSENT_KEY = 'cookie_consent';
+  var banner = document.getElementById('cookie-banner');
+  if (!banner) return;
+  var stored = localStorage.getItem(CONSENT_KEY);
+  if (!stored) {
+    // Show after a short delay so it doesn't flash on first paint
+    setTimeout(function() { banner.style.display = 'block'; }, 800);
+  }
+  document.getElementById('cookie-accept').addEventListener('click', function() {
+    localStorage.setItem(CONSENT_KEY, 'accepted');
+    banner.classList.add('cookie-banner-hide');
+    setTimeout(function() { banner.style.display = 'none'; }, 350);
+  });
+  document.getElementById('cookie-decline').addEventListener('click', function() {
+    localStorage.setItem(CONSENT_KEY, 'declined');
+    banner.classList.add('cookie-banner-hide');
+    setTimeout(function() { banner.style.display = 'none'; }, 350);
+  });
+})();
+
 // Mobile nav toggle
 const toggle = document.querySelector('.nav-toggle');
 const nav    = document.querySelector('.site-nav');

@@ -1,0 +1,41 @@
+<!-- ── COOKIE CONSENT BANNER ── -->
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="Cookie consent" style="display:none">
+  <div class="cookie-banner-inner">
+    <p class="cookie-text">
+      We use cookies for analytics and personalized advertising (Google AdSense).
+      By continuing to use this site, you agree to our
+      <a href="/privacy/" class="cookie-link">Privacy Policy</a>.
+      You can opt&nbsp;out of personalized ads at
+      <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener" class="cookie-link">Google Ad&nbsp;Settings</a>.
+    </p>
+    <div class="cookie-actions">
+      <button id="cookie-decline" class="cookie-btn cookie-btn-outline">Decline</button>
+      <button id="cookie-accept" class="cookie-btn cookie-btn-primary">Accept</button>
+    </div>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="footer-logo">{{ .Site.Params.logo_text }}</div>
+        <p>{{ .Site.Params.description }}</p>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Explore</div>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+      <p class="disclaimer">The information on this site is for general educational purposes only and does not constitute professional advice. Always consult a qualified professional for advice specific to your situation.</p>
+      <p class="affiliate-disclosure">This site participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. We may earn a commission on qualifying purchases at no extra cost to you.</p>
+    </div>
+  </div>
+</footer>
