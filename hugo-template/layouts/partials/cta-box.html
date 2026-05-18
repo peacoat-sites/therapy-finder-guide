@@ -1,0 +1,22 @@
+{{/* CTA Box Partial — reads from site data/cta.json
+     Inject with: {{ partial "cta-box.html" . }}
+     Requires data/cta.json in each site repo.
+*/}}
+{{ with .Site.Data.cta }}
+<div class="cta-box" style="--cta-accent:{{ .color | default "#c9a84c" }}">
+  <div class="cta-box-inner">
+    <div class="cta-text-wrap">
+      {{ with .eyebrow }}<p class="cta-eyebrow">{{ . }}</p>{{ end }}
+      <h3 class="cta-headline">{{ .headline }}</h3>
+      <p class="cta-subtext">{{ .subtext }}</p>
+      {{ with .badge }}<p class="cta-badge">✓ {{ . }}</p>{{ end }}
+    </div>
+    <div class="cta-action-wrap">
+      <a href="{{ .url }}" class="cta-btn" target="_blank" rel="nofollow noopener sponsored">
+        {{ .button | default "Learn More →" }}
+      </a>
+      {{ with .disclaimer }}<p class="cta-disclaimer">{{ . }}</p>{{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
