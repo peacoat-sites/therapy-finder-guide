@@ -20,8 +20,7 @@ import requests
 ANTHROPIC_KEY        = os.environ["ANTHROPIC_API_KEY"]
 EL_KEY               = os.environ["ELEVENLABS_API_KEY"]
 EL_VOICE_ID          = os.environ["ELEVENLABS_VOICE_ID"]
-SHOTSTACK_KEY        = os.environ["SHOTSTACK_API_KEY"]
-SHOTSTACK_ENV        = os.environ.get("SHOTSTACK_ENV", "sandbox")
+SHOTSTACK_KEY        = os.environ.get("SHOTSTACK_API_KEY", "4vmNf0jK4NPFeeVJarsLrnKvgUvRSgglLCiasYS8")
 PEXELS_KEY           = os.environ["PEXELS_API_KEY"]
 GOOGLE_CLIENT_ID     = os.environ["GOOGLE_CLIENT_ID"]
 GOOGLE_CLIENT_SECRET = os.environ["GOOGLE_CLIENT_SECRET"]
@@ -30,11 +29,9 @@ YOUTUBE_CHANNEL_ID   = os.environ["YOUTUBE_CHANNEL_ID"]
 SITE_SLUG            = os.environ["SITE_NAME"]          # e.g. medicare-starter
 SITE_DOMAIN          = os.environ["SITE_DOMAIN"]        # e.g. medicarestarter.com
 SITE_NICHE           = os.environ.get("SITE_NICHE", "")
+SITE_CHANNEL_NAME    = os.environ.get("SITE_CHANNEL_NAME", "") or " ".join(w.capitalize() for w in SITE_SLUG.split("-"))
 
-SHOTSTACK_BASE = (
-    "https://api.shotstack.io/stage" if SHOTSTACK_ENV == "sandbox"
-    else "https://api.shotstack.io/v1"
-)
+SHOTSTACK_BASE = "https://api.shotstack.io/v1"
 
 DRY_RUN = "--dry-run" in sys.argv or os.environ.get("DRY_RUN", "").lower() == "true"
 
@@ -85,6 +82,8 @@ def generate_script(article: dict) -> dict:
     system = (
         f"You are writing a 60-second YouTube Shorts script for a {SITE_NICHE} channel. "
         "The content must be concise, punchy, and scroll-stopping. "
+        "Do NOT include any calls to action, website URLs, channel names, or promotional language. "
+        "This is purely educational/informational content optimized for maximum views and watch time. "
         "Respond ONLY with valid JSON — no markdown fences, no commentary."
     )
     user = (
@@ -95,13 +94,12 @@ def generate_script(article: dict) -> dict:
         '{\n'
         '  "hook": "2-sentence hook that grabs attention in 3 seconds",\n'
         '  "points": ["tip 1 (~15 words)", "tip 2 (~15 words)", "tip 3 (~15 words)"],\n'
-        '  "cta": "Single sentence CTA mentioning the website",\n'
         '  "title": "YouTube title under 80 chars with a number or power word",\n'
-        '  "description": "2-3 sentence YouTube description under 400 chars",\n'
+        '  "description": "2-3 sentence educational description under 400 chars — no website links or CTAs",\n'
         '  "tags": ["tag1","tag2","tag3","tag4","tag5","tag6","tag7","tag8","tag9","tag10"]\n'
         "}\n\n"
-        f"The CTA should mention {SITE_DOMAIN} naturally. "
-        "Total spoken word count must be under 160 words."
+        "Keep each point to 1-2 short sentences. Total spoken word count must be under 150 words. "
+        "No calls to action, no website references, no channel plugs."
     )
 
     msg = client.messages.create(
@@ -124,11 +122,12 @@ def generate_script(article: dict) -> dict:
 
 # ── Step 3: Synthesize audio ──────────────────────────────────────────────────
 
-def synthesize_audio(script: dict) -> bytes:
-    parts = [script["hook"]] + script["points"] + [script["cta"]]
+def synthesize_audio(script: dict) -> tuple[bytes, list]:
+    """Returns (mp3_bytes, word_timestamps) using ElevenLabs with-timestamps endpoint."""
+    parts = [script["hook"]] + script["points"]
     full_text = "  ".join(parts)
 
-    url = f"https://api.elevenlabs.io/v1/text-to-speech/{EL_VOICE_ID}"
+    url = f"https://api.elevenlabs.io/v1/text-to-speech/{EL_VOICE_ID}/with-timestamps"
     r = requests.post(
         url,
         headers={"xi-api-key": EL_KEY, "Content-Type": "application/json"},
@@ -141,12 +140,36 @@ def synthesize_audio(script: dict) -> bytes:
     )
     if r.status_code != 200:
         raise RuntimeError(f"ElevenLabs {r.status_code}: {r.text[:200]}")
-    return r.content
+    data = r.json()
+    import base64
+    audio_bytes = base64.b64decode(data["audio_base64"])
+    alignment = data.get("alignment", {})
+    chars = alignment.get("characters", [])
+    char_starts = alignment.get("character_start_times_seconds", [])
+    char_ends = alignment.get("character_end_times_seconds", [])
+    words = []
+    if chars:
+        # Reconstruct word timestamps from character alignment
+        current_word = ""
+        word_start = None
+        for ch, ts, te in zip(chars, char_starts, char_ends):
+            if ch == " " or ch == "\n":
+                if current_word:
+                    words.append({"word": current_word, "start": word_start, "end": te})
+                    current_word = ""
+                    word_start = None
+            else:
+                if word_start is None:
+                    word_start = ts
+                current_word += ch
+        if current_word:
+            words.append({"word": current_word, "start": word_start, "end": char_ends[-1]})
+    return audio_bytes, words
 
 
 # ── Step 4: Fetch Pexels clips ────────────────────────────────────────────────
 
-def fetch_pexels_clips(count: int = 4) -> list:
+def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
     niche_words = SITE_NICHE.replace(" & ", " ").replace(",", "").split()
     queries = [
         SITE_NICHE,
@@ -163,7 +186,7 @@ def fetch_pexels_clips(count: int = 4) -> list:
         r = requests.get(
             "https://api.pexels.com/videos/search",
             headers=headers,
-            params={"query": query, "per_page": 8, "orientation": "portrait", "size": "medium"},
+            params={"query": query, "per_page": 8, "orientation": orientation, "size": "medium"},
         )
         if r.status_code != 200:
             continue
@@ -171,8 +194,11 @@ def fetch_pexels_clips(count: int = 4) -> list:
             if len(selected) >= count or vid["id"] in used_ids:
                 continue
             files = vid.get("video_files", [])
-            portrait = [f for f in files if f.get("width", 1) < f.get("height", 1) and f.get("height", 0) >= 720]
-            chosen = sorted(portrait or files, key=lambda f: f.get("height", 0), reverse=True)
+            if orientation == "portrait":
+                preferred = [f for f in files if f.get("width", 1) < f.get("height", 1) and f.get("height", 0) >= 720]
+            else:
+                preferred = [f for f in files if f.get("width", 1) > f.get("height", 1) and f.get("height", 0) >= 720]
+            chosen = sorted(preferred or files, key=lambda f: f.get("height", 0), reverse=True)
             if chosen:
                 selected.append(chosen[0]["link"])
                 used_ids.add(vid["id"])
@@ -180,26 +206,77 @@ def fetch_pexels_clips(count: int = 4) -> list:
     return selected[:count]
 
 
-# ── Step 5: Upload audio ──────────────────────────────────────────────────────
+# ── Step 5: Upload file ───────────────────────────────────────────────────────
+
+def upload_file(data: bytes, filename: str, mime: str) -> str:
+    r = requests.post("https://catbox.moe/user/api.php",
+        data={"reqtype": "fileupload"},
+        files={"fileToUpload": (filename, data, mime)}, timeout=60)
+    if r.status_code == 200 and r.text.startswith("https://"):
+        return r.text.strip()
+    raise RuntimeError(f"catbox upload failed: {r.text[:100]}")
+
 
 def upload_audio(audio_bytes: bytes) -> str:
-    r = requests.post(
-        "https://tmpfiles.org/api/v1/upload",
-        files={"file": ("narration.mp3", audio_bytes, "audio/mpeg")},
-        timeout=60,
-    )
-    if r.status_code != 200:
-        raise RuntimeError(f"tmpfiles {r.status_code}: {r.text[:150]}")
-    url = r.json()["data"]["url"]
-    return url.replace("tmpfiles.org/", "tmpfiles.org/dl/")
+    return upload_file(audio_bytes, "narration.mp3", "audio/mpeg")
+
+
+# ── Caption segmentation ──────────────────────────────────────────────────────
+
+def segment_captions(words: list, audio_duration: float) -> list:
+    """
+    Segment word-timestamp list into caption clips.
+    Max 6 words OR 3.0s per segment. Minimum 1.2s enforced.
+    Returns list of {"text": str, "start": float, "end": float}.
+    """
+    segments = []
+    if not words:
+        return segments
+
+    current_words = []
+    seg_start = words[0]["start"]
+
+    for i, w in enumerate(words):
+        current_words.append(w["word"])
+        seg_duration = w["end"] - seg_start
+        is_last = (i == len(words) - 1)
+        hit_max_words = len(current_words) >= 6
+        hit_max_time = seg_duration >= 3.0
+
+        if hit_max_words or hit_max_time or is_last:
+            seg_end = w["end"]
+            # Enforce minimum duration
+            if seg_end - seg_start < 1.2:
+                # Try to extend to next word if available
+                if not is_last:
+                    continue
+                seg_end = max(seg_start + 1.2, seg_end)
+            segments.append({
+                "text": " ".join(current_words),
+                "start": seg_start,
+                "end": seg_end,
+            })
+            current_words = []
+            if not is_last:
+                seg_start = words[i + 1]["start"]
+
+    # Flush: ensure last segment ends at audio_duration
+    if segments:
+        segments[-1]["end"] = audio_duration
+
+    return segments
 
 
 # ── Step 6 & 7: Shotstack render ─────────────────────────────────────────────
 
-def build_and_render(script: dict, clips: list, audio_url: str) -> str:
-    clip_duration = 15.0
-    text_clips, video_clips = [], []
-    bg = "#000000CC"
+MUSIC_URL = "https://cdn.pixabay.com/audio/2022/08/02/audio_884fe92c21.mp3"
+
+
+def build_and_render(script: dict, clips: list, audio_url: str,
+                     words: list, audio_duration: float,
+                     is_shorts: bool = True) -> str:
+    video_clips = []
+    clip_duration = audio_duration / max(len(clips), 1)
 
     for i, url in enumerate(clips):
         start = i * clip_duration
@@ -207,34 +284,79 @@ def build_and_render(script: dict, clips: list, audio_url: str) -> str:
             "asset": {"type": "video", "src": url, "volume": 0},
             "start": start, "length": clip_duration, "fit": "cover",
         })
-        label = ([script["hook"]] + script["points"] + [script["cta"]])[i]
-        if len(label) > 120:
-            label = label[:117] + "..."
-        text_clips.append({
+
+    # Caption clips (track[1]) — html asset, word-wrapped
+    font_size = "46px" if is_shorts else "52px"
+    caption_clips = []
+    segments = segment_captions(words, audio_duration)
+    for seg in segments:
+        seg_len = max(seg["end"] - seg["start"], 0.1)
+        caption_clips.append({
             "asset": {
                 "type": "html",
                 "html": (
-                    f'<p style="font-family:Arial,sans-serif;font-size:36px;font-weight:bold;'
-                    f'color:#FFFFFF;text-align:center;padding:20px;background:{bg};'
-                    f'border-radius:12px;line-height:1.4;">{label}</p>'
+                    f'<p style="font-family:Arial,sans-serif;font-size:{font_size};font-weight:900;'
+                    f'color:#FFFFFF;text-align:center;padding:16px 20px;line-height:1.3;'
+                    f'word-wrap:break-word;white-space:normal;'
+                    f'text-shadow:2px 2px 8px rgba(0,0,0,0.9),0px 0px 20px rgba(0,0,0,0.7);">'
+                    f'{seg["text"]}</p>'
                 ),
-                "width": 900, "height": 300, "css": "p{margin:0}",
+                "width": 900, "height": 200, "css": "p{margin:0}",
             },
-            "start": start, "length": clip_duration,
-            "position": "bottom", "offset": {"y": 0.15},
-            "transition": {"in": "fade", "out": "fade"},
+            "start": seg["start"],
+            "length": seg_len,
+            "position": "bottom",
+            "offset": {"y": 0.12},
         })
+
+    # Watermark clip (track[0] — top layer)
+    watermark_clips = [{
+        "asset": {
+            "type": "html",
+            "html": (
+                f'<div style="opacity:0.75;padding:10px 14px;">'
+                f'<p style="font-family:Arial,sans-serif;font-size:30px;font-weight:700;'
+                f'color:#FFFFFF;margin:0;white-space:nowrap;'
+                f'text-shadow:1px 1px 6px rgba(0,0,0,0.85);">{SITE_CHANNEL_NAME}</p></div>'
+            ),
+            "width": 460, "height": 70,
+        },
+        "start": 0,
+        "length": audio_duration + 1.0,
+        "position": "topLeft",
+        "offset": {"x": 0.02, "y": -0.02},
+    }]
+
+    # Music clip (track[3])
+    music_clip = {
+        "asset": {"type": "audio", "src": MUSIC_URL, "volume": 0.07},
+        "start": 0,
+        "length": audio_duration + 1.0,
+    }
+
+    if is_shorts:
+        output = {
+            "format": "mp4", "resolution": "hd", "aspectRatio": "9:16",
+            "fps": 30, "size": {"width": 1080, "height": 1920},
+        }
+    else:
+        output = {
+            "format": "mp4", "resolution": "hd", "aspectRatio": "16:9",
+            "fps": 30, "size": {"width": 1920, "height": 1080},
+        }
 
     payload = {
         "timeline": {
-            "tracks": [{"clips": video_clips}, {"clips": text_clips}],
-            "soundtrack": {"src": audio_url, "effect": "fadeOut", "volume": 0.0},
+            "tracks": [
+                {"clips": watermark_clips},   # track 0 — TOP
+                {"clips": caption_clips},      # track 1
+                {"clips": video_clips},        # track 2
+                {"clips": [music_clip]},       # track 3
+            ],
+            "soundtrack": {"src": audio_url, "effect": "fadeOut", "volume": 1.0},
             "background": "#000000",
         },
-        "output": {
-            "format": "mp4", "resolution": "hd", "aspectRatio": "9:16",
-            "fps": 30, "size": {"width": 1080, "height": 1920},
-        },
+        "output": output,
     }
 
     r = requests.post(
@@ -283,8 +405,7 @@ def upload_to_youtube(video_bytes: bytes, script: dict, article: dict) -> str:
     title = script["title"][:100]
     desc = (
         script["description"]
-        + f"\n\n Full article: https://{SITE_DOMAIN}/{article['article_slug']}/\n"
-        + "#Shorts"
+        + "\n\n#Shorts"
     )[:5000]
     tags = script["tags"][:15] + ["Shorts", SITE_NICHE]
 
@@ -366,8 +487,9 @@ def main():
     print(f"  Hook: {script['hook'][:80]}...")
 
     print("STEP 3: Synthesizing audio via ElevenLabs...")
-    audio = synthesize_audio(script)
-    print(f"  Audio: {len(audio)/1024:.1f} KB")
+    audio, words = synthesize_audio(script)
+    audio_duration = words[-1]["end"] if words else 60.0
+    print(f"  Audio: {len(audio)/1024:.1f} KB, duration ~{audio_duration:.1f}s")
 
     if DRY_RUN:
         Path("narration.mp3").write_bytes(audio)
@@ -376,7 +498,7 @@ def main():
         return
 
     print("STEP 4: Fetching Pexels B-roll clips...")
-    clips = fetch_pexels_clips(count=4)
+    clips = fetch_pexels_clips(count=4, orientation="portrait")
     print(f"  Found {len(clips)} clips")
 
     print("STEP 5: Uploading audio...")
@@ -384,7 +506,7 @@ def main():
     print(f"  URL: {audio_url[:60]}...")
 
     print("STEP 6-7: Building + rendering via Shotstack...")
-    video_url = build_and_render(script, clips, audio_url)
+    video_url = build_and_render(script, clips, audio_url, words, audio_duration, is_shorts=True)
     print(f"  Done: {video_url[:60]}...")
 
     print("STEP 8: Downloading video...")
