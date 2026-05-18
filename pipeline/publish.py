@@ -240,61 +240,115 @@ SITE_PERSONAS = {
 # Replace tracking tag after Amazon Associates approval.
 
 NICHE_ASINS = {
+    # ── Personal Injury Law ───────────────────────────────────────────────────
+    # Organizers, documentation tools, legal self-help books
     "personal injury law": [
         ("B08MBF3WNH", "Avery Durable Binder with Medical Records Organizer Pockets"),
-        ("B09NQT9VXR", "Erin Condren Hardbound Journal for Personal Records"),
-        ("1413330045", "Nolo's Guide: How to Win Your Personal Injury Claim (Book)"),
+        ("1413330045", "How to Win Your Personal Injury Claim by Joseph Matthews (Nolo)"),
         ("B01N7IXNDR", "Pendaflex Portable File Box for Legal Documents"),
-        ("B00L1JXTSK", "Le Legal Document Organizer Accordion File Folder"),
+        ("B09NQT9VXR", "Leuchtturm1917 Hardcover Notebook for Personal Records"),
+        ("B00L1JXTSK", "Smead Accordion Expanding File Folder for Legal Files"),
+        ("B08YKWXNJR", "Fireproof Waterproof Document Bag for Medical and Legal Papers"),
+        ("1413328851", "Nolo's Plain-English Law Dictionary"),
+        ("B08CZL6T9K", "Guided Medical Symptom Journal and Pain Tracker"),
     ],
+    # ── Medicare & Senior Health ──────────────────────────────────────────────
+    # Health monitors, pill organizers, mobility aids, reference books
     "medicare & senior health insurance": [
-        ("B08R14NKBC", "iHealth Track Blood Pressure Monitor"),
-        ("B07RFQPNXS", "Weekly Pill Organizer with AM/PM Compartments"),
-        ("B09B4QDYXP", "Balance Board for Stability Training (Seniors)"),
-        ("B08LGQ6NMR", "AARP Medicare Guide to Your Benefits (Book)"),
+        ("B08R14NKBC", "iHealth Track Wireless Blood Pressure Monitor"),
+        ("B07RFQPNXS", "AUVON Weekly Pill Organizer with AM/PM Compartments"),
+        ("B09B4QDYXP", "Yes4All Wooden Balance Board for Seniors"),
         ("B07VD8G5NL", "Copper Compression Knee Support Sleeve"),
+        ("B083N9JD6Z", "Withings Body+ Smart Scale with BMI and Body Composition"),
+        ("B07W6T9L5J", "MedCenter 31-Day Monthly Pill Organizer"),
+        ("B08LGQ6NMR", "Medicare and You 2024 Official Handbook (Amazon)"),
+        ("B09WGXLZ2D", "OMRON Platinum Blood Pressure Monitor Upper Arm"),
+        ("B076BGJFM4", "Life Alert Style Medical Alert Button for Seniors"),
+        ("B00JCFNO9O", "Vive Folding Cane with Ergonomic Handle"),
     ],
+    # ── Residential Solar & Home Energy ──────────────────────────────────────
+    # Energy monitors, portable power, solar accessories, efficiency tools
     "residential solar & home energy": [
         ("B09ZJ1WVGK", "Emporia Vue 2 Home Energy Monitor"),
         ("B08B4C9R5J", "Jackery Explorer 300 Portable Power Station"),
-        ("B0BVXGN3WK", "Solar Panel Cleaning Brush Kit for Rooftop Panels"),
-        ("B098PPB3TN", "Kill A Watt Electricity Usage Monitor"),
-        ("B07YTL2HFN", "Renogy 100W Flexible Solar Panel for RV and Roof"),
+        ("B0BVXGN3WK", "Solar Panel Cleaning Brush Kit with Extension Handle"),
+        ("B098PPB3TN", "P3 Kill A Watt Electricity Usage Monitor"),
+        ("B07YTL2HFN", "Renogy 100W 12V Flexible Solar Panel"),
+        ("B09MVHVL1G", "Govee WiFi Smart Plug with Energy Monitoring"),
+        ("B08FX9QHLP", "Jackery SolarSaga 100W Solar Panel"),
+        ("B07W8QW9VG", "Lutron Caséta Wireless Smart Dimmer Kit"),
+        ("B07PHBFQXQ", "Emporia Smart Outlet with Energy Monitoring"),
+        ("B088JHR11H", "EG4 Battery Monitor Shunt for Solar Systems"),
     ],
+    # ── Home Insurance Education ──────────────────────────────────────────────
+    # Home safety, documentation, fire/water protection, inventory tools
     "home insurance education": [
-        ("B08N5LNQCV", "Fireproof Document Safe Box for Home Records"),
-        ("B07WDNRQGK", "Kidde 2.5lb ABC Fire Extinguisher"),
-        ("B08KGP3H3M", "Govee WiFi Water Leak Sensor for Home Protection"),
-        ("B0BW2FGQBF", "Home Inventory Organizer Binder with Dividers"),
-        ("B09JQLB8YD", "First Alert Smoke + Carbon Monoxide Detector"),
+        ("B08N5LNQCV", "Honeywell 1104 Fireproof and Waterproof Safe Box"),
+        ("B07WDNRQGK", "Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher"),
+        ("B08KGP3H3M", "Govee WiFi Water Sensor with App Alerts"),
+        ("B07NV9GN3J", "First Alert BRK 3120B Hardwired Smoke and CO Detector"),
+        ("B01F5Z33Y4", "Kantek Portable Filing System and Document Organizer"),
+        ("B07XRSJQK1", "Blink Mini Indoor Security Camera 2-Pack"),
+        ("B09WDMXM2G", "Ring Video Doorbell 4 with Motion Detection"),
+        ("B075WF7WGX", "Kidde Carbon Monoxide and Propane Detector"),
+        ("B07WDTXX6J", "Arlo Pro 4 Wireless Security Camera System"),
+        ("B08YRG5CTQ", "SentrySafe 1200 Fire-Resistant File Cabinet"),
     ],
+    # ── Mortgage & Home Financing ─────────────────────────────────────────────
+    # Home buying books, financial planning, document organization
     "mortgage & home financing": [
-        ("1524763438", "The Book on Rental Property Investing"),
-        ("B0B9PXKXB4", "Home Buyers Checklist and Moving Planner"),
-        ("1119697026", "Mortgages for Dummies"),
-        ("B09VW3KFVK", "Locking File Box for Mortgage and Financial Documents"),
+        ("1524763438", "The Book on Rental Property Investing by Brandon Turner"),
+        ("1119697026", "Mortgages for Dummies by Eric Tyson"),
         ("0812927427", "The Total Money Makeover by Dave Ramsey"),
+        ("B09VW3KFVK", "Locking File Box for Mortgage and Financial Documents"),
+        ("1260116050", "Home Buying Kit for Dummies"),
+        ("0062953796", "Set for Life: Dominate Life, Money, and the American Dream"),
+        ("B0B9PXKXB4", "Home Buyer's Checklist and Moving Planner Notebook"),
+        ("1492368423", "The Millionaire Real Estate Investor by Gary Keller"),
+        ("B07XKVJ4GB", "AmazonBasics Shredder for Sensitive Financial Documents"),
+        ("1119860741", "First-Time Home Buyer: The Complete Playbook"),
     ],
+    # ── Mental Health & Therapy ───────────────────────────────────────────────
+    # CBT workbooks, journals, mindfulness tools, therapy-adjacent books
     "mental health & therapy": [
         ("1572245018", "The Mindfulness and Acceptance Workbook for Anxiety"),
-        ("B09B8LGTDG", "Therapy Journal with CBT Prompts and Mood Tracker"),
-        ("1626258406", "The Body Keeps the Score (Book)"),
-        ("B08FT3BK6S", "Breathing Exercise Tool for Anxiety Relief"),
+        ("1626258406", "The Body Keeps the Score by Bessel van der Kolk"),
         ("1572244275", "DBT Skills Training Handouts and Worksheets"),
+        ("B09B8LGTDG", "Anxiety Relief Journal with CBT Prompts and Mood Tracker"),
+        ("0143133462", "Maybe You Should Talk to Someone by Lori Gottlieb"),
+        ("1572246952", "The Anxiety and Worry Workbook by Clark and Beck"),
+        ("B08FT3BK6S", "Aura Smart Sleep and Meditation Lamp"),
+        ("1626254346", "Get Out of Your Mind and Into Your Life (ACT Workbook)"),
+        ("0062409603", "First, We Make the Beast Beautiful by Sarah Wilson"),
+        ("B09X7TQRQK", "Muse S Meditation and Sleep Headband"),
     ],
+    # ── Pet Health & Vet Advice ───────────────────────────────────────────────
+    # First aid, dental, joint supplements, flea prevention, enrichment
     "pet health & vet advice": [
-        ("B09L3GS3L2", "Pet First Aid Kit for Dogs and Cats"),
-        ("B07FZBKKDQ", "Arm and Hammer Dog Dental Spray"),
-        ("B07RJJ5RCG", "Zesty Paws Hip and Joint Supplement for Dogs"),
+        ("B09L3GS3L2", "Rayco First Aid Kit for Dogs and Cats"),
+        ("B07FZBKKDQ", "Arm & Hammer Dog Dental Spray — No Brush Needed"),
+        ("B07RJJ5RCG", "Zesty Paws Hip and Joint Supplement Chews for Dogs"),
         ("B00XNGNQ58", "FRONTLINE Plus Flea and Tick Treatment for Dogs"),
-        ("B01BMKAGP2", "Thundershirt Anxiety Wrap for Dogs"),
+        ("B01BMKAGP2", "Thundershirt Classic Dog Anxiety Jacket"),
+        ("B08KGQP5TH", "Purina Pro Plan Veterinary Supplements FortiFlora Probiotic"),
+        ("B082PXQXJ1", "Nylabone Power Chew Durable Dog Chew Toys"),
+        ("B07CNDMQ65", "PetSafe Easy Walk No-Pull Dog Harness"),
+        ("B0091MOQVS", "Catit Flower Fountain — Cat Water Fountain"),
+        ("B01LYNYJSC", "Midwest Homes Folding Metal Dog Crate"),
     ],
+    # ── Small Business Finance ────────────────────────────────────────────────
+    # Business books, accounting tools, organization, planning
     "small business finance": [
-        ("1119475347", "Profit First: Transform Your Business from Cash-Eating Monster"),
-        ("B09JQLB8YD", "Business Expense Tracker and Ledger Book"),
-        ("1260455890", "QuickBooks Online for Small Business (Book)"),
+        ("1119475347", "Profit First by Mike Michalowicz"),
         ("1591845572", "The E-Myth Revisited by Michael Gerber"),
-        ("B08MBTZJ7H", "Expandable File Organizer for Business Records"),
+        ("0307465357", "The 4-Hour Work Week by Tim Ferriss"),
+        ("B08MBTZJ7H", "Pendaflex Expandable File Organizer for Business Records"),
+        ("1260455890", "QuickBooks Online: The Complete Guide"),
+        ("B09JQLB8YD", "Adams Business Expense Record Book"),
+        ("1118982428", "Financial Statements: A Step-by-Step Guide"),
+        ("B0BFPD8FG3", "Avery Business Card Binder for Networking"),
+        ("0399562990", "Traction: Get a Grip on Your Business by Gino Wickman"),
+        ("B07XNV8KXN", "AmazonBasics 12-Sheet Cross-Cut Paper Shredder"),
     ],
 }
 # Partial-match aliases so any niche string resolves to a key above
@@ -419,7 +473,7 @@ def get_products_for_niche(niche: str, count: int = 3) -> list:
 
 
 def build_affiliate_url(asin: str) -> str:
-    tag = AMAZON_TRACKING_ID or "injuryvictim-20"
+    tag = AMAZON_TRACKING_ID or "contentportfo-20"
     return f"https://www.amazon.com/dp/{asin}?tag={tag}"
 
 
