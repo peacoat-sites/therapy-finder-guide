@@ -1,0 +1,17 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="site-logo">{{ .Site.Params.logo_text }}</a>
+    <nav class="site-nav">
+      <a href="/">Home</a>
+      {{ range .Site.Taxonomies.categories }}
+        {{ if gt (len .Pages) 3 }}
+        <a href="{{ .Pages.First.Site.BaseURL }}categories/{{ .Pages.First.Params.categories | urlize }}/">
+          {{ .Pages.First.Params.categories }}
+        </a>
+        {{ end }}
+      {{ end }}
+      <a href="/about/">About</a>
+    </nav>
+    <button class="nav-toggle" aria-label="Menu">&#9776;</button>
+  </div>
+</header>

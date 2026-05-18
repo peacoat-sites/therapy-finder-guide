@@ -1,0 +1,42 @@
+baseURL = "https://therapyfinderguide.com/"
+languageCode = "en-us"
+title = "Therapy Finder Guide"
+[pagination]
+  pagerSize = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Practical guides to finding therapists, understanding therapy types, and navigating mental health care."
+  niche = "Mental Health & Therapy"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "SLOT_THER_HEADER"
+  adsense_slot_incontent = "SLOT_THER_INCONTENT"
+  adsense_slot_sidebar = "SLOT_THER_SIDEBAR"
+  image_query = "therapy mental health counseling wellness calm"
+  author = "Therapy Finder Guide Editorial Team"
+  logo_text = "Therapy Finder Guide"
+  tagline = "Find the right therapy for you — mental health resources without the jargon"
+  primary_color = "#4a235a"
+  cloudflare_analytics = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:slug/"

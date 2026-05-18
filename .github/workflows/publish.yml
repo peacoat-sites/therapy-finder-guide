@@ -1,0 +1,61 @@
+name: Publish Articles
+
+# PUBLISHING CADENCE:
+#   Phase 1 (months 1-2):  2 articles/day  -- new domain trust building
+#   Phase 2 (months 3-6):  3 articles/day  -- gaining traction, scale winners
+#   Phase 3 (month 6+):    5 articles/day  -- established authority, full scale
+#
+# CF Pages builds automatically on every git push via GitHub integration.
+# Do NOT add a build-and-deploy job here -- it causes token permission errors
+# and is completely redundant (CF Pages handles it natively).
+#
+# CF Pages free tier: 500 builds/month. At 1 push/day = 30 builds/month per site.
+# 8 sites x 30 = 240/month -- well within free tier.
+
+on:
+  schedule:
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Articles to publish (Phase 1=2, Phase 2=3, Phase 3=5)'
+        required: false
+        default: '2'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PIPELINE_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests PyNaCl
+
+      - name: Publish articles
+        run: |
+          python pipeline/publish.py \
+            --site ${{ vars.SITE_NAME }} \
+            --count ${{ github.event.inputs.count || '2' }}
+        env:
+          ANTHROPIC_API_KEY:        ${{ secrets.ANTHROPIC_API_KEY }}
+          PIPELINE_TOKEN:           ${{ secrets.PIPELINE_TOKEN }}
+          GITHUB_TOKEN:             ${{ secrets.PIPELINE_TOKEN }}
+          PORTFOLIO_ORG:            ${{ vars.PORTFOLIO_ORG }}
+          GITHUB_ORG:               peacoat-sites
+          PEXELS_API_KEY:           ${{ secrets.PEXELS_API_KEY }}
+          FLUX_API_KEY:             ${{ secrets.FLUX_API_KEY }}
+          NAMECHEAP_USERNAME:       ${{ secrets.NAMECHEAP_USERNAME }}
+          NAMECHEAP_API_KEY:        ${{ secrets.NAMECHEAP_API_KEY }}
+          ANTHROPIC_MONTHLY_BUDGET: ${{ secrets.ANTHROPIC_MONTHLY_BUDGET }}
+          GOOGLE_ACCESS_TOKEN:      ${{ secrets.GOOGLE_ACCESS_TOKEN }}
+          SITES_CONFIG:             ${{ secrets.SITES_CONFIG }}
+          AMAZON_TRACKING_ID:       ${{ secrets.AMAZON_TRACKING_ID }}
