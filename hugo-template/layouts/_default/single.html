@@ -1,0 +1,153 @@
+{{ define "main" }}
+<div class="post-wrap">
+  <article class="post-main">
+
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb">
+      <a href="/">Home</a>
+      {{ if .Params.categories }}
+      <span>›</span>
+      <a href="/categories/{{ index .Params.categories 0 | urlize }}/">{{ index .Params.categories 0 }}</a>
+      {{ end }}
+      <span>›</span>
+      <span>{{ .Title | truncate 40 }}</span>
+    </nav>
+
+    <!-- Header -->
+    <header class="post-header">
+      {{ if .Params.categories }}
+      <span class="post-cat">{{ index .Params.categories 0 }}</span>
+      {{ end }}
+      <h1 class="post-title">{{ .Title }}</h1>
+      <div class="post-meta">
+        <span>By {{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}</span>
+        <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
+        <span>{{ .ReadingTime }} min read</span>
+      </div>
+    </header>
+
+    <!-- Featured Image -->
+    {{ if .Params.image }}
+    <div class="post-featured-image">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager">
+    </div>
+    {{ end }}
+
+    <!-- Top Ad -->
+    <div class="ad-container">
+      <ins class="adsbygoogle"
+        style="display:block;text-align:center"
+        data-ad-client="{{ .Site.Params.adsense_id }}"
+        data-ad-slot="{{ .Site.Params.adsense_slot_header }}"
+        data-ad-format="fluid"
+        data-ad-layout="in-article"
+        data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
+    <!-- Content -->
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    <!-- In-content Ad (injected mid-article by pipeline) -->
+    <div class="ad-container">
+      <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="{{ .Site.Params.adsense_id }}"
+        data-ad-slot="{{ .Site.Params.adsense_slot_incontent }}"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
+    <!-- Tags -->
+    {{ if .Params.tags }}
+    <div class="post-tags">
+      {{ range .Params.tags }}
+      <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Author Bio -->
+    {{ if .Params.author_bio }}
+    <div class="author-box">
+      <div class="author-box-name">{{ with .Params.author }}{{ . }}{{ end }}</div>
+      <p class="author-box-bio">{{ .Params.author_bio }}</p>
+    </div>
+    {{ end }}
+
+    <!-- YouTube Video Embed (standard 16:9, autoplay muted, most recent video) -->
+    {{ if .Site.Data.youtube }}
+    {{ $latest := index .Site.Data.youtube 0 }}
+    <div class="youtube-video-wrap">
+      <p class="youtube-video-label">Watch: Quick Summary</p>
+      <div class="youtube-video-frame">
+        <iframe
+          src="https://www.youtube.com/embed/{{ $latest.video_id }}?autoplay=1&mute=1&rel=0&modestbranding=1&playsinline=1"
+          frameborder="0"
+          allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+    {{ end }}
+
+  </article>
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="widget">
+      <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="{{ .Site.Params.adsense_id }}"
+        data-ad-slot="{{ .Site.Params.adsense_slot_sidebar }}"
+        data-ad-format="rectangle"
+        data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
+    <div class="widget">
+      <div class="widget-title">Related Articles</div>
+      <ul class="widget-list">
+        {{ $related := .Site.RegularPages.Related . | first 6 }}
+        {{ range $related }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <div class="widget">
+      <div class="widget-title">Browse Categories</div>
+      <ul class="widget-list">
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        <li><a href="/categories/{{ $name | urlize }}/">{{ $name }} ({{ len $taxonomy }})</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </aside>
+</div>
+
+<!-- Related Posts -->
+<section class="related-posts">
+  <div class="section-label">More Articles</div>
+  <div class="articles-grid">
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ range $related }}
+    <a href="{{ .Permalink }}" class="article-card">
+      {{ if .Params.image }}
+      <div class="article-card-image">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+      </div>
+      {{ end }}
+      <div class="article-card-body">
+        <h3 class="article-title">{{ .Title }}</h3>
+        <p class="article-excerpt">{{ .Summary | plainify | truncate 100 }}</p>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}
