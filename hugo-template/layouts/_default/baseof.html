@@ -14,32 +14,44 @@
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   {{ if .Params.image }}<meta property="og:image" content="{{ .Params.image }}">{{ end }}
 
-  <!-- Sitemap -->
+  <!-- Sitemap / RSS -->
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
   <link rel="alternate" type="application/rss+xml" href="/index.xml">
 
-  <!-- Fonts -->
+  <!-- Fonts: Authority theme — Playfair + Inter -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,800;1,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Per-site hero gradient colors (set in config.toml [params]) -->
+  <style>
+    :root {
+      --hero-c1: {{ .Site.Params.hero_color_1 | default "#0f172a" }};
+      --hero-c2: {{ .Site.Params.hero_color_2 | default "#1e3a8a" }};
+      --hero-c3: {{ .Site.Params.hero_color_3 | default "#c9a84c" }};
+      --hero-c4: {{ .Site.Params.hero_color_4 | default "#1a2744" }};
+      --site-accent: {{ .Site.Params.primary_color | default "#c9a84c" }};
+    }
+  </style>
 
   <!-- AdSense -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsense_id }}" crossorigin="anonymous"></script>
-
-  <!-- Affiliate network verification tags (site-specific, set in config.toml params) -->
-  {{ if .Site.Params.impact_verification }}
-  <meta name="impact-site-verification" content="{{ .Site.Params.impact_verification }}">
-  {{ end }}
 
   <!-- Cloudflare Analytics -->
   {{ if .Site.Params.cloudflare_analytics }}
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ .Site.Params.cloudflare_analytics }}"}'></script>
   {{ end }}
 
+  <!-- Affiliate network verification tags -->
+  {{ if .Site.Params.impact_verification }}
+  <meta name="impact-site-verification" content="{{ .Site.Params.impact_verification }}">
+  {{ end }}
+
   <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
 
+  {{ partial "trust-ribbon.html" . }}
   {{ partial "header.html" . }}
 
   <main>

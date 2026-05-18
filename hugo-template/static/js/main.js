@@ -1,3 +1,73 @@
+// ── ANIMATED STAT COUNTERS ─────────────────────────────────────────────────────
+(function statCounters() {
+  var els = document.querySelectorAll('.stat-counter');
+  if (!els.length || !('IntersectionObserver' in window)) {
+    // Fallback: just set the target value immediately
+    els.forEach(function(el) { el.textContent = parseInt(el.dataset.count||0).toLocaleString(); });
+    return;
+  }
+  var obs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (!entry.isIntersecting) return;
+      obs.unobserve(entry.target);
+      var el = entry.target;
+      var target = parseInt(el.dataset.count || 0, 10);
+      var duration = 1600;
+      var start = performance.now();
+      var isPct = el.classList.contains('stat-pct');
+      function tick(now) {
+        var t = Math.min((now - start) / duration, 1);
+        var eased = 1 - Math.pow(1 - t, 3);
+        var val = Math.round(eased * target);
+        el.textContent = val.toLocaleString() + (isPct ? '%' : '');
+        if (t < 1) requestAnimationFrame(tick);
+      }
+      requestAnimationFrame(tick);
+    });
+  }, { threshold: 0.6 });
+  els.forEach(function(el) { obs.observe(el); });
+})();
+
+// ── TOC SCROLL TRACKER ─────────────────────────────────────────────────────────
+(function tocTracker() {
+  var toc  = document.getElementById('article-toc');
+  var prog = document.getElementById('toc-progress');
+  if (!toc) return;
+
+  var tocLinks = toc.querySelectorAll('a');
+  var headings = document.querySelectorAll('.post-content h2[id], .post-content h3[id]');
+  if (!headings.length || !tocLinks.length) return;
+
+  // Highlight active heading
+  var headingObs = new IntersectionObserver(function(entries) {
+    var topmost = null;
+    entries.forEach(function(e) { if (e.isIntersecting) topmost = e.target; });
+    if (!topmost) return;
+    var id = topmost.id;
+    tocLinks.forEach(function(a) {
+      a.classList.toggle('toc-active', a.getAttribute('href') === '#' + id);
+    });
+    // Scroll active link into view within TOC panel
+    var active = toc.querySelector('a.toc-active');
+    if (active) active.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  }, { rootMargin: '-5% 0px -75% 0px' });
+  headings.forEach(function(h) { headingObs.observe(h); });
+
+  // Reading progress bar
+  if (prog) {
+    var content = document.querySelector('.post-content');
+    if (content) {
+      window.addEventListener('scroll', function() {
+        var rect = content.getBoundingClientRect();
+        var total = content.offsetHeight - window.innerHeight;
+        var scrolled = Math.max(0, -rect.top);
+        var pct = total > 0 ? Math.min(100, (scrolled / total) * 100) : 0;
+        prog.style.width = pct.toFixed(1) + '%';
+      }, { passive: true });
+    }
+  }
+})();
+
 // ── COOKIE CONSENT BANNER ──────────────────────────────────────────────────────
 (function cookieBanner() {
   var CONSENT_KEY = 'cookie_consent';
