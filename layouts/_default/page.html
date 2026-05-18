@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="page-wrap">
+  <article class="page-main">
+    <header class="page-header">
+      <h1 class="page-title">{{ .Title }}</h1>
+      {{ if .Params.subtitle }}<p class="page-subtitle">{{ .Params.subtitle }}</p>{{ end }}
+    </header>
+    <div class="post-content page-content">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
+{{ end }}
