@@ -1,6 +1,6 @@
-name: Publish YouTube Short
+name: Publish YouTube Videos
 
-# Publishes one YouTube Short per run.
+# Publishes one YouTube Short (9:16) + one Standard video (16:9) per run.
 # Schedule: Mon / Wed / Fri at 11:00 UTC (after articles go live at 09:17 UTC)
 # Each site repo has ELEVENLABS_VOICE_ID and YOUTUBE_CHANNEL_ID set as GitHub variables.
 
@@ -18,7 +18,7 @@ on:
 jobs:
   video:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
 
     steps:
       - name: Checkout
@@ -35,7 +35,7 @@ jobs:
       - name: Install dependencies
         run: pip install anthropic requests
 
-      - name: Generate and publish Short
+      - name: Generate and publish videos
         run: python pipeline/video_single.py ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }}
         env:
           # ── AI + Media ──────────────────────────────────────────────
