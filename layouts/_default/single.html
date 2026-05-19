@@ -121,7 +121,7 @@
     <div class="widget">
       <div class="widget-title">Related Articles</div>
       <ul class="widget-list">
-        {{ $related := .Site.RegularPages.Related . | first 6 }}
+        {{ $related := (where .Site.RegularPages "Section" "posts").Related . | first 6 }}
         {{ range $related }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
@@ -143,7 +143,7 @@
 <section class="related-posts">
   <div class="section-label">More Articles</div>
   <div class="articles-grid">
-    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ $related := (where .Site.RegularPages "Section" "posts").Related . | first 3 }}
     {{ range $related }}
     <a href="{{ .Permalink }}" class="article-card">
       {{ if .Params.image }}

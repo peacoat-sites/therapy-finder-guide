@@ -7,7 +7,7 @@
     <span class="trust-sep">·</span>
     <span class="trust-item">Updated monthly</span>
     <span class="trust-sep">·</span>
-    <span class="trust-item">{{ len .Site.RegularPages }} articles published</span>
+    <span class="trust-item">{{ len (where .Site.RegularPages "Section" "posts") }} articles published</span>
     {{ with .Site.Params.trust_extra }}
     <span class="trust-sep">·</span>
     <span class="trust-item">{{ . }}</span>

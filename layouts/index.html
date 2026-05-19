@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-{{/* Partition articles */}}
-{{ $pages    := .Site.RegularPages.ByDate.Reverse }}
+{{/* Partition articles — exclude non-post pages (search, about, privacy, etc.) */}}
+{{ $pages    := (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
 {{ $featured := index $pages 0 }}
 {{ $second   := index $pages 1 }}
 {{ $rest     := after 2 $pages }}
@@ -45,7 +45,7 @@
 <div class="stats-strip">
   <div class="stats-strip-inner">
     <div class="stat-item">
-      <span class="stat-counter" data-count="{{ len .Site.RegularPages }}">—</span>
+      <span class="stat-counter" data-count="{{ len (where .Site.RegularPages "Section" "posts") }}">—</span>
       <span class="stat-label">Articles Published</span>
     </div>
     <div class="stat-sep"></div>
@@ -141,7 +141,7 @@
         <div class="widget">
           <div class="widget-title">Recent Articles</div>
           <ul class="widget-list">
-            {{ range first 6 .Site.RegularPages.ByDate.Reverse }}
+            {{ range first 6 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
             <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
