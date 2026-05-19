@@ -18,3 +18,22 @@
     <button class="nav-toggle" aria-label="Menu">&#9776;</button>
   </div>
 </header>
+
+{{/* ── Category Nav Bar ─────────────────────────────────────────── */}}
+{{  := .Site.Taxonomies.categories }}
+{{ if  }}
+<nav class="cat-nav" aria-label="Browse by topic">
+  <div class="cat-nav-inner">
+    <a href="/posts/"
+       class="cat-nav-item{{ if or .IsHome (eq .Kind "section") }} cat-nav-active{{ end }}">
+      All
+    </a>
+    {{ range ,  :=  }}
+    <a href="/categories/{{  | urlize }}/"
+       class="cat-nav-item{{ if and (eq $.Kind "taxonomy") (eq $.Data.Term ) }} cat-nav-active{{ end }}">
+      {{  | title }}
+    </a>
+    {{ end }}
+  </div>
+</nav>
+{{ end }}
