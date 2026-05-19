@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Single-site YouTube Shorts Generator — runs inside a site repo via GitHub Actions.
+Single-site YouTube video generator — runs inside a site repo via GitHub Actions.
 
 Reads the latest article from content/posts/ (local checkout),
-generates a 60-second Short via Claude + ElevenLabs + Shotstack,
-then uploads to YouTube and commits data/youtube.json back to the repo.
+generates a 60-second script via Claude + ElevenLabs + Shotstack,
+renders BOTH a 9:16 Short AND a 16:9 Standard video,
+then uploads both to YouTube and commits data/youtube.json back to the repo.
 
 Called by .github/workflows/video.yml in each site repo.
 All config comes from environment variables (GitHub Actions secrets/vars).
@@ -32,6 +33,7 @@ SITE_NICHE           = os.environ.get("SITE_NICHE", "")
 SITE_CHANNEL_NAME    = os.environ.get("SITE_CHANNEL_NAME", "") or " ".join(w.capitalize() for w in SITE_SLUG.split("-"))
 
 SHOTSTACK_BASE = "https://api.shotstack.io/v1"
+MUSIC_URL      = "https://cdn.pixabay.com/audio/2022/08/02/audio_884fe92c21.mp3"
 
 DRY_RUN = "--dry-run" in sys.argv or os.environ.get("DRY_RUN", "").lower() == "true"
 
@@ -41,7 +43,7 @@ DRY_RUN = "--dry-run" in sys.argv or os.environ.get("DRY_RUN", "").lower() == "t
 def read_latest_article() -> dict | None:
     posts_dir = Path("content/posts")
     if not posts_dir.exists():
-        print(f"  [WARN] content/posts/ not found")
+        print("  [WARN] content/posts/ not found")
         return None
 
     md_files = sorted(
@@ -80,31 +82,42 @@ def generate_script(article: dict) -> dict:
     client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
 
     system = (
-        f"You are writing a 60-second YouTube Shorts script for a {SITE_NICHE} channel. "
-        "The content must be concise, punchy, and scroll-stopping. "
-        "Do NOT include any calls to action, website URLs, channel names, or promotional language. "
-        "This is purely educational/informational content optimized for maximum views and watch time. "
+        f"You are writing a punchy, high-retention 60-second YouTube Shorts script for a {SITE_NICHE} channel. "
+        "Structure: Hook (pattern interrupt, loss framing or alarming stat) -> Problem -> 3 Insights -> Resolution. "
+        "No filler. Every sentence advances the argument. Use authority language. "
+        "Do NOT include calls to action, website URLs, channel names, or 'follow for more' language. "
         "Respond ONLY with valid JSON — no markdown fences, no commentary."
     )
     user = (
-        f"Write a YouTube Shorts script based on this article:\n\n"
+        f"Write a 60-second YouTube Shorts script based on this article:\n\n"
         f"Title: {article['title']}\n\n"
-        f"Article (first 1200 chars):\n{article['body'][:1200]}\n\n"
-        "Return JSON with these exact keys:\n"
-        '{\n'
-        '  "hook": "2-sentence hook that grabs attention in 3 seconds",\n'
-        '  "points": ["tip 1 (~15 words)", "tip 2 (~15 words)", "tip 3 (~15 words)"],\n'
-        '  "title": "YouTube title under 80 chars with a number or power word",\n'
-        '  "description": "2-3 sentence educational description under 400 chars — no website links or CTAs",\n'
+        f"Article (first 1500 chars):\n{article['body'][:1500]}\n\n"
+        "Return JSON with EXACTLY these keys:\n"
+        "{\n"
+        '  "hook": "1-2 sentences, pattern-interrupt — open with a loss stat or alarming fact (under 25 words)",\n'
+        '  "problem": "1 sentence naming the specific pain or mistake (under 20 words)",\n'
+        '  "points": [\n'
+        '    "First insight with a concrete number or comparison (under 30 words)",\n'
+        '    "Second insight with a different angle (under 30 words)",\n'
+        '    "Third actionable insight — the thing they can do today (under 25 words)"\n'
+        "  ],\n"
+        '  "resolution": "1-2 sentences calling back to the hook, stating the outcome (under 20 words)",\n'
+        '  "callout_cards": [\n'
+        '    "Short bold stat or key phrase for on-screen text (under 8 words)",\n'
+        '    "Second key insight as a bold on-screen callout (under 8 words)",\n'
+        '    "Third callout — most actionable phrase (under 8 words)"\n'
+        "  ],\n"
+        '  "title": "YouTube title under 80 chars — number or power word, curiosity gap",\n'
+        '  "description": "2-3 educational sentences under 400 chars — no website links or CTAs",\n'
         '  "tags": ["tag1","tag2","tag3","tag4","tag5","tag6","tag7","tag8","tag9","tag10"]\n'
         "}\n\n"
-        "Keep each point to 1-2 short sentences. Total spoken word count must be under 150 words. "
-        "No calls to action, no website references, no channel plugs."
+        "Total spoken word count (hook + problem + all points + resolution) must be 130-155 words. "
+        "No calls to action, no website references, no subscribe prompts."
     )
 
     msg = client.messages.create(
         model="claude-opus-4-5",
-        max_tokens=800,
+        max_tokens=1000,
         system=system,
         messages=[{"role": "user", "content": user}]
     )
@@ -112,19 +125,31 @@ def generate_script(article: dict) -> dict:
     raw = re.sub(r'^```(?:json)?\s*', '', raw).rstrip('`').strip()
 
     try:
-        return json.loads(raw)
+        data = json.loads(raw)
     except json.JSONDecodeError:
         m = re.search(r'\{.*\}', raw, re.DOTALL)
         if m:
-            return json.loads(m.group())
-        raise ValueError(f"Could not parse Claude response: {raw[:300]}")
+            data = json.loads(m.group())
+        else:
+            raise ValueError(f"Could not parse Claude response: {raw[:300]}")
+
+    # Ensure all keys exist
+    data.setdefault("callout_cards", [])
+    data.setdefault("problem", "")
+    data.setdefault("resolution", "")
+    return data
 
 
 # ── Step 3: Synthesize audio ──────────────────────────────────────────────────
 
 def synthesize_audio(script: dict) -> tuple[bytes, list]:
     """Returns (mp3_bytes, word_timestamps) using ElevenLabs with-timestamps endpoint."""
-    parts = [script["hook"]] + script["points"]
+    parts = [script["hook"]]
+    if script.get("problem"):
+        parts.append(script["problem"])
+    parts.extend(script.get("points", []))
+    if script.get("resolution"):
+        parts.append(script["resolution"])
     full_text = "  ".join(parts)
 
     url = f"https://api.elevenlabs.io/v1/text-to-speech/{EL_VOICE_ID}/with-timestamps"
@@ -144,16 +169,15 @@ def synthesize_audio(script: dict) -> tuple[bytes, list]:
     import base64
     audio_bytes = base64.b64decode(data["audio_base64"])
     alignment = data.get("alignment", {})
-    chars = alignment.get("characters", [])
+    chars      = alignment.get("characters", [])
     char_starts = alignment.get("character_start_times_seconds", [])
-    char_ends = alignment.get("character_end_times_seconds", [])
+    char_ends   = alignment.get("character_end_times_seconds", [])
     words = []
     if chars:
-        # Reconstruct word timestamps from character alignment
         current_word = ""
         word_start = None
         for ch, ts, te in zip(chars, char_starts, char_ends):
-            if ch == " " or ch == "\n":
+            if ch in (" ", "\n"):
                 if current_word:
                     words.append({"word": current_word, "start": word_start, "end": te})
                     current_word = ""
@@ -209,9 +233,12 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
 # ── Step 5: Upload file ───────────────────────────────────────────────────────
 
 def upload_file(data: bytes, filename: str, mime: str) -> str:
-    r = requests.post("https://catbox.moe/user/api.php",
+    r = requests.post(
+        "https://catbox.moe/user/api.php",
         data={"reqtype": "fileupload"},
-        files={"fileToUpload": (filename, data, mime)}, timeout=60)
+        files={"fileToUpload": (filename, data, mime)},
+        timeout=60,
+    )
     if r.status_code == 200 and r.text.startswith("https://"):
         return r.text.strip()
     raise RuntimeError(f"catbox upload failed: {r.text[:100]}")
@@ -224,92 +251,101 @@ def upload_audio(audio_bytes: bytes) -> str:
 # ── Caption segmentation ──────────────────────────────────────────────────────
 
 def segment_captions(words: list, audio_duration: float) -> list:
-    """
-    Segment word-timestamp list into caption clips.
-    Max 6 words OR 3.0s per segment. Minimum 1.2s enforced.
-    Returns list of {"text": str, "start": float, "end": float}.
-    """
+    """Max 6 words OR 3.0s per segment. Minimum 1.2s enforced."""
     segments = []
     if not words:
         return segments
-
     current_words = []
     seg_start = words[0]["start"]
-
     for i, w in enumerate(words):
         current_words.append(w["word"])
         seg_duration = w["end"] - seg_start
         is_last = (i == len(words) - 1)
-        hit_max_words = len(current_words) >= 6
-        hit_max_time = seg_duration >= 3.0
-
-        if hit_max_words or hit_max_time or is_last:
+        if len(current_words) >= 6 or seg_duration >= 3.0 or is_last:
             seg_end = w["end"]
-            # Enforce minimum duration
             if seg_end - seg_start < 1.2:
-                # Try to extend to next word if available
                 if not is_last:
                     continue
                 seg_end = max(seg_start + 1.2, seg_end)
-            segments.append({
-                "text": " ".join(current_words),
-                "start": seg_start,
-                "end": seg_end,
-            })
+            segments.append({"text": " ".join(current_words), "start": seg_start, "end": seg_end})
             current_words = []
             if not is_last:
                 seg_start = words[i + 1]["start"]
-
-    # Flush: ensure last segment ends at audio_duration
     if segments:
         segments[-1]["end"] = audio_duration
-
     return segments
 
 
-# ── Step 6 & 7: Shotstack render ─────────────────────────────────────────────
-
-MUSIC_URL = "https://cdn.pixabay.com/audio/2022/08/02/audio_884fe92c21.mp3"
-
+# ── Steps 6-7: Shotstack render ───────────────────────────────────────────────
 
 def build_and_render(script: dict, clips: list, audio_url: str,
                      words: list, audio_duration: float,
                      is_shorts: bool = True) -> str:
-    video_clips = []
-    clip_duration = audio_duration / max(len(clips), 1)
+    """Build Shotstack payload, submit render, poll until done. Returns video URL."""
+    label      = "Shorts 9:16" if is_shorts else "Standard 16:9"
+    n_clips    = max(len(clips), 1)
+    clip_dur   = (audio_duration + 1.0) / n_clips
+    cap_width  = 900  if is_shorts else 1600
+    card_width = 900  if is_shorts else 1400
+    font_size  = "46px" if is_shorts else "48px"
+    card_y     = 0.15 if is_shorts else 0.10
 
+    # B-roll clips
+    video_clips = []
     for i, url in enumerate(clips):
-        start = i * clip_duration
+        start  = max(0.0, i * clip_dur - (0.4 if i > 0 else 0))
+        length = clip_dur + (0.4 if i < n_clips - 1 else 1.0)
         video_clips.append({
             "asset": {"type": "video", "src": url, "volume": 0},
-            "start": start, "length": clip_duration, "fit": "cover",
+            "start": start, "length": length, "fit": "cover",
         })
 
-    # Caption clips (track[1]) — html asset, word-wrapped
-    font_size = "46px" if is_shorts else "52px"
+    # Caption clips
     caption_clips = []
-    segments = segment_captions(words, audio_duration)
-    for seg in segments:
+    for seg in segment_captions(words, audio_duration):
         seg_len = max(seg["end"] - seg["start"], 0.1)
         caption_clips.append({
             "asset": {
                 "type": "html",
                 "html": (
-                    f'<p style="font-family:Arial,sans-serif;font-size:{font_size};font-weight:900;'
-                    f'color:#FFFFFF;text-align:center;padding:16px 20px;line-height:1.3;'
+                    f'<p style="font-family:Montserrat,Arial,sans-serif;font-size:{font_size};font-weight:900;'
+                    f'color:#FFFFFF;text-align:center;padding:12px 20px;line-height:1.25;'
                     f'word-wrap:break-word;white-space:normal;'
-                    f'text-shadow:2px 2px 8px rgba(0,0,0,0.9),0px 0px 20px rgba(0,0,0,0.7);">'
+                    f'-webkit-text-stroke:1.5px rgba(0,0,0,0.8);'
+                    f'text-shadow:2px 2px 6px rgba(0,0,0,1),0px 0px 18px rgba(0,0,0,0.85);">'
                     f'{seg["text"]}</p>'
                 ),
-                "width": 900, "height": 200, "css": "p{margin:0}",
+                "width": cap_width, "height": 200, "css": "p{margin:0}",
             },
-            "start": seg["start"],
-            "length": seg_len,
-            "position": "bottom",
-            "offset": {"y": 0.12},
+            "start": seg["start"], "length": seg_len,
+            "position": "bottom", "offset": {"y": 0.10},
+            "transition": {"in": "fadeFast", "out": "fadeFast"},
         })
 
-    # Watermark clip (track[0] — top layer), 65% opacity, serif font distinct from captions
+    # Callout cards
+    card_timings  = [0.20, 0.50, 0.75]
+    card_duration = 2.8
+    callout_clips = []
+    for idx, card_text in enumerate(script.get("callout_cards", [])[:3]):
+        card_start = max(3.0, min(audio_duration * card_timings[idx], audio_duration - card_duration - 2.0))
+        callout_clips.append({
+            "asset": {
+                "type": "html",
+                "html": (
+                    f'<div style="background:rgba(0,0,0,0.72);border-radius:10px;padding:14px 24px;display:inline-block;">'
+                    f'<p style="font-family:Montserrat,Arial,sans-serif;font-size:38px;font-weight:800;'
+                    f'color:#FFE566;text-align:center;margin:0;line-height:1.2;'
+                    f'text-shadow:1px 1px 4px rgba(0,0,0,0.9);text-transform:uppercase;letter-spacing:0.04em;">'
+                    f'{card_text}</p></div>'
+                ),
+                "width": card_width, "height": 130, "css": "div{margin:0 auto}",
+            },
+            "start": card_start, "length": card_duration,
+            "position": "center", "offset": {"y": card_y},
+            "transition": {"in": "slideUp", "out": "fadeFast"},
+        })
+
+    # Watermark
     watermark_clips = [{
         "asset": {
             "type": "html",
@@ -321,37 +357,24 @@ def build_and_render(script: dict, clips: list, audio_url: str,
             ),
             "width": 520, "height": 75,
         },
-        "start": 0,
-        "length": audio_duration + 1.0,
-        "position": "topLeft",
-        "offset": {"x": 0.01, "y": -0.01},
+        "start": 0, "length": audio_duration + 1.0,
+        "position": "topLeft", "offset": {"x": 0.01, "y": -0.01},
     }]
 
-    # Music clip (track[3])
-    music_clip = {
-        "asset": {"type": "audio", "src": MUSIC_URL, "volume": 0.07},
-        "start": 0,
-        "length": audio_duration + 1.0,
-    }
-
     if is_shorts:
-        output = {
-            "format": "mp4", "resolution": "hd", "aspectRatio": "9:16",
-            "fps": 30, "size": {"width": 1080, "height": 1920},
-        }
+        output = {"format": "mp4", "resolution": "hd", "aspectRatio": "9:16",
+                  "fps": 30, "size": {"width": 1080, "height": 1920}}
     else:
-        output = {
-            "format": "mp4", "resolution": "hd", "aspectRatio": "16:9",
-            "fps": 30, "size": {"width": 1920, "height": 1080},
-        }
+        output = {"format": "mp4", "resolution": "hd", "aspectRatio": "16:9",
+                  "fps": 30, "size": {"width": 1920, "height": 1080}}
 
     payload = {
         "timeline": {
             "tracks": [
-                {"clips": watermark_clips},   # track 0 — TOP
-                {"clips": caption_clips},      # track 1
-                {"clips": video_clips},        # track 2
-                {"clips": [music_clip]},       # track 3
+                {"clips": watermark_clips},
+                {"clips": callout_clips},
+                {"clips": caption_clips},
+                {"clips": video_clips},
             ],
             "soundtrack": {"src": audio_url, "effect": "fadeOut", "volume": 1.0},
             "background": "#000000",
@@ -366,33 +389,36 @@ def build_and_render(script: dict, clips: list, audio_url: str,
     )
     data = r.json()
     if not data.get("success"):
-        raise RuntimeError(f"Shotstack submit: {data}")
+        raise RuntimeError(f"Shotstack submit [{label}]: {data}")
     render_id = data["response"]["id"]
-    print(f"  Render ID: {render_id}")
+    print(f"  [{label}] Render ID: {render_id}")
 
-    # Poll
-    for _ in range(30):  # up to 5 min
+    # Poll up to 15 min (90 × 10s)
+    for i in range(90):
         time.sleep(10)
-        r2 = requests.get(f"{SHOTSTACK_BASE}/render/{render_id}", headers={"x-api-key": SHOTSTACK_KEY}, timeout=15)
-        resp = r2.json().get("response", {})
+        r2 = requests.get(
+            f"{SHOTSTACK_BASE}/render/{render_id}",
+            headers={"x-api-key": SHOTSTACK_KEY}, timeout=15,
+        )
+        resp   = r2.json().get("response", {})
         status = resp.get("status")
-        print(f"  Status: {status}")
+        print(f"  [{label}] status={status} ({(i+1)*10}s)")
         if status == "done":
             return resp["url"]
         elif status in ("failed", "error"):
-            raise RuntimeError(f"Shotstack failed: {resp.get('error')}")
+            raise RuntimeError(f"Shotstack [{label}] failed: {resp.get('error')}")
 
-    raise TimeoutError("Shotstack timed out")
+    raise TimeoutError(f"Shotstack [{label}] timed out after 15 min")
 
 
 # ── Step 8: YouTube upload ────────────────────────────────────────────────────
 
 def get_access_token() -> str:
     r = requests.post("https://oauth2.googleapis.com/token", data={
-        "client_id": GOOGLE_CLIENT_ID,
+        "client_id":     GOOGLE_CLIENT_ID,
         "client_secret": GOOGLE_CLIENT_SECRET,
         "refresh_token": GOOGLE_REFRESH_TOKEN,
-        "grant_type": "refresh_token",
+        "grant_type":    "refresh_token",
     })
     d = r.json()
     if "access_token" not in d:
@@ -400,69 +426,92 @@ def get_access_token() -> str:
     return d["access_token"]
 
 
-def upload_to_youtube(video_bytes: bytes, script: dict, article: dict) -> str:
+def upload_to_youtube(video_bytes: bytes, script: dict, article: dict, is_shorts: bool = True) -> str:
+    """Upload video to YouTube. Returns video ID. Retries 3× with backoff."""
     token = get_access_token()
     title = script["title"][:100]
-    desc = (
-        script["description"]
-        + "\n\n#Shorts"
-    )[:5000]
-    tags = script["tags"][:15] + ["Shorts", SITE_NICHE]
+    label = "Shorts" if is_shorts else "Standard"
+
+    if is_shorts:
+        desc = (script["description"] + "\n\n#Shorts #" +
+                " #".join(t.replace(" ", "") for t in script["tags"][:5]))[:5000]
+        tags = script["tags"][:15] + ["Shorts", SITE_NICHE]
+    else:
+        desc = script["description"][:5000]
+        tags = script["tags"][:15] + [SITE_NICHE]
 
     meta = {
-        "snippet": {"title": title, "description": desc, "tags": tags, "categoryId": "27"},
+        "snippet": {"title": title, "description": desc, "tags": tags,
+                    "categoryId": "27", "defaultLanguage": "en"},
         "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False},
     }
 
-    init_r = requests.post(
-        "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
-        headers={
-            "Authorization": f"Bearer {token}",
-            "Content-Type": "application/json",
-            "X-Upload-Content-Type": "video/mp4",
-            "X-Upload-Content-Length": str(len(video_bytes)),
-        },
-        json=meta, timeout=30,
-    )
-    if init_r.status_code not in (200, 201):
-        raise RuntimeError(f"YouTube init {init_r.status_code}: {init_r.text[:200]}")
+    for attempt in range(1, 4):
+        init_r = requests.post(
+            "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+            headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json",
+                "X-Upload-Content-Type": "video/mp4",
+                "X-Upload-Content-Length": str(len(video_bytes)),
+            },
+            json=meta, timeout=30,
+        )
+        if init_r.status_code not in (200, 201):
+            if attempt < 3:
+                print(f"  [YT-{label}] Init attempt {attempt} failed ({init_r.status_code}) — retrying...")
+                time.sleep(15 * attempt)
+                token = get_access_token()
+                continue
+            raise RuntimeError(f"YouTube init {init_r.status_code}: {init_r.text[:200]}")
 
-    upload_url = init_r.headers["Location"]
-    up_r = requests.put(
-        upload_url,
-        headers={"Authorization": f"Bearer {token}", "Content-Type": "video/mp4"},
-        data=video_bytes, timeout=300,
-    )
-    if up_r.status_code not in (200, 201):
-        raise RuntimeError(f"YouTube upload {up_r.status_code}: {up_r.text[:200]}")
-
-    return up_r.json()["id"]
+        upload_url = init_r.headers["Location"]
+        up_r = requests.put(
+            upload_url,
+            headers={"Authorization": f"Bearer {token}", "Content-Type": "video/mp4",
+                     "Content-Length": str(len(video_bytes))},
+            data=video_bytes, timeout=300,
+        )
+        if up_r.status_code not in (200, 201):
+            if "quotaExceeded" in up_r.text:
+                raise RuntimeError(f"YouTube quota exhausted — resume tomorrow. ({label})")
+            if attempt < 3:
+                print(f"  [YT-{label}] Upload attempt {attempt} failed ({up_r.status_code}) — retrying...")
+                time.sleep(15 * attempt)
+                token = get_access_token()
+                continue
+            raise RuntimeError(f"YouTube upload {up_r.status_code}: {up_r.text[:200]}")
+        return up_r.json()["id"]
 
 
 # ── Step 9: Commit data/youtube.json ─────────────────────────────────────────
 
-def commit_youtube_json(article: dict, script: dict, video_id: str):
-    data_dir = Path("data")
+def commit_youtube_json(article: dict, script: dict, shorts_id: str, standard_id: str = None):
+    data_dir  = Path("data")
     data_dir.mkdir(exist_ok=True)
     json_path = data_dir / "youtube.json"
 
     existing = json.loads(json_path.read_text()) if json_path.exists() else []
     entry = {
-        "video_id": video_id,
-        "url": f"https://www.youtube.com/shorts/{video_id}",
-        "title": script["title"],
-        "article_slug": article["article_slug"],
-        "published_at": datetime.now(timezone.utc).isoformat(),
+        "shorts_id":    shorts_id,
+        "shorts_url":   f"https://www.youtube.com/shorts/{shorts_id}",
+        "title":         script["title"],
+        "article_slug":  article["article_slug"],
+        "published_at":  datetime.now(timezone.utc).isoformat(),
     }
+    if standard_id:
+        entry["standard_id"]  = standard_id
+        entry["standard_url"] = f"https://www.youtube.com/watch?v={standard_id}"
+
     existing.insert(0, entry)
     json_path.write_text(json.dumps(existing, indent=2))
 
     subprocess.run(["git", "config", "user.email", "pipeline@peacoat.dev"], check=True)
-    subprocess.run(["git", "config", "user.name", "Peacoat Pipeline"], check=True)
-    subprocess.run(["git", "add", "data/youtube.json"], check=True)
-    subprocess.run(["git", "commit", "-m", f"Add YouTube Short: {script['title'][:60]}"], check=True)
-    subprocess.run(["git", "push"], check=True)
-    print(f"  Committed data/youtube.json")
+    subprocess.run(["git", "config", "user.name",  "Peacoat Pipeline"],     check=True)
+    subprocess.run(["git", "add", "data/youtube.json"],                     check=True)
+    subprocess.run(["git", "commit", "-m", f"Add YouTube videos: {script['title'][:55]}"], check=True)
+    subprocess.run(["git", "push"],                                          check=True)
+    print("  Committed data/youtube.json")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -497,30 +546,45 @@ def main():
         print("[DRY RUN] Saved narration.mp3 and script.json — done.")
         return
 
-    print("STEP 4: Fetching Pexels B-roll clips...")
-    clips = fetch_pexels_clips(count=4, orientation="portrait")
-    print(f"  Found {len(clips)} clips")
+    print("STEP 4: Fetching Pexels B-roll clips (portrait + landscape)...")
+    portrait_clips  = fetch_pexels_clips(count=4, orientation="portrait")
+    landscape_clips = fetch_pexels_clips(count=4, orientation="landscape")
+    print(f"  Portrait: {len(portrait_clips)} clips  |  Landscape: {len(landscape_clips)} clips")
 
-    print("STEP 5: Uploading audio...")
+    print("STEP 5: Uploading audio to catbox.moe...")
     audio_url = upload_audio(audio)
     print(f"  URL: {audio_url[:60]}...")
 
-    print("STEP 6-7: Building + rendering via Shotstack...")
-    video_url = build_and_render(script, clips, audio_url, words, audio_duration, is_shorts=True)
-    print(f"  Done: {video_url[:60]}...")
+    print("STEP 6-7a: Rendering Shorts (9:16) via Shotstack...")
+    shorts_url = build_and_render(script, portrait_clips, audio_url, words, audio_duration, is_shorts=True)
+    print(f"  Shorts render done: {shorts_url[:60]}...")
 
-    print("STEP 8: Downloading video...")
-    video_bytes = requests.get(video_url, timeout=120).content
-    print(f"  {len(video_bytes)/1024/1024:.1f} MB")
+    print("STEP 6-7b: Rendering Standard (16:9) via Shotstack...")
+    standard_url = build_and_render(script, landscape_clips, audio_url, words, audio_duration, is_shorts=False)
+    print(f"  Standard render done: {standard_url[:60]}...")
 
-    print("STEP 9: Uploading to YouTube...")
-    video_id = upload_to_youtube(video_bytes, script, article)
-    print(f"  Published: https://www.youtube.com/shorts/{video_id}")
+    print("STEP 8a: Downloading Shorts MP4...")
+    shorts_bytes = requests.get(shorts_url, timeout=120).content
+    print(f"  {len(shorts_bytes)/1024/1024:.1f} MB")
+
+    print("STEP 8b: Downloading Standard MP4...")
+    standard_bytes = requests.get(standard_url, timeout=120).content
+    print(f"  {len(standard_bytes)/1024/1024:.1f} MB")
+
+    print("STEP 9a: Uploading Shorts to YouTube...")
+    shorts_id = upload_to_youtube(shorts_bytes, script, article, is_shorts=True)
+    print(f"  Published: https://www.youtube.com/shorts/{shorts_id}")
+
+    print("STEP 9b: Uploading Standard to YouTube...")
+    standard_id = upload_to_youtube(standard_bytes, script, article, is_shorts=False)
+    print(f"  Published: https://www.youtube.com/watch?v={standard_id}")
 
     print("STEP 10: Committing youtube.json...")
-    commit_youtube_json(article, script, video_id)
+    commit_youtube_json(article, script, shorts_id, standard_id)
 
-    print(f"\n[DONE] Short live at https://www.youtube.com/shorts/{video_id}")
+    print(f"\n[DONE]")
+    print(f"  Shorts:   https://www.youtube.com/shorts/{shorts_id}")
+    print(f"  Standard: https://www.youtube.com/watch?v={standard_id}")
 
 
 if __name__ == "__main__":
