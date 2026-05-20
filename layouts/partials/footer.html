@@ -39,3 +39,13 @@
     </div>
   </div>
 </footer>
+
+<script>
+/* Belt-and-suspenders: mark Amazon links as sponsored at runtime */
+(function(){
+  document.querySelectorAll('a[href*="amazon.com"],a[href*="amzn.to"]').forEach(function(a){
+    a.setAttribute('rel','nofollow sponsored noopener noreferrer');
+    if(!a.getAttribute('target')) a.setAttribute('target','_blank');
+  });
+})();
+</script>
