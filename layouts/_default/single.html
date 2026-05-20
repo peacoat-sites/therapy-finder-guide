@@ -87,17 +87,20 @@
     <!-- YouTube Video Embed (standard 16:9, autoplay muted, most recent video) -->
     {{ if .Site.Data.youtube }}
     {{ $latest := index .Site.Data.youtube 0 }}
+    {{ $vid := or $latest.standard_id $latest.shorts_id $latest.video_id }}
+    {{ if $vid }}
     <div class="youtube-video-wrap">
       <p class="youtube-video-label">Watch: Quick Summary</p>
       <div class="youtube-video-frame">
         <iframe
-          src="https://www.youtube.com/embed/{{ $latest.video_id }}?autoplay=1&mute=1&rel=0&modestbranding=1&playsinline=1"
+          src="https://www.youtube.com/embed/{{ $vid }}?autoplay=1&mute=1&rel=0&modestbranding=1&playsinline=1"
           frameborder="0"
           allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen>
         </iframe>
       </div>
     </div>
+    {{ end }}
     {{ end }}
 
   </article>
