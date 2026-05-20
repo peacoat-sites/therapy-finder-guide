@@ -356,27 +356,73 @@ def verify_url_accessible(url: str, label: str) -> None:
 # ── Step 5: Upload file ───────────────────────────────────────────────────────
 
 def upload_file(data: bytes, filename: str, mime: str) -> str:
-    """Upload audio to 0x0.st with transfer.sh fallback (catbox deprecated)."""
+    """
+    Upload audio to a public CDN so Shotstack can fetch it during render.
+    Tries multiple hosts in order; files only need to survive ~15 min.
+    0x0.st and transfer.sh are both dead as of May 2026.
+    """
+    errors = []
+
+    # 1. uguu.se — anonymous, 48h expiry, known to work from CI runners
     try:
         r = requests.post(
-            "https://0x0.st",
+            "https://uguu.se/upload",
+            files={"files[]": (filename, data, mime)},
+            timeout=60,
+        )
+        if r.status_code == 200:
+            files = r.json().get("files", [])
+            if files:
+                url = files[0].get("url", "")
+                if url.startswith("https://"):
+                    print(f"    Hosted on uguu.se")
+                    return url
+        errors.append(f"uguu.se: status={r.status_code} body={r.text[:60]!r}")
+    except Exception as e:
+        errors.append(f"uguu.se: {e}")
+
+    # 2. tmpfiles.org — anonymous, 60-min expiry
+    try:
+        r = requests.post(
+            "https://tmpfiles.org/api/v1/upload",
             files={"file": (filename, data, mime)},
             timeout=60,
         )
-        if r.status_code == 200 and r.text.strip().startswith("https://"):
-            return r.text.strip()
+        if r.status_code == 200:
+            url = r.json().get("data", {}).get("url", "")
+            # tmpfiles returns page URL — convert to direct download URL
+            # https://tmpfiles.org/1234/file.mp3 → https://tmpfiles.org/dl/1234/file.mp3
+            if url.startswith("https://tmpfiles.org/") and "/dl/" not in url:
+                url = url.replace("https://tmpfiles.org/", "https://tmpfiles.org/dl/", 1)
+            if url.startswith("https://"):
+                print(f"    Hosted on tmpfiles.org")
+                return url
+        errors.append(f"tmpfiles: status={r.status_code} body={r.text[:60]!r}")
     except Exception as e:
-        pass  # fall through to backup
-    # Fallback: transfer.sh
-    r2 = requests.put(
-        f"https://transfer.sh/{filename}",
-        data=data,
-        headers={"Content-Type": mime, "Max-Days": "7"},
-        timeout=60,
+        errors.append(f"tmpfiles: {e}")
+
+    # 3. oshi.at — anonymous, 24h expiry
+    try:
+        r = requests.post(
+            "https://oshi.at",
+            files={"f": (filename, data, mime)},
+            data={"expire": "60"},
+            timeout=60,
+        )
+        # oshi.at returns plain text with DL= and MANAGE= lines
+        url = next((line.split("=", 1)[1].strip()
+                    for line in r.text.splitlines()
+                    if line.startswith("DL=")), "")
+        if url.startswith("https://"):
+            print(f"    Hosted on oshi.at")
+            return url
+        errors.append(f"oshi.at: status={r.status_code} body={r.text[:60]!r}")
+    except Exception as e:
+        errors.append(f"oshi.at: {e}")
+
+    raise RuntimeError(
+        "Audio upload failed — all hosts exhausted:\n  " + "\n  ".join(errors)
     )
-    if r2.status_code == 200 and r2.text.strip().startswith("https://"):
-        return r2.text.strip()
-    raise RuntimeError(f"audio upload failed — 0x0.st and transfer.sh both failed")
 
 
 def upload_audio(audio_bytes: bytes) -> str:
