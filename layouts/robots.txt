@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /search/
-Disallow: /tags/
-Disallow: /categories/
-Disallow: /page/
-
-Sitemap: {{ .Site.BaseURL }}sitemap.xml
