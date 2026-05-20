@@ -233,15 +233,27 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
 # ── Step 5: Upload file ───────────────────────────────────────────────────────
 
 def upload_file(data: bytes, filename: str, mime: str) -> str:
-    r = requests.post(
-        "https://catbox.moe/user/api.php",
-        data={"reqtype": "fileupload"},
-        files={"fileToUpload": (filename, data, mime)},
+    """Upload audio to 0x0.st with transfer.sh fallback (catbox deprecated)."""
+    try:
+        r = requests.post(
+            "https://0x0.st",
+            files={"file": (filename, data, mime)},
+            timeout=60,
+        )
+        if r.status_code == 200 and r.text.strip().startswith("https://"):
+            return r.text.strip()
+    except Exception as e:
+        pass  # fall through to backup
+    # Fallback: transfer.sh
+    r2 = requests.put(
+        f"https://transfer.sh/{filename}",
+        data=data,
+        headers={"Content-Type": mime, "Max-Days": "7"},
         timeout=60,
     )
-    if r.status_code == 200 and r.text.startswith("https://"):
-        return r.text.strip()
-    raise RuntimeError(f"catbox upload failed: {r.text[:100]}")
+    if r2.status_code == 200 and r2.text.strip().startswith("https://"):
+        return r2.text.strip()
+    raise RuntimeError(f"audio upload failed — 0x0.st and transfer.sh both failed")
 
 
 def upload_audio(audio_bytes: bytes) -> str:
