@@ -557,6 +557,27 @@ def upload_to_youtube(video_bytes: bytes, script: dict, article: dict, is_shorts
         return up_r.json()["id"]
 
 
+# ── YouTube delete (rollback helper) ─────────────────────────────────────────
+
+def delete_youtube_video(video_id: str) -> bool:
+    """Delete a YouTube video by ID. Used for rollback when a paired upload fails."""
+    try:
+        token = get_access_token()
+        r = requests.delete(
+            f"https://www.googleapis.com/youtube/v3/videos?id={video_id}",
+            headers={"Authorization": f"Bearer {token}"},
+            timeout=15,
+        )
+        if r.status_code == 204:
+            print(f"  [CLEANUP] ✓ Deleted {video_id} from YouTube")
+            return True
+        print(f"  [CLEANUP] ✗ Could not delete {video_id}: HTTP {r.status_code} — remove manually")
+        return False
+    except Exception as exc:
+        print(f"  [CLEANUP] ✗ Exception deleting {video_id}: {exc} — remove manually")
+        return False
+
+
 # ── Step 9: Commit data/youtube.json ─────────────────────────────────────────
 
 def commit_youtube_json(article: dict, script: dict, shorts_id: str, standard_id: str = None):
@@ -651,7 +672,13 @@ def main():
     print(f"  Published: https://www.youtube.com/shorts/{shorts_id}")
 
     print("STEP 9b: Uploading Standard to YouTube...")
-    standard_id = upload_to_youtube(standard_bytes, script, article, is_shorts=False)
+    try:
+        standard_id = upload_to_youtube(standard_bytes, script, article, is_shorts=False)
+    except Exception as upload_err:
+        print(f"  [ERROR] Standard upload failed: {upload_err}")
+        print(f"  Rolling back — deleting Shorts {shorts_id} to avoid orphaned upload...")
+        delete_youtube_video(shorts_id)
+        raise
     print(f"  Published: https://www.youtube.com/watch?v={standard_id}")
 
     print("STEP 10: Committing youtube.json...")
