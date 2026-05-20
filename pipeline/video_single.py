@@ -423,6 +423,67 @@ def build_and_render(script: dict, clips: list, audio_url: str,
     raise TimeoutError(f"Shotstack [{label}] timed out after 15 min")
 
 
+# ── Step 7.5: Validate rendered MP4 has audio ────────────────────────────────
+
+def validate_video_has_audio(video_bytes: bytes, label: str) -> None:
+    """
+    Run ffprobe on the downloaded MP4 to confirm:
+      - File size > 1 MB (not an empty/error page from the CDN)
+      - At least 1 video stream present
+      - At least 1 audio stream with duration > 5 s
+    Raises RuntimeError so the pipeline aborts BEFORE YouTube upload.
+    ffprobe is pre-installed on ubuntu-latest GitHub Actions runners.
+    """
+    import tempfile, subprocess as _sp, json as _json, os as _os
+
+    min_bytes = 1 * 1024 * 1024  # 1 MB
+    if len(video_bytes) < min_bytes:
+        raise RuntimeError(
+            f"[{label}] Video too small ({len(video_bytes) // 1024} KB) — "
+            "likely a corrupt or empty Shotstack render"
+        )
+
+    with tempfile.NamedTemporaryFile(suffix=".mp4", delete=False) as f:
+        f.write(video_bytes)
+        tmp = f.name
+
+    try:
+        res = _sp.run(
+            ["ffprobe", "-v", "quiet", "-print_format", "json", "-show_streams", tmp],
+            capture_output=True, text=True, timeout=30,
+        )
+        if res.returncode != 0:
+            raise RuntimeError(f"[{label}] ffprobe failed: {res.stderr[:200]}")
+
+        streams = _json.loads(res.stdout).get("streams", [])
+        audio_streams = [s for s in streams if s.get("codec_type") == "audio"]
+        video_streams = [s for s in streams if s.get("codec_type") == "video"]
+
+        if not video_streams:
+            raise RuntimeError(f"[{label}] No video stream found in rendered MP4")
+        if not audio_streams:
+            raise RuntimeError(
+                f"[{label}] No audio stream in rendered MP4 — "
+                "soundtrack was not embedded. Check audio URL reachability from Shotstack."
+            )
+
+        dur = float(audio_streams[0].get("duration", 0))
+        if dur < 5.0:
+            raise RuntimeError(
+                f"[{label}] Audio stream too short ({dur:.1f}s) — likely silent or truncated"
+            )
+
+        print(
+            f"  [{label}] ✓ Valid: {len(video_streams)} video + {len(audio_streams)} audio stream(s), "
+            f"audio {dur:.1f}s"
+        )
+    finally:
+        try:
+            _os.unlink(tmp)
+        except Exception:
+            pass
+
+
 # ── Step 8: YouTube upload ────────────────────────────────────────────────────
 
 def get_access_token() -> str:
@@ -563,7 +624,7 @@ def main():
     landscape_clips = fetch_pexels_clips(count=4, orientation="landscape")
     print(f"  Portrait: {len(portrait_clips)} clips  |  Landscape: {len(landscape_clips)} clips")
 
-    print("STEP 5: Uploading audio to catbox.moe...")
+    print("STEP 5: Uploading audio...")
     audio_url = upload_audio(audio)
     print(f"  URL: {audio_url[:60]}...")
 
@@ -578,10 +639,12 @@ def main():
     print("STEP 8a: Downloading Shorts MP4...")
     shorts_bytes = requests.get(shorts_url, timeout=120).content
     print(f"  {len(shorts_bytes)/1024/1024:.1f} MB")
+    validate_video_has_audio(shorts_bytes, "Shorts")
 
     print("STEP 8b: Downloading Standard MP4...")
     standard_bytes = requests.get(standard_url, timeout=120).content
     print(f"  {len(standard_bytes)/1024/1024:.1f} MB")
+    validate_video_has_audio(standard_bytes, "Standard")
 
     print("STEP 9a: Uploading Shorts to YouTube...")
     shorts_id = upload_to_youtube(shorts_bytes, script, article, is_shorts=True)
