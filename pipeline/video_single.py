@@ -75,6 +75,20 @@ def read_latest_article() -> dict | None:
     return {"title": title, "body": body, "article_slug": article_slug}
 
 
+# ── Step 1b: Duplicate article guard ─────────────────────────────────────────
+
+def already_has_video(article_slug: str) -> bool:
+    """Return True if this article slug already exists in data/youtube.json."""
+    json_path = Path("data") / "youtube.json"
+    if not json_path.exists():
+        return False
+    try:
+        entries = json.loads(json_path.read_text())
+        return any(e.get("article_slug") == article_slug for e in entries)
+    except Exception:
+        return False
+
+
 # ── Step 2: Generate script via Claude ───────────────────────────────────────
 
 def generate_script(article: dict) -> dict:
@@ -140,6 +154,62 @@ def generate_script(article: dict) -> dict:
     return data
 
 
+# ── Step 2b: Script quality gate ─────────────────────────────────────────────
+
+BANNED_PHRASES = [
+    "subscribe", "follow for more", "click the link", "check out our website",
+    "visit us at", "visit our website", "link in bio", "link in description",
+    "for more info", "follow us", "like and subscribe",
+]
+
+def validate_script(script: dict) -> None:
+    """
+    Hard-fail if Claude returned a malformed, too-short, too-long, or CTA-containing script.
+    Catches hallucinations before burning ElevenLabs + Shotstack credits.
+    """
+    errors = []
+
+    # Required fields present and non-empty
+    for field in ("title", "hook", "description"):
+        if not script.get(field, "").strip():
+            errors.append(f"'{field}' is empty")
+
+    points = script.get("points", [])
+    if len(points) < 3:
+        errors.append(f"need 3 points, got {len(points)}")
+    if not script.get("tags") or len(script["tags"]) < 3:
+        errors.append(f"need ≥3 tags, got {len(script.get('tags', []))}")
+
+    # Length limits
+    title_len = len(script.get("title", ""))
+    if title_len > 100:
+        errors.append(f"title too long ({title_len} chars, YT max is 100)")
+    desc_len = len(script.get("description", ""))
+    if desc_len > 400:
+        errors.append(f"description too long ({desc_len} chars, target ≤400)")
+
+    # Spoken word count (hook + problem + points + resolution — what ElevenLabs will narrate)
+    spoken_parts = [script.get("hook", ""), script.get("problem", "")]
+    spoken_parts.extend(script.get("points", []))
+    spoken_parts.append(script.get("resolution", ""))
+    word_count = sum(len(p.split()) for p in spoken_parts if p)
+    if word_count < 80:
+        errors.append(f"script too short ({word_count} spoken words, min 80) — audio will be under 30s")
+    elif word_count > 220:
+        errors.append(f"script too long ({word_count} spoken words, max 220) — audio may exceed 2 min")
+
+    # Banned CTA / spam phrases — fail hard so bad content never reaches YouTube
+    all_text = " ".join(str(v) for v in script.values() if isinstance(v, str)).lower()
+    for phrase in BANNED_PHRASES:
+        if phrase in all_text:
+            errors.append(f"banned phrase detected: '{phrase}'")
+
+    if errors:
+        raise ValueError("Script validation failed:\n  " + "\n  ".join(errors))
+
+    print(f"  Script: ✓ {word_count} spoken words | title {title_len} chars | {len(script['tags'])} tags")
+
+
 # ── Step 3: Synthesize audio ──────────────────────────────────────────────────
 
 def synthesize_audio(script: dict) -> tuple[bytes, list]:
@@ -191,6 +261,40 @@ def synthesize_audio(script: dict) -> tuple[bytes, list]:
     return audio_bytes, words
 
 
+# ── Step 3b: Audio quality gate ──────────────────────────────────────────────
+
+def validate_audio(audio_bytes: bytes, words: list, audio_duration: float) -> None:
+    """
+    Validate synthesized audio before spending Shotstack credits on it.
+      - Minimum file size (rules out ElevenLabs error payloads)
+      - Words alignment not empty (captions would silently produce nothing)
+      - Duration in acceptable range for a 60s Short
+    """
+    errors = []
+
+    min_kb = 60
+    if len(audio_bytes) < min_kb * 1024:
+        errors.append(
+            f"audio too small ({len(audio_bytes) // 1024} KB, min {min_kb} KB) — "
+            "ElevenLabs may have returned an error payload"
+        )
+
+    if not words:
+        errors.append("word alignment list is empty — captions cannot be generated; check ElevenLabs response")
+    elif len(words) < 15:
+        errors.append(f"only {len(words)} aligned words — suspiciously short narration")
+
+    if audio_duration < 25:
+        errors.append(f"audio too short ({audio_duration:.1f}s, min 25s) — script was probably too brief")
+    elif audio_duration > 150:
+        errors.append(f"audio too long ({audio_duration:.1f}s, max 150s) — YouTube Shorts limit is 60s")
+
+    if errors:
+        raise RuntimeError("Audio validation failed:\n  " + "\n  ".join(errors))
+
+    print(f"  Audio: ✓ {len(audio_bytes) // 1024} KB | {len(words)} words aligned | {audio_duration:.1f}s")
+
+
 # ── Step 4: Fetch Pexels clips ────────────────────────────────────────────────
 
 def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
@@ -228,6 +332,25 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
                 used_ids.add(vid["id"])
 
     return selected[:count]
+
+
+# ── URL accessibility check (reused in multiple steps) ───────────────────────
+
+def verify_url_accessible(url: str, label: str) -> None:
+    """
+    HEAD request to confirm a URL is publicly reachable.
+    Used to verify audio upload URL (before Shotstack) and render output URLs
+    (before downloading). A 200/206 from the CDN is required.
+    """
+    try:
+        r = requests.head(url, timeout=20, allow_redirects=True)
+        if r.status_code not in (200, 206):
+            raise RuntimeError(
+                f"[{label}] URL not publicly accessible: HTTP {r.status_code}\n  {url[:100]}"
+            )
+        print(f"  [{label}] ✓ URL accessible (HTTP {r.status_code})")
+    except requests.exceptions.RequestException as exc:
+        raise RuntimeError(f"[{label}] URL accessibility check failed: {exc}\n  {url[:100]}")
 
 
 # ── Step 5: Upload file ───────────────────────────────────────────────────────
@@ -425,22 +548,30 @@ def build_and_render(script: dict, clips: list, audio_url: str,
 
 # ── Step 7.5: Validate rendered MP4 has audio ────────────────────────────────
 
-def validate_video_has_audio(video_bytes: bytes, label: str) -> None:
+def validate_video_has_audio(
+    video_bytes: bytes,
+    label: str,
+    expected_duration: float = None,
+    is_shorts: bool = None,
+) -> None:
     """
-    Run ffprobe on the downloaded MP4 to confirm:
-      - File size > 1 MB (not an empty/error page from the CDN)
-      - At least 1 video stream present
-      - At least 1 audio stream with duration > 5 s
-    Raises RuntimeError so the pipeline aborts BEFORE YouTube upload.
+    Full ffprobe quality gate on a downloaded MP4. Checks:
+      - File size ≥ 1 MB (not an HTML error page or empty response)
+      - Video stream present
+      - Audio stream present and duration ≥ 5s (soundtrack was actually embedded)
+      - Video duration ≥ 10s and within 20% of expected_duration (not a truncated render)
+      - Resolution matches format spec (1080×1920 for Shorts, 1920×1080 for Standard)
+    Raises RuntimeError before YouTube upload so no bad video reaches the channel.
     ffprobe is pre-installed on ubuntu-latest GitHub Actions runners.
     """
     import tempfile, subprocess as _sp, json as _json, os as _os
 
+    # ── Size sanity check ────────────────────────────────────────────────────
     min_bytes = 1 * 1024 * 1024  # 1 MB
     if len(video_bytes) < min_bytes:
         raise RuntimeError(
             f"[{label}] Video too small ({len(video_bytes) // 1024} KB) — "
-            "likely a corrupt or empty Shotstack render"
+            "likely a corrupt render or HTML error page downloaded instead of MP4"
         )
 
     with tempfile.NamedTemporaryFile(suffix=".mp4", delete=False) as f:
@@ -455,27 +586,55 @@ def validate_video_has_audio(video_bytes: bytes, label: str) -> None:
         if res.returncode != 0:
             raise RuntimeError(f"[{label}] ffprobe failed: {res.stderr[:200]}")
 
-        streams = _json.loads(res.stdout).get("streams", [])
+        streams       = _json.loads(res.stdout).get("streams", [])
         audio_streams = [s for s in streams if s.get("codec_type") == "audio"]
         video_streams = [s for s in streams if s.get("codec_type") == "video"]
 
+        # ── Stream presence ──────────────────────────────────────────────────
         if not video_streams:
-            raise RuntimeError(f"[{label}] No video stream found in rendered MP4")
+            raise RuntimeError(f"[{label}] No video stream in MP4")
         if not audio_streams:
             raise RuntimeError(
-                f"[{label}] No audio stream in rendered MP4 — "
-                "soundtrack was not embedded. Check audio URL reachability from Shotstack."
+                f"[{label}] No audio stream in MP4 — soundtrack was not embedded. "
+                "Check that the audio URL was publicly reachable by Shotstack."
             )
 
-        dur = float(audio_streams[0].get("duration", 0))
-        if dur < 5.0:
+        # ── Audio duration ───────────────────────────────────────────────────
+        audio_dur = float(audio_streams[0].get("duration", 0))
+        if audio_dur < 5.0:
             raise RuntimeError(
-                f"[{label}] Audio stream too short ({dur:.1f}s) — likely silent or truncated"
+                f"[{label}] Audio stream too short ({audio_dur:.1f}s) — likely silent or truncated"
             )
+
+        # ── Video duration ───────────────────────────────────────────────────
+        vid_dur = float(video_streams[0].get("duration", 0))
+        if vid_dur < 10.0:
+            raise RuntimeError(
+                f"[{label}] Video too short ({vid_dur:.1f}s) — likely a failed or truncated Shotstack render"
+            )
+        if expected_duration is not None:
+            delta_pct = abs(vid_dur - expected_duration) / max(expected_duration, 1)
+            if delta_pct > 0.20:
+                raise RuntimeError(
+                    f"[{label}] Video duration mismatch: expected ~{expected_duration:.1f}s, "
+                    f"got {vid_dur:.1f}s ({delta_pct*100:.0f}% off) — render may have been cut short"
+                )
+
+        # ── Resolution ───────────────────────────────────────────────────────
+        if is_shorts is not None:
+            exp_w, exp_h = (1080, 1920) if is_shorts else (1920, 1080)
+            got_w = int(video_streams[0].get("width",  0))
+            got_h = int(video_streams[0].get("height", 0))
+            if got_w != exp_w or got_h != exp_h:
+                raise RuntimeError(
+                    f"[{label}] Wrong resolution: got {got_w}×{got_h}, "
+                    f"expected {exp_w}×{exp_h} — Shotstack output spec mismatch"
+                )
 
         print(
-            f"  [{label}] ✓ Valid: {len(video_streams)} video + {len(audio_streams)} audio stream(s), "
-            f"audio {dur:.1f}s"
+            f"  [{label}] ✓ {int(video_streams[0].get('width',0))}×{int(video_streams[0].get('height',0))} | "
+            f"video {vid_dur:.1f}s | audio {audio_dur:.1f}s | "
+            f"{len(video_bytes)//1024//1024} MB"
         )
     finally:
         try:
@@ -623,16 +782,26 @@ def main():
         print("[ABORT] No article found")
         sys.exit(1)
     print(f"  Title: {article['title']}")
+    if len(article.get("body", "")) < 300:
+        raise RuntimeError(
+            f"Article body too short ({len(article['body'])} chars, min 300) — "
+            "not enough content to generate a quality script"
+        )
+    if already_has_video(article["article_slug"]):
+        print(f"  [SKIP] '{article['article_slug']}' already has a video entry — nothing to do")
+        sys.exit(0)
 
     print("STEP 2: Generating script via Claude...")
     script = generate_script(article)
     print(f"  YT Title: {script['title']}")
     print(f"  Hook: {script['hook'][:80]}...")
+    validate_script(script)
 
     print("STEP 3: Synthesizing audio via ElevenLabs...")
     audio, words = synthesize_audio(script)
-    audio_duration = words[-1]["end"] if words else 60.0
+    audio_duration = words[-1]["end"] if words else 0.0
     print(f"  Audio: {len(audio)/1024:.1f} KB, duration ~{audio_duration:.1f}s")
+    validate_audio(audio, words, audio_duration)
 
     if DRY_RUN:
         Path("narration.mp3").write_bytes(audio)
@@ -644,28 +813,45 @@ def main():
     portrait_clips  = fetch_pexels_clips(count=4, orientation="portrait")
     landscape_clips = fetch_pexels_clips(count=4, orientation="landscape")
     print(f"  Portrait: {len(portrait_clips)} clips  |  Landscape: {len(landscape_clips)} clips")
+    if len(portrait_clips) < 2:
+        raise RuntimeError(f"Not enough portrait clips ({len(portrait_clips)}) — need ≥2 for Shorts B-roll")
+    if len(landscape_clips) < 2:
+        raise RuntimeError(f"Not enough landscape clips ({len(landscape_clips)}) — need ≥2 for Standard B-roll")
 
     print("STEP 5: Uploading audio...")
     audio_url = upload_audio(audio)
     print(f"  URL: {audio_url[:60]}...")
+    verify_url_accessible(audio_url, "audio upload")
 
     print("STEP 6-7a: Rendering Shorts (9:16) via Shotstack...")
     shorts_url = build_and_render(script, portrait_clips, audio_url, words, audio_duration, is_shorts=True)
     print(f"  Shorts render done: {shorts_url[:60]}...")
+    verify_url_accessible(shorts_url, "Shorts render URL")
 
     print("STEP 6-7b: Rendering Standard (16:9) via Shotstack...")
     standard_url = build_and_render(script, landscape_clips, audio_url, words, audio_duration, is_shorts=False)
     print(f"  Standard render done: {standard_url[:60]}...")
+    verify_url_accessible(standard_url, "Standard render URL")
 
     print("STEP 8a: Downloading Shorts MP4...")
-    shorts_bytes = requests.get(shorts_url, timeout=120).content
+    dl_shorts = requests.get(shorts_url, timeout=120)
+    if dl_shorts.status_code != 200:
+        raise RuntimeError(f"Shorts download failed: HTTP {dl_shorts.status_code}")
+    if "video" not in dl_shorts.headers.get("Content-Type", ""):
+        raise RuntimeError(f"Shorts download wrong Content-Type: {dl_shorts.headers.get('Content-Type')} — got non-video response")
+    shorts_bytes = dl_shorts.content
     print(f"  {len(shorts_bytes)/1024/1024:.1f} MB")
-    validate_video_has_audio(shorts_bytes, "Shorts")
+    validate_video_has_audio(shorts_bytes, "Shorts", expected_duration=audio_duration, is_shorts=True)
 
     print("STEP 8b: Downloading Standard MP4...")
-    standard_bytes = requests.get(standard_url, timeout=120).content
+    dl_standard = requests.get(standard_url, timeout=120)
+    if dl_standard.status_code != 200:
+        raise RuntimeError(f"Standard download failed: HTTP {dl_standard.status_code}")
+    if "video" not in dl_standard.headers.get("Content-Type", ""):
+        raise RuntimeError(f"Standard download wrong Content-Type: {dl_standard.headers.get('Content-Type')} — got non-video response")
+    standard_bytes = dl_standard.content
     print(f"  {len(standard_bytes)/1024/1024:.1f} MB")
-    validate_video_has_audio(standard_bytes, "Standard")
+    validate_video_has_audio(standard_bytes, "Standard", expected_duration=audio_duration, is_shorts=False)
 
     print("STEP 9a: Uploading Shorts to YouTube...")
     shorts_id = upload_to_youtube(shorts_bytes, script, article, is_shorts=True)
