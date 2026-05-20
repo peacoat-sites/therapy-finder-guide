@@ -59,3 +59,18 @@ jobs:
           GOOGLE_ACCESS_TOKEN:      ${{ secrets.GOOGLE_ACCESS_TOKEN }}
           SITES_CONFIG:             ${{ secrets.SITES_CONFIG }}
           AMAZON_TRACKING_ID:       ${{ secrets.AMAZON_TRACKING_ID }}
+
+      - name: Add affiliate links to new articles
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          python pipeline/affiliate_links.py
+          git add content/posts/
+          if ! git diff --staged --quiet; then
+            git commit -m "feat: add affiliate recommendations to new articles"
+            git push
+          fi
+        env:
+          SITE_NAME: ${{ vars.SITE_NAME }}
+
