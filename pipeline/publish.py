@@ -736,6 +736,40 @@ affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
 
 # ── GITHUB COMMIT ─────────────────────────────────────────────────────────────
 
+
+def load_used_image_ids(repo: str) -> set:
+    """Load previously used Pexels image IDs from data/used_images.json."""
+    r = requests.get(
+        f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/data/used_images.json",
+        headers=GH_HEADERS,
+    )
+    if r.status_code == 200:
+        try:
+            ids = json.loads(base64.b64decode(r.json()["content"]).decode())
+            return set(str(i) for i in ids)
+        except Exception:
+            pass
+    return set()
+
+
+def save_used_image_ids(repo: str, used_ids: set) -> None:
+    """Persist used image IDs back to data/used_images.json so future runs skip them."""
+    path = "data/used_images.json"
+    payload_content = base64.b64encode(json.dumps(sorted(used_ids)).encode()).decode()
+    r = requests.get(
+        f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/{path}",
+        headers=GH_HEADERS,
+    )
+    body = {"message": "chore: update used image IDs", "content": payload_content}
+    if r.status_code == 200:
+        body["sha"] = r.json()["sha"]
+    requests.put(
+        f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/{path}",
+        headers=GH_HEADERS,
+        json=body,
+    )
+
+
 def commit_to_github(repo: str, filename: str, content: str, message: str) -> bool:
     url = f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/content/posts/{filename}"
     sha = None
@@ -813,7 +847,7 @@ def publish_site(site_name: str, count: int):
         return
 
     to_publish   = unpublished[:count]
-    used_img_ids = set()
+    used_img_ids = load_used_image_ids(repo)  # persistent across runs
 
     for i, kw_row in enumerate(to_publish, 1):
         keyword  = kw_row.get("keyword", "")
@@ -862,6 +896,7 @@ def publish_site(site_name: str, count: int):
             print(f"    Error: {e}")
             continue
 
+    save_used_image_ids(repo, used_img_ids)  # persist for next run
     submit_sitemap(site["domain"])
     print(f"\nDone: {site_name}")
 
