@@ -92,5 +92,36 @@
   (function(i,m,p,a,c,t){c.ire_o=p;c[p]=c[p]||function(){(c[p].a=c[p].a||[]).push(arguments)};t=a.createElement(m);var z=a.getElementsByTagName(m)[0];t.async=1;t.src=i;z.parentNode.insertBefore(t,z)})('https://utt.impactcdn.com/{{ .Site.Params.impact_tracking_id }}.js','script','impactStat',document,window);impactStat('trackImpression');
   </script>
   {{ end }}
+<!-- Reading Progress Bar -->
+<div id="reading-progress" style="position:fixed;top:0;left:0;width:0%;height:3px;background:var(--accent,#c9a84c);z-index:9999;transition:width .1s linear;pointer-events:none"></div>
+
+<!-- Back to Top -->
+<button id="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top" style="position:fixed;bottom:28px;right:28px;width:40px;height:40px;border-radius:50%;background:var(--primary,#1a2744);color:#fff;border:none;font-size:18px;cursor:pointer;box-shadow:0 2px 12px rgba(0,0,0,0.18);opacity:0;transition:opacity .2s;z-index:999;display:flex;align-items:center;justify-content:center">&#8593;</button>
+
+<style>
+.social-share{display:flex;align-items:center;gap:10px;margin:24px 0;flex-wrap:wrap}
+.social-share-label{font-size:13px;font-weight:600;color:#64748b}
+.share-btn{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:6px;font-size:13px;font-weight:700;text-decoration:none;transition:opacity .15s}
+.share-btn:hover{opacity:.8}
+.share-twitter{background:#000;color:#fff}
+.share-facebook{background:#1877f2;color:#fff}
+.share-linkedin{background:#0a66c2;color:#fff}
+.share-pinterest{background:#e60023;color:#fff}
+</style>
+
+<script>
+(function(){
+  var bar=document.getElementById('reading-progress');
+  var btn=document.getElementById('back-to-top');
+  if(!bar&&!btn) return;
+  function update(){
+    var s=document.documentElement;
+    var pct=s.scrollTop/(s.scrollHeight-s.clientHeight)*100;
+    if(bar) bar.style.width=Math.min(100,pct)+'%';
+    if(btn) btn.style.opacity=s.scrollTop>400?'1':'0';
+  }
+  window.addEventListener('scroll',update,{passive:true});
+})();
+</script>
 </body>
 </html>
