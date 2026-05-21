@@ -674,7 +674,7 @@ Structure:
 Make it genuinely useful for someone dealing with this exact situation right now."""
 
     msg = client.messages.create(
-        model="claude-sonnet-4-6",
+        model="claude-sonnet-4-6" if priority == "high" else "claude-haiku-4-5",
         max_tokens=4000,
         system=system_prompt,
         messages=[{"role": "user", "content": user_prompt}]
@@ -683,7 +683,7 @@ Make it genuinely useful for someone dealing with this exact situation right now
 
     # Meta description
     meta = client.messages.create(
-        model="claude-sonnet-4-6",
+        model="claude-haiku-4-5",
         max_tokens=80,
         messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{keyword}'. Plain text only, no quotes."}]
     )
