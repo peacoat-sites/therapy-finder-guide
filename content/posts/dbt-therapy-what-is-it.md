@@ -3,7 +3,7 @@ title: "Dbt Therapy What Is It"
 date: 2026-05-19T02:29:00.570869+00:00
 draft: false
 description: "Discover what DBT therapy is, how it works, and who it can help. Learn about the key skills taught in dialectical behaviour therapy and its proven benefits."
-image: "https://images.pexels.com/photos/5234631/pexels-photo-5234631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33516654/pexels-photo-33516654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["therapy", "what"]
 author: "Carlos Mendez"
