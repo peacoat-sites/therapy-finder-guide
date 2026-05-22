@@ -3,7 +3,7 @@ title: "Finding A Therapist That Takes Insurance"
 date: 2026-05-21T12:29:53.749694+00:00
 draft: false
 description: "Find a therapist that accepts your insurance with our step-by-step guide. Learn how to search provider networks, verify coverage, and reduce therapy costs."
-image: "https://images.pexels.com/photos/5700149/pexels-photo-5700149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33935830/pexels-photo-33935830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["finding", "therapist", "that", "takes", "insurance"]
 author: "Jordan Hayes"
