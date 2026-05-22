@@ -3,7 +3,7 @@ title: "How Much Does Therapy Cost"
 date: 2026-05-18T22:03:57.486631+00:00
 draft: false
 description: "Wondering how much therapy costs? Explore average session prices, insurance coverage, sliding scale fees, and affordable mental health options to fit your budge"
-image: "https://images.pexels.com/photos/5700149/pexels-photo-5700149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7644016/pexels-photo-7644016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["much", "does", "therapy", "cost"]
 author: "Maya Okonkwo"
