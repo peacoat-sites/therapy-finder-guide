@@ -3,7 +3,7 @@ title: "Therapy For Trauma Survivors"
 date: 2026-05-22T12:03:01.417863+00:00
 draft: false
 description: "Discover effective trauma therapy approaches, evidence-based treatments, and coping strategies to help survivors heal from PTSD and emotional wounds."
-image: "https://images.pexels.com/photos/5699465/pexels-photo-5699465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5483051/pexels-photo-5483051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "trauma", "survivors"]
 author: "Jordan Hayes"
