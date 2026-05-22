@@ -3,6 +3,7 @@ title: "How to Find a Therapist That's Actually Right for You"
 date: 2026-05-18
 slug: "how-to-find-the-right-therapist"
 description: "Finding a therapist isn't just about who accepts your insurance. Here's a practical guide to finding someone you'll actually work well with."
+image: "https://images.pexels.com/photos/35203642/pexels-photo-35203642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["how to find a therapist", "therapy search", "mental health", "therapist match"]
 author: "Maya Okonkwo"
