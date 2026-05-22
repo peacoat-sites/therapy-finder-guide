@@ -3,7 +3,7 @@ title: "What To Expect First Therapy Session"
 date: 2026-05-18T18:31:52.061529+00:00
 draft: false
 description: "Nervous about your first therapy session? Learn what to expect, how to prepare, and what your therapist will ask so you can feel calm and confident walking in."
-image: "https://images.pexels.com/photos/14797777/pexels-photo-14797777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36631703/pexels-photo-36631703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["what", "expect", "first", "therapy", "session"]
 author: "Dr. Emily Strauss"
