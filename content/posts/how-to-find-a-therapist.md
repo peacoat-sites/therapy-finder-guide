@@ -3,7 +3,7 @@ title: "How To Find A Therapist"
 date: 2026-05-18T18:23:16.172082+00:00
 draft: false
 description: "Find the right therapist for your needs with our step-by-step guide. Learn how to search, compare, and choose a mental health professional with confidence."
-image: "https://images.pexels.com/photos/9064679/pexels-photo-9064679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7495291/pexels-photo-7495291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["find", "therapist"]
 author: "Dr. Emily Strauss"
