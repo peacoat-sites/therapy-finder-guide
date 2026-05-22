@@ -3,7 +3,7 @@ title: "Cognitive Behavioral Therapy Explained"
 date: 2026-05-18T18:28:37.355842+00:00
 draft: false
 description: "Learn how cognitive behavioral therapy works, what to expect from CBT sessions, and how this evidence-based treatment can help manage anxiety, depression, and m"
-image: "https://images.pexels.com/photos/36729381/pexels-photo-36729381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["cognitive", "behavioral", "therapy", "explained"]
 author: "Carlos Mendez"
