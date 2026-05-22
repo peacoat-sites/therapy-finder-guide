@@ -3,7 +3,7 @@ title: "Therapy For Depression"
 date: 2026-05-19T02:24:50.013666+00:00
 draft: false
 description: "Discover effective therapy options for depression, including CBT, talk therapy, and more. Learn how professional treatment can help you reclaim your well-being "
-image: "https://images.pexels.com/photos/5699465/pexels-photo-5699465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/31385770/pexels-photo-31385770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "depression"]
 author: "Jordan Hayes"
