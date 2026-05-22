@@ -3,7 +3,7 @@ title: "Family Therapy Benefits"
 date: 2026-05-19T02:33:15.457896+00:00
 draft: false
 description: "Discover the key benefits of family therapy, including improved communication, stronger bonds, and effective conflict resolution to help your family heal and th"
-image: "https://images.pexels.com/photos/14797777/pexels-photo-14797777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8317785/pexels-photo-8317785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["family", "therapy", "benefits"]
 author: "Maya Okonkwo"
