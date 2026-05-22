@@ -531,6 +531,23 @@ def get_references_for_niche(niche: str) -> list:
                 break
     return refs or []
 
+STOP_WORDS = {
+    'how','does','what','is','are','to','the','a','an','for','of','with',
+    'in','on','at','by','from','vs','and','or','not','do','can','will',
+    'your','you','best','top','guide','tips','explained','complete','why',
+    'when','where','which','who','should','would','could','get','make',
+    'using','use','about','into','more','most','all','any','its','this'
+}
+
+def title_to_image_query(title: str, fallback_query: str) -> str:
+    """Generate a specific Pexels search query from an article title."""
+    import re
+    words = re.sub(r'[^a-zA-Z0-9\s]', '', title.lower()).split()
+    keywords = [w for w in words if w not in STOP_WORDS and len(w) > 2]
+    if len(keywords) >= 2:
+        return ' '.join(keywords[:4])
+    return fallback_query
+
 # ── IMAGE FETCHING ────────────────────────────────────────────────────────────
 
 def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
@@ -932,7 +949,8 @@ def publish_site(site_name: str, count: int):
             article["content"] = inject_affiliate_links(article["content"], niche)
 
             # Fetch image
-            image = fetch_image(site.get("image_query", keyword), used_img_ids)
+            _title_query = title_to_image_query(keyword, site.get("image_query", keyword))
+            image = fetch_image(_title_query, used_img_ids)
             print(f"    Image: {'ok' if image else 'none'}")
 
             # Extract FAQ pairs for schema
@@ -989,4 +1007,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
