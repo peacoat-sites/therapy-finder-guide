@@ -13,7 +13,7 @@ All config comes from environment variables (GitHub Actions secrets/vars).
 
 import os, sys, json, time, re, subprocess
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime, timezone, date
 
 import requests
 
@@ -23,6 +23,7 @@ EL_KEY               = os.environ["ELEVENLABS_API_KEY"]
 EL_VOICE_ID          = os.environ["ELEVENLABS_VOICE_ID"]
 SHOTSTACK_KEY        = os.environ.get("SHOTSTACK_API_KEY", "4vmNf0jK4NPFeeVJarsLrnKvgUvRSgglLCiasYS8")
 PEXELS_KEY           = os.environ["PEXELS_API_KEY"]
+PIXABAY_KEY          = os.environ.get("PIXABAY_API_KEY", "55983367-2dc57dad98c991928037ff300")
 GOOGLE_CLIENT_ID     = os.environ["GOOGLE_CLIENT_ID"]
 GOOGLE_CLIENT_SECRET = os.environ["GOOGLE_CLIENT_SECRET"]
 GOOGLE_REFRESH_TOKEN = os.environ["GOOGLE_REFRESH_TOKEN"]
@@ -382,6 +383,83 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
                 used_ids.add(vid["id"])
 
     return selected[:count]
+
+
+# â”€â”€ Step 4b: Fetch Pixabay clips (round-robin partner to Pexels) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait") -> list:
+    """Fetch video clips from Pixabay. Used in round-robin with Pexels."""
+    niche_words = SITE_NICHE.replace(" & ", " ").replace(",", "").split()
+    queries = [
+        SITE_NICHE,
+        " ".join(niche_words[:2]) if len(niche_words) >= 2 else niche_words[0],
+        "professional lifestyle",
+        "people activity",
+    ]
+    selected, used_ids = [], set()
+
+    for query in queries:
+        if len(selected) >= count:
+            break
+
+        def _pixabay_query(q=query):
+            params = {
+                "key":        PIXABAY_KEY,
+                "q":          q,
+                "per_page":   10,
+                "video_type": "all",
+                "safesearch": "true",
+            }
+            r = requests.get("https://pixabay.com/api/videos/", params=params, timeout=20)
+            if r.status_code == 429:
+                raise RuntimeError("Pixabay rate limited")
+            if r.status_code != 200:
+                raise RuntimeError(f"Pixabay HTTP {r.status_code}")
+            return r.json().get("hits", [])
+
+        try:
+            videos = with_retry(_pixabay_query, label=f"Pixabay:{query[:20]}", max_attempts=3, initial_delay=5)
+        except Exception as exc:
+            print(f"  [WARN] Pixabay query '{query}' failed: {exc} â€” skipping")
+            continue
+
+        for vid in videos:
+            if len(selected) >= count or vid["id"] in used_ids:
+                continue
+            # large â†’ medium â†’ small â€” pick best available quality
+            for quality in ("large", "medium", "small"):
+                clip_url = vid.get("videos", {}).get(quality, {}).get("url", "")
+                if clip_url:
+                    selected.append(clip_url)
+                    used_ids.add(vid["id"])
+                    break
+
+    return selected[:count]
+
+
+def fetch_clips_roundrobin(count: int = 4, orientation: str = "portrait") -> list:
+    """
+    Round-robin B-roll fetching: alternates primary source by day of week.
+    Even days â†’ Pexels first, odd days â†’ Pixabay first.
+    Whichever is primary goes first; the other fills any remaining slots.
+    This spreads API rate limits and keeps clip variety high across runs.
+    """
+    use_pexels_first = (date.today().toordinal() % 2 == 0)
+    label_primary   = "Pexels" if use_pexels_first else "Pixabay"
+    label_secondary = "Pixabay" if use_pexels_first else "Pexels"
+    fetch_primary   = fetch_pexels_clips   if use_pexels_first else fetch_pixabay_clips
+    fetch_secondary = fetch_pixabay_clips  if use_pexels_first else fetch_pexels_clips
+
+    clips = fetch_primary(count=count, orientation=orientation)
+    print(f"  [{label_primary}] {len(clips)} clips")
+
+    if len(clips) < count:
+        needed = count - len(clips)
+        extra  = fetch_secondary(count=needed, orientation=orientation)
+        print(f"  [{label_secondary}] +{len(extra)} supplemental clips")
+        clips.extend(extra)
+
+    return clips[:count]
 
 
 # â”€â”€ URL accessibility check â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
@@ -855,9 +933,9 @@ def main():
         print("[DRY RUN] Saved narration.mp3 and script.json â€” done.")
         return
 
-    print("STEP 4: Fetching Pexels B-roll clips (portrait + landscape)...")
-    portrait_clips  = fetch_pexels_clips(count=4, orientation="portrait")
-    landscape_clips = fetch_pexels_clips(count=4, orientation="landscape")
+    print("STEP 4: Fetching B-roll clips (Pexels + Pixabay round-robin)...")
+    portrait_clips  = fetch_clips_roundrobin(count=4, orientation="portrait")
+    landscape_clips = fetch_clips_roundrobin(count=4, orientation="landscape")
     print(f"  Portrait: {len(portrait_clips)} clips  |  Landscape: {len(landscape_clips)} clips")
     if len(portrait_clips) < 2:
         raise RuntimeError(f"Not enough portrait clips ({len(portrait_clips)}) â€” need â‰¥2 for Shorts B-roll")
