@@ -18,7 +18,7 @@ on:
 jobs:
   video:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
 
     steps:
       - name: Checkout
@@ -32,29 +32,32 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install system dependencies
+        run: sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
         run: pip install anthropic requests
 
       - name: Generate and publish videos
         run: python pipeline/video_single.py ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }}
         env:
-          # ── AI + Media ──────────────────────────────────────────────
+          # â”€â”€ AI + Media â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
           ANTHROPIC_API_KEY:      ${{ secrets.ANTHROPIC_API_KEY }}
           ELEVENLABS_API_KEY:     ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID:    ${{ vars.ELEVENLABS_VOICE_ID }}
           SHOTSTACK_API_KEY:      ${{ secrets.SHOTSTACK_API_KEY }}
           SHOTSTACK_ENV:          production
           PEXELS_API_KEY:         ${{ secrets.PEXELS_API_KEY }}
-          # ── Google / YouTube ─────────────────────────────────────────
+          # â”€â”€ Google / YouTube â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
           GOOGLE_CLIENT_ID:       ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET:   ${{ secrets.GOOGLE_CLIENT_SECRET }}
           GOOGLE_REFRESH_TOKEN:   ${{ secrets.GOOGLE_REFRESH_TOKEN }}
           YOUTUBE_CHANNEL_ID:     ${{ vars.YOUTUBE_CHANNEL_ID }}
-          # ── Site identity ─────────────────────────────────────────────
+          # â”€â”€ Site identity â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
           SITE_NAME:              ${{ vars.SITE_NAME }}
           SITE_DOMAIN:            ${{ vars.SITE_DOMAIN }}
           SITE_NICHE:             ${{ vars.SITE_NICHE }}
-          # ── Git auth ─────────────────────────────────────────────────
+          # â”€â”€ Git auth â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
           PIPELINE_TOKEN:         ${{ secrets.PIPELINE_TOKEN }}
 
       - name: Upload dry-run artifacts
