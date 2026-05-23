@@ -1,0 +1,18 @@
+{{ $currentPage := . }}
+{{ $related := where .Site.RegularPages "Type" "posts" }}
+{{ $related = where $related "Permalink" "ne" $currentPage.Permalink }}
+{{ $related = first 3 $related }}
+{{ with $related }}
+<section style="margin-top:48px;padding-top:32px;border-top:1px solid #e2e8f0;">
+  <h3 style="font-size:1.1rem;font-weight:700;margin-bottom:20px;color:#1e293b;">Related Articles</h3>
+  <ul style="list-style:none;padding:0;margin:0;display:grid;gap:12px;">
+    {{ range . }}
+    <li>
+      <a href="{{ .Permalink }}" style="display:block;padding:14px 18px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;text-decoration:none;color:#1e293b;font-weight:500;transition:background 0.15s;">
+        {{ .Title }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
