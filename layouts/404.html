@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div style="text-align:center;padding:80px 20px;max-width:560px;margin:0 auto;">
+  <p style="font-size:7rem;font-weight:900;color:#e2e8f0;margin:0;line-height:1;">404</p>
+  <h1 style="font-size:1.6rem;margin:16px 0 12px;color:#1e293b;">Page Not Found</h1>
+  <p style="color:#64748b;margin-bottom:32px;line-height:1.6;">
+    Sorry, the page you're looking for doesn't exist or may have moved.<br>
+    Try heading back to the homepage.
+  </p>
+  <a href="/" style="display:inline-block;padding:13px 32px;background:#2563eb;color:#fff;text-decoration:none;border-radius:8px;font-weight:600;font-size:0.95rem;">← Back to Home</a>
+  <p style="margin-top:40px;font-size:0.85rem;color:#94a3b8;">
+    Or browse our latest articles on <a href="/" style="color:#2563eb;">{{ .Site.Title }}</a>
+  </p>
+</div>
+{{ end }}
