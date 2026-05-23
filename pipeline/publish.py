@@ -33,6 +33,7 @@ ANTHROPIC_API_KEY       = os.environ["ANTHROPIC_API_KEY"]
 GITHUB_TOKEN            = os.environ.get("PIPELINE_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
 GITHUB_ORG              = os.environ.get("PORTFOLIO_ORG") or os.environ.get("GITHUB_ORG", "peacoat-sites")
 PEXELS_KEY              = os.environ.get("PEXELS_API_KEY", "")
+PIXABAY_KEY             = os.environ.get("PIXABAY_API_KEY", "55983367-2dc57dad98c991928037ff300")
 FLUX_KEY                = os.environ.get("FLUX_API_KEY", "")
 ANTHROPIC_MONTHLY_BUDGET = float(os.environ.get("ANTHROPIC_MONTHLY_BUDGET", "150"))
 AMAZON_TRACKING_ID      = os.environ.get("AMAZON_TRACKING_ID", "")
@@ -604,6 +605,32 @@ def fetch_image(query: str, used_ids: set) -> dict | None:
     print("  Pexels miss -- trying Flux...")
     return fetch_image_flux(query)
 
+
+def fetch_pixabay_image(query: str, used_ids: set) -> str:
+    """Fetch a unique image from Pixabay."""
+    try:
+        r = requests.get(
+            "https://pixabay.com/api/",
+            params={
+                "key": PIXABAY_KEY,
+                "q": query,
+                "image_type": "photo",
+                "per_page": 20,
+                "orientation": "horizontal",
+                "safesearch": "true",
+            },
+            timeout=10,
+        )
+        if r.status_code == 200:
+            for hit in r.json().get("hits", []):
+                pid = f"pixabay_{hit['id']}"
+                if pid not in used_ids:
+                    used_ids.add(pid)
+                    return hit.get("largeImageURL") or hit.get("webformatURL", "")
+    except Exception:
+        pass
+    return ""
+
 # ── PUBLISHED KEYWORD TRACKING ────────────────────────────────────────────────
 
 def get_published_articles(repo: str) -> list:
@@ -930,6 +957,8 @@ def publish_site(site_name: str, count: int):
     to_publish   = unpublished[:count]
     used_img_ids = load_used_image_ids(repo)  # persistent across runs
 
+    _article_idx = 0
+
     for i, kw_row in enumerate(to_publish, 1):
         keyword  = kw_row.get("keyword", "")
         category = kw_row.get("category", niche)
@@ -950,8 +979,16 @@ def publish_site(site_name: str, count: int):
 
             # Fetch image
             _title_query = title_to_image_query(keyword, site.get("image_query", keyword))
-            image = fetch_image(_title_query, used_img_ids)
-            print(f"    Image: {'ok' if image else 'none'}")
+            if _article_idx % 3 == 1:
+                _pix_url = fetch_pixabay_image(_title_query, used_img_ids)
+                if _pix_url:
+                    image = {"url": _pix_url, "credit": None, "credit_link": None, "source": "pixabay"}
+                else:
+                    image = fetch_image(_title_query, used_img_ids)
+            else:
+                image = fetch_image(_title_query, used_img_ids)
+            _article_idx += 1
+            print(f"    Image: {'ok' if image else 'none'} (source: {image.get('source', 'none') if image else 'none'})")
 
             # Extract FAQ pairs for schema
             faq_pairs = extract_faq_pairs(article["content"])
