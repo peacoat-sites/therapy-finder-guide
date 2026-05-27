@@ -1,0 +1,11 @@
+{{- $asin := .Get "asin" -}}
+{{- $title := .Get "title" | default "Amazon Product" -}}
+{{- $desc := .Get "desc" | default "" -}}
+<div class="amazon-card amazon-card-inline">
+  <a href="https://www.amazon.com/dp/{{ $asin }}/?tag=contentportfo-20" target="_blank" rel="nofollow sponsored noopener">
+    <strong class="amazon-card-title">{{ $title }}</strong>
+    {{- with $desc -}}<p class="amazon-card-desc">{{ . }}</p>{{- end -}}
+    <span class="amazon-btn">Check Price on Amazon</span>
+  </a>
+  <p class="amazon-note"><em>Amazon affiliate link — we earn from qualifying purchases.</em></p>
+</div>
