@@ -7,38 +7,66 @@ description: "Terms of Service for Therapy Finder Guide"
 
 ## Terms of Service
 
-Last updated: January 1, 2026
+*Last updated: May 27, 2026*
 
-By accessing and using Therapy Finder Guide ("the Site"), you agree to be bound by these Terms of Service.
+By using therapyfinderguide.com (the "Site"), you agree to these Terms.
 
-## Use of Content
+---
 
-The content on this Site is for informational and educational purposes only. Nothing on this Site constitutes professional advice. Always consult a qualified professional before acting on any information found here.
+## 1. Informational Purpose Only
 
-## Intellectual Property
+Content on this Site is for general informational and educational purposes only — not professional legal, medical, financial, or other advice. Always consult a qualified professional for decisions specific to your situation.
 
-All content on this Site, including articles, images, and design, is the property of Therapy Finder Guide unless otherwise noted. You may share content with attribution and a link back to the original article.
+---
 
-## Affiliate Disclosure
+## 2. Accuracy
 
-This Site participates in affiliate programs. We may earn a commission when you click links to partner sites and make purchases. This does not affect our editorial independence or the price you pay.
+We work to ensure accuracy but make no warranties about completeness or timeliness. Verify important information from primary sources.
 
-## Disclaimer of Warranties
+---
 
-This Site is provided "as is" without warranties of any kind. We do not guarantee the accuracy, completeness, or usefulness of any information on the Site.
+## 3. Intellectual Property
 
-## Limitation of Liability
+Our original content is copyright protected. You may share links and brief quotes with attribution. Full reproduction requires written permission.
 
-Therapy Finder Guide shall not be liable for any damages arising from your use of or inability to use this Site or its content.
+---
 
-## Third-Party Links
+## 4. Affiliate Links
 
-This Site may contain links to third-party websites. We are not responsible for the content or privacy practices of those sites.
+We participate in affiliate programs including Amazon Associates. We earn commissions on qualifying purchases. This does not affect price or editorial independence.
 
-## Changes to Terms
+---
 
-We reserve the right to modify these Terms at any time. Continued use of the Site constitutes acceptance of updated Terms.
+## 5. Advertising
 
-## Contact
+Ads are served by Google AdSense and potentially other networks. We are not responsible for third-party ad content.
 
-For questions about these Terms, contact us at contact@therapyfinderguide.com
+---
+
+## 6. Third-Party Links
+
+External links are for reference only. We do not endorse linked sites.
+
+---
+
+## 7. Disclaimer of Warranties
+
+THE SITE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND.
+
+---
+
+## 8. Limitation of Liability
+
+Therapy Finder Guide SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES FROM YOUR USE OF THE SITE.
+
+---
+
+## 9. Changes
+
+We may modify these Terms at any time. Continued use constitutes acceptance.
+
+---
+
+## 10. Contact
+
+contact@therapyfinderguide.com
