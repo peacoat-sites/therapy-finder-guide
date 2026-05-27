@@ -6,10 +6,10 @@
     <nav class="breadcrumb">
       <a href="/">Home</a>
       {{ if .Params.categories }}
-      <span>›</span>
+      <span>&rsaquo;</span>
       <a href="/categories/{{ index .Params.categories 0 | urlize }}/">{{ index .Params.categories 0 | title }}</a>
       {{ end }}
-      <span>›</span>
+      <span>&rsaquo;</span>
       <span>{{ .Title | truncate 40 }}</span>
     </nav>
 
@@ -40,10 +40,24 @@
     <!-- Content -->
     <div class="post-content">
       {{ .Content }}
+
+    {{ with .Site.Params.disclaimer }}
+    <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
+    {{ end }}
+    {{ with .Site.Params.persona_name }}
+    <div class="author-bio">
+      <div class="author-avatar">{{ $.Site.Params.persona_initials }}</div>
+      <div class="author-info">
+        <strong class="author-name">{{ . }}</strong>
+        <span class="author-title">{{ $.Site.Params.persona_title }}</span>
+        <p class="author-blurb">{{ $.Site.Params.persona_bio }}</p>
+      </div>
+    </div>
+    {{ end }}
       {{ partial "related-articles.html" . }}
     </div>
 
-    <!-- In-article Ad (after content intro — highest RPM position) -->
+    <!-- In-article Ad (after content intro -- highest RPM position) -->
     <div class="ad-container ad-incontent" style="margin:24px 0">
       <ins class="adsbygoogle"
         style="display:block;text-align:center"
@@ -89,7 +103,7 @@
     <!-- Social Sharing -->
     <div class="social-share">
       <span class="social-share-label">Share this article:</span>
-      <a class="share-btn share-twitter" href="https://twitter.com/intent/tweet?url={{ .Permalink | absURL | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Share on X">𝕏</a>
+      <a class="share-btn share-twitter" href="https://twitter.com/intent/tweet?url={{ .Permalink | absURL | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Share on X">&#x1D54F;</a>
       <a class="share-btn share-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | absURL | urlquery }}" target="_blank" rel="noopener" aria-label="Share on Facebook">f</a>
       <a class="share-btn share-linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | absURL | urlquery }}" target="_blank" rel="noopener" aria-label="Share on LinkedIn">in</a>
       {{ if .Params.image }}<a class="share-btn share-pinterest" href="https://pinterest.com/pin/create/button/?url={{ .Permalink | absURL | urlquery }}&media={{ .Params.image | absURL | urlquery }}&description={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Pin on Pinterest">P</a>{{ end }}
