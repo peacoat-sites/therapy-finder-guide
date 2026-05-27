@@ -1,3 +1,7 @@
+{{ with .Site.Params.adsense_id }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}"
+     crossorigin="anonymous"></script>
+{{ end }}
 <!-- Google Analytics -->
 {{ with .Site.GoogleAnalytics }}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
