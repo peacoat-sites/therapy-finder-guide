@@ -1,43 +1,40 @@
 ---
 title: "About Therapy Finder Guide"
-description: "Learn about Therapy Finder Guide — our mission, editorial standards, and the topics we cover."
-layout: "page"
+date: 2026-01-01
+draft: false
+description: "About Therapy Finder Guide — meet Megan Strand and learn how we help people find and afford therapy."
 ---
 
-## Our Mission
+## About Therapy Finder Guide
 
-Therapy Finder Guide helps people take the first steps toward mental health support — understanding therapy types, finding in-network providers, knowing what to expect in a first session, and navigating insurance coverage. We believe the path to getting help should never be the hardest part.
+Therapy Finder Guide is an independent resource to help people navigate the process of finding mental health care — understanding therapy types, finding providers, managing costs, and knowing what to expect.
+
+## Meet the Editor
+
+**Megan Strand** is the editor behind Therapy Finder Guide.
+
+Megan spent years researching access to mental health care after seeing firsthand how confusing — and discouraging — the process of finding a therapist could be. The insurance confusion, the waitlists, the terminology, the cost uncertainty: there were so many friction points between someone deciding they wanted help and actually sitting in a therapy session.
+
+She writes practical guides to help people move through that process more confidently — understanding what different therapy approaches actually involve, how to use insurance benefits for mental health, what teletherapy platforms offer, and how to find affordable care when insurance isn’t an option.
 
 ## What We Cover
 
-Therapy Finder Guide publishes in-depth, reader-first guides on finding a therapist, types of therapy (CBT, DBT, EMDR), mental health conditions, insurance coverage for therapy, online therapy platforms, and what to expect in therapy.
+Therapy Finder Guide covers the full landscape of mental health care access — CBT, DBT, and other therapy types explained plainly; how to find in-network therapists; sliding scale and low-cost options; teletherapy platforms compared; using HSA/FSA for therapy; and what to expect in a first session.
 
-Every article is researched and written with one goal: give you the clearest, most accurate overview of the topic possible — without burying the answer or pushing you toward a product.
+## Our Approach
 
-## Editorial Standards
-
-We follow a straightforward editorial process:
-
-- **Research-first:** Every article is grounded in publicly available data, government sources, and established industry guidance.
-- **Plain English:** We don't write for search engines — we write for real people who need real answers.
-- **Regular updates:** We review and update articles when rules, rates, or guidance change.
-- **No paid editorial:** Our editorial content is never written or influenced by advertisers or sponsors. Ads and content are strictly separated.
+We don’t refer to specific therapists or take referral fees. We don’t endorse specific platforms beyond explaining what they offer. Our goal is to give you accurate, useful information so you can make your own decision.
 
 ## Important Disclaimer
 
-<div class="disclaimer-box">
+Therapy Finder Guide provides general mental health information only. Megan Strand is a writer and researcher — not a licensed therapist, psychologist, or mental health professional. Nothing on this site is a substitute for professional mental health care.
 
-The content on this site is for **general educational purposes only** and does **not constitute medical or mental health advice**, and is not a substitute for professional mental health treatment. If you are in crisis, please contact the **988 Suicide & Crisis Lifeline** (call or text 988) or your local emergency services. Always consult a **licensed mental health professional** for guidance specific to your situation.
+**If you are in crisis, please contact the 988 Suicide & Crisis Lifeline by calling or texting 988.**
 
-</div>
+## Affiliate Disclosure
 
-## About This Site
-
-Therapy Finder Guide is an independent informational resource. We are not affiliated with any government agency, insurance company, law firm, financial institution, or healthcare provider.
-
-This site may display advertisements through Google AdSense and may contain affiliate links. Clicking an affiliate link and making a purchase may earn us a small commission at no additional cost to you. These relationships never influence our editorial content.
+Some links on this site are affiliate links for books and resources. Purchases may earn us a small commission at no extra cost to you.
 
 ## Contact
 
-Have a question, correction, or feedback? We'd love to hear from you.
-Reach us at: [hello@therapyfinderguide.com](mailto:hello@therapyfinderguide.com)
+Questions or suggestions? [Reach out here](/contact/).
