@@ -1,0 +1,29 @@
+{{- $pageKw := slice -}}
+{{- range .Params.tags -}}{{- $pageKw = $pageKw | append (lower .) -}}{{- end -}}
+{{- range .Params.keywords -}}{{- $pageKw = $pageKw | append (lower .) -}}{{- end -}}
+{{- $products := $.Site.Data.amazon_products.products | default slice -}}
+{{- $matches := slice -}}
+{{- range $products -}}
+  {{- $prod := . -}}
+  {{- $prodTags := slice -}}
+  {{- range .tags -}}{{- $prodTags = $prodTags | append (lower .) -}}{{- end -}}
+  {{- $overlap := intersect $pageKw $prodTags -}}
+  {{- if $overlap -}}{{- $matches = $matches | append $prod -}}{{- end -}}
+{{- end -}}
+{{- $toShow := $matches | first 3 -}}
+{{- if lt (len $toShow) 1 -}}{{- $toShow = $products | first 3 -}}{{- end -}}
+{{- with $toShow -}}
+<div class="amazon-products">
+  <h3 class="amazon-products-heading">Recommended Products</h3>
+  <div class="amazon-products-grid">
+    {{- range . -}}
+    <a href="https://www.amazon.com/dp/{{ .asin }}/?tag=contentportfo-20" target="_blank" rel="nofollow sponsored noopener" class="amazon-card">
+      <strong class="amazon-card-title">{{ .title }}</strong>
+      <p class="amazon-card-desc">{{ .desc }}</p>
+      <span class="amazon-btn">Check Price on Amazon</span>
+    </a>
+    {{- end -}}
+  </div>
+  <p class="amazon-note"><em>As an Amazon Associate we earn from qualifying purchases.</em></p>
+</div>
+{{- end -}}
