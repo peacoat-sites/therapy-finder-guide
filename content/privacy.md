@@ -1,138 +1,80 @@
 ---
 title: "Privacy Policy"
-description: "Privacy Policy for Therapy Finder Guide — how we collect, use, and protect your information."
-layout: "page"
+date: 2026-01-01
+draft: false
+description: "Privacy Policy for Therapy Finder Guide"
 ---
 
-*Last updated: 2026-05-18*
+## Privacy Policy
 
-Therapy Finder Guide ("we," "us," or "our") operates the website at [https://therapyfinderguide.com](https://therapyfinderguide.com) (the "Site"). This Privacy Policy explains how we collect, use, disclose, and protect your information when you visit the Site.
+*Last updated: May 27, 2026*
 
-Please read this policy carefully. By using the Site, you agree to the terms described below.
-
----
-
-## 1. Information We Collect
-
-### Information You Provide
-We collect information you voluntarily provide when contacting us (e.g., your name and email address).
-
-### Automatically Collected Information
-When you visit the Site, third-party services we use may automatically collect:
-
-- Browser type and version
-- Pages visited and time on page
-- Referring URL
-- Device type and operating system
-- General geographic location (country/region)
-
-We do not directly store this data — it is processed by the third-party services described below.
+This Privacy Policy describes how Therapy Finder Guide ("we," "us," or "our") collects, uses, and shares information when you visit therapyfinderguide.com (the "Site").
 
 ---
 
-## 2. Cookies and Tracking Technologies
+## Information We Collect
 
-Our Site uses cookies and similar tracking technologies. A cookie is a small data file stored on your device.
+**Information You Provide:** We do not require account creation. If you contact us, we collect the name, email, and message you provide.
 
-### Types of Cookies We Use
-
-| Type | Purpose | Examples |
-|------|---------|---------|
-| **Necessary** | Site functionality | Session, preference cookies |
-| **Analytics** | Understand traffic patterns | Cloudflare Analytics |
-| **Advertising** | Serve relevant ads | Google AdSense, DoubleClick |
-
-### Your Cookie Choices
-You can control cookies through your browser settings or by declining consent via the banner displayed on your first visit. Note that declining advertising cookies will result in less relevant ads (not no ads).
+**Automatically Collected:** IP address and approximate location, browser type and device, pages visited and time on page, referring URL or search query, and date/time of visit — collected via server logs, cookies, and third-party services.
 
 ---
 
-## 3. Advertising Partners & Third-Party Services
+## Cookies
 
-### Google AdSense & DoubleClick
-We use **Google AdSense** to display advertisements. Google and its partners use cookies — including the **DoubleClick cookie** — to serve ads based on your prior visits to this Site and other sites across the internet. This is known as interest-based advertising.
+| Type | Purpose |
+|---|---|
+| Strictly Necessary | Site functionality |
+| Analytics | Google Analytics — site usage understanding |
+| Advertising | Google AdSense — relevant ad serving |
 
-**To opt out of personalized advertising:**
-- Visit [Google Ad Settings](https://www.google.com/settings/ads)
-- Visit [www.aboutads.info/choices](http://www.aboutads.info/choices/) (DAA opt-out tool)
-- Visit [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) (NAI opt-out tool)
-
-Google's use of advertising cookies enables it and its partners to serve ads based on your visit here and on other sites. For more information, see [Google's Privacy & Terms](https://policies.google.com/technologies/ads).
-
-### Cloudflare Analytics
-We use **Cloudflare Web Analytics** to understand site traffic. Cloudflare Analytics does not use cookies and does not track individual users across sites. See [Cloudflare's Privacy Policy](https://www.cloudflare.com/privacypolicy/).
-
-### Affiliate Programs
-This Site participates in the **Amazon Services LLC Associates Program** and may include other affiliate links. If you click an affiliate link and make a purchase, we may earn a small commission at no additional cost to you. This does not influence our editorial content or recommendations.
+You can disable cookies in your browser. Disabling advertising cookies means less relevant (but still present) ads.
 
 ---
 
-## 4. How We Use Your Information
+## Third-Party Services
 
-We use the information we collect to:
+**Google Analytics:** Collects anonymized usage data. [Privacy Policy](https://policies.google.com/privacy) | [Opt-out](https://tools.google.com/dlpage/gaoptout)
 
-- Operate and improve the Site
-- Respond to inquiries and emails
-- Analyze usage trends and site performance
-- Display relevant advertising
+**Google AdSense:** Serves ads using cookies based on prior browsing. Opt out at [Google Ad Settings](https://www.google.com/settings/ads) or [NAI](https://optout.networkadvertising.org/).
 
-We do **not** sell, trade, or rent your personal information to third parties.
+**Amazon Associates:** We earn commissions on qualifying purchases through our links. [Amazon Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
 
 ---
 
-## 5. Third-Party Links
+## How We Use Information
 
-Our Site may contain links to third-party websites. We have no control over and assume no responsibility for the privacy practices or content of third-party sites. We encourage you to review their privacy policies before providing any personal information.
-
----
-
-## 6. Children's Privacy
-
-Our Site is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us immediately.
+To operate and improve the Site, analyze traffic, serve ads, and respond to inquiries. **We do not sell your personal information.**
 
 ---
 
-## 7. Your Privacy Rights
+## Your Privacy Rights
 
-### California Residents (CCPA)
-If you are a California resident, you have the right to:
-- Know what personal information we collect
-- Request deletion of your personal information
-- Opt out of the sale of personal information (we do not sell personal information)
+**California (CCPA):** Right to know, delete, and opt out of sale. We do not sell data.
 
-To exercise your rights, contact us at the email below.
-
-### European Residents (GDPR)
-If you are located in the European Economic Area, you have rights including the right to access, rectify, or erase your personal data, and the right to object to or restrict processing. To exercise these rights, contact us at [hello@therapyfinderguide.com](mailto:hello@therapyfinderguide.com).
+**European (GDPR):** Rights to access, correct, or delete data. Legal bases: legitimate interest (analytics) and consent (advertising).
 
 ---
 
-## 8. Data Retention
+## Data Retention
 
-We retain personal information (such as emails you send us) only as long as necessary to fulfill the purpose for which it was collected, unless a longer retention period is required by law.
-
----
-
-## 9. Security
-
-We implement reasonable technical and organizational measures to protect your information. However, no method of internet transmission or electronic storage is 100% secure.
+Analytics data: up to 26 months. Contact messages: up to 2 years.
 
 ---
 
-## 10. Changes to This Policy
+## Children’s Privacy
 
-We may update this Privacy Policy periodically. The date of the most recent revision appears at the top of this page. Your continued use of the Site after changes are posted constitutes acceptance of the updated policy.
-
----
-
-## 11. Contact Us
-
-If you have questions about this Privacy Policy or wish to exercise your privacy rights, contact us at:
-
-**Therapy Finder Guide**
-Email: [hello@therapyfinderguide.com](mailto:hello@therapyfinderguide.com)
-Website: [https://therapyfinderguide.com](https://therapyfinderguide.com)
+This Site is not directed at children under 13. We do not knowingly collect their data.
 
 ---
 
-*This site provides general mental health information only. It is not a substitute for professional mental health care. If you are in crisis, contact the 988 Suicide & Crisis Lifeline by calling or texting 988.*
+## Changes
+
+We may update this policy. Changes posted here with revised date.
+
+---
+
+## Contact
+
+contact@therapyfinderguide.com
