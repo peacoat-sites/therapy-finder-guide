@@ -52,7 +52,13 @@
       --hero-c4: {{ .Site.Params.hero_color_4 | default "#1a2744" }};
       --site-accent: {{ .Site.Params.primary_color | default "#c9a84c" }};
     }
-  </style>
+    .author-bio{display:flex;gap:16px;align-items:flex-start;background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:20px;margin:32px 0 20px}
+    .author-avatar{width:52px;height:52px;border-radius:50%;background:var(--primary,#1a3a5c);color:#fff;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;flex-shrink:0;letter-spacing:-0.5px}
+    .author-info .author-name{display:block;font-weight:700;font-size:15px;color:#1e293b;margin-bottom:2px}
+    .author-info .author-title{display:block;font-size:12px;color:#64748b;text-transform:uppercase;letter-spacing:.04em;margin-bottom:8px}
+    .author-info .author-blurb{font-size:14px;color:#475569;line-height:1.6;margin:0}
+    .article-disclaimer{background:#fffbeb;border-left:3px solid #f59e0b;padding:12px 16px;font-size:13px;color:#92400e;border-radius:0 6px 6px 0;margin:20px 0;line-height:1.5}
+    </style>
 
   <!-- AdSense -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsense_id }}" crossorigin="anonymous"></script>
