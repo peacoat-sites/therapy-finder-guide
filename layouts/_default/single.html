@@ -39,7 +39,19 @@
 
     <!-- Content -->
     <div class="post-content">
-      {{ .Content }}
+  {{- $content := .Content -}}
+  {{- $parts := split $content "</h2>" -}}
+  {{- if ge (len $parts) 3 -}}
+    {{- $last := sub (len $parts) 1 -}}
+    {{- range $i, $part := $parts -}}
+      {{- $part | safeHTML -}}
+      {{- if lt $i $last -}}</h2>{{- end -}}
+      {{- if eq $i 1 -}}{{- partial "amazon-product-inline.html" $ -}}{{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $content -}}
+  {{- end -}}
+
 
     {{ with .Site.Params.disclaimer }}
     <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
