@@ -1,52 +1,22 @@
 ---
-title: "Contact Therapy Finder Guide"
-description: "Get in touch with the Therapy Finder Guide team."
-layout: "page"
+title: "Contact"
+description: "Get in touch with Megan Strand at therapyfinderguide.com."
 ---
 
-## Get In Touch
+# Contact Us
 
-We welcome questions, corrections, topic suggestions, and general feedback.
+Have a question, correction, or feedback about something you read on therapyfinderguide.com? We'd love to hear from you.
 
-<div class="contact-grid">
-<div class="contact-card">
+**Email:** [support@therapyfinderguide.com](mailto:support@therapyfinderguide.com)
 
-### Email Us
-The best way to reach us is by email. We typically respond within 2–3 business days.
+Megan Strand personally reads every message and aims to respond within 2-3 business days.
 
-[hello@therapyfinderguide.com](mailto:hello@therapyfinderguide.com)
+## What to Include
 
-</div>
-<div class="contact-card">
+To help us respond quickly, please include:
+- The article or topic your question is about
+- Any specific details that would help us assist you
 
-### Topic Requests
-Want us to cover a specific topic related to mental health & therapy? Send us a note and we'll add it to our editorial queue.
+## What We Can't Help With
 
-</div>
-</div>
-
-## What We Can Help With
-
-- **Content corrections** — Found an error or outdated information? Please let us know. We take accuracy seriously.
-- **Topic suggestions** — Is there something we haven't covered that you'd like explained?
-- **General feedback** — We want to know what's helpful and what isn't.
-
-## What We Cannot Help With
-
-We are an informational resource, not a professional services provider. We are not able to:
-
-- Provide personalized advice on your specific situation
-- Refer you to specific professionals or companies
-- Answer legal, medical, financial, or insurance questions about your individual case
-
-<div class="disclaimer-box">
-
-The content on this site is for **general educational purposes only** and does **not constitute medical or mental health advice**, and is not a substitute for professional mental health treatment. If you are in crisis, please contact the **988 Suicide & Crisis Lifeline** (call or text 988) or your local emergency services. Always consult a **licensed mental health professional** for guidance specific to your situation.
-
-If you need professional guidance, please consult a qualified professional in your area.
-
-</div>
-
-## Advertising & Partnerships
-
-For advertising inquiries, please email us at [hello@therapyfinderguide.com](mailto:hello@therapyfinderguide.com) with "Advertising" in the subject line.
+We're a content-only publication and cannot provide personalized mental health and therapy advice. For professional guidance, please consult a qualified licensed mental health professional.
