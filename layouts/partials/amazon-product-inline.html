@@ -1,0 +1,26 @@
+{{- /* amazon-product-inline.html
+     Renders ONE tag-matched product card inline (mid-article, after 2nd H2).
+     Falls back to first product if no tag matches.
+*/ -}}
+{{- $pageKw := slice -}}
+{{- range .Params.tags -}}{{- $pageKw = $pageKw | append (lower .) -}}{{- end -}}
+{{- range .Params.keywords -}}{{- $pageKw = $pageKw | append (lower .) -}}{{- end -}}
+{{- $products := $.Site.Data.amazon_products.products | default slice -}}
+{{- $pick := index $products 0 -}}
+{{- range $products -}}
+  {{- $prodTags := slice -}}
+  {{- range .tags -}}{{- $prodTags = $prodTags | append (lower .) -}}{{- end -}}
+  {{- if intersect $pageKw $prodTags -}}{{- $pick = . -}}{{- break -}}{{- end -}}
+{{- end -}}
+{{- with $pick -}}
+<div class="amazon-inline-card">
+  <a href="https://www.amazon.com/dp/{{ .asin }}/?tag=contentportfo-20" target="_blank" rel="nofollow sponsored noopener" class="amazon-inline-link">
+    <div class="amazon-inline-body">
+      <span class="amazon-inline-label">Recommended</span>
+      <strong class="amazon-inline-title">{{ .title }}</strong>
+      <p class="amazon-inline-desc">{{ .desc }}</p>
+    </div>
+    <span class="amazon-inline-btn">Check Price &#x2192;</span>
+  </a>
+</div>
+{{- end -}}
