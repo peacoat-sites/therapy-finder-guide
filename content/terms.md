@@ -15,7 +15,7 @@ By using therapyfinderguide.com (the "Site"), you agree to these Terms.
 
 ## 1. Informational Purpose Only
 
-Content on this Site is for general informational and educational purposes only ,  not professional legal, medical, financial, or other advice. Always consult a qualified professional for decisions specific to your situation.
+Content on this Site is for general informational and educational purposes only,  not professional legal, medical, financial, or other advice. Always consult a qualified professional for decisions specific to your situation.
 
 ---
 

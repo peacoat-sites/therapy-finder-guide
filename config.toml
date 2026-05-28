@@ -21,7 +21,7 @@ enableEmoji = true
   image_query = "therapy mental health counseling wellness calm"
   author = "Therapy Finder Guide Editorial Team"
   logo_text = "Therapy Finder Guide"
-  tagline = "Find the right therapy for you ,  mental health resources without the jargon"
+  tagline = "Find the right therapy for you,  mental health resources without the jargon"
   cloudflare_analytics = ""
 
   # Authority theme
@@ -33,7 +33,7 @@ enableEmoji = true
   impact_tracking_id  = ""
   persona_name       = "Megan Strand"
   persona_title      = "Mental Wellness Editor"
-  persona_bio        = "Megan is a mental wellness writer who has spent years researching access to mental health care ,  how people find therapists, what different therapy types involve, and how to navigate insurance coverage for mental health services. She writes to make the process of starting therapy less overwhelming."
+  persona_bio        = "Megan is a mental wellness writer who has spent years researching access to mental health care,  how people find therapists, what different therapy types involve, and how to navigate insurance coverage for mental health services. She writes to make the process of starting therapy less overwhelming."
   persona_initials   = "MS"
   disclaimer         = "This site provides general mental health information only and is not a substitute for professional mental health care. If you are in crisis, please contact the 988 Suicide & Crisis Lifeline by calling or texting 988."
 
