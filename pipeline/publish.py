@@ -33,7 +33,6 @@ ANTHROPIC_API_KEY       = os.environ["ANTHROPIC_API_KEY"]
 GITHUB_TOKEN            = os.environ.get("PIPELINE_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
 GITHUB_ORG              = os.environ.get("PORTFOLIO_ORG") or os.environ.get("GITHUB_ORG", "peacoat-sites")
 PEXELS_KEY              = os.environ.get("PEXELS_API_KEY", "")
-PIXABAY_KEY             = os.environ.get("PIXABAY_API_KEY", "55983367-2dc57dad98c991928037ff300")
 FLUX_KEY                = os.environ.get("FLUX_API_KEY", "")
 ANTHROPIC_MONTHLY_BUDGET = float(os.environ.get("ANTHROPIC_MONTHLY_BUDGET", "150"))
 AMAZON_TRACKING_ID      = os.environ.get("AMAZON_TRACKING_ID", "")
@@ -59,12 +58,6 @@ SITE_PERSONAS = {
             "define it immediately. You are empathetic but practical. You never give legal "
             "advice but you make sure readers understand their rights and options."
         ),
-        "authors": [
-            {"name": "James Harmon", "bio": "Former insurance adjuster with 15 years in claims. Now a consumer advocate helping injury victims understand the process."},
-            {"name": "Sarah Chen", "bio": "Paralegal specializing in personal injury. Helped process over 400 claims across 3 law firms."},
-            {"name": "Michael Torres", "bio": "Legal educator and personal injury claims consultant. Writes to help everyday people navigate the system."},
-            {"name": "Rachel Webb", "bio": "Consumer rights advocate with a background in insurance claims and settlement negotiation."},
-        ],
         "ymyl": True,
         "disclaimer": (
             "*This article is for general informational purposes only and does not constitute legal advice. "
@@ -79,12 +72,6 @@ SITE_PERSONAS = {
             "warm, clear, never condescending, always thorough. You use plain English, define acronyms "
             "immediately, and always point readers to official resources like Medicare.gov."
         ),
-        "authors": [
-            {"name": "Linda Morrison", "bio": "Certified Medicare counselor with 20 years helping seniors understand their benefits options."},
-            {"name": "Robert Hughes", "bio": "Retired insurance broker who specialized in Medicare supplements for over 18 years."},
-            {"name": "Carol Davenport", "bio": "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."},
-            {"name": "David Park", "bio": "Benefits counselor focused on helping Medicare-eligible Americans understand their coverage options."},
-        ],
         "ymyl": True,
         "disclaimer": (
             "*This article is for informational purposes only. Medicare rules change annually. "
@@ -100,12 +87,6 @@ SITE_PERSONAS = {
             "sources like SEIA, EnergySage, and NREL. You write for the curious homeowner who wants "
             "to make a smart, informed decision."
         ),
-        "authors": [
-            {"name": "Derek Walsh", "bio": "Solar installation project manager with 10+ years in residential solar across 6 states."},
-            {"name": "Amanda Park", "bio": "Home energy analyst and solar consultant. Specializes in helping homeowners evaluate solar ROI."},
-            {"name": "Chris Navarro", "bio": "Certified energy auditor and NABCEP-trained solar advisor. Has evaluated over 500 home solar proposals."},
-            {"name": "Priya Mehta", "bio": "Renewable energy researcher and homeowner solar advocate. Focuses on financing, incentives, and long-term savings."},
-        ],
         "ymyl": False,
         "disclaimer": "",
     },
@@ -116,12 +97,6 @@ SITE_PERSONAS = {
             "not just the marketing pitch. You cover permits, HOA rules, system sizing, and real contractor "
             "red flags. You are practical, specific, and respect your reader's intelligence."
         ),
-        "authors": [
-            {"name": "Tom Briggs", "bio": "Licensed electrician and solar installer with 12 years experience in DIY and residential solar projects."},
-            {"name": "Jennifer Liu", "bio": "Green building specialist and NABCEP certified solar professional. Focuses on permits, codes, and contractor selection."},
-            {"name": "Marcus Reed", "bio": "Off-grid systems designer and solar workshop instructor. Helps homeowners plan systems from sizing to battery backup."},
-            {"name": "Kevin Walsh", "bio": "Residential solar contractor turned educator. Writes to help homeowners avoid common installation pitfalls."},
-        ],
         "ymyl": False,
         "disclaimer": "",
     },
@@ -133,12 +108,6 @@ SITE_PERSONAS = {
             "policies actually cover in plain language. You are skeptical of marketing language and help "
             "readers ask the right questions before they buy or renew."
         ),
-        "authors": [
-            {"name": "Patricia Lawson", "bio": "Former claims adjuster with 14 years at a national insurer. Now helps homeowners understand their coverage before they need it."},
-            {"name": "Gary Simmons", "bio": "Independent insurance agent with 20 years helping homeowners compare policies and understand coverage limits."},
-            {"name": "Diane Kowalski", "bio": "Consumer insurance educator and public adjuster with experience handling hundreds of homeowner claims."},
-            {"name": "Brian Oates", "bio": "Risk assessment specialist and home insurance consultant. Focuses on helping homeowners avoid underinsurance."},
-        ],
         "ymyl": True,
         "disclaimer": (
             "*This article is for general informational purposes only and does not constitute insurance advice. "
@@ -155,12 +124,6 @@ SITE_PERSONAS = {
             "the fine print that loan officers tend to gloss over. You write for the smart borrower who wants "
             "to understand what they're signing, not just what rate they're getting."
         ),
-        "authors": [
-            {"name": "David Carver", "bio": "Former mortgage underwriter with 16 years at regional and national lenders. Now explains the mortgage process to home buyers."},
-            {"name": "Susan Park", "bio": "HUD-approved housing counselor and mortgage educator. Has guided over 500 first-time buyers through the loan process."},
-            {"name": "Tom Whitfield", "bio": "Mortgage broker turned consumer advocate. Helps borrowers compare loan products and avoid costly mistakes."},
-            {"name": "Alicia Rivera", "bio": "Real estate finance educator specializing in first-time homebuyer programs and down payment assistance."},
-        ],
         "ymyl": True,
         "disclaimer": (
             "*This article is for educational purposes only and does not constitute financial or mortgage advice. "
@@ -177,12 +140,6 @@ SITE_PERSONAS = {
             "also don't catastrophize. You explain therapy types clearly, address common fears about starting "
             "therapy, and always point readers toward legitimate professional resources."
         ),
-        "authors": [
-            {"name": "Maya Okonkwo", "bio": "Mental health educator and therapist referral specialist. Has helped hundreds of people find their first or next therapist."},
-            {"name": "Jordan Hayes", "bio": "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."},
-            {"name": "Dr. Emily Strauss", "bio": "Psychologist and mental health advocate with 12 years in community mental health and private practice settings."},
-            {"name": "Carlos Mendez", "bio": "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."},
-        ],
         "ymyl": True,
         "disclaimer": (
             "*This article is for general informational purposes only and does not constitute mental health, "
@@ -199,12 +156,6 @@ SITE_PERSONAS = {
             "can wait until Monday, and how to communicate effectively with your vet. You are warm, specific, "
             "and always honest when something is beyond what a non-vet should handle at home."
         ),
-        "authors": [
-            {"name": "Karen Briggs", "bio": "Registered veterinary technician with 13 years of clinical experience in small animal care."},
-            {"name": "Dr. Samuel Osei", "bio": "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."},
-            {"name": "Lisa Tanaka", "bio": "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."},
-            {"name": "Mark Callahan", "bio": "Animal behaviorist and veterinary educator. Helps owners understand their pets' health and behavior."},
-        ],
         "ymyl": True,
         "disclaimer": (
             "*This article is for general informational purposes only and does not constitute veterinary advice. "
@@ -220,12 +171,6 @@ SITE_PERSONAS = {
             "jargon or the upsell. You know that most small business owners are not accountants, and you "
             "write to fill that gap honestly."
         ),
-        "authors": [
-            {"name": "Frank Medina", "bio": "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."},
-            {"name": "Angela Torres", "bio": "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."},
-            {"name": "James O'Brien", "bio": "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."},
-            {"name": "Priya Nair", "bio": "Business finance educator and startup CFO. Specializes in cash flow management and small business funding strategy."},
-        ],
         "ymyl": True,
         "disclaimer": (
             "*This article is for general informational purposes only and does not constitute financial, tax, "
@@ -234,7 +179,147 @@ SITE_PERSONAS = {
             "specific to your situation.*"
         ),
     },
+    "rv-life-guide": {
+        "tone": (
+            "You are a full-time RVer with 8 years on the road and a background in automotive maintenance. "
+            "You write for people who are either living the RV life or seriously considering it -- not tourists. "
+            "You are candid about the hard parts (unexpected repairs, campground realities, budget surprises) "
+            "and enthusiastic about the good parts. You back recommendations with real experience, not manufacturer specs."
+        ),
+        "ymyl": False,
+        "disclaimer": "",
+    },
+    "keto-living-guide": {
+        "tone": (
+            "You are a registered dietitian who has worked with hundreds of clients on low-carb and ketogenic "
+            "diets. You cut through the hype -- you know what the research actually shows, what works for most "
+            "people, and where keto gets oversold. You write practically and without dogma. You respect that "
+            "readers have tried things before and want honest, specific guidance, not cheerleading."
+        ),
+        "ymyl": True,
+        "disclaimer": (
+            "*This article is for general informational purposes only and does not constitute medical or "
+            "dietary advice. Always consult a licensed healthcare provider or registered dietitian before "
+            "making significant changes to your diet, especially if you have a medical condition.*"
+        ),
+    },
+    "chicken-keeper-guide": {
+        "tone": (
+            "You are a backyard chicken keeper with 10 years of hands-on experience raising laying hens "
+            "in suburban and rural settings. You write for people who want real, practical information -- "
+            "not the sanitized version you get from hatchery websites. You are specific about breeds, feed, "
+            "coop design, predator protection, and the things no one warns you about until it's too late."
+        ),
+        "ymyl": False,
+        "disclaimer": "",
+    },
+    "gamedevproducer": {
+        "tone": (
+            "You are an indie game producer and former AAA studio project manager with 14 years in the "
+            "games industry. You write for people who want to make games -- not just dream about it. "
+            "You are honest about the business realities, the technical tradeoffs, and the things that "
+            "actually ship successful games vs the ones that die in development. No hype, no gatekeeping."
+        ),
+        "ymyl": False,
+        "disclaimer": "",
+    },
+    "seniorstrength": {
+        "tone": (
+            "You are a certified personal trainer and physical therapist assistant who specializes in "
+            "working with adults over 60. You have seen what actually works for building strength, "
+            "balance, and mobility in older adults -- and what common advice gets dangerously wrong. "
+            "You write clearly, never condescendingly, and always prioritize safety alongside results."
+        ),
+        "ymyl": True,
+        "disclaimer": (
+            "*This article is for general informational purposes only and does not constitute medical or "
+            "fitness advice. Consult your physician or a licensed physical therapist before starting a "
+            "new exercise program, especially if you have existing health conditions.*"
+        ),
+    },
+    "fixitrightway": {
+        "tone": (
+            "You are a licensed general contractor with 20 years of residential and commercial experience. "
+            "You write for homeowners who want to understand what they're dealing with -- whether they're "
+            "doing it themselves or hiring someone. You are specific about when to DIY and when to call a "
+            "pro, what things actually cost, and how to avoid the most expensive mistakes homeowners make."
+        ),
+        "ymyl": False,
+        "disclaimer": "",
+    },
 }
+
+# ── PORTFOLIO WRITING VOICES ──────────────────────────────────────────────────
+# 4 cross-site contributor personas that rotate round-robin across ALL articles
+# on ALL sites. Each brings a distinct human voice layered on top of the
+# site's domain expertise tone. The name/bio appears as the article byline.
+
+PORTFOLIO_VOICES = [
+    {
+        "name": "Dana Hargrove",
+        "bio": (
+            "Writer with a background in nursing and consumer advocacy. Has personally navigated "
+            "insurance claims, Medicare enrollment, home repairs, and dozens of other real-life "
+            "challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+        ),
+        "style": (
+            "Write with the warmth and directness of someone who has personally been through this. "
+            "Open with a specific scenario the reader will instantly recognize -- not a generic intro. "
+            "Use 'I've seen' and 'what most people don't realize' framing naturally. "
+            "Be protective of the reader's time and money. "
+            "Occasionally acknowledge the frustration of navigating complicated systems before cutting to the useful part. "
+            "The reader should feel like they're getting advice from a knowledgeable friend, not reading a FAQ."
+        ),
+    },
+    {
+        "name": "Alex Reeves",
+        "bio": (
+            "Independent researcher and former investigative journalist covering consumer, health, "
+            "finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, "
+            "or an expert contradicting conventional wisdom, that's where the article starts."
+        ),
+        "style": (
+            "Write with the energy of someone who genuinely got curious about this topic and went deep. "
+            "Use 'I'll be honest' and 'what surprised me was' framing. "
+            "Lead with something that challenges what most people assume about this topic. "
+            "Acknowledge uncertainty honestly -- 'the research here is mixed' is better than false confidence. "
+            "Make the reader feel like they're getting the real story, not the sanitized version. "
+            "Discovery language -- position the article as the result of genuine investigation, not just synthesis."
+        ),
+    },
+    {
+        "name": "Claire Novak",
+        "bio": (
+            "Former financial advisor and certified paralegal who left the industry tired of jargon "
+            "and upsells. Now writes plain-English breakdowns of the things professionals tend to "
+            "overcomplicate. No padding, no hedging, no hand-holding."
+        ),
+        "style": (
+            "Write with crisp, zero-filler directness. Every sentence earns its place or gets cut. "
+            "Open by naming what most coverage gets wrong or glosses over -- then fix it immediately. "
+            "Use concrete comparisons and ranked choices over vague generalities. "
+            "Slightly wry when appropriate -- a dry observation lands better than forced enthusiasm. "
+            "Respect the reader's intelligence: never over-explain, never add a disclaimer where common sense suffices. "
+            "Short paragraphs. Strong verbs. No throat-clearing."
+        ),
+    },
+    {
+        "name": "Maria Vasquez",
+        "bio": (
+            "Community educator and adult learning specialist with a background running workshops on "
+            "health, finance, and consumer topics. Has helped hundreds of people navigate systems "
+            "that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+        ),
+        "style": (
+            "Write with the patience and warmth of someone who has sat across from many people facing this exact situation. "
+            "Open by acknowledging where the reader likely is right now -- without judgment or condescension. "
+            "Use 'you might be wondering' and 'here's what I tell people' framing naturally. "
+            "Anticipate the reader's next question before they have to ask it -- structure the article around unspoken concerns. "
+            "Every section should feel like a direct, thoughtful answer. "
+            "Make complex things feel approachable without dumbing them down."
+        ),
+    },
+]
 
 # ── AMAZON AFFILIATE PRODUCTS (by niche key) ─────────────────────────────────
 # ASINs verified as real, high-review products in each category.
@@ -532,23 +617,6 @@ def get_references_for_niche(niche: str) -> list:
                 break
     return refs or []
 
-STOP_WORDS = {
-    'how','does','what','is','are','to','the','a','an','for','of','with',
-    'in','on','at','by','from','vs','and','or','not','do','can','will',
-    'your','you','best','top','guide','tips','explained','complete','why',
-    'when','where','which','who','should','would','could','get','make',
-    'using','use','about','into','more','most','all','any','its','this'
-}
-
-def title_to_image_query(title: str, fallback_query: str) -> str:
-    """Generate a specific Pexels search query from an article title."""
-    import re
-    words = re.sub(r'[^a-zA-Z0-9\s]', '', title.lower()).split()
-    keywords = [w for w in words if w not in STOP_WORDS and len(w) > 2]
-    if len(keywords) >= 2:
-        return ' '.join(keywords[:4])
-    return fallback_query
-
 # ── IMAGE FETCHING ────────────────────────────────────────────────────────────
 
 def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
@@ -605,75 +673,7 @@ def fetch_image(query: str, used_ids: set) -> dict | None:
     print("  Pexels miss -- trying Flux...")
     return fetch_image_flux(query)
 
-
-def fetch_pixabay_image(query: str, used_ids: set) -> str:
-    """Fetch a unique image from Pixabay."""
-    try:
-        r = requests.get(
-            "https://pixabay.com/api/",
-            params={
-                "key": PIXABAY_KEY,
-                "q": query,
-                "image_type": "photo",
-                "per_page": 20,
-                "orientation": "horizontal",
-                "safesearch": "true",
-            },
-            timeout=10,
-        )
-        if r.status_code == 200:
-            for hit in r.json().get("hits", []):
-                pid = f"pixabay_{hit['id']}"
-                if pid not in used_ids:
-                    used_ids.add(pid)
-                    return hit.get("largeImageURL") or hit.get("webformatURL", "")
-    except Exception:
-        pass
-    return ""
-
 # ── PUBLISHED KEYWORD TRACKING ────────────────────────────────────────────────
-
-def get_published_articles(repo: str) -> list:
-    """Fetch published article titles and slugs for internal linking."""
-    try:
-        r = requests.get(
-            f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/content/posts",
-            headers=GH_HEADERS,
-            timeout=15
-        )
-        if r.status_code == 200:
-            articles = []
-            for f in r.json():
-                if isinstance(f, dict) and f["name"].endswith(".md"):
-                    slug = f["name"].replace(".md", "")
-                    title = slug.replace("-", " ").title()
-                    articles.append({"slug": slug, "title": title, "url": f"/{slug}/"})
-            return articles[:20]
-    except Exception:
-        pass
-    return []
-
-
-def extract_faq_pairs(markdown_text: str) -> list:
-    """Extract FAQ question/answer pairs from article markdown."""
-    import re
-    pairs = []
-    # Find FAQ section (## FAQ or ## Frequently Asked Questions)
-    faq_match = re.search(r'##\s+(?:FAQ|Frequently Asked Questions|Common Questions)[^\n]*\n(.*?)(?=\n##|\Z)', markdown_text, re.IGNORECASE | re.DOTALL)
-    if not faq_match:
-        return pairs
-    faq_section = faq_match.group(1)
-    # Extract H3 question + following paragraph as answer
-    questions = re.findall(r'###\s+([^\n]+)\n+(.*?)(?=\n###|\Z)', faq_section, re.DOTALL)
-    for question, answer in questions[:8]:
-        answer_clean = re.sub(r'\n+', ' ', answer.strip())
-        answer_clean = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', answer_clean)  # strip links
-        answer_clean = re.sub(r'[*_`]', '', answer_clean)  # strip markdown
-        answer_clean = answer_clean[:300].strip()
-        if question.strip() and answer_clean:
-            pairs.append({"question": question.strip(), "answer": answer_clean})
-    return pairs
-
 
 def get_published_slugs(repo: str) -> set:
     """Fetch list of already-published article filenames from GitHub."""
@@ -699,7 +699,7 @@ def keyword_to_slug(keyword: str) -> str:
 
 # ── ARTICLE GENERATION ────────────────────────────────────────────────────────
 
-def generate_article(keyword: str, site_config: dict, persona: dict, priority: str) -> dict:
+def generate_article(keyword: str, site_config: dict, persona: dict, priority: str, voice_style: str = "") -> dict:
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
     niche         = site_config["niche"]
@@ -720,16 +720,6 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
             "Do not list them -- weave them into a sentence as supporting evidence."
         )
 
-    # Internal linking — pass existing articles so Claude can weave in contextual links
-    existing_articles = site_config.get("_published_articles", [])
-    internal_link_instruction = ""
-    if existing_articles:
-        article_list = "\n".join(f'  - [{a["title"]}]({a["url"]})' for a in existing_articles[:15])
-        internal_link_instruction = (
-            f"- Include 2-3 contextual internal links to related articles from this site. "
-            f"Use ONLY URLs from this list, link naturally within sentences, use descriptive anchor text:\n{article_list}"
-        )
-
     ymyl_instruction = ""
     if ymyl:
         ymyl_instruction = (
@@ -738,10 +728,12 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
             "Do not make guarantees or quote specific dollar figures as typical outcomes."
         )
 
+    voice_instruction = f"\n## Your writing voice for this article:\n{voice_style}\n" if voice_style else ""
+
     system_prompt = f"""{tone}
 
 You are writing an article for a {niche} website. The author byline will be {persona['name']}.
-
+{voice_instruction}
 Length target: {length_target['min']}-{length_target['max']} words ({length_target['label']}).
 
 Writing rules (follow every one):
@@ -754,7 +746,6 @@ Writing rules (follow every one):
 - Do not pad with filler. Every paragraph must earn its place.
 {ymyl_instruction}
 {ref_instruction}
-{internal_link_instruction}
 {affiliate_note}
 
 Output ONLY the article body in Markdown. No preamble, no title (title comes from frontmatter)."""
@@ -771,7 +762,7 @@ Structure:
 Make it genuinely useful for someone dealing with this exact situation right now."""
 
     msg = client.messages.create(
-        model="claude-sonnet-4-6" if priority == "high" else "claude-haiku-4-5",
+        model="claude-sonnet-4-6",
         max_tokens=4000,
         system=system_prompt,
         messages=[{"role": "user", "content": user_prompt}]
@@ -780,7 +771,7 @@ Make it genuinely useful for someone dealing with this exact situation right now
 
     # Meta description
     meta = client.messages.create(
-        model="claude-haiku-4-5",
+        model="claude-sonnet-4-6",
         max_tokens=80,
         messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{keyword}'. Plain text only, no quotes."}]
     )
@@ -799,7 +790,6 @@ def build_markdown(
     persona: dict,
     ymyl: bool,
     disclaimer: str,
-    faq_pairs=None,
 ) -> str:
     slug = keyword_to_slug(keyword)
     date = datetime.now(timezone.utc).isoformat()
@@ -815,14 +805,6 @@ def build_markdown(
     if ymyl and disclaimer:
         content += f"\n\n---\n\n{disclaimer}"
 
-    faq_yaml = ""
-    if faq_pairs:
-        faq_lines = "\n".join(
-            f'  - q: "{p["question"].replace(chr(34), chr(39))}"\n    a: "{p["answer"].replace(chr(34), chr(39))}"'
-            for p in faq_pairs
-        )
-        faq_yaml = f"faq:\n{faq_lines}\n"
-
     frontmatter = f"""---
 title: "{keyword.title()}"
 date: {date}
@@ -835,46 +817,12 @@ author: "{persona['name']}"
 author_bio: "{persona['bio']}"
 slug: "{slug}"
 affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
-{faq_yaml}---
+---
 
 """
     return frontmatter + content
 
 # ── GITHUB COMMIT ─────────────────────────────────────────────────────────────
-
-
-def load_used_image_ids(repo: str) -> set:
-    """Load previously used Pexels image IDs from data/used_images.json."""
-    r = requests.get(
-        f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/data/used_images.json",
-        headers=GH_HEADERS,
-    )
-    if r.status_code == 200:
-        try:
-            ids = json.loads(base64.b64decode(r.json()["content"]).decode())
-            return set(str(i) for i in ids)
-        except Exception:
-            pass
-    return set()
-
-
-def save_used_image_ids(repo: str, used_ids: set) -> None:
-    """Persist used image IDs back to data/used_images.json so future runs skip them."""
-    path = "data/used_images.json"
-    payload_content = base64.b64encode(json.dumps(sorted(used_ids)).encode()).decode()
-    r = requests.get(
-        f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/{path}",
-        headers=GH_HEADERS,
-    )
-    body = {"message": "chore: update used image IDs", "content": payload_content}
-    if r.status_code == 200:
-        body["sha"] = r.json()["sha"]
-    requests.put(
-        f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/{path}",
-        headers=GH_HEADERS,
-        json=body,
-    )
-
 
 def commit_to_github(repo: str, filename: str, content: str, message: str) -> bool:
     url = f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/content/posts/{filename}"
@@ -931,14 +879,13 @@ def publish_site(site_name: str, count: int):
     niche = site["niche"]
     print(f"\nPublishing {count} articles to {site_name} ({site['domain']})")
 
-    # Load keywords + already-published slugs + existing articles for internal linking
-    keywords          = load_keywords(repo)
-    published         = get_published_slugs(repo)
-    published_articles = get_published_articles(repo)
-    site["_published_articles"] = published_articles
-    persona_pool   = SITE_PERSONAS.get(repo, {}).get("authors", [{"name": "Editorial Team", "bio": "Content team."}])
+    # Load keywords + already-published slugs
+    keywords       = load_keywords(repo)
+    published      = get_published_slugs(repo)
     ymyl           = SITE_PERSONAS.get(repo, {}).get("ymyl", False)
     disclaimer     = SITE_PERSONAS.get(repo, {}).get("disclaimer", "")
+    # Round-robin offset: continues rotation from where previous publish runs left off
+    voice_offset   = len(published)
 
     if not keywords:
         print(f"  No keywords found")
@@ -955,43 +902,32 @@ def publish_site(site_name: str, count: int):
         return
 
     to_publish   = unpublished[:count]
-    used_img_ids = load_used_image_ids(repo)  # persistent across runs
-
-    _article_idx = 0
+    used_img_ids = set()
 
     for i, kw_row in enumerate(to_publish, 1):
         keyword  = kw_row.get("keyword", "")
         category = kw_row.get("category", niche)
         priority = kw_row.get("priority", "medium").lower()
-        persona  = random.choice(persona_pool)
+        # Round-robin through portfolio voices; offset by published count so rotation
+        # continues correctly across daily runs (article 201 picks up where 200 left off)
+        voice    = PORTFOLIO_VOICES[(voice_offset + i - 1) % len(PORTFOLIO_VOICES)]
+        persona  = {"name": voice["name"], "bio": voice["bio"]}
 
         print(f"\n  [{i}/{count}] {keyword} (priority: {priority}, author: {persona['name']})")
 
         try:
             check_api_budget()
 
-            # Generate article
-            article = generate_article(keyword, site, persona, priority)
+            # Generate article with portfolio voice style
+            article = generate_article(keyword, site, persona, priority, voice_style=voice["style"])
             print(f"    Article: {len(article['content'])} chars")
 
             # Inject affiliate links
             article["content"] = inject_affiliate_links(article["content"], niche)
 
             # Fetch image
-            _title_query = title_to_image_query(keyword, site.get("image_query", keyword))
-            if _article_idx % 3 == 1:
-                _pix_url = fetch_pixabay_image(_title_query, used_img_ids)
-                if _pix_url:
-                    image = {"url": _pix_url, "credit": None, "credit_link": None, "source": "pixabay"}
-                else:
-                    image = fetch_image(_title_query, used_img_ids)
-            else:
-                image = fetch_image(_title_query, used_img_ids)
-            _article_idx += 1
-            print(f"    Image: {'ok' if image else 'none'} (source: {image.get('source', 'none') if image else 'none'})")
-
-            # Extract FAQ pairs for schema
-            faq_pairs = extract_faq_pairs(article["content"])
+            image = fetch_image(site.get("image_query", keyword), used_img_ids)
+            print(f"    Image: {'ok' if image else 'none'}")
 
             # Build markdown
             tags = [w for w in keyword.split() if len(w) > 3][:5]
@@ -1002,7 +938,6 @@ def publish_site(site_name: str, count: int):
                 persona=persona,
                 ymyl=ymyl,
                 disclaimer=disclaimer,
-                faq_pairs=faq_pairs,
             )
 
             # Commit
@@ -1019,7 +954,6 @@ def publish_site(site_name: str, count: int):
             print(f"    Error: {e}")
             continue
 
-    save_used_image_ids(repo, used_img_ids)  # persist for next run
     submit_sitemap(site["domain"])
     print(f"\nDone: {site_name}")
 
@@ -1044,5 +978,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
