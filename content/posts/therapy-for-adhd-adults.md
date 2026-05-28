@@ -3,7 +3,7 @@ title: "Therapy For Adhd Adults"
 date: 2026-05-24T10:54:39.743820+00:00
 draft: false
 description: "Discover effective therapy options for ADHD adults, including cognitive behavioral therapy, coaching, and medication management strategies to improve focus and "
-image: "https://pixabay.com/get/gd4957ca1943e0366662cd223abba21b37ca8d3d713cb0751ad5d56f9894b0f568f8fed38e24f77ad0d7734fe3c3d0e7a0737c9fd2785abf44479d2600fb7951e_1280.jpg"
+image: "https://images.pexels.com/photos/4101145/pexels-photo-4101145.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Conditions"]
 tags: ["therapy", "ADHD", "adults"]
 author: "Jordan Hayes"
