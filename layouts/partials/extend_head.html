@@ -14,7 +14,7 @@
      crossorigin="anonymous"></script>
 {{ end }}
 <!-- Google Analytics -->
-{{ with .Site.GoogleAnalytics }}
+{{ with hugo.GoogleAnalytics }}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
