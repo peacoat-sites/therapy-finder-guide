@@ -19,11 +19,13 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,800;1,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-  <!-- Per-site accent color (from config.toml [params]) -->
+  <!-- Per-site tokens (from config.toml [params]) -->
   <style>
     :root {
       --accent:      {{ .Site.Params.primary_color | default "#c2410c" }};
       --site-accent: {{ .Site.Params.primary_color | default "#c2410c" }};
+      --bg:          {{ .Site.Params.page_bg | default "#fafaf8" }};
+      --surface2:    {{ .Site.Params.surface2 | default "#f5f2ec" }};
     }
   </style>
 
@@ -43,7 +45,7 @@
   {{ partial "extend_head.html" . }}
 
 </head>
-<body>
+<body data-nav="{{ .Site.Params.nav_style | default "light" }}">
 
   {{ partial "trust-ribbon.html" . }}
   {{ partial "header.html" . }}

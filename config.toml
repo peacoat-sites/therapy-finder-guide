@@ -8,6 +8,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#fdf6f9"
+  nav_style = "light"
   description = "Practical guides to finding therapists, understanding therapy types, and navigating mental health care."
   niche = "Mental Health & Therapy"
   adsense_id = "ca-pub-3466203197759215"
