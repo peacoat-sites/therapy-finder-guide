@@ -19,14 +19,9 @@ enableEmoji = true
   author = "Therapy Finder Guide Editorial Team"
   logo_text = "Therapy Finder Guide"
   tagline = "Find the right therapy for you — mental health resources without the jargon"
-  primary_color = "#4a235a"
   cloudflare_analytics = ""
 
   # Authority theme
-  hero_color_1 = "#1a0a17"
-  hero_color_2 = "#831843"
-  hero_color_3 = "#be185d"
-  hero_color_4 = "#0f172a"
   monthly_readers = 43000
   research_hours  = 380
   satisfaction    = 98
