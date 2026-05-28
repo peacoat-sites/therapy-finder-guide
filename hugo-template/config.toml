@@ -19,7 +19,7 @@ enableEmoji = true
   tagline = "SITE_TAGLINE"
   primary_color = "SITE_COLOR"
   cloudflare_analytics = "CF_ANALYTICS_TOKEN"
-  # Authority theme — hero gradient
+  # Authority theme ,  hero gradient
   hero_color_1 = "#1a0a17"
   hero_color_2 = "#831843"
   hero_color_3 = "#be185d"
@@ -28,7 +28,7 @@ enableEmoji = true
   research_hours = 380
   satisfaction = 98
   trust_extra = "Mental health professionals consulted"
-  # Impact affiliate (pet-doctor-guide only — others leave blank)
+  # Impact affiliate (pet-doctor-guide only ,  others leave blank)
   impact_verification = ""
   impact_tracking_id  = ""
 
