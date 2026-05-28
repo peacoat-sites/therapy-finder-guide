@@ -169,10 +169,10 @@
     </div>
 
     <div class="widget">
-      <div class="widget-title">Browse Categories</div>
+      <div class="widget-title">Browse Topics</div>
       <ul class="widget-list">
         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-        <li><a href="/categories/{{ $name | urlize }}/">{{ $name | title }} ({{ len $taxonomy }})</a></li>
+        <li><a href="/categories/{{ $name | urlize }}/">{{ $name | replace "-" " " | title }}</a></li>
         {{ end }}
       </ul>
     </div>
