@@ -2,8 +2,8 @@
 <section class="list-section">
   <div class="list-inner">
     <div class="list-header">
-      <p class="section-label">{{ if .IsHome }}All Articles{{ else }}{{ .Kind | title }}{{ end }}</p>
-      <h1 class="section-title">{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</h1>
+      <p class="section-label">{{ if .IsHome }}All Articles{{ else if eq .Kind "taxonomy" }}Topics{{ else if eq .Kind "term" }}Browse Articles{{ else }}Latest Articles{{ end }}</p>
+      <h1 class="section-title">{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title | title }}{{ end }}</h1>
       {{ if .Description }}<p class="section-desc">{{ .Description }}</p>{{ end }}
     </div>
 
@@ -19,7 +19,7 @@
             {{ end }}
             <div class="article-card-body">
               {{ if .Params.categories }}
-              <span class="article-cat">{{ index .Params.categories 0 }}</span>
+              <span class="article-cat">{{ index .Params.categories 0 | title }}</span>
               {{ end }}
               <h2 class="article-title">{{ .Title }}</h2>
               <p class="article-excerpt">{{ .Summary | plainify | truncate 110 }}</p>
@@ -47,10 +47,10 @@
           <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
         <div class="widget">
-          <div class="widget-title">Browse Topics</div>
+          <div class="widget-title">Categories</div>
           <ul class="widget-list">
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <li><a href="/categories/{{ $name | urlize }}/">{{ $name | replace "-" " " | title }}</a></li>
+            <li><a href="/categories/{{ $name | urlize }}/">{{ $name | title }} ({{ len $taxonomy }})</a></li>
             {{ end }}
           </ul>
         </div>
