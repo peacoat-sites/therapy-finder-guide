@@ -1,47 +1,104 @@
 {{ define "main" }}
 
-{{/* Partition articles — exclude non-post pages (search, about, privacy, etc.) */}}
+{{/* Partition articles — exclude non-post pages */}}
 {{ $pages    := (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
 {{ $featured := index $pages 0 }}
 {{ $second   := index $pages 1 }}
-{{ $rest     := after 2 $pages }}
+{{ $third    := index $pages 2 }}
+{{ $rest     := after 3 $pages }}
 
-<!-- ── ANIMATED GRADIENT HERO ───────────────────────────────────────────── -->
-<section class="hero hero-authority">
-  <div class="hero-authority-inner">
+<!-- ── TOPIC TICKER STRIP ─────────────────────────────────────────── -->
+<div class="ticker-strip" aria-label="Browse topics">
+  <span class="ticker-label">Topics</span>
+  <div class="ticker-outer">
+    <div class="ticker-track">
+      {{- range $name, $taxonomy := .Site.Taxonomies.categories -}}
+      <a href="/categories/{{ $name | urlize }}/" class="ticker-item">{{ $name | replace "-" " " | title }}</a>
+      {{- end -}}
+      {{- range $name, $taxonomy := .Site.Taxonomies.categories -}}
+      <a href="/categories/{{ $name | urlize }}/" class="ticker-item">{{ $name | replace "-" " " | title }}</a>
+      {{- end -}}
+    </div>
+  </div>
+</div>
 
-    <div class="hero-auth-text">
+<!-- ── SPLIT HERO ─────────────────────────────────────────────────── -->
+<section class="hero-split">
+  <div class="hero-split-inner">
+
+    <!-- Left: Editorial text -->
+    <div class="hero-split-text">
       {{ with .Site.Params.niche }}<p class="hero-eyebrow">{{ . }}</p>{{ end }}
-      <h1 class="hero-auth-title">{{ .Site.Params.tagline | default .Site.Title }}</h1>
-      <p class="hero-auth-sub">{{ .Site.Params.description }}</p>
+      <h1 class="hero-split-title">{{ .Site.Params.tagline | default .Site.Title }}</h1>
+      <p class="hero-split-sub">{{ .Site.Params.description }}</p>
       <div class="hero-auth-actions">
         <a href="/posts/" class="btn-hero-primary">Browse All Articles</a>
         <a href="/search/" class="btn-hero-ghost">Search Topics</a>
       </div>
     </div>
 
-    {{ if $featured }}
-    <a href="{{ $featured.Permalink }}" class="hero-feature-card">
-      {{ if $featured.Params.image }}
-      <div class="hero-feature-img">
-        <img src="{{ $featured.Params.image }}" alt="{{ $featured.Title }}" loading="eager">
-      </div>
-      {{ end }}
-      <div class="hero-feature-body">
-        <span class="hero-feature-label">Latest</span>
-        {{ if $featured.Params.categories }}
-        <span class="hero-feature-cat">{{ index $featured.Params.categories 0 | title }}</span>
-        {{ end }}
-        <h2 class="hero-feature-title">{{ $featured.Title }}</h2>
-        <span class="hero-feature-read">{{ $featured.ReadingTime }} min read &rarr;</span>
-      </div>
-    </a>
-    {{ end }}
+    <!-- Right: Featured card + 2 mini-cards -->
+    <div class="hero-split-cards">
 
+      {{ if $featured }}
+      <a href="{{ $featured.Permalink }}" class="hero-feature-card">
+        {{ if $featured.Params.image }}
+        <div class="hero-feature-img">
+          <img src="{{ $featured.Params.image }}" alt="{{ $featured.Title }}" loading="eager">
+        </div>
+        {{ end }}
+        <div class="hero-feature-body">
+          <span class="hero-feature-label">Featured</span>
+          {{ if $featured.Params.categories }}
+          <span class="hero-feature-cat">{{ index $featured.Params.categories 0 | title }}</span>
+          {{ end }}
+          <h2 class="hero-feature-title">{{ $featured.Title }}</h2>
+          <span class="hero-feature-read">{{ $featured.ReadingTime }} min read &rarr;</span>
+        </div>
+      </a>
+      {{ end }}
+
+      <div class="hero-mini-cards">
+        {{ if $second }}
+        <a href="{{ $second.Permalink }}" class="mini-card">
+          {{ if $second.Params.image }}
+          <div class="mini-card-img">
+            <img src="{{ $second.Params.image }}" alt="{{ $second.Title }}" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="mini-card-body">
+            {{ if $second.Params.categories }}
+            <span class="mini-card-cat">{{ index $second.Params.categories 0 | title }}</span>
+            {{ end }}
+            <span class="mini-card-title">{{ $second.Title }}</span>
+            <span class="mini-card-meta">{{ $second.ReadingTime }} min read</span>
+          </div>
+        </a>
+        {{ end }}
+
+        {{ if $third }}
+        <a href="{{ $third.Permalink }}" class="mini-card">
+          {{ if $third.Params.image }}
+          <div class="mini-card-img">
+            <img src="{{ $third.Params.image }}" alt="{{ $third.Title }}" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="mini-card-body">
+            {{ if $third.Params.categories }}
+            <span class="mini-card-cat">{{ index $third.Params.categories 0 | title }}</span>
+            {{ end }}
+            <span class="mini-card-title">{{ $third.Title }}</span>
+            <span class="mini-card-meta">{{ $third.ReadingTime }} min read</span>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+
+    </div>
   </div>
 </section>
 
-<!-- ── STATS STRIP ───────────────────────────────────────────────────────── -->
+<!-- ── STATS STRIP ─────────────────────────────────────────────────── -->
 <div class="stats-strip">
   <div class="stats-strip-inner">
     <div class="stat-item">
@@ -66,7 +123,7 @@
   </div>
 </div>
 
-<!-- ── ARTICLES ──────────────────────────────────────────────────────────── -->
+<!-- ── ARTICLES ────────────────────────────────────────────────────── -->
 <section class="articles-section">
   <div class="articles-inner">
     <div class="articles-wrap">
@@ -74,30 +131,32 @@
       <div class="articles-main">
         <p class="section-label">Latest Articles</p>
 
-        {{ if $second }}
-        <a href="{{ $second.Permalink }}" class="article-card article-card-wide">
-          {{ if $second.Params.image }}
+        {{ if $rest }}
+        {{ $wideCard  := index $rest 0 }}
+        {{ $gridCards := after 1 $rest }}
+
+        <a href="{{ $wideCard.Permalink }}" class="article-card article-card-wide">
+          {{ if $wideCard.Params.image }}
           <div class="article-card-image article-card-image-wide">
-            <img src="{{ $second.Params.image }}" alt="{{ $second.Title }}" loading="lazy">
+            <img src="{{ $wideCard.Params.image }}" alt="{{ $wideCard.Title }}" loading="lazy">
           </div>
           {{ end }}
           <div class="article-card-body">
-            {{ if $second.Params.categories }}
-            <span class="article-cat">{{ index $second.Params.categories 0 | title }}</span>
+            {{ if $wideCard.Params.categories }}
+            <span class="article-cat">{{ index $wideCard.Params.categories 0 | title }}</span>
             {{ end }}
-            <h2 class="article-title article-title-wide">{{ $second.Title }}</h2>
-            <p class="article-excerpt">{{ $second.Summary | plainify | truncate 160 }}</p>
+            <h2 class="article-title article-title-wide">{{ $wideCard.Title }}</h2>
+            <p class="article-excerpt">{{ $wideCard.Summary | plainify | truncate 160 }}</p>
             <div class="article-meta">
-              <span>{{ $second.PublishDate.Format "Jan 2, 2006" }}</span>
-              <span>{{ $second.ReadingTime }} min read</span>
+              <span>{{ $wideCard.PublishDate.Format "Jan 2, 2006" }}</span>
+              <span>{{ $wideCard.ReadingTime }} min read</span>
               <span class="card-read-more">Read Article &rarr;</span>
             </div>
           </div>
         </a>
-        {{ end }}
 
         <div class="articles-grid" style="margin-top:28px">
-          {{ range $rest }}
+          {{ range $gridCards }}
           <a href="{{ .Permalink }}" class="article-card">
             {{ if .Params.image }}
             <div class="article-card-image">
@@ -118,6 +177,7 @@
           </a>
           {{ end }}
         </div>
+        {{ end }}
       </div>
 
       <aside class="sidebar">
