@@ -10,10 +10,11 @@ title = "Therapy Finder Guide"
 
 
 
-enableRobotsTXT = true
-enableEmoji = true
 
 disableHugoGeneratorInject = true
+
+enableRobotsTXT = true
+enableEmoji = true
 
 [pagination]
   pagerSize = 12
