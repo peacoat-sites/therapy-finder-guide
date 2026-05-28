@@ -1,6 +1,10 @@
 <header class="site-header">
   <div class="header-inner">
-    <a href="/" class="site-logo">{{ .Site.Params.logo_text }}</a>
+    <a href="/" class="site-logo">
+      {{- $t1 := .Site.Params.logo_text_1 | default .Site.Params.logo_text -}}
+      {{- $t2 := .Site.Params.logo_text_2 -}}
+      {{- $t1 -}}{{- if $t2 }}<em>{{ $t2 }}</em>{{ end -}}
+    </a>
     <form class="site-search" action="/search/" method="get" role="search">
       <input type="search" name="q" class="search-input" placeholder="Search articles…" aria-label="Search articles" autocomplete="off">
       <button type="submit" class="search-btn" aria-label="Search">
@@ -16,4 +20,3 @@
     <button class="nav-toggle" aria-label="Menu">&#9776;</button>
   </div>
 </header>
-
