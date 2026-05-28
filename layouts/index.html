@@ -13,10 +13,10 @@
   <div class="ticker-outer">
     <div class="ticker-track">
       {{- range $name, $taxonomy := .Site.Taxonomies.categories -}}
-      <a href="/categories/{{ $name | urlize }}/" class="ticker-item">{{ $name | replace "-" " " | title }}</a>
+      <a href="/categories/{{ urlize $name }}/" class="ticker-item">{{ title (replace $name "-" " ") }}</a>
       {{- end -}}
       {{- range $name, $taxonomy := .Site.Taxonomies.categories -}}
-      <a href="/categories/{{ $name | urlize }}/" class="ticker-item">{{ $name | replace "-" " " | title }}</a>
+      <a href="/categories/{{ urlize $name }}/" class="ticker-item">{{ title (replace $name "-" " ") }}</a>
       {{- end -}}
     </div>
   </div>
@@ -194,7 +194,7 @@
           <div class="widget-title">Browse Topics</div>
           <ul class="widget-list">
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <li><a href="/categories/{{ $name | urlize }}/">{{ $name | replace "-" " " | title }}</a></li>
+            <li><a href="/categories/{{ urlize $name }}/">{{ title (replace $name "-" " ") }}</a></li>
             {{ end }}
           </ul>
         </div>
