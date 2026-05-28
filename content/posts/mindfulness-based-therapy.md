@@ -3,7 +3,7 @@ title: "Mindfulness-Based Therapy"
 date: 2026-05-26T12:26:29.874007+00:00
 draft: false
 description: "Discover how mindfulness-based therapy combines ancient meditation practices with modern psychology to reduce stress, anxiety, and depression effectively."
-image: "https://pixabay.com/get/gb5b0f44a5ae01cea61d9b0e8545e6bcdece98aa4cacecbe2c0e744ab441f4399ebc6a62fd24873611ec5ae1bc004f39dfeec8ede58cddc4e7bfed35649947f8a_1280.jpg"
+image: "https://images.pexels.com/photos/3822622/pexels-photo-3822622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Therapy Types"]
 tags: ["mindfulness-based", "therapy"]
 author: "Carlos Mendez"
