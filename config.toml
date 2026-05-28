@@ -39,6 +39,13 @@ enableEmoji = true
   persona_initials   = "MS"
   disclaimer         = "This site provides general mental health information only and is not a substitute for professional mental health care. If you are in crisis, please contact the 988 Suicide & Crisis Lifeline by calling or texting 988."
 
+logo_text_1 = "Therapy"
+logo_text_2 = "Finder"
+primary_color = "#a78bfa"
+hero_color_1 = "#07000f"
+hero_color_2 = "#100020"
+hero_color_3 = "#a78bfa"
+hero_color_4 = "#040009"
 [taxonomies]
   category = "categories"
   tag = "tags"
