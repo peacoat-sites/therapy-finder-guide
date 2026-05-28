@@ -77,16 +77,18 @@
     {{ partial "related-articles.html" . }}
 
     <!-- In-article Ad -->
+    {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_incontent (ne .Site.Params.adsense_slot_incontent "auto") }}
     <div class="ad-container ad-incontent" style="margin:24px 0">
       <ins class="adsbygoogle"
         style="display:block;text-align:center"
         data-ad-client="{{ .Site.Params.adsense_id }}"
-        data-ad-slot="{{ .Site.Params.adsense_slot_header }}"
+        data-ad-slot="{{ .Site.Params.adsense_slot_incontent }}"
         data-ad-format="fluid"
         data-ad-layout="in-article"
         data-full-width-responsive="true"></ins>
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
+    {{ end }}
 
     <!-- Bottom CTA (affiliate) -->
     {{ partial "cta-box.html" . }}
@@ -148,6 +150,7 @@
     </div>
 
     <!-- Sidebar Ad -->
+    {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_sidebar (ne .Site.Params.adsense_slot_sidebar "auto") }}
     <div class="widget" style="padding:0;border:none;background:transparent">
       <ins class="adsbygoogle"
         style="display:block"
@@ -157,6 +160,7 @@
         data-full-width-responsive="true"></ins>
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
+    {{ end }}
 
     <!-- Browse Topics -->
     <div class="widget">

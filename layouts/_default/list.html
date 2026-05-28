@@ -37,6 +37,7 @@
       </div>
 
       <aside class="sidebar">
+        {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_sidebar (ne .Site.Params.adsense_slot_sidebar "auto") }}
         <div class="widget">
           <ins class="adsbygoogle"
             style="display:block"
@@ -46,6 +47,7 @@
             data-full-width-responsive="true"></ins>
           <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
+        {{ end }}
         <div class="widget">
           <div class="widget-title">Categories</div>
           <ul class="widget-list">

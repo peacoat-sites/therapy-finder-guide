@@ -1,19 +1,21 @@
 <!-- Open Graph -->
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
+{{ with .Params.image }}<meta property="og:image" content="{{ . }}">{{ end }}
 <!-- Twitter Card -->
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="{{ if .Params.image }}summary_large_image{{ else }}summary{{ end }}">
 <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ with .Params.image }}<meta name="twitter:image" content="{{ . }}">{{ end }}
 
 {{ with .Site.Params.adsense_id }}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}"
      crossorigin="anonymous"></script>
 {{ end }}
-<!-- Google Analytics -->
+
 <!-- Google Analytics -->
 {{ $gaID := site.Config.Services.GoogleAnalytics.ID }}
 {{ with $gaID }}
@@ -57,13 +59,25 @@
       "position": 1,
       "name": "Home",
       "item": {{ .Site.BaseURL | jsonify }}
+    }{{ if .Params.categories }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ index .Params.categories 0 | title | jsonify }},
+      "item": {{ print .Site.BaseURL "categories/" (index .Params.categories 0 | urlize) "/" | jsonify }}
     },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ .Title | jsonify }},
+      "item": {{ .Permalink | jsonify }}
+    }{{ else }},
     {
       "@type": "ListItem",
       "position": 2,
       "name": {{ .Title | jsonify }},
       "item": {{ .Permalink | jsonify }}
-    }
+    }{{ end }}
   ]
 }
 </script>
