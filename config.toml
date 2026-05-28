@@ -2,6 +2,7 @@ baseURL = "https://therapyfinderguide.com/"
 enableGitInfo = true
 languageCode = "en-us"
 title = "Therapy Finder Guide"
+
 enableRobotsTXT = true
 enableEmoji = true
 
