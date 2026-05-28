@@ -17,7 +17,7 @@ This Privacy Policy describes how Therapy Finder Guide ("we," "us," or "our") co
 
 **Information You Provide:** We do not require account creation. If you contact us, we collect the name, email, and message you provide.
 
-**Automatically Collected:** IP address and approximate location, browser type and device, pages visited and time on page, referring URL or search query, and date/time of visit — collected via server logs, cookies, and third-party services.
+**Automatically Collected:** IP address and approximate location, browser type and device, pages visited and time on page, referring URL or search query, and date/time of visit ,  collected via server logs, cookies, and third-party services.
 
 ---
 
@@ -26,8 +26,8 @@ This Privacy Policy describes how Therapy Finder Guide ("we," "us," or "our") co
 | Type | Purpose |
 |---|---|
 | Strictly Necessary | Site functionality |
-| Analytics | Google Analytics — site usage understanding |
-| Advertising | Google AdSense — relevant ad serving |
+| Analytics | Google Analytics ,  site usage understanding |
+| Advertising | Google AdSense ,  relevant ad serving |
 
 You can disable cookies in your browser. Disabling advertising cookies means less relevant (but still present) ads.
 
