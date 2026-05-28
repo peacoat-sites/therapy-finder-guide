@@ -47,10 +47,10 @@
           <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
         <div class="widget">
-          <div class="widget-title">Categories</div>
+          <div class="widget-title">Browse Topics</div>
           <ul class="widget-list">
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <li><a href="/categories/{{ $name | urlize }}/">{{ $name }} ({{ len $taxonomy }})</a></li>
+            <li><a href="/categories/{{ $name | urlize }}/">{{ $name | replace "-" " " | title }}</a></li>
             {{ end }}
           </ul>
         </div>
