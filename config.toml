@@ -9,7 +9,6 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-author = "Stephen Brenish"
   description = "Practical guides to finding therapists, understanding therapy types, and navigating mental health care."
   niche = "Mental Health & Therapy"
   adsense_id = "ca-pub-3466203197759215"
