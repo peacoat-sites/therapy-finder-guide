@@ -99,21 +99,26 @@ a     { color: inherit; text-decoration: none; }
 /* ── AD COLLAPSE ── */
 .ad-container.ad-empty { margin: 0 !important; padding: 0 !important; min-height: 0 !important; overflow: hidden; max-height: 0; }
 
-/* ── TICKER STRIP ── */
+/* ── TICKER STRIP ──
+   Always dark charcoal — intentionally separate from the nav header color.
+   Dark-nav sites: accent header → dark ticker → light content = clear 3-step hierarchy.
+   Light-nav sites: white header → dark ticker → light content = same clear break.
+*/
 .ticker-strip {
-  background: var(--accent);
+  background: #1c1917;
   overflow: hidden;
   display: flex;
   align-items: stretch;
   height: 36px;
 }
 .ticker-label {
-  background: rgba(0,0,0,0.18);
-  color: rgba(255,255,255,0.95);
+  background: rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.5);
   font-size: 9px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase;
   padding: 0 18px;
   display: flex; align-items: center;
   white-space: nowrap; flex-shrink: 0;
+  border-right: 1px solid rgba(255,255,255,0.1);
 }
 .ticker-outer { flex: 1; overflow: hidden; position: relative; }
 .ticker-outer::before,
@@ -122,8 +127,8 @@ a     { color: inherit; text-decoration: none; }
   position: absolute; top: 0; bottom: 0; width: 28px;
   z-index: 2; pointer-events: none;
 }
-.ticker-outer::before { left: 0;  background: linear-gradient(to right, var(--accent), transparent); }
-.ticker-outer::after  { right: 0; background: linear-gradient(to left,  var(--accent), transparent); }
+.ticker-outer::before { left: 0;  background: linear-gradient(to right, #1c1917, transparent); }
+.ticker-outer::after  { right: 0; background: linear-gradient(to left,  #1c1917, transparent); }
 @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 .ticker-track {
   display: flex; align-items: center;
@@ -132,10 +137,10 @@ a     { color: inherit; text-decoration: none; }
 }
 .ticker-track:hover { animation-play-state: paused; }
 .ticker-item {
-  color: rgba(255,255,255,0.9);
+  color: rgba(255,255,255,0.72);
   font-size: 12px; font-weight: 500;
   white-space: nowrap; padding: 0 20px;
-  text-decoration: none; letter-spacing: 0.02em;
+  text-decoration: none; letter-spacing: 0.04em;
   transition: color 0.18s;
   display: flex; align-items: center;
 }

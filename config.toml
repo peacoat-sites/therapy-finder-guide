@@ -8,7 +8,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-  page_bg = "#fdf6f9"
+  page_bg = "#faf5ff"
   nav_style = "light"
   description = "Practical guides to finding therapists, understanding therapy types, and navigating mental health care."
   niche = "Mental Health & Therapy"
@@ -37,7 +37,7 @@ enableEmoji = true
 
 logo_text_1 = "Therapy"
 logo_text_2 = "Finder"
-primary_color = "#9d174d"
+primary_color = "#7c3aed"
 hero_color_1 = "#07000f"
 hero_color_2 = "#100020"
 hero_color_3 = "#a78bfa"
