@@ -19,7 +19,7 @@
         var t = Math.min((now - start) / duration, 1);
         var eased = 1 - Math.pow(1 - t, 3);
         var val = Math.round(eased * target);
-        el.textContent = val.toLocaleString() + (isPct ? '%' : '');
+        el.textContent = val.toLocaleString();
         if (t < 1) requestAnimationFrame(tick);
       }
       requestAnimationFrame(tick);
