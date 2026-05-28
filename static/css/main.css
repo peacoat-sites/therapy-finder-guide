@@ -277,7 +277,7 @@ a     { color: inherit; text-decoration: none; }
 .card-read-more { margin-left: auto; font-size: 11px; font-weight: 600; color: var(--accent); letter-spacing: 0.04em; }
 
 /* ── SIDEBAR ── */
-.sidebar { display: flex; flex-direction: column; gap: 20px; }
+.sidebar { display: flex; flex-direction: column; gap: 20px; position: sticky; top: 84px; max-height: calc(100vh - 100px); overflow-y: auto; }
 .widget { background: var(--surface); border-radius: var(--radius); padding: 20px; border: 1px solid var(--border); }
 .widget-title { font-family: var(--serif); font-size: 1rem; font-weight: 700; color: var(--text); margin-bottom: 14px; padding-bottom: 10px; border-bottom: 2px solid var(--accent); }
 .widget-list { list-style: none; display: flex; flex-direction: column; gap: 8px; }
