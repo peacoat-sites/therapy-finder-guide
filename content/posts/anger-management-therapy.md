@@ -3,7 +3,7 @@ title: "Anger Management Therapy"
 date: 2026-05-23T10:48:02.853746+00:00
 draft: false
 description: "Anger management therapy helps you understand and control anger triggers. Learn effective techniques to reduce stress, improve relationships, and achieve emotio"
-image: "https://pixabay.com/get/g0363d56a11297990dcd5d8cf7f3746e4f7437818f6513f1d96bd04fa1c7ae1d1794a70fb8f1fbfacbb4b077d05d27a54f006af647465b33b9ddc7abb3af3210e_1280.jpg"
+image: "https://images.pexels.com/photos/4101143/pexels-photo-4101143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Conditions"]
 tags: ["anger", "management", "therapy"]
 author: "Jordan Hayes"
