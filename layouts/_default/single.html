@@ -35,13 +35,19 @@
     <!-- Featured Hero Image — same image shown on the article card -->
     {{ if .Params.image }}
     <div class="post-featured-image" style="margin-bottom:28px">
-      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" style="width:100%;max-height:480px;object-fit:cover;border-radius:var(--radius)">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" fetchpriority="high" style="width:100%;max-height:480px;object-fit:cover;border-radius:var(--radius)">
     </div>
     {{ end }}
 
     <!-- Top CTA (affiliate) -->
     {{ partial "cta-box.html" . }}
 
+    {{ if and (not .IsHome) (gt .WordCount 600) .TableOfContents }}
+    <div class="toc">
+      <span class="toc-label">In this article</span>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
     <!-- Content with inline Amazon product after 2nd H2 -->
     <div class="post-content">
     {{- $content := .Content -}}
@@ -74,6 +80,15 @@
     </div>
     {{ end }}
 
+{{ if eq .Type "posts" }}
+<div class="share-row" style="display:flex;gap:10px;flex-wrap:wrap;margin:32px 0 16px;padding:20px 0;border-top:1px solid var(--border,#e7e5e4);border-bottom:1px solid var(--border,#e7e5e4)">
+  <span style="font-size:13px;font-weight:600;color:var(--stone,#78716c);align-self:center;margin-right:4px">Share:</span>
+  <a href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;padding:7px 14px;background:#000;color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none">X / Twitter</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;padding:7px 14px;background:#1877f2;color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none">Facebook</a>
+  <a href="https://www.reddit.com/submit?url={{ .Permalink | urlquery }}&title={{ .Title | urlquery }}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;padding:7px 14px;background:#ff4500;color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none">Reddit</a>
+  <a href="mailto:?subject={{ .Title | urlquery }}&body={{ .Permalink | urlquery }}" style="display:inline-flex;align-items:center;padding:7px 14px;background:#6b7280;color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none">Email</a>
+</div>
+{{ end }}
     {{ partial "related-articles.html" . }}
 
     <!-- In-article Ad -->
