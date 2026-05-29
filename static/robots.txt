@@ -2,7 +2,6 @@ User-agent: *
 Allow: /
 Disallow: /search/
 Disallow: /tags/
-Disallow: /categories/
 Disallow: /page/
 
 Sitemap: https://therapyfinderguide.com/sitemap.xml
