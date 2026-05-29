@@ -45,7 +45,7 @@
     "@type": "Organization",
     "name": {{ .Site.Title | jsonify }}
   },
-  "url": {{ .Permalink | jsonify }}{{ with .Params.image }},
+  "url": "{{ .Permalink }}"{{ with .Params.image }},
   "image": {{ . | jsonify }}{{ end }}
 }
 </script>
@@ -58,25 +58,25 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": {{ .Site.BaseURL | jsonify }}
+      "item": "{{ .Site.BaseURL }}"
     }{{ if .Params.categories }},
     {
       "@type": "ListItem",
       "position": 2,
       "name": {{ index .Params.categories 0 | title | jsonify }},
-      "item": {{ print .Site.BaseURL "categories/" (index .Params.categories 0 | urlize) "/" | jsonify }}
+      "item": "{{ .Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize }}/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": {{ .Title | jsonify }},
-      "item": {{ .Permalink | jsonify }}
+      "item": "{{ .Permalink }}"
     }{{ else }},
     {
       "@type": "ListItem",
       "position": 2,
       "name": {{ .Title | jsonify }},
-      "item": {{ .Permalink | jsonify }}
+      "item": "{{ .Permalink }}"
     }{{ end }}
   ]
 }
