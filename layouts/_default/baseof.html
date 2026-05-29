@@ -6,7 +6,7 @@
   <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
-  {{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+  {{- if or (eq .Kind "taxonomy") (eq .Kind "term") (and (eq .Kind "section") (not .IsHome)) }}
   <meta name="robots" content="noindex, follow">
   {{- end }}
 
