@@ -638,10 +638,12 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
             return None
         photo = random.choice(photos[:5])
         used_ids.add(str(photo["id"]))
+        def _clean(s: str) -> str:
+            return re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', str(s))
         return {
-            "url":          photo["src"]["large"],
-            "credit":       photo["photographer"],
-            "credit_link":  photo["photographer_url"],
+            "url":          _clean(photo["src"]["large"]),
+            "credit":       _clean(photo["photographer"]),
+            "credit_link":  _clean(photo["photographer_url"]),
             "source":       "pexels",
         }
     except Exception as e:
@@ -793,7 +795,7 @@ def build_markdown(
 ) -> str:
     slug = keyword_to_slug(keyword)
     date = datetime.now(timezone.utc).isoformat()
-    image_url = image["url"] if image else ""
+    image_url = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', image["url"]) if image else ""
 
     content = article["content"]
 
