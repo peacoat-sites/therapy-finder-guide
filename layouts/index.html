@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{/* Partition articles — exclude non-post pages */}}
-{{ $pages    := (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+{{ $pages    := where .Site.RegularPages "Section" "posts" | shuffle }}
 {{ $featured := index $pages 0 }}
 {{ $second   := index $pages 1 }}
 {{ $third    := index $pages 2 }}
@@ -133,7 +133,7 @@
     <div class="articles-wrap">
 
       <div class="articles-main">
-        <p class="section-label">Latest Articles</p>
+        <p class="section-label">More Articles</p>
 
         {{ if $rest }}
         {{ $wideCard  := index $rest 0 }}
