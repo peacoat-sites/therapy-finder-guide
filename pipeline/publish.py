@@ -625,11 +625,18 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
     try:
         r = requests.get(
             "https://api.pexels.com/v1/search",
-            headers={"Authorization": PEXELS_KEY},
+            headers={
+                "Authorization": PEXELS_KEY,
+                # Browser UA required — Cloudflare bot-challenges (error 1010 / 403) the
+                # default python-requests UA under concurrent load, silently dropping images.
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                              "(KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+            },
             params={"query": query, "per_page": 15, "orientation": "landscape"},
             timeout=10
         )
         if r.status_code != 200:
+            print(f"  Pexels non-200 ({r.status_code}) for '{query}'")
             return None
         if int(r.headers.get("X-Ratelimit-Remaining", 200)) < 5:
             return None
@@ -865,6 +872,10 @@ def load_keywords(repo: str) -> list:
     content = base64.b64decode(r.json()["content"]).decode()
     reader = csv.DictReader(io.StringIO(content))
     rows = list(reader)
+    # Shuffle first, then STABLE-sort by priority: high-priority still publishes first,
+    # but topics are randomized within each tier so a batch doesn't pull a run of
+    # consecutive same-category keywords (which clustered same-topic articles by date).
+    random.shuffle(rows)
     order = {"high": 0, "medium": 1, "low": 2}
     rows.sort(key=lambda x: order.get(x.get("priority", "low").lower(), 2))
     return rows
