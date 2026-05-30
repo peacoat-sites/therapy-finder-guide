@@ -859,6 +859,63 @@ def submit_sitemap(domain: str):
     r = requests.put(url, headers={"Authorization": f"Bearer {token}"}, timeout=15)
     print(f"  Sitemap: {'submitted' if r.status_code in [200,204] else 'skipped (' + str(r.status_code) + ')'}")
 
+
+# ── GSC INDEXING API SUBMISSION ───────────────────────────────────────────────
+# Submits newly created article URLs to Google's Indexing API so they begin
+# indexing shortly after publication, instead of waiting for the daily backfill.
+# NOTE: the Indexing API quota is 200 requests/day PER Google Cloud project, and
+# all sites share one project — so this is rate-limit aware: it stops cleanly on
+# 429/403 (quota) and lets the daily backfill task pick up anything it skips.
+
+def _indexing_access_token():
+    refresh = os.environ.get("GSC_INDEXING_TOKEN", "")
+    cid     = os.environ.get("GOOGLE_CLIENT_ID", "")
+    csec    = os.environ.get("GOOGLE_CLIENT_SECRET", "")
+    if not (refresh and cid and csec):
+        return None
+    try:
+        r = requests.post("https://oauth2.googleapis.com/token", data={
+            "client_id":     cid,
+            "client_secret": csec,
+            "refresh_token": refresh,
+            "grant_type":    "refresh_token",
+        }, timeout=15)
+        if r.status_code == 200:
+            return r.json().get("access_token")
+        print(f"  Indexing: token exchange failed ({r.status_code})")
+    except Exception as e:
+        print(f"  Indexing: token error {e}")
+    return None
+
+
+def submit_to_indexing(urls: list):
+    """Submit new article URLs to the Google Indexing API (shared 200/day quota)."""
+    urls = [u for u in urls if u]
+    if not urls:
+        return
+    token = _indexing_access_token()
+    if not token:
+        print("  Indexing: skipped (no GSC_INDEXING_TOKEN)")
+        return
+    headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
+    ok = 0
+    for u in urls:
+        try:
+            r = requests.post(
+                "https://indexing.googleapis.com/v3/urlNotifications:publish",
+                headers=headers, json={"url": u, "type": "URL_UPDATED"}, timeout=15,
+            )
+            if r.status_code == 200:
+                ok += 1
+            elif r.status_code in (429, 403) and ("quota" in r.text.lower() or "rateLimit" in r.text):
+                print(f"  Indexing: daily quota reached after {ok} URLs (daily task will catch the rest)")
+                break
+            else:
+                print(f"  Indexing: {r.status_code} for {u}")
+        except Exception as e:
+            print(f"  Indexing: error {e}")
+    print(f"  Indexing: submitted {ok}/{len(urls)} new URLs to Google")
+
 # ── KEYWORD LOADER ────────────────────────────────────────────────────────────
 
 def load_keywords(repo: str) -> list:
@@ -916,6 +973,7 @@ def publish_site(site_name: str, count: int):
 
     to_publish   = unpublished[:count]
     used_img_ids = set()
+    new_urls     = []   # URLs of articles created this run, for Indexing API submission
 
     for i, kw_row in enumerate(to_publish, 1):
         keyword  = kw_row.get("keyword", "")
@@ -957,6 +1015,8 @@ def publish_site(site_name: str, count: int):
             filename  = keyword_to_slug(keyword) + ".md"
             committed = commit_to_github(repo, filename, markdown, f"Add: {keyword}")
             print(f"    Commit: {'ok' if committed else 'FAILED'}")
+            if committed:
+                new_urls.append(f"https://{site['domain']}/{keyword_to_slug(keyword)}/")
 
             # Organic delay between articles
             delay = random.randint(45, 90)
@@ -968,6 +1028,7 @@ def publish_site(site_name: str, count: int):
             continue
 
     submit_sitemap(site["domain"])
+    submit_to_indexing(new_urls)
     print(f"\nDone: {site_name}")
 
 
