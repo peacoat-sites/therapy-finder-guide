@@ -58,6 +58,8 @@ jobs:
           ANTHROPIC_MONTHLY_BUDGET: ${{ secrets.ANTHROPIC_MONTHLY_BUDGET }}
           GOOGLE_ACCESS_TOKEN:      ${{ secrets.GOOGLE_ACCESS_TOKEN }}
           GSC_INDEXING_TOKEN:       ${{ secrets.GSC_INDEXING_TOKEN }}
+          GOOGLE_CLIENT_ID:         ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET:     ${{ secrets.GOOGLE_CLIENT_SECRET }}
           SITES_CONFIG:             ${{ secrets.SITES_CONFIG }}
           AMAZON_TRACKING_ID:       ${{ secrets.AMAZON_TRACKING_ID }}
 
