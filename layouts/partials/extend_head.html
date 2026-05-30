@@ -1,6 +1,6 @@
 <!-- Open Graph -->
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} » {{ .Site.Title }}{{ end }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
@@ -29,7 +29,6 @@
 {{ end }}
 
 <!-- Schema Markup -->
-
 {{- if .IsHome }}
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","name":"{{ .Site.Title }}","url":"{{ .Site.BaseURL }}","description":"{{ .Site.Params.description }}"}
@@ -55,3 +54,9 @@
 </script>
 {{- end -}}
 {{ end }}
+
+{{- if and (eq .Type "posts") .Params.faqs }}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{- range $i, $faq := .Params.faqs }}{{- if $i }},{{ end }}{"@type":"Question","name":"{{ $faq.q }}","acceptedAnswer":{"@type":"Answer","text":"{{ $faq.a }}"}}{{- end }}]}
+</script>
+{{- end }}
