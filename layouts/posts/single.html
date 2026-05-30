@@ -1,0 +1,212 @@
+{{ define "main" }}
+
+{{- if eq .Section "posts" -}}
+
+{{/* ════════════════════════════════════════════════════════════
+     ARTICLE PAGES  (content/posts/*)
+     Full layout: featured hero image + header + sidebar + ads
+     ════════════════════════════════════════════════════════════ */}}
+
+<div class="post-wrap">
+  <article class="post-main">
+
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb">
+      <a href="/">Home</a>
+      {{ if .Params.categories }}
+      <span>&rsaquo;</span>
+      <a href="/categories/{{ index .Params.categories 0 | urlize }}/">{{ index .Params.categories 0 | title }}</a>
+      {{ end }}
+      <span>&rsaquo;</span>
+      <span>{{ .Title | truncate 50 }}</span>
+    </nav>
+
+    <!-- Category + Title + Meta -->
+    {{ if .Params.categories }}
+    <span class="post-cat">{{ index .Params.categories 0 | title }}</span>
+    {{ end }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-meta">
+      <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
+      {{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }}<span style="color:#64748b;font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
+      <span>{{ .ReadingTime }} min read</span>
+    </div>
+
+    <!-- Featured Hero Image — same image shown on the article card -->
+    {{ if .Params.image }}
+    <div class="post-featured-image" style="margin-bottom:28px">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" fetchpriority="high" style="width:100%;max-height:480px;object-fit:cover;border-radius:var(--radius)">
+    </div>
+    {{ end }}
+
+    <!-- Top CTA (affiliate) -->
+    {{ partial "cta-box.html" . }}
+
+    {{ if and (not .IsHome) (gt .WordCount 600) .TableOfContents }}
+    <div class="toc">
+      <span class="toc-label">In this article</span>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+    <!-- Content with inline Amazon product after 2nd H2 -->
+    <div class="post-content">
+    {{- $content := .Content -}}
+    {{- $parts := split $content "</h2>" -}}
+    {{- if ge (len $parts) 3 -}}
+      {{- $last := sub (len $parts) 1 -}}
+      {{- range $i, $part := $parts -}}
+        {{- $part | safeHTML -}}
+        {{- if lt $i $last -}}</h2>{{- end -}}
+        {{- if eq $i 1 -}}{{- partial "amazon-product-inline.html" $ -}}{{- end -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $content -}}
+    {{- end -}}
+    </div>
+
+    {{ with .Site.Params.disclaimer }}
+    <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
+    {{ end }}
+
+    <!-- Author Bio -->
+    {{ with .Site.Params.persona_name }}
+    <div class="author-bio">
+      <div class="author-avatar">{{ $.Site.Params.persona_initials }}</div>
+      <div class="author-info">
+        <strong class="author-name">{{ . }}</strong>
+        <span class="author-title">{{ $.Site.Params.persona_title }}</span>
+        <p class="author-blurb">{{ $.Site.Params.persona_bio }}</p>
+      </div>
+    </div>
+    {{ end }}
+
+{{ if eq .Type "posts" }}
+<div class="share-row" style="display:flex;gap:10px;flex-wrap:wrap;margin:32px 0 16px;padding:20px 0;border-top:1px solid var(--border,#e7e5e4);border-bottom:1px solid var(--border,#e7e5e4)">
+  <span style="font-size:13px;font-weight:600;color:var(--stone,#78716c);align-self:center;margin-right:4px">Share:</span>
+  <a href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;padding:7px 14px;background:#000;color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none">X / Twitter</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;padding:7px 14px;background:#1877f2;color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none">Facebook</a>
+  <a href="https://www.reddit.com/submit?url={{ .Permalink | urlquery }}&title={{ .Title | urlquery }}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;padding:7px 14px;background:#ff4500;color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none">Reddit</a>
+  <a href="mailto:?subject={{ .Title | urlquery }}&body={{ .Permalink | urlquery }}" style="display:inline-flex;align-items:center;padding:7px 14px;background:#6b7280;color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none">Email</a>
+</div>
+{{ end }}
+    {{ partial "related-articles.html" . }}
+
+    <!-- In-article Ad -->
+    {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_incontent (ne .Site.Params.adsense_slot_incontent "auto") }}
+    <div class="ad-container ad-incontent" style="margin:24px 0">
+      <ins class="adsbygoogle"
+        style="display:block;text-align:center"
+        data-ad-client="{{ .Site.Params.adsense_id }}"
+        data-ad-slot="{{ .Site.Params.adsense_slot_incontent }}"
+        data-ad-format="fluid"
+        data-ad-layout="in-article"
+        data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+    {{ end }}
+
+    <!-- Bottom CTA (affiliate) -->
+    {{ partial "cta-box.html" . }}
+
+    <!-- Tags -->
+    {{ if .Params.tags }}
+    <div class="post-tags">
+      {{ range .Params.tags }}
+      <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Social Sharing -->
+    <div class="social-share">
+      <span class="social-share-label">Share this article:</span>
+      <a class="share-btn share-twitter" href="https://twitter.com/intent/tweet?url={{ .Permalink | absURL | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Share on X">&#x1D54F;</a>
+      <a class="share-btn share-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | absURL | urlquery }}" target="_blank" rel="noopener" aria-label="Share on Facebook">f</a>
+      <a class="share-btn share-linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | absURL | urlquery }}" target="_blank" rel="noopener" aria-label="Share on LinkedIn">in</a>
+      {{ if .Params.image }}<a class="share-btn share-pinterest" href="https://pinterest.com/pin/create/button/?url={{ .Permalink | absURL | urlquery }}&media={{ .Params.image | absURL | urlquery }}&description={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Pin on Pinterest">P</a>{{ end }}
+    </div>
+
+  </article>
+
+  <!-- ── STICKY SIDEBAR (articles only) ── -->
+  <aside class="sidebar">
+
+    <!-- Table of Contents — only if partial exists in this repo -->
+    {{ if templates.Exists "partials/toc.html" }}
+    {{ partial "toc.html" . }}
+    {{ end }}
+
+    <!-- Related Articles widget — reliable recent-posts fallback -->
+    <div class="widget">
+      <div class="widget-title">Related Articles</div>
+      <ul class="widget-list">
+        {{- $currentPermalink := .Permalink -}}
+        {{- $allPosts := where .Site.RegularPages "Section" "posts" -}}
+        {{- $sameCat := slice -}}
+        {{- if .Params.categories -}}
+          {{- $cat := index .Params.categories 0 -}}
+          {{- $sameCat = where $allPosts ".Params.categories" "intersect" (slice $cat) -}}
+        {{- end -}}
+        {{- $candidates := $sameCat | first 8 -}}
+        {{- if lt (len $candidates) 4 -}}
+          {{- $candidates = $allPosts | first 8 -}}
+        {{- end -}}
+        {{- range $candidates -}}
+          {{- if ne .Permalink $currentPermalink -}}
+          <li>
+            <a href="{{ .Permalink }}">
+              {{ .Title }}
+              <span>{{ .ReadingTime }} min</span>
+            </a>
+          </li>
+          {{- end -}}
+        {{- end -}}
+      </ul>
+    </div>
+
+    <!-- Sidebar Ad -->
+    {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_sidebar (ne .Site.Params.adsense_slot_sidebar "auto") }}
+    <div class="widget" style="padding:0;border:none;background:transparent">
+      <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="{{ .Site.Params.adsense_id }}"
+        data-ad-slot="{{ .Site.Params.adsense_slot_sidebar }}"
+        data-ad-format="rectangle"
+        data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+    {{ end }}
+
+    <!-- Browse Topics -->
+    <div class="widget">
+      <div class="widget-title">Browse Topics</div>
+      <ul class="widget-list">
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        {{ $lbl := title (replace $name "-" " ") }}
+        {{ $lbl = replace $lbl "Hr" "HR" }}{{ $lbl = replace $lbl "Pm" "PM" }}{{ $lbl = replace $lbl "Diy" "DIY" }}{{ $lbl = replace $lbl "Hoa" "HOA" }}{{ $lbl = replace $lbl "Hvac" "HVAC" }}{{ $lbl = replace $lbl "Rv" "RV" }}
+        <li><a href="/categories/{{ $name | urlize }}/">{{ $lbl }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+
+  </aside>
+</div>
+
+<!-- Amazon Products bottom strip (articles only) -->
+{{ partial "amazon-products.html" . }}
+
+{{- else -}}
+
+{{/* ════════════════════════════════════════════════════════════
+     NON-ARTICLE PAGES  (about, contact, privacy, etc.)
+     Clean single-column — no ads, no read time, no date, no CTA
+     ════════════════════════════════════════════════════════════ */}}
+
+<div class="page-wrap">
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+</div>
+
+{{- end }}
+{{ end }}
