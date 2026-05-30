@@ -1,6 +1,6 @@
 ---
 title: "Starting Therapy As Adult Guide"
-date: 2026-05-29T12:32:25.288464+00:00
+date: 2026-05-22T07:31:43.242288+00:00
 draft: false
 description: "Thinking about starting therapy as an adult? Discover practical tips on finding the right therapist, what to expect, and how to make the most of every session."
 image: "https://images.pexels.com/photos/5699457/pexels-photo-5699457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

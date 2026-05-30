@@ -1,6 +1,6 @@
 ---
 title: "Support Groups Vs Therapy"
-date: 2026-05-29T21:44:31.127329+00:00
+date: 2026-05-18T09:53:00.110519+00:00
 draft: false
 description: "Explore the key differences between support groups and therapy to find the right mental health option for your needs, goals, and personal situation."
 image: "https://images.pexels.com/photos/7176302/pexels-photo-7176302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

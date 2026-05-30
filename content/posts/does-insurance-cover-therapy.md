@@ -1,6 +1,6 @@
 ---
 title: "Does Insurance Cover Therapy"
-date: 2026-05-18T22:08:26.862948+00:00
+date: 2026-05-26T04:43:25.906951+00:00
 draft: false
 description: "Find out if insurance covers therapy, what mental health benefits are included in your plan, and how to navigate copays, deductibles, and in-network providers."
 image: "https://images.pexels.com/photos/8463151/pexels-photo-8463151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

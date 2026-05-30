@@ -1,6 +1,6 @@
 ---
 title: "How Long Does Therapy Take"
-date: 2026-05-29T12:29:51.056324+00:00
+date: 2026-05-23T21:44:36.811630+00:00
 draft: false
 description: "Wondering how long therapy takes? Discover the key factors that affect treatment length, from therapy type to your personal goals, and what to realistically exp"
 image: "https://images.pexels.com/photos/5699493/pexels-photo-5699493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

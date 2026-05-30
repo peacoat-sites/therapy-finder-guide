@@ -1,6 +1,6 @@
 ---
 title: "Mindfulness-Based Therapy"
-date: 2026-05-26T12:26:29.874007+00:00
+date: 2026-05-19T18:00:39.183874+00:00
 draft: false
 description: "Discover how mindfulness-based therapy combines ancient meditation practices with modern psychology to reduce stress, anxiety, and depression effectively."
 image: "https://images.pexels.com/photos/3822622/pexels-photo-3822622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

@@ -1,6 +1,6 @@
 ---
 title: "Mental Health Parity Law Explained"
-date: 2026-05-29T21:52:16.863821+00:00
+date: 2026-05-27T18:21:56.013277+00:00
 draft: false
 description: "Learn what mental health parity law means, how it protects your access to mental health care, and what to do if your insurance denies coverage unfairly."
 image: "https://images.pexels.com/photos/8112173/pexels-photo-8112173.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

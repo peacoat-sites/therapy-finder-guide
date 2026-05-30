@@ -1,6 +1,6 @@
 ---
 title: "Grief Counseling Guide"
-date: 2026-05-23T10:46:03.401539+00:00
+date: 2026-05-24T13:42:49.735760+00:00
 draft: false
 description: "Discover how grief counseling can help you navigate loss and find healing. Learn about different therapy types, finding the right counselor, and coping strategi"
 image: "https://images.pexels.com/photos/8057357/pexels-photo-8057357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

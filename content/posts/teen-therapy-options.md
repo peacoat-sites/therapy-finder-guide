@@ -1,6 +1,6 @@
 ---
 title: "Teen Therapy Options"
-date: 2026-05-20T00:34:53.618227+00:00
+date: 2026-05-25T12:48:33.503757+00:00
 draft: false
 description: "Explore the best teen therapy options available, from cognitive behavioral therapy to group counseling. Find the right mental health support for your teenager t"
 image: "https://images.pexels.com/photos/27177631/pexels-photo-27177631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

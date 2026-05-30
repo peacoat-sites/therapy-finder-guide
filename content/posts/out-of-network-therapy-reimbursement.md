@@ -1,6 +1,6 @@
 ---
 title: "Out-Of-Network Therapy Reimbursement"
-date: 2026-05-29T21:56:19.701913+00:00
+date: 2026-05-28T05:38:29.936626+00:00
 draft: false
 description: "Learn how out-of-network therapy reimbursement works, what to expect from your insurance plan, and how to maximize your mental health benefits and save money."
 image: "https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

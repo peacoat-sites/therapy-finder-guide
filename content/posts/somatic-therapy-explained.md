@@ -1,6 +1,6 @@
 ---
 title: "Somatic Therapy Explained"
-date: 2026-05-25T12:47:01.595826+00:00
+date: 2026-05-20T04:50:24.472596+00:00
 draft: false
 description: "Somatic therapy explained: Learn how this body-focused healing approach treats trauma and emotional pain by reconnecting mind and body for lasting wellness."
 image: "https://images.pexels.com/photos/5794033/pexels-photo-5794033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Group Therapy Benefits"
-date: 2026-05-27T12:34:09.257539+00:00
+date: 2026-05-24T12:27:25.440937+00:00
 draft: false
 description: "Group therapy offers emotional support, reduces isolation, and provides affordable mental health treatment through shared experiences with others facing similar"
 image: "https://images.pexels.com/photos/7176305/pexels-photo-7176305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Mental Health Crisis Resources"
-date: 2026-05-29T22:00:32.016643+00:00
+date: 2026-05-29T08:47:39.819971+00:00
 draft: false
 description: "Here is a meta description within the 140-155 character range:
 

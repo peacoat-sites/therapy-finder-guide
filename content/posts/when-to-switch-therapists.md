@@ -1,6 +1,6 @@
 ---
 title: "When To Switch Therapists"
-date: 2026-05-28T22:18:49.272225+00:00
+date: 2026-05-22T04:28:25.616035+00:00
 draft: false
 description: "Here is a meta description within the 140-155 character range:
 

@@ -1,6 +1,6 @@
 ---
 title: "Acceptance And Commitment Therapy Act"
-date: 2026-05-26T12:24:03.349835+00:00
+date: 2026-05-21T22:37:04.862909+00:00
 draft: false
 description: "Acceptance and Commitment Therapy (ACT) is a psychological treatment that helps you build psychological flexibility by accepting thoughts and committing to valu"
 image: "https://images.pexels.com/photos/8709181/pexels-photo-8709181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

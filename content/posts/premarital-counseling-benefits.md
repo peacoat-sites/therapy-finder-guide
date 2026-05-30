@@ -1,6 +1,6 @@
 ---
 title: "Premarital Counseling Benefits"
-date: 2026-05-28T22:23:16.011307+00:00
+date: 2026-05-21T17:44:44.539824+00:00
 draft: false
 description: "Discover the key benefits of premarital counseling and how it strengthens communication, builds trust, and prepares couples for a healthy, lasting marriage."
 image: "https://images.pexels.com/photos/5699476/pexels-photo-5699476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
