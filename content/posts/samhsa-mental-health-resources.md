@@ -3,7 +3,7 @@ title: "Samhsa Mental Health Resources"
 date: 2026-05-29T21:50:31.132884+00:00
 draft: false
 description: "Learn about SAMHSA mental health resources, including crisis hotlines, treatment locators, and support programs to help individuals and families find care and r"
-image: ""
+image: "https://images.pexels.com/photos/5711163/pexels-photo-5711163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Resources"]
 tags: ["SAMHSA", "mental", "health", "resources"]
 author: "Maria Vasquez"

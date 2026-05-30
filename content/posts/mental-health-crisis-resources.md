@@ -5,7 +5,7 @@ draft: false
 description: "Here is a meta description within the 140-155 character range:
 
 Find essential mental health crisis resources, hotlines, and support tools to help you or a love"
-image: ""
+image: "https://images.pexels.com/photos/33699794/pexels-photo-33699794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Crisis"]
 tags: ["mental", "health", "crisis", "resources"]
 author: "Dana Hargrove"

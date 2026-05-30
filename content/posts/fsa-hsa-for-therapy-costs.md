@@ -3,7 +3,7 @@ title: "Fsa Hsa For Therapy Costs"
 date: 2026-05-29T21:58:19.699108+00:00
 draft: false
 description: "Save on therapy costs using your FSA or HSA. Learn how these tax-advantaged accounts cover mental health sessions and how to maximize your benefits today."
-image: ""
+image: "https://images.pexels.com/photos/4021803/pexels-photo-4021803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["therapy", "costs"]
 author: "Maria Vasquez"
