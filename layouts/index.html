@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{/* Partition articles — exclude non-post pages */}}
-{{ $pages    := where .Site.RegularPages "Section" "posts" | shuffle }}
+{{ $pages    := (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
 {{ $featured := index $pages 0 }}
 {{ $second   := index $pages 1 }}
 {{ $third    := index $pages 2 }}
