@@ -102,7 +102,7 @@
 
 <!-- ── STATS STRIP ─────────────────────────────────────────────────── -->
 <div class="stats-strip">
-  <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $questions := 0 }}{{ range $posts }}{{ with .Params.faqs }}{{ $questions = add $questions (len .) }}{{ end }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot (int (math.Round (div .WordCount 450.0))) }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (div $tot (len $posts)) }}{{ end }}
+  <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $questions := 0 }}{{ range $posts }}{{ with .Params.faqs }}{{ $questions = add $questions (len .) }}{{ end }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot (int (math.Round (div .WordCount 450.0))) }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (math.Round (div $tot (len $posts))) }}{{ end }}
     <div class="stat-item">
       <span class="stat-counter" data-count="{{ len (where .Site.RegularPages "Section" "posts") }}">—</span>
       <span class="stat-label">Articles Published</span>
