@@ -3,7 +3,7 @@ title: "How To Find An Affordable Therapist Near Me"
 date: 2026-05-30T10:56:46.080310+00:00
 draft: false
 description: "Find affordable therapy options near you with our practical guide. Learn how to search for low-cost therapists, sliding scale fees, and community mental health "
-image: ""
+image: "https://images.pexels.com/photos/36729385/pexels-photo-36729385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["find", "affordable", "therapist", "near"]
 author: "Claire Novak"
