@@ -102,25 +102,25 @@
 
 <!-- ── STATS STRIP ─────────────────────────────────────────────────── -->
 <div class="stats-strip">
-  <div class="stats-strip-inner">
+  <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $words := 0 }}{{ range $posts }}{{ $words = add $words .WordCount }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot .ReadingTime }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (div $tot (len $posts)) }}{{ end }}
     <div class="stat-item">
       <span class="stat-counter" data-count="{{ len (where .Site.RegularPages "Section" "posts") }}">—</span>
       <span class="stat-label">Articles Published</span>
     </div>
     <div class="stat-sep"></div>
     <div class="stat-item">
-      <span class="stat-counter" data-count="{{ .Site.Params.monthly_readers | default 48000 }}">—</span>
-      <span class="stat-label">Monthly Readers</span>
+      <span class="stat-counter" data-count="{{ len .Site.Taxonomies.categories }}">—</span>
+      <span class="stat-label">Topics Covered</span>
     </div>
     <div class="stat-sep"></div>
     <div class="stat-item">
-      <span class="stat-counter" data-count="{{ .Site.Params.research_hours | default 600 }}">—</span>
-      <span class="stat-label">Research Hours</span>
+      <span class="stat-counter" data-count="{{ $words }}">—</span>
+      <span class="stat-label">Words of Research</span>
     </div>
     <div class="stat-sep"></div>
     <div class="stat-item">
-      <span class="stat-counter stat-pct" data-count="{{ .Site.Params.satisfaction | default 97 }}">—</span>
-      <span class="stat-label">Reader Satisfaction</span>
+      <span class="stat-counter" data-count="{{ $avg }}">—</span>
+      <span class="stat-label">Avg. Min Read</span>
     </div>
   </div>
 </div>
