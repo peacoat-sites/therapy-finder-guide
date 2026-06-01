@@ -55,7 +55,7 @@
           <span class="hero-feature-cat">{{ index $featured.Params.categories 0 | title }}</span>
           {{ end }}
           <h2 class="hero-feature-title">{{ $featured.Title }}</h2>
-          <span class="hero-feature-read">{{ $featured.ReadingTime }} min read &rarr;</span>
+          <span class="hero-feature-read">{{ (int (math.Round (div $featured.WordCount 450.0))) }} min read &rarr;</span>
         </div>
       </a>
       {{ end }}
@@ -73,7 +73,7 @@
             <span class="mini-card-cat">{{ index $second.Params.categories 0 | title }}</span>
             {{ end }}
             <span class="mini-card-title">{{ $second.Title }}</span>
-            <span class="mini-card-meta">{{ $second.ReadingTime }} min read</span>
+            <span class="mini-card-meta">{{ (int (math.Round (div $second.WordCount 450.0))) }} min read</span>
           </div>
         </a>
         {{ end }}
@@ -90,7 +90,7 @@
             <span class="mini-card-cat">{{ index $third.Params.categories 0 | title }}</span>
             {{ end }}
             <span class="mini-card-title">{{ $third.Title }}</span>
-            <span class="mini-card-meta">{{ $third.ReadingTime }} min read</span>
+            <span class="mini-card-meta">{{ (int (math.Round (div $third.WordCount 450.0))) }} min read</span>
           </div>
         </a>
         {{ end }}
@@ -102,7 +102,7 @@
 
 <!-- ── STATS STRIP ─────────────────────────────────────────────────── -->
 <div class="stats-strip">
-  <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $questions := 0 }}{{ range $posts }}{{ with .Params.faqs }}{{ $questions = add $questions (len .) }}{{ end }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot .ReadingTime }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (div $tot (len $posts)) }}{{ end }}
+  <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $questions := 0 }}{{ range $posts }}{{ with .Params.faqs }}{{ $questions = add $questions (len .) }}{{ end }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot (int (math.Round (div .WordCount 450.0))) }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (div $tot (len $posts)) }}{{ end }}
     <div class="stat-item">
       <span class="stat-counter" data-count="{{ len (where .Site.RegularPages "Section" "posts") }}">—</span>
       <span class="stat-label">Articles Published</span>
@@ -151,7 +151,7 @@
             <p class="article-excerpt">{{ $wideCard.Summary | plainify | truncate 160 }}</p>
             <div class="article-meta">
               <span>{{ $wideCard.PublishDate.Format "Jan 2, 2006" }}</span>
-              <span>{{ $wideCard.ReadingTime }} min read</span>
+              <span>{{ (int (math.Round (div $wideCard.WordCount 450.0))) }} min read</span>
               <span class="card-read-more">Read Article &rarr;</span>
             </div>
           </div>
@@ -172,7 +172,7 @@
               <h3 class="article-title">{{ .Title }}</h3>
               <p class="article-excerpt">{{ .Summary | plainify | truncate 100 }}</p>
               <div class="article-meta">
-                <span>{{ .ReadingTime }} min read</span>
+                <span>{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
                 <span class="card-read-more">Read &rarr;</span>
               </div>
             </div>

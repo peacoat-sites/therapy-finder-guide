@@ -30,7 +30,7 @@
       {{ $auth := .Site.Params.persona_name | default .Params.author }}{{ with $auth }}<span class="post-author">By <a href="/author/" rel="author" style="color:inherit;font-weight:600">{{ . }}</a></span>{{ end }}
       <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
       {{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }}<span style="color:#64748b;font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
-      <span>{{ .ReadingTime }} min read</span>
+      <span>{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
     </div>
 
     <!-- Featured Hero Image — same image shown on the article card -->
@@ -160,7 +160,7 @@
           <li>
             <a href="{{ .Permalink }}">
               {{ .Title }}
-              <span>{{ .ReadingTime }} min</span>
+              <span>{{ (int (math.Round (div .WordCount 450.0))) }} min</span>
             </a>
           </li>
           {{- end -}}
