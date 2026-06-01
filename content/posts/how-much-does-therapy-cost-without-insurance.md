@@ -3,7 +3,7 @@ title: "How Much Does Therapy Cost Without Insurance"
 date: 2026-05-31T11:10:57.651887+00:00
 draft: false
 description: "Discover how much therapy costs without insurance, including average session prices, sliding scale fees, and affordable mental health options to fit your budget"
-image: ""
+image: "https://images.pexels.com/photos/7176029/pexels-photo-7176029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Costs"]
 tags: ["much", "does", "therapy", "cost", "without"]
 author: "Dana Hargrove"
