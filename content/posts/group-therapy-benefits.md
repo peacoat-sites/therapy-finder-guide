@@ -10,6 +10,17 @@ author: "Carlos Mendez"
 author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "group-therapy-benefits"
 affiliate_disclosure: true
+faqs:
+  - q: "Is group therapy confidential?"
+    a: "Yes, confidentiality applies, but with an important nuance. The therapist is bound by the same legal and ethical confidentiality standards as in individual therapy. Group members are also asked to commit to confidentiality as part of the group agreement. However, unlike a licensed therapist, other group members are not legally bound by HIPAA. The expectation is ethical, not legal, for peers. A good group facilitator explains this clearly at the outset and creates a culture where trust is built and maintained."
+  - q: "Can I be in group therapy and individual therapy at the same time?"
+    a: "Absolutely, and this combination is often recommended. Individual therapy gives you space to process what comes up in group without taking all of the group's time. Some people find that group work accelerates their individual therapy because they start noticing patterns they couldn't see in a one-on-one context. Talk to both providers so they can coordinate if appropriate."
+  - q: "What if I freeze up and can't speak?"
+    a: "You're not required to talk in every session. Most group therapists work with the norm that participation is encouraged but not forced. Even listening is participation. Observing others, recognizing your own reactions, noticing what triggers defensiveness or relief in you, all of that is therapeutic work. Most people who start as quiet observers gradually speak more as they feel safer."
+  - q: "Is group therapy effective for trauma?"
+    a: "It can be, but with important nuances. Trauma-focused groups exist and can be effective, particularly for specific populations like survivors of sexual assault, combat veterans, or people in addiction recovery. However, certain trauma presentations require careful individual stabilization before group work. Modalities like EMDR are typically done individually; our EMDR therapy guide explains why that particular approach requires individual attention. If trauma is your primary concern, discuss with a clinician before choosing the format."
+  - q: "What if I'm in crisis right now?"
+    a: "Group therapy is not an emergency resource. If you're in acute distress or having thoughts of harming yourself, please contact the 988 Suicide and Crisis Lifeline by calling or texting 988. That line is staffed 24 hours a day, seven days a week, and can help you access immediate support. Group therapy is a powerful tool for ongoing mental health, but crisis support needs to come first."
 ---
 
 Imagine sitting in a circle with seven strangers, all of you quiet at first, nobody sure who should speak. Then one person says something you've been too embarrassed to admit to anyone, even your closest friend. And you feel your shoulders drop about two inches. That's group therapy. It's unglamorous, sometimes awkward, and one of the most underrated tools in mental health care.

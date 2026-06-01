@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "mental-health-parity-law-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Does mental health parity mean my insurance has to cover any therapist I choose?"
+    a: "No. Parity requires that the rules governing your mental health coverage be comparable to those governing medical coverage. If your plan uses a network, you're generally still limited to in-network providers unless your plan includes out-of-network benefits. What parity addresses is whether the network itself is adequate and whether the terms of accessing those benefits are equitable."
+  - q: "My insurer keeps denying my therapy claims as 'not medically necessary.' Is that a parity violation?"
+    a: "It might be. Ask your insurer for the specific criteria they're using to make that determination, then compare them to criteria used for analogous physical health services. If the bar is measurably higher for mental health claims, you have the basis for a parity complaint. Your therapist's clinical notes and a letter of medical necessity from your provider can strengthen an appeal significantly."
+  - q: "I have Medicaid. Does parity law apply to my coverage?"
+    a: "Medicaid managed care plans (the most common form of Medicaid) are generally subject to MHPAEA. Traditional fee-for-service Medicaid has some parity requirements under separate rules. The specifics vary by state, so contact your state Medicaid office or a patient advocate for clarity on your particular situation."
+  - q: "I only have 10 therapy sessions covered per year. Isn't that already a parity violation?"
+    a: "Not automatically. The question is whether your plan imposes comparable limits on other outpatient services. If your plan caps outpatient physical therapy at 10 visits per year as well, that limit could be consistent with parity. If your therapist is capped at 10 visits but your physical therapist faces no such limit, that's the kind of disparity worth investigating."
+  - q: "Where do I actually report a parity violation?"
+    a: "For employer-sponsored plans: the Department of Labor's Employee Benefits Security Administration (EBSA) at 1-866-444-3272. For individual or small group market plans: your state insurance commissioner's office. For Medicaid: your state Medicaid agency. Document everything before you call."
 ---
 
 You call your insurance company to ask about therapy coverage. The hold music plays for eleven minutes. When someone finally picks up, they tell you your plan covers "medically necessary" mental health services, but your therapist's claims keep getting denied. Meanwhile, your neighbor had knee surgery last month and sailed through the approval process without a single hiccup. That gap, that specific frustration, is exactly what mental health parity law was designed to close. And understanding it might be the most practical thing you do for your mental health care this year.

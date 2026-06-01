@@ -10,6 +10,17 @@ author: "Carlos Mendez"
 author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "acceptance-and-commitment-therapy-act"
 affiliate_disclosure: true
+faqs:
+  - q: "Is ACT the same as mindfulness therapy?"
+    a: "Not exactly. ACT uses mindfulness techniques as one of its six core components, but it's broader than mindfulness alone. The explicit focus on values and committed action sets it apart. You're not just learning to observe your experience. You're learning to move toward what matters to you while you observe it."
+  - q: "How long does ACT treatment typically take?"
+    a: "This varies significantly by person and presenting concern. Some research protocols for specific conditions run 8 to 12 sessions. Others work with an ACT therapist for a year or more. In my experience, many people notice meaningful shifts in the first 6 to 8 sessions, though deeper change takes time. This isn't a quick fix, and any therapist who promises it is should raise a red flag."
+  - q: "Can ACT help with physical health conditions?"
+    a: "Yes, and this is one of ACT's more compelling applications. The evidence for ACT in chronic pain management is particularly strong. It's also been studied in the context of cancer, diabetes management, and other chronic illnesses, helping people build lives of meaning despite ongoing physical challenges."
+  - q: "Is ACT appropriate for children and adolescents?"
+    a: "ACT has been adapted for younger populations, though the delivery looks different. Playful metaphors and stories replace some of the more abstract concepts. If you're considering therapy for a young person, our child therapy guide for parents covers how to evaluate different approaches and what age-appropriate therapy looks like in practice."
+  - q: "What if ACT doesn't work for me?"
+    a: "That's a fair question to ask upfront. ACT is well-researched but it's not the right fit for every person or every situation. If it doesn't resonate, that's useful information, not a failure. Other approaches like DBT (particularly useful for emotional dysregulation) or trauma-focused work might be better suited. Our overview of DBT therapy is a good next read if you're exploring options."
 ---
 
 Imagine you've tried everything the self-help world told you to try. You've journaled. You've repeated affirmations in the mirror. You've white-knuckled your way through anxious days, telling yourself to "just think positive." And still, the worry is there. The grief is there. The self-doubt hasn't budged. What if the problem isn't that you haven't tried hard enough, but that the strategy itself, the idea that you must eliminate painful thoughts and feelings before you can live fully, is fundamentally flawed? That's exactly the question Acceptance and Commitment Therapy, or ACT, puts on the table. And for a lot of people, it changes everything.

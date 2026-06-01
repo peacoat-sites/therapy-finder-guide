@@ -10,6 +10,17 @@ author: "Jordan Hayes"
 author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "finding-a-therapist-that-takes-insurance"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it usually take to find an in-network therapist?"
+    a: "Realistically, plan for two to four weeks from your first search to your first appointment, though some people find someone within a week and others wait longer. Contacting multiple providers simultaneously, as outlined above, shortens the timeline considerably. Urban areas tend to have more availability than rural ones, and telehealth options have expanded access significantly."
+  - q: "Do I need a referral from my doctor to see a therapist?"
+    a: "It depends on your insurance plan type. HMO plans almost always require a referral from a primary care physician. PPO and EPO plans typically allow you to self-refer directly to a mental health provider. Check your plan documents or call the behavioral health line to confirm before assuming either way."
+  - q: "What's the difference between a psychologist and a therapist for insurance purposes?"
+    a: "Most insurance plans cover both. Psychologists (PhD or PsyD) are licensed at the doctoral level and can administer psychological testing in addition to providing therapy. Licensed therapists (LCSW, LPC, LMFT) hold master's-level licenses. Both are trained to provide evidence-based therapy, and for most common concerns like anxiety, depression, or relationship issues, either is appropriate. Psychiatrists (MD or DO) prescribe medication and are billed differently."
+  - q: "What if I can't afford my copay?"
+    a: "A few things to check: your employer's EAP (often free for several sessions), community mental health centers with sliding-scale fees, and Open Path Collective for reduced-rate private therapy. Also, some therapists will negotiate their fees directly if you're transparent about financial constraints. It's an uncomfortable ask but a legitimate one."
+  - q: "Is online therapy covered by insurance?"
+    a: "Yes, in most cases. The COVID-19 pandemic accelerated insurance parity for telehealth, and the majority of commercial plans now cover video therapy sessions at the same rate as in-person visits. Verify with your insurer, since some plans still have telehealth restrictions or require specific platforms. That said, access has improved substantially since 2020."
 ---
 
 You've finally decided to make the call. Maybe it took months of convincing yourself you were "fine," or maybe something happened last Tuesday that made it undeniable: you need to talk to someone. You open your insurance app, squint at the mental health benefits page, and within about four minutes you're staring at a list of 47 providers, half of whom aren't accepting new patients, three of whom share a single office phone number, and one who retired in 2019. Welcome to the mental health insurance maze. It's genuinely frustrating, and you're not doing anything wrong. The system is just harder than it should be.

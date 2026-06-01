@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "support-groups-vs-therapy"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I go to a support group instead of therapy if I can't afford therapy?"
+    a: "Yes, and honestly, peer support is far better than no support. For many people, a well-facilitated support group combined with consistent self-care practices makes a meaningful difference. That said, if your symptoms are severe, a support group isn't a clinical substitute. Look into community mental health centers and sliding-scale options before writing off professional care entirely. Many people are surprised to find affordable options exist once they start looking."
+  - q: "What's the difference between a support group and group therapy?"
+    a: "This one trips people up regularly. Group therapy is led by a licensed clinician, follows a treatment structure, and is a clinical service you typically pay for and may use insurance for. Support groups are peer-led (usually), free or low-cost, and are about community and shared experience rather than clinical treatment. Both happen in a group setting. They're very different things."
+  - q: "Will I have to share in a support group?"
+    a: "Not right away, and often not at all if you don't want to. Most well-run support groups have a 'no pressure' norm. You can observe for as long as you need. Many people find just listening in those early sessions is itself therapeutic. Once you hear someone articulate something you've been carrying alone, something shifts."
+  - q: "How do I know if a therapist is actually qualified?"
+    a: "In the U.S., licensed therapists hold credentials like LCSW, LPC, LMFT, PhD, PsyD, or MD (for psychiatrists). You can verify licensure through your state's licensing board website. Credentials matter, but so does fit. A therapist can be technically excellent and still not be the right match for you. If after several sessions you feel consistently misunderstood or like you're not making any movement, it's okay to look for someone else."
+  - q: "Can I do both at the same time?"
+    a: "Absolutely, and for many people this is the most effective combination. A therapist helps you build specific skills and process root issues. A support group provides ongoing community and normalizes your experience. They work in parallel, not in competition. Some therapists actively encourage their clients to attend support groups as part of a broader care plan."
 ---
 
 You finally worked up the nerve to tell your doctor you've been struggling. She nods, scribbles something on her notepad, and says, "You might want to try a support group or therapy." You leave the office no clearer than when you walked in. Are those the same thing? Is one better than the other? Can you even afford therapy right now? The vague suggestion felt almost worse than no guidance at all, and if that moment sounds familiar, you're not alone. I've seen this exact confusion derail people for months before they finally get help that actually fits them.

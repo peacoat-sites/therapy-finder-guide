@@ -12,6 +12,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "when-to-switch-therapists"
 affiliate_disclosure: true
+faqs:
+  - q: "How long should I give therapy before deciding it isn't working?"
+    a: "Most clinicians suggest giving a new therapeutic relationship at least eight to twelve sessions before drawing conclusions, assuming your concerns don't involve safety or serious boundary violations. Progress in therapy is rarely linear week to week. That said, if you've raised concerns directly with your therapist and seen no response or adjustment, that timeline can reasonably shorten."
+  - q: "Is it normal to feel worse after starting therapy?"
+    a: "Yes, and this surprises a lot of people. When you start talking about things you've been avoiding, it can temporarily increase distress. This is sometimes called a 'symptom spike,' and it's not automatically a sign something is wrong. The key question is whether the distress feels productive and has some movement to it, or whether it feels like stagnation and confusion with no sense of direction."
+  - q: "Can I see two therapists at once?"
+    a: "Technically yes, though most therapists prefer to be the only one you're working with in individual therapy, and for good reason. Mixed messages and conflicting approaches can be genuinely confusing. If you're in a specialized program (like a DBT skills group alongside individual therapy), that's a structured exception. Outside of that, it's better to make a clean transition."
+  - q: "What if my new therapist isn't covered by insurance?"
+    a: "Out-of-pocket therapy is a real barrier, and it shouldn't be minimized. Options to explore include: therapists who offer sliding scale fees (ask directly, many don't advertise this), community mental health centers, university training clinics where supervised graduate students offer reduced-rate sessions, and Employee Assistance Programs through work, which often cover a set number of free sessions per year."
+  - q: "Do I need to tell my new therapist why I left my last one?"
+    a: "You don't have to, but being honest helps. Your new therapist will want to understand what you've already worked on and what hasn't resonated. Saying 'I felt like I wasn't making progress' or 'I needed someone with more specific training in trauma' gives them useful context. They're not there to judge your previous therapist. They're there to help you move forward."
 ---
 
 You've been seeing your therapist for eight months. You don't dread the appointments exactly, but you don't look forward to them either. Sessions feel a little like going through the motions. You talk, they nod, they ask a clarifying question or two, you wrap up. You leave feeling... fine. Not worse. But not better, either. And somewhere underneath the politeness of it all, you're starting to wonder: is this just how therapy works, or is something off? That quiet question, the one most people push down because they feel guilty even thinking it, is exactly what we need to talk about.

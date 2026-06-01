@@ -10,6 +10,17 @@ author: "Jordan Hayes"
 author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "grief-counseling-guide"
 affiliate_disclosure: true
+faqs:
+  - q: "How is grief counseling different from regular therapy?"
+    a: "Grief counseling is a specialization within therapy, focused specifically on processing loss and bereavement. While many general therapists are capable of helping with grief, a counselor with specialized training in this area will have more targeted tools, deeper familiarity with grief research, and experience with the specific patterns that arise after loss. That said, a skilled generalist therapist who you connect with is often more valuable than a specialist you don't click with."
+  - q: "How long does grief counseling typically take?"
+    a: "There's no universal answer. For straightforward grief without complicating factors, many people experience real progress in 8 to 16 sessions over a few months. For Prolonged Grief Disorder or grief entangled with trauma or depression, treatment may take longer. Therapy isn't a linear process, and the goal isn't speed. It's building real capacity to carry what you're carrying."
+  - q: "Can grief counseling help if the loss happened years ago?"
+    a: "Absolutely. Unprocessed grief doesn't have an expiration date. Many people come to grief counseling years or even decades after a loss because something in the present, an anniversary, a new loss, a major life transition, has opened it back up. There's no such thing as grief that's 'too old' to address."
+  - q: "Is grief counseling covered by insurance?"
+    a: "Many insurance plans do cover therapy for grief, particularly when it meets criteria for a diagnosable condition like Major Depressive Disorder or Prolonged Grief Disorder. The specifics vary significantly by plan. For a detailed breakdown of how to check your coverage and what to ask, our article on finding a therapist that takes insurance walks through the process step by step."
+  - q: "What if I can't afford grief counseling right now?"
+    a: "There are real options. Community mental health centers often offer sliding-scale fees. Hospice organizations typically provide free bereavement support to the families of patients they've served. University training clinics offer lower-cost sessions with supervised graduate students. And peer-led grief groups, while not clinical therapy, can provide meaningful support at no cost. If you're struggling to find affordable options, SAMHSA's treatment locator can help you find services by zip code and filter by payment options."
 ---
 
 Grief doesn't follow a schedule. You can be fine at the grocery store and completely fall apart in the car on the way home because a song came on. You can feel okay for three weeks and then get blindsided on a random Tuesday by a wave of sadness so heavy it's hard to breathe. One of the most disorienting things about grief is that it doesn't look the way people expect it to, and that gap between expectation and reality is exactly where a lot of people quietly suffer alone, wondering if something is wrong with them. Nothing is wrong with you. But grief counseling might be one of the most useful tools you haven't considered yet.

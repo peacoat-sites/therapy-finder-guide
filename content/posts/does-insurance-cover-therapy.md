@@ -10,6 +10,17 @@ author: "Jordan Hayes"
 author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "does-insurance-cover-therapy"
 affiliate_disclosure: true
+faqs:
+  - q: "Does insurance cover online therapy or teletherapy?"
+    a: "Yes, for most plans. Telehealth parity laws have expanded significantly since 2020, and many states now require insurers to reimburse for video and phone-based therapy at the same rate as in-person visits. Some platforms like Talkspace and BetterHelp work with certain insurers directly, though coverage varies. Always verify before assuming."
+  - q: "What does 'prior authorization' mean for therapy, and do I need one?"
+    a: "Prior authorization means your insurance company wants to approve the treatment before agreeing to cover it. Not all plans require it for outpatient therapy, but some do. If yours does, your therapist's office typically handles the paperwork. Failing to get one when required can result in denied claims, so this is one of the questions worth asking explicitly during your benefits verification call."
+  - q: "Can a therapist charge me more than my copay?"
+    a: "In most cases, no. In-network therapists have agreed to contracted rates with your insurer. They can charge you your copay or coinsurance amount, but they generally can't bill you for the difference between their standard rate and the insurance rate (a practice called 'balance billing'). Out-of-network therapists don't have these same restrictions."
+  - q: "What if my insurance denies coverage for therapy?"
+    a: "You have the right to appeal. Ask your insurer for the denial in writing and the specific reason. Common grounds for appeal include demonstrating medical necessity, which your therapist can support with documentation, or pointing out a parity violation if you believe mental health claims are being handled differently than comparable medical claims. Your state insurance commissioner's office is also a resource if you believe your rights are being violated."
+  - q: "Does insurance cover couples therapy or family therapy?"
+    a: "This one is tricky. Many insurance plans do not cover couples therapy unless there's a diagnosable mental health condition being treated. Family therapy is more likely to be covered when a child or family member with a diagnosis is the identified patient. It's not a hard no across the board, but it requires careful verification. Some therapists handle this by billing for the individual with the diagnosis while conducting joint sessions."
 ---
 
 You call your insurance company on a Tuesday morning, ready to finally book that first therapy appointment. Forty-five minutes later, you hang up more confused than when you started. Deductibles, out-of-pocket maximums, "in-network" versus "out-of-network," prior authorization, mental health parity. The words blur together. And somewhere in that blur, the idea of actually *going* to therapy quietly gets shelved. I've watched this happen to people more times than I can count, and it's one of the most frustrating obstacles between someone and the help they need. The good news is that most insurance plans do cover therapy to some meaningful degree, but understanding exactly what you're entitled to takes a little unpacking.

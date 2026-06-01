@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-find-an-affordable-therapist-near-me"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I find a therapist if I have no insurance and very little money?"
+    a: "Yes. Community mental health centers operate on sliding-scale fees that can reach $0 for qualifying individuals. University training clinics often charge $5 to $30 per session. Open Path Collective specifically connects clients with therapists charging $30 to $80 per session for those without insurance. Not having insurance does not close the door."
+  - q: "What's the difference between a therapist, a psychologist, and a psychiatrist?"
+    a: "A therapist or counselor is a broad term for licensed clinicians who provide talk therapy, including LCSWs (licensed clinical social workers), LPCs (licensed professional counselors), and MFTs (marriage and family therapists). A psychologist holds a doctoral degree (PhD or PsyD) and also provides therapy, often with more specialized training for assessment. A psychiatrist is a medical doctor who primarily manages psychiatric medications. If you need therapy, you're looking for the first or second category. If you need medication evaluation, you need a psychiatrist or a primary care physician."
+  - q: "How do I know if a therapist is a good fit?"
+    a: "A good fit means you feel heard, not judged, and the therapist is doing more than just nodding. By the second or third session, you should have some sense of a treatment direction. If you leave sessions feeling more confused about what you're working on than when you arrived, say so. A good therapist welcomes that feedback. A poor fit doesn't mean therapy doesn't work, it means that particular therapist isn't right for you."
+  - q: "Is online therapy as effective as in-person?"
+    a: "For mild to moderate anxiety and depression in adults, the research generally shows comparable outcomes. For more complex presentations, including trauma disorders, active psychosis, or situations requiring crisis management, in-person care with a specialist is typically more appropriate. Convenience is a real benefit of online therapy, but it's not inherently superior, and it's not always cheaper once you account for insurance benefits you might have for in-person care."
+  - q: "How long will I need to go to therapy?"
+    a: "It depends on what you're working on and what you want. Short-term, structured approaches like CBT often produce meaningful results in 8 to 20 sessions for specific issues like phobias or mild depression. Deeper work on personality patterns, complex trauma, or relationship dynamics tends to take longer. A good therapist will set goals with you early and revisit them regularly. You should feel the work moving, not stalled."
 ---
 
 Most people spend more time researching a new laptop than they spend researching how to find a therapist. Then they hit a wall, assume therapy is something only people with good insurance and disposable income can afford, and quietly drop the idea. That assumption is wrong, and it's costing people real help. Affordable therapy exists in more forms than most guides bother to explain. Here's the actual map.

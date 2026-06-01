@@ -10,6 +10,17 @@ author: "Jordan Hayes"
 author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "online-therapy-vs-in-person"
 affiliate_disclosure: true
+faqs:
+  - q: "Is online therapy as effective as in-person therapy?"
+    a: "For mild to moderate depression, anxiety, and stress-related concerns, research consistently shows that online therapy, particularly video-based CBT, produces outcomes comparable to in-person therapy. The evidence is less clear for more severe conditions, complex trauma, and modalities that rely heavily on physical presence. When in doubt, discuss with a licensed professional what format makes sense for your specific situation."
+  - q: "Can I switch from online to in-person therapy later?"
+    a: "Yes, and many people do. Some start online because it's accessible and later transition to in-person as circumstances change or as their needs evolve. Some do the reverse. A good therapist will work with you on what makes clinical sense, not what's most convenient for the practice."
+  - q: "What if I don't have a private space at home for video therapy?"
+    a: "This is a real barrier worth solving before you start. Options include sitting in your parked car, booking a private room at a library, or using headphones to limit sound. Some therapists are flexible about doing a session via phone if video privacy isn't possible on a given day. It's worth raising directly with any therapist you're considering."
+  - q: "How do I know if a therapist online is actually licensed?"
+    a: "Any legitimate therapist, whether you find them through an app or a directory, should be able to provide their license number and the state in which they're licensed. You can verify licenses through your state's professional licensing board website. Most reputable platforms, and all entries in Psychology Today's directory, require verified credentials for listing."
+  - q: "What's the difference between online therapy platforms and independent therapists who do telehealth?"
+    a: "Platforms like BetterHelp or Talkspace employ or contract therapists directly and set the pricing model, often on a subscription basis. Independent therapists who offer telehealth are private practitioners who happen to conduct sessions via video rather than in person. The main differences tend to be in billing structure, insurance compatibility (platforms often don't accept insurance; independent telehealth therapists often do), and the continuity of the relationship. Many people find that working with an independent therapist, even via video, feels more like traditional therapy."
 ---
 
 Imagine you've finally decided to try therapy. You've done the hard part, the part most people spend months or years avoiding: you've admitted you could use some help. Then you open a browser tab and immediately hit a wall. Do you find someone local? Use one of those apps? What's actually the difference? I've watched so many people stall right here, not because they don't want help, but because the logistics feel like a second obstacle course after the emotional hurdle they just cleared. So let's cut through it.

@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "free-mental-health-resources-and-hotlines"
 affiliate_disclosure: true
+faqs:
+  - q: "Is calling 988 really confidential? Will they send police?"
+    a: "Calls to 988 are confidential. Counselors operate under the same confidentiality principles as licensed therapists. Emergency services are only contacted in situations where a counselor determines there is an imminent risk of harm and no other option is available. This represents a very small percentage of calls. The vast majority of conversations stay between you and the counselor."
+  - q: "Can I get real therapy for free, or is it always a compromise?"
+    a: "Community mental health centers and university training clinics offer genuinely structured, ongoing therapy at no cost. University clinics in particular provide evidence-based treatment under licensed supervision. It's not a lesser product. It's a different delivery model, and for many people it works well."
+  - q: "What if I don't want to talk, I just need information?"
+    a: "SAMHSA's National Helpline (1-800-662-4357) is specifically designed as an information and referral service. You don't have to be in crisis. You can call to ask: 'What options exist for someone in my situation?' They'll help you find local services."
+  - q: "Are mental health apps actually effective?"
+    a: "The honest answer is: for some things, in some contexts, yes. Apps built on CBT principles, like MindShift, have reasonable evidence behind them for mild to moderate anxiety and mood issues. They are not effective replacements for clinical care for serious mental health conditions. Think of them as a supplement or a bridge, not a ceiling."
+  - q: "How do I support someone else who needs help but won't reach out?"
+    a: "You can't force someone into care, and trying to tends to backfire. What you can do is reduce the friction. Offer to sit with them while they make a call. Look up the nearest community health center so they don't have to do that work alone. Remind them that 988 exists and you can text together if that feels easier. Being a consistent, non-pressuring presence matters more than any single resource."
 ---
 
 Most people assume that getting mental health support means paying out of pocket for a therapist, waiting weeks for an appointment, and hoping your insurance cooperates. I'll be honest: that assumption stops a lot of people from reaching out at all. But what surprised me when I started really digging into this topic was just how many legitimate, free, or near-free mental health resources exist right now, today, available to almost anyone in the United States regardless of income, insurance status, or location. The gap isn't really in the resources. It's in knowing where they are.

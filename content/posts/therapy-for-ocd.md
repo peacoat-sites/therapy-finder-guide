@@ -10,6 +10,17 @@ author: "Maya Okonkwo"
 author_bio: "Mental health educator and therapist referral specialist. Has helped hundreds of people find their first or next therapist."
 slug: "therapy-for-ocd"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does therapy for OCD typically take?"
+    a: "There's no single answer, but most people undergoing ERP see meaningful improvement within 12 to 20 weekly sessions. More severe or long-standing OCD may require longer treatment, and some people benefit from periodic 'booster' sessions after their initial course ends. The key factor is consistency, both showing up to sessions and doing the between-session practice."
+  - q: "Can OCD be cured, or just managed?"
+    a: "'Cured' isn't quite the right frame. Many people who complete a full course of ERP experience such significant reduction in symptoms that OCD stops interfering with their daily lives. Some have almost no symptoms at all. Others manage it as an ongoing condition that requires maintenance. The more useful question is: can you get to a point where OCD doesn't run your life? For most people who engage with evidence-based treatment, the answer is yes."
+  - q: "Is OCD always related to anxiety?"
+    a: "OCD is classified differently in diagnostic manuals from pure anxiety disorders, but anxiety is a central feature for most people. The obsessions generate distress, the compulsions are driven by a need to relieve it. That said, some OCD presentations involve 'not just right' experiences, a feeling of wrongness or incompleteness more than fear, and those can have a somewhat different texture. A trained OCD specialist can assess the full picture."
+  - q: "What if my child has OCD?"
+    a: "ERP is adapted for children and adolescents and is equally effective. Family involvement is typically a bigger part of treatment with younger clients, since parents and caregivers can unintentionally reinforce compulsions by providing reassurance. A good child therapist will work with the whole family system. Our child therapy guide for parents has more on what to look for when finding a provider for a young person."
+  - q: "Can online therapy work for OCD?"
+    a: "Yes. Multiple studies have examined internet-delivered ERP and found outcomes comparable to in-person treatment. Telehealth has also meaningfully expanded access to OCD specialists for people in rural areas or regions where trained providers are scarce. The logistics are slightly different (doing exposures at home rather than in a clinic), but many therapists find this is actually an advantage since real-world contexts are built right into the sessions."
 ---
 
 You've checked the stove four times. You know it's off. You watched yourself turn the knob. And yet the thought is already creeping back in, louder this time, more insistent. So you check again. This is the exhausting loop that millions of people live inside every day, and if it sounds familiar, you should know something important: effective treatment exists, and it works better than most people realize.

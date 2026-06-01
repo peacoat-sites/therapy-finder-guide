@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "samhsa-mental-health-resources"
 affiliate_disclosure: true
+faqs:
+  - q: "Is SAMHSA only for people with substance use problems?"
+    a: "No. This is probably the most common misconception. SAMHSA's full mandate includes both mental health and substance use, and a large portion of its programs focus exclusively on mental health. Whether you're dealing with depression, anxiety, trauma, or a co-occurring disorder, SAMHSA's resources apply to you."
+  - q: "Can I get therapy directly through SAMHSA?"
+    a: "SAMHSA itself doesn't provide therapy. It funds and supports the organizations that do. Your path through SAMHSA leads to local providers, not to SAMHSA staff directly. Use the treatment locator or National Helpline to find those providers."
+  - q: "Is the SAMHSA National Helpline really confidential?"
+    a: "Yes. The National Helpline does not ask for personally identifying information and doesn't report your call to anyone. It's designed specifically to encourage people to reach out without fear of consequences."
+  - q: "What if I don't have insurance at all?"
+    a: "This is exactly who SAMHSA-funded programs are designed to serve. Community mental health centers in SAMHSA's network are required to see patients regardless of ability to pay. Call the National Helpline at 1-800-662-4357 and explain your situation. They can identify no-cost or very low-cost options near you."
+  - q: "How is SAMHSA different from a crisis hotline?"
+    a: "SAMHSA is the federal agency that funds and oversees crisis lines like 988, but calling SAMHSA's National Helpline is more of a resource and referral service than a crisis line. If you're in immediate distress, call or text 988. If you need help figuring out next steps for ongoing mental health care, the National Helpline is the right starting point."
 ---
 
 Maybe you typed "free mental health help" into a search bar at 2am, or maybe a friend mentioned SAMHSA and you nodded like you knew what it was. Either way, you're here now, and that already takes something. What a lot of people don't realize is that SAMHSA, the Substance Abuse and Mental Health Services Administration, is one of the most underused resources in American mental health care. It's a federal agency operating within the U.S. Department of Health and Human Services, and it runs programs, hotlines, and funding streams that reach millions of people every year. Many of those people had no idea where to start before they found it.

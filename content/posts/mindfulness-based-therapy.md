@@ -10,6 +10,17 @@ author: "Carlos Mendez"
 author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "mindfulness-based-therapy"
 affiliate_disclosure: true
+faqs:
+  - q: "Is mindfulness-based therapy the same as meditation?"
+    a: "No. Meditation is a practice. Mindfulness-based therapy is a structured clinical treatment that uses meditation as one tool alongside psychoeducation, cognitive techniques, and therapeutic guidance. You can meditate daily without receiving therapy, and you can do mindfulness-based therapy without having any prior meditation experience. The clinical context, the trained therapist, and the structured protocol are what distinguish them."
+  - q: "How long does it take to see results from mindfulness-based therapy?"
+    a: "Most of the structured programs like MBCT and MBSR run for eight weeks, and research suggests meaningful changes in mood, anxiety, and stress reactivity are measurable by the end of that period for many participants. That said, building mindfulness as a sustained skill takes ongoing practice beyond the program itself. You're not aiming for a quick fix. You're building a different way of relating to your own mind."
+  - q: "Can mindfulness-based therapy make anxiety worse?"
+    a: "For some people, especially those with trauma histories, focused attention on internal sensations can initially heighten distress. This is why working with a trained therapist matters. A skilled practitioner will pace the practices carefully, offer modifications, and help you work through difficult moments rather than pushing through them unsafely. If you try a meditation app and feel worse, that doesn't mean mindfulness-based therapy won't work for you. It may just mean you need proper clinical support around it."
+  - q: "Is mindfulness-based therapy suitable for children or teenagers?"
+    a: "Adapted versions of MBCT and MBSR have been developed and studied for younger populations, with generally positive results for anxiety and attention issues. However, the delivery, language, and session length are modified significantly for children and adolescents. If you're a parent considering this for your child, our child therapy guide for parents covers what to look for in a clinically appropriate approach for younger clients."
+  - q: "Do I have to have a specific diagnosis to benefit from mindfulness-based therapy?"
+    a: "No. While the research is strongest for specific diagnoses like recurrent depression, many people seek mindfulness-based therapy for stress, life transitions, relationship difficulties, or simply wanting to function better emotionally. A diagnosis isn't a prerequisite for therapy of any kind. What matters is whether you're experiencing something that's affecting your quality of life and whether you're motivated to do the consistent work the approach requires."
 ---
 
 Imagine sitting in a waiting room, heart pounding, convinced that the anxiety about your anxiety is somehow worse than the anxiety itself. You're caught in a loop, and no amount of telling yourself to "calm down" is breaking the cycle. This is exactly the kind of moment mindfulness-based therapy was designed for. Not to make the discomfort disappear, but to change your relationship with it entirely. That shift sounds small. It isn't.

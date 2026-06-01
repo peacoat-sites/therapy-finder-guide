@@ -10,6 +10,17 @@ author: "Maya Okonkwo"
 author_bio: "Mental health educator and therapist referral specialist. Has helped hundreds of people find their first or next therapist."
 slug: "therapy-for-anxiety-treatment"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I know if my anxiety is bad enough to see a therapist?"
+    a: "If anxiety is regularly interfering with work, relationships, sleep, or daily tasks, that's enough. You don't need to hit a crisis point to deserve support. A useful benchmark: if you'd go to a doctor for a physical symptom that was this disruptive, anxiety warrants the same attention."
+  - q: "Can therapy make anxiety worse before it gets better?"
+    a: "Temporarily, yes, and this is normal. Exposure-based work in particular asks you to feel uncomfortable on purpose. Some clients feel a short-term increase in awareness of their anxiety when they start therapy, which can feel like worsening. This typically shifts after the first few weeks as skills develop."
+  - q: "How long does it take for therapy to help anxiety?"
+    a: "Many people begin to feel some shift within 8 to 12 sessions of CBT. That doesn't mean anxiety disappears entirely. It means you start to notice you're responding differently, catastrophizing less, recovering faster after anxious episodes. Full progress depends on the severity and type of anxiety, but structured therapy for anxiety is not an indefinitely open-ended process."
+  - q: "What if I can't afford a therapist?"
+    a: "Cost is a real barrier and it's worth being practical about it. Options include community mental health centers, university training clinics (where supervised graduate students provide therapy at reduced cost), sliding scale therapists, and telehealth platforms that operate at lower price points than traditional private practice. SAMHSA's treatment locator at findtreatment.gov can help identify local low-cost options."
+  - q: "Is online therapy as effective as in-person therapy for anxiety?"
+    a: "For most anxiety presentations, research supports telehealth CBT as comparably effective to in-person delivery. The key factors are the therapeutic relationship, the consistency of attendance, and engagement with between-session practice, none of which are uniquely dependent on being in the same room. For some people, the reduced friction of telehealth actually improves consistency."
 ---
 
 Imagine you're sitting in a work meeting and your heart starts racing for no clear reason. Your palms are damp. You're half-listening to the presenter and half-convinced something is terribly wrong, even though nothing is. You make it through, drive home, and spend the evening replaying it. This happens three, four, five times a week. You've Googled your symptoms, reassured yourself it's probably nothing, and then Googled again. If any part of that sounds familiar, you're not alone, and more importantly, you're not stuck. Anxiety is one of the most treatable mental health conditions that exists, and therapy, specifically the right kind of therapy matched to your situation, can change things in ways that feel almost hard to believe before you've experienced them.

@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-know-if-therapy-is-working"
 affiliate_disclosure: true
+faqs:
+  - q: "How long should I give therapy before deciding it isn't working?"
+    a: "There's no universal answer, but a reasonable benchmark for many people is 8-12 sessions before making a major assessment. Some issues respond faster; complex trauma or long-standing personality patterns may take considerably longer. What matters most is whether you can identify any movement, however small, and whether you feel your therapist is engaged with your specific situation."
+  - q: "Is it normal to feel worse at the start of therapy?"
+    a: "Yes, and this is one of the most important things to understand. When you begin talking about things you've been avoiding or suppressing, there's often a temporary increase in distress. This is sometimes called the 'therapy dip' and it doesn't mean therapy is failing. If the feeling of getting worse persists for many weeks without any sense of direction or understanding, that's when it's worth raising with your therapist."
+  - q: "What if I like my therapist but don't feel like we're making progress?"
+    a: "Liking your therapist matters a lot, and the therapeutic alliance is genuinely one of the strongest predictors of good outcomes. But warmth alone isn't treatment. You can like someone and still need a different approach, a different modality, or even an adjunct resource like a structured workbook. Try having a direct conversation about your goals and whether the current approach is aligned with them. Psychology Today's therapist directory lets you filter by specialty and modality if you ever do need to find someone new."
+  - q: "Can I track my progress between sessions on my own?"
+    a: "Absolutely, and I'd encourage it. Journaling between sessions is one of the most consistent predictors of therapy outcomes. You don't have to write essays. Even brief notes about your mood, a reaction you had, or a pattern you noticed can give you and your therapist valuable data. A structured mindfulness or CBT workbook can provide prompts if blank pages feel daunting. (Disclosure: this site may earn a commission from qualifying purchases.)"
+  - q: "Should I switch therapists if I'm not sure therapy is working?"
+    a: "Not necessarily, and not immediately. The first step is a direct conversation with your current therapist. Switching too quickly can sometimes replicate an avoidance pattern rather than solve a real problem. But if you've had that honest conversation, given it a fair amount of time, and still see no movement and no explanation you find credible, then seeking a second opinion or a different provider is a legitimate and healthy choice. It's not betrayal. It's self-advocacy."
 ---
 
 Maybe you've been going to therapy for six weeks, or six months, and you're sitting in the parking lot before a session wondering: *Is this actually doing anything?* You're not sure if what you're feeling is progress or just… talking. You don't want to seem ungrateful, and you're not ready to quit, but the question is sitting there, quietly, and it won't leave.

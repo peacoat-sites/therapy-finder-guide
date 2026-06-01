@@ -12,6 +12,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "mental-health-crisis-resources"
 affiliate_disclosure: true
+faqs:
+  - q: "Will calling 988 automatically send police to my house?"
+    a: "No. Police dispatch is not automatic and is considered a last resort. The 988 Lifeline is designed to resolve situations through conversation whenever possible. Counselors work with you to figure out what support looks like, and they'll tell you clearly if they believe a safety check is needed."
+  - q: "What if I'm worried about someone but they refuse help?"
+    a: "You can call 988 yourself and talk through the situation with a counselor. They can help you assess risk and figure out what steps are appropriate. In some states, you may also be able to request a welfare check through non-emergency police services, though the outcome depends heavily on local resources and training."
+  - q: "Is the Crisis Text Line as effective as calling?"
+    a: "It offers real support, but the nature of text-based communication means response may be slower during high-volume periods, and assessing risk is harder without voice cues. For immediate, high-danger situations, calling 988 or 911 is faster. For someone who genuinely can't make a phone call in their current environment, texting HOME to 741741 is far better than no contact at all."
+  - q: "Can I use these resources if I'm not suicidal but still in crisis?"
+    a: "Yes, completely. Crisis lines are for people who are overwhelmed, not just people who are suicidal. Severe anxiety, panic that won't stop, feeling completely unable to cope, relationship violence, psychotic episodes: all of these are appropriate reasons to call. You don't have to meet any particular threshold."
+  - q: "What if I don't have insurance and need ongoing care after a crisis?"
+    a: "NAMI's HelpLine at 1-800-950-6264 is a good starting point. Community mental health centers often provide services on a sliding fee scale based on income. Federally Qualified Health Centers (FQHCs) are also required to offer mental health services regardless of ability to pay. You can find one near you at findahealthcenter.hrsa.gov."
 ---
 
 You're on hour three of sitting with something that feels too heavy to carry alone, and you don't know if what you're feeling counts as a "real" emergency. You're not sure if you should call someone, and you don't want to overreact. I've seen this exact moment play out more times than I can count, and the thing I want to say first is: if you're wondering whether you need help, that question itself is worth taking seriously.

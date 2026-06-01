@@ -10,6 +10,17 @@ author: "Jordan Hayes"
 author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "teen-therapy-options"
 affiliate_disclosure: true
+faqs:
+  - q: "What if my teen refuses to go to therapy?"
+    a: "Refusal is common and rarely permanent. Pressure tends to make it worse. Try to understand the specific objection. Is it fear of being judged? Worry about what happens to information they share? Feeling like therapy means something is 'really wrong' with them? Each of those fears has a concrete response. Sometimes giving a teen control over which therapist they try, or framing it as a finite experiment ('let's try four sessions'), lowers the resistance enough to get started."
+  - q: "Does my teen's therapy have to involve me as a parent?"
+    a: "Not necessarily in every session, but most adolescent therapists will want at least occasional caregiver contact and may structure initial sessions to include you. Healthy adolescent therapy balances the teen's need for a private therapeutic space with the reality that family is part of their ecosystem. Ask any prospective therapist upfront how they involve parents."
+  - q: "How do I know if the therapy is actually working?"
+    a: "Look for functional changes, not just mood reports. Is your teen attending school more consistently? Initiating social contact? Sleeping better? Managing conflict with less intensity? Mood can fluctuate even during effective treatment. Function is a more stable indicator. You can also ask the therapist directly, in a parent check-in, what they're working on and what progress looks like for this specific teen."
+  - q: "Is online therapy effective for teenagers?"
+    a: "Telehealth therapy has solid evidence for anxiety and depression in adolescents, particularly for teens in rural areas or those with social anxiety that makes in-person sessions harder to start. It's not ideal for every teen or every presenting concern. Teens with active suicidal ideation, severe symptoms, or those who need a structured physical environment may do better in person. For many teens, though, the convenience and reduced stigma of logging in from their room actually improves attendance."
+  - q: "Can my teen's pediatrician help with mental health referrals?"
+    a: "Yes, and this is an underused resource. Pediatricians often know which local therapists work well with adolescents and can flag whether a psychiatric evaluation for medication makes sense. Many pediatric practices now screen for depression and anxiety at well visits. If your teen has a longstanding relationship with their pediatrician, that trusted voice recommending therapy can sometimes do more than a parent's suggestion."
 ---
 
 Imagine your 15-year-old has barely left their room in three weeks. They're sleeping until noon, dropping grades, snapping at everyone, and when you ask what's wrong, you get a shrug or a slammed door. You know something is off. You just don't know what to do about it. That gap between "I can see my kid is struggling" and "I actually got them into therapy" is where a lot of families get stuck, and it doesn't have to be that way.

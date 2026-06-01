@@ -10,6 +10,17 @@ author: "Carlos Mendez"
 author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "telehealth-therapy-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Is telehealth therapy as effective as in-person therapy?"
+    a: "For most common mental health concerns, including depression, anxiety, PTSD, and OCD, research supports that telehealth therapy produces outcomes comparable to in-person treatment. The evidence base is strongest for CBT delivered via video. For severe or complex conditions requiring close clinical monitoring, in-person or higher levels of care are often more appropriate."
+  - q: "Can I get a psychiatric medication prescription through telehealth?"
+    a: "Yes, in many cases. Telehealth psychiatry has expanded significantly, and many licensed psychiatrists and psychiatric nurse practitioners can prescribe medication via telehealth. Federal rules around controlled substances and telehealth prescribing have shifted over time, so it's worth confirming current regulations in your state with the provider directly."
+  - q: "What technology do I actually need?"
+    a: "A smartphone, tablet, or computer with a working camera and microphone is sufficient for most telehealth therapy platforms. A stable internet connection helps. Many therapists also offer phone-only sessions if technology access is a barrier."
+  - q: "Is telehealth therapy private and secure?"
+    a: "Licensed therapists are required by law to use HIPAA-compliant platforms. Before starting, ask your therapist which platform they use and confirm it meets privacy standards. On your end, using headphones and finding a private space significantly reduces the risk of others overhearing your session."
+  - q: "What if I have a crisis during a telehealth session?"
+    a: "A trained therapist will have a safety plan in place before this happens. During your intake, your therapist should ask for your address and an emergency contact so they can act if needed. If you're experiencing a mental health emergency outside of a session, contact the 988 Suicide and Crisis Lifeline by calling or texting 988, or go to your nearest emergency room."
 ---
 
 Imagine you've finally decided to talk to someone. You've been putting it off for months, maybe longer. You look up therapists in your area, and the first three you call aren't accepting new patients. The fourth is 45 minutes away and only has Tuesday morning slots. You work Tuesday mornings. So you close the browser and tell yourself you'll try again later. For a lot of people, "later" never comes. Telehealth therapy exists, in large part, to close that gap between intention and action.

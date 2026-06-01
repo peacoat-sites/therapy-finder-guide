@@ -10,6 +10,17 @@ author: "Carlos Mendez"
 author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "couples-therapy-how-it-works"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does couples therapy usually take?"
+    a: "There's no single answer, and anyone who gives you a guarantee should raise a flag. Many couples notice real changes within 8 to 12 sessions. More complex situations, like recovery from infidelity or deeply entrenched communication patterns, often take longer. The Gottman Institute's research suggests that couples who engage consistently and practice skills between sessions tend to move faster."
+  - q: "Do we have to be on the verge of breaking up to try couples therapy?"
+    a: "Not at all. In my experience, the couples who get the most out of therapy are those who come in before things have completely deteriorated. You don't wait until your tooth is abscessed to see a dentist. Premarital couples use therapy as a foundation. Long-term couples use it as a tune-up. Therapy is appropriate at almost any stage."
+  - q: "What if my partner refuses to come?"
+    a: "This comes up a lot. You can still benefit from individual therapy where your therapist has couples training, sometimes called 'one-person couples therapy.' You can work on how you show up in the relationship, what patterns you bring, and how you respond. Sometimes a partner who initially refuses becomes willing after seeing real changes. And sometimes you gain clarity about what you need, regardless of whether your partner joins."
+  - q: "Will the therapist take sides?"
+    a: "A well-trained couples therapist won't align with either partner. That said, they may challenge both of you at different times, and that can feel like being called out. If you feel like the therapist is consistently siding with your partner in a way that feels unfair, bring it up directly. That conversation itself can be productive. If the imbalance is real and doesn't improve, it's okay to seek a different therapist."
+  - q: "How much does couples therapy typically cost, and does insurance cover it?"
+    a: "Costs vary significantly based on location, therapist credentials, and session length. Many insurance plans cover couples therapy when there's a mental health diagnosis associated with one partner, though coverage varies widely. It's worth calling your insurance company directly and asking specifically about outpatient mental health benefits for couples counseling. Many therapists also offer sliding scale fees. Don't assume it's out of reach without asking."
 ---
 
 Picture this: two people who genuinely love each other sitting in silence on opposite ends of the couch, not because they're strangers, but because they've had the same argument so many times they've run out of words. Sound familiar? Research published in the *Journal of Marital and Family Therapy* found that couples wait an average of six years after serious problems begin before seeking therapy. Six years. That's a long time to white-knuckle something that a skilled therapist could help you actually work through.

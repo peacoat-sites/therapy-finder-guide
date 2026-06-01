@@ -10,6 +10,17 @@ author: "Dr. Emily Strauss"
 author_bio: "Psychologist and mental health advocate with 12 years in community mental health and private practice settings."
 slug: "how-to-find-a-therapist"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take to find a therapist?"
+    a: "Realistically, from your first search to your first appointment, expect anywhere from one to four weeks, sometimes longer if you're in a rural area or searching within a narrow insurance network. Starting your search earlier than you think you need to is genuinely good advice. Don't wait until you're in crisis to begin."
+  - q: "What if I can't afford therapy?"
+    a: "Start with your employer's EAP if you have one. After that, contact community mental health centers in your area and ask about sliding scale fees. The National Alliance on Mental Illness (NAMI) at nami.org also maintains state-by-state resource lists that can point you toward low-cost or free services. Open Path Collective is another directory specifically for reduced-fee therapists."
+  - q: "Is online therapy as effective as in-person therapy?"
+    a: "For many conditions, particularly anxiety and depression, research suggests online therapy can be comparably effective to in-person sessions. It's not ideal for everyone. People in psychiatric crisis, those dealing with severe trauma, or anyone who genuinely needs the physicality of being in a room with someone may find in-person therapy more beneficial. If you're unsure, ask a therapist directly."
+  - q: "What's the difference between a therapist, a psychologist, and a psychiatrist?"
+    a: "Therapists (including LCSWs, LPCs, and MFTs) are licensed clinicians trained to provide talk therapy. Psychologists (PhD or PsyD) have doctoral-level training and can conduct psychological testing in addition to therapy. Psychiatrists are medical doctors who specialize in mental health and primarily focus on medication management, though some also provide therapy. If you're wondering whether you might benefit from medication, a psychiatrist or your primary care doctor is the right starting point."
+  - q: "How do I know if a therapist is actually good?"
+    a: "You'll often feel it within the first two sessions. A good therapist listens without rushing, reflects back what you've said accurately, challenges you without shaming you, and makes you feel like a competent adult rather than a patient being managed. If you leave sessions feeling vaguely worse for several weeks in a row without any sense of progress or understanding, it's worth raising that directly or reconsidering the fit."
 ---
 
 You've finally decided you want to talk to someone. Maybe it took months to get here. Maybe a specific Tuesday broke something open and you realized you couldn't keep white-knuckling it alone. You open Google, type "find a therapist near me," and suddenly you're staring at a wall of names, credentials, and therapy types you've never heard of. LCSW, CBT, EMDR, DBT. Insurance accepted, sliding scale, telehealth only. Within five minutes, you've closed the tab and told yourself you'll try again later. Sound familiar? You're not alone, and the fact that the process feels this confusing is a real problem, not a reflection of your readiness or willpower.
