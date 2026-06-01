@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Could Talking to Someone Help Right Now? A 2-Minute Self-Reflection Quiz"
 description: "A warm, judgment-free quiz to help you reflect on whether talking to a therapist or counselor could be a supportive next step for you right now."
 slug: "could-talking-to-someone-help-right-now"

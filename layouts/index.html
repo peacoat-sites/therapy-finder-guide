@@ -35,6 +35,7 @@
       <div class="hero-auth-actions">
         <a href="/posts/" class="btn-hero-primary">Browse All Articles</a>
         <a href="/search/" class="btn-hero-ghost">Search Topics</a>
+        {{ with index (where .Site.RegularPages "Params.quiz_page" true) 0 }}<a href="{{ .Permalink }}" class="btn-hero-ghost">Take the Quiz</a>{{ end }}
       </div>
     </div>
 
