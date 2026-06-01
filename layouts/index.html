@@ -102,7 +102,7 @@
 
 <!-- ── STATS STRIP ─────────────────────────────────────────────────── -->
 <div class="stats-strip">
-  <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $words := 0 }}{{ range $posts }}{{ $words = add $words .WordCount }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot .ReadingTime }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (div $tot (len $posts)) }}{{ end }}
+  <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $questions := 0 }}{{ range $posts }}{{ with .Params.faqs }}{{ $questions = add $questions (len .) }}{{ end }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot .ReadingTime }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (div $tot (len $posts)) }}{{ end }}
     <div class="stat-item">
       <span class="stat-counter" data-count="{{ len (where .Site.RegularPages "Section" "posts") }}">—</span>
       <span class="stat-label">Articles Published</span>
@@ -114,8 +114,8 @@
     </div>
     <div class="stat-sep"></div>
     <div class="stat-item">
-      <span class="stat-counter" data-count="{{ $words }}">—</span>
-      <span class="stat-label">Words of Research</span>
+      <span class="stat-counter" data-count="{{ $questions }}">—</span>
+      <span class="stat-label">Questions Answered</span>
     </div>
     <div class="stat-sep"></div>
     <div class="stat-item">
