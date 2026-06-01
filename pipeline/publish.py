@@ -790,6 +790,32 @@ Make it genuinely useful for someone dealing with this exact situation right now
 
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
 
+def _extract_faqs(body):
+    """Extract FAQ Q&A pairs (### Question? + answer) from article body for FAQPage schema."""
+    import re as _re
+    def _sm(t):
+        t = _re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", t)
+        t = _re.sub(r"[*_`#>]", "", t)
+        return _re.sub(r"\s+", " ", t).strip()
+    lines = body.split("\n"); faqs = []; i = 0
+    while i < len(lines):
+        m = _re.match(r"^###\s+(.+\?)\s*$", lines[i].strip())
+        if m:
+            q = _sm(m.group(1)); ans = []; i += 1
+            while i < len(lines):
+                ln = lines[i].strip()
+                if _re.match(r"^#{1,6}\s", ln) or ln.startswith("---") or ln.startswith("*Photo:") or ln.startswith("!["):
+                    break
+                if ln: ans.append(ln)
+                i += 1
+            a = _sm(" ".join(ans))[:600]
+            if q and len(a) > 20:
+                faqs.append((q.replace('"', "'"), a.replace("\\", "").replace('"', "'")))
+        else:
+            i += 1
+    return faqs[:6]
+
+
 def build_markdown(
     keyword: str,
     article: dict,
@@ -829,6 +855,17 @@ affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
 ---
 
 """
+    # Inject FAQs (extracted from the article body) into frontmatter for FAQPage schema.
+    # Fail-safe: never let FAQ handling break publishing.
+    try:
+        _faqs = _extract_faqs(content)
+        if _faqs:
+            _fy = "faqs:\n"
+            for _q, _a in _faqs:
+                _fy += f'  - q: "{_q}"\n    a: "{_a}"\n'
+            frontmatter = frontmatter.replace("\n---\n\n", "\n" + _fy + "---\n\n", 1)
+    except Exception:
+        pass
     return frontmatter + content
 
 # ── GITHUB COMMIT ─────────────────────────────────────────────────────────────
