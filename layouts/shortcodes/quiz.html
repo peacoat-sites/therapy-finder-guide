@@ -1,0 +1,99 @@
+{{/* Reusable client-side quiz engine. Renders site.Data.quiz. Usage: {{< quiz >}}
+     Scoring runs entirely in-browser (no backend). Modular: each site has its own data/quiz.json. */}}
+{{ $q := site.Data.quiz }}
+{{ if $q }}
+<div class="quiz" id="quiz" data-total="{{ len $q.questions }}">
+  <div class="quiz-head">
+    <h2 class="quiz-title">{{ $q.title }}</h2>
+    <p class="quiz-intro">{{ $q.intro }}</p>
+  </div>
+
+  <form class="quiz-form" onsubmit="return false">
+    {{ range $i, $question := $q.questions }}
+    <fieldset class="quiz-q" data-idx="{{ $i }}">
+      <legend><span class="quiz-num">{{ add $i 1 }}</span>{{ $question.q }}</legend>
+      <div class="quiz-opts">
+        {{ range $j, $opt := $question.options }}
+        <label class="quiz-opt">
+          <input type="radio" name="q{{ $i }}" value="{{ $opt.s }}">
+          <span>{{ $opt.t }}</span>
+        </label>
+        {{ end }}
+      </div>
+    </fieldset>
+    {{ end }}
+    <button type="button" class="quiz-submit" id="quiz-submit">See my result</button>
+    <p class="quiz-warn" id="quiz-warn" hidden>Please answer every question to see your result.</p>
+  </form>
+
+  <div class="quiz-result" id="quiz-result" hidden>
+    <div class="quiz-result-badge" id="quiz-badge"></div>
+    <h3 class="quiz-result-title" id="quiz-rtitle"></h3>
+    <p class="quiz-result-body" id="quiz-rbody"></p>
+    <p class="quiz-result-cta" id="quiz-rcta"></p>
+    <button type="button" class="quiz-retake" id="quiz-retake">Retake the quiz</button>
+  </div>
+
+  {{ with $q.disclaimer }}<p class="quiz-disclaimer">{{ . }}</p>{{ end }}
+
+  <script type="application/json" id="quiz-data">
+  {"results": [{{ range $i, $r := $q.results }}{{ if $i }},{{ end }}{"min":{{ $r.min }},"max":{{ $r.max }},"title":{{ $r.title | jsonify }},"body":{{ $r.body | jsonify }},"cta":{{ $r.cta | jsonify }}}{{ end }}]}
+  </script>
+</div>
+
+<style>
+.quiz{margin:36px 0;border:1px solid var(--border,#e7e5e4);border-radius:14px;padding:28px 26px;background:#fff}
+.quiz-title{font-size:1.5rem;font-weight:800;margin:0 0 8px}
+.quiz-intro{color:var(--muted,#57534e);margin:0 0 24px;line-height:1.6;font-size:.95rem}
+.quiz-q{border:none;margin:0 0 22px;padding:0}
+.quiz-q legend{font-weight:700;font-size:1.02rem;margin-bottom:12px;display:flex;align-items:flex-start;gap:10px;line-height:1.4}
+.quiz-num{flex-shrink:0;width:24px;height:24px;border-radius:50%;background:var(--accent,#c2410c);color:#fff;font-size:13px;display:inline-flex;align-items:center;justify-content:center;font-weight:700}
+.quiz-opts{display:flex;flex-direction:column;gap:8px;padding-left:34px}
+.quiz-opt{display:flex;align-items:center;gap:11px;padding:11px 14px;border:1.5px solid var(--border,#e7e5e4);border-radius:9px;cursor:pointer;transition:border-color .15s,background .15s;font-size:.94rem}
+.quiz-opt:hover{border-color:var(--accent,#c2410c)}
+.quiz-opt input{accent-color:var(--accent,#c2410c);width:17px;height:17px;flex-shrink:0}
+.quiz-opt:has(input:checked){border-color:var(--accent,#c2410c);background:color-mix(in srgb,var(--accent,#c2410c) 7%,#fff)}
+.quiz-submit,.quiz-retake{background:var(--accent,#c2410c);color:#fff;border:none;border-radius:9px;padding:13px 28px;font-size:1rem;font-weight:700;cursor:pointer;transition:opacity .15s}
+.quiz-submit:hover,.quiz-retake:hover{opacity:.9}
+.quiz-warn{color:#dc2626;font-size:.88rem;margin:12px 0 0;font-weight:600}
+.quiz-result{margin-top:26px;padding:24px;border-radius:12px;background:var(--surface2,#f5f2ec);border-left:4px solid var(--accent,#c2410c);animation:quizfade .35s ease}
+@keyframes quizfade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.quiz-result-badge{display:inline-block;font-size:.72rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#c2410c);margin-bottom:8px}
+.quiz-result-title{font-size:1.25rem;font-weight:800;margin:0 0 12px}
+.quiz-result-body{color:var(--muted,#44403c);line-height:1.7;margin:0 0 16px;font-size:.97rem}
+.quiz-result-cta{font-weight:700;margin:0 0 18px}
+.quiz-retake{background:transparent;color:var(--accent,#c2410c);border:1.5px solid var(--accent,#c2410c)}
+.quiz-disclaimer{font-size:11px;color:var(--muted,#78716c);margin:18px 0 0;line-height:1.5}
+</style>
+
+<script>
+(function(){
+  var quiz=document.getElementById('quiz'); if(!quiz) return;
+  var total=parseInt(quiz.dataset.total,10);
+  var results=JSON.parse(document.getElementById('quiz-data').textContent).results;
+  var submit=document.getElementById('quiz-submit'), warn=document.getElementById('quiz-warn');
+  var box=document.getElementById('quiz-result');
+  submit.addEventListener('click',function(){
+    var sum=0, answered=0;
+    for(var i=0;i<total;i++){
+      var sel=quiz.querySelector('input[name="q'+i+'"]:checked');
+      if(sel){answered++; sum+=parseInt(sel.value,10);}
+    }
+    if(answered<total){warn.hidden=false; return;}
+    warn.hidden=true;
+    var r=results.find(function(x){return sum>=x.min&&sum<=x.max;})||results[results.length-1];
+    document.getElementById('quiz-badge').textContent='Your result';
+    document.getElementById('quiz-rtitle').textContent=r.title;
+    document.getElementById('quiz-rbody').textContent=r.body;
+    document.getElementById('quiz-rcta').textContent=r.cta?('→ '+r.cta+' below.'):'';
+    box.hidden=false;
+    box.scrollIntoView({behavior:'smooth',block:'center'});
+  });
+  document.getElementById('quiz-retake').addEventListener('click',function(){
+    quiz.querySelectorAll('input:checked').forEach(function(el){el.checked=false;});
+    box.hidden=true;
+    quiz.scrollIntoView({behavior:'smooth',block:'start'});
+  });
+})();
+</script>
+{{ end }}

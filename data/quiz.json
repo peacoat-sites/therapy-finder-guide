@@ -1,0 +1,149 @@
+{
+  "title": "Could Talking to Someone Help Right Now?",
+  "intro": "Answer 7 quick questions to gently reflect on whether talking to a therapist or counselor could be a helpful next step for you right now. This is a self-reflection tool for support and education, not a diagnosis or clinical screen.",
+  "questions": [
+    {
+      "q": "When you think about the past few weeks, how have your days generally felt?",
+      "options": [
+        {
+          "t": "Heavier than usual, and it's been hard to shake",
+          "s": 3
+        },
+        {
+          "t": "Up and down, some good days and some tough ones",
+          "s": 1
+        },
+        {
+          "t": "Mostly steady and manageable",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How often do you find yourself wishing you had someone to really talk things through with?",
+      "options": [
+        {
+          "t": "Often, I carry a lot on my own",
+          "s": 3
+        },
+        {
+          "t": "Now and then, when things pile up",
+          "s": 1
+        },
+        {
+          "t": "Rarely, I usually feel heard",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about the idea of opening up to a trained, neutral person?",
+      "options": [
+        {
+          "t": "Curious or relieved, it sounds like it could help",
+          "s": 3
+        },
+        {
+          "t": "A little unsure, but open to learning more",
+          "s": 1
+        },
+        {
+          "t": "Not really for me right now",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "When something is weighing on you, what usually happens?",
+      "options": [
+        {
+          "t": "It lingers and keeps circling back",
+          "s": 3
+        },
+        {
+          "t": "It eases eventually, but slowly",
+          "s": 1
+        },
+        {
+          "t": "I tend to work through it and move on",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How ready do you feel to set aside a little regular time for your own well-being?",
+      "options": [
+        {
+          "t": "Ready, I want to prioritize myself",
+          "s": 3
+        },
+        {
+          "t": "Willing, if I can find the right fit",
+          "s": 1
+        },
+        {
+          "t": "My plate feels too full to add anything",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What's your goal in checking in with yourself today?",
+      "options": [
+        {
+          "t": "I'd like things to feel lighter and want real support",
+          "s": 3
+        },
+        {
+          "t": "I'm exploring what might help me grow",
+          "s": 1
+        },
+        {
+          "t": "Mostly just curious, nothing pressing",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How does the idea of taking a first small step toward support feel?",
+      "options": [
+        {
+          "t": "Encouraging, I'd like to know where to start",
+          "s": 3
+        },
+        {
+          "t": "Possible, with a little guidance",
+          "s": 1
+        },
+        {
+          "t": "Not something I'm looking for at the moment",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "Talking to someone may not feel like your most pressing need right now",
+      "body": "From your answers, things seem fairly steady for you at the moment, and that's genuinely good to notice. Support isn't only for hard times though, so it's worth knowing what's out there. If you'd like, you can keep a few simple wellness habits in your back pocket for whenever you want them. There's no pressure here, only an open door.",
+      "cta": "Explore everyday wellness basics"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "A little support could fit you well, with the right starting point",
+      "body": "Your answers suggest some moments have felt heavier, and a bit of extra support might be welcome. The good news is you don't have to figure it all out at once. Learning how therapy actually works and what different options look like can make that first step feel much more doable and far less intimidating than it sounds.",
+      "cta": "See our beginner's guide to therapy"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "Talking to someone could be a really supportive step for you right now",
+      "body": "Your answers show you're carrying a lot and you're open to support, and reaching out from here could genuinely help things feel lighter. You deserve a space that's just for you. When you're ready, our guides can walk you through finding the right fit, what to expect, and how to make that first conversation feel comfortable.",
+      "cta": "Browse how to find the right therapist"
+    }
+  ],
+  "disclaimer": "This quiz is a self-reflection tool for general support and education. It is not a diagnosis, a clinical screening, or medical advice, and it cannot tell you whether you have any condition. If you are in crisis or thinking about harming yourself, please reach out for help right now: in the US, call or text 988 to reach the Suicide & Crisis Lifeline, available 24/7. You deserve support, and talking to a qualified professional is always the best way to understand what's right for you."
+}
