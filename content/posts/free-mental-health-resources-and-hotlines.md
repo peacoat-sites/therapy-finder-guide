@@ -3,7 +3,7 @@ title: "Free Mental Health Resources And Hotlines"
 date: 2026-06-01T15:34:55.702270+00:00
 draft: false
 description: "Find free mental health resources, crisis hotlines, and support services available 24/7. Get help for anxiety, depression, and more without the cost barrier."
-image: ""
+image: "https://images.pexels.com/photos/8682791/pexels-photo-8682791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["free", "mental", "health", "resources", "hotlines"]
 author: "Alex Reeves"
