@@ -951,12 +951,12 @@ def main():
     check_shotstack_credits(min_required=3)
 
     print("STEP 6-7a: Rendering Shorts (9:16) via Shotstack...")
-    shorts_url = build_and_render(script, portrait_clips, audio_url, words, audio_duration, is_shorts=True)
+    shorts_url = with_retry(lambda: build_and_render(script, portrait_clips, audio_url, words, audio_duration, is_shorts=True), label="render Shorts", max_attempts=3, initial_delay=20)
     print(f"  Shorts render done: {shorts_url[:60]}...")
     verify_url_accessible(shorts_url, "Shorts render URL")
 
     print("STEP 6-7b: Rendering Standard (16:9) via Shotstack...")
-    standard_url = build_and_render(script, landscape_clips, audio_url, words, audio_duration, is_shorts=False)
+    standard_url = with_retry(lambda: build_and_render(script, landscape_clips, audio_url, words, audio_duration, is_shorts=False), label="render Standard", max_attempts=3, initial_delay=20)
     print(f"  Standard render done: {standard_url[:60]}...")
     verify_url_accessible(standard_url, "Standard render URL")
 
