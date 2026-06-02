@@ -747,29 +747,41 @@ You are writing an article for a {niche} website. The author byline will be {per
 Length target: {length_target['min']}-{length_target['max']} words ({length_target['label']}).
 
 Writing rules (follow every one):
-- Write in a natural, human voice. Vary sentence length -- mix short punchy sentences with longer explanatory ones.
-- Never use em dashes (-- or ---). Use commas, colons, or a new sentence instead.
-- Avoid these overused AI phrases: "In conclusion", "In summary", "It's worth noting", "Firstly", "Furthermore", "Moreover", "Delve into", "Navigating", "It is important to note", "This article will explore".
-- Use contractions naturally (you'll, it's, don't, can't).
-- Be specific. Use real numbers, named concepts, and concrete examples instead of vague generalities.
-- Occasional first person is fine ("In my experience...", "I've seen clients...") -- it makes the author persona feel real.
-- Do not pad with filler. Every paragraph must earn its place.
+- Write like a specific human with opinions, not a neutral summarizer. Where the topic allows, take a clear stance ("honestly, I'd skip the pricey version", "most advice on this is wrong"). Readers trust a writer who commits.
+- Vary your rhythm hard. Mix short, punchy sentences (fragments are fine) with longer ones. Let some paragraphs be a single sentence. Do not make every section the same length.
+- Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
+- Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
+- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"), but do not overdo it.
+- Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
+- Use contractions everywhere (you'll, it's, don't, can't, that's).
+- Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
+- Acknowledge nuance and uncertainty honestly ("the research here is mixed", "this won't work for everyone") instead of false confidence or robotic both-sidesing.
+
+NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world.
+
+Avoid these structural tells:
+- The rule of three in every sentence ("X, Y, and Z"). Sometimes list two things, sometimes five.
+- "It's not just X, it's Y" / "It's not about X, it's about Y" constructions.
+- Ending the article, or every section, by restating what you just said.
+- Perfectly balanced "on one hand / on the other hand" hedging on everything.
+- Opening every paragraph with its topic sentence. Sometimes bury the point.
+- Turning everything into a bulleted list. Prose is fine; use a list only when it genuinely helps.
 {ymyl_instruction}
 {ref_instruction}
 {affiliate_note}
 
 Output ONLY the article body in Markdown. No preamble, no title (title comes from frontmatter)."""
 
-    user_prompt = f"""Write a thorough, reader-first article about: {keyword}
+    user_prompt = f"""Write a thorough, genuinely useful article about: {keyword}
 
-Structure:
-1. Opening paragraph -- hook the reader with a specific scenario or surprising fact. No heading.
-2. 4-6 H2 sections covering the topic comprehensively
-3. At least one practical step-by-step section or comparison table where relevant
-4. FAQ section (5 Q&A pairs as H3 subheadings)
-5. Brief closing paragraph (no heading, no summary label)
+Loose structure (vary it -- do not make every article identical):
+- Open without a heading, and vary how you open (see the writing rules).
+- Cover the topic across a handful of H2 sections, but vary how many, how long they run, and how you approach each. Some can be a few tight paragraphs; let one go deeper.
+- Where it genuinely helps, include a step-by-step walkthrough or a comparison, but do not force a list onto everything.
+- Near the end, add a short FAQ: 4-5 real questions readers actually ask, each as an H3 ending in a question mark, with a direct 1-3 sentence answer. (Keep these -- they power our FAQ feature.)
+- Close naturally -- no "Conclusion" or "Summary" heading, and do not restate everything.
 
-Make it genuinely useful for someone dealing with this exact situation right now."""
+Write it in the author's specific voice, with the opinions and concrete detail only someone who knows this topic firsthand would include."""
 
     msg = client.messages.create(
         model="claude-sonnet-4-6",
