@@ -14,3 +14,13 @@ This is a gentle, 2-minute self-reflection, not a test you can pass or fail and 
 {{< quiz >}}
 
 However your answers landed, reaching out for support is a sign of strength, not weakness, and you don't have to be in crisis to deserve help. When you're ready, browsing a few beginner-friendly guides can make that first step feel a lot smaller. Be kind to yourself today.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+
