@@ -890,7 +890,16 @@ def commit_youtube_json(article: dict, script: dict, shorts_id: str, standard_id
     subprocess.run(["git", "config", "user.name",  "Peacoat Pipeline"],     check=True)
     subprocess.run(["git", "add", "data/youtube.json"],                     check=True)
     subprocess.run(["git", "commit", "-m", f"Add YouTube videos: {script['title'][:55]}"], check=True)
-    subprocess.run(["git", "push"],                                          check=True)
+    import time as _t
+    _pushed = False
+    for _att in range(5):
+        subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=False)
+        if subprocess.run(["git", "push"]).returncode == 0:
+            _pushed = True
+            break
+        _t.sleep(5)
+    if not _pushed:
+        raise RuntimeError("git push failed after retries (concurrent commits)")
     print("  Committed data/youtube.json")
 
 
