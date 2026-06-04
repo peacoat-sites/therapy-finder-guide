@@ -633,7 +633,7 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                               "(KHTML, like Gecko) Chrome/120.0 Safari/537.36",
             },
-            params={"query": query, "per_page": 15, "orientation": "landscape"},
+            params={"query": query, "per_page": 30, "orientation": "landscape"},
             timeout=10
         )
         if r.status_code != 200:
@@ -644,7 +644,7 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
         photos = [p for p in r.json().get("photos", []) if str(p["id"]) not in used_ids]
         if not photos:
             return None
-        photo = random.choice(photos[:5])
+        photo = random.choice(photos[:8])
         used_ids.add(str(photo["id"]))
         def _clean(s: str) -> str:
             return re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', str(s))
@@ -684,6 +684,36 @@ def fetch_image(query: str, used_ids: set) -> dict | None:
     return fetch_image_flux(query)
 
 # ── PUBLISHED KEYWORD TRACKING ────────────────────────────────────────────────
+
+def get_used_image_ids(repo: str) -> set:
+    """Photo IDs of images already used by published articles - pre-seeds
+    used_img_ids so a new article never reuses an image already on the site."""
+    ids = set()
+    try:
+        from concurrent.futures import ThreadPoolExecutor
+        r = requests.get(
+            f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/content/posts",
+            headers=GH_HEADERS, timeout=15)
+        if r.status_code != 200:
+            return ids
+        files = [f for f in r.json() if isinstance(f, dict) and f["name"].endswith(".md")]
+        def _scan(f):
+            try:
+                raw = requests.get(f["download_url"], timeout=10).text
+                m = re.search(r'(?m)^image:\s*"?([^"\n]*)"?\s*$', raw)
+                if m:
+                    pid = re.search(r"/photos/(\d+)/", m.group(1))
+                    return pid.group(1) if pid else None
+            except Exception:
+                return None
+        with ThreadPoolExecutor(max_workers=10) as ex:
+            for pid in ex.map(_scan, files):
+                if pid:
+                    ids.add(pid)
+    except Exception as e:
+        print(f"  used-image scan failed: {e}")
+    return ids
+
 
 def get_published_slugs(repo: str) -> set:
     """Fetch list of already-published article filenames from GitHub."""
@@ -1022,7 +1052,9 @@ def publish_site(site_name: str, count: int):
         return
 
     to_publish   = unpublished[:count]
-    used_img_ids = set()
+    used_img_ids = get_used_image_ids(repo)
+    if used_img_ids:
+        print(f"  Pre-seeded {len(used_img_ids)} existing image IDs for dedup")
     new_urls     = []   # URLs of articles created this run, for Indexing API submission
 
     for i, kw_row in enumerate(to_publish, 1):
