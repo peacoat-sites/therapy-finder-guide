@@ -30,7 +30,10 @@
     <!-- Left: Editorial text -->
     <div class="hero-split-text">
       {{ with .Site.Params.niche }}<p class="hero-eyebrow">{{ . }}</p>{{ end }}
-      <h1 class="hero-split-title">{{ .Site.Params.tagline | default .Site.Title }}</h1>
+      <span class="hero-emblem">{{ partial "brand-mark.html" . }}</span>
+      {{ $tt := .Site.Params.tagline | default .Site.Title }}
+      {{ $w := split $tt " " }}{{ $n := len $w }}
+      {{ if gt $n 1 }}<h1 class="hero-split-title">{{ delimit (first (sub $n 1) $w) " " }} <span class="ht-accent">{{ index $w (sub $n 1) }}</span></h1>{{ else }}<h1 class="hero-split-title">{{ $tt }}</h1>{{ end }}
       <p class="hero-split-sub">{{ .Site.Params.description }}</p>
       <div class="hero-auth-actions">
         <a href="/posts/" class="btn-hero-primary">Browse All Articles</a>
