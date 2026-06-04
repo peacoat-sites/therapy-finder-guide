@@ -3,7 +3,7 @@ title: "Therapy For Relationship Issues"
 date: 2026-05-26T03:48:38.092974+00:00
 draft: false
 description: "Struggling with relationship problems? Discover how therapy can help you improve communication, resolve conflicts, and build stronger, healthier connections wit"
-image: "https://images.pexels.com/photos/5699493/pexels-photo-5699493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8560023/pexels-photo-8560023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["therapy", "relationship", "issues"]
 author: "Alex Reeves"

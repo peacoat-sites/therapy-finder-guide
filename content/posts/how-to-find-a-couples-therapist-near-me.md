@@ -3,7 +3,7 @@ title: "How To Find A Couples Therapist Near Me"
 date: 2026-06-02T12:53:55.984177+00:00
 draft: false
 description: "Find the right couples therapist near you with our simple guide. Learn what to look for, where to search, and how to choose the best fit for your relationship."
-image: "https://images.pexels.com/photos/5699476/pexels-photo-5699476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5336919/pexels-photo-5336919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["find", "couples", "therapist", "near"]
 author: "Alex Reeves"

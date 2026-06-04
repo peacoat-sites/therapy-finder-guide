@@ -3,7 +3,7 @@ title: "Starting Therapy As Adult Guide"
 date: 2026-05-22T07:31:43.242288+00:00
 draft: false
 description: "Thinking about starting therapy as an adult? Discover practical tips on finding the right therapist, what to expect, and how to make the most of every session."
-image: "https://images.pexels.com/photos/5699457/pexels-photo-5699457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3958413/pexels-photo-3958413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["starting", "therapy", "adult", "guide"]
 author: "Claire Novak"

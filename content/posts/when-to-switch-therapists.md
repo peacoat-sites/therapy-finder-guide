@@ -5,7 +5,7 @@ draft: false
 description: "Here is a meta description within the 140-155 character range:
 
 Wondering if it's time to find a new therapist? Learn the key signs that suggest you should swit"
-image: "https://images.pexels.com/photos/7176219/pexels-photo-7176219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9064679/pexels-photo-9064679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["when", "switch", "therapists"]
 author: "Dana Hargrove"

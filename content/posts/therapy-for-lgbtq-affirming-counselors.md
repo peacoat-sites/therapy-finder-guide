@@ -3,7 +3,7 @@ title: "Therapy For Lgbtq Affirming Counselors"
 date: 2026-06-04T12:22:39.612157+00:00
 draft: false
 description: "Find expert guidance on therapy for LGBTQ clients with affirming counselors who create safe, inclusive spaces to support mental health, identity, and personal g"
-image: "https://images.pexels.com/photos/5699457/pexels-photo-5699457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7176135/pexels-photo-7176135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Specialized"]
 tags: ["therapy", "lgbtq", "affirming", "counselors"]
 author: "Alex Reeves"
