@@ -61,6 +61,24 @@
 
 </head>
 <body data-nav="{{ .Site.Params.nav_style | default "light" }}">
+<script>
+/* Auto-retry transient image load failures (Pexels CDN throttles under concurrent load) */
+(function(){
+  document.addEventListener('error', function(e){
+    var img = e.target;
+    if(!img || img.tagName !== 'IMG') return;
+    if(img.src.indexOf('pexels.com') < 0 && img.src.indexOf('pixabay') < 0) return;
+    var n = img._imgRetry || 0;
+    if(n >= 3) return;
+    img._imgRetry = n + 1;
+    setTimeout(function(){
+      var u = img.src.replace(/[?&]_r=\d+/, '');
+      img.src = u + (u.indexOf('?') > -1 ? '&' : '?') + '_r=' + (n + 1);
+    }, 500 * (n + 1));
+  }, true); /* capture phase — img error events don't bubble */
+})();
+</script>
+
 
   {{ partial "trust-ribbon.html" . }}
   {{ partial "header.html" . }}
