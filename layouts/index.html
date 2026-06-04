@@ -39,64 +39,79 @@
       </div>
     </div>
 
-    <!-- Right: Featured card + 2 mini-cards -->
+    <!-- Hero Carousel: 5 daily-rotating articles (date-seeded, client-side) -->
     <div class="hero-split-cards">
-
-      {{ if $featured }}
-      <a href="{{ $featured.Permalink }}" class="hero-feature-card">
-        {{ if $featured.Params.image }}
-        <div class="hero-feature-img">
-          <img src="{{ $featured.Params.image }}" alt="{{ $featured.Title }}" loading="eager">
-        </div>
-        {{ end }}
-        <div class="hero-feature-body">
-          <span class="hero-feature-label">Featured</span>
-          {{ if $featured.Params.categories }}
-          <span class="hero-feature-cat">{{ index $featured.Params.categories 0 | title }}</span>
-          {{ end }}
-          <h2 class="hero-feature-title">{{ $featured.Title }}</h2>
-          <span class="hero-feature-read">{{ (int (math.Round (div $featured.WordCount 450.0))) }} min read &rarr;</span>
-        </div>
-      </a>
-      {{ end }}
-
-      <div class="hero-mini-cards">
-        {{ if $second }}
-        <a href="{{ $second.Permalink }}" class="mini-card">
-          {{ if $second.Params.image }}
-          <div class="mini-card-img">
-            <img src="{{ $second.Params.image }}" alt="{{ $second.Title }}" loading="lazy">
-          </div>
-          {{ end }}
-          <div class="mini-card-body">
-            {{ if $second.Params.categories }}
-            <span class="mini-card-cat">{{ index $second.Params.categories 0 | title }}</span>
-            {{ end }}
-            <span class="mini-card-title">{{ $second.Title }}</span>
-            <span class="mini-card-meta">{{ (int (math.Round (div $second.WordCount 450.0))) }} min read</span>
-          </div>
-        </a>
-        {{ end }}
-
-        {{ if $third }}
-        <a href="{{ $third.Permalink }}" class="mini-card">
-          {{ if $third.Params.image }}
-          <div class="mini-card-img">
-            <img src="{{ $third.Params.image }}" alt="{{ $third.Title }}" loading="lazy">
-          </div>
-          {{ end }}
-          <div class="mini-card-body">
-            {{ if $third.Params.categories }}
-            <span class="mini-card-cat">{{ index $third.Params.categories 0 | title }}</span>
-            {{ end }}
-            <span class="mini-card-title">{{ $third.Title }}</span>
-            <span class="mini-card-meta">{{ (int (math.Round (div $third.WordCount 450.0))) }} min read</span>
-          </div>
-        </a>
-        {{ end }}
+      <div class="hero-carousel" id="hero-carousel">
+        <div class="carousel-track" id="carousel-track"></div>
+        <div class="carousel-dots" id="carousel-dots"></div>
+        <button class="carousel-prev" id="carousel-prev" aria-label="Previous article">&#8249;</button>
+        <button class="carousel-next" id="carousel-next" aria-label="Next article">&#8250;</button>
       </div>
 
+      <!-- All article data for JS to pick from -->
+      <script id="carousel-articles" type="application/json">
+      [{{ range $i, $p := $pages }}{{ if and $p.Params.image (ne $p.Params.image "") }}{{ if $i }},{{ end }}{"u":"{{ $p.Permalink }}","t":"{{ $p.Title | htmlEscape }}","img":"{{ $p.Params.image }}","cat":"{{ if $p.Params.categories }}{{ index $p.Params.categories 0 | title }}{{ end }}","rt":{{ int (math.Round (div $p.WordCount 450.0)) }}}{{ end }}{{ end }}]
+      </script>
+
+      <script>
+      (function(){
+        /* Date-seeded deterministic shuffle — same 5 articles all day for every visitor */
+        var s = Math.floor(Date.now() / 86400000); // changes at midnight UTC
+        function rng(){ s = (s * 1664525 + 1013904223) >>> 0; return s / 4294967296; }
+        function shuffle(a){
+          a = a.slice();
+          for(var i=a.length-1;i>0;i--){ var j=Math.floor(rng()*(i+1)),t=a[i];a[i]=a[j];a[j]=t; }
+          return a;
+        }
+        var all = JSON.parse(document.getElementById('carousel-articles').textContent);
+        var articles = shuffle(all.filter(function(a){ return a.img && a.img.indexOf('http')===0; })).slice(0,5);
+        if(!articles.length) return;
+
+        var track = document.getElementById('carousel-track');
+        var dotsEl = document.getElementById('carousel-dots');
+        var cur = 0;
+
+        articles.forEach(function(a, i){
+          var slide = document.createElement('div');
+          slide.className = 'carousel-slide' + (i===0?' active':'');
+          slide.innerHTML =
+            '<img class="carousel-img" src="'+a.img+'" alt="'+a.t.replace(/"/g,'&quot;')+'" loading="'+(i===0?'eager':'lazy')+'">' +
+            '<div class="carousel-overlay">' +
+              '<div class="carousel-body">' +
+                (a.cat ? '<span class="carousel-cat">'+a.cat+'</span>' : '') +
+                '<h2 class="carousel-title">'+a.t+'</h2>' +
+                '<span class="carousel-meta">'+a.rt+' min read</span>' +
+                '<a href="'+a.u+'" class="carousel-cta">Read Article &rarr;</a>' +
+              '</div>' +
+            '</div>';
+          track.appendChild(slide);
+
+          var dot = document.createElement('button');
+          dot.className = 'carousel-dot'+(i===0?' active':'');
+          dot.setAttribute('aria-label','Article '+(i+1));
+          (function(n){ dot.addEventListener('click',function(){ goTo(n); resetTimer(); }); })(i);
+          dotsEl.appendChild(dot);
+        });
+
+        function goTo(n){
+          var slides = track.querySelectorAll('.carousel-slide');
+          var dots   = dotsEl.querySelectorAll('.carousel-dot');
+          slides[cur].classList.remove('active');
+          dots[cur].classList.remove('active');
+          cur = ((n % articles.length) + articles.length) % articles.length;
+          slides[cur].classList.add('active');
+          dots[cur].classList.add('active');
+        }
+
+        var timer;
+        function resetTimer(){ clearInterval(timer); timer = setInterval(function(){ goTo(cur+1); }, 8000); }
+        document.getElementById('carousel-prev').addEventListener('click', function(){ goTo(cur-1); resetTimer(); });
+        document.getElementById('carousel-next').addEventListener('click', function(){ goTo(cur+1); resetTimer(); });
+        resetTimer();
+      })();
+      </script>
     </div>
+
   </div>
 </section>
 
