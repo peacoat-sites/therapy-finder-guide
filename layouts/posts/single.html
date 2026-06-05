@@ -31,6 +31,7 @@
       <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
       {{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }}<span style="color:#64748b;font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
       <span>{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+      <span class="post-reviewed">&middot; <a href="/editorial-standards/" style="color:inherit;font-weight:600">Fact-checked &amp; reviewed</a></span>
     </div>
 
     <!-- Featured Hero Image — same image shown on the article card -->
