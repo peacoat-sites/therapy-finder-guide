@@ -16,7 +16,7 @@
       {{- range $name, $taxonomy := $.Site.Taxonomies.categories -}}
       {{- $lbl := title (replace $name "-" " ") -}}
       {{- $lbl = replace $lbl "Hr" "HR" -}}{{- $lbl = replace $lbl "Pm" "PM" -}}{{- $lbl = replace $lbl "Diy" "DIY" -}}{{- $lbl = replace $lbl "Hoa" "HOA" -}}{{- $lbl = replace $lbl "Hvac" "HVAC" -}}{{- $lbl = replace $lbl "Rv" "RV" -}}
-      <a href="/categories/{{ urlize $name }}/" class="ticker-item">{{ $lbl }}</a>
+      <a href="{{ with site.GetPage (printf "/categories/%s" $name) }}{{ .RelPermalink }}{{ end }}" class="ticker-item">{{ $lbl }}</a>
       {{- end -}}
       {{- end -}}
     </div>
@@ -218,7 +218,7 @@
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
             {{ $lbl := title (replace $name "-" " ") }}
             {{ $lbl = replace $lbl "Hr" "HR" }}{{ $lbl = replace $lbl "Pm" "PM" }}{{ $lbl = replace $lbl "Diy" "DIY" }}{{ $lbl = replace $lbl "Hoa" "HOA" }}{{ $lbl = replace $lbl "Hvac" "HVAC" }}{{ $lbl = replace $lbl "Rv" "RV" }}
-            <li><a href="/categories/{{ urlize $name }}/">{{ $lbl }}</a></li>
+            <li><a href="{{ with site.GetPage (printf "/categories/%s" $name) }}{{ .RelPermalink }}{{ end }}">{{ $lbl }}</a></li>
             {{ end }}
           </ul>
         </div>
