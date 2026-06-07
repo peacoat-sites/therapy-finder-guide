@@ -825,9 +825,14 @@ Write it in the author's specific voice, with the opinions and concrete detail o
     meta = client.messages.create(
         model="claude-sonnet-4-6",
         max_tokens=80,
-        messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{keyword}'. Plain text only, no quotes."}]
+        messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{keyword}'. Output ONLY the description sentence itself - no preamble, no labels like 'Here is a meta description', no quotation marks."}]
     )
-    description = meta.content[0].text.strip()[:160]
+    _raw = meta.content[0].text.strip()
+    # Guard: strip leaked LLM preambles ("Here is a meta description ...:") and stray quotes
+    _raw = re.sub(r"^\s*(here'?s?[^:\n]*:|sure[,!:]\s*|certainly[,!:]?\s*|okay[,!:]?\s*)", "", _raw, flags=re.I).strip()
+    _lines = [l.strip().strip('"').strip("'") for l in _raw.split("\n") if l.strip()]
+    _clean = [l for l in _lines if not re.search(r"meta description|character range|^here\b|^sure\b|^certainly\b", l, re.I)]
+    description = (_clean[0] if _clean else (_lines[0] if _lines else _raw)).strip().strip('"').strip("'")[:160]
 
     return {"content": content, "description": description}
 
