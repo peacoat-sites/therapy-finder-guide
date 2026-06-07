@@ -2,7 +2,7 @@
 title: "Mental Health Crisis Resources"
 date: 2026-05-29T08:47:39.819971+00:00
 draft: false
-description: "Here is a meta description within the 140-155 character range:
+description: "Not sure if what you are feeling is an emergency? Find 24/7 crisis lines including 988, text and chat options, and how to get help right now."
 
 Find essential mental health crisis resources, hotlines, and support tools to help you or a love"
 image: "https://images.pexels.com/photos/33699794/pexels-photo-33699794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
