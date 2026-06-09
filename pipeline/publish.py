@@ -772,7 +772,7 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
 
     system_prompt = f"""{tone}
 
-You are writing an article for a {niche} website. The author byline will be {persona['name']}.
+You are writing an article for a {niche} website in the voice of {persona['name']}. Do NOT include a byline, author name, or any "By ..." line anywhere in the article body — the byline is added automatically by the site template.
 {voice_instruction}
 Length target: {length_target['min']}-{length_target['max']} words ({length_target['label']}).
 
