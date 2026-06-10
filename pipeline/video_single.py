@@ -790,8 +790,30 @@ def get_access_token() -> str:
     return d["access_token"]
 
 
+def verify_upload_channel(token: str) -> None:
+    """Refuse to upload if the OAuth token's identity is not this site's channel.
+    Prevents misrouted uploads (e.g. token minted against the account's default
+    channel instead of the brand channel)."""
+    try:
+        r = requests.get("https://www.googleapis.com/youtube/v3/channels?part=id,snippet&mine=true",
+                         headers={"Authorization": f"Bearer {token}"}, timeout=20)
+        items = r.json().get("items", [])
+    except Exception as e:
+        print(f"  WARN: channel-identity check failed ({e}) - proceeding")
+        return
+    actual = items[0]["id"] if items else "(none)"
+    title = items[0]["snippet"]["title"] if items else "?"
+    if actual != YOUTUBE_CHANNEL_ID:
+        print(f"FATAL: OAuth token identity is channel '{title}' ({actual}), "
+              f"but this site uploads to {YOUTUBE_CHANNEL_ID}.")
+        print("Refusing to upload to the wrong channel. Re-auth this repo's "
+              "GOOGLE_REFRESH_TOKEN selecting the correct brand channel.")
+        raise SystemExit(1)
+
+
 def upload_to_youtube(video_bytes: bytes, script: dict, article: dict, is_shorts: bool = True) -> str:
     token = get_access_token()
+    verify_upload_channel(token)
     title = script["title"][:100]
     label = "Shorts" if is_shorts else "Standard"
 
