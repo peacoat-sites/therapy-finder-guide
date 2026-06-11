@@ -934,6 +934,13 @@ def main():
     if DRY_RUN:
         print("[DRY RUN] Will stop after audio synthesis")
 
+    if not DRY_RUN:
+        # Fail fast BEFORE burning Shotstack render credits if the upload
+        # token's identity is not this site's channel.
+        print("STEP 0: Verifying YouTube channel identity...")
+        verify_upload_channel(get_access_token())
+        print(f"  Token identity OK ({YOUTUBE_CHANNEL_ID})")
+
     print("STEP 1: Reading latest article...")
     article = read_latest_article()
     if not article:
