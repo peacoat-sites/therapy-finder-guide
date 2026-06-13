@@ -70,6 +70,7 @@ a     { color: inherit; text-decoration: none; }
 [data-nav="dark"] .nav-toggle { color: #fff; }
 [data-nav="dark"] .search-input { background: rgba(255,255,255,0.14); border-color: rgba(255,255,255,0.22); color: #fff; }
 [data-nav="dark"] .search-input::placeholder { color: rgba(255,255,255,0.5); }
+[data-nav="dark"] .search-input:focus { background: #fff; color: #0f172a; }
 [data-nav="dark"] .search-btn { color: rgba(255,255,255,0.65); }
 [data-nav="dark"] .search-btn:hover { color: #fff; }
 [data-nav="dark"] .mobile-nav-open .site-nav { background: var(--accent); border-top-color: rgba(0,0,0,0.2); }
