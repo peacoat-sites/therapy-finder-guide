@@ -94,7 +94,8 @@
     </div>
     {{ end }}
 
-    {{ partial "related-articles.html" . }}
+    {{ partial "audible-cta.html" . }}
+  {{ partial "related-articles.html" . }}
 
     <!-- In-article Ad -->
     {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_incontent (ne .Site.Params.adsense_slot_incontent "auto") }}
