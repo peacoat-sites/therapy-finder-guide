@@ -897,6 +897,8 @@ image: "{image_url}"
 categories: {json.dumps(categories)}
 tags: {json.dumps(tags)}
 author: "{persona['name']}"
+author_slug: "{persona.get('slug', '')}"
+author_title: "{persona.get('title', '')}"
 author_bio: "{persona['bio']}"
 slug: "{slug}"
 affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
@@ -1069,7 +1071,10 @@ def publish_site(site_name: str, count: int):
         # Round-robin through portfolio voices; offset by published count so rotation
         # continues correctly across daily runs (article 201 picks up where 200 left off)
         voice    = PORTFOLIO_VOICES[(voice_offset + i - 1) % len(PORTFOLIO_VOICES)]
-        persona  = {"name": voice["name"], "bio": voice["bio"]}
+        if _site_authors:
+            persona = _site_authors[(voice_offset + i - 1) % len(_site_authors)]
+        else:
+            persona  = {"name": voice["name"], "bio": voice["bio"]}
 
         print(f"\n  [{i}/{count}] {keyword} (priority: {priority}, author: {persona['name']})")
 
