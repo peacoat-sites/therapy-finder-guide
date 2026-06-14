@@ -1,5 +1,5 @@
 ---
-title: "Emdr Therapy Explained"
+title: "EMDR Therapy Explained"
 date: 2026-05-27T16:47:26.090195+00:00
 draft: false
 description: "Discover how EMDR therapy works, what to expect in sessions, and how this evidence-based treatment helps people process trauma and overcome distressing memories"

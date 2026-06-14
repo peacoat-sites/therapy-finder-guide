@@ -1,5 +1,5 @@
 ---
-title: "What Is Emdr Therapy Used For"
+title: "What Is EMDR Therapy Used For"
 date: 2026-06-02T12:55:51.580973+00:00
 draft: false
 description: "EMDR therapy helps treat trauma, PTSD, anxiety, phobias, and more. Discover how this powerful eye movement technique works and what conditions it can effectivel"

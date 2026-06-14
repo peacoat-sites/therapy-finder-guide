@@ -1,5 +1,5 @@
 ---
-title: "Ptsd Therapy Options"
+title: "PTSD Therapy Options"
 date: 2026-05-19T19:24:52.332574+00:00
 draft: false
 description: "Explore effective PTSD therapy options including CBT, EMDR, and exposure therapy. Learn how professional treatment can help manage symptoms and improve your qua"

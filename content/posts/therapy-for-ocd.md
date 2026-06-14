@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Ocd"
+title: "Therapy For OCD"
 date: 2026-05-28T23:01:26.262314+00:00
 draft: false
 description: "Explore evidence-based therapy options for OCD including ERP and cognitive behavioral therapy. Learn how treatment can help manage symptoms and improve quality "
