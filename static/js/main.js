@@ -19,8 +19,12 @@
         var t = Math.min((now - start) / duration, 1);
         var eased = 1 - Math.pow(1 - t, 3);
         var val = Math.round(eased * target);
-        el.textContent = val.toLocaleString() + (el.dataset.suffix||'');
-        if (t < 1) requestAnimationFrame(tick);
+        el.textContent = val.toLocaleString();
+        if (t < 1) {
+          requestAnimationFrame(tick);
+        } else if (el.dataset.suffix) {
+          setTimeout(function() { el.textContent = target.toLocaleString() + el.dataset.suffix; }, 220);
+        }
       }
       requestAnimationFrame(tick);
     });
