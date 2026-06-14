@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "alex-morgan",
+    "name": "Alex Morgan",
+    "title": "Mental Health Writer",
+    "specialty": "Therapy Access & Mental Health Advocacy",
+    "bio": "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+  },
+  {
+    "slug": "dr-chris-peterson",
+    "name": "Dr. Chris Peterson",
+    "title": "Clinical Reviewer",
+    "specialty": "Clinical Psychology & Evidence-Based Therapy",
+    "bio": "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+  },
+  {
+    "slug": "jamie-sullivan",
+    "name": "Jamie Sullivan",
+    "title": "Therapy Navigator",
+    "specialty": "Finding the Right Therapist & Starting Therapy",
+    "bio": "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+  },
+  {
+    "slug": "kim-davis",
+    "name": "Kim Davis",
+    "title": "Wellness Educator",
+    "specialty": "Mindfulness, Stress Reduction & Self-Care",
+    "bio": "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+  },
+  {
+    "slug": "taylor-brooks",
+    "name": "Taylor Brooks",
+    "title": "Community Advocate",
+    "specialty": "Peer Support & Community Mental Health",
+    "bio": "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+  }
+]
