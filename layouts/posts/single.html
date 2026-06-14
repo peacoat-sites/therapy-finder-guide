@@ -211,7 +211,7 @@
         {{ $currentPermalink := $.Permalink }}
         {{ range ($authorPosts | first 6) }}
           {{ if ne .Permalink $currentPermalink }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}<span>{{ (int (math.Round (div .WordCount 450.0))) }} min</span></a></li>
+          <li><a href="{{ .RelPermalink }}">{{ .Title }} <span style="color:var(--muted,#94a3b8);white-space:nowrap">&middot; {{ (int (math.Round (div .WordCount 450.0))) }} min</span></a></li>
           {{ end }}
         {{ end }}
       </ul>
