@@ -6,8 +6,6 @@ description: "Struggling with relationship problems? Discover how therapy can he
 image: "https://images.pexels.com/photos/8560023/pexels-photo-8560023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["therapy", "relationship", "issues"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "therapy-for-relationship-issues"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research on teletherapy is genuinely reassuring here. Multiple studies, including research published during and after the pandemic period, show that teletherapy produces comparable outcomes to in-person therapy for most presentations. For couples especially, online sessions can actually reduce some logistical barriers that prevent people from going. The main caveat is that some therapists prefer in-person for high-conflict couples, where reading full body language is especially important."
   - q: "How do I know if what I'm experiencing is relationship problems or something I need to address individually first?"
     a: "Honestly? This is a question worth raising directly in a first consultation with a therapist. A good therapist can help you assess this early in the process. A useful rule of thumb: if similar patterns have shown up across multiple different relationships in your life, that's often a signal that individual work would be valuable. If the issues are specific and situational to this relationship, couples work may be the right entry point."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Most people who end up in couples therapy waited an average of six years after problems first started before picking up the phone. Six years. That's not a knock on anyone, by the way, because I've seen this pattern up close and I understand exactly why it happens. You tell yourself it'll get better on its own. You worry that suggesting therapy means you're announcing the relationship is broken. Or maybe you both sense something's wrong but can't quite name it yet, so you just keep circling the same arguments, the same silences, the same slow drift apart. What surprised me when I started looking into this more carefully is that the couples who do best in therapy aren't usually the ones in crisis. They're the ones who came in while they still had something to work with.

@@ -6,8 +6,6 @@ description: "Telehealth therapy explained: Learn how online mental health couns
 image: "https://images.pexels.com/photos/5699458/pexels-photo-5699458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Therapy Types"]
 tags: ["telehealth", "therapy", "explained"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "telehealth-therapy-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Licensed therapists are required by law to use HIPAA-compliant platforms. Before starting, ask your therapist which platform they use and confirm it meets privacy standards. On your end, using headphones and finding a private space significantly reduces the risk of others overhearing your session."
   - q: "What if I have a crisis during a telehealth session?"
     a: "A trained therapist will have a safety plan in place before this happens. During your intake, your therapist should ask for your address and an emergency contact so they can act if needed. If you're experiencing a mental health emergency outside of a session, contact the 988 Suicide and Crisis Lifeline by calling or texting 988, or go to your nearest emergency room."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 Imagine you've finally decided to talk to someone. You've been putting it off for months, maybe longer. You look up therapists in your area, and the first three you call aren't accepting new patients. The fourth is 45 minutes away and only has Tuesday morning slots. You work Tuesday mornings. So you close the browser and tell yourself you'll try again later. For a lot of people, "later" never comes. Telehealth therapy exists, in large part, to close that gap between intention and action.

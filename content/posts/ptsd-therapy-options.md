@@ -6,8 +6,6 @@ description: "Explore effective PTSD therapy options including CBT, EMDR, and ex
 image: "https://images.pexels.com/photos/6640401/pexels-photo-6640401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["PTSD", "therapy", "options"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "ptsd-therapy-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is more common than people admit, and it doesn't mean therapy can't work for you. It often means the previous therapy wasn't trauma-focused. General supportive counseling or talk therapy without a structured trauma processing component frequently doesn't move the needle on PTSD. Asking specifically for CPT, PE, or EMDR from a trained provider is a meaningfully different experience."
   - q: "Can children and teenagers get PTSD treatment?"
     a: "Yes, and early treatment matters. Trauma-Focused Cognitive Behavioral Therapy (TF-CBT) is the gold standard for children and adolescents, typically involving both the child and a caregiver. Our child therapy guide for parents and teen therapy options article cover what to look for and how to access age-appropriate care."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Imagine waking up at 3 a.m. for the hundredth night in a row, heart racing, completely convinced you're back in a moment that happened years ago. The smell, the sound, the fear, all of it feels as real as the mattress under you. That's what PTSD does. It doesn't just leave memories, it leaves wounds that the brain keeps reopening. If that experience sounds familiar, or if you love someone going through it, the most important thing I want you to know right now is this: effective, evidence-based treatment exists, and people recover from PTSD every single day.

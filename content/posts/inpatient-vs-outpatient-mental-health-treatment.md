@@ -6,8 +6,6 @@ description: "Explore the key differences between inpatient and outpatient menta
 image: "https://images.pexels.com/photos/5700149/pexels-photo-5700149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Level of Care"]
 tags: ["inpatient", "outpatient", "mental", "health", "treatment"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "inpatient-vs-outpatient-mental-health-treatment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "There should be. A responsible discharge plan includes a follow-up appointment scheduled before you leave, a medication plan, and a recommendation for the next level of care (often PHP or IOP). If a hospital is discharging someone without these elements in place, that's worth pushing back on. Ask the social worker directly: 'What is the step-down plan?'"
   - q: "What if I can't afford any of these options?"
     a: "Community mental health centers, FQHCs, and state-funded programs exist specifically for this. NAMI's helpline (1-800-950-6264) can help you identify local resources by state. Open Path Collective offers reduced-rate therapy sessions ($30 to $80) for people who don't qualify for Medicaid but can't afford standard rates."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Most people don't find out the difference between inpatient and outpatient mental health treatment when they're calm and doing research. They find out when they're already in crisis, or when someone they love is, and a doctor or an emergency room nurse is asking them to make a decision they've never had to think about before. That moment is disorienting in a way that's hard to overstate.

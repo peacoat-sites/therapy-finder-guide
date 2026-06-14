@@ -6,8 +6,6 @@ description: "Wondering if marriage counseling actually works? Discover success 
 image: "https://images.pexels.com/photos/7579112/pexels-photo-7579112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["does", "marriage", "counseling", "actually", "work"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "does-marriage-counseling-actually-work"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Mostly just terminology. In practice, the terms are used interchangeably. 'Marriage counseling' sometimes implies a shorter, more advice-oriented approach, while 'couples therapy' often suggests a deeper therapeutic process, but there's no standardized distinction. What matters is the therapist's training and approach, not what they call it on their website."
   - q: "Should we try marriage counseling before deciding to divorce?"
     a: "It depends on whether ambivalence is real on both sides. If it is, discernment counseling (mentioned above) is a better fit than jumping into process therapy. If one person has emotionally checked out, therapy can clarify that faster than more years of limping along. Either outcome is information."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 The honest answer is: sometimes. That's not the hedge you'll find in most articles about marriage counseling, which tend to land somewhere between cautious optimism and outright cheerleading. But vague encouragement doesn't help you decide whether to spend $150 per session on couples therapy or have a harder conversation about whether your relationship is actually salvageable.

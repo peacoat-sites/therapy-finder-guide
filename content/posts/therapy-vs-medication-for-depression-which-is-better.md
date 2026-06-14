@@ -6,8 +6,6 @@ description: "Discover whether therapy or medication works best for depression. 
 image: "https://images.pexels.com/photos/3958417/pexels-photo-3958417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Treatment"]
 tags: ["therapy", "medication", "depression", "which", "better"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "therapy-vs-medication-for-depression-which-is-better"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Community mental health centers offer sliding-scale fees based on income. Open Path Collective connects people with therapists at reduced rates (roughly $30 to $80 per session). University training clinics often offer low-cost sessions with supervised graduate students. NAMI's helpline can also point you toward local resources."
   - q: "Will I have to be on antidepressants forever?"
     a: "Most people with a first episode of depression take antidepressants for six to twelve months, then taper under medical guidance. Whether you continue long-term depends on your history of recurrence and how you do after stopping. It's a conversation, not a life sentence."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 The honest answer nobody wants to hear is: you probably can't know which one is right for you without trying. And that uncertainty is genuinely hard to sit with when you're depressed and barely have the energy to make coffee in the morning, let alone research treatment options.

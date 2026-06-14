@@ -6,8 +6,6 @@ description: "Wondering how long therapy takes? Discover the key factors that af
 image: "https://images.pexels.com/photos/5699493/pexels-photo-5699493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["long", "does", "therapy", "take"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-long-does-therapy-take"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Ask directly. A good therapist won't be put off by the question. Ask about their specific training and experience with your presenting concern, whether anxiety, trauma, grief, relationship issues, or anything else. Look for specific credentials, additional training certifications like EMDR, CBT, or DBT, and experience with your population. Licensure (LCSW, LPC, PhD, PsyD, MFT) indicates a baseline of training, but specialty experience matters on top of that. If your therapist can't articulate why their approach is suited to your needs, that's worth investigating."
   - q: "What if I can't afford long-term therapy?"
     a: "This is a real and legitimate concern. A few options worth exploring: community mental health centers often offer sliding-scale fees. University training clinics provide supervised therapy at reduced cost. Many employers offer Employee Assistance Programs (EAPs) with free sessions. Open Path Collective is one organization that connects people with affordable therapists. NAMI's helpline at nami.org can help you identify local resources. Insurance parity laws also mean that mental health benefits should be comparable to physical health benefits, so it's worth pushing your insurance provider if y"
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 Most people walk into their first therapy session secretly hoping someone will hand them a timeline. Six weeks, maybe eight, and you'll feel better. I'll be honest: I used to think that too, before I started working alongside clinical teams and watching how wildly different the actual picture looks from person to person. What surprised me most wasn't that therapy takes time. It was how much the *type* of problem, the *type* of therapy, and a handful of factors most people never think to ask about can shrink or stretch that timeline dramatically.

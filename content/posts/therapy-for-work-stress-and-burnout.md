@@ -6,8 +6,6 @@ description: "Struggling with work stress and burnout? Discover how therapy can 
 image: "https://images.pexels.com/photos/6028581/pexels-photo-6028581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "work", "stress", "burnout"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "therapy-for-work-stress-and-burnout"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is an honest and fair question. Therapy won't fix a toxic boss, an unrealistic workload, or a workplace culture that rewards overfunction. What it can do is help you clarify what you can and can't change, make decisions from a clearer headspace, set limits more effectively, and process the impact that environment has had on you. Sometimes therapy helps people stay and navigate better. Sometimes it helps people get clear that leaving is the right choice. Both are legitimate outcomes."
   - q: "How long does therapy for burnout typically take?"
     a: "It depends on the depth of what you're dealing with and the type of therapy. For someone whose burnout is relatively recent and situational, 8 to 12 sessions of CBT can produce real results. For someone with longer-standing patterns, deeper anxiety, or burnout that has developed over years, the work often takes longer. Your therapist should give you a working sense of the timeline after the first couple of sessions. If they can't speak to this at all, it's okay to ask directly."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 Maybe you've started dreading Sunday evenings. Not in a vague, "weekends go too fast" kind of way, but in a chest-tightening, stomach-dropping way that you can't quite explain to the people around you. You're getting your work done. You're showing up. From the outside, things probably look fine. But something has shifted, and you know it. You're more irritable than you used to be, you can't seem to recover on weekends the way you once could, and the things that used to feel meaningful at work now feel like a performance you're barely keeping up. If any of that lands, you're not weak, you're not broken, and you're not alone. You might be burned out. And therapy might be exactly what you need.

@@ -6,8 +6,6 @@ description: "Find expert guidance on therapy for LGBTQ clients with affirming c
 image: "https://images.pexels.com/photos/7176135/pexels-photo-7176135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Specialized"]
 tags: ["therapy", "lgbtq", "affirming", "counselors"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "therapy-for-lgbtq-affirming-counselors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and this is an area where working with a specifically trained therapist matters a great deal. Trauma from conversion practices or religiously-motivated rejection requires careful, evidence-based approaches. Look for therapists who list 'religious trauma' or 'conversion therapy recovery' in their specialties, and don't be shy about asking a potential therapist directly whether they have experience in this area."
   - q: "What if my therapist says something that feels off, even if they're listed as affirming?"
     a: "Say something, if you feel safe enough to do so. A good therapist will welcome the feedback and it can actually deepen the work. If the issue is serious or repeated, trust yourself enough to look for someone else. Finding the right fit sometimes takes more than one attempt, and that's not a failure on your part."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Finding an LGBTQ-affirming therapist should not be this hard. And yet, for a lot of people, it is.

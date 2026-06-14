@@ -6,8 +6,6 @@ description: "Discover the key differences between online therapy and in-person 
 image: "https://images.pexels.com/photos/8453801/pexels-photo-8453801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["online", "therapy", "in-person"]
-author: "Jordan Hayes"
-author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "online-therapy-vs-in-person"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Any legitimate therapist, whether you find them through an app or a directory, should be able to provide their license number and the state in which they're licensed. You can verify licenses through your state's professional licensing board website. Most reputable platforms, and all entries in Psychology Today's directory, require verified credentials for listing."
   - q: "What's the difference between online therapy platforms and independent therapists who do telehealth?"
     a: "Platforms like BetterHelp or Talkspace employ or contract therapists directly and set the pricing model, often on a subscription basis. Independent therapists who offer telehealth are private practitioners who happen to conduct sessions via video rather than in person. The main differences tend to be in billing structure, insurance compatibility (platforms often don't accept insurance; independent telehealth therapists often do), and the continuity of the relationship. Many people find that working with an independent therapist, even via video, feels more like traditional therapy."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Imagine you've finally decided to try therapy. You've done the hard part, the part most people spend months or years avoiding: you've admitted you could use some help. Then you open a browser tab and immediately hit a wall. Do you find someone local? Use one of those apps? What's actually the difference? I've watched so many people stall right here, not because they don't want help, but because the logistics feel like a second obstacle course after the emotional hurdle they just cleared. So let's cut through it.

@@ -6,8 +6,6 @@ description: "Learn how to find a therapist that takes your insurance with simpl
 image: "https://images.pexels.com/photos/5699490/pexels-photo-5699490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["find", "therapist", "that", "takes", "insurance"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-find-a-therapist-that-takes-my-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Community mental health centers, FQHCs, and Open Path Collective are all real options with lower costs. Some university training clinics also offer therapy at reduced rates with supervised graduate students providing the sessions. Sliding scale fees are common and most therapists won't make you justify your financial situation in detail to qualify."
   - q: "Do I need a referral from my doctor to see a therapist?"
     a: "It depends on your plan. HMO plans often require a referral from your primary care physician. PPO plans usually don't. When you call your insurance company, this is one of the direct questions to ask, because getting it wrong can mean a claim is denied after the fact."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Most people spend more time picking a Netflix show than they do figuring out if their therapist is actually in-network. Then they get a bill for $250 a session and wonder what happened. I've seen this scenario play out so many times that it's basically the origin story for half the "I tried therapy and it was too expensive" conversations I hear.

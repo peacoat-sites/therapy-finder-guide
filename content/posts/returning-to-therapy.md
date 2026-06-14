@@ -6,8 +6,6 @@ description: "Thinking about returning to therapy? Discover helpful tips on how 
 image: "https://images.pexels.com/photos/5699455/pexels-photo-5699455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["returning", "therapy"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "returning-to-therapy"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on what 'bad terms' means. If you simply stopped going without notice, most therapists won't hold that against you. If there was a specific conflict, it might be worth addressing it directly or finding someone new, depending on what you're comfortable with."
   - q: "How do I know if I actually need to go back or if I'm just having a hard week?"
     a: "If you've been asking yourself this question for more than a couple of weeks, that's usually the answer. A hard week passes; a lingering sense that something needs attention doesn't resolve on its own the same way."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Maybe you've been in therapy before. Maybe it helped, maybe it didn't, or maybe life just got busy and you stopped going, and now you're sitting here months or years later wondering if you should try again. That particular kind of wondering, the quiet "should I go back?" that surfaces at 11pm on a Tuesday, is something I've heard described to me more times than I can count. And the fact that you're asking at all usually means the answer is yes.

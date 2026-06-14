@@ -6,8 +6,6 @@ description: "Learn about SAMHSA mental health resources, including crisis hotli
 image: "https://images.pexels.com/photos/5711163/pexels-photo-5711163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Resources"]
 tags: ["SAMHSA", "mental", "health", "resources"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "samhsa-mental-health-resources"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is exactly who SAMHSA-funded programs are designed to serve. Community mental health centers in SAMHSA's network are required to see patients regardless of ability to pay. Call the National Helpline at 1-800-662-4357 and explain your situation. They can identify no-cost or very low-cost options near you."
   - q: "How is SAMHSA different from a crisis hotline?"
     a: "SAMHSA is the federal agency that funds and oversees crisis lines like 988, but calling SAMHSA's National Helpline is more of a resource and referral service than a crisis line. If you're in immediate distress, call or text 988. If you need help figuring out next steps for ongoing mental health care, the National Helpline is the right starting point."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Maybe you typed "free mental health help" into a search bar at 2am, or maybe a friend mentioned SAMHSA and you nodded like you knew what it was. Either way, you're here now, and that already takes something. What a lot of people don't realize is that SAMHSA, the Substance Abuse and Mental Health Services Administration, is one of the most underused resources in American mental health care. It's a federal agency operating within the U.S. Department of Health and Human Services, and it runs programs, hotlines, and funding streams that reach millions of people every year. Many of those people had no idea where to start before they found it.

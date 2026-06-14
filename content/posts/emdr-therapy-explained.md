@@ -6,8 +6,6 @@ description: "Discover how EMDR therapy works, what to expect in sessions, and h
 image: "https://images.pexels.com/photos/4872028/pexels-photo-4872028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["EMDR", "therapy", "explained"]
-author: "Dr. Emily Strauss"
-author_bio: "Psychologist and mental health advocate with 12 years in community mental health and private practice settings."
 slug: "emdr-therapy-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a legitimate concern, and it deserves a direct answer. EMDR can temporarily increase distress, especially early in processing. Disturbing material can surface between sessions in the form of vivid dreams, intrusive memories, or emotional rawness. This is why the preparation phase exists, and why choosing a trained, experienced therapist matters. Done well, EMDR is designed to move through discomfort, not create lasting harm. If you feel destabilized during treatment, that's information your therapist needs immediately."
   - q: "Will I have to talk about every detail of my trauma?"
     a: "No. This surprises a lot of people. EMDR doesn't require you to narrate your trauma in detail the way some other trauma therapies do. You hold the memory internally and follow the bilateral stimulation while reporting what comes up. Your therapist doesn't need a blow-by-blow account. Some clients find this one of the most appealing aspects of EMDR, particularly when shame or difficulty verbalizing has been a barrier to other approaches."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Imagine you've told your trauma story so many times you could recite it like a grocery list, yet every time you do, your chest tightens, your hands go cold, and you're right back in that moment. Talk therapy has helped you understand what happened. You can explain the psychology of it, name the cognitive distortions, identify your triggers. But the body hasn't gotten the memo. That gap, between knowing something intellectually and feeling it in your bones, is exactly where EMDR therapy lives.

@@ -6,8 +6,6 @@ description: "Discover effective therapy options for depression, including CBT, 
 image: "https://images.pexels.com/photos/31385770/pexels-photo-31385770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "depression"]
-author: "Jordan Hayes"
-author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "therapy-for-depression"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Sometimes, yes. Early therapy can bring up painful material, and the process of confronting difficult emotions isn't always comfortable. But 'worse' should be temporary and should feel like productive discomfort rather than genuine deterioration. If you feel significantly worse after several sessions, tell your therapist directly. That feedback matters. Therapy that makes you consistently more distressed without any sense of progress may not be the right fit."
   - q: "How do I know if my therapist is actually qualified?"
     a: "Check their licensure. In the United States, therapists should hold credentials like LCSW (Licensed Clinical Social Worker), LPC (Licensed Professional Counselor), LMFT (Licensed Marriage and Family Therapist), or PhD/PsyD (psychologist). You can verify licenses through your state's licensing board website. Be cautious of anyone who can't clearly explain their credentials or their treatment approach, or who makes guarantees about outcomes."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Imagine it's 2 p.m. on a Tuesday and you haven't left your bedroom in three days. The dishes are piling up, your phone has seventeen unread texts, and the thought of doing literally anything feels like trying to lift a car with your bare hands. You're not lazy. You're not broken. You might be living with depression, and the hard, honest truth is that therapy can help, but only if you can actually get yourself through the door, figuratively or literally. That's what this article is about: not the glossy version of therapy where someone nods thoughtfully while you talk about your childhood, but the real, practical side of finding the right kind of help when depression has already stolen most of your energy.

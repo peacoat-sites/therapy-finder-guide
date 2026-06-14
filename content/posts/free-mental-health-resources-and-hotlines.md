@@ -6,8 +6,6 @@ description: "Find free mental health resources, crisis hotlines, and support se
 image: "https://images.pexels.com/photos/8682791/pexels-photo-8682791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["free", "mental", "health", "resources", "hotlines"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "free-mental-health-resources-and-hotlines"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The honest answer is: for some things, in some contexts, yes. Apps built on CBT principles, like MindShift, have reasonable evidence behind them for mild to moderate anxiety and mood issues. They are not effective replacements for clinical care for serious mental health conditions. Think of them as a supplement or a bridge, not a ceiling."
   - q: "How do I support someone else who needs help but won't reach out?"
     a: "You can't force someone into care, and trying to tends to backfire. What you can do is reduce the friction. Offer to sit with them while they make a call. Look up the nearest community health center so they don't have to do that work alone. Remind them that 988 exists and you can text together if that feels easier. Being a consistent, non-pressuring presence matters more than any single resource."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Most people assume that getting mental health support means paying out of pocket for a therapist, waiting weeks for an appointment, and hoping your insurance cooperates. I'll be honest: that assumption stops a lot of people from reaching out at all. But what surprised me when I started really digging into this topic was just how many legitimate, free, or near-free mental health resources exist right now, today, available to almost anyone in the United States regardless of income, insurance status, or location. The gap isn't really in the resources. It's in knowing where they are.

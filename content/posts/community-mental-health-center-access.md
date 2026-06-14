@@ -6,8 +6,6 @@ description: "Discover how community mental health centers provide accessible, a
 image: "https://images.pexels.com/photos/7579304/pexels-photo-7579304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["community", "mental", "health", "center", "access"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "community-mental-health-center-access"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, a few things. Ask specifically about walk-in crisis services, which are separate from standard intake waitlists. Ask about telehealth availability. Request to be placed on cancellation lists. And consider whether a university training clinic could bridge the gap while you wait, since supervised graduate student therapists often have shorter waits and lower costs."
   - q: "What if I've had a bad experience with a CMHC before?"
     a: "That's a legitimate concern and worth taking seriously. CMHC experiences vary widely, and a poor fit with a provider or a frustrating intake process doesn't mean the system has nothing to offer. If you're willing to try again, ask specifically about which providers are taking new clients and whether you can request a particular modality or therapist background. You have more agency in the process than most people realize."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 Most people assume community mental health centers are a last resort, a kind of bare-bones option you turn to only when nothing else is available. I thought the same thing, honestly, until I started looking closely at what these centers actually provide. What surprised me was how comprehensive many of them are, and how few people know how to access them effectively. The reality is that community mental health centers (CMHCs) serve millions of Americans every year, and for a significant portion of those people, they're not a backup plan. They're the best plan available.

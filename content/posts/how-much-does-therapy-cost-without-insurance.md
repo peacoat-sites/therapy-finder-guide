@@ -6,8 +6,6 @@ description: "Discover how much therapy costs without insurance, including avera
 image: "https://images.pexels.com/photos/7176029/pexels-photo-7176029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Costs"]
 tags: ["much", "does", "therapy", "cost", "without"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-much-does-therapy-cost-without-insurance"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Call or text 988. The 988 Suicide and Crisis Lifeline (988lifeline.org) connects you with a trained crisis counselor, free, 24 hours a day. This is not just for people who are suicidal. It's for anyone in acute emotional distress who needs to talk to someone right now. Local crisis centers and hospital emergency departments are also options for immediate mental health emergencies. Don't let cost keep you from getting help in a genuine crisis."
   - q: "Can I negotiate the fee with a therapist directly?"
     a: "Yes, and more therapists are open to this than most people expect. Be straightforward. Something like: 'I really want to work with you and I've read your profile carefully. My budget is X per session. Is that something you'd be able to accommodate, even temporarily while I'm in a financial bind?' The worst they can say is no. Many will either agree, offer a middle number, or refer you to someone who can help at your price point."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 You've just looked up a therapist you think could actually help you. The reviews sound real, the specialties match what you're dealing with, and then you scroll down to the fees section: $175 per session. Weekly therapy. Do the math and that's $700 a month, before you've even confirmed an appointment. A lot of people close the tab right there. I've seen it happen, and it's one of the most frustrating parts of mental health care in this country.

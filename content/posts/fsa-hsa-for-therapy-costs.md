@@ -6,8 +6,6 @@ description: "Save on therapy costs using your FSA or HSA. Learn how these tax-a
 image: "https://images.pexels.com/photos/4021803/pexels-photo-4021803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["therapy", "costs"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "fsa-hsa-for-therapy-costs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and this is actually one of the best use cases for these accounts. Pay your therapist directly, request a superbill, and submit it to your FSA or HSA administrator for reimbursement. The reimbursement process is straightforward once you have the right documentation."
   - q: "Can I contribute to an FSA and an HSA at the same time?"
     a: "Generally, no. If you have a standard Health FSA, contributing to an HSA at the same time is not allowed by IRS rules. There is one exception: a 'limited-purpose FSA' that only covers dental and vision can coexist with an HSA. If you're unsure what kind of FSA your employer offers, HR or your benefits portal will have the answer."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 If you've finally decided to start therapy and then looked at the cost, you know that specific sinking feeling. Maybe your insurance has a high deductible you haven't met yet, or your plan barely covers mental health visits, or you're paying entirely out of pocket. The good news, the kind that actually changes your math, is that you may already have a tax-advantaged account sitting in your benefits portal that can make therapy significantly more affordable. FSAs and HSAs don't get nearly enough attention in conversations about mental health access, and that's a real shame.

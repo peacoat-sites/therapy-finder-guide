@@ -6,8 +6,6 @@ description: "Find the right therapist for your needs with our step-by-step guid
 image: "https://images.pexels.com/photos/7495291/pexels-photo-7495291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["find", "therapist"]
-author: "Dr. Emily Strauss"
-author_bio: "Psychologist and mental health advocate with 12 years in community mental health and private practice settings."
 slug: "how-to-find-a-therapist"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Therapists (including LCSWs, LPCs, and MFTs) are licensed clinicians trained to provide talk therapy. Psychologists (PhD or PsyD) have doctoral-level training and can conduct psychological testing in addition to therapy. Psychiatrists are medical doctors who specialize in mental health and primarily focus on medication management, though some also provide therapy. If you're wondering whether you might benefit from medication, a psychiatrist or your primary care doctor is the right starting point."
   - q: "How do I know if a therapist is actually good?"
     a: "You'll often feel it within the first two sessions. A good therapist listens without rushing, reflects back what you've said accurately, challenges you without shaming you, and makes you feel like a competent adult rather than a patient being managed. If you leave sessions feeling vaguely worse for several weeks in a row without any sense of progress or understanding, it's worth raising that directly or reconsidering the fit."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 You've finally decided you want to talk to someone. Maybe it took months to get here. Maybe a specific Tuesday broke something open and you realized you couldn't keep white-knuckling it alone. You open Google, type "find a therapist near me," and suddenly you're staring at a wall of names, credentials, and therapy types you've never heard of. LCSW, CBT, EMDR, DBT. Insurance accepted, sliding scale, telehealth only. Within five minutes, you've closed the tab and told yourself you'll try again later. Sound familiar? You're not alone, and the fact that the process feels this confusing is a real problem, not a reflection of your readiness or willpower.

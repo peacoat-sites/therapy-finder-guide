@@ -6,8 +6,6 @@ description: "Acceptance and Commitment Therapy (ACT) is a psychological treatme
 image: "https://images.pexels.com/photos/8709181/pexels-photo-8709181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["acceptance", "commitment", "therapy"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "acceptance-and-commitment-therapy-act"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "ACT has been adapted for younger populations, though the delivery looks different. Playful metaphors and stories replace some of the more abstract concepts. If you're considering therapy for a young person, our child therapy guide for parents covers how to evaluate different approaches and what age-appropriate therapy looks like in practice."
   - q: "What if ACT doesn't work for me?"
     a: "That's a fair question to ask upfront. ACT is well-researched but it's not the right fit for every person or every situation. If it doesn't resonate, that's useful information, not a failure. Other approaches like DBT (particularly useful for emotional dysregulation) or trauma-focused work might be better suited. Our overview of DBT therapy is a good next read if you're exploring options."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 Imagine you've tried everything the self-help world told you to try. You've journaled. You've repeated affirmations in the mirror. You've white-knuckled your way through anxious days, telling yourself to "just think positive." And still, the worry is there. The grief is there. The self-doubt hasn't budged. What if the problem isn't that you haven't tried hard enough, but that the strategy itself, the idea that you must eliminate painful thoughts and feelings before you can live fully, is fundamentally flawed? That's exactly the question Acceptance and Commitment Therapy, or ACT, puts on the table. And for a lot of people, it changes everything.

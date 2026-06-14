@@ -6,8 +6,6 @@ description: "Discover how federally qualified health centers provide affordable
 image: "https://images.pexels.com/photos/4173251/pexels-photo-4173251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["federally", "qualified", "health", "center", "therapy"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "federally-qualified-health-center-therapy"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Sometimes. Larger sites with multiple behavioral health providers may give you some choice. Smaller sites may have one or two therapists and no alternatives. If the fit genuinely isn't working after a few sessions, it's worth asking whether a different provider is available."
   - q: "Is FQHC therapy confidential?"
     a: "Yes. The same HIPAA protections that apply to any licensed clinical setting apply here. Your therapy records are kept separate from your general medical records in most systems, and sharing between providers within the same FQHC requires your consent except in specific clinical situations. Ask the intake coordinator about records practices if this is a concern."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Most articles about affordable therapy spend 800 words telling you therapy is important before mentioning a single place to actually get it. Let's skip that. If you're reading about Federally Qualified Health Centers, you probably already know you need help and you're trying to figure out if you can afford it. The answer is almost certainly yes, and here's how it works.

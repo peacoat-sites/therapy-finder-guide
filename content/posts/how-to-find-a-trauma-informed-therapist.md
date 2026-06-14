@@ -6,8 +6,6 @@ description: "Find a trauma-informed therapist who truly understands your needs.
 image: "https://images.pexels.com/photos/3958425/pexels-photo-3958425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Specialized"]
 tags: ["find", "trauma", "informed", "therapist"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-find-a-trauma-informed-therapist"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Leave. Seriously. A poor therapeutic fit, especially with trauma, isn't something to push through indefinitely. It's reasonable to try two or three therapists before finding one who feels safe. You can be honest with a therapist: 'I don't think this is the right fit for me.' They've heard it before."
   - q: "How long does trauma therapy usually take?"
     a: "It depends significantly on the type of trauma, how long ago it happened, and the approach being used. Some focused trauma treatments like EMDR can produce meaningful change in eight to twelve sessions for single-incident trauma. Complex or developmental trauma often takes longer, sometimes years of ongoing work. A good therapist will give you an honest answer about this rather than a vague one."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Maybe you already know you need a trauma-informed therapist. Or maybe someone used that phrase around you recently and you're still not entirely sure what it means, but it sounds right, and you're here trying to figure out the next step. Either way, you're in the right place, and I want to make this as practical as possible for you.

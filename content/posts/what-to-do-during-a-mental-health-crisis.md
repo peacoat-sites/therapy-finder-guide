@@ -6,8 +6,6 @@ description: "Learn what steps to take during a mental health crisis, including 
 image: "https://images.pexels.com/photos/5699430/pexels-photo-5699430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Crisis"]
 tags: ["what", "during", "mental", "health", "crisis"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "what-to-do-during-a-mental-health-crisis"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Call 988 when someone is in emotional crisis, overwhelmed, or expressing suicidal thoughts without immediate, active danger. Call 911 when there's an immediate threat to life, active self-harm in progress, or someone is unconscious or has ingested something harmful. The line isn't always clean, and if you're genuinely unsure, call 988 first and they'll tell you if 911 is needed."
   - q: "Can a mental health crisis happen to someone with no history of mental illness?"
     a: "Absolutely. Grief, trauma, extreme stress, medical events, and substance interactions can all precipitate a crisis in someone who has never had a prior mental health diagnosis. History helps predict risk, but it doesn't gatekeep who can experience one."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 Most crisis advice online reads like it was written for a legal department. "Seek help immediately." "Contact a mental health professional." Cool, thanks. What does that actually mean at 2 a.m. when your hands are shaking and you can't remember how to breathe?

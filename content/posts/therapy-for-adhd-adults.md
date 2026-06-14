@@ -6,8 +6,6 @@ description: "Discover effective therapy options for ADHD adults, including cogn
 image: "https://images.pexels.com/photos/4101145/pexels-photo-4101145.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Conditions"]
 tags: ["therapy", "ADHD", "adults"]
-author: "Jordan Hayes"
-author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "therapy-for-adhd-adults"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely. ADHD affects partners, families, and friendships in real ways, from forgotten commitments to emotional reactivity to the exhausting dynamic where one partner handles most of the household management. Individual therapy helps you understand and change your patterns. Couples work can help both partners understand what ADHD is actually doing to the relationship and build fairer, more workable dynamics. Our guide to how couples therapy works covers what that process looks like."
   - q: "What if I've tried therapy before and it didn't help?"
     a: "This comes up a lot. The most common reason therapy doesn't land for adults with ADHD is a mismatch between the therapy style and the ADHD brain. Open-ended, unstructured approaches can feel pointless or frustrating. If your previous therapist didn't use a structured, skills-based modality like CBT or DBT, it may be worth trying again with a provider specifically trained in those approaches. A bad fit isn't evidence that therapy can't work for you. Getting support for ADHD as an adult isn't about fixing a flaw. It's about finally having tools that match how your brain actually works. The right"
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 You finally sit down to pay your bills. Twenty minutes later, you're reorganizing your bookshelf, watching a YouTube video about the history of staplers, and vaguely aware that the bills are still unpaid. Sound familiar? For the estimated 8 to 10 million adults in the United States living with ADHD, this kind of moment isn't laziness or lack of willpower. It's a neurological reality. And yet, most adults with ADHD spent decades being told they just needed to "try harder." Therapy can't erase ADHD, but it can genuinely change how you live with it.

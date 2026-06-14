@@ -6,10 +6,13 @@ description: "Discover the best online therapy platforms of 2026. Compare top-ra
 image: "https://images.pexels.com/photos/5699454/pexels-photo-5699454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["best", "online", "therapy", "platforms", "2026"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "best-online-therapy-platforms-2026"
 affiliate_disclosure: true
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Most people picking an online therapy platform in 2026 are doing it wrong. They're filtering by price, landing on the most-advertised option, and then wondering six months later why they don't feel any better. I've spent a lot of time looking at how these platforms actually work, what the research says about outcomes, and what real users consistently complain about. The picture is more complicated than any "best of" list will tell you.

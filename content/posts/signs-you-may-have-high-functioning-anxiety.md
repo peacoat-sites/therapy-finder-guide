@@ -6,8 +6,6 @@ description: "Discover the subtle signs of high functioning anxiety, from overth
 image: "https://images.pexels.com/photos/5699465/pexels-photo-5699465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["signs", "have", "high", "functioning", "anxiety"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "signs-you-may-have-high-functioning-anxiety"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This fear comes up constantly, and the honest answer is: not in the way you're afraid of. What therapy typically does is shift the source of motivation from fear to something more sustainable. Most people find they're actually more effective after treatment, not because the anxiety was helping, but because they're no longer burning energy on the suppression."
   - q: "How do I know if what I'm experiencing is anxiety or just normal stress?"
     a: "Duration and proportion are the two things to look at. Normal stress is usually tied to a specific stressor and eases when the situation changes. Anxiety tends to persist, shift objects, and feel disproportionate to the actual circumstances. If the worry is constant, if it's jumped from topic to topic, or if relief is only ever temporary, that pattern is worth discussing with a professional."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 You probably don't think of yourself as an anxious person. You show up on time. You get things done. You're the one people call when they need something handled. The idea that you might have an anxiety disorder feels almost insulting, like a misdiagnosis meant for someone else.

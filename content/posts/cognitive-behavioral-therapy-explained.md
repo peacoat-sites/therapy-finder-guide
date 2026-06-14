@@ -6,8 +6,6 @@ description: "Learn how cognitive behavioral therapy works, what to expect from 
 image: "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["cognitive", "behavioral", "therapy", "explained"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "cognitive-behavioral-therapy-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "There are real options here. Community mental health centers often provide sliding-scale or low-cost therapy. Open Path Collective is a network of therapists who offer reduced-fee sessions specifically for people who can't afford standard rates. University training clinics, where graduate-level therapists work under close supervision, typically charge significantly less than private practice. Telehealth platforms have also made lower-cost CBT-based therapy more accessible. Some apps like Woebot and MoodKit incorporate CBT principles, though they're not a substitute for working with a licensed"
   - q: "How quickly does CBT work?"
     a: "This depends heavily on what you're treating and how consistently you practice between sessions. Some people notice meaningful change within four to six sessions. Research on CBT for panic disorder often shows significant symptom reduction within eight to twelve sessions. Depression typically takes a bit longer. There's no universal timeline, and comparing your progress to someone else's is rarely useful. What the research does show clearly is that active engagement with the homework component is one of the strongest predictors of speed of change."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Imagine you've been waking up at 3 a.m. for six months straight, your mind running the same loop of worst-case scenarios. You've tried journaling, meditation apps, even cutting out caffeine. Nothing sticks. A doctor mentions CBT and you nod politely, but honestly? You have no idea what it actually involves or whether it would work for someone like you. That uncertainty is one of the most common reasons people delay getting help, and it's completely understandable. So let's break it down properly.

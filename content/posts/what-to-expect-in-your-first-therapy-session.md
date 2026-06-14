@@ -6,8 +6,6 @@ description: "Nervous about your first therapy session? Discover what to expect,
 image: "https://images.pexels.com/photos/9064327/pexels-photo-9064327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["what", "expect", "your", "first", "therapy"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "what-to-expect-in-your-first-therapy-session"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Then you go home, decide whether it was the therapist or the whole experience that felt wrong, and make a call from there. A bad first session with one therapist doesn't mean therapy doesn't work for you. It genuinely might mean you need a different kind of therapist, a different modality, or just a different human. Give it at least two or three sessions with someone before writing off the fit entirely, though. First sessions are a little weird for almost everyone."
   - q: "Is it normal to feel worse after the first session?"
     a: "Quite common, actually. You spent 50 minutes opening up things you've been keeping closed. Some emotional heaviness afterward makes sense. If it persists or intensifies significantly, mention it to your therapist at your next session — that's useful information for them, not a sign you did anything wrong."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Most people walk into their first therapy session expecting to be analyzed. They picture a clipboard, probing questions, maybe a Rorschach inkblot test if the therapist is feeling theatrical. What actually happens is usually far less dramatic — and honestly, that surprises a lot of people in a way they weren't prepared for.

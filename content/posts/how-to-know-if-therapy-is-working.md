@@ -6,8 +6,6 @@ description: "Wondering if therapy is actually helping you? Learn the key signs 
 image: "https://images.pexels.com/photos/5699457/pexels-photo-5699457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["know", "therapy", "working"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-know-if-therapy-is-working"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely, and I'd encourage it. Journaling between sessions is one of the most consistent predictors of therapy outcomes. You don't have to write essays. Even brief notes about your mood, a reaction you had, or a pattern you noticed can give you and your therapist valuable data. A structured mindfulness or CBT workbook can provide prompts if blank pages feel daunting. (Disclosure: this site may earn a commission from qualifying purchases.)"
   - q: "Should I switch therapists if I'm not sure therapy is working?"
     a: "Not necessarily, and not immediately. The first step is a direct conversation with your current therapist. Switching too quickly can sometimes replicate an avoidance pattern rather than solve a real problem. But if you've had that honest conversation, given it a fair amount of time, and still see no movement and no explanation you find credible, then seeking a second opinion or a different provider is a legitimate and healthy choice. It's not betrayal. It's self-advocacy."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Maybe you've been going to therapy for six weeks, or six months, and you're sitting in the parking lot before a session wondering: *Is this actually doing anything?* You're not sure if what you're feeling is progress or just… talking. You don't want to seem ungrateful, and you're not ready to quit, but the question is sitting there, quietly, and it won't leave.

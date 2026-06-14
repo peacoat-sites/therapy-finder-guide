@@ -6,8 +6,6 @@ description: "Sessions feel like just going through the motions? Learn the real 
 image: "https://images.pexels.com/photos/9064679/pexels-photo-9064679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["when", "switch", "therapists"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "when-to-switch-therapists"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Out-of-pocket therapy is a real barrier, and it shouldn't be minimized. Options to explore include: therapists who offer sliding scale fees (ask directly, many don't advertise this), community mental health centers, university training clinics where supervised graduate students offer reduced-rate sessions, and Employee Assistance Programs through work, which often cover a set number of free sessions per year."
   - q: "Do I need to tell my new therapist why I left my last one?"
     a: "You don't have to, but being honest helps. Your new therapist will want to understand what you've already worked on and what hasn't resonated. Saying 'I felt like I wasn't making progress' or 'I needed someone with more specific training in trauma' gives them useful context. They're not there to judge your previous therapist. They're there to help you move forward."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 You've been seeing your therapist for eight months. You don't dread the appointments exactly, but you don't look forward to them either. Sessions feel a little like going through the motions. You talk, they nod, they ask a clarifying question or two, you wrap up. You leave feeling... fine. Not worse. But not better, either. And somewhere underneath the politeness of it all, you're starting to wonder: is this just how therapy works, or is something off? That quiet question, the one most people push down because they feel guilty even thinking it, is exactly what we need to talk about.

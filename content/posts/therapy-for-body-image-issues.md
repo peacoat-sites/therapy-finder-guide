@@ -6,8 +6,6 @@ description: "Struggling with body image issues? Discover how therapy can help y
 image: "https://images.pexels.com/photos/6255607/pexels-photo-6255607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "body", "image", "issues"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "therapy-for-body-image-issues"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Look into community mental health centers, sliding-scale therapists (Psychology Today's filter includes this), university training clinics where supervised graduate students offer lower-cost sessions, and Open Path Collective, which connects clients to therapists at reduced rates. Your insurance may also cover more than you think."
   - q: "Is it worth trying online therapy apps for body image issues?"
     a: "Apps like BetterHelp or Talkspace can provide access to licensed therapists and have lower barriers to entry. The evidence on their effectiveness compared to traditional therapy is still developing. I'd think of them as a reasonable starting point, especially if they get you talking to someone when you otherwise wouldn't, but for more severe body image distress or BDD, an in-person therapist with specific training is preferable if you can access one."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Most people who start therapy for body image issues don't think they're "sick enough" to be there. That's the first thing worth saying out loud, because it keeps a lot of people out of the room who genuinely need to be in it.

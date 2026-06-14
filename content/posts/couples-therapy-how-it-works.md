@@ -6,8 +6,6 @@ description: "Discover how couples therapy works, what to expect in sessions, an
 image: "https://images.pexels.com/photos/34623526/pexels-photo-34623526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["couples", "therapy", "works"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "couples-therapy-how-it-works"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A well-trained couples therapist won't align with either partner. That said, they may challenge both of you at different times, and that can feel like being called out. If you feel like the therapist is consistently siding with your partner in a way that feels unfair, bring it up directly. That conversation itself can be productive. If the imbalance is real and doesn't improve, it's okay to seek a different therapist."
   - q: "How much does couples therapy typically cost, and does insurance cover it?"
     a: "Costs vary significantly based on location, therapist credentials, and session length. Many insurance plans cover couples therapy when there's a mental health diagnosis associated with one partner, though coverage varies widely. It's worth calling your insurance company directly and asking specifically about outpatient mental health benefits for couples counseling. Many therapists also offer sliding scale fees. Don't assume it's out of reach without asking."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Picture this: two people who genuinely love each other sitting in silence on opposite ends of the couch, not because they're strangers, but because they've had the same argument so many times they've run out of words. Sound familiar? Research published in the *Journal of Marital and Family Therapy* found that couples wait an average of six years after serious problems begin before seeking therapy. Six years. That's a long time to white-knuckle something that a skilled therapist could help you actually work through.

@@ -6,8 +6,6 @@ description: "Discover the key benefits of premarital counseling and how it stre
 image: "https://images.pexels.com/photos/23496497/pexels-photo-23496497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["premarital", "counseling", "benefits"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "premarital-counseling-benefits"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research is positive, though not magic. A meta-analysis published in the Journal of Family Psychology found that couples who participated in premarital education had meaningfully stronger relationship outcomes on average. No one can guarantee your marriage will succeed. What the data shows is that preparation improves the odds, and that couples who engage in it tend to handle conflict better over time. That's a realistic framing, not a sales pitch."
   - q: "When should we start premarital counseling?"
     a: "Earlier than you think. Ideally, start three to six months before the wedding, not three weeks before. You want enough time to surface difficult topics and actually work through them, not just check a box. If something significant comes up in session, you want room to address it without a venue deposit and 150 RSVPs hanging over the conversation."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 Most couples spend more time picking a wedding venue than they do preparing for the marriage itself. That's not a criticism, it's just how it goes. The wedding industry is loud and immediate, with vendors and timelines and Pinterest boards demanding constant attention. The actual relationship, the one that will outlast the flowers and the open bar, gets squeezed into whatever's left. Premarital counseling exists precisely to correct that imbalance, and the research backs it up: couples who participate in premarital education report significantly higher marital satisfaction and meaningfully lower divorce rates compared to those who don't. Not a small effect. Worth paying attention to.

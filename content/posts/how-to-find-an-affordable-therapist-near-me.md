@@ -6,8 +6,6 @@ description: "Find affordable therapy options near you with our practical guide.
 image: "https://images.pexels.com/photos/36729385/pexels-photo-36729385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["find", "affordable", "therapist", "near"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-find-an-affordable-therapist-near-me"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For mild to moderate anxiety and depression in adults, the research generally shows comparable outcomes. For more complex presentations, including trauma disorders, active psychosis, or situations requiring crisis management, in-person care with a specialist is typically more appropriate. Convenience is a real benefit of online therapy, but it's not inherently superior, and it's not always cheaper once you account for insurance benefits you might have for in-person care."
   - q: "How long will I need to go to therapy?"
     a: "It depends on what you're working on and what you want. Short-term, structured approaches like CBT often produce meaningful results in 8 to 20 sessions for specific issues like phobias or mild depression. Deeper work on personality patterns, complex trauma, or relationship dynamics tends to take longer. A good therapist will set goals with you early and revisit them regularly. You should feel the work moving, not stalled."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Most people spend more time researching a new laptop than they spend researching how to find a therapist. Then they hit a wall, assume therapy is something only people with good insurance and disposable income can afford, and quietly drop the idea. That assumption is wrong, and it's costing people real help. Affordable therapy exists in more forms than most guides bother to explain. Here's the actual map.

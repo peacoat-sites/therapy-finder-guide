@@ -6,8 +6,6 @@ description: "Thinking about starting therapy as an adult? Discover practical ti
 image: "https://images.pexels.com/photos/3958413/pexels-photo-3958413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["starting", "therapy", "adult", "guide"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "starting-therapy-as-adult-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily. Some therapy approaches are entirely focused on present patterns and current functioning. Psychodynamic work goes deeper into history, but even then, the pace is yours. You're not obligated to go anywhere you're not ready to go. A good therapist follows your lead."
   - q: "How long will I need to be in therapy?"
     a: "It depends on what you're working on, the approach being used, and how you respond. CBT for a specific phobia might wrap up in 12 sessions. Processing complex trauma might take years. Most people find that even a relatively short course of therapy (three to six months) produces meaningful change. Ongoing therapy for long-term support is also legitimate -- this isn't a race to the exit."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Most people wait an average of 11 years between the onset of mental health symptoms and actually getting treatment. Eleven years. That's not a statistic buried in a footnote somewhere -- it comes up repeatedly in mental health access research, and every time I see it, I think about all the people white-knuckling through their twenties, their relationships, their careers, quietly wondering if they're broken. If you're reading this right now, you're probably not in year one of whatever you're carrying. And you're probably tired of carrying it alone.

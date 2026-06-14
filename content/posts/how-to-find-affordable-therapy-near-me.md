@@ -6,8 +6,6 @@ description: "Find affordable therapy near you with our practical guide. Explore
 image: "https://images.pexels.com/photos/14797780/pexels-photo-14797780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["find", "affordable", "therapy", "near"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-find-affordable-therapy-near-me"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Both, actually. Community mental health centers see adults for ongoing outpatient therapy, not just crisis situations. They often also offer psychiatric evaluation and medication management. Income-based sliding-scale fees mean some people pay very little or nothing at all. The main downside is that waitlists can be longer than private practices."
   - q: "What if I've called multiple therapists and nobody is taking new clients?"
     a: "This is one of the most frustrating and common experiences people report right now. A few moves that help: ask the therapist's voicemail to put you on a cancellation list, check Psychology Today's therapist finder with the 'sliding scale' filter enabled, and contact your county's mental health department directly to ask about intake. If you're in acute distress during the wait, NAMI's helpline (1-800-950-6264) can also help you find faster local options."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Most people spend three to six months trying to find affordable therapy before they actually get into a room with someone. I've watched this happen over and over, and the delay almost never comes from a shortage of options. It comes from not knowing which direction to look first, hitting a confusing insurance wall, and quietly assuming that therapy is just going to cost $200 a session and that's that.

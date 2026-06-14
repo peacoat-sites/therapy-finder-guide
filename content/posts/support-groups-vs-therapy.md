@@ -6,8 +6,6 @@ description: "Explore the key differences between support groups and therapy to 
 image: "https://images.pexels.com/photos/7176302/pexels-photo-7176302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["support", "groups", "therapy"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "support-groups-vs-therapy"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In the U.S., licensed therapists hold credentials like LCSW, LPC, LMFT, PhD, PsyD, or MD (for psychiatrists). You can verify licensure through your state's licensing board website. Credentials matter, but so does fit. A therapist can be technically excellent and still not be the right match for you. If after several sessions you feel consistently misunderstood or like you're not making any movement, it's okay to look for someone else."
   - q: "Can I do both at the same time?"
     a: "Absolutely, and for many people this is the most effective combination. A therapist helps you build specific skills and process root issues. A support group provides ongoing community and normalizes your experience. They work in parallel, not in competition. Some therapists actively encourage their clients to attend support groups as part of a broader care plan."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 You finally worked up the nerve to tell your doctor you've been struggling. She nods, scribbles something on her notepad, and says, "You might want to try a support group or therapy." You leave the office no clearer than when you walked in. Are those the same thing? Is one better than the other? Can you even afford therapy right now? The vague suggestion felt almost worse than no guidance at all, and if that moment sounds familiar, you're not alone. I've seen this exact confusion derail people for months before they finally get help that actually fits them.

@@ -6,8 +6,6 @@ description: "Nervous about your first therapy session? Learn what to expect, ho
 image: "https://images.pexels.com/photos/36631703/pexels-photo-36631703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["what", "expect", "first", "therapy", "session"]
-author: "Dr. Emily Strauss"
-author_bio: "Psychologist and mental health advocate with 12 years in community mental health and private practice settings."
 slug: "what-to-expect-first-therapy-session"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your insurance information if applicable, a list of any current medications, and anything you wrote down while preparing (notes on symptoms, questions you want to ask). You don't need files or records unless your therapist specifically requested them. Keep it simple."
   - q: "What if I realize mid-session that I don't want to be there?"
     a: "That happens, and it's worth unpacking rather than just fleeing. Sometimes that discomfort is avoidance, the same avoidance that might have delayed making the appointment in the first place. Sometimes it's a genuine signal that the therapist isn't the right fit. Try to finish the session if you can, and then reflect honestly on what you were feeling and why. One session of discomfort isn't necessarily a reason to stop. Consistent discomfort, or a therapist who feels unsafe, is a different story."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Most people spend more time researching a new restaurant than they do preparing for their first therapy session. Then the appointment arrives, they sit down across from a stranger, and the first question, "So, what brings you in today?" lands like a spotlight. If you've ever frozen in that moment, or avoided booking the appointment entirely because you weren't sure what you were walking into, you're not alone. That uncertainty is one of the most common reasons people delay getting help they actually need.

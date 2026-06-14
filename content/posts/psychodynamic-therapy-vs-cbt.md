@@ -6,8 +6,6 @@ description: "Psychodynamic therapy vs CBT: Compare talk therapy approaches, the
 image: "https://images.pexels.com/photos/5699434/pexels-photo-5699434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Therapy Types"]
 tags: ["psychodynamic", "therapy"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "psychodynamic-therapy-vs-cbt"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely. If you've tried CBT and feel you've hit a ceiling, exploring psychodynamic work is a legitimate next step. The reverse is also true. Some people spend time doing deeper exploratory work and then want practical skills to manage what they've uncovered. Your needs can change, and a good therapist will adapt or refer you if a different approach would serve you better."
   - q: "What if I can't afford long-term therapy?"
     a: "This is a real barrier, and it's worth approaching practically rather than just feeling stuck. Many therapists offer sliding-scale fees. Community mental health centers often provide lower-cost services. Some employers offer Employee Assistance Programs that include free short-term therapy. Online therapy platforms can also be more affordable than traditional in-person sessions. Our guide on how much therapy costs lays out the landscape clearly without making promises about what you'll pay."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Imagine you've finally decided to try therapy. You search online, and within minutes you're staring at a therapist profile that lists "psychodynamic therapy, CBT, mindfulness-based approaches" and a dozen other terms you've never heard. You close the tab. It felt easier not to know. That moment of overwhelm is something I've heard described by so many people, and it's one of the main reasons folks put off getting help for months, sometimes years. Understanding what these approaches actually *do* can cut through that confusion fast, so let's get into it.

@@ -6,10 +6,13 @@ description: "Discover effective therapy options for treating depression and anx
 image: "https://images.pexels.com/photos/7176219/pexels-photo-7176219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "depression", "anxiety", "together"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "therapy-for-depression-and-anxiety-together"
 affiliate_disclosure: true
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 Most people who come to me with depression and anxiety don't even realize they have both. They describe feeling exhausted and unmotivated, then mention in the same breath that they can't stop worrying, that they lie awake running disaster scenarios, that dread follows them from room to room. They think it's all one thing. Often, it is, in the sense that the two conditions are so frequently tangled together that treating one without acknowledging the other tends to backfire.

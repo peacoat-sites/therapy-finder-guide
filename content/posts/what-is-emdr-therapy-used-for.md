@@ -6,8 +6,6 @@ description: "EMDR therapy helps treat trauma, PTSD, anxiety, phobias, and more.
 image: "https://images.pexels.com/photos/7722558/pexels-photo-7722558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["what", "emdr", "therapy", "used"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "what-is-emdr-therapy-used-for"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "During and immediately after active reprocessing sessions, you may feel worse before you feel better. New memories or emotions can surface. This is normal and part of the process, not a sign that treatment is failing. That's exactly why the preparation phase exists, to make sure you have the coping resources to manage what comes up between sessions. If you're experiencing significant destabilization, a competent EMDR therapist will slow the pace or shift focus."
   - q: "Can I do EMDR online?"
     a: "Yes. Telehealth EMDR has become common since 2020, and the research on its effectiveness is reasonably encouraging. Bilateral stimulation can be delivered via screen-based eye movement tools or audio tones through headphones. It's not identical to in-person, but for people with limited local access to trained therapists, it's a legitimate option rather than a workaround."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 You've probably heard EMDR mentioned in the same breath as trauma therapy, maybe in a podcast, a therapist's office waiting room, or a Reddit thread about PTSD. What most coverage does next is where it goes wrong: it describes the eye movements, calls it "unconventional," and moves on. That leaves the actual question unanswered. What does EMDR *do*, who is it actually for, and is it worth pursuing? Those are the questions worth answering.

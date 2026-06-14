@@ -6,8 +6,6 @@ description: "Discover how mindfulness-based therapy combines ancient meditation
 image: "https://images.pexels.com/photos/3822622/pexels-photo-3822622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Therapy Types"]
 tags: ["mindfulness-based", "therapy"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "mindfulness-based-therapy"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Adapted versions of MBCT and MBSR have been developed and studied for younger populations, with generally positive results for anxiety and attention issues. However, the delivery, language, and session length are modified significantly for children and adolescents. If you're a parent considering this for your child, our child therapy guide for parents covers what to look for in a clinically appropriate approach for younger clients."
   - q: "Do I have to have a specific diagnosis to benefit from mindfulness-based therapy?"
     a: "No. While the research is strongest for specific diagnoses like recurrent depression, many people seek mindfulness-based therapy for stress, life transitions, relationship difficulties, or simply wanting to function better emotionally. A diagnosis isn't a prerequisite for therapy of any kind. What matters is whether you're experiencing something that's affecting your quality of life and whether you're motivated to do the consistent work the approach requires."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Imagine sitting in a waiting room, heart pounding, convinced that the anxiety about your anxiety is somehow worse than the anxiety itself. You're caught in a loop, and no amount of telling yourself to "calm down" is breaking the cycle. This is exactly the kind of moment mindfulness-based therapy was designed for. Not to make the discomfort disappear, but to change your relationship with it entirely. That shift sounds small. It isn't.

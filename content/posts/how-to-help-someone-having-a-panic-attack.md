@@ -6,8 +6,6 @@ description: "Learn how to help someone having a panic attack with calm, practic
 image: "https://images.pexels.com/photos/8410835/pexels-photo-8410835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Crisis"]
 tags: ["help", "someone", "having", "panic", "attack"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-help-someone-having-a-panic-attack"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some people need to be alone during a panic attack. If they're insisting on space, honor it while staying within earshot. 'I'll be right over here' is the right answer. Don't withdraw completely. Don't hover. It's an uncomfortable middle, but it's what the person is asking for."
   - q: "Is it useful to remind someone that panic attacks aren't dangerous?"
     a: "After the acute phase, maybe. During it, usually not. 'This isn't dangerous' competes with every signal the person's body is sending, and their body is louder than you are right now. Save the psychoeducation for when they've had water and ten minutes to breathe."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 Most articles about panic attacks spend three paragraphs explaining what a panic attack *is* before they get to anything useful. You're already standing next to someone who's hyperventilating and gripping a table. You don't need a definition.

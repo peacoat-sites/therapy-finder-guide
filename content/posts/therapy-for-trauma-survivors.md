@@ -6,8 +6,6 @@ description: "Discover effective trauma therapy approaches, evidence-based treat
 image: "https://images.pexels.com/photos/5483051/pexels-photo-5483051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "trauma", "survivors"]
-author: "Jordan Hayes"
-author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "therapy-for-trauma-survivors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, though the honest answer is that healing from complex trauma (the kind that results from prolonged, repeated trauma rather than a single incident) takes longer and benefits from specialized care. Complex PTSD carries its own distinct challenges, including impacts on identity, relationships, and emotional regulation. The progress can feel slower and less linear. But clinical evidence and lived experience both support that meaningful healing is possible. It may not mean erasing the past. It often means the past no longer controls your present."
   - q: "Do I have to talk about what happened in detail for therapy to work?"
     a: "No. Some modalities, particularly somatic experiencing and certain EMDR protocols, work without requiring detailed verbal accounts of traumatic events. Even within talk-based approaches, a good trauma therapist will never pressure you to disclose more than you're ready for. The goal is always to work at the edge of your window of tolerance, not to push you over it. Your readiness and your pace matter."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Imagine you're sitting in your car in the parking lot of a grocery store, unable to go inside because the fluorescent lights remind you of a hospital where something terrible happened. You're not dramatic. You're not "crazy." You're experiencing a trauma response, and millions of people know exactly what that parking lot moment feels like. The American Psychological Association estimates that around 70% of adults in the U.S. have experienced at least one traumatic event in their lifetime. Yet many of those people spend years, sometimes decades, believing their reactions are a personal flaw rather than a treatable condition. The good news is real: trauma-focused therapy works, and there's a path forward even when that path feels invisible right now.

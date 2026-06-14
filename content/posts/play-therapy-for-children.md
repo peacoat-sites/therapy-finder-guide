@@ -6,8 +6,6 @@ description: "Discover how play therapy helps children express emotions, overcom
 image: "https://images.pexels.com/photos/9064680/pexels-photo-9064680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Specialized"]
 tags: ["play", "therapy", "children"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "play-therapy-for-children"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but keep it simple and honest. Something like: 'You're going to meet someone whose job is helping kids when things feel hard or confusing. You'll get to play there.' Avoid overselling it or making it sound like a reward, and definitely don't describe it as a punishment or imply something is wrong with them."
   - q: "What if my child refuses to go?"
     a: "Some resistance is normal, especially for kids who are anxious or have had bad experiences with doctors. A good play therapist has handled this before. Let the therapist know in advance, and ask about strategies for the first session. Forcing a child into the room isn't usually productive, but a warm, low-pressure introduction can change the dynamic quickly."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Most parents who ask me about play therapy are expecting me to talk them into it. They've already Googled it, watched a few reassuring YouTube videos, and arrived at my inbox half-convinced but still not sure if it's "real" therapy or just an expensive playdate. Here's what I actually tell them: it's one of the most evidence-backed approaches we have for children under twelve, and the fact that it looks like playing is a feature, not a flaw.

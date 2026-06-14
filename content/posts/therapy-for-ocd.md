@@ -6,8 +6,6 @@ description: "Explore evidence-based therapy options for OCD including ERP and c
 image: "https://images.pexels.com/photos/7176317/pexels-photo-7176317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy"]
-author: "Maya Okonkwo"
-author_bio: "Mental health educator and therapist referral specialist. Has helped hundreds of people find their first or next therapist."
 slug: "therapy-for-ocd"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "ERP is adapted for children and adolescents and is equally effective. Family involvement is typically a bigger part of treatment with younger clients, since parents and caregivers can unintentionally reinforce compulsions by providing reassurance. A good child therapist will work with the whole family system. Our child therapy guide for parents has more on what to look for when finding a provider for a young person."
   - q: "Can online therapy work for OCD?"
     a: "Yes. Multiple studies have examined internet-delivered ERP and found outcomes comparable to in-person treatment. Telehealth has also meaningfully expanded access to OCD specialists for people in rural areas or regions where trained providers are scarce. The logistics are slightly different (doing exposures at home rather than in a clinic), but many therapists find this is actually an advantage since real-world contexts are built right into the sessions."
+author: "Alex Morgan"
+author_slug: "alex-morgan"
+author_title: "Mental Health Writer"
+author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+
 ---
 
 You've checked the stove four times. You know it's off. You watched yourself turn the knob. And yet the thought is already creeping back in, louder this time, more insistent. So you check again. This is the exhausting loop that millions of people live inside every day, and if it sounds familiar, you should know something important: effective treatment exists, and it works better than most people realize.

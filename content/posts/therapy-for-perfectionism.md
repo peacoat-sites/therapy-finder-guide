@@ -6,8 +6,6 @@ description: "Struggling with perfectionism? Discover how therapy can help you o
 image: "https://images.pexels.com/photos/5699467/pexels-photo-5699467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "perfectionism"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "therapy-for-perfectionism"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You don't need that label, but you do want someone experienced with anxiety, OCD, or the modalities listed above. Ask about their specific approach and whether they've worked with people whose perfectionism is affecting their work, relationships, or daily functioning. That conversation will tell you a lot."
   - q: "My perfectionism helps me succeed. Why fix it?"
     a: "This is worth sitting with honestly. Adaptive perfectionism (high standards, conscientiousness, pride in your work) is real and valuable. The clinical kind is the version that's costing you more than it's giving you. If you're sleeping fine, finishing things, and not in constant dread of evaluation, maybe there's nothing to fix. If the opposite is true, the success is probably happening despite the perfectionism, not because of it."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Most perfectionists don't think they have a problem. They think they have standards.

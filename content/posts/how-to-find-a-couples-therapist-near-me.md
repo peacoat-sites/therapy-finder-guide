@@ -6,8 +6,6 @@ description: "Find the right couples therapist near you with our simple guide. L
 image: "https://images.pexels.com/photos/5336919/pexels-photo-5336919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["find", "couples", "therapist", "near"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-find-a-couples-therapist-near-me"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "There's no universal answer, and any therapist who gives you a firm number without knowing your situation is guessing. Short-term focused work might be 8 to 12 sessions. Longer-term relational work, especially following significant betrayal or where patterns are deeply entrenched, might run 6 months to a year or more. That said, you should expect to notice some meaningful shift within the first 6 to 8 sessions. If you feel entirely stuck after that, it's fair to raise it with your therapist or consider a different fit."
   - q: "What if one of us wants to use therapy to break up and the other wants to save the relationship?"
     a: "This is more common than people admit, and a good therapist can work with it. The goal of couples therapy isn't always reconciliation. Sometimes the work is about separating with more clarity and less damage, especially when children are involved. Be honest with your therapist about where each of you is. Trying to hide a foot already out the door usually just prolongs pain."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Most couples wait an average of six years after serious problems begin before they seek therapy. Six years. That's not a statistic I made up to be dramatic, it comes from research by Dr. John Gottman, whose decades of work studying couples in distress is about as rigorous as relationship science gets. By the time many partners finally sit across from a therapist together, resentment has calcified, communication patterns have become almost ritualistic in their dysfunction, and at least one person is already half-gone emotionally. I say this not to scare you, but because if you're reading this right now, you're already ahead of the curve. The fact that you're searching "couples therapist near me" at all is genuinely meaningful.

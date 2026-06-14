@@ -6,8 +6,6 @@ description: "Find in-network therapy providers covered by your insurance plan. 
 image: "https://images.pexels.com/photos/7579827/pexels-photo-7579827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["insurance", "network", "therapy", "providers"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "insurance-network-therapy-providers"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In most cases, yes, as long as the provider is licensed in your state and in-network with your plan. Since 2020, telehealth parity has expanded significantly, though coverage rules vary by state and plan. Always confirm telehealth is covered when you call to verify benefits."
   - q: "What is mental health parity and does it protect me?"
     a: "The Mental Health Parity and Addiction Equity Act (MHPAEA) requires that insurers cover mental health services at parity with medical or surgical benefits. In plain terms, they can't impose stricter limits on mental health visits than they do on, say, physical therapy. If you believe your insurer is applying more restrictive rules to mental health care than to other medical care, you can file a complaint with your state insurance commissioner."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Most people assume that if a therapist accepts their insurance, the hard part is over. I used to think that too. The reality I kept running into, both in my own research and in conversations with people trying to get care, is that "in-network" is less a guarantee and more a starting point, and a confusing one at that.

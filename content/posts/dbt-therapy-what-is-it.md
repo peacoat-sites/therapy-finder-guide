@@ -6,8 +6,6 @@ description: "Discover what DBT therapy is, how it works, and who it can help. L
 image: "https://images.pexels.com/photos/33516654/pexels-photo-33516654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["therapy", "what"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "dbt-therapy-what-is-it"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A trained DBT therapist has completed structured training in the full DBT model, practices all four components, and participates in a consultation team. A DBT-informed therapist uses DBT concepts and skills within their broader practice but may not offer the complete model. Neither label is automatically better, but they're not equivalent. Ask questions before committing to a provider."
   - q: "Does DBT work for teens and adolescents?"
     a: "Yes, and there's a specifically adapted version called DBT-A (DBT for Adolescents) that's been well-studied. DBT-A also involves family members as part of the treatment, which makes sense given how much teens' emotional experiences are embedded in family dynamics. If you're a parent looking for support for a teenager, look specifically for therapists who mention DBT-A training."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Imagine you've tried therapy before, maybe even a few times, and it helped a little but never quite addressed the part of you that feels emotions so intensely it's almost physical. You get flooded. You react in ways you later regret. You desperately want to change, but willpower alone hasn't been enough. If that resonates with you, there's a good chance DBT is the conversation you haven't had yet.

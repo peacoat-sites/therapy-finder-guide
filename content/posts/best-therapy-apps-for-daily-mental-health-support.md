@@ -6,8 +6,6 @@ description: "Discover the best therapy apps for daily mental health support. Co
 image: "https://images.pexels.com/photos/7176053/pexels-photo-7176053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Resources"]
 tags: ["best", "therapy", "apps", "daily", "mental"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-therapy-apps-for-daily-mental-health-support"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No app is an appropriate substitute for crisis support. If you're in immediate distress, call or text 988 (Suicide and Crisis Lifeline) or go to your nearest emergency room. Apps like Woebot and Sanvello are designed for ongoing daily support, not acute intervention."
   - q: "How do I know which app is right for me?"
     a: "Honestly, it depends on what you're missing. If you feel disconnected from your emotional patterns, start with a mood tracker like Daylio. If you want skill-building and psychoeducation, Woebot or Sanvello. If stress and sleep are your primary issues, Headspace. Give any app at least two weeks before deciding it doesn't work: the first few days are usually the awkward learning curve, not the real experience."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Most people who download a therapy app do it at 11pm on a Tuesday, when calling anyone feels impossible and the waiting room of a therapist's office feels like a different planet. If that's where you are right now, this article is for you.

@@ -6,8 +6,6 @@ description: "Group therapy offers emotional support, reduces isolation, and pro
 image: "https://images.pexels.com/photos/7176305/pexels-photo-7176305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["group", "therapy", "benefits"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "group-therapy-benefits"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can be, but with important nuances. Trauma-focused groups exist and can be effective, particularly for specific populations like survivors of sexual assault, combat veterans, or people in addiction recovery. However, certain trauma presentations require careful individual stabilization before group work. Modalities like EMDR are typically done individually; our EMDR therapy guide explains why that particular approach requires individual attention. If trauma is your primary concern, discuss with a clinician before choosing the format."
   - q: "What if I'm in crisis right now?"
     a: "Group therapy is not an emergency resource. If you're in acute distress or having thoughts of harming yourself, please contact the 988 Suicide and Crisis Lifeline by calling or texting 988. That line is staffed 24 hours a day, seven days a week, and can help you access immediate support. Group therapy is a powerful tool for ongoing mental health, but crisis support needs to come first."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Imagine sitting in a circle with seven strangers, all of you quiet at first, nobody sure who should speak. Then one person says something you've been too embarrassed to admit to anyone, even your closest friend. And you feel your shoulders drop about two inches. That's group therapy. It's unglamorous, sometimes awkward, and one of the most underrated tools in mental health care.

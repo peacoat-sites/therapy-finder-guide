@@ -6,8 +6,11 @@ description: "Finding a therapist isn't just about who accepts your insurance. H
 image: "https://images.pexels.com/photos/35203642/pexels-photo-35203642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["how to find a therapist", "therapy search", "mental health", "therapist match"]
-author: "Maya Okonkwo"
-author_bio: "Mental health educator and therapist referral specialist. Has helped hundreds of people find their first or next therapist."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Finding a therapist involves more than searching your insurance directory. The right fit -- someone whose approach, communication style, and specialty matches what you need -- matters more than almost anything else.

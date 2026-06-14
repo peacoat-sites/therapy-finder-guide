@@ -6,8 +6,6 @@ description: "Discover how co-parenting therapy helps separated parents communic
 image: "https://images.pexels.com/photos/7176322/pexels-photo-7176322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["co-parenting", "therapy"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "co-parenting-therapy"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Family therapy usually involves the whole family unit working on relationships together. Co-parenting therapy is specifically focused on the parenting relationship between two adults who are no longer together, with the explicit goal of making the child's environment more stable. The child may not be in the room at all."
   - q: "How do I bring this up to my ex without starting a fight?"
     a: "Frame it around the kids, not the relationship. 'I think we could both use some support figuring out a system that works better for the kids' lands differently than anything that sounds like 'you need to change.' Asking your own therapist or attorney to make the recommendation can also take the pressure off you personally."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Most parents who end up in co-parenting therapy didn't plan to be there. What I've seen, working alongside clinical teams for years, is that people usually arrive after a specific breaking point: a judge's recommendation, a blowup at a school pickup, a child who stopped wanting to go to the other parent's house. They're not there because they want to work on themselves. They're there because something broke and they need it fixed.

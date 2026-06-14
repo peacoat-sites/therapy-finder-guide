@@ -6,8 +6,6 @@ description: "Discover the key benefits of family therapy, including improved co
 image: "https://images.pexels.com/photos/8317785/pexels-photo-8317785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["family", "therapy", "benefits"]
-author: "Maya Okonkwo"
-author_bio: "Mental health educator and therapist referral specialist. Has helped hundreds of people find their first or next therapist."
 slug: "family-therapy-benefits"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The rules around confidentiality in family therapy are slightly more complex than in individual therapy. Generally, the therapist keeps information private from people outside the family, but within a family session, everyone present hears what's said. Some therapists also meet with individual family members separately, and policies about what gets shared from those private meetings vary by therapist. Ask about this explicitly in your first consultation. You deserve a clear answer."
   - q: "Can family therapy help when there's been abuse?"
     a: "This requires careful thought. Family therapy is generally not recommended as the primary intervention in situations involving active domestic violence or abuse. In those cases, safety comes first, and individual therapy or crisis services are typically more appropriate starting points. That said, after safety is established, some forms of family therapy can be part of a broader healing process. Always consult with a mental health professional about your specific situation before deciding."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Picture this: a family sits around a dinner table in complete silence. Mom stares at her phone. Dad pushes food around his plate. Their teenage daughter disappeared to her room the moment the meal started, and their twelve-year-old son is watching the whole thing, not sure whether to laugh or cry. No one is screaming. No one is throwing dishes. But something is very, very wrong. This scene, quiet and ordinary as it looks, is exactly the kind of thing that brings families into therapy. And it's exactly the kind of thing that therapy can actually fix.

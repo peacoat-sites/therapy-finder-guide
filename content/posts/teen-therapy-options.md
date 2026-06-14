@@ -6,8 +6,6 @@ description: "Explore the best teen therapy options available, from cognitive be
 image: "https://images.pexels.com/photos/27177631/pexels-photo-27177631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Specialized"]
 tags: ["teen", "therapy", "options"]
-author: "Jordan Hayes"
-author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "teen-therapy-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Telehealth therapy has solid evidence for anxiety and depression in adolescents, particularly for teens in rural areas or those with social anxiety that makes in-person sessions harder to start. It's not ideal for every teen or every presenting concern. Teens with active suicidal ideation, severe symptoms, or those who need a structured physical environment may do better in person. For many teens, though, the convenience and reduced stigma of logging in from their room actually improves attendance."
   - q: "Can my teen's pediatrician help with mental health referrals?"
     a: "Yes, and this is an underused resource. Pediatricians often know which local therapists work well with adolescents and can flag whether a psychiatric evaluation for medication makes sense. Many pediatric practices now screen for depression and anxiety at well visits. If your teen has a longstanding relationship with their pediatrician, that trusted voice recommending therapy can sometimes do more than a parent's suggestion."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Imagine your 15-year-old has barely left their room in three weeks. They're sleeping until noon, dropping grades, snapping at everyone, and when you ask what's wrong, you get a shrug or a slammed door. You know something is off. You just don't know what to do about it. That gap between "I can see my kid is struggling" and "I actually got them into therapy" is where a lot of families get stuck, and it doesn't have to be that way.

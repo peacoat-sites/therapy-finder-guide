@@ -6,8 +6,6 @@ description: "Explore the most common types of therapy explained simply, from CB
 image: "https://images.pexels.com/photos/3182765/pexels-photo-3182765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["types", "therapy", "explained"]
-author: "Dr. Emily Strauss"
-author_bio: "Psychologist and mental health advocate with 12 years in community mental health and private practice settings."
 slug: "types-of-therapy-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This varies enormously. CBT for a specific phobia might take 8 to 12 sessions. Processing a single traumatic event with EMDR might take 6 to 12 sessions. Long-standing patterns addressed through psychodynamic therapy might unfold over one to three years of weekly sessions. There's no universal answer, and any therapist who promises a specific timeline without knowing your situation is overpromising."
   - q: "What if I can't afford therapy?"
     a: "Cost is a real barrier, and it deserves a real answer. Options include community mental health centers (which often use sliding scale fees), university training clinics where supervised graduate students offer lower-cost therapy, and open path collective or similar directories for reduced-fee providers. NAMI's helpline can also point you toward free resources in your area."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Imagine you've finally decided to try therapy. You search online, and within minutes you're staring at a list of credentials and approaches that reads like a foreign language: CBT, DBT, EMDR, psychodynamic, somatic, ACT, IFS. You close the tab. You try again a few days later, get overwhelmed again, and quietly talk yourself out of the whole thing. I've seen this happen to more people than I can count, and it genuinely breaks my heart, because that moment of confusion is often the only thing standing between someone and real, meaningful help.

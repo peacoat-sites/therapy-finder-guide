@@ -6,8 +6,6 @@ description: "Explore the key differences between CBT and DBT therapy, how each 
 image: "https://images.pexels.com/photos/7699488/pexels-photo-7699488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["therapy", "what", "difference"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "cbt-vs-dbt-therapy-what-is-the-difference"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "CBT is often shorter, typically 12 to 20 sessions for a targeted issue. Standard DBT is usually a six-month to one-year commitment, sometimes longer for complex presentations. DBT-informed therapy with an individual therapist can be more flexible in length."
   - q: "What if my therapist offers 'CBT-informed' or 'DBT-informed' rather than pure versions?"
     a: "This is extremely common and not a red flag. Most experienced clinicians draw from multiple evidence-based approaches rather than practicing in strict orthodoxy. What matters more is their training background, your rapport with them, and whether you're making progress. Ask them directly how they incorporate the approach and what that looks like in practice."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Most people searching "CBT vs DBT" are trying to figure out which one they need. That's the wrong question, and I'll explain why in a minute. But first, let me challenge something almost every explainer on this topic gets wrong: CBT and DBT are not competing therapies sitting on opposite ends of a spectrum. DBT *is* CBT, technically. It was built on the CBT framework and then radically restructured for a specific reason. Understanding that reason changes everything about how you'd choose between them.

@@ -6,8 +6,6 @@ description: "Learn how therapy sliding scale fees work, who qualifies, and how 
 image: "https://images.pexels.com/photos/29262989/pexels-photo-29262989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["therapy", "sliding", "scale", "fees"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "therapy-sliding-scale-fees"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They can be, for some people. These platforms use subscription models with lower per-session costs than traditional private practice, and they offer financial assistance programs in some cases. The trade-off is that the matching process is less personalized, the therapeutic relationship can feel different in a chat-based format, and the platforms have faced scrutiny over therapist oversight. They're worth considering, particularly for mild to moderate concerns, but they're not the right fit for everyone."
   - q: "How do I know if the therapist on a sliding scale is actually qualified?"
     a: "Sliding scale has nothing to do with credentials. A licensed therapist offering reduced rates holds the same licensure as one charging full price. Check that the therapist holds an active state license, typically an LCSW, LPC, LMFT, or PhD/PsyD. You can verify this through your state's licensing board website, and it takes about two minutes."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 Maybe you finally made the decision to try therapy. You found a therapist whose profile felt right, their bio spoke to something real in you, and then you saw the fee: $175 per session, $200 per session, sometimes more. And just like that, the door felt like it closed again. I hear this story constantly. The cruel irony is that financial stress is one of the most common reasons people seek mental health support in the first place, and cost is one of the biggest reasons they don't get it.

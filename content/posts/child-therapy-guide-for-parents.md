@@ -6,8 +6,6 @@ description: "Discover how child therapy works, what to expect, and how to suppo
 image: "https://images.pexels.com/photos/5640438/pexels-photo-5640438.png?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Specialized"]
 tags: ["child", "therapy", "guide", "parents"]
-author: "Jordan Hayes"
-author_bio: "Licensed clinical social worker and mental health blogger. Writes to reduce stigma and help people access care."
 slug: "child-therapy-guide-for-parents"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Community mental health centers often offer sliding-scale fees based on household income. University training clinics, where supervised graduate students provide therapy, are another option and tend to be lower cost. Some private therapists also offer reduced fees for families in need, so it's worth asking directly. SAMHSA's treatment locator is a practical place to start if cost is a barrier."
   - q: "What if I think the therapist isn't a good fit?"
     a: "Change therapists. Seriously. The research on therapeutic alliance, meaning the quality of the relationship between client and therapist, shows it's one of the strongest predictors of outcome. If your child dreads sessions, feels unheard, or isn't making any progress after two or three months, it's not giving up to look for someone else. It's advocating for your child. Most therapists understand this and won't take it personally. You can even ask your current therapist for a recommendation if the relationship has been respectful."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Imagine your eight-year-old has been having meltdowns every morning before school for three months. You've tried earlier bedtimes, calmer routines, rewards charts. Nothing sticks. A teacher pulls you aside and gently suggests therapy, and your stomach drops. Not because you disagree, but because you have no idea where to start, whether your child will refuse to go, or what a therapist even does with a second-grader. You're not alone in that feeling, and you're not failing as a parent for being here.

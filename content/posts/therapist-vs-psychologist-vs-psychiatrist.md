@@ -6,8 +6,6 @@ description: "Confused about therapist vs psychologist vs psychiatrist? Learn th
 image: "https://images.pexels.com/photos/6129152/pexels-photo-6129152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["therapist", "psychologist", "psychiatrist"]
-author: "Carlos Mendez"
-author_bio: "Peer support specialist and mental health recovery educator. Writes from lived experience and professional training."
 slug: "therapist-vs-psychologist-vs-psychiatrist"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A growing body of research suggests telehealth therapy is comparably effective to in-person therapy for many conditions, including anxiety, depression, and PTSD. It also removes barriers like transportation, scheduling, and geographic access to providers. That said, some people genuinely prefer the in-person environment, and for certain populations (like people in acute crisis or those who need hands-on skills training), in-person may be more appropriate. Both are legitimate options."
   - q: "How long will I need to be in therapy?"
     a: "This varies enormously depending on what you're working on, the type of therapy, and how you respond. Some structured approaches like Cognitive Behavioral Therapy (CBT) for a specific phobia might run 12 to 20 sessions. Longer-term work on relational patterns or trauma may take a year or more. A good therapist will discuss goals with you early on and revisit progress regularly. You always have the right to decide when therapy is no longer serving you."
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
+author_title: "Clinical Reviewer"
+author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+
 ---
 
 You've finally decided to get help. Maybe it took months of convincing yourself, or maybe something happened last week that made the decision for you. You open your laptop, type "find a therapist," and immediately hit a wall of titles: licensed clinical social worker, psychologist, psychiatrist, therapist, counselor, psychotherapist. The words blur together. You close the tab. This happens more often than most people realize, and it's one of the quiet reasons people delay care that could genuinely change their lives.

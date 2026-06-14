@@ -6,8 +6,6 @@ description: "Wondering how much therapy costs? Explore average session prices, 
 image: "https://images.pexels.com/photos/7644016/pexels-photo-7644016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["much", "does", "therapy", "cost"]
-author: "Maya Okonkwo"
-author_bio: "Mental health educator and therapist referral specialist. Has helped hundreds of people find their first or next therapist."
 slug: "how-much-does-therapy-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Credentials and licensure are your first checkpoint. In the US, look for licensure designations like LCSW, LPC, LMFT, PhD, or PsyD. You can verify a therapist's license through your state's licensing board website. Lower cost doesn't automatically mean lower quality: community mental health clinicians and supervised trainees often provide excellent care. What matters most is the therapeutic relationship and the use of evidence-based approaches."
   - q: "What if I can't afford therapy at all right now?"
     a: "You still have options. NAMI operates a helpline (1-800-950-6264) staffed by trained volunteers who can help you find local resources. Crisis Text Line (text HOME to 741741) is free and available 24/7 for moments of acute distress. Many communities have peer support groups, which are free and can provide meaningful connection and coping support. And self-directed tools, like CBT workbooks or mindfulness practices, can offer real benefit while you work toward accessing professional care."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Imagine you've finally decided to make that call. You've spent weeks talking yourself into it, and now you're staring at a therapist's website, ready to book. Then you see it: "Session fee: $200." Your stomach drops. You close the tab. I've watched this exact moment stop people in their tracks more times than I'd like to count, and it breaks my heart every time, because most of those people had no idea how many options were actually available to them.

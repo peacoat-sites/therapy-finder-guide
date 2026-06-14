@@ -6,8 +6,6 @@ description: "Discover how therapy can help you heal after losing a loved one. E
 image: "https://images.pexels.com/photos/3958372/pexels-photo-3958372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Life Events"]
 tags: ["therapy", "grief", "after", "losing", "loved"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "therapy-for-grief-after-losing-a-loved-one"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Grief doesn't expire, and neither does the value of processing it. Some people come to therapy five or ten years after a loss when something — a new loss, a life transition, a milestone the person didn't live to see — reopens it. That's not weakness or failure; that's how grief works for some people."
   - q: "What if I'm not ready to talk to a therapist yet?"
     a: "That's a real place to be, and it's okay to sit there for a while. Reading, journaling, peer support groups, and connecting with community can all help in the meantime. Just watch for signs that the grief is getting heavier rather than lighter over time. If it is, that's information worth acting on."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Grief doesn't follow a schedule. And if you're reading this, you're probably somewhere in the thick of it — maybe weeks out from a loss, maybe years, wondering why it still hits you sideways when you open a cabinet and see their coffee mug. You might be wondering whether what you're feeling is "normal," or whether it's finally time to talk to someone. Both questions are worth sitting with.

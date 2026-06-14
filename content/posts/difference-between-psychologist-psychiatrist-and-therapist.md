@@ -6,8 +6,6 @@ description: "Confused about psychologists, psychiatrists, and therapists? Disco
 image: "https://images.pexels.com/photos/7447066/pexels-photo-7447066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Info"]
 tags: ["difference", "between", "psychologist", "psychiatrist", "therapist"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "difference-between-psychologist-psychiatrist-and-therapist"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some psychiatrists are trained in therapy and do practice it, but in current U.S. clinical practice, most psychiatrists focus primarily on medication evaluation and management. If you're looking for ongoing talk therapy combined with medication, you'll often work with both a therapist and a psychiatrist rather than one person doing both."
   - q: "How do I know if I need medication or just therapy?"
     a: "This is genuinely one of the hardest questions, and the honest answer is that a qualified professional assessment is the only reliable way to know. A good therapist can help you figure out if a psychiatric evaluation makes sense. Many conditions respond well to therapy alone; others respond better to a combination. Start somewhere, be honest about your symptoms, and let the clinical picture guide the conversation."
+author: "Taylor Brooks"
+author_slug: "taylor-brooks"
+author_title: "Community Advocate"
+author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+
 ---
 
 Most people spend more time researching a new laptop than they do figuring out who to actually call when they're struggling. That's not a criticism. It's just what happens when the system is this confusing and the stakes feel this high.

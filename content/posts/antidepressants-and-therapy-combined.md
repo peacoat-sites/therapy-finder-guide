@@ -6,8 +6,6 @@ description: "Discover how combining antidepressants with therapy can boost trea
 image: "https://images.pexels.com/photos/3958461/pexels-photo-3958461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Treatment"]
 tags: ["antidepressants", "therapy", "combined"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "antidepressants-and-therapy-combined"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It happens. You're allowed to ask both providers to explain their reasoning, and you're allowed to facilitate a conversation between them. If they're deeply at odds and neither can explain their position clearly, that's useful information about the quality of your care."
   - q: "Is online therapy effective when combined with antidepressants?"
     a: "The data on teletherapy quality is genuinely encouraging. A 2020 review in Journal of Affective Disorders found outcomes comparable to in-person CBT for depression and anxiety. The platform matters less than the therapist's training and the consistency of your attendance."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
+author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+
 ---
 
 Most people who start antidepressants expect the medication to do the heavy lifting. That's understandable, and also where things tend to go sideways.

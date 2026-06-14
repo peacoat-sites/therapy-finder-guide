@@ -6,8 +6,6 @@ description: "Struggling with social anxiety? Discover how therapy can help you 
 image: "https://images.pexels.com/photos/5699449/pexels-photo-5699449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "social", "anxiety"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "therapy-for-social-anxiety"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research on this has grown substantially in recent years, and the short answer is: generally yes, for social anxiety. Several studies have found that CBT delivered via telehealth produces comparable outcomes to in-person therapy. The one place in-person may have an edge is for certain in-vivo exposures where the therapist is physically present with you. Talk to your therapist about how they handle exposures in a telehealth format."
   - q: "What if I tried therapy before and it didn't help?"
     a: "This is worth unpacking rather than writing off. Was the previous therapy CBT-based and focused specifically on social anxiety? Many people have had experience with general talk therapy or supportive counseling that, while valuable in some ways, doesn't directly address the cognitive and behavioral mechanisms of social anxiety. If your previous therapy didn't include structured exposure work, you may not have actually tried what the evidence says works. It's worth giving a different approach or a different therapist a real chance."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 You rehearsed the coffee order three times in your head before walking up to the counter. And then the barista asked a follow-up question you didn't expect, your face went hot, and you spent the next two hours replaying that 45-second interaction wondering if you'd seemed weird. If that sounds familiar, you're not dramatic and you're not broken. You're dealing with social anxiety, and it's more treatable than most people think.

@@ -6,8 +6,6 @@ description: "Discover effective therapy options for anxiety treatment. Learn ho
 image: "https://images.pexels.com/photos/33516646/pexels-photo-33516646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "anxiety", "treatment"]
-author: "Maya Okonkwo"
-author_bio: "Mental health educator and therapist referral specialist. Has helped hundreds of people find their first or next therapist."
 slug: "therapy-for-anxiety-treatment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Cost is a real barrier and it's worth being practical about it. Options include community mental health centers, university training clinics (where supervised graduate students provide therapy at reduced cost), sliding scale therapists, and telehealth platforms that operate at lower price points than traditional private practice. SAMHSA's treatment locator at findtreatment.gov can help identify local low-cost options."
   - q: "Is online therapy as effective as in-person therapy for anxiety?"
     a: "For most anxiety presentations, research supports telehealth CBT as comparably effective to in-person delivery. The key factors are the therapeutic relationship, the consistency of attendance, and engagement with between-session practice, none of which are uniquely dependent on being in the same room. For some people, the reduced friction of telehealth actually improves consistency."
+author: "Kim Davis"
+author_slug: "kim-davis"
+author_title: "Wellness Educator"
+author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+
 ---
 
 Imagine you're sitting in a work meeting and your heart starts racing for no clear reason. Your palms are damp. You're half-listening to the presenter and half-convinced something is terribly wrong, even though nothing is. You make it through, drive home, and spend the evening replaying it. This happens three, four, five times a week. You've Googled your symptoms, reassured yourself it's probably nothing, and then Googled again. If any part of that sounds familiar, you're not alone, and more importantly, you're not stuck. Anxiety is one of the most treatable mental health conditions that exists, and therapy, specifically the right kind of therapy matched to your situation, can change things in ways that feel almost hard to believe before you've experienced them.
