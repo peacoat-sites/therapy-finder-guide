@@ -633,7 +633,7 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                               "(KHTML, like Gecko) Chrome/120.0 Safari/537.36",
             },
-            params={"query": query, "per_page": 30, "orientation": "landscape"},
+            params={"query": query, "per_page": 80, "orientation": "landscape"},
             timeout=10
         )
         if r.status_code != 200:
@@ -644,7 +644,9 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
         photos = [p for p in r.json().get("photos", []) if str(p["id"]) not in used_ids]
         if not photos:
             return None
-        photo = random.choice(photos[:8])
+        # Wide random window (top 30 of 80) so consecutive articles don't land on
+        # adjacent frames from the same shoot.
+        photo = random.choice(photos[:30])
         used_ids.add(str(photo["id"]))
         def _clean(s: str) -> str:
             return re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', str(s))
@@ -674,6 +676,22 @@ def fetch_image_flux(query: str) -> dict | None:
     except Exception as e:
         print(f"  Flux error: {e}")
     return None
+
+
+_IMG_STOP = {
+    "how","to","the","a","an","for","and","of","in","on","with","your","you","my",
+    "best","top","good","great","guide","tips","tip","treatment","treatments","symptom","symptoms",
+    "cost","costs","price","prices","pricing","vs","versus","why","what","when","where","which",
+    "is","are","was","does","do","did","can","could","should","would","will","that","this",
+    "safely","safe","fast","easy","near","me","explained","review","reviews","ultimate","complete",
+    "step","steps","ways","way","things","need","needs","know","about","from","without","into",
+    "after","before","during","using","use","get","make","fix","fixing","help","helping",
+}
+
+def _derive_image_query(keyword: str) -> str:
+    """Heuristic fallback: strip abstract/process words, keep the concrete subject nouns."""
+    words = [w for w in re.findall(r"[A-Za-z]+", keyword.lower()) if w not in _IMG_STOP and len(w) > 2]
+    return " ".join(words[:3]) if words else keyword
 
 
 def fetch_image(query: str, used_ids: set) -> dict | None:
@@ -831,20 +849,39 @@ Write it in the author's specific voice, with the opinions and concrete detail o
     )
     content = msg.content[0].text
 
-    # Meta description
+    # Meta description + subject-accurate hero image query (single call)
     meta = client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=80,
-        messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{keyword}'. Output ONLY the description sentence itself - no preamble, no labels like 'Here is a meta description', no quotation marks."}]
+        max_tokens=160,
+        messages=[{"role": "user", "content": (
+            f"For an article titled '{keyword}', output ONLY a JSON object (no preamble, no code fence):\n"
+            '{"description": "<140-155 char SEO meta description, plain text, no quotes>", '
+            '"image_query": "<2-4 word concrete photographable subject for the hero photo. Name the specific '
+            'animal, object, person, or scene the article is about. If the title names an animal (cat, dog, '
+            'chicken, etc.), the query MUST lead with that exact animal. AVOID abstract words like treatment, '
+            'cost, guide, symptoms, tips, fear, recovery, safely.>"}'
+        )}]
     )
-    _raw = meta.content[0].text.strip()
-    # Guard: strip leaked LLM preambles ("Here is a meta description ...:") and stray quotes
-    _raw = re.sub(r"^\s*(here'?s?[^:\n]*:|sure[,!:]\s*|certainly[,!:]?\s*|okay[,!:]?\s*)", "", _raw, flags=re.I).strip()
-    _lines = [l.strip().strip('"').strip("'") for l in _raw.split("\n") if l.strip()]
-    _clean = [l for l in _lines if not re.search(r"meta description|character range|^here\b|^sure\b|^certainly\b", l, re.I)]
-    description = (_clean[0] if _clean else (_lines[0] if _lines else _raw)).strip().strip('"').strip("'")[:160]
+    _mtext = meta.content[0].text.strip()
+    description = ""
+    image_query = ""
+    try:
+        _mj = json.loads(re.search(r"\{.*\}", _mtext, re.S).group(0))
+        description = str(_mj.get("description", "")).strip()
+        image_query = str(_mj.get("image_query", "")).strip()
+    except Exception:
+        pass
+    # Fallback description cleanup (preserve old robustness against leaked preambles)
+    if not description:
+        _raw = re.sub(r"^\s*(here'?s?[^:\n]*:|sure[,!:]\s*|certainly[,!:]?\s*|okay[,!:]?\s*)", "", _mtext, flags=re.I).strip()
+        _lines = [l.strip().strip('"').strip("'") for l in _raw.split("\n") if l.strip()]
+        _clean = [l for l in _lines if not re.search(r"meta description|character range|^here\b|^sure\b|^certainly\b", l, re.I)]
+        description = (_clean[0] if _clean else (_lines[0] if _lines else _raw))
+    description = description.strip().strip('"').strip("'")[:160]
+    if not image_query:
+        image_query = _derive_image_query(keyword)
 
-    return {"content": content, "description": description}
+    return {"content": content, "description": description, "image_query": image_query}
 
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
 
@@ -1299,7 +1336,7 @@ def publish_site(site_name: str, count: int):
             img_query = topical.get("image_query") or keyword
             print(f"\n  [{i}/{count}] TOPICAL: {keyword} (author: {persona['name']})")
         else:
-            img_query = site.get("image_query", keyword)
+            img_query = None  # set after generation, from the article's own image_query
             print(f"\n  [{i}/{count}] {keyword} (priority: {priority}, author: {persona['name']})")
 
         try:
@@ -1311,6 +1348,10 @@ def publish_site(site_name: str, count: int):
                 # Generate article with portfolio voice style
                 article = generate_article(keyword, site, persona, priority, voice_style=voice["style"])
             print(f"    Article: {len(article['content'])} chars")
+
+            # Evergreen: use the article's subject-accurate image query (set post-generation)
+            if not topical and not img_query:
+                img_query = article.get("image_query") or _derive_image_query(keyword)
 
             # Inject affiliate links
             article["content"] = inject_affiliate_links(article["content"], niche)
