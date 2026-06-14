@@ -742,6 +742,10 @@ def keyword_to_slug(keyword: str) -> str:
 def generate_article(keyword: str, site_config: dict, persona: dict, priority: str, voice_style: str = "") -> dict:
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
+    _now          = datetime.now(timezone.utc)
+    _current_date = _now.strftime("%B %Y")
+    _current_year = _now.year
+
     niche         = site_config["niche"]
     affiliate_note = site_config.get("affiliate_note", "")
     site_persona  = SITE_PERSONAS.get(site_config.get("repo", ""), {})
@@ -775,6 +779,12 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
 You are writing an article for a {niche} website in the voice of {persona['name']}. Do NOT include a byline, author name, or any "By ..." line anywhere in the article body — the byline is added automatically by the site template.
 {voice_instruction}
 Length target: {length_target['min']}-{length_target['max']} words ({length_target['label']}).
+
+Temporal context (critical):
+- Today is {_current_date}. The current year is {_current_year}.
+- Do NOT cite a specific past year (e.g. "in 2024") as if it describes the present. If you mean now, it is {_current_year}.
+- Prefer "currently", "today", or "as of this year", or omit the year entirely, rather than pinning a stale year.
+- Never reference a year later than {_current_year}.
 
 Writing rules (follow every one):
 - Write like a specific human with opinions, not a neutral summarizer. Where the topic allows, take a clear stance ("honestly, I'd skip the pricey version", "most advice on this is wrong"). Readers trust a writer who commits.
