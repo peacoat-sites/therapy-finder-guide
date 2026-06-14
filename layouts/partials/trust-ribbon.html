@@ -7,7 +7,7 @@
     <span class="trust-sep">·</span>
     <span class="trust-item">Updated weekly</span>
     <span class="trust-sep">·</span>
-    <span class="trust-item">{{ len (where .Site.RegularPages "Section" "posts") }} articles published</span>
+    <span class="trust-item">{{ $tc := len (where .Site.RegularPages "Section" "posts") }}{{ if lt $tc 100 }}100+{{ else }}{{ $tc }}{{ end }} articles published</span>
     {{ with .Site.Params.trust_extra }}
     <span class="trust-sep">·</span>
     <span class="trust-item">{{ . }}</span>
