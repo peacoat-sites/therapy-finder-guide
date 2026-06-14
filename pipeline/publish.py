@@ -1264,6 +1264,10 @@ def publish_site(site_name: str, count: int):
         print(f"  Pre-seeded {len(used_img_ids)} existing image IDs for dedup")
     new_urls     = []   # URLs of articles created this run, for Indexing API submission
 
+    # Load site-specific authors for round-robin persona selection
+    _af = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'authors.json')
+    _site_authors = json.load(open(_af, encoding='utf-8')) if os.path.exists(_af) else []
+
     for i, kw_row in enumerate(to_publish, 1):
         keyword  = kw_row.get("keyword", "")
         category = kw_row.get("category", niche)
