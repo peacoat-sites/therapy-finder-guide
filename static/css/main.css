@@ -675,3 +675,16 @@ a     { color: inherit; text-decoration: none; }
 .hero-emblem { display: inline-block; line-height: 0; margin-bottom: 14px; }
 .hero-emblem .brand-mark { width: 62px; height: 62px; }
 .hero-split-title .ht-accent { color: var(--accent); font-style: italic; font-weight: 700; }
+
+
+/* ── Left affiliate product rail (anchored at article start) ── */
+.post-wrap { grid-template-columns: 230px minmax(0,1fr) 300px; max-width: calc(var(--max-w) + 278px); }
+.left-rail { position: sticky; top: 84px; align-self: start; min-width: 0; }
+.left-rail .amazon-products { margin: 0; }
+.left-rail .amazon-products-grid { grid-template-columns: 1fr; }
+@media (max-width: 1200px) {
+  .post-wrap { grid-template-columns: minmax(0,1fr) 300px; max-width: var(--max-w); }
+  .left-rail { position: static; order: 99; grid-column: 1 / -1; }
+  .left-rail .amazon-products-grid { grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); }
+}
+@media (max-width: 768px) { .post-wrap { grid-template-columns: 1fr; } }
