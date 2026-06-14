@@ -53,7 +53,7 @@
              onmouseout="this.style.background='transparent'">
             <span style="display:block;font-weight:500;color:var(--heading,#1e293b)">{{ .Title }}</span>
             <span style="font-size:.77rem;color:var(--muted,#94a3b8)">
-              {{ .PublishDate.Format "Jan 2, 2006" }}
+              {{ .PublishDate.Format "Jan 2, 2006" }} · {{ (int (math.Round (div .WordCount 450.0))) }} min read
             </span>
           </a>
           {{ end }}
