@@ -27,7 +27,7 @@
     {{ end }}
     <h1 class="post-title">{{ .Title }}</h1>
     <div class="post-meta">
-      {{ $auth := .Site.Params.persona_name | default .Params.author }}{{ with $auth }}<span class="post-author">By <a href="/author/" rel="author" style="color:inherit;font-weight:600">{{ . }}</a></span>{{ end }}
+      {{ with .Params.author }}<span class="post-author">By <a href="/{{ $.Params.author_slug | default (urlize .) }}/" rel="author" style="display:inline-flex;align-items:center;gap:5px;color:inherit;font-weight:600;text-decoration:none;vertical-align:middle"><img src="/img/authors/{{ $.Params.author_slug | default (urlize .) }}.jpg" alt="{{ . }}" style="width:22px;height:22px;border-radius:50%;object-fit:cover;flex-shrink:0">{{ . }}</a></span>{{ end }}
       <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
       {{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }}<span style="color:#64748b;font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
       <span>{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
@@ -83,13 +83,19 @@
     {{- end }}
 
     <!-- Author Bio -->
-    {{ with .Site.Params.persona_name }}
-    <div class="author-bio">
-      <div class="author-avatar">{{ $.Site.Params.persona_initials }}</div>
+    {{ with .Params.author }}
+    {{ $slug := $.Params.author_slug | default (urlize .) }}
+    <div class="author-bio" style="display:flex;gap:14px;align-items:flex-start;padding:20px;background:var(--surface,#f8fafc);border-radius:10px;margin:2rem 0">
+      <a href="/{{ $slug }}/" style="flex-shrink:0">
+        <img src="/img/authors/{{ $slug }}.jpg" alt="{{ . }}"
+             style="width:54px;height:54px;border-radius:50%;object-fit:cover">
+      </a>
       <div class="author-info">
-        <strong class="author-name">{{ . }}</strong>
-        <span class="author-title">{{ $.Site.Params.persona_title }}</span>
-        <p class="author-blurb">{{ $.Site.Params.persona_bio }}</p>
+        <strong class="author-name">
+          <a href="/{{ $slug }}/" style="color:var(--heading,#1e293b);text-decoration:none">{{ . }}</a>
+        </strong>
+        {{ with $.Params.author_title }}<span class="author-title" style="display:block;font-size:.8rem;color:var(--muted,#64748b);margin-bottom:4px">{{ . }}</span>{{ end }}
+        {{ with $.Params.author_bio }}<p class="author-blurb" style="margin:0;font-size:.85rem;color:var(--muted,#64748b)">{{ . }}</p>{{ end }}
       </div>
     </div>
     {{ end }}
@@ -194,6 +200,25 @@
         {{ end }}
       </ul>
     </div>
+    {{ with .Params.author }}
+    {{ $authorName := . }}
+    {{ $authorSlug := $.Params.author_slug | default (urlize .) }}
+    {{ $authorPosts := where site.RegularPages "Params.author" $authorName }}
+    {{ if gt (len $authorPosts) 1 }}
+    <div class="widget">
+      <div class="widget-title">More by {{ $authorName }}</div>
+      <ul class="widget-list">
+        {{ $currentPermalink := $.Permalink }}
+        {{ range ($authorPosts | first 6) }}
+          {{ if ne .Permalink $currentPermalink }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}<span>{{ (int (math.Round (div .WordCount 450.0))) }} min</span></a></li>
+          {{ end }}
+        {{ end }}
+      </ul>
+      <a href="/{{ $authorSlug }}/" style="display:block;margin-top:10px;font-size:.8rem;font-weight:600;color:var(--accent,#4338ca);text-decoration:none">View all articles &rsaquo;</a>
+    </div>
+    {{ end }}
+    {{ end }}
 
   </aside>
 </div>
