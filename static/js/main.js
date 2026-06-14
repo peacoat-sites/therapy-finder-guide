@@ -3,7 +3,7 @@
   var els = document.querySelectorAll('.stat-counter');
   if (!els.length || !('IntersectionObserver' in window)) {
     // Fallback: just set the target value immediately
-    els.forEach(function(el) { el.textContent = parseInt(el.dataset.count||0).toLocaleString(); });
+    els.forEach(function(el) { el.textContent = parseInt(el.dataset.count||0).toLocaleString() + (el.dataset.suffix||''); });
     return;
   }
   var obs = new IntersectionObserver(function(entries) {
@@ -19,7 +19,7 @@
         var t = Math.min((now - start) / duration, 1);
         var eased = 1 - Math.pow(1 - t, 3);
         var val = Math.round(eased * target);
-        el.textContent = val.toLocaleString();
+        el.textContent = val.toLocaleString() + (el.dataset.suffix||'');
         if (t < 1) requestAnimationFrame(tick);
       }
       requestAnimationFrame(tick);
