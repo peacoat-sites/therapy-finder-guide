@@ -688,3 +688,19 @@ a     { color: inherit; text-decoration: none; }
   .left-rail .amazon-products-grid { grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); }
 }
 @media (max-width: 768px) { .post-wrap { grid-template-columns: 1fr; } }
+
+
+/* ── Mobile responsiveness hardening (uniform across all sites) ── */
+/* Flex item must allow shrink below content or the max-content ticker overflows the page */
+.ticker-outer { min-width: 0; }
+@media (max-width: 768px) {
+  /* Contain any wide homepage child so it can't blow out the mobile viewport */
+  .ticker-strip, .hero-split, .stats-strip, .articles-section, .site-header { overflow-x: clip; }
+  .hero-split-inner, .articles-wrap { grid-template-columns: 1fr !important; max-width: 100% !important; }
+  .articles-grid { grid-template-columns: 1fr !important; }
+  .hero-split-cards { order: -1; }
+  .stats-strip-inner { flex-wrap: wrap; }
+  .header-inner { gap: 12px; }
+  /* Hamburger on the LEFT */
+  .nav-toggle { order: -1; margin-right: 2px; }
+}
