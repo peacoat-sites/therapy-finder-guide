@@ -6,6 +6,8 @@
   <title>{{ if .IsHome }}{{ .Site.Title }} » {{ .Site.Params.tagline }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="alternate icon" href="/favicon.svg">
   {{- if or (eq .Kind "taxonomy") (eq .Kind "term") (and (eq .Kind "section") (not .IsHome)) }}
   <meta name="robots" content="noindex, follow">
   {{- end }}
