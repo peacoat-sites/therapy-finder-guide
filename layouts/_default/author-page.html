@@ -1,0 +1,77 @@
+{{ define "main" }}
+{{ $name     := .Params.author_name }}
+{{ $slug     := .Params.author_slug }}
+{{ $title    := .Params.author_title }}
+{{ $spec     := .Params.author_specialty }}
+{{ $articles := where site.RegularPages "Params.author" $name }}
+
+<div class="author-page-wrap" style="max-width:1080px;margin:0 auto;padding:48px 24px 64px">
+
+  {{/* ── Two-column body ── */}}
+  <div style="display:grid;grid-template-columns:1fr 320px;gap:48px;align-items:start">
+
+    {{/* Left col: hero + bio */}}
+    <div class="author-bio-col">
+
+      {{/* Hero sits at top of left column, centered within it */}}
+      <div class="author-hero" style="display:flex;flex-direction:column;align-items:center;text-align:center;margin-bottom:32px;gap:14px">
+        <img src="/img/authors/{{ $slug }}.jpg" alt="{{ $name }}"
+             style="width:120px;height:120px;border-radius:50%;object-fit:cover;
+                    box-shadow:0 4px 16px rgba(0,0,0,.12)">
+        <div>
+          <h1 style="margin:0 0 6px;font-size:1.9rem;color:var(--heading,#1e293b)">{{ $name }}</h1>
+          <div style="font-size:.9rem;font-weight:600;color:var(--accent,#4338ca);margin-bottom:6px;text-transform:uppercase;letter-spacing:.05em">
+            {{ $title }}
+          </div>
+          <div style="font-size:.9rem;color:var(--muted,#64748b)">
+            {{ $spec }}
+          </div>
+        </div>
+      </div>
+
+      <h2 style="font-size:1.1rem;font-weight:700;color:var(--heading,#1e293b);margin:0 0 16px;
+                 padding-bottom:10px;border-bottom:2px solid var(--accent,#4338ca)">About</h2>
+      <div style="color:var(--text,#334155);line-height:1.75;font-size:.97rem">
+        {{ .Content }}
+      </div>
+    </div>
+
+    {{/* Articles sidebar */}}
+    <aside class="author-articles-col" style="background:var(--surface,#f8fafc);border-radius:10px;padding:20px">
+      <h2 style="font-size:1rem;font-weight:700;color:var(--heading,#1e293b);margin:0 0 14px;
+                 padding-bottom:10px;border-bottom:2px solid var(--accent,#4338ca)">
+        Articles by {{ $name }}
+      </h2>
+      {{ if $articles }}
+        <div style="display:flex;flex-direction:column;gap:2px">
+          {{ range sort $articles "PublishDate" "desc" }}
+          <a href="{{ .RelPermalink }}"
+             style="display:block;padding:9px 10px;border-radius:6px;text-decoration:none;
+                    color:var(--text,#334155);font-size:.85rem;line-height:1.35;
+                    transition:background .15s"
+             onmouseover="this.style.background='var(--surface2,#f1f5f9)'"
+             onmouseout="this.style.background='transparent'">
+            <span style="display:block;font-weight:500;color:var(--heading,#1e293b)">{{ .Title }}</span>
+            <span style="font-size:.77rem;color:var(--muted,#94a3b8)">
+              {{ .PublishDate.Format "Jan 2, 2006" }}
+            </span>
+          </a>
+          {{ end }}
+        </div>
+      {{ else }}
+        <p style="color:var(--muted,#94a3b8);font-size:.85rem">No articles yet.</p>
+      {{ end }}
+    </aside>
+
+  </div>
+</div>
+
+<style>
+@media (max-width: 720px) {
+  .author-page-wrap > div:last-child {
+    grid-template-columns: 1fr !important;
+  }
+  .author-articles-col { order: -1; }
+}
+</style>
+{{ end }}
