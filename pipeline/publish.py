@@ -864,6 +864,34 @@ def _extract_faqs(body):
     return faqs[:6]
 
 
+
+# -- Title cap fixes -----------------------------------------------------------
+_TITLE_CAP_FIXES = [
+    (r'\bRving\b','RVing'),(r'\bRvs\b','RVs'),(r'\bRv\b','RV'),
+    (r'\bHvac\b','HVAC'),(r'\bHoa\b','HOA'),(r'\bPvc\b','PVC'),(r'\bPex\b','PEX'),
+    (r'\bDiy\b','DIY'),(r'\bApr\b','APR'),(r'\bFha\b','FHA'),(r'\bPiti\b','PITI'),
+    (r'\bLtv\b','LTV'),(r'\bDti\b','DTI'),(r'\bLlc\b','LLC'),(r'\bIrs\b','IRS'),
+    (r'\bEin\b','EIN'),(r'\bSba\b','SBA'),(r'\bRoi\b','ROI'),
+    (r'\bSeo\b','SEO'),(r'\bApi\b','API'),(r'\bGps\b','GPS'),(r'\bAi\b','AI'),
+    (r'\bRpg\b','RPG'),(r'\bFps\b','FPS'),(r'\bNpcs\b','NPCs'),(r'\bNpc\b','NPC'),
+    (r'\bGdc\b','GDC'),(r'\bPax\b','PAX'),(r'\bSdk\b','SDK'),
+    (r'\bUi\b','UI'),(r'\bUx\b','UX'),
+    (r'\bPtsd\b','PTSD'),(r'\bOcd\b','OCD'),(r'\bCbt\b','CBT'),
+    (r'\bDbt\b','DBT'),(r'\bEmdr\b','EMDR'),(r'\bAdhd\b','ADHD'),
+    (r'\bAed\b','AED'),(r'\bCpr\b','CPR'),
+    (r'\bUsda\b','USDA'),(r'\bFda\b','FDA'),(r'\bCdc\b','CDC'),
+    (r'\bAspca\b','ASPCA'),(r'\bCms\b','CMS'),(r'\bSsa\b','SSA'),
+    (r'\bDwi\b','DWI'),(r'\bDui\b','DUI'),
+    (r'\bKwh\b','kWh'),(r'\bKw\b','kW'),
+    (r'\bFaq\b','FAQ'),(r'\bTv\b','TV'),(r'\bHr\b','HR'),(r'\bPto\b','PTO'),
+]
+_TITLE_CAP_RX = [(re.compile(p), r) for p, r in _TITLE_CAP_FIXES]
+
+def _fix_title_caps(title):
+    for rx, r in _TITLE_CAP_RX:
+        title = rx.sub(r, title)
+    return title
+
 def build_markdown(
     keyword: str,
     article: dict,
@@ -889,7 +917,7 @@ def build_markdown(
         content += f"\n\n---\n\n{disclaimer}"
 
     frontmatter = f"""---
-title: "{keyword.title()}"
+title: "{_fix_title_caps(keyword.title())}"
 date: {date}
 draft: false
 description: "{article['description']}"
