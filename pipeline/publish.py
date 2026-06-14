@@ -911,8 +911,11 @@ def build_markdown(
     persona: dict,
     ymyl: bool,
     disclaimer: str,
+    title_override: str = None,
 ) -> str:
     slug = keyword_to_slug(keyword)
+    _title = _fix_title_caps(title_override) if title_override else _fix_title_caps(keyword.title())
+    _title = _title.replace('"', "'")
     date = datetime.now(timezone.utc).isoformat()
     image_url = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', image["url"]) if image else ""
 
@@ -927,7 +930,7 @@ def build_markdown(
         content += f"\n\n---\n\n{disclaimer}"
 
     frontmatter = f"""---
-title: "{_fix_title_caps(keyword.title())}"
+title: "{_title}"
 date: {date}
 draft: false
 description: "{article['description']}"
@@ -1064,6 +1067,165 @@ def load_keywords(repo: str) -> list:
 
 # ── MAIN PUBLISHER ────────────────────────────────────────────────────────────
 
+# ── TOPICAL (Track B): trend-aware, web-researched article generation ──────────
+NICHE_COMMUNITIES = {
+    "keto-living-guide":       {"subs": "r/keto, r/ketorecipes, r/xxketo", "scope": "ketogenic and low-carb diet: nutrition science, recipes, products, health research, weight loss"},
+    "solar-home-planner":      {"subs": "r/solar, r/SolarDIY", "scope": "residential solar power: panels, costs, tax credits and incentives, installation, home batteries"},
+    "solar-planner-guide":     {"subs": "r/solar, r/SolarDIY", "scope": "home solar planning: system sizing, ROI, net metering, incentive and policy changes"},
+    "pet-doctor-guide":        {"subs": "r/AskVet, r/pets, r/dogs, r/cats", "scope": "pet health and veterinary care: symptoms, treatments, nutrition, preventive care, product recalls"},
+    "rv-life-guide":           {"subs": "r/RVLiving, r/GoRVing, r/vandwellers", "scope": "RV and motorhome living: travel, maintenance, campgrounds, gear, full-time RV life"},
+    "mortgage-advisor-guide":  {"subs": "r/Mortgages, r/FirstTimeHomeBuyer, r/RealEstate", "scope": "mortgages and home financing: rates, loan types, refinancing, first-time buyer programs"},
+    "home-insurance-guide":    {"subs": "r/Insurance, r/homeowners", "scope": "homeowners insurance: coverage, claims, premiums, disaster policy, rate and market trends"},
+    "small-biz-finance-guide": {"subs": "r/smallbusiness, r/Entrepreneur, r/Bookkeeping", "scope": "small business finance: funding, taxes, accounting, cash flow, LLC and tax-law changes"},
+    "seniorstrength":          {"subs": "r/Fitness, r/flexibility", "scope": "strength and fitness for adults over 60: exercise, mobility, balance, injury prevention, healthy aging"},
+    "chicken-keeper-guide":    {"subs": "r/BackYardChickens, r/chickens", "scope": "backyard chicken keeping: coops, breeds, egg production, flock health, avian flu and poultry news"},
+    "fixitrightway":           {"subs": "r/HomeImprovement, r/DIY, r/Fixit", "scope": "home repair and DIY: tools, materials, projects, costs, when to DIY vs hire a pro"},
+    "injury-victim-guide":     {"subs": "r/legaladvice, r/personalinjury", "scope": "personal injury and accident claims: the legal process, settlements, insurance, victim rights (general information, not legal advice)"},
+    "medicare-starter":        {"subs": "r/medicare, r/HealthInsurance", "scope": "Medicare: enrollment, plan types, Parts A/B/C/D, costs, annual enrollment and policy changes"},
+    "therapy-finder-guide":    {"subs": "r/therapy, r/mentalhealth, r/askatherapist", "scope": "mental health and therapy: modalities like CBT, DBT, and EMDR, finding a therapist, insurance, wellbeing"},
+    "gamedevproducer":         {"subs": "r/gamedev, r/IndieDev, r/gamedesign", "scope": "indie and studio game development: production, publishing, funding, engines, releases, layoffs, GDC and industry events"},
+}
+
+_TOPICAL_RULES = (
+    "Writing rules: natural human voice; vary sentence length; NEVER use em dashes (use commas, colons, or a new sentence); "
+    "avoid AI cliches (In conclusion, It's worth noting, Delve into, Navigating, Moreover, Furthermore); use contractions; "
+    "be specific with the real numbers, names, and dates from the research; occasional first person is fine."
+)
+
+def _parse_json_block(text):
+    text = re.sub(r'^```(?:json)?\s*', '', text.strip()); text = re.sub(r'\s*```$', '', text)
+    s = text.find('{')
+    if s == -1:
+        return None
+    d = 0
+    for i in range(s, len(text)):
+        if text[i] == '{':
+            d += 1
+        elif text[i] == '}':
+            d -= 1
+            if d == 0:
+                try:
+                    return json.loads(text[s:i+1])
+                except Exception:
+                    return None
+    return None
+
+def generate_topical_article(site_config: dict, persona: dict, voice_style: str = "", recent_topics=None):
+    """Discover a current topic via web search, research it, and write a timely article.
+    Returns dict(keyword, content, description, image_query, category) or None on any failure."""
+    repo = site_config.get("repo", "")
+    comm = NICHE_COMMUNITIES.get(repo)
+    if not comm:
+        return None
+    recent_topics = recent_topics or []
+    sp = SITE_PERSONAS.get(repo, {})
+    tone = sp.get("tone", "")
+    ymyl = sp.get("ymyl", False)
+    now = datetime.now(timezone.utc)
+    current_date = now.strftime("%B %Y")
+    current_year = now.year
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    scope_lead = comm["scope"].split(":")[0]
+    recent_blurb = ("; ".join(recent_topics[:30])) or "none yet"
+
+    radar_prompt = f"""You are a content strategist for a website about {comm['scope']}.
+Today is {current_date}.
+
+Find ONE genuinely CURRENT, topical angle for a new article: something tied to recent news, a fresh trend, a new release/product/policy, a seasonal moment, or an active community discussion happening RIGHT NOW ({current_date}). It must NOT be a generic evergreen how-to. It should feel timely and worth reading this month.
+
+Search the web for {scope_lead} news and developments from the last 1 to 3 months. Also weigh what people are actively discussing in communities like {comm['subs']}.
+
+Do NOT pick anything close to these already-covered topics: {recent_blurb}.
+
+When done researching, output ONLY a JSON object (no prose before or after):
+{{
+  "title": "A concise specific Title Case headline UNDER 70 characters. No em dashes. No clickbait. Omit year unless essential.",
+  "angle": "1-2 sentences: the timely hook and why it matters now",
+  "key_facts": ["3-6 concrete CURRENT facts with specifics: numbers, dates, names"],
+  "sources": [{{"title": "source name", "url": "https://...", "published": "approx date"}}],
+  "image_query": "2-4 word hero photo search query"
+}}"""
+
+    try:
+        msg = client.messages.create(
+            model="claude-sonnet-4-6", max_tokens=2500,
+            tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 5}],
+            messages=[{"role": "user", "content": radar_prompt}],
+        )
+    except Exception as e:
+        print(f"    [topical] radar error: {e}")
+        return None
+
+    brief_text = "".join(getattr(b, "text", "") for b in msg.content if getattr(b, "type", "") == "text")
+    brief = _parse_json_block(brief_text)
+    if not brief or not brief.get("title") or not brief.get("key_facts"):
+        print("    [topical] no usable brief; skipping")
+        return None
+
+    title = _fix_title_caps(brief["title"].replace("—", ", ").replace("  ", " ").strip())
+    facts = "\n".join(f"- {f}" for f in brief.get("key_facts", []))
+    srcs = brief.get("sources", []) or []
+    src_lines = "\n".join(f"- {s.get('title','source')} | {s.get('url','')} | {s.get('published','')}" for s in srcs)
+    ymyl_note = ("\n- This is a YMYL topic. Be accurate and balanced and note that professional consultation is advisable. Do not give guarantees or specific personal advice.") if ymyl else ""
+    voice_note = f"\nYour writing voice: {voice_style}\n" if voice_style else ""
+
+    system = f"""{tone}
+
+You are writing a TIMELY, topical article (not an evergreen how-to). Today is {current_date}. The current year is {current_year}. Never reference a year later than {current_year}.
+{voice_note}
+Length target: 900-1400 words.
+
+{_TOPICAL_RULES}{ymyl_note}
+
+Output ONLY the article body in Markdown. No title (it comes from frontmatter)."""
+
+    user = f"""Write a current, topical article.
+
+TITLE: {title}
+TIMELY ANGLE: {brief.get('angle','')}
+
+CURRENT RESEARCH (real and current, ground every claim in these, invent nothing):
+{facts}
+
+SOURCES (weave 2-3 inline as evidence, then list ALL in a Sources section):
+{src_lines}
+
+Structure:
+1. Open with the timely hook: what's happening now and why the reader should care. No heading.
+2. 3-5 H2 sections of analysis and practical takeaways. Explainer/analysis, NOT a numbered how-to.
+3. Weave 2-3 sources inline naturally.
+4. A short closing paragraph (no heading).
+5. A final section titled exactly "## Sources" listing every source as: - [title](url) (published date)."""
+
+    try:
+        wmsg = client.messages.create(
+            model="claude-sonnet-4-6", max_tokens=4000, system=system,
+            messages=[{"role": "user", "content": user}],
+        )
+    except Exception as e:
+        print(f"    [topical] write error: {e}")
+        return None
+
+    article_md = "".join(getattr(b, "text", "") for b in wmsg.content if getattr(b, "type", "") == "text")
+    article_md = article_md.replace("—", ", ").strip()
+    if len(article_md) < 600:
+        print("    [topical] write too short; skipping")
+        return None
+
+    try:
+        dmsg = client.messages.create(
+            model="claude-sonnet-4-6", max_tokens=80,
+            messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{title}'. Plain text, no quotes."}],
+        )
+        description = dmsg.content[0].text.strip().replace('"', "'")[:160]
+    except Exception:
+        description = (brief.get("angle", "") or title)[:155]
+
+    print(f"    [topical] ok: {title}")
+    return {"keyword": title, "content": article_md, "description": description,
+            "image_query": brief.get("image_query") or title, "category": "trending"}
+
+
 def publish_site(site_name: str, count: int):
     if site_name not in SITES:
         print(f"Site '{site_name}' not in SITES_CONFIG")
@@ -1114,24 +1276,47 @@ def publish_site(site_name: str, count: int):
         else:
             persona  = {"name": voice["name"], "bio": voice["bio"]}
 
-        print(f"\n  [{i}/{count}] {keyword} (priority: {priority}, author: {persona['name']})")
+        # ── Track B: every 3rd article is topical (trend-aware, web-researched) ──
+        topical = None
+        if (voice_offset + i) % 3 == 0:
+            try:
+                _recent = [s.replace('-', ' ') for s in list(published)[:40]]
+                topical = generate_topical_article(site, persona, voice_style=voice["style"], recent_topics=_recent)
+                if topical and keyword_to_slug(topical["keyword"]) in published:
+                    print("    Topical topic already covered; using evergreen")
+                    topical = None
+            except Exception as _te:
+                print(f"    Topical generation failed ({_te}); falling back to evergreen")
+                topical = None
+
+        if topical:
+            keyword   = topical["keyword"]
+            category  = topical.get("category", "trending")
+            img_query = topical.get("image_query") or keyword
+            print(f"\n  [{i}/{count}] TOPICAL: {keyword} (author: {persona['name']})")
+        else:
+            img_query = site.get("image_query", keyword)
+            print(f"\n  [{i}/{count}] {keyword} (priority: {priority}, author: {persona['name']})")
 
         try:
             check_api_budget()
 
-            # Generate article with portfolio voice style
-            article = generate_article(keyword, site, persona, priority, voice_style=voice["style"])
+            if topical:
+                article = {"content": topical["content"], "description": topical["description"]}
+            else:
+                # Generate article with portfolio voice style
+                article = generate_article(keyword, site, persona, priority, voice_style=voice["style"])
             print(f"    Article: {len(article['content'])} chars")
 
             # Inject affiliate links
             article["content"] = inject_affiliate_links(article["content"], niche)
 
             # Fetch image
-            image = fetch_image(site.get("image_query", keyword), used_img_ids)
+            image = fetch_image(img_query, used_img_ids)
             print(f"    Image: {'ok' if image else 'none'}")
 
             # Build markdown
-            tags = [w for w in keyword.split() if len(w) > 3][:5]
+            tags = [w.lower() for w in keyword.split() if len(w) > 3][:5]
             markdown = build_markdown(
                 keyword, article, image,
                 categories=[category],
@@ -1139,6 +1324,7 @@ def publish_site(site_name: str, count: int):
                 persona=persona,
                 ymyl=ymyl,
                 disclaimer=disclaimer,
+                title_override=(keyword if topical else None),
             )
 
             # Commit
