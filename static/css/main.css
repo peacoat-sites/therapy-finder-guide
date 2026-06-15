@@ -705,3 +705,13 @@ a     { color: inherit; text-decoration: none; }
   /* Hamburger on the LEFT */
   .nav-toggle { order: -1; margin-right: 2px; }
 }
+
+
+/* ── Daily polish (2026 modern CSS best practices) ── */
+/* Balanced headlines (no lone hanging word) + tidy body wrapping (no orphans/widows) */
+h1, h2, h3, h4, .post-title, .hero-split-title, .article-card-title { text-wrap: balance; }
+.post-content p, .post-content li, .article-card-desc, .post-excerpt { text-wrap: pretty; }
+/* Reserve scrollbar space so the layout never shifts between short and long pages */
+html { scrollbar-gutter: stable; }
+/* Branded text selection */
+::selection { background: var(--accent, #c2410c); color: #fff; }
