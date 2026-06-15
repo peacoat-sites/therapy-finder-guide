@@ -1,0 +1,76 @@
+{
+  "title": "Common Types of Therapy, Compared",
+  "source": "General educational overview of established therapy modalities. This is not medical advice. A licensed clinician can help you choose what fits your needs.",
+  "rows": [
+    {
+      "type": "CBT (Cognitive Behavioral)",
+      "best": "Anxiety, depression, phobias, OCD",
+      "format": "Structured, skills-based",
+      "length": "8–20 sessions",
+      "focus": "Changing unhelpful thought & behavior patterns"
+    },
+    {
+      "type": "DBT (Dialectical Behavior)",
+      "best": "Emotion dysregulation, BPD, self-harm",
+      "format": "Skills group + individual",
+      "length": "6–12 months",
+      "focus": "Balancing acceptance with change; mindfulness, distress tolerance"
+    },
+    {
+      "type": "EMDR",
+      "best": "Trauma, PTSD",
+      "format": "Structured, 8-phase",
+      "length": "6–12+ sessions",
+      "focus": "Reprocessing distressing memories"
+    },
+    {
+      "type": "ACT (Acceptance & Commitment)",
+      "best": "Anxiety, chronic pain, depression",
+      "format": "Skills-based",
+      "length": "8–16 sessions",
+      "focus": "Accepting hard feelings; values-based action"
+    },
+    {
+      "type": "Psychodynamic",
+      "best": "Recurring patterns, relationships",
+      "format": "Open-ended talk",
+      "length": "Months–years",
+      "focus": "Exploring unconscious patterns & the past"
+    },
+    {
+      "type": "Person-Centered",
+      "best": "Self-esteem, life transitions, growth",
+      "format": "Open, non-directive",
+      "length": "Varies",
+      "focus": "Client-led, empathy, positive regard"
+    },
+    {
+      "type": "IPT (Interpersonal)",
+      "best": "Depression, grief, relationship conflict",
+      "format": "Structured, time-limited",
+      "length": "12–16 sessions",
+      "focus": "Improving relationships & communication"
+    },
+    {
+      "type": "Exposure Therapy",
+      "best": "Phobias, OCD, PTSD",
+      "format": "Structured, gradual",
+      "length": "8–16 sessions",
+      "focus": "Gradual, safe exposure to feared situations"
+    },
+    {
+      "type": "EFT / Couples",
+      "best": "Relationship distress",
+      "format": "Couples sessions",
+      "length": "8–20 sessions",
+      "focus": "Reshaping attachment & emotional bonds"
+    },
+    {
+      "type": "Group Therapy",
+      "best": "Addiction, social anxiety",
+      "format": "Facilitated group",
+      "length": "Varies",
+      "focus": "Peer support & shared learning"
+    }
+  ]
+}
