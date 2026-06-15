@@ -688,6 +688,14 @@ _IMG_STOP = {
     "after","before","during","using","use","get","make","fix","fixing","help","helping",
 }
 
+_DUP_STOP = {'how','to','a','an','the','for','in','on','of','and','or','your','you','with',
+             'without','vs','best','guide','is','are','do','does','can','what','when','why',
+             'my','it','at','be','this'}
+
+def _slug_tokens(slug: str) -> frozenset:
+    return frozenset(w for w in slug.split('-') if w and w not in _DUP_STOP)
+
+
 def _derive_image_query(keyword: str) -> str:
     """Heuristic fallback: strip abstract/process words, keep the concrete subject nouns."""
     words = [w for w in re.findall(r"[A-Za-z]+", keyword.lower()) if w not in _IMG_STOP and len(w) > 2]
@@ -1290,6 +1298,22 @@ def publish_site(site_name: str, count: int):
         kw for kw in keywords
         if keyword_to_slug(kw.get("keyword", "")) not in published
     ]
+
+    # Skip NEAR-duplicate keywords (slug-token Jaccard >= 0.8 vs any published slug).
+    # Prevents the same topic publishing twice under a different slug (a "low value" trigger).
+    _pub_tok = [_slug_tokens(s) for s in published]
+    def _near_dup(kw):
+        t = _slug_tokens(keyword_to_slug(kw.get("keyword", "")))
+        if not t:
+            return False
+        for pt in _pub_tok:
+            if pt and len(t & pt) / len(t | pt) >= 0.8:
+                return True
+        return False
+    _before = len(unpublished)
+    unpublished = [kw for kw in unpublished if not _near_dup(kw)]
+    if len(unpublished) < _before:
+        print(f"  Skipped {_before - len(unpublished)} near-duplicate keyword(s)")
 
     if not unpublished:
         print(f"  All keywords already published!")
