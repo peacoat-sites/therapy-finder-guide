@@ -1,10 +1,26 @@
 {{ define "main" }}
-<div style="max-width:600px;margin:80px auto;text-align:center;padding:0 24px">
+<div style="max-width:640px;margin:72px auto;text-align:center;padding:0 24px">
   <h1 style="font-size:96px;font-weight:800;color:var(--accent);margin:0;line-height:1;font-family:var(--serif);letter-spacing:-4px">404</h1>
-  <h2 style="font-size:22px;margin:20px 0 12px;color:var(--text);font-family:var(--serif)">Page Not Found</h2>
-  <p style="color:var(--muted);font-size:15px;line-height:1.7;margin-bottom:36px;max-width:420px;margin-left:auto;margin-right:auto">
-    That page doesn't exist or may have moved. Try heading back home or use the search bar to find what you're looking for.
+  <h2 style="font-size:22px;margin:18px 0 12px;color:var(--text);font-family:var(--serif)">Page Not Found</h2>
+  <p style="color:var(--muted);font-size:15px;line-height:1.7;margin:0 auto 26px;max-width:440px">
+    That page doesn't exist or may have moved. While you're here, here's something useful:
   </p>
-  <a href="/" style="display:inline-block;background:var(--accent);color:#0b0b0f;padding:13px 32px;border-radius:8px;text-decoration:none;font-weight:700;font-size:14px;letter-spacing:0.02em;transition:filter .2s">← Back to Home</a>
+  <div style="text-align:left;background:var(--surface2,#f5f2ec);border-left:4px solid var(--accent);border-radius:10px;padding:18px 22px;max-width:500px;margin:0 auto 32px;display:flex;gap:14px;align-items:flex-start">
+    <span style="font-size:22px;line-height:1.1;flex-shrink:0" aria-hidden="true">&#128161;</span>
+    <p style="margin:0;color:var(--text);font-size:14.5px;line-height:1.66">A gentle reminder: if the first therapist isn’t the right fit, that’s normal and common. Finding the right match matters far more than starting with the first name you find.</p>
+  </div>
+  <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-bottom:40px">
+    <a href="/" style="display:inline-block;background:var(--accent);color:#fff;padding:13px 28px;border-radius:8px;text-decoration:none;font-weight:700;font-size:14px;letter-spacing:0.02em">&#8592; Back to Home</a>
+    <a href="/search/" style="display:inline-block;background:transparent;color:var(--accent);border:1.5px solid var(--accent);padding:11.5px 28px;border-radius:8px;text-decoration:none;font-weight:700;font-size:14px;letter-spacing:0.02em">Search Articles</a>
+  </div>
+  {{ $posts := first 4 (where .Site.RegularPages "Section" "posts") }}
+  {{ with $posts }}
+  <div style="text-align:left;max-width:500px;margin:0 auto">
+    <div style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:6px">Popular reads</div>
+    {{ range . }}
+    <a href="{{ .RelPermalink }}" style="display:block;padding:11px 0;border-top:1px solid var(--border);color:var(--text);text-decoration:none;font-size:14.5px;font-weight:500">{{ .Title }} <span style="color:var(--accent)">&#8594;</span></a>
+    {{ end }}
+  </div>
+  {{ end }}
 </div>
 {{ end }}
