@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Single-site YouTube video generator â€” runs inside a site repo via GitHub Actions.
+Single-site YouTube video generator — runs inside a site repo via GitHub Actions.
 
 Reads the latest article from content/posts/ (local checkout),
 generates a 60-second script via Claude + ElevenLabs + Shotstack,
@@ -11,13 +11,13 @@ Called by .github/workflows/video.yml in each site repo.
 All config comes from environment variables (GitHub Actions secrets/vars).
 """
 
-import os, sys, json, time, re, subprocess
+import os, sys, json, time, re, subprocess, random
 from pathlib import Path
 from datetime import datetime, timezone, date
 
 import requests
 
-# â”€â”€ Required env vars (set as GitHub Actions secrets / vars) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Required env vars (set as GitHub Actions secrets / vars) ─────────────────
 ANTHROPIC_KEY        = os.environ["ANTHROPIC_API_KEY"]
 EL_KEY               = os.environ["ELEVENLABS_API_KEY"]
 EL_VOICE_ID          = os.environ["ELEVENLABS_VOICE_ID"]
@@ -39,12 +39,12 @@ MUSIC_URL      = "https://cdn.pixabay.com/audio/2022/08/02/audio_884fe92c21.mp3"
 DRY_RUN = "--dry-run" in sys.argv or os.environ.get("DRY_RUN", "").lower() == "true"
 
 
-# â”€â”€ Retry helper â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Retry helper ──────────────────────────────────────────────────────────────
 
 def with_retry(fn, label="op", max_attempts=3, initial_delay=8):
     """
     Call fn() up to max_attempts times with exponential backoff.
-    Delays: 8s â†’ 16s â†’ 32s. Raises the last exception if all attempts fail.
+    Delays: 8s → 16s → 32s. Raises the last exception if all attempts fail.
     """
     for attempt in range(1, max_attempts + 1):
         try:
@@ -59,7 +59,7 @@ def with_retry(fn, label="op", max_attempts=3, initial_delay=8):
             time.sleep(wait)
 
 
-# â”€â”€ Step 0: Shotstack credit pre-check â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 0: Shotstack credit pre-check ───────────────────────────────────────
 
 def check_shotstack_credits(min_required=3):
     """
@@ -87,14 +87,14 @@ def check_shotstack_credits(min_required=3):
             else:
                 print(f"  [WARN] Could not parse credit balance from response: {r.text[:100]}")
         else:
-            print(f"  [WARN] Shotstack billing check returned HTTP {r.status_code} â€” continuing anyway")
+            print(f"  [WARN] Shotstack billing check returned HTTP {r.status_code} — continuing anyway")
     except RuntimeError:
         raise
     except Exception as exc:
         print(f"  [WARN] Credit pre-check failed (non-blocking): {exc}")
 
 
-# â”€â”€ Step 1: Read latest article from local checkout â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 1: Read latest article from local checkout ───────────────────────────
 
 def read_latest_article() -> dict | None:
     posts_dir = Path("content/posts")
@@ -127,11 +127,16 @@ def read_latest_article() -> dict | None:
     body = re.sub(r'^---.*?---', '', body, flags=re.DOTALL).strip()
 
     article_slug = latest.stem
+    # Capture the hero image (reused as the video thumbnail — already subject-accurate, no extra API call).
+    hero_image = ""
+    mi = re.search(r'^image\s*[:=]\s*"?(https?://[^"\s]+?)"?\s*$', raw, re.MULTILINE)
+    if mi:
+        hero_image = mi.group(1)
     print(f"  Article file: {latest.name}")
-    return {"title": title, "body": body, "article_slug": article_slug}
+    return {"title": title, "body": body, "article_slug": article_slug, "image": hero_image}
 
 
-# â”€â”€ Step 1b: Duplicate article guard â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 1b: Duplicate article guard ─────────────────────────────────────────
 
 def already_has_video(article_slug: str) -> bool:
     """Return True if this article slug already exists in data/youtube.json."""
@@ -145,7 +150,7 @@ def already_has_video(article_slug: str) -> bool:
         return False
 
 
-# â”€â”€ Step 2: Generate script via Claude â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 2: Generate script via Claude ───────────────────────────────────────
 
 def generate_script(article: dict) -> dict:
     import anthropic
@@ -156,7 +161,7 @@ def generate_script(article: dict) -> dict:
         "Structure: Hook (pattern interrupt, loss framing or alarming stat) -> Problem -> 3 Insights -> Resolution. "
         "No filler. Every sentence advances the argument. Use authority language. "
         "Do NOT include calls to action, website URLs, channel names, or 'follow for more' language. "
-        "Respond ONLY with valid JSON â€” no markdown fences, no commentary."
+        "Respond ONLY with valid JSON — no markdown fences, no commentary."
     )
     user = (
         f"Write a 60-second YouTube Shorts script based on this article:\n\n"
@@ -164,25 +169,31 @@ def generate_script(article: dict) -> dict:
         f"Article (first 1500 chars):\n{article['body'][:1500]}\n\n"
         "Return JSON with EXACTLY these keys:\n"
         "{\n"
-        '  "hook": "1-2 sentences, pattern-interrupt â€” open with a loss stat or alarming fact (under 25 words)",\n'
+        '  "hook": "1-2 sentences, pattern-interrupt — open with a loss stat or alarming fact (under 25 words)",\n'
         '  "problem": "1 sentence naming the specific pain or mistake (under 20 words)",\n'
         '  "points": [\n'
         '    "First insight with a concrete number or comparison (under 30 words)",\n'
         '    "Second insight with a different angle (under 30 words)",\n'
-        '    "Third actionable insight â€” the thing they can do today (under 25 words)"\n'
+        '    "Third actionable insight — the thing they can do today (under 25 words)"\n'
         "  ],\n"
         '  "resolution": "1-2 sentences calling back to the hook, stating the outcome (under 20 words)",\n'
         '  "callout_cards": [\n'
         '    "Short bold stat or key phrase for on-screen text (under 8 words)",\n'
         '    "Second key insight as a bold on-screen callout (under 8 words)",\n'
-        '    "Third callout â€” most actionable phrase (under 8 words)"\n'
+        '    "Third callout — most actionable phrase (under 8 words)"\n'
         "  ],\n"
-        '  "title": "YouTube title under 80 chars â€” number or power word, curiosity gap",\n'
-        '  "description": "2-3 educational sentences under 400 chars â€” no website links or CTAs",\n'
-        '  "tags": ["tag1","tag2","tag3","tag4","tag5","tag6","tag7","tag8","tag9","tag10"]\n'
+        '  "title": "YouTube title under 80 chars — number or power word, curiosity gap",\n'
+        '  "description": "2-3 educational sentences under 400 chars — no website links or CTAs",\n'
+        '  "tags": ["tag1","tag2","tag3","tag4","tag5","tag6","tag7","tag8","tag9","tag10"],\n'
+        '  "visual_queries": ["q1","q2","q3","q4","q5"]\n'
         "}\n\n"
         "Total spoken word count (hook + problem + all points + resolution) must be 130-155 words. "
-        "No calls to action, no website references, no subscribe prompts."
+        "No calls to action, no website references, no subscribe prompts.\n\n"
+        "For visual_queries: give EXACTLY 5 CONCRETE, photographable B-roll stock-video search phrases "
+        "(2-3 words each) that depict THIS article's specific subject — each must lead with the literal "
+        "object/person/scene and the 5 must be DISTINCT from each other so the video has visual variety. "
+        "Avoid abstract words (tips, guide, treatment, cost, symptoms, mistakes, results). "
+        "Example for a keto avocado article: [\"avocado halved closeup\",\"sliced avocado toast\",\"measuring ketone strip\",\"grilled salmon fillet\",\"fresh green vegetables\"]."
     )
 
     msg = client.messages.create(
@@ -206,10 +217,14 @@ def generate_script(article: dict) -> dict:
     data.setdefault("callout_cards", [])
     data.setdefault("problem", "")
     data.setdefault("resolution", "")
+    vq = data.get("visual_queries")
+    if not isinstance(vq, list):
+        vq = []
+    data["visual_queries"] = [str(q).strip() for q in vq if str(q).strip()]
     return data
 
 
-# â”€â”€ Step 2b: Script quality gate â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 2b: Script quality gate ─────────────────────────────────────────────
 
 BANNED_PHRASES = [
     "subscribe", "follow for more", "click the link", "check out our website",
@@ -227,14 +242,14 @@ def validate_script(script: dict) -> None:
     if len(points) < 3:
         errors.append(f"need 3 points, got {len(points)}")
     if not script.get("tags") or len(script["tags"]) < 3:
-        errors.append(f"need â‰¥3 tags, got {len(script.get('tags', []))}")
+        errors.append(f"need ≥3 tags, got {len(script.get('tags', []))}")
 
     title_len = len(script.get("title", ""))
     if title_len > 100:
         errors.append(f"title too long ({title_len} chars, YT max is 100)")
     desc_len = len(script.get("description", ""))
     if desc_len > 400:
-        errors.append(f"description too long ({desc_len} chars, target â‰¤400)")
+        errors.append(f"description too long ({desc_len} chars, target ≤400)")
 
     spoken_parts = [script.get("hook", ""), script.get("problem", "")]
     spoken_parts.extend(script.get("points", []))
@@ -253,10 +268,10 @@ def validate_script(script: dict) -> None:
     if errors:
         raise ValueError("Script validation failed:\n  " + "\n  ".join(errors))
 
-    print(f"  Script: âœ“ {word_count} spoken words | title {title_len} chars | {len(script['tags'])} tags")
+    print(f"  Script: ✓ {word_count} spoken words | title {title_len} chars | {len(script['tags'])} tags")
 
 
-# â”€â”€ Step 3: Synthesize audio â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 3: Synthesize audio ──────────────────────────────────────────────────
 
 def synthesize_audio(script: dict) -> tuple[bytes, list]:
     """Returns (mp3_bytes, word_timestamps) using ElevenLabs with-timestamps endpoint."""
@@ -313,7 +328,7 @@ def synthesize_audio(script: dict) -> tuple[bytes, list]:
     return audio_bytes, words
 
 
-# â”€â”€ Step 3b: Audio quality gate â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 3b: Audio quality gate ──────────────────────────────────────────────
 
 def validate_audio(audio_bytes: bytes, words: list, audio_duration: float) -> None:
     errors = []
@@ -321,28 +336,46 @@ def validate_audio(audio_bytes: bytes, words: list, audio_duration: float) -> No
     if len(audio_bytes) < min_kb * 1024:
         errors.append(f"audio too small ({len(audio_bytes) // 1024} KB, min {min_kb} KB)")
     if not words:
-        errors.append("word alignment list is empty â€” captions cannot be generated")
+        errors.append("word alignment list is empty — captions cannot be generated")
     elif len(words) < 15:
-        errors.append(f"only {len(words)} aligned words â€” suspiciously short narration")
+        errors.append(f"only {len(words)} aligned words — suspiciously short narration")
     if audio_duration < 25:
         errors.append(f"audio too short ({audio_duration:.1f}s, min 25s)")
     elif audio_duration > 150:
         errors.append(f"audio too long ({audio_duration:.1f}s, max 150s)")
     if errors:
         raise RuntimeError("Audio validation failed:\n  " + "\n  ".join(errors))
-    print(f"  Audio: âœ“ {len(audio_bytes) // 1024} KB | {len(words)} words aligned | {audio_duration:.1f}s")
+    print(f"  Audio: ✓ {len(audio_bytes) // 1024} KB | {len(words)} words aligned | {audio_duration:.1f}s")
 
 
-# â”€â”€ Step 4: Fetch Pexels clips â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 4: Fetch Pexels clips ────────────────────────────────────────────────
 
-def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
+def _dedup_queries(qs: list) -> list:
+    """Order-preserving, case-insensitive dedup of non-empty query strings."""
+    seen, out = set(), []
+    for q in qs:
+        q = (q or "").strip()
+        k = q.lower()
+        if q and k not in seen:
+            seen.add(k)
+            out.append(q)
+    return out
+
+
+def _niche_fallback_queries() -> list:
     niche_words = SITE_NICHE.replace(" & ", " ").replace(",", "").split()
-    queries = [
+    return [
         SITE_NICHE,
         " ".join(niche_words[:2]) if len(niche_words) >= 2 else niche_words[0],
         "professional advice",
         "helping people",
     ]
+
+
+def fetch_pexels_clips(count: int = 4, orientation: str = "portrait", queries: list = None) -> list:
+    # Prefer per-article visual queries (subject-accurate + diverse); pad with the niche fallback
+    # so we always have enough queries to fill `count` even if the article queries return little.
+    queries = _dedup_queries((queries or []) + _niche_fallback_queries())
     selected, used_ids = [], set()
     headers = {"Authorization": PEXELS_KEY}
 
@@ -354,7 +387,7 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
             r = requests.get(
                 "https://api.pexels.com/videos/search",
                 headers=headers,
-                params={"query": q, "per_page": 8, "orientation": orientation, "size": "medium"},
+                params={"query": q, "per_page": 30, "orientation": orientation, "size": "medium"},
                 timeout=20,
             )
             if r.status_code == 429:
@@ -366,9 +399,11 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
         try:
             videos = with_retry(_pexels_query, label=f"Pexels:{query[:20]}", max_attempts=3, initial_delay=5)
         except Exception as exc:
-            print(f"  [WARN] Pexels query '{query}' failed after retries: {exc} â€” skipping")
+            print(f"  [WARN] Pexels query '{query}' failed after retries: {exc} — skipping")
             continue
 
+        # Shuffle the wider candidate pool so repeated/similar queries don't collapse to the same clip.
+        random.shuffle(videos)
         for vid in videos:
             if len(selected) >= count or vid["id"] in used_ids:
                 continue
@@ -385,17 +420,13 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
     return selected[:count]
 
 
-# â”€â”€ Step 4b: Fetch Pixabay clips (round-robin partner to Pexels) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 4b: Fetch Pixabay clips (round-robin partner to Pexels) ─────────────
 
-def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait") -> list:
+def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait", queries: list = None) -> list:
     """Fetch video clips from Pixabay. Used in round-robin with Pexels."""
-    niche_words = SITE_NICHE.replace(" & ", " ").replace(",", "").split()
-    queries = [
-        SITE_NICHE,
-        " ".join(niche_words[:2]) if len(niche_words) >= 2 else niche_words[0],
-        "professional lifestyle",
-        "people activity",
-    ]
+    # Per-article visual queries first (subject-accurate), padded with the niche fallback.
+    pixabay_fallback = _niche_fallback_queries()[:2] + ["professional lifestyle", "people activity"]
+    queries = _dedup_queries((queries or []) + pixabay_fallback)
     selected, used_ids = [], set()
 
     for query in queries:
@@ -406,7 +437,7 @@ def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait") -> list:
             params = {
                 "key":        PIXABAY_KEY,
                 "q":          q,
-                "per_page":   10,
+                "per_page":   30,
                 "video_type": "all",
                 "safesearch": "true",
             }
@@ -420,13 +451,15 @@ def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait") -> list:
         try:
             videos = with_retry(_pixabay_query, label=f"Pixabay:{query[:20]}", max_attempts=3, initial_delay=5)
         except Exception as exc:
-            print(f"  [WARN] Pixabay query '{query}' failed: {exc} â€” skipping")
+            print(f"  [WARN] Pixabay query '{query}' failed: {exc} — skipping")
             continue
 
+        # Shuffle the wider candidate pool for variety across runs/articles.
+        random.shuffle(videos)
         for vid in videos:
             if len(selected) >= count or vid["id"] in used_ids:
                 continue
-            # large â†’ medium â†’ small â€” pick best available quality
+            # large → medium → small — pick best available quality
             for quality in ("large", "medium", "small"):
                 clip_url = vid.get("videos", {}).get(quality, {}).get("url", "")
                 if clip_url:
@@ -437,12 +470,13 @@ def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait") -> list:
     return selected[:count]
 
 
-def fetch_clips_roundrobin(count: int = 4, orientation: str = "portrait") -> list:
+def fetch_clips_roundrobin(count: int = 4, orientation: str = "portrait", queries: list = None) -> list:
     """
     Round-robin B-roll fetching: alternates primary source by day of week.
-    Even days â†’ Pexels first, odd days â†’ Pixabay first.
+    Even days → Pexels first, odd days → Pixabay first.
     Whichever is primary goes first; the other fills any remaining slots.
     This spreads API rate limits and keeps clip variety high across runs.
+    `queries` carries per-article subject-accurate B-roll search phrases.
     """
     use_pexels_first = (date.today().toordinal() % 2 == 0)
     label_primary   = "Pexels" if use_pexels_first else "Pixabay"
@@ -450,31 +484,31 @@ def fetch_clips_roundrobin(count: int = 4, orientation: str = "portrait") -> lis
     fetch_primary   = fetch_pexels_clips   if use_pexels_first else fetch_pixabay_clips
     fetch_secondary = fetch_pixabay_clips  if use_pexels_first else fetch_pexels_clips
 
-    clips = fetch_primary(count=count, orientation=orientation)
+    clips = fetch_primary(count=count, orientation=orientation, queries=queries)
     print(f"  [{label_primary}] {len(clips)} clips")
 
     if len(clips) < count:
         needed = count - len(clips)
-        extra  = fetch_secondary(count=needed, orientation=orientation)
+        extra  = fetch_secondary(count=needed, orientation=orientation, queries=queries)
         print(f"  [{label_secondary}] +{len(extra)} supplemental clips")
         clips.extend(extra)
 
     return clips[:count]
 
 
-# â”€â”€ URL accessibility check â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── URL accessibility check ───────────────────────────────────────────────────
 
 def verify_url_accessible(url: str, label: str) -> None:
     try:
         r = requests.head(url, timeout=20, allow_redirects=True)
         if r.status_code not in (200, 206):
             raise RuntimeError(f"[{label}] URL not publicly accessible: HTTP {r.status_code}\n  {url[:100]}")
-        print(f"  [{label}] âœ“ URL accessible (HTTP {r.status_code})")
+        print(f"  [{label}] ✓ URL accessible (HTTP {r.status_code})")
     except requests.exceptions.RequestException as exc:
         raise RuntimeError(f"[{label}] URL accessibility check failed: {exc}\n  {url[:100]}")
 
 
-# â”€â”€ Step 5: Upload audio to public CDN â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 5: Upload audio to public CDN ───────────────────────────────────────
 
 def upload_file(data: bytes, filename: str, mime: str) -> str:
     """
@@ -498,7 +532,7 @@ def upload_file(data: bytes, filename: str, mime: str) -> str:
             errors.append(f"{name}: {exc}")
             return None
 
-    # 1. uguu.se â€” anonymous, 48h expiry
+    # 1. uguu.se — anonymous, 48h expiry
     def _uguu():
         r = requests.post("https://uguu.se/upload", files={"files[]": (filename, data, mime)}, timeout=60)
         if r.status_code == 200:
@@ -511,7 +545,7 @@ def upload_file(data: bytes, filename: str, mime: str) -> str:
     if url:
         return url
 
-    # 2. tmpfiles.org â€” anonymous, 60-min expiry
+    # 2. tmpfiles.org — anonymous, 60-min expiry
     def _tmpfiles():
         r = requests.post("https://tmpfiles.org/api/v1/upload", files={"file": (filename, data, mime)}, timeout=60)
         if r.status_code == 200:
@@ -525,7 +559,7 @@ def upload_file(data: bytes, filename: str, mime: str) -> str:
     if url:
         return url
 
-    # 3. file.io â€” anonymous, single-use download, 14-day expiry
+    # 3. file.io — anonymous, single-use download, 14-day expiry
     def _fileio():
         r = requests.post("https://file.io/?expires=1d", files={"file": (filename, data, mime)}, timeout=60)
         if r.status_code in (200, 201):
@@ -537,7 +571,7 @@ def upload_file(data: bytes, filename: str, mime: str) -> str:
     if url:
         return url
 
-    # 4. oshi.at â€” anonymous, 24h expiry
+    # 4. oshi.at — anonymous, 24h expiry
     def _oshi():
         r = requests.post("https://oshi.at", files={"f": (filename, data, mime)}, data={"expire": "60"}, timeout=60)
         link = next((line.split("=", 1)[1].strip() for line in r.text.splitlines() if line.startswith("DL=")), "")
@@ -547,14 +581,14 @@ def upload_file(data: bytes, filename: str, mime: str) -> str:
     if url:
         return url
 
-    raise RuntimeError("Audio upload failed â€” all 4 hosts exhausted:\n  " + "\n  ".join(errors))
+    raise RuntimeError("Audio upload failed — all 4 hosts exhausted:\n  " + "\n  ".join(errors))
 
 
 def upload_audio(audio_bytes: bytes) -> str:
     return upload_file(audio_bytes, "narration.mp3", "audio/mpeg")
 
 
-# â”€â”€ Caption segmentation â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Caption segmentation ──────────────────────────────────────────────────────
 
 def segment_captions(words: list, audio_duration: float) -> list:
     segments = []
@@ -581,7 +615,7 @@ def segment_captions(words: list, audio_duration: float) -> list:
     return segments
 
 
-# â”€â”€ Steps 6-7: Shotstack render â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Steps 6-7: Shotstack render ───────────────────────────────────────────────
 
 def build_and_render(script: dict, clips: list, audio_url: str,
                      words: list, audio_duration: float,
@@ -697,7 +731,7 @@ def build_and_render(script: dict, clips: list, audio_url: str,
     render_id = with_retry(_submit, label=f"Shotstack submit {label}", max_attempts=3, initial_delay=15)
     print(f"  [{label}] Render ID: {render_id}")
 
-    # Poll up to 18 min (108 Ã— 10s)
+    # Poll up to 18 min (108 × 10s)
     for i in range(108):
         time.sleep(10)
         try:
@@ -706,7 +740,7 @@ def build_and_render(script: dict, clips: list, audio_url: str,
             resp   = r2.json().get("response", {})
             status = resp.get("status")
         except Exception as poll_exc:
-            print(f"  [{label}] Poll attempt {i+1} error: {poll_exc} â€” retrying...")
+            print(f"  [{label}] Poll attempt {i+1} error: {poll_exc} — retrying...")
             continue
 
         print(f"  [{label}] status={status} ({(i+1)*10}s)")
@@ -718,7 +752,7 @@ def build_and_render(script: dict, clips: list, audio_url: str,
     raise TimeoutError(f"Shotstack [{label}] timed out after 18 min")
 
 
-# â”€â”€ Step 7.5: Validate rendered MP4 â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 7.5: Validate rendered MP4 ──────────────────────────────────────────
 
 def validate_video_has_audio(video_bytes: bytes, label: str,
                               expected_duration: float = None, is_shorts: bool = None) -> None:
@@ -726,7 +760,7 @@ def validate_video_has_audio(video_bytes: bytes, label: str,
 
     min_bytes = 1 * 1024 * 1024
     if len(video_bytes) < min_bytes:
-        raise RuntimeError(f"[{label}] Video too small ({len(video_bytes) // 1024} KB) â€” corrupt render")
+        raise RuntimeError(f"[{label}] Video too small ({len(video_bytes) // 1024} KB) — corrupt render")
 
     with tempfile.NamedTemporaryFile(suffix=".mp4", delete=False) as f:
         f.write(video_bytes)
@@ -745,7 +779,7 @@ def validate_video_has_audio(video_bytes: bytes, label: str,
         if not video_streams:
             raise RuntimeError(f"[{label}] No video stream in MP4")
         if not audio_streams:
-            raise RuntimeError(f"[{label}] No audio stream â€” soundtrack not embedded")
+            raise RuntimeError(f"[{label}] No audio stream — soundtrack not embedded")
 
         audio_dur = float(audio_streams[0].get("duration", 0))
         if audio_dur < 5.0:
@@ -764,9 +798,9 @@ def validate_video_has_audio(video_bytes: bytes, label: str,
             got_w = int(video_streams[0].get("width", 0))
             got_h = int(video_streams[0].get("height", 0))
             if got_w != exp_w or got_h != exp_h:
-                raise RuntimeError(f"[{label}] Wrong resolution: got {got_w}Ã—{got_h}, expected {exp_w}Ã—{exp_h}")
+                raise RuntimeError(f"[{label}] Wrong resolution: got {got_w}×{got_h}, expected {exp_w}×{exp_h}")
 
-        print(f"  [{label}] âœ“ {int(video_streams[0].get('width',0))}Ã—{int(video_streams[0].get('height',0))} | "
+        print(f"  [{label}] ✓ {int(video_streams[0].get('width',0))}×{int(video_streams[0].get('height',0))} | "
               f"video {vid_dur:.1f}s | audio {audio_dur:.1f}s | {len(video_bytes)//1024//1024} MB")
     finally:
         try:
@@ -775,7 +809,7 @@ def validate_video_has_audio(video_bytes: bytes, label: str,
             pass
 
 
-# â”€â”€ Step 8: YouTube upload â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 8: YouTube upload ────────────────────────────────────────────────────
 
 def get_access_token() -> str:
     r = requests.post("https://oauth2.googleapis.com/token", data={
@@ -831,7 +865,8 @@ def upload_to_youtube(video_bytes: bytes, script: dict, article: dict, is_shorts
         "status":  {"privacyStatus": "public", "selfDeclaredMadeForKids": False},
     }
 
-    for attempt in range(1, 4):
+    max_attempts = 4   # extra attempt cushion for transient 429s
+    for attempt in range(1, max_attempts + 1):
         init_r = requests.post(
             "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
             headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json",
@@ -840,9 +875,18 @@ def upload_to_youtube(video_bytes: bytes, script: dict, article: dict, is_shorts
             json=meta, timeout=30,
         )
         if init_r.status_code not in (200, 201):
-            if attempt < 3:
-                print(f"  [YT-{label}] Init attempt {attempt} failed ({init_r.status_code}) â€” retrying...")
-                time.sleep(15 * attempt)
+            if "quotaExceeded" in init_r.text:
+                raise RuntimeError(f"YouTube daily quota exhausted — resume tomorrow. ({label})")
+            if init_r.status_code == 429 and attempt < max_attempts:
+                wait = 120 * attempt   # 120s, 240s, 360s — YouTube rate limits need minutes
+                print(f"  [YT-{label}] Init 429 on attempt {attempt} — waiting {wait}s before retry...")
+                time.sleep(wait)
+                token = get_access_token()
+                continue
+            if attempt < max_attempts:
+                wait = 30 * attempt
+                print(f"  [YT-{label}] Init attempt {attempt} failed ({init_r.status_code}) — retrying in {wait}s...")
+                time.sleep(wait)
                 token = get_access_token()
                 continue
             raise RuntimeError(f"YouTube init {init_r.status_code}: {init_r.text[:200]}")
@@ -856,17 +900,24 @@ def upload_to_youtube(video_bytes: bytes, script: dict, article: dict, is_shorts
         )
         if up_r.status_code not in (200, 201):
             if "quotaExceeded" in up_r.text:
-                raise RuntimeError(f"YouTube quota exhausted â€” resume tomorrow. ({label})")
-            if attempt < 3:
-                print(f"  [YT-{label}] Upload attempt {attempt} failed ({up_r.status_code}) â€” retrying...")
-                time.sleep(15 * attempt)
+                raise RuntimeError(f"YouTube daily quota exhausted — resume tomorrow. ({label})")
+            if up_r.status_code == 429 and attempt < max_attempts:
+                wait = 120 * attempt   # 120s, 240s, 360s
+                print(f"  [YT-{label}] Upload 429 on attempt {attempt} — waiting {wait}s before retry...")
+                time.sleep(wait)
+                token = get_access_token()
+                continue
+            if attempt < max_attempts:
+                wait = 30 * attempt
+                print(f"  [YT-{label}] Upload attempt {attempt} failed ({up_r.status_code}) — retrying in {wait}s...")
+                time.sleep(wait)
                 token = get_access_token()
                 continue
             raise RuntimeError(f"YouTube upload {up_r.status_code}: {up_r.text[:200]}")
         return up_r.json()["id"]
 
 
-# â”€â”€ YouTube delete (rollback helper) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── YouTube delete (rollback helper) ─────────────────────────────────────────
 
 def delete_youtube_video(video_id: str) -> bool:
     try:
@@ -877,16 +928,16 @@ def delete_youtube_video(video_id: str) -> bool:
             timeout=15,
         )
         if r.status_code == 204:
-            print(f"  [CLEANUP] âœ“ Deleted {video_id} from YouTube")
+            print(f"  [CLEANUP] ✓ Deleted {video_id} from YouTube")
             return True
-        print(f"  [CLEANUP] âœ— Could not delete {video_id}: HTTP {r.status_code} â€” remove manually")
+        print(f"  [CLEANUP] ✗ Could not delete {video_id}: HTTP {r.status_code} — remove manually")
         return False
     except Exception as exc:
-        print(f"  [CLEANUP] âœ— Exception deleting {video_id}: {exc} â€” remove manually")
+        print(f"  [CLEANUP] ✗ Exception deleting {video_id}: {exc} — remove manually")
         return False
 
 
-# â”€â”€ Step 9: Commit data/youtube.json â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 9: Commit data/youtube.json ─────────────────────────────────────────
 
 def commit_youtube_json(article: dict, script: dict, shorts_id: str, standard_id: str = None):
     data_dir  = Path("data")
@@ -925,7 +976,38 @@ def commit_youtube_json(article: dict, script: dict, shorts_id: str, standard_id
     print("  Committed data/youtube.json")
 
 
-# â”€â”€ Main â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Step 9c: Custom thumbnail (additive — never fatal) ───────────────────────
+
+def set_youtube_thumbnail(video_id: str, image_url: str, label: str) -> None:
+    """Set a clean, subject-accurate custom thumbnail (the article hero image) on a video.
+    Fully non-fatal: any failure — including HTTP 403 when the channel isn't verified for
+    custom thumbnails — is logged and ignored so it can never break a successful upload."""
+    if not video_id or not image_url:
+        return
+    try:
+        img = requests.get(image_url, timeout=30)
+        ctype = img.headers.get("Content-Type", "")
+        if img.status_code != 200 or "image" not in ctype:
+            print(f"  [thumb-{label}] skip: image fetch HTTP {img.status_code} ({ctype})")
+            return
+        if len(img.content) > 2 * 1024 * 1024:
+            print(f"  [thumb-{label}] skip: image larger than 2MB")
+            return
+        token = get_access_token()
+        r = requests.post(
+            f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={video_id}",
+            headers={"Authorization": f"Bearer {token}", "Content-Type": ctype or "image/jpeg"},
+            data=img.content, timeout=60,
+        )
+        if r.status_code == 200:
+            print(f"  [thumb-{label}] ✓ custom thumbnail set")
+        else:
+            print(f"  [thumb-{label}] thumbnails.set HTTP {r.status_code}: {r.text[:140]} (non-fatal)")
+    except Exception as exc:
+        print(f"  [thumb-{label}] skip (non-fatal): {exc}")
+
+
+# ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
     print(f"\n{'='*60}")
@@ -950,7 +1032,7 @@ def main():
     if len(article.get("body", "")) < 300:
         raise RuntimeError(f"Article body too short ({len(article['body'])} chars, min 300)")
     if already_has_video(article["article_slug"]):
-        print(f"  [SKIP] '{article['article_slug']}' already has a video â€” nothing to do")
+        print(f"  [SKIP] '{article['article_slug']}' already has a video — nothing to do")
         sys.exit(0)
 
     print("STEP 2: Generating script via Claude...")
@@ -968,17 +1050,19 @@ def main():
     if DRY_RUN:
         Path("narration.mp3").write_bytes(audio)
         Path("script.json").write_text(json.dumps(script, indent=2))
-        print("[DRY RUN] Saved narration.mp3 and script.json â€” done.")
+        print("[DRY RUN] Saved narration.mp3 and script.json — done.")
         return
 
     print("STEP 4: Fetching B-roll clips (Pexels + Pixabay round-robin)...")
-    portrait_clips  = fetch_clips_roundrobin(count=4, orientation="portrait")
-    landscape_clips = fetch_clips_roundrobin(count=4, orientation="landscape")
+    visual_queries = script.get("visual_queries") or []
+    print(f"  Visual queries: {visual_queries or '(none — niche fallback)'}")
+    portrait_clips  = fetch_clips_roundrobin(count=4, orientation="portrait", queries=visual_queries)
+    landscape_clips = fetch_clips_roundrobin(count=4, orientation="landscape", queries=visual_queries)
     print(f"  Portrait: {len(portrait_clips)} clips  |  Landscape: {len(landscape_clips)} clips")
     if len(portrait_clips) < 2:
-        raise RuntimeError(f"Not enough portrait clips ({len(portrait_clips)}) â€” need â‰¥2 for Shorts B-roll")
+        raise RuntimeError(f"Not enough portrait clips ({len(portrait_clips)}) — need ≥2 for Shorts B-roll")
     if len(landscape_clips) < 2:
-        raise RuntimeError(f"Not enough landscape clips ({len(landscape_clips)}) â€” need â‰¥2 for Standard B-roll")
+        raise RuntimeError(f"Not enough landscape clips ({len(landscape_clips)}) — need ≥2 for Standard B-roll")
 
     print("STEP 5: Uploading audio...")
     audio_url = upload_audio(audio)
@@ -1027,10 +1111,17 @@ def main():
         standard_id = upload_to_youtube(standard_bytes, script, article, is_shorts=False)
     except Exception as upload_err:
         print(f"  [ERROR] Standard upload failed: {upload_err}")
-        print(f"  Rolling back â€” deleting Shorts {shorts_id}...")
+        print(f"  Rolling back — deleting Shorts {shorts_id}...")
         delete_youtube_video(shorts_id)
         raise
     print(f"  Published: https://www.youtube.com/watch?v={standard_id}")
+
+    # STEP 9c: Custom thumbnail on the Standard (16:9) video — reuse the article's
+    # subject-accurate hero image. Non-fatal; Shorts keep their now-diverse auto-frame.
+    thumb_url = article.get("image", "")
+    if thumb_url:
+        print("STEP 9c: Setting custom thumbnail on Standard video...")
+        set_youtube_thumbnail(standard_id, thumb_url, "Standard")
 
     print("STEP 10: Committing youtube.json...")
     commit_youtube_json(article, script, shorts_id, standard_id)
