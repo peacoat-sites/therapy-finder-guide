@@ -15,7 +15,7 @@
       <a href="/">Home</a>
       {{ if .Params.categories }}
       <span>&rsaquo;</span>
-      <a href="{{ with index (.GetTerms "categories") 0 }}{{ .RelPermalink }}{{ end }}">{{ index .Params.categories 0 | title }}</a>
+      <a href="{{ with index (.GetTerms "categories") 0 }}{{ .RelPermalink }}{{ end }}">{{ partial "topic-label.html" (index .Params.categories 0) }}</a>
       {{ end }}
       <span>&rsaquo;</span>
       <span>{{ .Title | truncate 50 }}</span>
@@ -23,7 +23,7 @@
 
     <!-- Category + Title + Meta -->
     {{ if .Params.categories }}
-    <span class="post-cat">{{ index .Params.categories 0 | title }}</span>
+    <span class="post-cat">{{ partial "topic-label.html" (index .Params.categories 0) }}</span>
     {{ end }}
     <h1 class="post-title">{{ .Title }}</h1>
     <div class="post-meta">
