@@ -132,27 +132,6 @@ Ending therapy doesn't mean you can never go back. Many people do a course of th
 
 ---
 
-## Frequently Asked Questions
-
-### Is 6 sessions of therapy enough to see results?
-
-For very specific, focused concerns like preparing for a particular anxiety-inducing situation or processing a recent loss, 6 sessions can be meaningful. But for most mental health concerns, 6 sessions is really just the beginning. Research suggests that 15 to 20 sessions is closer to where many people start experiencing lasting, clinically significant change. That said, even a handful of sessions can provide useful perspective and coping tools. Talk openly with your therapist about what's realistic for your specific situation.
-
-### Does therapy get harder before it gets better?
-
-For many people, yes. This is one of the least-discussed realities of the process. Once the initial relief of starting therapy fades, you often move into material that's genuinely uncomfortable: patterns, memories, or dynamics you've avoided for a reason. This isn't a sign you're going backward. It's often a sign you're getting somewhere real. A good therapist will normalize this and help you track progress that isn't always linear.
-
-### Can I do therapy faster by going more than once a week?
-
-Sometimes, yes. More frequent sessions can be particularly helpful in the early stages of treatment, during a crisis period, or when working through specific trauma processing protocols like EMDR. Twice-weekly sessions compress the timeline for some modalities. However, this isn't always clinically appropriate, and it's not a simple multiplier. More sessions require more emotional bandwidth between sessions, not less. This is a conversation to have with your therapist based on your specific goals and capacity.
-
-### How do I know if my therapist is actually qualified for what I'm dealing with?
-
-Ask directly. A good therapist won't be put off by the question. Ask about their specific training and experience with your presenting concern, whether anxiety, trauma, grief, relationship issues, or anything else. Look for specific credentials, additional training certifications like EMDR, CBT, or DBT, and experience with your population. Licensure (LCSW, LPC, PhD, PsyD, MFT) indicates a baseline of training, but specialty experience matters on top of that. If your therapist can't articulate why their approach is suited to your needs, that's worth investigating.
-
-### What if I can't afford long-term therapy?
-
-This is a real and legitimate concern. A few options worth exploring: community mental health centers often offer sliding-scale fees. University training clinics provide supervised therapy at reduced cost. Many employers offer Employee Assistance Programs (EAPs) with free sessions. Open Path Collective is one organization that connects people with affordable therapists. NAMI's helpline at nami.org can help you identify local resources. Insurance parity laws also mean that mental health benefits should be comparable to physical health benefits, so it's worth pushing your insurance provider if you're running into coverage barriers.
 
 ---
 

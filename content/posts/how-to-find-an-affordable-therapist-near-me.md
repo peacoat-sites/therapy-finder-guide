@@ -120,27 +120,6 @@ These tools work best as adjuncts, not replacements. A workbook won't do what a 
 
 ---
 
-## Frequently Asked Questions
-
-### Can I find a therapist if I have no insurance and very little money?
-
-Yes. Community mental health centers operate on sliding-scale fees that can reach $0 for qualifying individuals. University training clinics often charge $5 to $30 per session. Open Path Collective specifically connects clients with therapists charging $30 to $80 per session for those without insurance. Not having insurance does not close the door.
-
-### What's the difference between a therapist, a psychologist, and a psychiatrist?
-
-A therapist or counselor is a broad term for licensed clinicians who provide talk therapy, including LCSWs (licensed clinical social workers), LPCs (licensed professional counselors), and MFTs (marriage and family therapists). A psychologist holds a doctoral degree (PhD or PsyD) and also provides therapy, often with more specialized training for assessment. A psychiatrist is a medical doctor who primarily manages psychiatric medications. If you need therapy, you're looking for the first or second category. If you need medication evaluation, you need a psychiatrist or a primary care physician.
-
-### How do I know if a therapist is a good fit?
-
-A good fit means you feel heard, not judged, and the therapist is doing more than just nodding. By the second or third session, you should have some sense of a treatment direction. If you leave sessions feeling more confused about what you're working on than when you arrived, say so. A good therapist welcomes that feedback. A poor fit doesn't mean therapy doesn't work, it means that particular therapist isn't right for you.
-
-### Is online therapy as effective as in-person?
-
-For mild to moderate anxiety and depression in adults, the research generally shows comparable outcomes. For more complex presentations, including trauma disorders, active psychosis, or situations requiring crisis management, in-person care with a specialist is typically more appropriate. Convenience is a real benefit of online therapy, but it's not inherently superior, and it's not always cheaper once you account for insurance benefits you might have for in-person care.
-
-### How long will I need to go to therapy?
-
-It depends on what you're working on and what you want. Short-term, structured approaches like CBT often produce meaningful results in 8 to 20 sessions for specific issues like phobias or mild depression. Deeper work on personality patterns, complex trauma, or relationship dynamics tends to take longer. A good therapist will set goals with you early and revisit them regularly. You should feel the work moving, not stalled.
 
 ---
 

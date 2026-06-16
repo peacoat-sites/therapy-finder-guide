@@ -121,27 +121,6 @@ The table above is a simplified comparison. Real treatment rarely fits into neat
 
 ---
 
-## Frequently Asked Questions
-
-### Is DBT only for people with borderline personality disorder?
-
-No. While DBT was originally developed for BPD, decades of research have expanded its application considerably. It's now used for eating disorders, substance use, PTSD, depression, and more. That said, your therapist or prescriber should guide the decision about whether DBT is appropriate for your specific situation. Don't assume it's the right fit or the wrong fit based on your diagnosis alone.
-
-### How long does DBT take to work?
-
-Most people in comprehensive DBT programs start noticing real skill gains within the first few months, but meaningful, sustained change typically takes six months to a year or more. DBT is not a short-term fix. I've seen clients who felt frustrated at month three and genuinely transformed by month nine. The timeline varies depending on the severity of struggles, consistency of practice, and quality of therapeutic fit.
-
-### Can I do DBT on my own, without a therapist?
-
-Workbooks and self-help resources can absolutely help you learn DBT skills, and there's nothing wrong with using them. But doing the full DBT model without a trained therapist isn't the same thing. If you're dealing with serious self-harm urges, significant suicidal ideation, or major impairment in daily functioning, please work with a professional rather than trying to manage it alone. Self-directed skill practice is a supplement, not a substitute.
-
-### What's the difference between a DBT therapist and a DBT-informed therapist?
-
-A trained DBT therapist has completed structured training in the full DBT model, practices all four components, and participates in a consultation team. A DBT-informed therapist uses DBT concepts and skills within their broader practice but may not offer the complete model. Neither label is automatically better, but they're not equivalent. Ask questions before committing to a provider.
-
-### Does DBT work for teens and adolescents?
-
-Yes, and there's a specifically adapted version called DBT-A (DBT for Adolescents) that's been well-studied. DBT-A also involves family members as part of the treatment, which makes sense given how much teens' emotional experiences are embedded in family dynamics. If you're a parent looking for support for a teenager, look specifically for therapists who mention DBT-A training.
 
 ---
 

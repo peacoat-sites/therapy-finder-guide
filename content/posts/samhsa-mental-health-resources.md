@@ -86,27 +86,6 @@ For self-guided support between sessions or while you wait for an appointment, s
 
 ---
 
-## Frequently Asked Questions
-
-### Is SAMHSA only for people with substance use problems?
-
-No. This is probably the most common misconception. SAMHSA's full mandate includes both mental health and substance use, and a large portion of its programs focus exclusively on mental health. Whether you're dealing with depression, anxiety, trauma, or a co-occurring disorder, SAMHSA's resources apply to you.
-
-### Can I get therapy directly through SAMHSA?
-
-SAMHSA itself doesn't provide therapy. It funds and supports the organizations that do. Your path through SAMHSA leads to local providers, not to SAMHSA staff directly. Use the treatment locator or National Helpline to find those providers.
-
-### Is the SAMHSA National Helpline really confidential?
-
-Yes. The National Helpline does not ask for personally identifying information and doesn't report your call to anyone. It's designed specifically to encourage people to reach out without fear of consequences.
-
-### What if I don't have insurance at all?
-
-This is exactly who SAMHSA-funded programs are designed to serve. Community mental health centers in SAMHSA's network are required to see patients regardless of ability to pay. Call the National Helpline at 1-800-662-4357 and explain your situation. They can identify no-cost or very low-cost options near you.
-
-### How is SAMHSA different from a crisis hotline?
-
-SAMHSA is the federal agency that funds and oversees crisis lines like 988, but calling SAMHSA's National Helpline is more of a resource and referral service than a crisis line. If you're in immediate distress, call or text 988. If you need help figuring out next steps for ongoing mental health care, the National Helpline is the right starting point.
 
 ---
 

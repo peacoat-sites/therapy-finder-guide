@@ -115,27 +115,6 @@ For a comprehensive look at how therapy costs are structured across different pa
 
 ---
 
-## Frequently Asked Questions
-
-### Is telehealth therapy as effective as in-person therapy?
-
-For most common mental health concerns, including depression, anxiety, PTSD, and OCD, research supports that telehealth therapy produces outcomes comparable to in-person treatment. The evidence base is strongest for CBT delivered via video. For severe or complex conditions requiring close clinical monitoring, in-person or higher levels of care are often more appropriate.
-
-### Can I get a psychiatric medication prescription through telehealth?
-
-Yes, in many cases. Telehealth psychiatry has expanded significantly, and many licensed psychiatrists and psychiatric nurse practitioners can prescribe medication via telehealth. Federal rules around controlled substances and telehealth prescribing have shifted over time, so it's worth confirming current regulations in your state with the provider directly.
-
-### What technology do I actually need?
-
-A smartphone, tablet, or computer with a working camera and microphone is sufficient for most telehealth therapy platforms. A stable internet connection helps. Many therapists also offer phone-only sessions if technology access is a barrier.
-
-### Is telehealth therapy private and secure?
-
-Licensed therapists are required by law to use HIPAA-compliant platforms. Before starting, ask your therapist which platform they use and confirm it meets privacy standards. On your end, using headphones and finding a private space significantly reduces the risk of others overhearing your session.
-
-### What if I have a crisis during a telehealth session?
-
-A trained therapist will have a safety plan in place before this happens. During your intake, your therapist should ask for your address and an emergency contact so they can act if needed. If you're experiencing a mental health emergency outside of a session, contact the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) by calling or texting 988, or go to your nearest emergency room.
 
 ---
 

@@ -125,27 +125,6 @@ If things feel urgent right now and you're experiencing thoughts of suicide or s
 
 ---
 
-## FAQ About Acceptance and Commitment Therapy
-
-### Is ACT the same as mindfulness therapy?
-
-Not exactly. ACT uses mindfulness techniques as one of its six core components, but it's broader than mindfulness alone. The explicit focus on values and committed action sets it apart. You're not just learning to observe your experience. You're learning to move toward what matters to you while you observe it.
-
-### How long does ACT treatment typically take?
-
-This varies significantly by person and presenting concern. Some research protocols for specific conditions run 8 to 12 sessions. Others work with an ACT therapist for a year or more. In my experience, many people notice meaningful shifts in the first 6 to 8 sessions, though deeper change takes time. This isn't a quick fix, and any therapist who promises it is should raise a red flag.
-
-### Can ACT help with physical health conditions?
-
-Yes, and this is one of ACT's more compelling applications. The evidence for ACT in chronic pain management is particularly strong. It's also been studied in the context of cancer, diabetes management, and other chronic illnesses, helping people build lives of meaning despite ongoing physical challenges.
-
-### Is ACT appropriate for children and adolescents?
-
-ACT has been adapted for younger populations, though the delivery looks different. Playful metaphors and stories replace some of the more abstract concepts. If you're considering therapy for a young person, our [child therapy guide for parents](/child-therapy-guide-for-parents/) covers how to evaluate different approaches and what age-appropriate therapy looks like in practice.
-
-### What if ACT doesn't work for me?
-
-That's a fair question to ask upfront. ACT is well-researched but it's not the right fit for every person or every situation. If it doesn't resonate, that's useful information, not a failure. Other approaches like DBT (particularly useful for emotional dysregulation) or trauma-focused work might be better suited. Our overview of [DBT therapy](/dbt-therapy-what-is-it/) is a good next read if you're exploring options.
 
 ---
 

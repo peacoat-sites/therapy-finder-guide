@@ -100,27 +100,6 @@ The couples who make the most progress are usually the ones who treat the therap
 
 ---
 
-## FAQ
-
-### How long does marriage counseling usually take?
-
-Most couples see meaningful movement within 12-20 sessions, though that varies a lot based on how complex the issues are and how consistently both partners engage. EFT research suggests 8-20 sessions on average. If you've been in therapy for 6 months and feel like you're going in circles, raise that directly with your therapist.
-
-### Can marriage counseling work if only one partner wants to go?
-
-Yes, actually. Individual therapy focused on relationship patterns (sometimes called "relationship coaching" or simply individual therapy with a relational focus) can shift dynamics even when only one person participates. It's not ideal, but it's not useless either. Some therapists also do "one person couples therapy" intentionally.
-
-### Is online marriage counseling as effective as in-person?
-
-The research here is still catching up, but early evidence suggests comparable outcomes for most couples. The main exception is high-conflict situations where a skilled therapist needs to physically manage the room, read body language closely, and intervene in real time. For moderate conflict or maintenance work, online is a reasonable choice.
-
-### What's the difference between marriage counseling and couples therapy?
-
-Mostly just terminology. In practice, the terms are used interchangeably. "Marriage counseling" sometimes implies a shorter, more advice-oriented approach, while "couples therapy" often suggests a deeper therapeutic process, but there's no standardized distinction. What matters is the therapist's training and approach, not what they call it on their website.
-
-### Should we try marriage counseling before deciding to divorce?
-
-It depends on whether ambivalence is real on both sides. If it is, discernment counseling (mentioned above) is a better fit than jumping into process therapy. If one person has emotionally checked out, therapy can clarify that faster than more years of limping along. Either outcome is information.
 
 ---
 

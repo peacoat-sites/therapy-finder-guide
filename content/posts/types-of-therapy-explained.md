@@ -118,27 +118,6 @@ The logistics of actually finding a therapist stop many people before they start
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know which type of therapy is right for me?
-
-Start with the concern you most want to address. Research suggests CBT and DBT are highly effective for anxiety and mood disorders, while trauma-specific approaches like EMDR or somatic therapy are better suited for PTSD and complex trauma. In practice, a good intake assessment with a therapist can help clarify this. You don't have to have it figured out before your first appointment.
-
-### Can therapy really help if I've tried it before and it didn't work?
-
-Absolutely, and this is more common than people think. A previous experience that didn't help might mean the approach wasn't the right match, the therapist wasn't the right fit, or the timing wasn't right. Different therapy types work differently, and sometimes a different model unlocks things a previous approach couldn't reach.
-
-### Is online therapy as effective as in-person therapy?
-
-For many conditions, yes. A growing body of research, including studies on telehealth CBT and DBT, shows comparable outcomes to in-person delivery. Some trauma work, particularly body-based approaches, may benefit from in-person contact, but many clients do meaningful trauma work online. It depends on your needs, your comfort with technology, and your therapist's judgment.
-
-### How long does therapy take?
-
-This varies enormously. CBT for a specific phobia might take 8 to 12 sessions. Processing a single traumatic event with EMDR might take 6 to 12 sessions. Long-standing patterns addressed through psychodynamic therapy might unfold over one to three years of weekly sessions. There's no universal answer, and any therapist who promises a specific timeline without knowing your situation is overpromising.
-
-### What if I can't afford therapy?
-
-Cost is a real barrier, and it deserves a real answer. Options include community mental health centers (which often use sliding scale fees), university training clinics where supervised graduate students offer lower-cost therapy, and open path collective or similar directories for reduced-fee providers. NAMI's helpline can also point you toward free resources in your area.
 
 ---
 

@@ -92,27 +92,6 @@ If you want to start building some CBT or DBT skills while you're waiting to see
 
 ---
 
-## Frequently Asked Questions
-
-### Can I do CBT and DBT at the same time?
-
-Yes, and many therapists integrate elements of both. If you're in a full DBT program, your individual therapist will typically use DBT protocols consistently rather than mixing them mid-session, but across your overall treatment lifetime, there's no conflict in learning both skill sets.
-
-### Which therapy is better for anxiety?
-
-CBT has more accumulated research specifically for anxiety disorders including generalized anxiety, panic, social anxiety, and OCD. DBT can help anxiety too, particularly when it's tied to emotional dysregulation, but CBT is typically the first-line recommendation from most clinical guidelines for anxiety.
-
-### Do I need a BPD diagnosis to try DBT?
-
-No. DBT was originally developed for borderline personality disorder, but clinicians now use it for eating disorders, PTSD, depression, adolescent self-harm, and anyone who struggles with intense emotion regulation. Your diagnosis (or absence of one) doesn't disqualify you.
-
-### How long does DBT take compared to CBT?
-
-CBT is often shorter, typically 12 to 20 sessions for a targeted issue. Standard DBT is usually a six-month to one-year commitment, sometimes longer for complex presentations. DBT-informed therapy with an individual therapist can be more flexible in length.
-
-### What if my therapist offers "CBT-informed" or "DBT-informed" rather than pure versions?
-
-This is extremely common and not a red flag. Most experienced clinicians draw from multiple evidence-based approaches rather than practicing in strict orthodoxy. What matters more is their training background, your rapport with them, and whether you're making progress. Ask them directly how they incorporate the approach and what that looks like in practice.
 
 ---
 

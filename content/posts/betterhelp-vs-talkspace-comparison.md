@@ -120,27 +120,6 @@ Getting into therapy shouldn't require a project plan. Here's the shortest path:
 
 ---
 
-## FAQ
-
-### Is BetterHelp or Talkspace actually effective?
-
-Research on text-based and video therapy shows outcomes comparable to in-person therapy for conditions like mild to moderate depression, generalized anxiety, and stress. A 2021 review published in *World Psychiatry* found telehealth mental health interventions broadly effective across multiple conditions. Neither platform has published independent clinical trial data on their specific products, so take their efficacy claims with appropriate skepticism. The therapeutic relationship and your consistency matter more than the delivery platform.
-
-### Can I use either platform if I'm a teenager?
-
-BetterHelp has a separate service called Teen Counseling for users aged 13-17, which requires parental consent. Talkspace also offers services for teens. Neither platform's standard adult service is appropriate for minors. Age verification is part of both intake processes.
-
-### What happens if I miss a week or want to pause?
-
-BetterHelp allows you to pause your subscription for up to four weeks, which stops billing during that period. Talkspace has a similar pause option. Both are easier to manage than most people expect. You won't lose your therapist match during a brief pause, though availability isn't guaranteed if you're gone for an extended period.
-
-### Are sessions on these platforms confidential?
-
-Yes, with the same legal exceptions that apply to all therapy: therapists are mandated reporters and are required to break confidentiality if there's credible risk of harm to yourself or others. Both platforms use encrypted communication and are HIPAA-compliant. That said, review each platform's current privacy policy. BetterHelp's 2023 FTC settlement is relevant context here.
-
-### What if I realize I need more support than these platforms offer?
-
-This happens, and recognizing it is a sign the process is working. If your therapist on either platform indicates they aren't the right level of care for your needs, take that seriously. Ask them for a referral, or use Psychology Today's directory to find in-person providers who specialize in your specific situation. Transitioning from online therapy to a higher level of care is normal and doesn't mean online therapy failed you.
 
 ---
 

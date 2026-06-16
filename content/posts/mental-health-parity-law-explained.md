@@ -109,27 +109,6 @@ But once the immediate crisis passes, parity law matters a lot in this context. 
 
 ---
 
-## Frequently Asked Questions
-
-### Does mental health parity mean my insurance has to cover any therapist I choose?
-
-No. Parity requires that the *rules* governing your mental health coverage be comparable to those governing medical coverage. If your plan uses a network, you're generally still limited to in-network providers unless your plan includes out-of-network benefits. What parity addresses is whether the network itself is adequate and whether the terms of accessing those benefits are equitable.
-
-### My insurer keeps denying my therapy claims as "not medically necessary." Is that a parity violation?
-
-It might be. Ask your insurer for the specific criteria they're using to make that determination, then compare them to criteria used for analogous physical health services. If the bar is measurably higher for mental health claims, you have the basis for a parity complaint. Your therapist's clinical notes and a letter of medical necessity from your provider can strengthen an appeal significantly.
-
-### I have Medicaid. Does parity law apply to my coverage?
-
-Medicaid managed care plans (the most common form of Medicaid) are generally subject to MHPAEA. Traditional fee-for-service Medicaid has some parity requirements under separate rules. The specifics vary by state, so contact your state Medicaid office or a patient advocate for clarity on your particular situation.
-
-### I only have 10 therapy sessions covered per year. Isn't that already a parity violation?
-
-Not automatically. The question is whether your plan imposes comparable limits on other outpatient services. If your plan caps outpatient physical therapy at 10 visits per year as well, that limit could be consistent with parity. If your therapist is capped at 10 visits but your physical therapist faces no such limit, that's the kind of disparity worth investigating.
-
-### Where do I actually report a parity violation?
-
-For employer-sponsored plans: the Department of Labor's Employee Benefits Security Administration (EBSA) at 1-866-444-3272. For individual or small group market plans: your state insurance commissioner's office. For Medicaid: your state Medicaid agency. Document everything before you call.
 
 ---
 

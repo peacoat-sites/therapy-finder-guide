@@ -85,27 +85,6 @@ Sleep is treated like a soft issue and it isn't. Trauma-related nightmares are o
 
 ---
 
-## FAQ
-
-### Does the VA cover mental health services for all veterans?
-
-Eligibility depends on discharge status and service history. Veterans with an honorable discharge and at least two years of active service are generally eligible, though other pathways exist. The VA's website has an eligibility checker, or you can call 1-800-827-1000 to find out where you stand before assuming you're covered or excluded.
-
-### What if I tried therapy before and it didn't help?
-
-That's more common than most resources admit. A bad fit with a therapist, or an approach that wasn't right for your specific symptoms, doesn't mean therapy doesn't work for you. Ask specifically about CPT or PE if you haven't tried them. The evidence base behind those protocols is substantially stronger than general talk therapy for trauma.
-
-### Is telehealth therapy as effective as in-person for veterans?
-
-For most conditions, yes. Studies published through 2025 show comparable outcomes for telehealth versus in-person for PTSD, depression, and anxiety. Some veterans strongly prefer telehealth because it removes transportation barriers and the discomfort of waiting rooms. Others find the distance makes it harder to open up. Try it and trust your own read.
-
-### Can family members of veterans access mental health support?
-
-They can and should. The VA offers caregiver support through the Program of Comprehensive Assistance for Family Caregivers (PCAFC), and many VA facilities provide couples counseling and family therapy. Military family stress is its own thing with its own treatment considerations, not just a generic relationship problem.
-
-### How do I talk to a veteran in my life about getting help?
-
-Skip the broad "you should talk to someone" suggestion, which lands as dismissal. Be specific: "I found a therapist who works specifically with veterans, want me to send you the information?" Concrete offers beat vague encouragement every time. And if they're in crisis, the Veterans Crisis Line at 988 (press 1) is staffed around the clock.
 
 ## Helpful Resources
 

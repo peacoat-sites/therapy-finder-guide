@@ -116,27 +116,6 @@ I know "just find a therapist" can feel like being told to "just apply for jobs.
 
 If you want to do some structured self-work in parallel while you're getting set up with professional care, CBT-based workbooks can be genuinely useful bridges. A book like *Mind Over Mood* by Greenberger and Padesky has solid evidence behind it. *(Note: this site may earn a commission if you purchase through affiliate links.)*
 
-## Frequently Asked Questions
-
-### Can I go to a support group instead of therapy if I can't afford therapy?
-
-Yes, and honestly, peer support is far better than no support. For many people, a well-facilitated support group combined with consistent self-care practices makes a meaningful difference. That said, if your symptoms are severe, a support group isn't a clinical substitute. Look into community mental health centers and sliding-scale options before writing off professional care entirely. Many people are surprised to find affordable options exist once they start looking.
-
-### What's the difference between a support group and group therapy?
-
-This one trips people up regularly. Group therapy is led by a licensed clinician, follows a treatment structure, and is a clinical service you typically pay for and may use insurance for. Support groups are peer-led (usually), free or low-cost, and are about community and shared experience rather than clinical treatment. Both happen in a group setting. They're very different things.
-
-### Will I have to share in a support group?
-
-Not right away, and often not at all if you don't want to. Most well-run support groups have a "no pressure" norm. You can observe for as long as you need. Many people find just listening in those early sessions is itself therapeutic. Once you hear someone articulate something you've been carrying alone, something shifts.
-
-### How do I know if a therapist is actually qualified?
-
-In the U.S., licensed therapists hold credentials like LCSW, LPC, LMFT, PhD, PsyD, or MD (for psychiatrists). You can verify licensure through your state's licensing board website. Credentials matter, but so does fit. A therapist can be technically excellent and still not be the right match for you. If after several sessions you feel consistently misunderstood or like you're not making any movement, it's okay to look for someone else.
-
-### Can I do both at the same time?
-
-Absolutely, and for many people this is the most effective combination. A therapist helps you build specific skills and process root issues. A support group provides ongoing community and normalizes your experience. They work in parallel, not in competition. Some therapists actively encourage their clients to attend support groups as part of a broader care plan.
 
 ---
 

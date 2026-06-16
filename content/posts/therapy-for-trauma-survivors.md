@@ -141,27 +141,6 @@ Some options worth exploring on Amazon: trauma-focused workbooks like *The PTSD 
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know if I have PTSD or just regular stress after a hard event?
-
-Only a licensed mental health professional can give you a formal PTSD diagnosis, so this is genuinely a question for a clinician. That said, some general distinctions exist. Stress after a difficult event that gradually fades over a few weeks is a normal response. PTSD is characterized by persistent symptoms lasting more than a month, including intrusive flashbacks or nightmares, persistent avoidance of reminders, negative changes in thinking and mood, and heightened startle response or hypervigilance. If you're wondering whether your experience crosses that line, that uncertainty itself is a good reason to speak with a therapist. You don't need a formal diagnosis to benefit from trauma-informed care.
-
-### Can trauma therapy actually make things worse?
-
-Temporarily feeling more activated or emotional during trauma processing is common and doesn't mean the therapy is harming you. However, therapy that moves too fast without adequate stabilization can lead to what's called "flooding," where you're overwhelmed beyond your window of tolerance. This is why therapist selection matters so much. A trauma-informed therapist actively monitors pacing. If you ever feel the work is moving too fast or that you're struggling to function between sessions, tell your therapist directly. Adjusting the pace is normal and appropriate.
-
-### What if I can't afford a trauma specialist?
-
-Community mental health centers often offer services on a sliding fee scale based on income. University training clinics provide supervised therapy at reduced rates. Open Path Collective is one example of a network connecting clients with therapists offering reduced-rate sessions. Some trauma-specific nonprofits also offer free or subsidized care, particularly for survivors of sexual assault or military trauma. Don't let cost be the final answer without exploring these avenues first.
-
-### Is it possible to heal from severe, long-term trauma?
-
-Yes, though the honest answer is that healing from complex trauma (the kind that results from prolonged, repeated trauma rather than a single incident) takes longer and benefits from specialized care. Complex PTSD carries its own distinct challenges, including impacts on identity, relationships, and emotional regulation. The progress can feel slower and less linear. But clinical evidence and lived experience both support that meaningful healing is possible. It may not mean erasing the past. It often means the past no longer controls your present.
-
-### Do I have to talk about what happened in detail for therapy to work?
-
-No. Some modalities, particularly somatic experiencing and certain EMDR protocols, work without requiring detailed verbal accounts of traumatic events. Even within talk-based approaches, a good trauma therapist will never pressure you to disclose more than you're ready for. The goal is always to work at the edge of your window of tolerance, not to push you over it. Your readiness and your pace matter.
 
 ---
 

@@ -125,27 +125,6 @@ If after your first session you decide the therapist isn't the right fit, or if 
 
 ---
 
-## FAQ
-
-### How long does a first therapy session last?
-
-Most intake sessions run 45 to 55 minutes, though some clinicians schedule a 75 or 90 minute initial appointment to allow more time for history-gathering. Ask when you book so you're not caught off guard. The session will feel shorter than you think, especially if you have a lot to cover.
-
-### Do I have to talk about my childhood in the first session?
-
-No. Your therapist may ask some background questions, but you're not obligated to share anything you're not ready to share. A good therapist will work at your pace. If you're in a shorter-term, goal-focused approach like CBT, childhood history may come up only as it's directly relevant to your current concerns.
-
-### What if I start crying and can't stop?
-
-You can. Therapists are trained to sit with emotional intensity and help you regulate, not to wrap things up quickly or feel uncomfortable with your distress. If you feel overwhelmed, it's okay to say "I need a moment." You're allowed to pause, breathe, and take your time.
-
-### Should I bring anything to the first session?
-
-Your insurance information if applicable, a list of any current medications, and anything you wrote down while preparing (notes on symptoms, questions you want to ask). You don't need files or records unless your therapist specifically requested them. Keep it simple.
-
-### What if I realize mid-session that I don't want to be there?
-
-That happens, and it's worth unpacking rather than just fleeing. Sometimes that discomfort is avoidance, the same avoidance that might have delayed making the appointment in the first place. Sometimes it's a genuine signal that the therapist isn't the right fit. Try to finish the session if you can, and then reflect honestly on what you were feeling and why. One session of discomfort isn't necessarily a reason to stop. Consistent discomfort, or a therapist who feels unsafe, is a different story.
 
 ---
 

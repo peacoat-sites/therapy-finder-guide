@@ -91,27 +91,6 @@ There's also a middle path: some therapists who don't take insurance directly wi
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know if a therapist is actually in-network with my specific plan?
-
-Your insurer may offer multiple plans under one company name, and a therapist might be in-network for one plan but not another. Always give the therapist your specific plan name and group number, not just the insurer's name, when you call to verify. Confirming this before your first appointment prevents surprise billing later.
-
-### What do I do if every in-network therapist I call isn't accepting new patients?
-
-Call your insurer and explicitly request a "network adequacy" complaint or ask them to help you locate an available provider. Insurers have a legal obligation under mental health parity laws to provide timely access to care. If they can't identify an available in-network provider, they may be required to cover an out-of-network provider at in-network rates. Ask about this directly.
-
-### Can I switch therapists mid-year if my first one isn't working out?
-
-Yes. There's no rule requiring you to stay with a therapist. You can switch to another in-network provider at any time. You may have already met part of your deductible, which could make the transition smoother financially. Good fit matters clinically, not just personally.
-
-### Does telehealth therapy count as in-network the same way as in-person?
-
-In most cases, yes, as long as the provider is licensed in your state and in-network with your plan. Since 2020, telehealth parity has expanded significantly, though coverage rules vary by state and plan. Always confirm telehealth is covered when you call to verify benefits.
-
-### What is mental health parity and does it protect me?
-
-The Mental Health Parity and Addiction Equity Act (MHPAEA) requires that insurers cover mental health services at parity with medical or surgical benefits. In plain terms, they can't impose stricter limits on mental health visits than they do on, say, physical therapy. If you believe your insurer is applying more restrictive rules to mental health care than to other medical care, you can file a complaint with your state insurance commissioner.
 
 ---
 

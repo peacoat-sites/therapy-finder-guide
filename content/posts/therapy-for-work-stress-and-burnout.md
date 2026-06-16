@@ -108,27 +108,6 @@ I've sat with enough people to know that the hesitation to start therapy is rare
 
 "What if I don't even know how to describe what I feel?" That's okay. You don't have to arrive with an articulate narrative. "I feel drained and I can't figure out why" is a perfectly valid way to start a first session.
 
-## FAQ
-
-### How is therapy for burnout different from regular stress management?
-
-Stress management, whether that's exercise, sleep hygiene, time management apps, or breathing techniques, addresses symptoms. Therapy goes deeper. It helps you understand the underlying patterns that create your particular version of burnout. Why do you say yes when you want to say no? Why does rest feel unsafe? Why does your worth feel so tied to your output? Those aren't questions a meditation app can answer, and they're often the questions that matter most for lasting change.
-
-### Can I do therapy virtually if I don't have time to travel to appointments?
-
-Yes, and for many people dealing with work stress, teletherapy is actually more sustainable. You don't lose time to a commute, and you can schedule sessions during a lunch break or early morning. Research published in journals like *JMIR Mental Health* has found teletherapy to be comparably effective to in-person therapy for anxiety and depression. Most therapists now offer video sessions as a standard option.
-
-### How do I talk to my employer about needing support for burnout?
-
-You don't have to. But if you want or need to, check whether your company has an Employee Assistance Program (EAP). EAPs are confidential programs offered by many employers that provide free short-term counseling, typically 3 to 8 sessions, at no cost to you. HR departments don't receive information about your participation. It's a completely underused resource.
-
-### What if my burnout is caused by a genuinely terrible workplace? Will therapy actually help?
-
-This is an honest and fair question. Therapy won't fix a toxic boss, an unrealistic workload, or a workplace culture that rewards overfunction. What it can do is help you clarify what you can and can't change, make decisions from a clearer headspace, set limits more effectively, and process the impact that environment has had on you. Sometimes therapy helps people stay and navigate better. Sometimes it helps people get clear that leaving is the right choice. Both are legitimate outcomes.
-
-### How long does therapy for burnout typically take?
-
-It depends on the depth of what you're dealing with and the type of therapy. For someone whose burnout is relatively recent and situational, 8 to 12 sessions of CBT can produce real results. For someone with longer-standing patterns, deeper anxiety, or burnout that has developed over years, the work often takes longer. Your therapist should give you a working sense of the timeline after the first couple of sessions. If they can't speak to this at all, it's okay to ask directly.
 
 ---
 

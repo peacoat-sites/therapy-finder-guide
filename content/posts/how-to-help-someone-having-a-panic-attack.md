@@ -132,27 +132,6 @@ The research on mindfulness-based interventions for panic disorder is mixed at t
 
 ---
 
-## FAQ
-
-### Can you make a panic attack worse by accident?
-
-Yes, easily. Expressing alarm, asking too many questions, or physically crowding someone can intensify the sense of danger the nervous system is already broadcasting. The calmer and slower you are, the more regulated your own voice and body, the more you help rather than escalate.
-
-### Should I try to move someone who's having a panic attack?
-
-Only if they're somewhere physically unsafe. Otherwise, let them stay where they are. Moving requires coordination and decision-making, both of which are hard mid-panic. If the environment is loud or chaotic and you can offer a quieter space nearby, ask first. Don't steer.
-
-### What if they insist it's a heart attack and want to call 911?
-
-Let them. Seriously. Don't argue or try to convince someone mid-panic that they're wrong about their body. If it turns out to be a panic attack, the ER can confirm that, and a physician ruling out cardiac involvement is actually useful data. The bigger mistake is dismissing it.
-
-### How do I help someone who won't let me help?
-
-Some people need to be alone during a panic attack. If they're insisting on space, honor it while staying within earshot. "I'll be right over here" is the right answer. Don't withdraw completely. Don't hover. It's an uncomfortable middle, but it's what the person is asking for.
-
-### Is it useful to remind someone that panic attacks aren't dangerous?
-
-After the acute phase, maybe. During it, usually not. "This isn't dangerous" competes with every signal the person's body is sending, and their body is louder than you are right now. Save the psychoeducation for when they've had water and ten minutes to breathe.
 
 ---
 

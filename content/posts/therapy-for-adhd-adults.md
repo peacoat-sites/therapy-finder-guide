@@ -106,29 +106,6 @@ For a practical walkthrough of the whole search process, [how to find the right 
 
 A few ADHD-specific tools can also support what you're doing in therapy. Structured journals designed around CBT principles, like the [Cognitive Behavioral Therapy Workbook for Adults](https://www.amazon.com/s?k=CBT+workbook+for+adults+ADHD) (Amazon, and yes, this site may earn a small commission on purchases), give you a between-session anchor. Mindfulness apps like Headspace or Calm can reinforce the distress tolerance skills you build in DBT-based work. They're not replacements for therapy, but they help you practice.
 
-## FAQ
-
-### Is therapy alone enough to treat ADHD in adults, or do I need medication too?
-
-There's no single right answer here, and it depends on the severity of your symptoms, your specific challenges, and what you want to address. For some adults, therapy alone provides enough structure and skill-building to make a meaningful difference. For others, medication significantly reduces symptom severity and makes therapeutic work more accessible. Many people do best with both. This is a conversation to have with a psychiatrist or your prescribing physician alongside your therapist.
-
-### How long will I need to be in therapy for ADHD?
-
-Structured CBT programs for adult ADHD typically run 12 to 20 sessions, though many people continue therapy beyond that to address co-occurring issues or build on skills. Some people do a focused course of therapy, take a break, and return during stressful periods. It's not a lifelong sentence, but it's also not a five-session fix. Be realistic with yourself and your therapist about your goals.
-
-### I've never been formally diagnosed. Can I still benefit from therapy targeting ADHD symptoms?
-
-A formal diagnosis isn't required before you seek therapy. However, getting a proper evaluation from a psychologist or psychiatrist is genuinely valuable. ADHD overlaps symptomatically with anxiety, depression, sleep disorders, and trauma, and a clear diagnosis helps ensure you're getting treatment targeted at the actual source of your struggles rather than the secondary symptoms. A therapist can also refer you to someone for evaluation if you haven't been formally assessed.
-
-### Can therapy help with ADHD-related relationship problems?
-
-Absolutely. ADHD affects partners, families, and friendships in real ways, from forgotten commitments to emotional reactivity to the exhausting dynamic where one partner handles most of the household management. Individual therapy helps you understand and change your patterns. Couples work can help both partners understand what ADHD is actually doing to the relationship and build fairer, more workable dynamics. Our guide to [how couples therapy works](/couples-therapy-how-it-works/) covers what that process looks like.
-
-### What if I've tried therapy before and it didn't help?
-
-This comes up a lot. The most common reason therapy doesn't land for adults with ADHD is a mismatch between the therapy style and the ADHD brain. Open-ended, unstructured approaches can feel pointless or frustrating. If your previous therapist didn't use a structured, skills-based modality like CBT or DBT, it may be worth trying again with a provider specifically trained in those approaches. A bad fit isn't evidence that therapy can't work for you.
-
-Getting support for ADHD as an adult isn't about fixing a flaw. It's about finally having tools that match how your brain actually works. The right therapist, the right modality, and the patience to build skills over time can shift a lot. You've spent years adapting to a world designed for brains that work differently than yours. Some targeted, practical help isn't a luxury. It's just overdue.
 
 ## Helpful Resources
 

@@ -109,27 +109,6 @@ The other thing worth knowing: under federal parity law (the Mental Health Parit
 
 ---
 
-## FAQ
-
-### Is calling 988 really confidential? Will they send police?
-
-Calls to 988 are confidential. Counselors operate under the same confidentiality principles as licensed therapists. Emergency services are only contacted in situations where a counselor determines there is an imminent risk of harm and no other option is available. This represents a very small percentage of calls. The vast majority of conversations stay between you and the counselor.
-
-### Can I get real therapy for free, or is it always a compromise?
-
-Community mental health centers and university training clinics offer genuinely structured, ongoing therapy at no cost. University clinics in particular provide evidence-based treatment under licensed supervision. It's not a lesser product. It's a different delivery model, and for many people it works well.
-
-### What if I don't want to talk, I just need information?
-
-SAMHSA's National Helpline (1-800-662-4357) is specifically designed as an information and referral service. You don't have to be in crisis. You can call to ask: "What options exist for someone in my situation?" They'll help you find local services.
-
-### Are mental health apps actually effective?
-
-The honest answer is: for some things, in some contexts, yes. Apps built on CBT principles, like MindShift, have reasonable evidence behind them for mild to moderate anxiety and mood issues. They are not effective replacements for clinical care for serious mental health conditions. Think of them as a supplement or a bridge, not a ceiling.
-
-### How do I support someone else who needs help but won't reach out?
-
-You can't force someone into care, and trying to tends to backfire. What you can do is reduce the friction. Offer to sit with them while they make a call. Look up the nearest community health center so they don't have to do that work alone. Remind them that 988 exists and you can text together if that feels easier. Being a consistent, non-pressuring presence matters more than any single resource.
 
 ---
 

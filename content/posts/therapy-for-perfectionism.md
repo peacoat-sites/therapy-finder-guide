@@ -76,27 +76,6 @@ Progress is rarely linear. Most people I've worked with describe a period around
 
 ---
 
-## Frequently Asked Questions
-
-### Is perfectionism a form of anxiety?
-
-Often, yes. Perfectionism and anxiety are deeply intertwined, and many people with clinical perfectionism meet criteria for an anxiety disorder. That said, perfectionism also shows up alongside depression and OCD, so it's worth getting a full picture from a professional rather than assuming one diagnosis explains everything.
-
-### Can therapy really change something that feels like part of my personality?
-
-It can change how much perfectionism runs your behavior and your emotional life, even if certain tendencies stick around. Most people don't lose all their drive or attention to detail; they lose the paralysis, the shame spiral, the inability to finish things. That's a meaningful change even if you'd never describe yourself as easygoing.
-
-### How long does therapy for perfectionism typically take?
-
-This varies a lot depending on severity and approach. Short-term CBT protocols might run 10 to 16 sessions. If perfectionism is tied to deeper patterns, therapy could extend considerably longer. A good therapist will give you a rough timeline after the assessment phase, and you should feel comfortable asking.
-
-### Should I look for a therapist who specializes in perfectionism specifically?
-
-You don't need that label, but you do want someone experienced with anxiety, OCD, or the modalities listed above. Ask about their specific approach and whether they've worked with people whose perfectionism is affecting their work, relationships, or daily functioning. That conversation will tell you a lot.
-
-### My perfectionism helps me succeed. Why fix it?
-
-This is worth sitting with honestly. Adaptive perfectionism (high standards, conscientiousness, pride in your work) is real and valuable. The clinical kind is the version that's costing you more than it's giving you. If you're sleeping fine, finishing things, and not in constant dread of evaluation, maybe there's nothing to fix. If the opposite is true, the success is probably happening despite the perfectionism, not because of it.
 
 ## Helpful Resources
 

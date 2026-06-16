@@ -127,27 +127,6 @@ The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) maintain
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know if I actually need therapy or just need to make lifestyle changes?
-
-Both can be true at once. Lifestyle factors like sleep, exercise, and social connection genuinely affect mental health. But if you've been trying to manage on your own and things aren't shifting, that's useful information. Therapy isn't a last resort after everything else has failed. A professional assessment can help you figure out what's driving what -- which lifestyle changes are actually helpful, and what might need more direct support.
-
-### What if I start therapy and decide I don't like my therapist?
-
-Change therapists. Seriously. The therapeutic relationship is one of the strongest predictors of outcomes -- not the modality, not the credentials, but the fit between you and the specific person across from you. It can feel awkward to leave, but a good therapist will support you in doing so. You can ask for a referral, or simply thank them and find someone else.
-
-### Can therapy make things worse?
-
-Temporarily, yes. Engaging with difficult material can increase distress in the short term. This is different from therapy being harmful. True harm in therapy -- boundary violations, unethical behavior, a therapist who reinforces harmful beliefs -- is a different category and should be reported. If you feel genuinely unsafe or that your therapist is behaving unethically, you can file a complaint with your state licensing board.
-
-### Do I have to talk about my childhood?
-
-Not necessarily. Some therapy approaches are entirely focused on present patterns and current functioning. Psychodynamic work goes deeper into history, but even then, the pace is yours. You're not obligated to go anywhere you're not ready to go. A good therapist follows your lead.
-
-### How long will I need to be in therapy?
-
-It depends on what you're working on, the approach being used, and how you respond. CBT for a specific phobia might wrap up in 12 sessions. Processing complex trauma might take years. Most people find that even a relatively short course of therapy (three to six months) produces meaningful change. Ongoing therapy for long-term support is also legitimate -- this isn't a race to the exit.
 
 ---
 

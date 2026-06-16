@@ -113,27 +113,6 @@ I know it feels like a lot of steps, but I've watched people skip these and then
 
 ---
 
-## FAQ
-
-### Is therapy worth it if I'm paying completely out of pocket?
-
-For many people, yes, and the research supports this fairly clearly. Cognitive behavioral therapy (CBT), for example, has decades of randomized controlled trial evidence behind it for conditions like depression, anxiety disorders, and PTSD. The harder question is whether a particular therapist is worth a particular price for your particular situation, and that's genuinely hard to know without trying. Most therapists offer a brief consultation call, often free, before you commit to sessions. Use it. Ask about their approach, how they've helped people with similar concerns, and what progress typically looks like.
-
-### What's the difference between a therapist, psychologist, and psychiatrist when it comes to cost?
-
-Generally, psychiatrists charge the most because they're physicians. They primarily handle medication management, though some do talk therapy. Psychologists hold doctoral degrees (PhD, PsyD) and typically charge more than master's-level clinicians. Licensed clinical social workers (LCSWs), licensed professional counselors (LPCs), and licensed marriage and family therapists (LMFTs) hold master's degrees and often charge lower rates than psychologists. For most common mental health concerns, a master's-level therapist is fully qualified to help you.
-
-### How often do I actually need to go to therapy?
-
-Weekly sessions are standard, especially at the beginning, because consistency accelerates progress. But some therapists offer biweekly sessions for clients in maintenance phases or for those with budget constraints. Talk to your therapist about this honestly. Starting biweekly with a commitment to reassess in a month is a reasonable approach if weekly sessions aren't financially sustainable.
-
-### What if I'm in crisis and can't afford any of these options right now?
-
-Call or text 988. The 988 Suicide and Crisis Lifeline (988lifeline.org) connects you with a trained crisis counselor, free, 24 hours a day. This is not just for people who are suicidal. It's for anyone in acute emotional distress who needs to talk to someone right now. Local crisis centers and hospital emergency departments are also options for immediate mental health emergencies. Don't let cost keep you from getting help in a genuine crisis.
-
-### Can I negotiate the fee with a therapist directly?
-
-Yes, and more therapists are open to this than most people expect. Be straightforward. Something like: "I really want to work with you and I've read your profile carefully. My budget is X per session. Is that something you'd be able to accommodate, even temporarily while I'm in a financial bind?" The worst they can say is no. Many will either agree, offer a middle number, or refer you to someone who can help at your price point.
 
 ---
 

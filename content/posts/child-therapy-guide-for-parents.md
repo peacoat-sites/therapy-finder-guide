@@ -129,27 +129,6 @@ Finally, your own involvement matters. Many child therapists will give you strat
 
 ---
 
-## FAQ
-
-### How long will my child need to be in therapy?
-
-There's no single answer, but it's worth having realistic expectations. Short-term, focused therapies like TF-CBT or PCIT are often structured around 12 to 25 sessions. Longer-standing concerns or more complex situations may take longer. Ask your therapist for their initial sense of a timeline at the start, and revisit the question every couple of months. Therapy shouldn't feel like an indefinite commitment with no direction.
-
-### What if my child refuses to go?
-
-This is common, especially with anxious or oppositional kids. Give them as much information as possible about what to expect, so there's no fear of the unknown. Go to the first session yourself if needed, and let them know they can just sit and color if they're not ready to talk. Most good child therapists are skilled at building rapport with reluctant kids. If refusal continues past several sessions and isn't improving, discuss it openly with the therapist. It may be a sign that the fit isn't right, or that a different approach is needed.
-
-### Does my child's school have any role in this?
-
-School counselors can be a valuable bridge, but they're not a substitute for therapy. They typically have large caseloads and limited time for regular individual support. That said, with your permission, a therapist can sometimes coordinate with teachers or school counselors to create a more consistent support environment for your child. This is especially helpful for kids whose challenges are showing up primarily at school.
-
-### How do I find affordable therapy if we don't have good insurance?
-
-Community mental health centers often offer sliding-scale fees based on household income. University training clinics, where supervised graduate students provide therapy, are another option and tend to be lower cost. Some private therapists also offer reduced fees for families in need, so it's worth asking directly. SAMHSA's treatment locator is a practical place to start if cost is a barrier.
-
-### What if I think the therapist isn't a good fit?
-
-Change therapists. Seriously. The research on therapeutic alliance, meaning the quality of the relationship between client and therapist, shows it's one of the strongest predictors of outcome. If your child dreads sessions, feels unheard, or isn't making any progress after two or three months, it's not giving up to look for someone else. It's advocating for your child. Most therapists understand this and won't take it personally. You can even ask your current therapist for a recommendation if the relationship has been respectful.
 
 ---
 

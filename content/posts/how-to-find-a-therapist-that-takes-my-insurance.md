@@ -116,27 +116,6 @@ For a lot of people starting therapy without a specific diagnosis or presenting 
 
 ---
 
-## FAQ
-
-### How do I know if a therapist is really in-network before my first appointment?
-
-Call your insurance company and verify the therapist's NPI number (a unique provider identifier) directly. Don't rely only on the therapist's website or your insurer's directory. Ask the insurance rep to confirm the provider is in-network for your specific plan, not just the company in general, because a therapist can be in-network for some plans under an insurer and not others.
-
-### What's the difference between a copay and coinsurance for therapy?
-
-A copay is a flat fee you pay per session (like $30 each time). Coinsurance means you pay a percentage of the session cost after meeting your deductible, often 20% to 40%. Coinsurance can add up faster than people expect, especially early in a plan year when the deductible hasn't been met yet.
-
-### Can I get reimbursed if I've already seen an out-of-network therapist without knowing?
-
-Possibly, if your plan includes out-of-network benefits. Ask your therapist for a superbill, then submit it to your insurer with a claim form. The reimbursement rate and process varies significantly by plan. It's not guaranteed, but worth asking before you write off those sessions as a total loss.
-
-### What if I can't afford therapy even with insurance?
-
-Community mental health centers, FQHCs, and Open Path Collective are all real options with lower costs. Some university training clinics also offer therapy at reduced rates with supervised graduate students providing the sessions. Sliding scale fees are common and most therapists won't make you justify your financial situation in detail to qualify.
-
-### Do I need a referral from my doctor to see a therapist?
-
-It depends on your plan. HMO plans often require a referral from your primary care physician. PPO plans usually don't. When you call your insurance company, this is one of the direct questions to ask, because getting it wrong can mean a claim is denied after the fact.
 
 ---
 

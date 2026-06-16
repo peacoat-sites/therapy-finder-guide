@@ -100,27 +100,6 @@ Therapy without medication can absolutely be effective, particularly for mild to
 
 ---
 
-## FAQ
-
-### How long does therapy for depression usually take?
-
-There's no universal answer, which is frustrating but true. Structured therapies like CBT often show measurable improvement within 8 to 12 sessions. Some people feel meaningfully better after 6. Others with chronic or treatment-resistant depression may benefit from longer-term work. The honest answer is to reassess with your therapist after 8 sessions and ask directly whether you're making progress.
-
-### Can online therapy work just as well as in-person therapy for depression?
-
-For many people, yes. A 2021 meta-analysis published in *World Psychiatry* found that video-based CBT produced outcomes comparable to face-to-face delivery for depression. Platforms like Telehealth services through your insurance, or directories like Psychology Today's online filter, can connect you with licensed therapists remotely. That said, severe depression or co-occurring conditions may call for more intensive, in-person care. Talk to a provider about what fits your situation.
-
-### What should I do if I can't afford therapy right now?
-
-Start with NAMI's helpline (1-800-950-NAMI) for local resource navigation. Check whether your employer offers an Employee Assistance Program, which often includes free short-term counseling sessions. Look for community mental health centers in your area, which typically use income-based sliding scales. University psychology departments often provide low-cost therapy through supervised clinics. And open-access apps like Woebot or resources through your primary care doctor can serve as bridges while you work toward a longer-term solution.
-
-### Is it normal to feel worse before feeling better in therapy?
-
-Sometimes, yes. Early therapy can bring up painful material, and the process of confronting difficult emotions isn't always comfortable. But "worse" should be temporary and should feel like productive discomfort rather than genuine deterioration. If you feel significantly worse after several sessions, tell your therapist directly. That feedback matters. Therapy that makes you consistently more distressed without any sense of progress may not be the right fit.
-
-### How do I know if my therapist is actually qualified?
-
-Check their licensure. In the United States, therapists should hold credentials like LCSW (Licensed Clinical Social Worker), LPC (Licensed Professional Counselor), LMFT (Licensed Marriage and Family Therapist), or PhD/PsyD (psychologist). You can verify licenses through your state's licensing board website. Be cautious of anyone who can't clearly explain their credentials or their treatment approach, or who makes guarantees about outcomes.
 
 ---
 

@@ -102,27 +102,6 @@ A structured CBT journal like [The Couples Therapy Workbook](https://www.amazon.
 
 ---
 
-## FAQ
-
-### Is premarital counseling only for couples with problems?
-
-No, and this misunderstanding stops a lot of people from going. Premarital counseling is most valuable when nothing is overtly wrong. You're building systems and skills before you need them under pressure. Think of it the way you'd think of financial planning: you don't wait until you're broke to start.
-
-### How many sessions does premarital counseling usually take?
-
-Most premarital programs run between four and eight sessions. Some couples do more, especially if significant topics emerge that need more time. Faith-based programs like Pre-Cana (Catholic) have their own formats, often weekend intensives plus follow-up sessions. There's no single right answer. Enough sessions to cover the major topics without rushing, and without padding.
-
-### What if my partner is reluctant to go?
-
-This is common, and the resistance is usually about stigma or fear of being "analyzed." It helps to reframe it away from therapy-as-problem-detection toward therapy-as-skill-building. Some partners respond better to the statistical argument: premarital counseling consistently correlates with higher marital satisfaction. Others respond to hearing that even one session of couples communication training can shift interaction patterns. If genuine reluctance persists, it's worth asking what's underneath it, and that conversation itself might tell you something useful.
-
-### Does premarital counseling actually reduce divorce rates?
-
-The research is positive, though not magic. A meta-analysis published in the Journal of Family Psychology found that couples who participated in premarital education had meaningfully stronger relationship outcomes on average. No one can guarantee your marriage will succeed. What the data shows is that preparation improves the odds, and that couples who engage in it tend to handle conflict better over time. That's a realistic framing, not a sales pitch.
-
-### When should we start premarital counseling?
-
-Earlier than you think. Ideally, start three to six months before the wedding, not three weeks before. You want enough time to surface difficult topics and actually work through them, not just check a box. If something significant comes up in session, you want room to address it without a venue deposit and 150 RSVPs hanging over the conversation.
 
 ---
 

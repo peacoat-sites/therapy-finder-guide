@@ -123,27 +123,6 @@ If your therapist is using cognitive behavioral therapy approaches, a structured
 
 ---
 
-## Frequently Asked Questions
-
-### Is therapy worth the cost if I only go a few times?
-
-Short-term therapy can absolutely be valuable. Some evidence-based approaches, like Solution-Focused Brief Therapy (SFBT) and certain CBT protocols, are designed to produce meaningful results in 8 to 16 sessions. That said, deeper work on long-standing patterns, trauma, or personality-level issues often takes longer. A few sessions may give you tools and clarity even if you can't sustain ongoing treatment right now.
-
-### Can I deduct therapy costs on my taxes?
-
-Possibly. In the United States, unreimbursed medical expenses, including therapy, can be deducted if they exceed 7.5% of your adjusted gross income and you itemize deductions. Therapy paid through a Health Savings Account (HSA) or Flexible Spending Account (FSA) uses pre-tax dollars, which effectively reduces your cost. Talk to a tax professional about your specific situation.
-
-### What's a superbill, and should I ask for one?
-
-A superbill is an itemized receipt that out-of-network therapists provide so you can submit a claim to your insurance for partial reimbursement. Not all plans reimburse for out-of-network services, but many PPO plans do. If you're seeing an out-of-network therapist you really connect with, ask them about superbills and then call your insurance company to find out your out-of-network reimbursement rate before committing.
-
-### How do I know if a cheaper therapy option is still quality care?
-
-Credentials and licensure are your first checkpoint. In the US, look for licensure designations like LCSW, LPC, LMFT, PhD, or PsyD. You can verify a therapist's license through your state's licensing board website. Lower cost doesn't automatically mean lower quality: community mental health clinicians and supervised trainees often provide excellent care. What matters most is the therapeutic relationship and the use of evidence-based approaches.
-
-### What if I can't afford therapy at all right now?
-
-You still have options. NAMI operates a helpline (1-800-950-6264) staffed by trained volunteers who can help you find local resources. Crisis Text Line (text HOME to 741741) is free and available 24/7 for moments of acute distress. Many communities have peer support groups, which are free and can provide meaningful connection and coping support. And self-directed tools, like CBT workbooks or mindfulness practices, can offer real benefit while you work toward accessing professional care.
 
 ---
 

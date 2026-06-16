@@ -104,27 +104,6 @@ For people who want to go deeper on the CBT skills these apps are built on, I'd 
 
 ---
 
-## FAQ
-
-### Are therapy apps a replacement for real therapy?
-
-No, and any app that implies otherwise is misleading you. Apps can be excellent tools for daily support, skill-building, and mood tracking, but they don't offer the clinical assessment, diagnostic capability, or relational depth that licensed therapy provides. Think of them as useful supplements, not substitutes.
-
-### Is Woebot actually evidence-based?
-
-More so than most. A 2017 study in *JMIR Mental Health* showed meaningful reduction in depression and anxiety symptoms over two weeks in college students. The sample was small and the timeframe short, but it's a peer-reviewed randomized controlled trial, which puts Woebot ahead of the vast majority of competing apps that cite no research at all.
-
-### What if I can't afford therapy apps or want free options?
-
-Woebot is free. Daylio has a functional free version. Many NAMI (National Alliance on Mental Illness) resources are free at nami.org, including their peer-support warmlines. If you're looking for low-cost professional care, Psychology Today's directory lets you filter for sliding-scale therapists.
-
-### Are these apps safe if I'm in a mental health crisis?
-
-No app is an appropriate substitute for crisis support. If you're in immediate distress, call or text 988 (Suicide and Crisis Lifeline) or go to your nearest emergency room. Apps like Woebot and Sanvello are designed for ongoing daily support, not acute intervention.
-
-### How do I know which app is right for me?
-
-Honestly, it depends on what you're missing. If you feel disconnected from your emotional patterns, start with a mood tracker like Daylio. If you want skill-building and psychoeducation, Woebot or Sanvello. If stress and sleep are your primary issues, Headspace. Give any app at least two weeks before deciding it doesn't work: the first few days are usually the awkward learning curve, not the real experience.
 
 ---
 

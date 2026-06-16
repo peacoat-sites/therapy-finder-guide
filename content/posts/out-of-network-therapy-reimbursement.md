@@ -92,27 +92,6 @@ If you're in acute crisis and cost is the barrier, please don't wait on paperwor
 
 ---
 
-## Frequently Asked Questions
-
-### Can my therapist bill my insurance directly if they're out-of-network?
-
-Sometimes, yes. This is called "single-case agreements," where an insurer grants an out-of-network provider temporary in-network status for a specific patient, usually when there's no in-network provider with the required specialty nearby. They're not common and require initiative from both you and your therapist, but they're worth asking your insurer about if your situation warrants it.
-
-### What if my claim is denied?
-
-Request the denial reason in writing. Common reasons include missing information, wrong CPT code, or a service classified as not medically necessary. Each of these is appealable. Write a formal appeal letter, include the superbill, any clinical notes your therapist is willing to provide, and cite the specific plan language that supports your claim. First-level appeals succeed more often than people expect.
-
-### Does out-of-network coverage apply to telehealth therapy?
-
-Generally yes, though this varies by plan and state. Telehealth parity laws in many states require insurers to cover telehealth at the same rate as in-person visits. Call your insurer to confirm, and make sure your therapist uses the correct telehealth-specific modifier on the superbill (usually modifier 95 or GT).
-
-### What's the difference between an out-of-network deductible and my regular deductible?
-
-Most plans have two separate deductibles: in-network and out-of-network. The out-of-network deductible is almost always higher. You have to meet it before reimbursement starts. Some plans apply out-of-network spending toward your out-of-pocket maximum; others don't. This is one of the most confusing parts of the process, so get it clarified on that first call.
-
-### Should I use an out-of-network therapist if I can barely afford the copay for an in-network one?
-
-Probably not, unless you're very confident about the reimbursement math and have cash flow to bridge the gap between paying sessions and receiving reimbursement checks. In-network care at a manageable cost beats out-of-network care that creates financial stress. That said, sliding scale rates from out-of-network therapists sometimes end up cheaper than in-network copays. Compare actual numbers before deciding.
 
 ---
 

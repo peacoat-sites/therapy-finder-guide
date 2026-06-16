@@ -105,27 +105,6 @@ There are also meaningful CBT offshoots worth knowing about. Dialectical Behavio
 
 ---
 
-## Frequently Asked Questions
-
-### How is CBT different from regular talk therapy?
-
-Traditional "talk therapy" often refers to psychodynamic or person-centered approaches, which focus on exploring past experiences, relationship patterns, and self-understanding over a longer timeframe. CBT is shorter-term, more structured, and focused on specific current problems and skill-building. Both have value, but they suit different goals and presentations. Some therapists integrate elements of both.
-
-### Can CBT work for physical symptoms like chronic pain or insomnia?
-
-Yes, and there's strong research backing this. CBT for Insomnia (CBT-I) is now considered the first-line treatment for chronic insomnia by the American College of Physicians, ahead of sleep medication. CBT has also shown meaningful results for irritable bowel syndrome, chronic fatigue, and pain management. The mechanism involves changing the thoughts and behaviors that maintain and amplify physical symptoms, not dismissing them as "just in your head."
-
-### Do I need a diagnosis to start CBT?
-
-No. Many people start CBT without a formal psychiatric diagnosis. You might simply be dealing with persistent stress, relationship conflict, low self-esteem, or work-related burnout. CBT is skill-based, and those skills are useful across a wide range of human struggles. That said, a formal assessment from a qualified clinician can help identify whether there's an underlying condition that should inform your treatment plan.
-
-### What if I can't afford a private therapist?
-
-There are real options here. Community mental health centers often provide sliding-scale or low-cost therapy. Open Path Collective is a network of therapists who offer reduced-fee sessions specifically for people who can't afford standard rates. University training clinics, where graduate-level therapists work under close supervision, typically charge significantly less than private practice. Telehealth platforms have also made lower-cost CBT-based therapy more accessible. Some apps like Woebot and MoodKit incorporate CBT principles, though they're not a substitute for working with a licensed clinician.
-
-### How quickly does CBT work?
-
-This depends heavily on what you're treating and how consistently you practice between sessions. Some people notice meaningful change within four to six sessions. Research on CBT for panic disorder often shows significant symptom reduction within eight to twelve sessions. Depression typically takes a bit longer. There's no universal timeline, and comparing your progress to someone else's is rarely useful. What the research does show clearly is that active engagement with the homework component is one of the strongest predictors of speed of change.
 
 ---
 

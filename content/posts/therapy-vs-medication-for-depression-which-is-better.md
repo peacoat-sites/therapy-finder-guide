@@ -90,27 +90,6 @@ Previous history is useful information. If you had a relative for whom a particu
 
 ---
 
-## FAQ
-
-### Is therapy or medication better for long-term depression?
-
-For chronic, long-term depression, research generally supports a combination of both, but therapy may provide more lasting benefit after treatment ends because it builds skills that remain with you. Medication is appropriate for long-term maintenance in many cases as well, particularly with recurrent depression. This is genuinely a question to work out with a psychiatrist or therapist who knows your history.
-
-### Can I do therapy without medication for severe depression?
-
-It's possible, but the evidence suggests severe depression responds better to medication, often in combination with therapy. Severe symptoms can make it hard to engage with and benefit from therapy alone. A psychiatrist can help you assess where you fall on the severity spectrum and what's appropriate.
-
-### How long does it take to know if antidepressants are working?
-
-Most clinicians recommend a four to six week trial at a therapeutic dose before assessing whether a medication is working. Some people notice changes in sleep and energy earlier, with mood improvements following later. Don't stop medication without talking to your doctor first, even if you're not sure it's helping.
-
-### What if I can't afford therapy or don't have insurance?
-
-Community mental health centers offer sliding-scale fees based on income. Open Path Collective connects people with therapists at reduced rates (roughly $30 to $80 per session). University training clinics often offer low-cost sessions with supervised graduate students. NAMI's helpline can also point you toward local resources.
-
-### Will I have to be on antidepressants forever?
-
-Most people with a first episode of depression take antidepressants for six to twelve months, then taper under medical guidance. Whether you continue long-term depends on your history of recurrence and how you do after stopping. It's a conversation, not a life sentence.
 
 ## Helpful Resources
 

@@ -85,27 +85,6 @@ Community mental health centers, university training clinics, and open path coll
 
 ---
 
-## FAQ
-
-### Can I use my FSA or HSA for couples therapy?
-
-It depends on how it's billed. If a licensed therapist is treating one or both partners for a diagnosed mental health condition like anxiety or depression, and bills it as such, it may qualify. General relationship coaching with an unlicensed provider typically doesn't. Ask your therapist how they code the sessions before assuming.
-
-### What happens to unspent FSA money at the end of the year?
-
-This varies by employer plan. Some plans offer a rollover of up to $640 (2024 IRS limit), others offer a grace period of up to two and a half months into the new year, and some offer neither. Check your specific plan documents during open enrollment, not after December 1.
-
-### Can I use an HSA for therapy if I've already met my deductible?
-
-Yes. Once you've met your HDHP deductible, your insurance typically starts covering costs, but you can still use your HSA for any remaining out-of-pocket costs like copays or coinsurance. There's no rule requiring you to exhaust insurance first.
-
-### My therapist doesn't accept insurance. Can I still use my FSA or HSA?
-
-Yes, and this is actually one of the best use cases for these accounts. Pay your therapist directly, request a superbill, and submit it to your FSA or HSA administrator for reimbursement. The reimbursement process is straightforward once you have the right documentation.
-
-### Can I contribute to an FSA and an HSA at the same time?
-
-Generally, no. If you have a standard Health FSA, contributing to an HSA at the same time is not allowed by IRS rules. There is one exception: a "limited-purpose FSA" that only covers dental and vision can coexist with an HSA. If you're unsure what kind of FSA your employer offers, HR or your benefits portal will have the answer.
 
 ---
 

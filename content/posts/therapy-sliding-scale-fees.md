@@ -114,27 +114,6 @@ Sliding scale is the most direct route, but it's not the only one. A few others 
 
 ---
 
-## Frequently Asked Questions
-
-### Will a therapist think less of me for asking about sliding scale?
-
-No. Therapists who offer sliding scale built that option into their practice because they wanted to. Asking about it signals self-awareness and honesty, not financial embarrassment. I've worked alongside clinicians for years, and I've never heard one speak negatively about a prospective client for raising this question.
-
-### What if I can afford more later, am I locked into a reduced rate?
-
-No. Most therapists build in periodic check-ins about your rate, often every six months or annually. If your financial situation improves, it's considered good form to let your therapist know, and most clients who've been seen at a reduced rate appreciate the chance to do that when they're able. There's no penalty either way.
-
-### Is sliding scale therapy covered by insurance?
-
-This depends on whether your therapist is in-network with your insurance plan. If they are, your insurance applies regardless of what the therapist charges you directly, so this scenario rarely comes up. If your therapist is out of network and you're paying out of pocket on a sliding scale, insurance typically isn't involved. Some therapists will provide a "superbill" you can submit for possible out-of-network reimbursement.
-
-### Are online therapy platforms like BetterHelp or Talkspace a good sliding scale alternative?
-
-They can be, for some people. These platforms use subscription models with lower per-session costs than traditional private practice, and they offer financial assistance programs in some cases. The trade-off is that the matching process is less personalized, the therapeutic relationship can feel different in a chat-based format, and the platforms have faced scrutiny over therapist oversight. They're worth considering, particularly for mild to moderate concerns, but they're not the right fit for everyone.
-
-### How do I know if the therapist on a sliding scale is actually qualified?
-
-Sliding scale has nothing to do with credentials. A licensed therapist offering reduced rates holds the same licensure as one charging full price. Check that the therapist holds an active state license, typically an LCSW, LPC, LMFT, or PhD/PsyD. You can verify this through your state's licensing board website, and it takes about two minutes.
 
 ---
 

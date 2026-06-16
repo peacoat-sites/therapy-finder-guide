@@ -113,27 +113,6 @@ Most people do a minimum of 12-20 sessions for meaningful change, though some do
 
 ---
 
-## Frequently Asked Questions
-
-### Does my partner have to agree to come to therapy for it to help?
-
-No. Working on your own patterns and responses in individual therapy is genuinely valuable regardless of whether your partner participates. In fact, I've seen individual therapy change a relationship dynamic significantly because when one person in a system changes how they respond, the whole system has to adapt. It's not ideal if couples work is what's really needed, but it's far from pointless.
-
-### How do I bring up therapy to a partner who's resistant?
-
-Frame it around what you want to build rather than what's broken. "I want us to have better tools for the hard conversations" lands differently than "we need to fix our problems." Some people are more receptive to starting with a specific, structured program like premarital counseling or a communication workshop rather than open-ended therapy. Meeting them where they are matters.
-
-### What if my relationship issues are rooted in past trauma?
-
-This is extremely common, and most relationship-focused therapists are trained to work with trauma's impact on attachment and relational behavior. Modalities like EMDR (Eye Movement Desensitization and Reprocessing) are sometimes used alongside relationship-focused work for people with significant trauma histories. Be transparent with any therapist you see about your history so they can tailor their approach appropriately.
-
-### Is online therapy effective for relationship issues?
-
-The research on teletherapy is genuinely reassuring here. Multiple studies, including research published during and after the pandemic period, show that teletherapy produces comparable outcomes to in-person therapy for most presentations. For couples especially, online sessions can actually reduce some logistical barriers that prevent people from going. The main caveat is that some therapists prefer in-person for high-conflict couples, where reading full body language is especially important.
-
-### How do I know if what I'm experiencing is relationship problems or something I need to address individually first?
-
-Honestly? This is a question worth raising directly in a first consultation with a therapist. A good therapist can help you assess this early in the process. A useful rule of thumb: if similar patterns have shown up across multiple different relationships in your life, that's often a signal that individual work would be valuable. If the issues are specific and situational to this relationship, couples work may be the right entry point.
 
 ---
 

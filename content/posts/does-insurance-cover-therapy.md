@@ -119,27 +119,6 @@ If you're working through specific challenges between sessions or while waiting 
 
 ---
 
-## FAQ
-
-### Does insurance cover online therapy or teletherapy?
-
-Yes, for most plans. Telehealth parity laws have expanded significantly since 2020, and many states now require insurers to reimburse for video and phone-based therapy at the same rate as in-person visits. Some platforms like Talkspace and BetterHelp work with certain insurers directly, though coverage varies. Always verify before assuming.
-
-### What does "prior authorization" mean for therapy, and do I need one?
-
-Prior authorization means your insurance company wants to approve the treatment before agreeing to cover it. Not all plans require it for outpatient therapy, but some do. If yours does, your therapist's office typically handles the paperwork. Failing to get one when required can result in denied claims, so this is one of the questions worth asking explicitly during your benefits verification call.
-
-### Can a therapist charge me more than my copay?
-
-In most cases, no. In-network therapists have agreed to contracted rates with your insurer. They can charge you your copay or coinsurance amount, but they generally can't bill you for the difference between their standard rate and the insurance rate (a practice called "balance billing"). Out-of-network therapists don't have these same restrictions.
-
-### What if my insurance denies coverage for therapy?
-
-You have the right to appeal. Ask your insurer for the denial in writing and the specific reason. Common grounds for appeal include demonstrating medical necessity, which your therapist can support with documentation, or pointing out a parity violation if you believe mental health claims are being handled differently than comparable medical claims. Your state insurance commissioner's office is also a resource if you believe your rights are being violated.
-
-### Does insurance cover couples therapy or family therapy?
-
-This one is tricky. Many insurance plans do not cover couples therapy unless there's a diagnosable mental health condition being treated. Family therapy is more likely to be covered when a child or family member with a diagnosis is the identified patient. It's not a hard no across the board, but it requires careful verification. Some therapists handle this by billing for the individual with the diagnosis while conducting joint sessions.
 
 ---
 

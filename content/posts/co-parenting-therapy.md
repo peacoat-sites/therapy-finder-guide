@@ -84,27 +84,6 @@ Mindfulness-based tools also show up a lot in co-parenting work, specifically fo
 
 ---
 
-## Frequently Asked Questions
-
-### Can co-parenting therapy be court-ordered?
-
-Yes, and it often is. Judges in custody cases sometimes order co-parenting counseling as a condition of a parenting plan, particularly in high-conflict divorces. If it's court-ordered, make sure the therapist is familiar with producing documentation if the court requests updates.
-
-### What if my ex refuses to participate?
-
-This is genuinely common. Some therapists will work with one parent alone on co-parenting skills, which can still shift the dynamic even if the other parent never shows up. It's not ideal, but it's not worthless either.
-
-### Is co-parenting therapy confidential?
-
-Generally yes, but with important exceptions. If the case is court-involved, the therapist may be asked to submit reports. Some parenting coordinators operate without the usual confidentiality protections. Ask your specific therapist to explain their confidentiality limits before you say anything you'd want protected.
-
-### How is this different from family therapy?
-
-Family therapy usually involves the whole family unit working on relationships together. Co-parenting therapy is specifically focused on the parenting relationship between two adults who are no longer together, with the explicit goal of making the child's environment more stable. The child may not be in the room at all.
-
-### How do I bring this up to my ex without starting a fight?
-
-Frame it around the kids, not the relationship. "I think we could both use some support figuring out a system that works better for the kids" lands differently than anything that sounds like "you need to change." Asking your own therapist or attorney to make the recommendation can also take the pressure off you personally.
 
 ---
 

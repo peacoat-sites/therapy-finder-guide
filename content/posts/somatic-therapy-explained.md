@@ -116,27 +116,6 @@ These aren't competing therapies. Many clinicians integrate somatic elements int
 
 ---
 
-## Frequently Asked Questions
-
-### Is somatic therapy scientifically proven?
-
-The evidence base is growing but still younger than that for CBT or DBT. Studies on Somatic Experiencing and Sensorimotor Psychotherapy have shown positive outcomes for trauma and PTSD, with research published in peer-reviewed journals supporting their use. That said, more large-scale randomized controlled trials are needed. This doesn't mean it doesn't work. It means it's evidence-informed rather than having the volume of research behind CBT. For trauma specifically, the evidence is more robust.
-
-### Can somatic therapy make things worse?
-
-Poorly conducted somatic therapy, or work done without proper pacing, can temporarily destabilize people. This is why choosing a licensed, properly trained therapist matters enormously. Somatic work done well is careful, titrated, and closely attuned to your window of tolerance. If you ever feel overwhelmed or unsafe in a session, you have the right to say so and slow down.
-
-### How long does somatic therapy take?
-
-There's no universal answer. Single-incident trauma might shift meaningfully in 8-12 sessions with the right therapist. Complex developmental trauma often requires longer-term work, sometimes years. It depends on your history, your nervous system, your goals, and the approach being used. Don't let anyone promise you a specific timeline.
-
-### Can I do somatic therapy online?
-
-Yes, and many practitioners have adapted their methods effectively for video sessions. Some body-based work, like gentle movement practices, is easy to do remotely. Other elements, like gentle touch used in some Hakomi or Sensorimotor work, require in-person contact. If you're weighing the tradeoffs of online versus in-person, there's a helpful [comparison of online therapy and in-person therapy](/online-therapy-vs-in-person/) worth reading.
-
-### Is somatic therapy the same as massage or bodywork?
-
-No, though the name sometimes confuses people. Somatic therapy is a licensed psychological treatment conducted by mental health professionals. It may sometimes involve mindful awareness of physical sensation or, in some modalities like Hakomi, gentle consensual touch, but it's not massage, chiropractic care, or physical therapy. The goal is psychological and nervous system regulation, not physical manipulation.
 
 ---
 

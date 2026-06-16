@@ -112,27 +112,6 @@ Progress in couples therapy is usually not linear. There are weeks of breakthrou
 
 ---
 
-## FAQ
-
-### How do I know if a couples therapist is actually qualified?
-
-Look for a licensed mental health professional: Licensed Marriage and Family Therapist (LMFT), Licensed Professional Counselor (LPC), Licensed Clinical Social Worker (LCSW), or psychologist (PhD/PsyD). Any of these can specialize in couples work. Beyond licensure, look for specific training in an evidence-based couples approach like EFT or Gottman. You can verify licensure through your state's licensing board website.
-
-### Should we try individual therapy before couples therapy?
-
-Not necessarily. It depends on the situation. If one or both partners has significant individual mental health concerns (untreated depression, trauma, an active substance use issue), addressing those in individual therapy first or simultaneously can actually make couples therapy more effective. But waiting for everything to be "resolved" individually before doing couples work isn't required. A good therapist will help you figure out what sequencing makes sense.
-
-### What if we're not married, just dating? Can we still do couples therapy?
-
-Absolutely. Couples therapy is not only for married people or people in crisis. Pre-marital counseling, therapy for cohabiting partners, therapy for couples considering whether to stay together, it's all valid. Some of the most effective therapeutic work happens before major commitments, not after.
-
-### How long does couples therapy usually take?
-
-There's no universal answer, and any therapist who gives you a firm number without knowing your situation is guessing. Short-term focused work might be 8 to 12 sessions. Longer-term relational work, especially following significant betrayal or where patterns are deeply entrenched, might run 6 months to a year or more. That said, you should expect to notice some meaningful shift within the first 6 to 8 sessions. If you feel entirely stuck after that, it's fair to raise it with your therapist or consider a different fit.
-
-### What if one of us wants to use therapy to break up and the other wants to save the relationship?
-
-This is more common than people admit, and a good therapist can work with it. The goal of couples therapy isn't always reconciliation. Sometimes the work is about separating with more clarity and less damage, especially when children are involved. Be honest with your therapist about where each of you is. Trying to hide a foot already out the door usually just prolongs pain.
 
 ---
 

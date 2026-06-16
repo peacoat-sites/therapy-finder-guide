@@ -130,27 +130,6 @@ Here's a realistic process:
 
 ---
 
-## Frequently Asked Questions
-
-### Can a therapist diagnose me?
-
-Licensed therapists can, in most states, provide a clinical diagnosis based on the DSM-5 criteria, and many do so for insurance billing purposes. However, a formal, comprehensive diagnostic evaluation (especially for complex conditions like bipolar disorder or autism) often requires a more extensive assessment process, the kind a psychologist or psychiatrist is better positioned to conduct. If you're unsure about a diagnosis you've received, asking for a second opinion from a psychologist or psychiatrist is completely reasonable.
-
-### What's the difference between a counselor and a therapist?
-
-In practice, the terms are often used interchangeably. Technically, "counselor" can refer to professionals with varying levels of training, from school counselors with a master's degree to addiction counselors with a certificate-level credential. "Therapist" is also not a legally protected title in many states. What matters more than the label is the specific license the person holds. Look for a state license (LPC, LCSW, LMFT, LMHC, or similar) and verify it's current with your state's licensing board.
-
-### Do I need a referral from my doctor to see a psychiatrist?
-
-It depends on your insurance plan. Some plans require a primary care referral for specialty mental health care; others allow direct access. Call your insurance company first. If you're using a community mental health center or sliding-scale service, referrals are usually not required.
-
-### Is telehealth therapy as effective as in-person?
-
-A growing body of research suggests telehealth therapy is comparably effective to in-person therapy for many conditions, including anxiety, depression, and PTSD. It also removes barriers like transportation, scheduling, and geographic access to providers. That said, some people genuinely prefer the in-person environment, and for certain populations (like people in acute crisis or those who need hands-on skills training), in-person may be more appropriate. Both are legitimate options.
-
-### How long will I need to be in therapy?
-
-This varies enormously depending on what you're working on, the type of therapy, and how you respond. Some structured approaches like Cognitive Behavioral Therapy (CBT) for a specific phobia might run 12 to 20 sessions. Longer-term work on relational patterns or trauma may take a year or more. A good therapist will discuss goals with you early on and revisit progress regularly. You always have the right to decide when therapy is no longer serving you.
 
 ---
 

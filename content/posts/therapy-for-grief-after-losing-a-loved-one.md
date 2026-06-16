@@ -86,27 +86,6 @@ You also have every right to change therapists if something isn't clicking by se
 
 ---
 
-## Frequently Asked Questions
-
-### How long does grief therapy usually last?
-
-There's no universal timeline, but many people see meaningful movement in 12-20 sessions of focused grief therapy. Complicated grief treatment is a structured 16-session protocol. If your grief is less entrenched, you might find shorter-term work helpful; some people return for additional support at difficult anniversaries or milestones.
-
-### Is grief therapy different from regular talk therapy?
-
-Yes, in practice, though not always structurally. Grief-specialized therapists have training in bereavement-specific models, trauma-informed approaches, and the clinical difference between normal grief and prolonged grief disorder. A general therapist can offer meaningful support, but if your grief is complex or prolonged, someone with specific bereavement training will likely serve you better.
-
-### Do I have to talk about the person who died in every session?
-
-No, and a good therapist won't force the narrative. Some sessions will focus on practical things like sleep, routine, relationship strain, or how to handle a specific upcoming event. The loss will be present in the background always, but grief therapy isn't just a loop of recounting what happened.
-
-### Can grief therapy help even if it's been years since the loss?
-
-Yes. Grief doesn't expire, and neither does the value of processing it. Some people come to therapy five or ten years after a loss when something — a new loss, a life transition, a milestone the person didn't live to see — reopens it. That's not weakness or failure; that's how grief works for some people.
-
-### What if I'm not ready to talk to a therapist yet?
-
-That's a real place to be, and it's okay to sit there for a while. Reading, journaling, peer support groups, and connecting with community can all help in the meantime. Just watch for signs that the grief is getting heavier rather than lighter over time. If it is, that's information worth acting on.
 
 ---
 

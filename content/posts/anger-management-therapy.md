@@ -129,27 +129,6 @@ When you speak with a potential therapist for the first time, you can simply ask
 
 ---
 
-## Frequently Asked Questions
-
-### Is anger management therapy the same as a court-ordered anger management program?
-
-Not necessarily. Court-ordered programs are often structured group curricula, sometimes delivered in a single block of sessions, focused on accountability and behavioral change. Therapy, by contrast, is a clinical relationship that goes deeper into the underlying drivers of anger, including trauma, attachment patterns, and co-occurring mental health conditions. Both can be valuable, but they're not identical.
-
-### Can anger management therapy help with rage that comes from nowhere?
-
-Yes, and this is actually a clinically important pattern. Anger that feels sudden or disproportionate is often a sign of a lower baseline stress tolerance or of unresolved emotional material getting triggered. A good therapist will help you identify what's really underneath those seemingly unpredictable reactions.
-
-### How long does it take to see results?
-
-Many people notice meaningful changes within 8 to 12 sessions. You might feel some relief earlier, as simply understanding what's happening physiologically can reduce the shame and confusion that often makes anger worse. Deeper change in long-standing patterns typically takes longer, and that's completely normal.
-
-### What if my anger is connected to depression or PTSD?
-
-This is common, and it's important. Anger is frequently a presenting symptom of depression in adults, particularly in men, and it's one of the core symptoms of PTSD. In these cases, anger management needs to happen alongside, or sometimes after, treatment for the underlying condition. Our overview of [PTSD therapy options](/ptsd-therapy-options/) covers how trauma treatment intersects with anger responses.
-
-### What if my partner also needs help, not just me?
-
-That's a fair and often accurate observation. Sometimes the anger dynamic in a relationship is genuinely two-directional. A skilled therapist can help you figure out whether individual work, couples work, or a combination makes the most sense in your situation. It's also worth knowing that making real changes on your side of the dynamic can shift the relational system, even before your partner does any work of their own.
 
 ---
 

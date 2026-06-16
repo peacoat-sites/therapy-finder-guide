@@ -103,27 +103,6 @@ A few things worth doing once you're in a steadier place:
 
 ---
 
-## Frequently Asked Questions
-
-### Will calling 988 automatically send police to my house?
-
-No. Police dispatch is not automatic and is considered a last resort. The 988 Lifeline is designed to resolve situations through conversation whenever possible. Counselors work with you to figure out what support looks like, and they'll tell you clearly if they believe a safety check is needed.
-
-### What if I'm worried about someone but they refuse help?
-
-You can call 988 yourself and talk through the situation with a counselor. They can help you assess risk and figure out what steps are appropriate. In some states, you may also be able to request a welfare check through non-emergency police services, though the outcome depends heavily on local resources and training.
-
-### Is the Crisis Text Line as effective as calling?
-
-It offers real support, but the nature of text-based communication means response may be slower during high-volume periods, and assessing risk is harder without voice cues. For immediate, high-danger situations, calling 988 or 911 is faster. For someone who genuinely can't make a phone call in their current environment, texting HOME to 741741 is far better than no contact at all.
-
-### Can I use these resources if I'm not suicidal but still in crisis?
-
-Yes, completely. Crisis lines are for people who are overwhelmed, not just people who are suicidal. Severe anxiety, panic that won't stop, feeling completely unable to cope, relationship violence, psychotic episodes: all of these are appropriate reasons to call. You don't have to meet any particular threshold.
-
-### What if I don't have insurance and need ongoing care after a crisis?
-
-NAMI's HelpLine at 1-800-950-6264 is a good starting point. Community mental health centers often provide services on a sliding fee scale based on income. Federally Qualified Health Centers (FQHCs) are also required to offer mental health services regardless of ability to pay. You can find one near you at findahealthcenter.hrsa.gov.
 
 ---
 

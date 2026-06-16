@@ -102,27 +102,6 @@ FQHCs hold a specific advantage: they're integrated medical clinics. If you're d
 
 ---
 
-## Frequently Asked Questions
-
-### Do I need a referral to see a therapist at an FQHC?
-
-Usually not. Most FQHCs allow direct scheduling for behavioral health services. Call the clinic directly and ask to schedule a mental health intake appointment. If your primary care provider is already at the same FQHC, they can refer you internally, which sometimes speeds up the process.
-
-### Will they prescribe medication at an FQHC?
-
-Some do, some don't. It depends on whether the site has a psychiatrist or a psychiatric nurse practitioner on staff. If your FQHC doesn't offer prescribing, they can often refer you to one that does, or coordinate with an outside prescriber.
-
-### What if my income is above the poverty level? Can I still use the sliding scale?
-
-Yes. The sliding scale covers a range of incomes, not just those at or near the poverty line. Many FQHCs use a scale that extends to 200 percent of the Federal Poverty Level or higher. Even above that threshold, you can still use the FQHC and pay based on your insurance coverage or a reduced self-pay rate.
-
-### Can I choose my therapist at an FQHC?
-
-Sometimes. Larger sites with multiple behavioral health providers may give you some choice. Smaller sites may have one or two therapists and no alternatives. If the fit genuinely isn't working after a few sessions, it's worth asking whether a different provider is available.
-
-### Is FQHC therapy confidential?
-
-Yes. The same HIPAA protections that apply to any licensed clinical setting apply here. Your therapy records are kept separate from your general medical records in most systems, and sharing between providers within the same FQHC requires your consent except in specific clinical situations. Ask the intake coordinator about records practices if this is a concern.
 
 ---
 

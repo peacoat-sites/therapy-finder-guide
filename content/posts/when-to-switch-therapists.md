@@ -108,27 +108,6 @@ Switching therapists, when done thoughtfully, isn't giving up. It's the opposite
 
 ---
 
-## Frequently Asked Questions
-
-### How long should I give therapy before deciding it isn't working?
-
-Most clinicians suggest giving a new therapeutic relationship at least eight to twelve sessions before drawing conclusions, assuming your concerns don't involve safety or serious boundary violations. Progress in therapy is rarely linear week to week. That said, if you've raised concerns directly with your therapist and seen no response or adjustment, that timeline can reasonably shorten.
-
-### Is it normal to feel worse after starting therapy?
-
-Yes, and this surprises a lot of people. When you start talking about things you've been avoiding, it can temporarily increase distress. This is sometimes called a "symptom spike," and it's not automatically a sign something is wrong. The key question is whether the distress feels productive and has some movement to it, or whether it feels like stagnation and confusion with no sense of direction.
-
-### Can I see two therapists at once?
-
-Technically yes, though most therapists prefer to be the only one you're working with in individual therapy, and for good reason. Mixed messages and conflicting approaches can be genuinely confusing. If you're in a specialized program (like a DBT skills group alongside individual therapy), that's a structured exception. Outside of that, it's better to make a clean transition.
-
-### What if my new therapist isn't covered by insurance?
-
-Out-of-pocket therapy is a real barrier, and it shouldn't be minimized. Options to explore include: therapists who offer sliding scale fees (ask directly, many don't advertise this), community mental health centers, university training clinics where supervised graduate students offer reduced-rate sessions, and Employee Assistance Programs through work, which often cover a set number of free sessions per year.
-
-### Do I need to tell my new therapist why I left my last one?
-
-You don't have to, but being honest helps. Your new therapist will want to understand what you've already worked on and what hasn't resonated. Saying "I felt like I wasn't making progress" or "I needed someone with more specific training in trauma" gives them useful context. They're not there to judge your previous therapist. They're there to help you move forward.
 
 ---
 

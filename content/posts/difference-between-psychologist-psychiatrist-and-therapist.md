@@ -92,27 +92,6 @@ A few books I often point people to when they're starting to build their self-un
 
 ---
 
-## FAQ
-
-### Can a therapist diagnose me?
-
-Licensed therapists (LCSWs, LPCs, LMFTs) can typically provide a clinical diagnosis for billing and treatment purposes, but their training in formal diagnostic assessment is generally less extensive than a psychologist's. For straightforward diagnoses like generalized anxiety disorder or major depression, a therapist's assessment is usually sufficient. For complex or unclear presentations, a psychologist or psychiatrist may be better positioned to sort it out.
-
-### Do I need a referral to see a psychiatrist?
-
-Usually not, though some insurance plans require one. You can often self-refer and call a psychiatrist's office directly. If access is a barrier, your primary care doctor can also make a warm referral and sometimes that speeds up the process significantly.
-
-### Is a psychologist the same as a therapist?
-
-A psychologist can be a therapist, yes. But not every therapist is a psychologist. Psychologist refers to a specific doctoral-level credential. Therapist describes a role that many different credential-holders can fill, from master's-level LCSWs to doctoral-level psychologists.
-
-### Can a psychiatrist provide therapy, or do they only prescribe medications?
-
-Some psychiatrists are trained in therapy and do practice it, but in current U.S. clinical practice, most psychiatrists focus primarily on medication evaluation and management. If you're looking for ongoing talk therapy combined with medication, you'll often work with both a therapist and a psychiatrist rather than one person doing both.
-
-### How do I know if I need medication or just therapy?
-
-This is genuinely one of the hardest questions, and the honest answer is that a qualified professional assessment is the only reliable way to know. A good therapist can help you figure out if a psychiatric evaluation makes sense. Many conditions respond well to therapy alone; others respond better to a combination. Start somewhere, be honest about your symptoms, and let the clinical picture guide the conversation.
 
 ---
 

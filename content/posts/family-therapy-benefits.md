@@ -107,27 +107,6 @@ For families dealing with a teen or child who struggles with emotional regulatio
 
 ---
 
-## Frequently Asked Questions
-
-### What if one family member refuses to come to therapy?
-
-This is genuinely common, especially with teenagers and partners. The good news is that family therapy can still be effective even if not everyone attends every session. Some therapists work with whoever is willing to show up and help them change their patterns. When one person in a system changes, the system itself often shifts. A resistant family member sometimes becomes willing after a few sessions when they see that the process isn't about attacking them.
-
-### How is family therapy different from couples therapy?
-
-Couples therapy focuses specifically on the relationship between two partners. Family therapy involves at least one other family member, often children, and looks at the larger system. Some therapists do both; others specialize in one or the other. If your primary concern is your partnership, couples therapy may be the better fit. If the issues involve children or the broader household dynamic, family therapy is usually more appropriate.
-
-### How long does family therapy typically take?
-
-There's no single answer, but many families see meaningful progress within 8-20 sessions. Acute situations, like navigating a specific transition or crisis, often resolve faster. Deeply entrenched patterns, especially those rooted in years of dysfunction or generational trauma, generally take longer. A good therapist will check in on progress regularly and help you decide when you've reached your goals.
-
-### Is everything said in family therapy confidential?
-
-The rules around confidentiality in family therapy are slightly more complex than in individual therapy. Generally, the therapist keeps information private from people outside the family, but within a family session, everyone present hears what's said. Some therapists also meet with individual family members separately, and policies about what gets shared from those private meetings vary by therapist. Ask about this explicitly in your first consultation. You deserve a clear answer.
-
-### Can family therapy help when there's been abuse?
-
-This requires careful thought. Family therapy is generally not recommended as the primary intervention in situations involving active domestic violence or abuse. In those cases, safety comes first, and individual therapy or crisis services are typically more appropriate starting points. That said, after safety is established, some forms of family therapy can be part of a broader healing process. Always consult with a mental health professional about your specific situation before deciding.
 
 ---
 

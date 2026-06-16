@@ -118,27 +118,6 @@ If you're in crisis while figuring any of this out, the [988 Suicide and Crisis 
 
 ---
 
-## FAQ
-
-### How many EMDR sessions will I need?
-
-There's no universal number. For a single-incident trauma in an otherwise stable adult, meaningful change can happen in 3-12 sessions. Complex trauma, developmental trauma, or presentations with significant dissociation typically require more, sometimes considerably more. Your therapist should give you a rough treatment frame after the initial assessment, not a guarantee, but a reasonable working estimate.
-
-### Does EMDR work if I can't remember the traumatic event clearly?
-
-Yes, and this surprises people. EMDR doesn't require a detailed, chronological narrative. You can work with fragmented memories, body sensations, or just a general sense of distress attached to a period of your life. The protocol is flexible enough to accommodate incomplete recall.
-
-### Is EMDR only for people who've experienced severe trauma?
-
-No. The word "trauma" carries weight that sometimes makes people feel their experiences don't qualify. EMDR is appropriate for any persistent distress that seems tied to past experiences, whether that's a humiliating childhood incident that still produces shame, a difficult medical procedure, or a relationship ending badly. The test isn't severity by external standards; it's whether something from the past is causing real problems in your present life.
-
-### Can EMDR make things worse?
-
-During and immediately after active reprocessing sessions, you may feel worse before you feel better. New memories or emotions can surface. This is normal and part of the process, not a sign that treatment is failing. That's exactly why the preparation phase exists, to make sure you have the coping resources to manage what comes up between sessions. If you're experiencing significant destabilization, a competent EMDR therapist will slow the pace or shift focus.
-
-### Can I do EMDR online?
-
-Yes. Telehealth EMDR has become common since 2020, and the research on its effectiveness is reasonably encouraging. Bilateral stimulation can be delivered via screen-based eye movement tools or audio tones through headphones. It's not identical to in-person, but for people with limited local access to trained therapists, it's a legitimate option rather than a workaround.
 
 ---
 

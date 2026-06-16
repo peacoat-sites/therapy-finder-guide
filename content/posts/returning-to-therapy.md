@@ -76,27 +76,6 @@ A lot of people present a slightly more "together" version of themselves in the 
 
 ---
 
-## Frequently Asked Questions
-
-### Do I have to explain why I stopped going to therapy?
-
-No, you don't owe a therapist (or yourself) a full account of why you left. A brief, honest framing is helpful, but most therapists will meet you where you are now rather than dwelling on the gap.
-
-### Is it harder to make progress the second time around?
-
-Not necessarily, and for many people it's actually faster. You've already done some of the foundational work, you know what therapy feels like, and you may have a clearer sense of what you want out of it this time.
-
-### What if I feel embarrassed going back?
-
-That feeling is very common and worth naming out loud to your therapist in the first session. It often dissolves quickly once you do. Returning to therapy when you need it is a sign of self-awareness, not failure.
-
-### Can I use the same therapist if I left on bad terms?
-
-It depends on what "bad terms" means. If you simply stopped going without notice, most therapists won't hold that against you. If there was a specific conflict, it might be worth addressing it directly or finding someone new, depending on what you're comfortable with.
-
-### How do I know if I actually need to go back or if I'm just having a hard week?
-
-If you've been asking yourself this question for more than a couple of weeks, that's usually the answer. A hard week passes; a lingering sense that something needs attention doesn't resolve on its own the same way.
 
 ---
 

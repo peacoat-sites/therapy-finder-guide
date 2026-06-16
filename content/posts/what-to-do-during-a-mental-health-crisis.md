@@ -108,27 +108,6 @@ If you were supporting someone through the crisis, check in on yourself too. It'
 
 ---
 
-## FAQ
-
-### What's the difference between a mental health crisis and just feeling really overwhelmed?
-
-Overwhelm, even severe overwhelm, is usually manageable with rest, support, or basic coping strategies. A crisis crosses into territory where those strategies stop working, and where safety, basic functioning, or reality contact is compromised. If you're asking yourself whether this is a crisis, the uncertainty itself is worth taking seriously, either by calling 988 or talking to someone who can help assess.
-
-### Is it okay to call 988 if I'm not suicidal?
-
-Yes, completely. The 988 Lifeline handles a wide range of emotional crises, not just suicidality. If you're in acute distress and need someone to talk to right now, that's what it's there for.
-
-### What if someone refuses help during a crisis?
-
-This is genuinely one of the harder situations. If there's no immediate safety risk, you generally can't force an adult into treatment, and trying to can sometimes make things worse. Stay calm, stay present, keep the door open, and call 988 yourself for guidance on how to handle the specific situation. If there is immediate danger, emergency services can authorize an involuntary psychiatric hold in most U.S. states.
-
-### How do I know when to call 911 vs. 988?
-
-Call 988 when someone is in emotional crisis, overwhelmed, or expressing suicidal thoughts without immediate, active danger. Call 911 when there's an immediate threat to life, active self-harm in progress, or someone is unconscious or has ingested something harmful. The line isn't always clean, and if you're genuinely unsure, call 988 first and they'll tell you if 911 is needed.
-
-### Can a mental health crisis happen to someone with no history of mental illness?
-
-Absolutely. Grief, trauma, extreme stress, medical events, and substance interactions can all precipitate a crisis in someone who has never had a prior mental health diagnosis. History helps predict risk, but it doesn't gatekeep who can experience one.
 
 ---
 

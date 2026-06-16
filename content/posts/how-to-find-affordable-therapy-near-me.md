@@ -82,27 +82,6 @@ Mindfulness practices also have a decent evidence base for anxiety and stress, s
 
 ---
 
-## FAQ
-
-### How much does therapy usually cost without insurance?
-
-Private-pay therapy in the U.S. typically runs anywhere from $80 to $250 per session, depending heavily on location, therapist credentials, and specialty. Major metro areas like New York or San Francisco skew significantly higher. Sliding-scale and community clinic options can bring this down to $0 to $50, which is why those options are worth pursuing before assuming therapy is out of reach.
-
-### What is a sliding scale, and how do I ask for it?
-
-A sliding scale means a therapist adjusts their fee based on your income and financial situation. To ask for it, simply email or call and say something like: "I'm very interested in working with you. Do you offer reduced fees or a sliding scale for clients with limited income?" Not every therapist offers this, but many do, especially those in private practice who have some flexibility in their scheduling.
-
-### Is online therapy as effective as in-person therapy?
-
-The research here is genuinely mixed, and it depends on what you're dealing with. For mild to moderate depression, generalized anxiety, and stress-related concerns, a 2018 meta-analysis in the journal *World Psychiatry* found online CBT to be broadly comparable to in-person delivery. For more complex conditions, including PTSD, psychosis, or severe mood disorders, in-person care with a specialist tends to be more appropriate. Therapist fit matters more than the medium in most cases.
-
-### Do community mental health centers see adults, or just people in crisis?
-
-Both, actually. Community mental health centers see adults for ongoing outpatient therapy, not just crisis situations. They often also offer psychiatric evaluation and medication management. Income-based sliding-scale fees mean some people pay very little or nothing at all. The main downside is that waitlists can be longer than private practices.
-
-### What if I've called multiple therapists and nobody is taking new clients?
-
-This is one of the most frustrating and common experiences people report right now. A few moves that help: ask the therapist's voicemail to put you on a cancellation list, check Psychology Today's therapist finder with the "sliding scale" filter enabled, and contact your county's mental health department directly to ask about intake. If you're in acute distress during the wait, NAMI's helpline (1-800-950-6264) can also help you find faster local options.
 
 ---
 

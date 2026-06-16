@@ -88,27 +88,6 @@ Ask the therapist what you can do. A good one will tell you.
 
 ---
 
-## FAQ
-
-### How do I know if my child needs play therapy or just more time?
-
-Trust the duration and intensity of symptoms more than the symptoms themselves. If your child has been struggling for more than four to six weeks, the behavior is escalating rather than plateauing, or it's interfering with school or friendships, a professional evaluation makes sense. You're not overreacting by calling a therapist.
-
-### Can play therapy make things worse?
-
-Temporarily, sometimes, yes. Children often show a brief uptick in difficult behavior as they begin processing emotions in therapy. This is normal and expected, and your child's therapist should prepare you for it. If behavior worsens significantly and persists beyond a few weeks without any improvement, bring it up directly with the therapist.
-
-### How do I find a qualified play therapist?
-
-Start with the Association for Play Therapy's therapist finder at a4pt.org, and filter for Registered Play Therapist (RPT) credentials. You can also ask your pediatrician for a referral, or check with your insurance company's mental health directory and then verify credentials separately.
-
-### Should I tell my child where they're going before the first session?
-
-Yes, but keep it simple and honest. Something like: "You're going to meet someone whose job is helping kids when things feel hard or confusing. You'll get to play there." Avoid overselling it or making it sound like a reward, and definitely don't describe it as a punishment or imply something is wrong with them.
-
-### What if my child refuses to go?
-
-Some resistance is normal, especially for kids who are anxious or have had bad experiences with doctors. A good play therapist has handled this before. Let the therapist know in advance, and ask about strategies for the first session. Forcing a child into the room isn't usually productive, but a warm, low-pressure introduction can change the dynamic quickly.
 
 ## Helpful Resources
 

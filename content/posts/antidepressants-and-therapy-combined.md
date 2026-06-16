@@ -80,27 +80,6 @@ Beyond six months, the question shifts from "is this working" to "what does main
 
 ---
 
-## FAQ
-
-### Does therapy make antidepressants more effective?
-
-Yes, in most of the available research, meaningfully so. The combination tends to produce faster initial response and significantly lower relapse rates compared to medication alone, particularly in the year following treatment.
-
-### Can I do therapy without medication if my depression is moderate?
-
-Yes, and many people do. CBT alone has strong evidence for mild to moderate depression. Moderate-to-severe depression is where the combination becomes harder to argue against, largely because severe symptoms can make engaging with therapy very difficult without some pharmacological support first.
-
-### How long should I be in therapy while on antidepressants?
-
-There's no universal answer, but most clinical guidelines suggest at least 16-20 sessions for CBT, roughly four to five months of weekly work. Some people benefit from continuing longer, particularly if depression is recurrent or there are significant relational or trauma components.
-
-### What if my prescriber and therapist disagree about my treatment?
-
-It happens. You're allowed to ask both providers to explain their reasoning, and you're allowed to facilitate a conversation between them. If they're deeply at odds and neither can explain their position clearly, that's useful information about the quality of your care.
-
-### Is online therapy effective when combined with antidepressants?
-
-The data on teletherapy quality is genuinely encouraging. A 2020 review in *Journal of Affective Disorders* found outcomes comparable to in-person CBT for depression and anxiety. The platform matters less than the therapist's training and the consistency of your attendance.
 
 ---
 
