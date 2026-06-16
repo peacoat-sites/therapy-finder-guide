@@ -36,6 +36,7 @@
       {{ if gt $n 1 }}<h1 class="hero-split-title">{{ delimit (first (sub $n 1) $w) " " }} <span class="ht-accent">{{ index $w (sub $n 1) }}</span></h1>{{ else }}<h1 class="hero-split-title">{{ $tt }}</h1>{{ end }}
       <p class="hero-split-sub">{{ .Site.Params.description }}</p>
       <div class="hero-auth-actions">
+        {{ with .Site.Params.youtube_channel }}<a href="https://www.youtube.com/channel/{{ . }}" target="_blank" rel="noopener" class="hero-yt" aria-label="Watch us on YouTube" title="Watch us on YouTube" style="display:inline-flex;align-items:center;justify-content:center;flex-shrink:0"><svg viewBox="0 0 28 20" width="34" height="24" aria-hidden="true"><rect width="28" height="20" rx="6" fill="#FF0000"/><path d="M11.2 6l6.6 4-6.6 4z" fill="#fff"/></svg></a>{{ end }}
         <a href="/posts/" class="btn-hero-primary">Browse All Articles</a>
         <a href="/search/" class="btn-hero-ghost">Search Topics</a>
         {{ with index (where .Site.RegularPages "Params.quiz_page" true) 0 }}<a href="{{ .Permalink }}" class="btn-hero-ghost">Take the Quiz</a>{{ end }}
