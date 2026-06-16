@@ -111,7 +111,18 @@ def read_latest_article() -> dict | None:
         print("  [WARN] No posts found")
         return None
 
-    latest = md_files[0]
+    # Prefer the newest article that does NOT already have a video. Without this the pipeline
+    # deterministically re-picks the same (alphabetically-last) article every run and skips it
+    # once it has a video — stalling the channel. Falls back to the absolute newest if every
+    # article is already covered (main's duplicate guard then no-ops, as before).
+    done = _slugs_with_videos()
+    candidates = [f for f in md_files if f.stem not in done]
+    if candidates:
+        latest = candidates[0]
+        print(f"  ({len(candidates)} article(s) still need a video)")
+    else:
+        latest = md_files[0]
+        print("  (all articles already have videos — nothing new to make)")
     raw = latest.read_text(encoding="utf-8")
 
     # Parse title from TOML or YAML front matter
@@ -138,16 +149,20 @@ def read_latest_article() -> dict | None:
 
 # ── Step 1b: Duplicate article guard ─────────────────────────────────────────
 
-def already_has_video(article_slug: str) -> bool:
-    """Return True if this article slug already exists in data/youtube.json."""
+def _slugs_with_videos() -> set:
+    """All article slugs that already have a video, from data/youtube.json."""
     json_path = Path("data") / "youtube.json"
     if not json_path.exists():
-        return False
+        return set()
     try:
-        entries = json.loads(json_path.read_text())
-        return any(e.get("article_slug") == article_slug for e in entries)
+        return {e.get("article_slug") for e in json.loads(json_path.read_text()) if e.get("article_slug")}
     except Exception:
-        return False
+        return set()
+
+
+def already_has_video(article_slug: str) -> bool:
+    """Return True if this article slug already exists in data/youtube.json."""
+    return article_slug in _slugs_with_videos()
 
 
 # ── Step 2: Generate script via Claude ───────────────────────────────────────
