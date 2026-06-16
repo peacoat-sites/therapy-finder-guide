@@ -894,7 +894,7 @@ Write it in the author's specific voice, with the opinions and concrete detail o
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
 
 _FAQ_STRIP_RE = re.compile(
-    r'\n#{2,3}[ \t]*(?:FAQ|Frequently Asked Questions|Common Questions|Q\s*&\s*A)\b[^\n]*\n'
+    r'\n#{2,3}[ \t]*(?:FAQs?\b|Frequently Asked|Common Questions|Questions People|Q\s*&\s*A)[^\n]*\n'
     r'[\s\S]*?'
     r'(?=\n#{1,2}[ \t]|\n---\n|\n\*Photo:|\Z)', re.IGNORECASE)
 
