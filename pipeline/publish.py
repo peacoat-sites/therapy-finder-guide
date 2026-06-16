@@ -893,6 +893,16 @@ Write it in the author's specific voice, with the opinions and concrete detail o
 
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
 
+_FAQ_STRIP_RE = re.compile(
+    r'\n#{2,3}[ \t]*(?:FAQ|Frequently Asked Questions|Common Questions|Q\s*&\s*A)\b[^\n]*\n'
+    r'[\s\S]*?'
+    r'(?=\n#{1,2}[ \t]|\n---\n|\n\*Photo:|\Z)', re.IGNORECASE)
+
+def _strip_faq_body(content):
+    """Remove the inline FAQ section (## FAQ + ### Q&A) from the body. Stops at the next
+    top-level heading, an hr, the photo credit, or end — so closing prose/credits survive."""
+    return _FAQ_STRIP_RE.sub('\n', content, count=1)
+
 def _extract_faqs(body):
     """Extract FAQ Q&A pairs (### Question? + answer) from article body for FAQPage schema."""
     import re as _re
@@ -1000,6 +1010,9 @@ affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
             for _q, _a in _faqs:
                 _fy += f'  - q: "{_q}"\n    a: "{_a}"\n'
             frontmatter = frontmatter.replace("\n---\n\n", "\n" + _fy + "---\n\n", 1)
+            # Remove the inline FAQ from the body — the styled template FAQ section
+            # renders from the `faqs:` frontmatter, so keeping the body copy duplicates it.
+            content = _strip_faq_body(content)
     except Exception:
         pass
     return frontmatter + content
