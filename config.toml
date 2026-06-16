@@ -21,6 +21,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  youtube_channel = "UCcEFub-Jmq9qDo1rSyRzAnQ"
   page_bg = "#faf5ff"
   nav_style = "light"
   description = "Practical guides to finding therapists, understanding therapy types, and navigating mental health care."

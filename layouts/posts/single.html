@@ -71,6 +71,22 @@
       {{ .TableOfContents }}
     </div>
     {{ end }}
+    <!-- In-article video (if this article has a matching YouTube upload) -->
+    {{ $vslug := .Params.slug | default .File.ContentBaseName }}
+    {{ with site.Data.youtube }}
+      {{- $vid := "" }}{{ $vt := "" }}{{ range . }}{{ if eq .article_slug $vslug }}{{ $vid = .standard_id }}{{ $vt = .title }}{{ end }}{{ end -}}
+      {{ with $vid }}
+      <div class="article-video" style="margin:0 0 30px">
+        <div style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#6b7280);margin-bottom:8px;display:flex;align-items:center;gap:6px">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="#FF0000" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31.1 31.1 0 0 0 0 12a31.1 31.1 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31.1 31.1 0 0 0 24 12a31.1 31.1 0 0 0-.5-5.8z"/><path d="M9.5 15.5v-7l6 3.5z" fill="#fff"/></svg>
+          Prefer to watch? Here's the video version
+        </div>
+        <div style="position:relative;padding-bottom:56.25%;height:0;border-radius:12px;overflow:hidden;box-shadow:0 2px 14px rgba(0,0,0,.12)">
+          <iframe src="https://www.youtube.com/embed/{{ . }}" title="{{ $vt }}" loading="lazy" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      {{ end }}
+    {{ end }}
     <!-- Content with inline Amazon product after 2nd H2 -->
     <div class="post-content">
     {{- $content := .Content -}}
@@ -169,6 +185,16 @@
     {{ partial "toc.html" . }}
     {{ end }}
 
+    <!-- Watch on YouTube CTA -->
+    {{ with .Site.Params.youtube_channel }}
+    <div class="widget yt-cta">
+      <a href="https://www.youtube.com/channel/{{ . }}?sub_confirmation=1" target="_blank" rel="noopener" style="display:block;text-decoration:none;background:linear-gradient(135deg,#FF0000,#cc0000);color:#fff;border-radius:12px;padding:18px 16px;text-align:center;box-shadow:0 2px 12px rgba(204,0,0,.25)">
+        <svg width="38" height="38" viewBox="0 0 24 24" fill="#fff" aria-hidden="true" style="margin-bottom:7px"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31.1 31.1 0 0 0 0 12a31.1 31.1 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31.1 31.1 0 0 0 24 12a31.1 31.1 0 0 0-.5-5.8z"/><path d="M9.5 15.5v-7l6 3.5z" fill="#FF0000"/></svg>
+        <div style="font-weight:700;font-size:15px;font-family:var(--serif,Georgia)">Watch us on YouTube</div>
+        <div style="font-size:12px;opacity:.92;margin-top:3px">Video guides &amp; quick tips &rarr;</div>
+      </a>
+    </div>
+    {{ end }}
     <!-- Related Articles widget — reliable recent-posts fallback -->
     <div class="widget">
       <div class="widget-title">Related Articles</div>
