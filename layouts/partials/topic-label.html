@@ -1,0 +1,15 @@
+{{- /* topic-label.html — title-case a category/topic name and fix common acronyms.
+     Input: a raw category string (with spaces or dashes) or a term .Title. */ -}}
+{{- $s := replace . "-" " " | title -}}
+{{- $fixes := dict
+  "Pm" "PM" "Diy" "DIY" "Rv" "RV" "Hvac" "HVAC" "Hoa" "HOA" "Pvc" "PVC" "Pex" "PEX"
+  "Apr" "APR" "Fha" "FHA" "Va" "VA" "Llc" "LLC" "Irs" "IRS" "Ein" "EIN" "Sba" "SBA"
+  "Roi" "ROI" "Seo" "SEO" "Api" "API" "Gps" "GPS" "Ai" "AI" "Rpg" "RPG" "Fps" "FPS"
+  "Npc" "NPC" "Gdc" "GDC" "Ui" "UI" "Ux" "UX" "Mmo" "MMO" "Dlc" "DLC" "Sdk" "SDK"
+  "Ptsd" "PTSD" "Ocd" "OCD" "Cbt" "CBT" "Dbt" "DBT" "Emdr" "EMDR" "Adhd" "ADHD"
+  "Cpr" "CPR" "Aed" "AED" "Cms" "CMS" "Ssa" "SSA" "Dwi" "DWI" "Dui" "DUI"
+  "Faq" "FAQ" "Faqs" "FAQs" "Tv" "TV" "Hr" "HR" "Pto" "PTO" "Usda" "USDA"
+  "Fda" "FDA" "Cdc" "CDC"
+-}}
+{{- range $bad, $good := $fixes -}}{{- $s = $s | replaceRE (printf "\\b%s\\b" $bad) $good -}}{{- end -}}
+{{- $s -}}
