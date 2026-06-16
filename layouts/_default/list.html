@@ -3,7 +3,7 @@
   <div class="list-inner">
     <div class="list-header">
       <p class="section-label">{{ if .IsHome }}All Articles{{ else if eq .Kind "taxonomy" }}Topics{{ else if eq .Kind "term" }}Browse Articles{{ else }}Latest Articles{{ end }}</p>
-      <h1 class="section-title">{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title | title }}{{ end }}</h1>
+      <h1 class="section-title">{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ partial "topic-label.html" .Title }}{{ end }}</h1>
       {{ if .Description }}<p class="section-desc">{{ .Description }}</p>{{ end }}
     </div>
 
@@ -19,7 +19,7 @@
             {{ end }}
             <div class="article-card-body">
               {{ if .Params.categories }}
-              <span class="article-cat">{{ index .Params.categories 0 | title }}</span>
+              <span class="article-cat">{{ partial "topic-label.html" (index .Params.categories 0) }}</span>
               {{ end }}
               <h2 class="article-title">{{ .Title }}</h2>
               <p class="article-excerpt">{{ .Summary | plainify | truncate 110 }}</p>
@@ -52,7 +52,7 @@
           <div class="widget-title">Categories</div>
           <ul class="widget-list">
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            {{- $lbl := replace $name "-" " " | title -}}
+            {{- $lbl := partial "topic-label.html" $name -}}
             {{- $lbl = replace $lbl "Hr" "HR" -}}{{- $lbl = replace $lbl "Pm" "PM" -}}{{- $lbl = replace $lbl "Diy" "DIY" -}}{{- $lbl = replace $lbl "Hoa" "HOA" -}}{{- $lbl = replace $lbl "Hvac" "HVAC" -}}{{- $lbl = replace $lbl "Rv" "RV" -}}
             <li><a href="{{ with site.GetPage (printf "/categories/%s" $name) }}{{ .RelPermalink }}{{ end }}">{{ $lbl }}</a></li>
             {{ end }}
