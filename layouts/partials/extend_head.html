@@ -1,13 +1,13 @@
 <!-- Open Graph -->
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} » {{ .Site.Title }}{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ if or (eq .Kind "term") (eq .Kind "taxonomy") }}{{ partial "topic-label.html" .Title }}{{ else }}{{ .Title }}{{ end }} » {{ .Site.Title }}{{ end }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 {{ with .Params.image }}<meta property="og:image" content="{{ . }}">{{ end }}
 <!-- Twitter Card -->
 <meta name="twitter:card" content="{{ if .Params.image }}summary_large_image{{ else }}summary{{ end }}">
-<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ if or (eq .Kind "term") (eq .Kind "taxonomy") }}{{ partial "topic-label.html" .Title }}{{ else }}{{ .Title }}{{ end }}{{ end }}">
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 {{ with .Params.image }}<meta name="twitter:image" content="{{ . }}">{{ end }}
 
