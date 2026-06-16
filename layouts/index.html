@@ -163,7 +163,7 @@
           {{ end }}
           <div class="article-card-body">
             {{ if $wideCard.Params.categories }}
-            <span class="article-cat">{{ index $wideCard.Params.categories 0 | title }}</span>
+            <span class="article-cat">{{ partial "topic-label.html" (index $wideCard.Params.categories 0) }}</span>
             {{ end }}
             <h2 class="article-title article-title-wide">{{ $wideCard.Title }}</h2>
             <p class="article-excerpt">{{ $wideCard.Summary | plainify | truncate 160 }}</p>
@@ -185,7 +185,7 @@
             {{ end }}
             <div class="article-card-body">
               {{ if .Params.categories }}
-              <span class="article-cat">{{ index .Params.categories 0 | title }}</span>
+              <span class="article-cat">{{ partial "topic-label.html" (index .Params.categories 0) }}</span>
               {{ end }}
               <h3 class="article-title">{{ .Title }}</h3>
               <p class="article-excerpt">{{ .Summary | plainify | truncate 100 }}</p>
