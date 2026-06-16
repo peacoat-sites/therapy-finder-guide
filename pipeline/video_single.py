@@ -38,8 +38,18 @@ MUSIC_URL      = "https://cdn.pixabay.com/audio/2022/08/02/audio_884fe92c21.mp3"
 
 DRY_RUN = "--dry-run" in sys.argv or os.environ.get("DRY_RUN", "").lower() == "true"
 
+# Stagger renders to fit the Shotstack free-tier credit budget (~20 credits/mo, ~3/pair).
+# Each site renders on ~1 ISO week out of RENDER_ROTATION_WEEKS (≈1 site/week fleet-wide).
+# Set RENDER_ROTATION_WEEKS=1 to disable (e.g. after upgrading the Shotstack plan).
+RENDER_ROTATION_WEEKS = int(os.environ.get("RENDER_ROTATION_WEEKS", "14") or "14")
+
 
 # ── Retry helper ──────────────────────────────────────────────────────────────
+
+class ShotstackCreditsExhausted(RuntimeError):
+    """Render rejected for insufficient Shotstack credits — not retryable (credits
+    don't replenish on retry); caught in main() for a clean skip instead of a hard fail."""
+
 
 def with_retry(fn, label="op", max_attempts=3, initial_delay=8):
     """
@@ -49,6 +59,8 @@ def with_retry(fn, label="op", max_attempts=3, initial_delay=8):
     for attempt in range(1, max_attempts + 1):
         try:
             return fn()
+        except ShotstackCreditsExhausted:
+            raise  # fail fast — retrying won't bring credits back
         except Exception as exc:
             if attempt == max_attempts:
                 print(f"  [{label}] All {max_attempts} attempts exhausted. Final error: {exc}")
@@ -740,6 +752,9 @@ def build_and_render(script: dict, clips: list, audio_url: str,
         )
         data = r.json()
         if not data.get("success"):
+            blob = json.dumps(data).lower()
+            if "credit" in blob and ("exceed" in blob or "upgrade" in blob or "plan limit" in blob):
+                raise ShotstackCreditsExhausted(f"Shotstack out of credits [{label}]: {data}")
             raise RuntimeError(f"Shotstack submit [{label}]: {data}")
         return data["response"]["id"]
 
@@ -1022,12 +1037,35 @@ def set_youtube_thumbnail(video_id: str, image_url: str, label: str) -> None:
         print(f"  [thumb-{label}] skip (non-fatal): {exc}")
 
 
+# ── Render rotation (Shotstack credit budgeting) ─────────────────────────────
+
+def _is_render_week() -> bool:
+    """True if this site should render this ISO week. Staggers the fleet to ~1 site/week
+    so weekly crons fit the Shotstack free-tier credit budget. Manual workflow_dispatch
+    always renders; RENDER_ROTATION_WEEKS=1 disables the gate entirely."""
+    if os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch":
+        return True
+    if RENDER_ROTATION_WEEKS <= 1:
+        return True
+    import hashlib
+    slot = int(hashlib.md5(SITE_SLUG.encode()).hexdigest(), 16) % RENDER_ROTATION_WEEKS
+    week = date.today().isocalendar()[1]
+    if week % RENDER_ROTATION_WEEKS == slot:
+        return True
+    print(f"  [ROTATION] ISO week {week}: not {SITE_SLUG}'s render week "
+          f"(slot {slot} of {RENDER_ROTATION_WEEKS}). Skipping to conserve Shotstack credits "
+          f"(manual dispatch overrides; set RENDER_ROTATION_WEEKS=1 to disable).")
+    return False
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
     print(f"\n{'='*60}")
     print(f"VIDEO PIPELINE: {SITE_SLUG}")
     print(f"{'='*60}")
+    if not _is_render_week():
+        return
     if DRY_RUN:
         print("[DRY RUN] Will stop after audio synthesis")
 
@@ -1087,15 +1125,21 @@ def main():
     print("STEP 5b: Checking Shotstack credit balance...")
     check_shotstack_credits(min_required=3)
 
-    print("STEP 6-7a: Rendering Shorts (9:16) via Shotstack...")
-    shorts_url = with_retry(lambda: build_and_render(script, portrait_clips, audio_url, words, audio_duration, is_shorts=True), label="render Shorts", max_attempts=3, initial_delay=20)
-    print(f"  Shorts render done: {shorts_url[:60]}...")
-    verify_url_accessible(shorts_url, "Shorts render URL")
+    try:
+        print("STEP 6-7a: Rendering Shorts (9:16) via Shotstack...")
+        shorts_url = with_retry(lambda: build_and_render(script, portrait_clips, audio_url, words, audio_duration, is_shorts=True), label="render Shorts", max_attempts=3, initial_delay=20)
+        print(f"  Shorts render done: {shorts_url[:60]}...")
+        verify_url_accessible(shorts_url, "Shorts render URL")
 
-    print("STEP 6-7b: Rendering Standard (16:9) via Shotstack...")
-    standard_url = with_retry(lambda: build_and_render(script, landscape_clips, audio_url, words, audio_duration, is_shorts=False), label="render Standard", max_attempts=3, initial_delay=20)
-    print(f"  Standard render done: {standard_url[:60]}...")
-    verify_url_accessible(standard_url, "Standard render URL")
+        print("STEP 6-7b: Rendering Standard (16:9) via Shotstack...")
+        standard_url = with_retry(lambda: build_and_render(script, landscape_clips, audio_url, words, audio_duration, is_shorts=False), label="render Standard", max_attempts=3, initial_delay=20)
+        print(f"  Standard render done: {standard_url[:60]}...")
+        verify_url_accessible(standard_url, "Standard render URL")
+    except ShotstackCreditsExhausted as exc:
+        print(f"\n[SKIP] {exc}")
+        print("[SKIP] Out of Shotstack credits for this period — skipping render with nothing "
+              "uploaded. Resumes automatically when credits reset or the plan is upgraded.")
+        return
 
     print("STEP 8a: Downloading Shorts MP4...")
     dl_shorts = requests.get(shorts_url, timeout=120)
