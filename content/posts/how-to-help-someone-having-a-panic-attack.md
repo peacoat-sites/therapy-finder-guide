@@ -3,7 +3,7 @@ title: "How To Help Someone Having A Panic Attack"
 date: 2026-06-04T12:24:46.132245+00:00
 draft: false
 description: "Learn how to help someone having a panic attack with calm, practical steps. Discover what to say, what to avoid, and when to seek professional help."
-image: "https://images.pexels.com/photos/8410835/pexels-photo-8410835.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37494324/pexels-photo-37494324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Crisis"]
 tags: ["help", "someone", "having", "panic", "attack"]
 slug: "how-to-help-someone-having-a-panic-attack"
@@ -146,7 +146,7 @@ The single most useful thing you can bring to someone mid-panic is a regulated n
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [Manuel Camacho-Navarro](https://www.pexels.com/@himanuuu) via Pexels*
 
 ---
 

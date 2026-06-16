@@ -3,7 +3,7 @@ title: "How To Know If Therapy Is Working"
 date: 2026-05-29T12:49:28.167265+00:00
 draft: false
 description: "Wondering if therapy is actually helping you? Learn the key signs that therapy is working, from improved mood to better relationships, and when to reassess your"
-image: "https://images.pexels.com/photos/5699457/pexels-photo-5699457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/23496501/pexels-photo-23496501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["know", "therapy", "working"]
 slug: "how-to-know-if-therapy-is-working"
@@ -147,7 +147,7 @@ Progress in therapy is real even when it's hard to see. The fact that you're ask
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

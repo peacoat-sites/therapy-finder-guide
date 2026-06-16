@@ -3,7 +3,7 @@ title: "Therapy For Eating Disorders"
 date: 2026-06-12T16:32:54.171790+00:00
 draft: false
 description: "Discover effective therapy options for eating disorders, including CBT, DBT and family-based treatment, to support lasting recovery and improve your mental heal"
-image: "https://images.pexels.com/photos/7176318/pexels-photo-7176318.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5842232/pexels-photo-5842232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "eating", "disorders"]
 slug: "therapy-for-eating-disorders"
@@ -100,7 +100,7 @@ Coverage varies enormously, but the Mental Health Parity and Addiction Equity Ac
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
 
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
+*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "When To Switch Therapists"
 date: 2026-05-22T04:28:25.616035+00:00
 draft: false
 description: "Sessions feel like just going through the motions? Learn the real signs it is time to switch therapists and how to make the change without guilt."
-image: "https://images.pexels.com/photos/9064679/pexels-photo-9064679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8560047/pexels-photo-8560047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["when", "switch", "therapists"]
 slug: "when-to-switch-therapists"
@@ -122,7 +122,7 @@ The decision to switch therapists is rarely dramatic. It usually just starts wit
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 
 
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
+*Photo: [Timur Weber](https://www.pexels.com/@timur-weber) via Pexels*
 
 ---
 

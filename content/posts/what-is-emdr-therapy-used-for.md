@@ -3,7 +3,7 @@ title: "What Is EMDR Therapy Used For"
 date: 2026-06-02T12:55:51.580973+00:00
 draft: false
 description: "EMDR therapy helps treat trauma, PTSD, anxiety, phobias, and more. Discover how this powerful eye movement technique works and what conditions it can effectivel"
-image: "https://images.pexels.com/photos/7722558/pexels-photo-7722558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37719875/pexels-photo-37719875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["what", "emdr", "therapy", "used"]
 slug: "what-is-emdr-therapy-used-for"
@@ -132,7 +132,7 @@ The bottom line is simpler than most EMDR coverage makes it: this is a well-rese
 - **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [Mario Spencer](https://www.pexels.com/@spencphoto) via Pexels*
 
 ---
 

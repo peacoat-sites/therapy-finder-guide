@@ -3,7 +3,7 @@ title: "How Much Does Therapy Cost"
 date: 2026-05-26T18:59:02.852589+00:00
 draft: false
 description: "Wondering how much therapy costs? Explore average session prices, insurance coverage, sliding scale fees, and affordable mental health options to fit your budge"
-image: "https://images.pexels.com/photos/7644016/pexels-photo-7644016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9064323/pexels-photo-9064323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["much", "does", "therapy", "cost"]
 slug: "how-much-does-therapy-cost"
@@ -137,7 +137,7 @@ The cost of therapy is a real barrier, and I don't want to minimize that. But it
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

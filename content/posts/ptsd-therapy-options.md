@@ -3,7 +3,7 @@ title: "PTSD Therapy Options"
 date: 2026-05-19T19:24:52.332574+00:00
 draft: false
 description: "Explore effective PTSD therapy options including CBT, EMDR, and exposure therapy. Learn how professional treatment can help manage symptoms and improve your qua"
-image: "https://images.pexels.com/photos/6640401/pexels-photo-6640401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7467842/pexels-photo-7467842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["PTSD", "therapy", "options"]
 slug: "ptsd-therapy-options"
@@ -144,7 +144,7 @@ Recovery from PTSD isn't linear, and it isn't fast, but it's real. The brain tha
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
 
-*Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

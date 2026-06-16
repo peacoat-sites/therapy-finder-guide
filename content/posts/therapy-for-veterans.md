@@ -3,7 +3,7 @@ title: "Therapy For Veterans"
 date: 2026-06-15T18:10:32.700830+00:00
 draft: false
 description: "Discover effective therapy options for veterans dealing with PTSD, anxiety, and trauma. Learn how professional support can help veterans heal and thrive."
-image: "https://images.pexels.com/photos/7467911/pexels-photo-7467911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7467843/pexels-photo-7467843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Specialized"]
 tags: ["therapy", "veterans"]
 author: "Kim Davis"

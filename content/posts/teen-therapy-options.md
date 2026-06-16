@@ -3,7 +3,7 @@ title: "Teen Therapy Options"
 date: 2026-05-25T12:48:33.503757+00:00
 draft: false
 description: "Explore the best teen therapy options available, from cognitive behavioral therapy to group counseling. Find the right mental health support for your teenager t"
-image: "https://images.pexels.com/photos/27177631/pexels-photo-27177631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4100425/pexels-photo-4100425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Specialized"]
 tags: ["teen", "therapy", "options"]
 slug: "teen-therapy-options"
@@ -126,7 +126,7 @@ Getting your teenager into the right therapy isn't always fast or easy, and ther
 - **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

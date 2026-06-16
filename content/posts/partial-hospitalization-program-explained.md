@@ -3,7 +3,7 @@ title: "Partial Hospitalization Program Explained"
 date: 2026-06-16T18:21:35.435534+00:00
 draft: false
 description: "Learn what a partial hospitalization program is, how it works, who it helps, and what to expect during treatment in this clear, complete overview."
-image: "https://images.pexels.com/photos/34516671/pexels-photo-34516671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5711032/pexels-photo-5711032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Level of Care"]
 tags: ["partial", "hospitalization", "program", "explained"]
 author: "Dr. Chris Peterson"
@@ -91,7 +91,7 @@ Building on skills between sessions can help significantly. Workbooks designed f
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
 
-*Photo: [Caleb Oquendo](https://www.pexels.com/@caleboquendo) via Pexels*
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
 

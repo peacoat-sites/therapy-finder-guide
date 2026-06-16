@@ -3,7 +3,7 @@ title: "EMDR Therapy Explained"
 date: 2026-05-27T16:47:26.090195+00:00
 draft: false
 description: "Discover how EMDR therapy works, what to expect in sessions, and how this evidence-based treatment helps people process trauma and overcome distressing memories"
-image: "https://images.pexels.com/photos/4872028/pexels-photo-4872028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36697319/pexels-photo-36697319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["EMDR", "therapy", "explained"]
 slug: "emdr-therapy-explained"
@@ -140,7 +140,7 @@ If you've been living with a trauma that talk therapy alone hasn't touched, EMDR
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

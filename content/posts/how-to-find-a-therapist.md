@@ -3,7 +3,7 @@ title: "How To Find A Therapist"
 date: 2026-05-27T22:04:54.082156+00:00
 draft: false
 description: "Find the right therapist for your needs with our step-by-step guide. Learn how to search, compare, and choose a mental health professional with confidence."
-image: "https://images.pexels.com/photos/7495291/pexels-photo-7495291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8430313/pexels-photo-8430313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["find", "therapist"]
 slug: "how-to-find-a-therapist"
@@ -130,7 +130,7 @@ The process of finding a therapist is genuinely imperfect, and the mental health
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
 

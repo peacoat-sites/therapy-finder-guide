@@ -3,7 +3,7 @@ title: "Co-Parenting Therapy"
 date: 2026-06-13T15:21:04.942686+00:00
 draft: false
 description: "Discover how co-parenting therapy helps separated parents communicate better, reduce conflict, and prioritize their children's well-being with professional guid"
-image: "https://images.pexels.com/photos/7176322/pexels-photo-7176322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5699421/pexels-photo-5699421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["co-parenting", "therapy"]
 slug: "co-parenting-therapy"
@@ -98,7 +98,7 @@ The honest truth is that co-parenting therapy works best when at least one paren
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
 
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
+*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 
 ---
 

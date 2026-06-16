@@ -3,7 +3,7 @@ title: "What To Expect First Therapy Session"
 date: 2026-05-28T14:49:06.814407+00:00
 draft: false
 description: "Nervous about your first therapy session? Learn what to expect, how to prepare, and what your therapist will ask so you can feel calm and confident walking in."
-image: "https://images.pexels.com/photos/36631703/pexels-photo-36631703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/23496505/pexels-photo-23496505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting Started"]
 tags: ["what", "expect", "first", "therapy", "session"]
 slug: "what-to-expect-first-therapy-session"
@@ -139,7 +139,7 @@ Therapy can change your life. That's not a marketing line, it's something I've w
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
 
-*Photo: [World Sikh Organization of Canada](https://www.pexels.com/@worldsikhorg) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

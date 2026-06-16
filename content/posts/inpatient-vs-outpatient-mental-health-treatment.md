@@ -3,7 +3,7 @@ title: "Inpatient Vs Outpatient Mental Health Treatment"
 date: 2026-06-03T14:12:07.100960+00:00
 draft: false
 description: "Explore the key differences between inpatient and outpatient mental health treatment to help you choose the right level of care for your needs and recovery goal"
-image: "https://images.pexels.com/photos/5700149/pexels-photo-5700149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6129211/pexels-photo-6129211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Level of Care"]
 tags: ["inpatient", "outpatient", "mental", "health", "treatment"]
 slug: "inpatient-vs-outpatient-mental-health-treatment"
@@ -122,7 +122,7 @@ You deserve care that actually fits what you're going through. That's worth advo
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

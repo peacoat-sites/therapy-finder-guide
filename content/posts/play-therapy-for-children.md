@@ -3,7 +3,7 @@ title: "Play Therapy For Children"
 date: 2026-06-12T16:34:40.374182+00:00
 draft: false
 description: "Discover how play therapy helps children express emotions, overcome trauma, and improve behaviour through guided, therapeutic play techniques with trained profe"
-image: "https://images.pexels.com/photos/9064680/pexels-photo-9064680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7296459/pexels-photo-7296459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Specialized"]
 tags: ["play", "therapy", "children"]
 slug: "play-therapy-for-children"
@@ -98,7 +98,7 @@ Ask the therapist what you can do. A good one will tell you.
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Antidepressants And Therapy Combined"
 date: 2026-06-14T15:29:29.412809+00:00
 draft: false
 description: "Discover how combining antidepressants with therapy can boost treatment outcomes for depression, offering a powerful, evidence-based approach to lasting mental "
-image: "https://images.pexels.com/photos/3958461/pexels-photo-3958461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6255882/pexels-photo-6255882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Treatment"]
 tags: ["antidepressants", "therapy", "combined"]
 slug: "antidepressants-and-therapy-combined"
@@ -94,7 +94,7 @@ The combination of medication and therapy isn't a guaranteed fix. Nothing in men
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
 
-*Photo: [Polina Zimmerman](https://www.pexels.com/@polina-zimmerman) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

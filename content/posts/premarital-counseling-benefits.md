@@ -3,7 +3,7 @@ title: "Premarital Counseling Benefits"
 date: 2026-05-21T17:44:44.539824+00:00
 draft: false
 description: "Discover the key benefits of premarital counseling and how it strengthens communication, builds trust, and prepares couples for a healthy, lasting marriage."
-image: "https://images.pexels.com/photos/23496497/pexels-photo-23496497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7176182/pexels-photo-7176182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["premarital", "counseling", "benefits"]
 slug: "premarital-counseling-benefits"
@@ -116,7 +116,7 @@ Marriage is genuinely hard, in the best possible way, in the way that anything w
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

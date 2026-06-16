@@ -3,7 +3,7 @@ title: "Therapy For Trauma Survivors"
 date: 2026-05-27T02:34:29.839682+00:00
 draft: false
 description: "Discover effective trauma therapy approaches, evidence-based treatments, and coping strategies to help survivors heal from PTSD and emotional wounds."
-image: "https://images.pexels.com/photos/5483051/pexels-photo-5483051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8964945/pexels-photo-8964945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "trauma", "survivors"]
 slug: "therapy-for-trauma-survivors"
@@ -155,7 +155,7 @@ Getting into a car and driving to a therapist's office, or opening a telehealth 
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [olia danilevich](https://www.pexels.com/@olia-danilevich) via Pexels*
 
 ---
 

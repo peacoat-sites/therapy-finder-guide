@@ -3,7 +3,7 @@ title: "Therapist Vs Psychologist Vs Psychiatrist"
 date: 2026-05-18T06:57:23.565941+00:00
 draft: false
 description: "Confused about therapist vs psychologist vs psychiatrist? Learn the key differences in training, treatment approaches, and when to see each mental health profes"
-image: "https://images.pexels.com/photos/6129152/pexels-photo-6129152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/23496502/pexels-photo-23496502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["therapist", "psychologist", "psychiatrist"]
 slug: "therapist-vs-psychologist-vs-psychiatrist"
@@ -144,7 +144,7 @@ The right provider isn't the one with the most impressive degree or the longest 
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 
 
-*Photo: [World Sikh Organization of Canada](https://www.pexels.com/@worldsikhorg) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

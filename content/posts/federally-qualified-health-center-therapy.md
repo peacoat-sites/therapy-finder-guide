@@ -3,7 +3,7 @@ title: "Federally Qualified Health Center Therapy"
 date: 2026-05-22T06:20:57.288732+00:00
 draft: false
 description: "Discover how federally qualified health centers provide affordable therapy services to underserved communities, offering sliding scale fees and comprehensive me"
-image: "https://images.pexels.com/photos/4173251/pexels-photo-4173251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8460030/pexels-photo-8460030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["federally", "qualified", "health", "center", "therapy"]
 slug: "federally-qualified-health-center-therapy"

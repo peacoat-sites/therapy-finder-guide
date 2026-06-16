@@ -3,7 +3,7 @@ title: "Therapy For Perfectionism"
 date: 2026-06-11T17:10:03.742340+00:00
 draft: false
 description: "Struggling with perfectionism? Discover how therapy can help you overcome unrealistic standards, reduce anxiety, and build a healthier, more balanced mindset to"
-image: "https://images.pexels.com/photos/5699467/pexels-photo-5699467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8961409/pexels-photo-8961409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "perfectionism"]
 slug: "therapy-for-perfectionism"
@@ -86,7 +86,7 @@ Progress is rarely linear. Most people I've worked with describe a period around
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [TRAVEL BLOG](https://www.pexels.com/@travel-blog-26954066) via Pexels*
 
 ---
 

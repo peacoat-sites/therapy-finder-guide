@@ -3,7 +3,7 @@ title: "CBT Worksheets Explained"
 date: 2026-06-15T18:12:12.414937+00:00
 draft: false
 description: "Discover how CBT worksheets work, what they cover, and how they help you challenge negative thoughts and build healthier thinking patterns."
-image: "https://images.pexels.com/photos/9065300/pexels-photo-9065300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6532528/pexels-photo-6532528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["worksheets", "explained"]
 author: "Taylor Brooks"
@@ -105,7 +105,7 @@ The research is also worth being honest about. CBT is one of the most well-studi
 - **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Budgeron Bach](https://www.pexels.com/@budgeron-bach) via Pexels*
 
 ---
 

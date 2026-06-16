@@ -3,7 +3,7 @@ title: "Group Therapy Benefits"
 date: 2026-05-24T12:27:25.440937+00:00
 draft: false
 description: "Group therapy offers emotional support, reduces isolation, and provides affordable mental health treatment through shared experiences with others facing similar"
-image: "https://images.pexels.com/photos/7176305/pexels-photo-7176305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5711158/pexels-photo-5711158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["group", "therapy", "benefits"]
 slug: "group-therapy-benefits"
@@ -124,7 +124,7 @@ Starting group therapy takes a specific kind of courage, the willingness to be r
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
 
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
 

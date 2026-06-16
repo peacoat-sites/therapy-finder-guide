@@ -3,7 +3,7 @@ title: "Does Marriage Counseling Actually Work"
 date: 2026-06-10T16:51:20.178339+00:00
 draft: false
 description: "Wondering if marriage counseling actually works? Discover success rates, what factors influence outcomes, and how couples therapy can help save or strengthen yo"
-image: "https://images.pexels.com/photos/7579112/pexels-photo-7579112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4098223/pexels-photo-4098223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["does", "marriage", "counseling", "actually", "work"]
 slug: "does-marriage-counseling-actually-work"
@@ -114,7 +114,7 @@ The research on couples therapy is solid enough that dismissing it out of hand w
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 
 
-*Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

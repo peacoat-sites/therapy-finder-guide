@@ -3,7 +3,7 @@ title: "Therapy For Depression And Anxiety Together"
 date: 2026-06-03T14:09:57.887566+00:00
 draft: false
 description: "Discover effective therapy options for treating depression and anxiety together. Learn how combined approaches can help you manage symptoms and improve your men"
-image: "https://images.pexels.com/photos/7176219/pexels-photo-7176219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7699423/pexels-photo-7699423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "depression", "anxiety", "together"]
 slug: "therapy-for-depression-and-anxiety-together"
@@ -118,7 +118,7 @@ Yes, and more often than people expect. Early sessions can stir up things you've
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
 
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
+*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

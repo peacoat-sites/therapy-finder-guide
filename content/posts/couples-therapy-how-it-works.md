@@ -3,7 +3,7 @@ title: "Couples Therapy How It Works"
 date: 2026-05-28T06:49:18.222849+00:00
 draft: false
 description: "Discover how couples therapy works, what to expect in sessions, and how it can help you and your partner improve communication, resolve conflict, and strengthen"
-image: "https://images.pexels.com/photos/34623526/pexels-photo-34623526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9064805/pexels-photo-9064805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["couples", "therapy", "works"]
 slug: "couples-therapy-how-it-works"
@@ -120,7 +120,7 @@ The fact that you're researching this is already something. Most people spend ye
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 
 
-*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "CBT Vs DBT Therapy What Is The Difference"
 date: 2026-06-10T16:48:47.901036+00:00
 draft: false
 description: "Explore the key differences between CBT and DBT therapy, how each approach works, and which treatment may be best suited for your mental health needs."
-image: "https://images.pexels.com/photos/7699488/pexels-photo-7699488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7176297/pexels-photo-7176297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["therapy", "what", "difference"]
 slug: "cbt-vs-dbt-therapy-what-is-the-difference"
@@ -106,7 +106,7 @@ The honest thing I'd leave you with: don't let the alphabet soup of therapy type
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
 
-*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

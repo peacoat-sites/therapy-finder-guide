@@ -3,7 +3,7 @@ title: "Mindfulness-Based Therapy"
 date: 2026-05-19T18:00:39.183874+00:00
 draft: false
 description: "Discover how mindfulness-based therapy combines ancient meditation practices with modern psychology to reduce stress, anxiety, and depression effectively."
-image: "https://images.pexels.com/photos/3822622/pexels-photo-3822622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/6793195/pexels-photo-6793195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["mindfulness-based", "therapy"]
 slug: "mindfulness-based-therapy"

@@ -3,7 +3,7 @@ title: "Somatic Therapy Explained"
 date: 2026-05-20T04:50:24.472596+00:00
 draft: false
 description: "Somatic therapy explained: Learn how this body-focused healing approach treats trauma and emotional pain by reconnecting mind and body for lasting wellness."
-image: "https://images.pexels.com/photos/5794033/pexels-photo-5794033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9064779/pexels-photo-9064779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["somatic", "therapy", "explained"]
 slug: "somatic-therapy-explained"
@@ -130,7 +130,7 @@ If you've spent years understanding your pain intellectually without feeling bet
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

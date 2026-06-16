@@ -3,7 +3,7 @@ title: "Therapy For Body Image Issues"
 date: 2026-06-14T15:27:25.414491+00:00
 draft: false
 description: "Struggling with body image issues? Discover how therapy can help you build a healthier relationship with your body, boost confidence, and improve your overall w"
-image: "https://images.pexels.com/photos/6255607/pexels-photo-6255607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37894683/pexels-photo-37894683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy", "body", "image", "issues"]
 slug: "therapy-for-body-image-issues"
@@ -92,7 +92,7 @@ If you're ever in a moment of acute distress, remember that the 988 Suicide and 
 - **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Makingoffphotos SouZynan DDV](https://www.pexels.com/@makingoffphotos-souzynan-ddv-1166572) via Pexels*
 
 ---
 

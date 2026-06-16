@@ -3,7 +3,7 @@ title: "Therapy For OCD"
 date: 2026-05-28T23:01:26.262314+00:00
 draft: false
 description: "Explore evidence-based therapy options for OCD including ERP and cognitive behavioral therapy. Learn how treatment can help manage symptoms and improve quality "
-image: "https://images.pexels.com/photos/7176317/pexels-photo-7176317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9065234/pexels-photo-9065234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Conditions"]
 tags: ["therapy"]
 slug: "therapy-for-ocd"
@@ -122,7 +122,7 @@ Living with OCD is genuinely hard. The doubt, the rituals, the exhaustion of fig
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 
 
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

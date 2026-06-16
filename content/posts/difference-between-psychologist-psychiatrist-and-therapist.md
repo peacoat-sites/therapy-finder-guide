@@ -3,7 +3,7 @@ title: "Difference Between Psychologist Psychiatrist And Therapist"
 date: 2026-06-09T16:19:55.542905+00:00
 draft: false
 description: "Confused about psychologists, psychiatrists, and therapists? Discover the key differences in their training, roles, and treatments to find the right mental heal"
-image: "https://images.pexels.com/photos/7447066/pexels-photo-7447066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9064360/pexels-photo-9064360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["General Info"]
 tags: ["difference", "between", "psychologist", "psychiatrist", "therapist"]
 slug: "difference-between-psychologist-psychiatrist-and-therapist"
@@ -106,7 +106,7 @@ The system is genuinely confusing. You're not missing something obvious. But the
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
 
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

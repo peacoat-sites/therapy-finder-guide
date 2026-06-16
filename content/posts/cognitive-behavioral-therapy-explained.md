@@ -3,7 +3,7 @@ title: "Cognitive Behavioral Therapy Explained"
 date: 2026-05-26T16:12:49.624660+00:00
 draft: false
 description: "Learn how cognitive behavioral therapy works, what to expect from CBT sessions, and how this evidence-based treatment can help manage anxiety, depression, and m"
-image: "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9064691/pexels-photo-9064691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["cognitive", "behavioral", "therapy", "explained"]
 slug: "cognitive-behavioral-therapy-explained"
@@ -119,7 +119,7 @@ If you're sitting with that 3 a.m. anxiety right now, or a version of it, the mo
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 
 
-*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

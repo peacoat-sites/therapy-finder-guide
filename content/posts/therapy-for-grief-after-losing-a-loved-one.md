@@ -3,7 +3,7 @@ title: "Therapy For Grief After Losing A Loved One"
 date: 2026-06-11T17:08:14.333047+00:00
 draft: false
 description: "Discover how therapy can help you heal after losing a loved one. Explore grief counseling options, coping strategies, and compassionate support to guide your jo"
-image: "https://images.pexels.com/photos/3958372/pexels-photo-3958372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6255874/pexels-photo-6255874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Life Events"]
 tags: ["therapy", "grief", "after", "losing", "loved"]
 slug: "therapy-for-grief-after-losing-a-loved-one"
@@ -100,7 +100,7 @@ Grief changes you. That's not a warning; it's just true. What therapy can do is 
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 
 
-*Photo: [Polina Zimmerman](https://www.pexels.com/@polina-zimmerman) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

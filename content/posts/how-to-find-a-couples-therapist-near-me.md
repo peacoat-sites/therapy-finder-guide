@@ -3,7 +3,7 @@ title: "How To Find A Couples Therapist Near Me"
 date: 2026-06-02T12:53:55.984177+00:00
 draft: false
 description: "Find the right couples therapist near you with our simple guide. Learn what to look for, where to search, and how to choose the best fit for your relationship."
-image: "https://images.pexels.com/photos/5336919/pexels-photo-5336919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7176232/pexels-photo-7176232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["find", "couples", "therapist", "near"]
 slug: "how-to-find-a-couples-therapist-near-me"
@@ -126,7 +126,7 @@ The search for a couples therapist can feel like one more thing to fight about, 
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

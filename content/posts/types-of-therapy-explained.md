@@ -3,7 +3,7 @@ title: "Types Of Therapy Explained"
 date: 2026-05-21T06:24:19.414039+00:00
 draft: false
 description: "Explore the most common types of therapy explained simply, from CBT to psychodynamic approaches, to help you find the right mental health support for your needs"
-image: "https://images.pexels.com/photos/3182765/pexels-photo-3182765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/23495753/pexels-photo-23495753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["types", "therapy", "explained"]
 slug: "types-of-therapy-explained"

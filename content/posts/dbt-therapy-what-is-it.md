@@ -3,7 +3,7 @@ title: "DBT Therapy What Is It"
 date: 2026-05-24T20:44:34.831968+00:00
 draft: false
 description: "Discover what DBT therapy is, how it works, and who it can help. Learn about the key skills taught in dialectical behaviour therapy and its proven benefits."
-image: "https://images.pexels.com/photos/33516654/pexels-photo-33516654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5711027/pexels-photo-5711027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["therapy", "what"]
 slug: "dbt-therapy-what-is-it"
@@ -135,7 +135,7 @@ The most important thing I want you to take away is this: if your emotions have 
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 
 
-*Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
 

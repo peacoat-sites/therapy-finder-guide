@@ -3,7 +3,7 @@ title: "How To Find Affordable Therapy Near Me"
 date: 2026-06-05T12:23:49.372371+00:00
 draft: false
 description: "Find affordable therapy near you with our practical guide. Explore sliding scale fees, community mental health centers, online options, and tips to reduce thera"
-image: "https://images.pexels.com/photos/14797780/pexels-photo-14797780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9064316/pexels-photo-9064316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cost & Access"]
 tags: ["find", "affordable", "therapy", "near"]
 slug: "how-to-find-affordable-therapy-near-me"
@@ -96,7 +96,7 @@ You don't need a perfect plan. You need a first step, one phone call, one email,
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
 
-*Photo: [World Sikh Organization of Canada](https://www.pexels.com/@worldsikhorg) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

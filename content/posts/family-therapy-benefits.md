@@ -3,7 +3,7 @@ title: "Family Therapy Benefits"
 date: 2026-05-24T09:17:52.643899+00:00
 draft: false
 description: "Discover the key benefits of family therapy, including improved communication, stronger bonds, and effective conflict resolution to help your family heal and th"
-image: "https://images.pexels.com/photos/8317785/pexels-photo-8317785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7447263/pexels-photo-7447263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Relationship"]
 tags: ["family", "therapy", "benefits"]
 slug: "family-therapy-benefits"
@@ -121,7 +121,7 @@ Families aren't supposed to be perfect. They're supposed to be real, which means
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
 
-*Photo: [World Sikh Organization of Canada](https://www.pexels.com/@worldsikhorg) via Pexels*
+*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 
 ---
 

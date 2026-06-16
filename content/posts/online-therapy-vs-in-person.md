@@ -3,7 +3,7 @@ title: "Online Therapy Vs In-Person"
 date: 2026-05-22T04:57:50.458519+00:00
 draft: false
 description: "Discover the key differences between online therapy and in-person therapy to help you choose the best option for your mental health needs and lifestyle."
-image: "https://images.pexels.com/photos/8453801/pexels-photo-8453801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5905961/pexels-photo-5905961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Therapy Types"]
 tags: ["online", "therapy", "in-person"]
 slug: "online-therapy-vs-in-person"
@@ -132,7 +132,7 @@ The decision between online and in-person therapy matters less than the decision
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
 
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
+*Photo: [Katerina Holmes](https://www.pexels.com/@katerina-holmes) via Pexels*
 
 ---
 

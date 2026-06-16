@@ -3,7 +3,7 @@ title: "How To Find A Therapist That Takes My Insurance"
 date: 2026-06-09T16:21:59.048537+00:00
 draft: false
 description: "Learn how to find a therapist that takes your insurance with simple steps, including using your insurer's directory, verifying coverage, and comparing in-networ"
-image: "https://images.pexels.com/photos/5699490/pexels-photo-5699490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8441817/pexels-photo-8441817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Finding Help"]
 tags: ["find", "therapist", "that", "takes", "insurance"]
 slug: "how-to-find-a-therapist-that-takes-my-insurance"
@@ -130,7 +130,7 @@ The system genuinely could be easier. It shouldn't require three phone calls and
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
 
-*Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
 
