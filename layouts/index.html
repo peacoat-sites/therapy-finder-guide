@@ -53,7 +53,7 @@
 
       <!-- All article data for JS to pick from -->
       <script id="carousel-articles" type="application/json">
-      [{{ range $i, $p := $pages }}{{ if and $p.Params.image (ne $p.Params.image "") }}{{ if $i }},{{ end }}{"u":"{{ $p.Permalink }}","t":"{{ $p.Title | htmlEscape }}","img":"{{ $p.Params.image }}","cat":"{{ if $p.Params.categories }}{{ index $p.Params.categories 0 | title }}{{ end }}","rt":{{ int (math.Round (div $p.WordCount 450.0)) }}}{{ end }}{{ end }}]
+      [{{ range $i, $p := $pages }}{{ if and $p.Params.image (ne $p.Params.image "") }}{{ if $i }},{{ end }}{"u":"{{ $p.Permalink }}","t":"{{ $p.Title | htmlEscape }}","img":"{{ $p.Params.image }}","cat":"{{ if $p.Params.categories }}{{ partial "topic-label.html" (index $p.Params.categories 0) }}{{ end }}","rt":{{ int (math.Round (div $p.WordCount 450.0)) }}}{{ end }}{{ end }}]
       </script>
 
       <script>
