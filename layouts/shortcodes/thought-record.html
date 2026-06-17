@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>CBT Thought Record Worksheet</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+.tr-wrap{font-family:inherit;margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;color:var(--text,#1a1a18)}
+.tr-header{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.tr-body{padding:20px}
+.tr-disclaimer{background:#fef2f2;border:1px solid #fecaca;border-radius:10px;padding:13px 15px;font-size:.88rem;line-height:1.5;color:#7f1d1d;margin-bottom:22px}
+.tr-disclaimer a{color:#991b1b}
+.tr-step{margin-bottom:24px;padding:18px;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:12px;background:var(--surface,#fff)}
+.tr-step-head{display:flex;align-items:center;gap:12px;margin-bottom:12px}
+.tr-badge{width:32px;height:32px;border-radius:50%;background:var(--accent,#059669);color:#fff;font-weight:800;font-size:.9rem;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.tr-step-label{font-weight:700;font-size:1rem}
+.tr-step-desc{font-size:.88rem;color:var(--muted,#6b6860);margin-bottom:10px;line-height:1.5}
+.tr-hint{font-size:.82rem;color:var(--stone,#a09c94);font-style:italic;margin-top:6px;line-height:1.4}
+textarea{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);font-family:inherit;resize:vertical;min-height:80px;transition:border-color .15s,box-shadow .15s}
+textarea:focus{outline:none;border-color:var(--accent,#059669);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#059669) 20%,transparent)}
+.tr-slider-wrap{margin-top:10px}
+.tr-slider-wrap label{font-size:.88rem;font-weight:600;color:var(--muted,#6b6860);display:block;margin-bottom:6px}
+.tr-slider-row{display:flex;align-items:center;gap:10px}
+input[type=range]{flex:1;accent-color:var(--accent,#059669)}
+.tr-slider-val{font-weight:700;font-size:1rem;color:var(--accent,#059669);min-width:42px;text-align:right}
+.tr-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.tr-chip{padding:5px 11px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:20px;font-size:.82rem;cursor:pointer;background:var(--surface2,#f5f2ec);color:var(--text,#1a1a18);transition:background .12s,color .12s}
+.tr-chip:hover{background:var(--accent,#059669);color:#fff;border-color:var(--accent,#059669)}
+.tr-btns{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
+.tr-btn{padding:9px 18px;border:none;border-radius:8px;font-size:.9rem;font-weight:600;cursor:pointer;transition:opacity .15s}
+.tr-btn-save{background:var(--accent,#059669);color:#fff}
+.tr-btn-clear{background:var(--surface2,#f5f2ec);color:var(--text,#1a1a18);border:1px solid var(--border-strong,rgba(0,0,0,.14))}
+.tr-btn-print{background:var(--surface2,#f5f2ec);color:var(--text,#1a1a18);border:1px solid var(--border-strong,rgba(0,0,0,.14))}
+.tr-btn:hover{opacity:.85}
+.tr-toast{display:none;margin-top:12px;padding:10px 14px;background:#d1fae5;color:#065f46;border-radius:8px;font-size:.9rem;font-weight:600}
+.tr-past{margin-top:28px;border-top:1px solid var(--border,rgba(0,0,0,.1));padding-top:20px}
+.tr-past-toggle{background:none;border:none;font-size:.95rem;font-weight:700;cursor:pointer;color:var(--accent,#059669);padding:0;display:flex;align-items:center;gap:6px}
+.tr-past-list{margin-top:14px;display:none}
+.tr-past-entry{padding:12px;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:10px;margin-bottom:10px;background:var(--surface2,#f5f2ec)}
+.tr-past-date{font-size:.8rem;color:var(--stone,#a09c94);margin-bottom:4px}
+.tr-past-excerpt{font-size:.9rem;color:var(--text,#1a1a18);margin-bottom:8px;line-height:1.4}
+.tr-past-del{background:#fee2e2;color:#991b1b;border:none;border-radius:6px;padding:4px 10px;font-size:.8rem;cursor:pointer;font-weight:600}
+.tr-past-del:hover{background:#fecaca}
+.tr-disclaimer-bottom{margin-top:20px;font-size:12px;color:var(--stone,#a09c94);line-height:1.5;border-top:1px solid var(--border,rgba(0,0,0,.1));padding-top:14px}
+@media print{.tr-btns,.tr-past,.tr-chips{display:none}.tr-wrap{border:none}}
+</style>
+</head>
+<body>
+<div class="tr-wrap">
+  <div class="tr-header">CBT Thought Record Worksheet</div>
+  <div class="tr-body">
+
+    <div class="tr-disclaimer">
+      <strong>Important:</strong> This worksheet is a self-help tool based on standard CBT techniques. It is not a substitute for working with a licensed therapist. If you are in crisis, call or text <strong>988</strong>.
+    </div>
+
+    <!-- Step 1 -->
+    <div class="tr-step">
+      <div class="tr-step-head"><div class="tr-badge">1</div><div class="tr-step-label">Situation</div></div>
+      <div class="tr-step-desc">What happened? (When, where, who was there?)</div>
+      <textarea id="tr-s1" rows="3" placeholder="Describe the situation that triggered your thoughts or feelings..."></textarea>
+    </div>
+
+    <!-- Step 2 -->
+    <div class="tr-step">
+      <div class="tr-step-head"><div class="tr-badge">2</div><div class="tr-step-label">Emotions</div></div>
+      <div class="tr-step-desc">What emotions did you feel? Rate the intensity (0–100%)</div>
+      <textarea id="tr-s2" rows="2" placeholder="e.g., Anxious, sad, angry..."></textarea>
+      <div class="tr-chips" id="tr-emotion-chips">
+        <span class="tr-chip" data-target="tr-s2">Anxious</span>
+        <span class="tr-chip" data-target="tr-s2">Sad</span>
+        <span class="tr-chip" data-target="tr-s2">Angry</span>
+        <span class="tr-chip" data-target="tr-s2">Ashamed</span>
+        <span class="tr-chip" data-target="tr-s2">Guilty</span>
+        <span class="tr-chip" data-target="tr-s2">Lonely</span>
+        <span class="tr-chip" data-target="tr-s2">Overwhelmed</span>
+        <span class="tr-chip" data-target="tr-s2">Scared</span>
+        <span class="tr-chip" data-target="tr-s2">Frustrated</span>
+        <span class="tr-chip" data-target="tr-s2">Hopeless</span>
+      </div>
+      <div class="tr-slider-wrap">
+        <label>Intensity</label>
+        <div class="tr-slider-row">
+          <input type="range" id="tr-sl1" min="0" max="100" value="50">
+          <span class="tr-slider-val" id="tr-sl1-val">50%</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 3 -->
+    <div class="tr-step">
+      <div class="tr-step-head"><div class="tr-badge">3</div><div class="tr-step-label">Automatic Thoughts</div></div>
+      <div class="tr-step-desc">What thoughts went through your mind? What were you telling yourself?</div>
+      <textarea id="tr-s3" rows="3" placeholder="e.g., 'I always mess everything up.' 'Nobody likes me.'"></textarea>
+    </div>
+
+    <!-- Step 4 -->
+    <div class="tr-step">
+      <div class="tr-step-head"><div class="tr-badge">4</div><div class="tr-step-label">Evidence Supporting This Thought</div></div>
+      <div class="tr-step-desc">What facts or evidence support this thought?</div>
+      <textarea id="tr-s4" rows="3" placeholder="List specific facts — not feelings — that support the thought..."></textarea>
+    </div>
+
+    <!-- Step 5 -->
+    <div class="tr-step">
+      <div class="tr-step-head"><div class="tr-badge">5</div><div class="tr-step-label">Evidence Against This Thought</div></div>
+      <div class="tr-step-desc">What evidence challenges this thought? What would a friend say?</div>
+      <textarea id="tr-s5" rows="3" placeholder="List facts that contradict the thought..."></textarea>
+      <div class="tr-hint">Is this thought 100% true, 100% of the time? What are the exceptions?</div>
+    </div>
+
+    <!-- Step 6 -->
+    <div class="tr-step">
+      <div class="tr-step-head"><div class="tr-badge">6</div><div class="tr-step-label">Balanced Perspective</div></div>
+      <div class="tr-step-desc">Write a more realistic, compassionate thought that considers all the evidence.</div>
+      <textarea id="tr-s6" rows="3" placeholder="e.g., 'I made a mistake this time, but I have succeeded many times before...'"></textarea>
+    </div>
+
+    <!-- Step 7 -->
+    <div class="tr-step">
+      <div class="tr-step-head"><div class="tr-badge">7</div><div class="tr-step-label">Outcome</div></div>
+      <div class="tr-step-desc">Re-rate your emotional intensity now (0–100%) and note what you want to do.</div>
+      <div class="tr-slider-wrap">
+        <label>Intensity now</label>
+        <div class="tr-slider-row">
+          <input type="range" id="tr-sl2" min="0" max="100" value="50">
+          <span class="tr-slider-val" id="tr-sl2-val">50%</span>
+        </div>
+      </div>
+      <div style="margin-top:12px">
+        <textarea id="tr-s7" rows="2" placeholder="What will I do differently?"></textarea>
+      </div>
+    </div>
+
+    <div class="tr-btns">
+      <button class="tr-btn tr-btn-save" id="tr-save">Save Entry</button>
+      <button class="tr-btn tr-btn-clear" id="tr-clear">Clear Form</button>
+      <button class="tr-btn tr-btn-print" onclick="window.print()">Print</button>
+    </div>
+    <div class="tr-toast" id="tr-toast">Entry saved!</div>
+
+    <!-- Past entries -->
+    <div class="tr-past">
+      <button class="tr-past-toggle" id="tr-past-toggle">&#9660; Past Entries</button>
+      <div class="tr-past-list" id="tr-past-list"></div>
+    </div>
+
+    <div class="tr-disclaimer-bottom">
+      This worksheet is a self-help tool based on standard CBT techniques. It is not a substitute for working with a licensed therapist. If you are in crisis, call or text <strong>988</strong>.
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var KEY = 'cbt-records';
+  function load(){ try{ return JSON.parse(localStorage.getItem(KEY)||'[]'); }catch(e){ return []; } }
+  function save(arr){ try{ localStorage.setItem(KEY, JSON.stringify(arr)); }catch(e){} }
+
+  // Slider live update
+  function bindSlider(id, valId){
+    var s=document.getElementById(id), v=document.getElementById(valId);
+    if(!s||!v) return;
+    s.addEventListener('input',function(){ v.textContent=s.value+'%'; });
+  }
+  bindSlider('tr-sl1','tr-sl1-val');
+  bindSlider('tr-sl2','tr-sl2-val');
+
+  // Emotion chips
+  document.querySelectorAll('.tr-chip').forEach(function(chip){
+    chip.addEventListener('click', function(){
+      var ta=document.getElementById(chip.dataset.target);
+      if(!ta) return;
+      var cur=ta.value.trim();
+      ta.value = cur ? cur+', '+chip.textContent : chip.textContent;
+    });
+  });
+
+  // Save entry
+  document.getElementById('tr-save').addEventListener('click', function(){
+    var entry={
+      date: new Date().toLocaleDateString(),
+      s1: document.getElementById('tr-s1').value,
+      s2: document.getElementById('tr-s2').value,
+      sl1: document.getElementById('tr-sl1').value+'%',
+      s3: document.getElementById('tr-s3').value,
+      s4: document.getElementById('tr-s4').value,
+      s5: document.getElementById('tr-s5').value,
+      s6: document.getElementById('tr-s6').value,
+      sl2: document.getElementById('tr-sl2').value+'%',
+      s7: document.getElementById('tr-s7').value,
+    };
+    var arr=load();
+    arr.unshift(entry);
+    save(arr);
+    var toast=document.getElementById('tr-toast');
+    toast.style.display='block';
+    setTimeout(function(){ toast.style.display='none'; }, 2500);
+    renderPast();
+  });
+
+  // Clear form
+  document.getElementById('tr-clear').addEventListener('click', function(){
+    ['tr-s1','tr-s2','tr-s3','tr-s4','tr-s5','tr-s6','tr-s7'].forEach(function(id){
+      var el=document.getElementById(id); if(el) el.value='';
+    });
+    document.getElementById('tr-sl1').value=50; document.getElementById('tr-sl1-val').textContent='50%';
+    document.getElementById('tr-sl2').value=50; document.getElementById('tr-sl2-val').textContent='50%';
+  });
+
+  // Past entries toggle
+  var pastOpen=false;
+  document.getElementById('tr-past-toggle').addEventListener('click',function(){
+    pastOpen=!pastOpen;
+    document.getElementById('tr-past-list').style.display=pastOpen?'block':'none';
+    document.getElementById('tr-past-toggle').innerHTML=(pastOpen?'&#9650;':'&#9660;')+' Past Entries';
+  });
+
+  function renderPast(){
+    var arr=load().slice(0,5);
+    var el=document.getElementById('tr-past-list');
+    if(!arr.length){ el.innerHTML='<p style="font-size:.9rem;color:var(--stone,#a09c94)">No saved entries yet.</p>'; return; }
+    el.innerHTML='';
+    arr.forEach(function(entry, idx){
+      var div=document.createElement('div'); div.className='tr-past-entry';
+      var excerpt=(entry.s1||'').slice(0,120)+(entry.s1&&entry.s1.length>120?'...':'');
+      div.innerHTML='<div class="tr-past-date">'+entry.date+'</div>'
+        +'<div class="tr-past-excerpt">'+(excerpt||'<em>No situation recorded</em>')+'</div>'
+        +'<button class="tr-past-del" data-idx="'+idx+'">Delete</button>';
+      el.appendChild(div);
+    });
+    el.querySelectorAll('.tr-past-del').forEach(function(btn){
+      btn.addEventListener('click',function(){
+        var arr2=load();
+        arr2.splice(parseInt(btn.dataset.idx),1);
+        save(arr2);
+        renderPast();
+      });
+    });
+  }
+  renderPast();
+})();
+</script>
+</body>
+</html>

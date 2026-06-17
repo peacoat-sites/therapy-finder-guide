@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>First Therapy Session Checklist</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+.fsc-wrap{font-family:inherit;margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;color:var(--text,#1a1a18)}
+.fsc-header{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem;display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.fsc-progress{font-size:.85rem;font-weight:600;color:var(--accent,#059669);white-space:nowrap}
+.fsc-body{padding:20px}
+.fsc-section{margin-bottom:24px}
+.fsc-section-title{font-weight:700;font-size:.95rem;text-transform:uppercase;letter-spacing:.04em;color:var(--accent,#059669);margin-bottom:10px;padding-bottom:6px;border-bottom:2px solid var(--border,rgba(0,0,0,.1))}
+.fsc-item{display:flex;align-items:flex-start;gap:10px;padding:8px 0;border-bottom:1px solid var(--border,rgba(0,0,0,.07))}
+.fsc-item:last-child{border-bottom:none}
+.fsc-item input[type=checkbox]{width:18px;height:18px;margin-top:2px;flex-shrink:0;accent-color:var(--accent,#059669);cursor:pointer}
+.fsc-item label{font-size:.95rem;line-height:1.45;cursor:pointer;flex:1}
+.fsc-item.checked label{text-decoration:line-through;color:var(--muted,#6b6860)}
+.fsc-info{background:var(--surface2,#f5f2ec);border-radius:10px;padding:14px 16px;font-size:.92rem;line-height:1.6;color:var(--text,#1a1a18)}
+.fsc-info p{margin-bottom:8px}.fsc-info p:last-child{margin-bottom:0}
+.fsc-btns{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
+.fsc-btn{padding:9px 18px;border:none;border-radius:8px;font-size:.9rem;font-weight:600;cursor:pointer;transition:opacity .15s}
+.fsc-btn-print{background:var(--accent,#059669);color:#fff}
+.fsc-btn-reset{background:var(--surface2,#f5f2ec);color:var(--text,#1a1a18);border:1px solid var(--border-strong,rgba(0,0,0,.14))}
+.fsc-btn:hover{opacity:.85}
+.fsc-disclaimer{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5;border-top:1px solid var(--border,rgba(0,0,0,.1));padding-top:14px}
+.fsc-disclaimer strong{color:#dc2626}
+@media print{
+  .fsc-btns{display:none}
+  .fsc-wrap{border:none;margin:0}
+  .fsc-header{background:none;border-bottom:2px solid #000}
+  .fsc-progress{display:none}
+}
+</style>
+</head>
+<body>
+<div class="fsc-wrap" id="fsc-root">
+  <div class="fsc-header">
+    <span>Preparing for Your First Therapy Session</span>
+    <span class="fsc-progress" id="fsc-prog">0 of 11 items checked</span>
+  </div>
+  <div class="fsc-body">
+
+    <div class="fsc-section">
+      <div class="fsc-section-title">Before Your Appointment</div>
+      <div class="fsc-item" id="fsc-i0"><input type="checkbox" id="c0"><label for="c0">Confirm the date, time, and location (or video link)</label></div>
+      <div class="fsc-item" id="fsc-i1"><input type="checkbox" id="c1"><label for="c1">Note the therapist's cancellation policy</label></div>
+      <div class="fsc-item" id="fsc-i2"><input type="checkbox" id="c2"><label for="c2">Confirm accepted insurance or payment methods</label></div>
+      <div class="fsc-item" id="fsc-i3"><input type="checkbox" id="c3"><label for="c3">Complete any intake forms sent in advance</label></div>
+      <div class="fsc-item" id="fsc-i4"><input type="checkbox" id="c4"><label for="c4">Write down your main reason for seeking therapy</label></div>
+      <div class="fsc-item" id="fsc-i5"><input type="checkbox" id="c5"><label for="c5">Note current medications (mental health or otherwise)</label></div>
+      <div class="fsc-item" id="fsc-i6"><input type="checkbox" id="c6"><label for="c6">Bring your insurance card if using insurance</label></div>
+    </div>
+
+    <div class="fsc-section">
+      <div class="fsc-section-title">What to Expect</div>
+      <div class="fsc-info">
+        <p>The first session is usually an <strong>assessment</strong> — your therapist will ask questions to understand your background, what brings you in, and your goals. You will not be expected to have everything figured out.</p>
+        <p>It is completely normal to feel nervous. Therapists are trained to create a safe, non-judgmental space, and you set the pace of what you share.</p>
+        <p>Remember: you can ask the therapist questions too. This is a two-way fit. If it doesn't feel right after <strong>2–3 sessions</strong>, it is okay to look for a different therapist.</p>
+      </div>
+    </div>
+
+    <div class="fsc-section">
+      <div class="fsc-section-title">Questions You Might Ask Your Therapist</div>
+      <div class="fsc-item" id="fsc-i7"><input type="checkbox" id="c7"><label for="c7">What is your therapeutic approach?</label></div>
+      <div class="fsc-item" id="fsc-i8"><input type="checkbox" id="c8"><label for="c8">Have you worked with my type of concern before?</label></div>
+      <div class="fsc-item" id="fsc-i9"><input type="checkbox" id="c9"><label for="c9">What does a typical session look like?</label></div>
+      <div class="fsc-item" id="fsc-i10"><input type="checkbox" id="c10"><label for="c10">How do you handle between-session crises?</label></div>
+      <div class="fsc-item" id="fsc-i11"><input type="checkbox" id="c11"><label for="c11">What are your fees, and do you offer sliding scale?</label></div>
+      <div class="fsc-item" id="fsc-i12"><input type="checkbox" id="c12"><label for="c12">How will we know when therapy is working?</label></div>
+    </div>
+
+    <div class="fsc-section">
+      <div class="fsc-section-title">After Your Session</div>
+      <div class="fsc-item" id="fsc-i13"><input type="checkbox" id="c13"><label for="c13">Note how you felt during and after the session</label></div>
+      <div class="fsc-item" id="fsc-i14"><input type="checkbox" id="c14"><label for="c14">Did the therapist listen and understand you?</label></div>
+      <div class="fsc-item" id="fsc-i15"><input type="checkbox" id="c15"><label for="c15">Did you feel comfortable enough to be honest?</label></div>
+      <div class="fsc-item" id="fsc-i16"><input type="checkbox" id="c16"><label for="c16">Schedule your next appointment</label></div>
+    </div>
+
+    <div class="fsc-btns">
+      <button class="fsc-btn fsc-btn-print" onclick="window.print()">Print Checklist</button>
+      <button class="fsc-btn fsc-btn-reset" id="fsc-reset-btn">Reset</button>
+    </div>
+
+    <div class="fsc-disclaimer">
+      <strong>Crisis resources:</strong> Starting therapy is a courageous step. If you are in crisis or having thoughts of self-harm, please call or text <strong>988</strong> (Suicide and Crisis Lifeline) immediately, or go to your nearest emergency room.
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var TOTAL = 17;
+  var KEY = 'therapy-first-session-v1';
+
+  function load(){
+    try{ return JSON.parse(localStorage.getItem(KEY)||'{}'); }catch(e){ return {}; }
+  }
+  function save(state){ try{ localStorage.setItem(KEY, JSON.stringify(state)); }catch(e){} }
+
+  function updateProgress(state){
+    var checked = Object.values(state).filter(Boolean).length;
+    document.getElementById('fsc-prog').textContent = checked + ' of ' + TOTAL + ' items checked';
+  }
+
+  var state = load();
+  for(var i=0;i<TOTAL;i++){
+    var cb = document.getElementById('c'+i);
+    var item = document.getElementById('fsc-i'+i);
+    if(!cb) continue;
+    if(state['c'+i]){ cb.checked=true; if(item) item.classList.add('checked'); }
+    cb.addEventListener('change',(function(idx,el,cbEl){
+      return function(){
+        var s = load();
+        s['c'+idx] = cbEl.checked;
+        save(s);
+        if(cbEl.checked){ el.classList.add('checked'); }else{ el.classList.remove('checked'); }
+        updateProgress(load());
+      };
+    })(i, item, cb));
+  }
+  updateProgress(state);
+
+  document.getElementById('fsc-reset-btn').addEventListener('click', function(){
+    localStorage.removeItem(KEY);
+    for(var i=0;i<TOTAL;i++){
+      var cb=document.getElementById('c'+i);
+      var item=document.getElementById('fsc-i'+i);
+      if(cb){ cb.checked=false; }
+      if(item){ item.classList.remove('checked'); }
+    }
+    updateProgress({});
+  });
+})();
+</script>
+</body>
+</html>
