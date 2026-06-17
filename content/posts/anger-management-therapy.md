@@ -30,6 +30,16 @@ You're sitting in your car in the parking lot, hands gripping the steering wheel
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Anger Episode Self-Assessment Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist after an anger episode to identify which intervention skills to prioritize with your therapist.</p>
+    <table><thead><tr><th>Check If True</th><th>What It Suggests</th><th>Skill Area to Address</th></tr></thead><tbody><tr><td>My body reacted (racing heart, clenched jaw, heat) before I recognized I was angry</td><td>Low interoceptive awareness</td><td>Body-scan practice, physiological cue identification</td></tr><tr><td>I went from calm to explosive in under 30 seconds</td><td>Rapid escalation pattern</td><td>Time-out protocols, arousal interruption techniques</td></tr><tr><td>I used words like "always," "never," or "should" in my head or out loud</td><td>Cognitive distortions fueling intensity</td><td>CBT thought restructuring</td></tr><tr><td>I was already tired, hungry, or stressed before the trigger</td><td>Vulnerability factors lowering threshold</td><td>HALT awareness (Hungry, Angry, Lonely, Tired)</td></tr><tr><td>The intensity of my reaction didn't match the actual situation</td><td>Possible link to past wounds or schemas</td><td>Schema therapy or trauma-informed exploration</td></tr><tr><td>I felt justified in the moment but regretted it within an hour</td><td>Post-anger shame cycle</td><td>Values clarification, repair-and-amend skills</td></tr><tr><td>I replayed the conflict repeatedly afterward</td><td>Rumination extending anger duration</td><td>Mindfulness-based interventions, cognitive defusion</td></tr><tr><td>I directed anger at someone other than the original source</td><td>Displacement pattern</td><td>Assertive communication for original grievance</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Anger Management Therapy Actually Is (And Isn't)
 
 Let's clear something up right away. Anger management therapy isn't about teaching you to suppress anger or pretend you don't feel it. That approach would be both ineffective and, honestly, a little insulting to the complexity of what you're experiencing.

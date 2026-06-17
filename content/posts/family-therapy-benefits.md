@@ -32,6 +32,16 @@ Family therapy doesn't require a dramatic crisis to be useful. That's one of the
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">When to Consider Family Therapy</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this decision checklist to determine whether your family situation warrants professional intervention, based on common clinical indicators.</p>
+    <table><thead><tr><th>Indicator</th><th>Mild (Self-Help May Work)</th><th>Moderate (Consider Therapy)</th><th>Significant (Therapy Recommended)</th></tr></thead><tbody><tr><td>Communication breakdowns</td><td>Occasional misunderstandings resolved within days</td><td>Weekly conflicts that leave issues unresolved for 2+ weeks</td><td>Daily tension; family members actively avoiding conversation</td></tr><tr><td>Life transitions</td><td>Adjustment stress with maintained routines</td><td>Divorce, remarriage, or relocation causing 1-2 members distress</td><td>Multiple members showing behavioral changes (sleep, grades, withdrawal)</td></tr><tr><td>Child/teen behavioral changes</td><td>Minor mood fluctuations, occasional defiance</td><td>Dropping grades, new friend group, increased secrecy lasting 4+ weeks</td><td>School refusal, substance use, self-harm indicators, or legal issues</td></tr><tr><td>Conflict resolution attempts</td><td>Family meetings or conversations producing partial improvement</td><td>Same arguments recurring monthly despite attempts to address them</td><td>Conflicts escalating in intensity or resulting in prolonged estrangement</td></tr><tr><td>Impact on daily functioning</td><td>Stress present but work/school/health maintained</td><td>One family member's performance or health noticeably declining</td><td>Multiple members affected; household routines breaking down</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Family Therapy Actually Is (And What It Isn't)
 
 Family therapy is a structured, evidence-based form of psychotherapy that treats the family unit as its own system. Rather than focusing on one person as "the problem," it looks at patterns, roles, and communication cycles that play out between people. A trained family therapist, typically someone with credentials like LMFT (Licensed Marriage and Family Therapist) or LCSW (Licensed Clinical Social Worker), facilitates sessions where family members talk, listen, and often discover dynamics they didn't realize were happening.

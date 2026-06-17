@@ -32,6 +32,16 @@ So let's be specific about what the research says, where counseling tends to fai
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Success Predictors: Key Threshold Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Research identifies specific factors that predict whether couples therapy will help—use these evidence-based thresholds to assess your situation before committing.</p>
+    <table><caption>Factors That Predict Couples Therapy Outcomes</caption><thead><tr><th>Factor</th><th>Favorable Threshold</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Timing of seeking help</td><td>Within 1-2 years of persistent problems emerging</td><td>Waiting 6+ years (average couple waits 6 years; outcomes decline significantly with delay)</td></tr><tr><td>Both partners' commitment</td><td>Both actively want relationship to improve</td><td>One partner attending only to "prove" they tried before leaving</td></tr><tr><td>Contempt levels</td><td>Disagreements stay issue-focused</td><td>Regular eye-rolling, mockery, or character attacks (Gottman's strongest divorce predictor)</td></tr><tr><td>Active addiction or abuse</td><td>No untreated substance abuse; no physical/emotional abuse</td><td>Active addiction or any domestic violence (individual treatment needed first)</td></tr><tr><td>Affair status</td><td>Affair disclosed and ended; both willing to process</td><td>Ongoing secret affair by either partner</td></tr><tr><td>Practice between sessions</td><td>Completing homework 70%+ of the time</td><td>Only engaging during the therapy hour itself</td></tr><tr><td>Therapist fit</td><td>Both partners feel heard by session 3-4</td><td>Either partner consistently feels therapist "takes sides"</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Research Is Good, With Caveats
 
 Emotionally Focused Therapy (EFT), one of the most studied approaches to couples work, shows about a 70-75% success rate in terms of significant improvement, with roughly 90% of couples reporting some positive change after treatment. Those numbers come from a body of research largely developed by Sue Johnson, whose work on attachment theory in couples has been published extensively since the 1980s. That's genuinely impressive for any psychological intervention.

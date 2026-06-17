@@ -19,6 +19,16 @@ Most people picking an online therapy platform in 2026 are doing it wrong. They'
 
 Let me give you the real version.
 
+
+<div class="value-module">
+  <div class="vm-head">Platform Fit by Therapy Need</div>
+  <div class="vm-body">
+    <p class="vm-intro">Different platforms suit different clinical needs and logistical constraints—this matrix helps you identify which factors matter most for your situation.</p>
+    <table><caption>Online Therapy Platform Decision Matrix</caption><thead><tr><th>Your Priority</th><th>Key Questions to Ask</th><th>Green Flags</th><th>Red Flags</th></tr></thead><tbody><tr><td>Specific diagnosis (OCD, PTSD, eating disorders)</td><td>Does the platform offer therapists with specialty training? Can you filter by treatment modality (ERP, EMDR, DBT)?</td><td>Searchable specialty filters; therapist profiles list specific certifications</td><td>Generic "anxiety and depression" only; no modality information</td></tr><tr><td>Insurance coverage</td><td>Does the platform bill insurance directly, or only provide superbills for out-of-network reimbursement?</td><td>In-network with major insurers; transparent cost calculator before signup</td><td>Vague "may be covered" language; subscription locks you in before verifying</td></tr><tr><td>Therapist consistency</td><td>Can you stay with the same therapist long-term? What happens if they leave the platform?</td><td>Direct booking with chosen therapist; notification policy if therapist departs</td><td>Algorithm-assigned matching with no opt-out; high therapist turnover reported</td></tr><tr><td>Scheduling flexibility</td><td>Are sessions available evenings/weekends? Can you book same-week appointments?</td><td>Real-time availability calendar; typical wait under 7 days for new clients</td><td>2-3 week waits standard; limited hours outside 9-5</td></tr><tr><td>Privacy concerns</td><td>What data is collected beyond session notes? Is messaging end-to-end encrypted?</td><td>Clear data retention policy; no third-party marketing data sharing; HIPAA-compliant messaging</td><td>History of FTC actions or data breaches; vague privacy terms</td></tr><tr><td>Budget constraints</td><td>What's the actual per-session cost? Are there hidden fees for messaging or rescheduling?</td><td>Transparent pricing ($60-150/session typical); sliding scale or financial aid options</td><td>Low advertised price requires annual commitment; messaging-only tiers with unclear therapist response times</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Market Is Bigger and Messier Than It Was Two Years Ago
 
 The telehealth therapy space has expanded dramatically since the pandemic normalization years. As of early 2026, there are well over a dozen major platforms competing for your subscription, and a significant number of smaller, niche services targeting specific populations. That's good news in theory. More options, more access, more therapists. In practice, it's created a landscape where the marketing budgets are enormous and the quality controls are inconsistent.

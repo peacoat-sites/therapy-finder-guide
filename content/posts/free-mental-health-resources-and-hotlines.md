@@ -30,6 +30,16 @@ Most people assume that getting mental health support means paying out of pocket
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Crisis Line Quick-Reference Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this table to identify the right line for your situation at a glance.</p>
+    <table><thead><tr><th>Resource</th><th>Contact</th><th>Best For</th><th>Hours</th><th>Chat/Text Option</th></tr></thead><tbody><tr><td>988 Suicide &amp; Crisis Lifeline</td><td>Call or text 988</td><td>General crisis, suicidal thoughts, overwhelming distress</td><td>24/7</td><td>Yes (text 988 or online chat)</td></tr><tr><td>Crisis Text Line</td><td>Text HOME to 741741</td><td>When calling feels too exposed; prefer typing</td><td>24/7</td><td>Text only</td></tr><tr><td>The Trevor Project</td><td>1-866-488-7386 or text START to 678-678</td><td>LGBTQ+ youth (under 25)</td><td>24/7</td><td>Yes</td></tr><tr><td>Veterans Crisis Line</td><td>988 then press 1, or text 838255</td><td>Veterans, service members, military families</td><td>24/7</td><td>Yes</td></tr><tr><td>SAMHSA National Helpline</td><td>1-800-662-4357</td><td>Treatment referrals for mental health or substance use</td><td>24/7</td><td>No (phone only)</td></tr><tr><td>National Domestic Violence Hotline</td><td>1-800-799-7233 or text START to 88788</td><td>Abuse situations, safety planning</td><td>24/7</td><td>Yes</td></tr><tr><td>NAMI Helpline</td><td>1-800-950-6264</td><td>Non-crisis support, navigating the mental health system</td><td>Mon–Fri 10am–10pm ET</td><td>No</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## When You Need Help Right Now: Crisis Lines and Immediate Support
 
 Let's start here, because if someone is in crisis, everything else can wait.

@@ -33,6 +33,16 @@ Cognitive Behavioral Therapy worksheets are structured writing exercises designe
 
 I've watched people transform that abstract idea into something genuinely useful for themselves, and I've also watched people spend months filling out worksheets mechanically without getting much out of them. The difference almost always comes down to whether they understood what they were doing and why.
 
+
+<div class="value-module">
+  <div class="vm-head">Common CBT Worksheet Types Compared</div>
+  <div class="vm-body">
+    <p class="vm-intro">Different worksheets target different cognitive patterns—matching the right tool to your situation improves results.</p>
+    <table><thead><tr><th>Worksheet Type</th><th>Best For</th><th>Core Columns/Prompts</th><th>Time to Complete</th><th>Difficulty Level</th></tr></thead><tbody><tr><td>Basic Thought Record (3-column)</td><td>Beginners; quick emotional check-ins</td><td>Situation → Automatic Thought → Emotion</td><td>2–5 minutes</td><td>Entry-level</td></tr><tr><td>Full Thought Record (7-column)</td><td>Challenging distorted thinking patterns</td><td>Situation → Thought → Emotion (0-100) → Evidence For → Evidence Against → Balanced Thought → Re-rate Emotion</td><td>10–20 minutes</td><td>Intermediate</td></tr><tr><td>Behavioral Activation Log</td><td>Depression; low motivation; avoidance</td><td>Activity → Predicted Enjoyment (0-10) → Actual Enjoyment (0-10) → Mastery Rating</td><td>1–2 minutes per entry</td><td>Entry-level</td></tr><tr><td>Cognitive Distortion Checklist</td><td>Learning to identify thinking errors</td><td>Thought → Which distortion? (all-or-nothing, catastrophizing, mind-reading, etc.)</td><td>5–10 minutes</td><td>Entry-level</td></tr><tr><td>Exposure Hierarchy</td><td>Anxiety; phobias; avoidance behaviors</td><td>Feared Situation → Distress Rating (0-100) → Rank Order → Planned Exposure Steps</td><td>20–30 minutes (one-time setup)</td><td>Intermediate to Advanced</td></tr><tr><td>Downward Arrow</td><td>Uncovering core beliefs beneath surface thoughts</td><td>Automatic Thought → "If true, what does that mean?" (repeated 3-5 times) → Core Belief</td><td>10–15 minutes</td><td>Advanced</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What CBT Worksheets Are Actually Doing
 
 Here's what I tell people who are new to this: a worksheet is a prompt for a conversation you have with yourself that you'd otherwise skip.

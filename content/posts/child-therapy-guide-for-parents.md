@@ -32,6 +32,16 @@ This guide is for you: the parent who knows something is off but feels overwhelm
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Age-Appropriate Therapy Readiness Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to assess whether your child is ready for therapy and which format might work best for their developmental stage.</p>
+    <table><caption>Child Therapy Readiness Assessment by Age Group</caption><thead><tr><th>Factor</th><th>Ages 3–5</th><th>Ages 6–9</th><th>Ages 10–12</th><th>Ages 13+</th></tr></thead><tbody><tr><td>Primary therapy format</td><td>Play therapy with parent in/near room</td><td>Play therapy with gradual talk integration</td><td>Talk therapy with creative elements</td><td>Talk therapy, possibly without parent present</td></tr><tr><td>Session length tolerance</td><td>20–30 minutes</td><td>30–45 minutes</td><td>45–50 minutes</td><td>50–60 minutes</td></tr><tr><td>Can describe feelings verbally?</td><td>Limited; expresses through play/behavior</td><td>Basic emotions (mad, sad, scared)</td><td>Can identify and explain triggers</td><td>Can reflect on patterns and relationships</td></tr><tr><td>Parent involvement level</td><td>High: parent coaching, joint sessions</td><td>Moderate: regular parent check-ins</td><td>Balanced: periodic family sessions</td><td>Lower: teen confidentiality with safety limits</td></tr><tr><td>Readiness indicators</td><td>Engages in pretend play; tolerates new adults</td><td>Can follow 2-3 step instructions; separates from parent briefly</td><td>Shows curiosity about own feelings; asks questions</td><td>Acknowledges problem exists; willing to try</td></tr><tr><td>Red flags suggesting wait or adjust approach</td><td>Severe separation anxiety; nonverbal</td><td>Refuses all adult interaction; active crisis</td><td>Complete denial of any problem</td><td>Actively hostile to all help; substance use</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## How to Know When a Child Actually Needs Therapy
 
 Every child has hard weeks. The question isn't whether your child is struggling right now, it's whether that struggle is interfering with their life in a lasting, consistent way.

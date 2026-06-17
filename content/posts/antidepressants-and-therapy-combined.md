@@ -32,6 +32,16 @@ The clinical picture here is actually pretty clear: combining antidepressants wi
 
 So why does half the country end up on SSRIs without a therapist in sight? Mostly access, cost, and the way primary care works. A GP with a 15-minute appointment slot is far more likely to write a prescription than to coordinate a therapy referral. That's not a criticism; it's just how the system is built.
 
+
+<div class="value-module">
+  <div class="vm-head">Treatment Response: What to Expect When</div>
+  <div class="vm-body">
+    <p class="vm-intro">Understanding typical timelines helps set realistic expectations and identify when adjustments may be needed.</p>
+    <table><caption>Combined Treatment Milestones and Decision Points</caption><thead><tr><th>Timeframe</th><th>Medication Effects</th><th>Therapy Progress</th><th>Decision Point</th></tr></thead><tbody><tr><td>Weeks 1–2</td><td>Side effects common (nausea, sleep changes); minimal mood benefit yet</td><td>Assessment, rapport-building, introducing thought tracking</td><td>Side effects intolerable? Contact prescriber; don't stop abruptly</td></tr><tr><td>Weeks 3–4</td><td>First noticeable symptom reduction in ~50% of responders</td><td>Identifying 2–3 core cognitive distortions; homework compliance matters</td><td>No change at all? Prescriber may adjust dose</td></tr><tr><td>Weeks 6–8</td><td>Near-maximum benefit from initial dose; clearer picture of effectiveness</td><td>Practicing cognitive restructuring; behavioral activation underway</td><td>Partial response? Consider dose increase or augmentation</td></tr><tr><td>Months 3–4</td><td>Stable therapeutic effect if medication is working</td><td>Skills becoming more automatic; fewer acute crisis sessions</td><td>Good response? Plan maintenance duration (typically 6–12+ months)</td></tr><tr><td>Months 6–12</td><td>Relapse prevention phase; discontinuation discussion begins</td><td>Relapse prevention module; spacing sessions to biweekly/monthly</td><td>Considering stopping medication? Taper slowly with prescriber; therapy continuation reduces relapse risk by ~30%</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Each Piece Actually Does
 
 Antidepressants, specifically SSRIs like sertraline (Zoloft) and SNRIs like venlafaxine (Effexor), don't fix depression. They reduce the neurological noise enough that you can function. Think of it like turning down a smoke alarm that's been blaring for six months. The smoke might still be there. The medication just makes it possible to think about it without panicking.

@@ -32,6 +32,16 @@ If you've typed something like "do I need a therapist or a psychiatrist" into a 
 
 So let me just lay it out plainly.
 
+
+<div class="value-module">
+  <div class="vm-head">Which Provider for Which Concern</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this decision matrix to match your primary concern with the most appropriate starting point, based on typical clinical pathways.</p>
+    <table><thead><tr><th>Primary Concern</th><th>Start With</th><th>Why This Route</th><th>May Also Need</th></tr></thead><tbody><tr><td>Severe symptoms disrupting daily function (can't work, can't sleep for weeks, thoughts of self-harm)</td><td>Psychiatrist</td><td>Medical evaluation needed; medication often essential for stabilization</td><td>Therapist for ongoing support once stable</td></tr><tr><td>Suspected ADHD, learning disability, or autism evaluation</td><td>Psychologist</td><td>Formal psychological testing and assessment is their specialty</td><td>Psychiatrist if medication indicated after diagnosis</td></tr><tr><td>Relationship conflicts, life transitions, grief, stress</td><td>Therapist (LCSW, LPC, LMFT)</td><td>Talk therapy is primary treatment; no testing or medication typically needed</td><td>Psychologist or psychiatrist only if symptoms escalate</td></tr><tr><td>Anxiety or depression affecting quality of life but still functioning</td><td>Therapist or Psychologist</td><td>Evidence-based therapy (CBT, etc.) is first-line treatment for mild-moderate cases</td><td>Psychiatrist if therapy alone insufficient after 8-12 weeks</td></tr><tr><td>Need medication management for existing diagnosis</td><td>Psychiatrist (or psychiatric NP)</td><td>Only MDs/DOs/NPs can prescribe and adjust psychiatric medications</td><td>Therapist for complementary talk therapy</td></tr><tr><td>Unclear what's wrong, just know something is off</td><td>Therapist or Primary Care Doctor</td><td>Lower barrier to entry; can help clarify and refer appropriately</td><td>Specialist referral based on initial assessment</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Shortest Possible Version (Before We Go Deeper)
 
 A **psychiatrist** is a medical doctor who specializes in mental health. They went to medical school, completed a residency in psychiatry, and are licensed to prescribe medication.

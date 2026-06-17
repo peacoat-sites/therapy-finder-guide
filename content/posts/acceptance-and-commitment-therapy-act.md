@@ -30,6 +30,16 @@ Imagine you've tried everything the self-help world told you to try. You've jour
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">ACT vs CBT: Core Strategy Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Understanding how ACT differs from traditional CBT helps clarify which approach might fit your situation.</p>
+    <table><thead><tr><th>Dimension</th><th>Cognitive Behavioral Therapy (CBT)</th><th>Acceptance and Commitment Therapy (ACT)</th></tr></thead><tbody><tr><td>Relationship to negative thoughts</td><td>Challenge and restructure distorted thoughts</td><td>Notice thoughts without fighting them; reduce their influence through defusion</td></tr><tr><td>Primary goal</td><td>Reduce symptom frequency and intensity</td><td>Increase psychological flexibility and values-based living</td></tr><tr><td>View of difficult emotions</td><td>Symptoms to be managed or reduced</td><td>Normal human experiences to make room for</td></tr><tr><td>Core question asked</td><td>"Is this thought accurate and helpful?"</td><td>"Does holding this thought tightly serve my values?"</td></tr><tr><td>Success metric</td><td>Fewer anxious/depressive episodes; improved mood ratings</td><td>Increased engagement in meaningful activities despite discomfort</td></tr><tr><td>Typical homework</td><td>Thought records, behavioral experiments, exposure hierarchies</td><td>Mindfulness exercises, values clarification, committed action plans</td></tr><tr><td>Best suited for someone who</td><td>Wants structured tools to counter specific thought patterns</td><td>Feels stuck fighting thoughts that resist logical challenge</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What ACT Actually Is (And Why It's Different)
 
 ACT (pronounced like the word "act," not the initials) is a form of psychotherapy developed by psychologist Steven Hayes in the 1980s. It falls under what researchers call the "third wave" of behavioral therapies, a generation that moved beyond simply changing thought patterns and toward changing your *relationship* with your thoughts. It's grounded in a behavioral science framework called Relational Frame Theory, and it has a genuinely substantial evidence base behind it.

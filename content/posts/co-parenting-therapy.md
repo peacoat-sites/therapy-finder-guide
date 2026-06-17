@@ -30,6 +30,16 @@ Most parents who end up in co-parenting therapy didn't plan to be there. What I'
 
 That context matters, because it shapes everything about how co-parenting therapy actually works.
 
+
+<div class="value-module">
+  <div class="vm-head">Session Red Flags vs. Progress Signs</div>
+  <div class="vm-body">
+    <p class="vm-intro">Knowing whether co-parenting therapy is working—or wasting time and money—requires watching for specific behavioral patterns across sessions.</p>
+    <table><caption>Indicators to Assess Co-Parenting Therapy Effectiveness</caption><thead><tr><th scope="col">Area</th><th scope="col">Red Flags (Consider Changing Approach)</th><th scope="col">Progress Signs (Therapy Working)</th></tr></thead><tbody><tr><td>Session Focus</td><td>Repeatedly relitigating past relationship grievances; therapist allows venting without redirection</td><td>Discussions stay on current parenting logistics; therapist redirects historical complaints within 2-3 minutes</td></tr><tr><td>Communication Patterns</td><td>Same argument cycles repeat session after session with no new tools introduced</td><td>Parents can name and interrupt at least one reactive pattern (e.g., "I notice I'm shutting down")</td></tr><tr><td>Between-Session Behavior</td><td>No structured assignments; nothing changes in actual co-parenting interactions</td><td>Specific homework given and reviewed (e.g., using agreed text template for schedule changes)</td></tr><tr><td>Child-Centeredness</td><td>Child's stated needs rarely referenced; focus stays on parental grievances</td><td>Concrete decisions made based on child's developmental stage and expressed preferences</td></tr><tr><td>Conflict Escalation</td><td>Sessions regularly end with higher tension than they started; one parent storms out</td><td>Parents can disagree without personal attacks; able to table issues for next session</td></tr><tr><td>Timeline</td><td>After 8-10 sessions, no agreement reached on even minor logistical issues</td><td>By session 6-8, at least one previously contested issue (pickup times, communication method) resolved</td></tr><tr><td>Therapist Role</td><td>Therapist sides consistently with one parent or avoids holding either accountable</td><td>Both parents feel occasionally challenged; therapist maintains neutral parenting-relationship focus</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Co-Parenting Therapy Actually Is (and What It Isn't)
 
 Here's the distinction that trips people up the most: co-parenting therapy is not couples therapy with kids as the topic. It's not a space to process your grief about the relationship ending. It's not a place to finally get your ex to admit what they did wrong. Therapists who specialize in this work will redirect you firmly if you try to go there, and honestly, that's a feature, not a flaw.
