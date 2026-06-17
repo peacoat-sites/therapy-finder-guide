@@ -898,6 +898,16 @@ _FAQ_STRIP_RE = re.compile(
     r'[\s\S]*?'
     r'(?=\n#{1,2}[ \t]|\n---\n|\n\*Photo:|\Z)', re.IGNORECASE)
 
+_AFF_TAG_RE = re.compile(r'([?&]tag=)(?!contentportfo-20(?:[&"\s)]|$))([A-Za-z0-9_\-]+)')
+def _normalize_affiliate_tags(content):
+    """Force every Amazon affiliate tag to our real tracking ID. The LLM sometimes invents
+    placeholder/hallucinated tags in prose -> $0 commission + a made-for-affiliate tell."""
+    try:
+        return _AFF_TAG_RE.sub(lambda m: m.group(1) + 'contentportfo-20', content)
+    except Exception:
+        return content
+
+
 def _strip_faq_body(content):
     """Remove the inline FAQ section (## FAQ + ### Q&A) from the body. Stops at the next
     top-level heading, an hr, the photo credit, or end — so closing prose/credits survive."""
@@ -1013,6 +1023,7 @@ affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
             # Remove the inline FAQ from the body — the styled template FAQ section
             # renders from the `faqs:` frontmatter, so keeping the body copy duplicates it.
             content = _strip_faq_body(content)
+            content = _normalize_affiliate_tags(content)
     except Exception:
         pass
     return frontmatter + content
