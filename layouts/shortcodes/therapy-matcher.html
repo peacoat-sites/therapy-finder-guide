@@ -1,0 +1,172 @@
+<div class="therapy-matcher" id="therapy-matcher">
+<style>
+.therapy-matcher{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.tm-header{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem;color:var(--text,#1a1a18)}
+.tm-body{padding:20px}
+.tm-disclaimer{margin-bottom:16px;padding:12px 16px;border-radius:10px;background:color-mix(in srgb,#3b82f6 8%,#fff);border:1px solid color-mix(in srgb,#3b82f6 25%,transparent);font-size:.85rem;color:#1e3a5f;line-height:1.5}
+.tm-progress{font-size:12px;color:var(--stone,#a09c94);margin-bottom:14px}
+.tm-question{font-size:1rem;font-weight:700;color:var(--text,#1a1a18);margin-bottom:14px;line-height:1.4}
+.tm-options{display:flex;flex-direction:column;gap:10px}
+.tm-opt{display:block;padding:13px 16px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;background:var(--surface,#fff);cursor:pointer;font-size:.92rem;color:var(--text,#1a1a18);text-align:left;transition:border-color .15s,box-shadow .15s,background .15s;font-family:inherit;line-height:1.4}
+.tm-opt:hover{border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 15%,transparent);background:color-mix(in srgb,var(--accent,#c2410c) 4%,#fff)}
+.tm-opt .tm-opt-sub{display:block;font-size:.8rem;color:var(--muted,#6b6860);margin-top:2px}
+.tm-back{margin-top:14px;background:none;border:none;color:var(--muted,#6b6860);cursor:pointer;font-size:.85rem;padding:4px 0;font-family:inherit;text-decoration:underline}
+.tm-result{display:none}
+.tm-result-intro{font-size:.9rem;color:var(--muted,#6b6860);margin-bottom:16px;line-height:1.5}
+.tm-match{border:1px solid var(--border,rgba(0,0,0,.1));border-radius:12px;padding:16px;margin-bottom:14px;background:var(--surface,#fff)}
+.tm-match-rank{font-size:.7rem;text-transform:uppercase;letter-spacing:.07em;font-weight:800;color:var(--accent,#c2410c);margin-bottom:6px}
+.tm-match-name{font-size:1.05rem;font-weight:800;color:var(--text,#1a1a18);margin-bottom:4px}
+.tm-match-tag{display:inline-block;padding:2px 9px;border-radius:10px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 25%,transparent);font-size:.75rem;font-weight:700;color:var(--accent,#c2410c);margin-bottom:8px;margin-right:4px}
+.tm-match-desc{font-size:.88rem;color:var(--text,#1a1a18);line-height:1.6;margin-bottom:8px}
+.tm-match-best{font-size:.82rem;color:var(--muted,#6b6860)}
+.tm-match-best strong{color:var(--text,#1a1a18)}
+.tm-cta{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.9rem;line-height:1.6}
+.tm-cta a{color:var(--accent,#c2410c);font-weight:600}
+.tm-crisis{margin-top:12px;padding:10px 14px;border-radius:10px;background:color-mix(in srgb,#ef4444 10%,#fff);border:1px solid color-mix(in srgb,#ef4444 30%,transparent);font-size:.82rem;color:#7f1d1d;line-height:1.5}
+.tm-restart{margin-top:14px;padding:10px 20px;background:var(--accent,#c2410c);color:#fff;border:none;border-radius:10px;cursor:pointer;font-size:.9rem;font-family:inherit;font-weight:700}
+.tm-restart:hover{opacity:.88}
+</style>
+<div class="tm-header">Which Type of Therapy Is Right for You?</div>
+<div class="tm-body">
+  <div class="tm-disclaimer">&#9432; This is a general educational guide. It is not a substitute for a professional assessment. A licensed therapist will determine the most appropriate treatment based on your specific situation. If you are in crisis, call or text 988 (Suicide & Crisis Lifeline) anytime.</div>
+  <div id="tm-quiz">
+    <div class="tm-progress" id="tm-prog">Question 1 of 5</div>
+    <div class="tm-question" id="tm-q"></div>
+    <div class="tm-options" id="tm-opts"></div>
+    <button class="tm-back" id="tm-back" style="display:none" onclick="tmBack()">&#8592; Back</button>
+  </div>
+  <div class="tm-result" id="tm-result">
+    <div class="tm-result-intro">Based on your answers, these therapy approaches may be a good fit. Share these with your therapist — they will make the final determination based on a full clinical assessment.</div>
+    <div id="tm-matches"></div>
+    <div class="tm-cta">&#128172; <strong>Next step:</strong> Ask your therapist about these approaches. When looking for a therapist, you can mention these modalities as areas of interest. Explore our <a href="/find-therapist/">guide to finding a therapist</a> for help with directories, insurance, and what to ask.</div>
+    <div class="tm-crisis">&#128222; <strong>If you are in crisis or need immediate support:</strong> Call or text <strong>988</strong> (Suicide &amp; Crisis Lifeline, 24/7). You can also text HOME to 741741 (Crisis Text Line).</div>
+    <button class="tm-restart" onclick="tmRestart()">Start Over</button>
+  </div>
+</div>
+</div>
+<script>
+(function(){
+var Qs=[
+  {q:"What brings you to therapy? (Choose the one that fits best)",opts:[
+    {t:"Anxiety or worry",s:"GAD, social anxiety, or phobias"},
+    {t:"Depression or low mood",s:"Persistent sadness, loss of interest, or low energy"},
+    {t:"Trauma or difficult past experiences",s:"PTSD, childhood trauma, or abuse"},
+    {t:"Relationship or communication issues",s:"Couples, family, or interpersonal patterns"},
+    {t:"Stress, burnout, or life transitions",s:"Work stress, grief, major changes"},
+    {t:"Eating or body image concerns",s:"Disordered eating, body dysmorphia"},
+    {t:"Substance use or addiction",s:"Alcohol, drugs, or behavioral addictions"}
+  ]},
+  {q:"How do you feel about structured exercises and homework between sessions?",opts:[
+    {t:"I want structured tools and exercises to practice daily"},
+    {t:"I prefer to talk and reflect without assignments"},
+    {t:"I'm open to either approach"}
+  ]},
+  {q:"Do you want therapy focused on the present or the past?",opts:[
+    {t:"Present — I want practical skills for coping today"},
+    {t:"Past — I want to understand the roots of my patterns"},
+    {t:"Both — I'd like to explore both past and present"}
+  ]},
+  {q:"Are you open to body-based techniques like breathing exercises, mindfulness, or body awareness?",opts:[
+    {t:"Yes — I'm interested in body-based or somatic approaches"},
+    {t:"Maybe — I'm open to trying it"},
+    {t:"I prefer talk-based therapy only"}
+  ]},
+  {q:"How quickly do you want to see results?",opts:[
+    {t:"I want a structured, time-limited approach",s:"Typically 8–20 sessions"},
+    {t:"I'm OK with longer, open-ended therapy",s:"Ongoing exploration without a set endpoint"},
+    {t:"I need immediate coping tools",s:"Crisis support or short-term stabilization"}
+  ]}
+];
+
+// Therapy types with scoring signals
+var THERAPIES={
+  CBT:{name:"CBT (Cognitive Behavioral Therapy)",tags:["Structured","Present-focused","12–20 sessions"],desc:"CBT identifies and challenges unhelpful thought patterns and behaviors, replacing them with healthier ones through structured exercises and homework. It's one of the most researched and effective therapies available.",best:"Best for: anxiety disorders, depression, OCD, phobias, panic disorder, insomnia"},
+  EMDR:{name:"EMDR (Eye Movement Desensitization and Reprocessing)",tags:["Trauma-focused","Evidence-based"],desc:"EMDR uses guided eye movements or bilateral stimulation to help the brain reprocess traumatic memories so they no longer trigger distress. It's the gold-standard treatment for PTSD and trauma.",best:"Best for: PTSD, trauma, abuse, phobias, anxiety rooted in past experiences"},
+  DBT:{name:"DBT (Dialectical Behavior Therapy)",tags:["Skills-based","Emotional regulation"],desc:"DBT combines cognitive-behavioral techniques with mindfulness and acceptance skills. It focuses on four skill modules: mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness.",best:"Best for: borderline personality disorder, self-harm, intense emotions, eating disorders, substance use"},
+  ACT:{name:"ACT (Acceptance and Commitment Therapy)",tags:["Mindfulness-based","Values-driven"],desc:"ACT helps you accept difficult thoughts and feelings rather than fighting them, then commit to actions aligned with your values. It's especially effective when painful feelings are part of life rather than something to be 'fixed.'",best:"Best for: anxiety, depression, chronic pain, grief, stress, life transitions"},
+  Psychodynamic:{name:"Psychodynamic Therapy",tags:["Insight-oriented","Long-term"],desc:"Psychodynamic therapy explores how unconscious patterns, early experiences, and relationship history shape your current behavior and emotions. It tends to be open-ended and exploratory rather than structured.",best:"Best for: depression, relationship patterns, low self-esteem, complex personal history, identity questions"},
+  Somatic:{name:"Somatic / Body-Based Therapy",tags:["Body-focused","Trauma-informed"],desc:"Somatic approaches recognize that trauma and stress are stored in the body as well as the mind. Techniques include body scanning, breathwork, movement, and grounding exercises to release held tension.",best:"Best for: trauma, PTSD, anxiety with physical symptoms, dissociation, chronic stress"},
+  IFS:{name:"IFS (Internal Family Systems)",tags:["Parts-based","Self-compassion"],desc:"IFS views the mind as made up of different 'parts' — some that protect us and some that carry pain. Therapy helps you relate to all parts with curiosity rather than shame, accessing the 'Self' that can heal.",best:"Best for: trauma, complex issues, shame, inner conflict, relationship patterns, eating concerns"}
+};
+
+var answers=[];
+var cur=0;
+
+function render(){
+  document.getElementById('tm-prog').textContent='Question '+(cur+1)+' of '+Qs.length;
+  document.getElementById('tm-q').textContent=Qs[cur].q;
+  var opts=document.getElementById('tm-opts');
+  opts.innerHTML='';
+  Qs[cur].opts.forEach(function(o,i){
+    var b=document.createElement('button');
+    b.className='tm-opt';
+    var main=document.createTextNode(typeof o==='string'?o:o.t);
+    b.appendChild(main);
+    if(o.s){var sub=document.createElement('span');sub.className='tm-opt-sub';sub.textContent=o.s;b.appendChild(sub);}
+    b.onclick=function(){pick(i);};
+    opts.appendChild(b);
+  });
+  document.getElementById('tm-back').style.display=cur>0?'block':'none';
+}
+function pick(i){answers[cur]=i;cur++;if(cur<Qs.length){render();}else{showResult();}}
+function tmBack(){if(cur>0){cur--;answers.pop();render();}}
+
+function showResult(){
+  var scores={CBT:0,EMDR:0,DBT:0,ACT:0,Psychodynamic:0,Somatic:0,IFS:0};
+  // Q0: presenting concern
+  var concern=answers[0];
+  if(concern===0){scores.CBT+=3;scores.ACT+=2;scores.DBT+=1;}  // anxiety
+  if(concern===1){scores.CBT+=3;scores.ACT+=2;scores.Psychodynamic+=2;} // depression
+  if(concern===2){scores.EMDR+=4;scores.Somatic+=3;scores.IFS+=3;scores.CBT+=1;} // trauma
+  if(concern===3){scores.Psychodynamic+=3;scores.DBT+=2;scores.ACT+=1;} // relationship
+  if(concern===4){scores.ACT+=3;scores.CBT+=2;scores.Psychodynamic+=1;} // stress/burnout
+  if(concern===5){scores.CBT+=2;scores.DBT+=3;scores.ACT+=2;} // eating
+  if(concern===6){scores.DBT+=3;scores.ACT+=2;scores.CBT+=2;} // substance
+  // Q1: homework
+  var hw=answers[1];
+  if(hw===0){scores.CBT+=2;scores.DBT+=2;}
+  if(hw===1){scores.Psychodynamic+=2;scores.EMDR+=1;}
+  // Q2: past vs present
+  var focus=answers[2];
+  if(focus===0){scores.CBT+=2;scores.DBT+=2;scores.ACT+=1;}
+  if(focus===1){scores.Psychodynamic+=2;scores.EMDR+=1;scores.IFS+=2;}
+  if(focus===2){scores.IFS+=1;scores.Somatic+=1;scores.ACT+=1;}
+  // Q3: body-based
+  var body=answers[3];
+  if(body===0){scores.Somatic+=3;scores.EMDR+=1;scores.ACT+=1;}
+  if(body===1){scores.ACT+=1;scores.IFS+=1;}
+  // Q4: timeline
+  var timeline=answers[4];
+  if(timeline===0){scores.CBT+=2;scores.DBT+=2;scores.EMDR+=1;}
+  if(timeline===1){scores.Psychodynamic+=2;scores.IFS+=1;}
+  if(timeline===2){scores.DBT+=2;scores.ACT+=1;}
+
+  // Sort by score, take top 3
+  var sorted=Object.entries(scores).sort(function(a,b){return b[1]-a[1];});
+  var top=sorted.slice(0,3).filter(function(x){return x[1]>0;});
+
+  document.getElementById('tm-quiz').style.display='none';
+  document.getElementById('tm-result').style.display='block';
+  var matches=document.getElementById('tm-matches');
+  matches.innerHTML='';
+  var ranks=['Top Match','Also Consider','Alternative'];
+  top.forEach(function(entry,i){
+    var key=entry[0];
+    var t=THERAPIES[key];
+    var div=document.createElement('div');
+    div.className='tm-match';
+    var rank=document.createElement('div');rank.className='tm-match-rank';rank.textContent=ranks[i]||'Option';
+    var name=document.createElement('div');name.className='tm-match-name';name.textContent=t.name;
+    var tagrow=document.createElement('div');
+    t.tags.forEach(function(tg){var sp=document.createElement('span');sp.className='tm-match-tag';sp.textContent=tg;tagrow.appendChild(sp);});
+    var desc=document.createElement('div');desc.className='tm-match-desc';desc.textContent=t.desc;
+    var best=document.createElement('div');best.className='tm-match-best';best.innerHTML='<strong>'+t.best+'</strong>';
+    div.appendChild(rank);div.appendChild(name);div.appendChild(tagrow);div.appendChild(desc);div.appendChild(best);
+    matches.appendChild(div);
+  });
+}
+function tmRestart(){cur=0;answers=[];document.getElementById('tm-result').style.display='none';document.getElementById('tm-quiz').style.display='block';render();}
+window.tmBack=tmBack;window.tmRestart=tmRestart;
+render();
+})();
+</script>
