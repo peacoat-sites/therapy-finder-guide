@@ -96,7 +96,7 @@ Beyond credentials (licensed, appropriate degree, no disciplinary actions in you
 
 **Notice how you feel after the consultation call.** Not whether you liked them, but whether you felt heard. Those are different things.
 
-If you want to do some grounding work between sessions while you're in transition, many people find workbooks useful as a bridge. Something like [The CBT Workbook for Mental Health](https://www.amazon.com/dp/B08KTRFDQ4?tag=your-affiliate-tag) (note: this site may earn a small commission from qualifying purchases) can help you maintain momentum while you're getting settled with someone new. It's not a substitute for therapy, but it's a real tool.
+If you want to do some grounding work between sessions while you're in transition, many people find workbooks useful as a bridge. Something like [The CBT Workbook for Mental Health](https://www.amazon.com/dp/B08KTRFDQ4?tag=contentportfo-20) (note: this site may earn a small commission from qualifying purchases) can help you maintain momentum while you're getting settled with someone new. It's not a substitute for therapy, but it's a real tool.
 
 ## A Note on Guilt, and Why You Should Let It Go
 

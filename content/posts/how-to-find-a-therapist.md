@@ -96,7 +96,7 @@ By sessions two through four, things usually start to shift. You'll begin establ
 
 If by session six or eight you feel genuinely stuck or like the relationship just isn't working, you're allowed to say so. A good therapist won't be offended. They'll either adjust their approach or help you find someone who's a better fit. Switching therapists isn't failure. I've seen clients go through two or three therapists before finding the right match, and then make remarkable progress.
 
-If you want to support your work between sessions, some people find structured tools helpful. A CBT-based journal like [The CBT Workbook for Mental Health](https://www.amazon.com/dp/1647397774?tag=your-tag-here) can help you practice skills outside of appointments. Mindfulness tools like [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1626253346?tag=your-tag-here) are also worth exploring. (Disclosure: this site may earn a commission from qualifying Amazon purchases.)
+If you want to support your work between sessions, some people find structured tools helpful. A CBT-based journal like [The CBT Workbook for Mental Health](https://www.amazon.com/dp/1647397774?tag=contentportfo-20) can help you practice skills outside of appointments. Mindfulness tools like [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1626253346?tag=contentportfo-20) are also worth exploring. (Disclosure: this site may earn a commission from qualifying Amazon purchases.)
 
 ---
 

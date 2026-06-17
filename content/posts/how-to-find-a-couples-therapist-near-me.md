@@ -106,7 +106,7 @@ Good couples therapy often feels uncomfortable, especially early on. A skilled t
 
 What you should feel, even in difficult sessions, is that the therapist is in your corner as a couple. Not on one person's side. Not trying to assign blame or determine who's the "difficult" one. A therapist who consistently sides with one partner or who makes either person feel stupid or pathologized is not doing good work.
 
-To support the work you do in session, many couples find it helpful to keep a journal between appointments where they track patterns, reactions, and observations. A structured tool like a [CBT-based couples journal](https://www.amazon.com/s?k=couples+therapy+journal+CBT&tag=mhtherref-20) (affiliate link, this site may earn a commission) can help you bring more concrete material into sessions rather than trying to reconstruct arguments from memory.
+To support the work you do in session, many couples find it helpful to keep a journal between appointments where they track patterns, reactions, and observations. A structured tool like a [CBT-based couples journal](https://www.amazon.com/s?k=couples+therapy+journal+CBT&tag=contentportfo-20) (affiliate link, this site may earn a commission) can help you bring more concrete material into sessions rather than trying to reconstruct arguments from memory.
 
 Progress in couples therapy is usually not linear. There are weeks of breakthrough and weeks of backsliding. The overall arc, if you've found someone good and you're both genuinely engaged, tends to move toward more understanding, more safety, and more capacity to repair after ruptures.
 

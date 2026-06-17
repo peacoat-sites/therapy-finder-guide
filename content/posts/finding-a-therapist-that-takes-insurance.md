@@ -86,7 +86,7 @@ Finding a name is only step one. Not every therapist who takes your insurance wi
 
 **Check licensure.** In the U.S., licensed therapists carry credentials like LCSW (Licensed Clinical Social Worker), LPC (Licensed Professional Counselor), LMFT (Licensed Marriage and Family Therapist), or PhD/PsyD for psychologists. You can verify any license through your state's licensing board website. This takes about two minutes and is always worth doing.
 
-If you're working through specific patterns like anxious thinking or low mood between sessions, pairing therapy with a structured workbook can genuinely help. Something like *[Mind Over Mood](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=YOURTAG-20)* by Greenberger and Padesky is one of the most well-researched CBT-based self-help books available (please note this site may earn a commission from qualifying purchases). It's not a substitute for therapy, but it can help you get more out of the work you're doing in sessions.
+If you're working through specific patterns like anxious thinking or low mood between sessions, pairing therapy with a structured workbook can genuinely help. Something like *[Mind Over Mood](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=contentportfo-20)* by Greenberger and Padesky is one of the most well-researched CBT-based self-help books available (please note this site may earn a commission from qualifying purchases). It's not a substitute for therapy, but it can help you get more out of the work you're doing in sessions.
 
 ---
 

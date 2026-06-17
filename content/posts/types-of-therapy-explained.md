@@ -56,7 +56,7 @@ These three approaches dominate modern outpatient mental health care for good re
 
 **Acceptance and Commitment Therapy (ACT)** takes a different angle. Rather than trying to change or eliminate painful thoughts, ACT teaches you to notice them without letting them control your behavior. The goal is to identify your core values and commit to actions that align with those values, even when difficult feelings show up. ACT works well for chronic pain, anxiety, depression, and anyone who feels stuck despite having tried other approaches.
 
-If you're working through CBT or ACT concepts between sessions, a structured workbook can help you practice the skills your therapist introduces. Tools like *[The Anxiety and Phobia Workbook](https://www.amazon.com/Anxiety-Phobia-Workbook-Edmund-Bourne/dp/1684034833?tag=yourtag-20)* by Edmund Bourne or *[The Happiness Trap](https://www.amazon.com/Happiness-Trap-Stop-Struggling-Start/dp/1590305841?tag=yourtag-20)* by Russ Harris (which is ACT-based) can reinforce what you're learning. The site may earn a commission on purchases made through these links.
+If you're working through CBT or ACT concepts between sessions, a structured workbook can help you practice the skills your therapist introduces. Tools like *[The Anxiety and Phobia Workbook](https://www.amazon.com/Anxiety-Phobia-Workbook-Edmund-Bourne/dp/1684034833?tag=contentportfo-20)* by Edmund Bourne or *[The Happiness Trap](https://www.amazon.com/Happiness-Trap-Stop-Struggling-Start/dp/1590305841?tag=contentportfo-20)* by Russ Harris (which is ACT-based) can reinforce what you're learning. The site may earn a commission on purchases made through these links.
 
 ---
 
@@ -68,7 +68,7 @@ Trauma is one of the most common reasons people seek therapy, and it deserves it
 
 **Somatic therapy** starts from the premise that trauma isn't just stored in your mind; it's stored in your body. You might notice it as chronic tension in your shoulders, a constricted feeling in your chest during stress, or a tendency to freeze when confronted. Somatic approaches, including Somatic Experiencing developed by Peter Levine and Sensorimotor Psychotherapy, work with physical sensations and movements as the primary entry point to healing. These therapies tend to move slowly and gently, which is often exactly what trauma recovery requires.
 
-If you're new to the idea of body-based awareness, a simple starting point is a body scan meditation practice. *[Wherever You Go, There You Are](https://www.amazon.com/Wherever-You-There-Are-Mindfulness/dp/1401307787?tag=yourtag-20)* by Jon Kabat-Zinn is a gentle introduction to that kind of present-moment body awareness. Again, the site may earn a commission on purchases.
+If you're new to the idea of body-based awareness, a simple starting point is a body scan meditation practice. *[Wherever You Go, There You Are](https://www.amazon.com/Wherever-You-There-Are-Mindfulness/dp/1401307787?tag=contentportfo-20)* by Jon Kabat-Zinn is a gentle introduction to that kind of present-moment body awareness. Again, the site may earn a commission on purchases.
 
 ---
 

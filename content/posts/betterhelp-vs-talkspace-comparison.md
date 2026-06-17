@@ -116,7 +116,7 @@ Getting into therapy shouldn't require a project plan. Here's the shortest path:
 
 **Step 4: Set a four-week checkpoint.** After a month, ask yourself two questions: Do I feel comfortable talking to this therapist? Have I noticed any shift in how I'm managing what brought me here? If the answer to either is no, switch therapists or try the other platform. Don't stick with a poor fit out of inertia.
 
-**Step 5: Add a self-directed tool between sessions.** Therapy once a week leaves 167 hours where you're on your own. A structured CBT workbook or mindfulness journal used between sessions extends the work and tends to accelerate progress. Something like *[The Anxiety and Worry Workbook](https://www.amazon.com/Anxiety-Worry-Workbook-Solution-Evidence-Based/dp/1606239186?tag=yourtag-20)* by Clark and Beck or a dedicated *[CBT thought record journal](https://www.amazon.com/s?k=CBT+thought+record+journal&tag=yourtag-20)* can make a real difference. (Disclosure: this site may earn a small commission on purchases made through these links, at no cost to you.)
+**Step 5: Add a self-directed tool between sessions.** Therapy once a week leaves 167 hours where you're on your own. A structured CBT workbook or mindfulness journal used between sessions extends the work and tends to accelerate progress. Something like *[The Anxiety and Worry Workbook](https://www.amazon.com/Anxiety-Worry-Workbook-Solution-Evidence-Based/dp/1606239186?tag=contentportfo-20)* by Clark and Beck or a dedicated *[CBT thought record journal](https://www.amazon.com/s?k=CBT+thought+record+journal&tag=contentportfo-20)* can make a real difference. (Disclosure: this site may earn a small commission on purchases made through these links, at no cost to you.)
 
 ---
 

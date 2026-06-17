@@ -66,7 +66,7 @@ Don't walk in expecting a private-practice experience. FQHCs are busy, under-res
 
 Once you're in, the therapy itself is real clinical work. The modalities vary by provider, but you'll commonly find cognitive behavioral therapy (CBT), motivational interviewing, and brief solution-focused approaches. If you're managing something like chronic anxiety, depression, or trauma, CBT is particularly well-supported by research, and it's also one of the most commonly offered approaches at FQHCs.
 
-If you want to do parallel work between sessions, a structured CBT workbook can help. The [Mind Over Mood workbook by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=mindfulhealthsolutions-20) is one of the most clinically respected self-guided resources available. (Disclosure: this site may earn a commission from qualifying purchases.)
+If you want to do parallel work between sessions, a structured CBT workbook can help. The [Mind Over Mood workbook by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=contentportfo-20) is one of the most clinically respected self-guided resources available. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 Sessions are usually 45 to 50 minutes. Some FQHCs also offer psychiatric services, meaning medication evaluation and management, which matters if your provider thinks medication might help alongside therapy.
 

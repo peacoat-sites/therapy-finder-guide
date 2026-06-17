@@ -75,7 +75,7 @@ Not every CMHC offers everything. Ask directly whether they have psychiatry (for
 **Step 5: Show up to your first appointment prepared.**
 Bring a brief written summary of your current symptoms, how long you've been experiencing them, and any previous mental health treatment. This saves time and helps you get matched to the right provider faster.
 
-If you want to do some preparation work before your first appointment, structured tools can help. CBT-based journals or workbooks like [The Cognitive Behavioral Workbook for Depression](https://www.amazon.com/Cognitive-Behavioral-Workbook-Depression-Step/dp/1572244216?tag=yourtag-20) (Amazon, commission may apply) can help you start identifying patterns in your thinking before a therapist even asks. It's not a replacement for care, but it's a productive way to use the waiting period.
+If you want to do some preparation work before your first appointment, structured tools can help. CBT-based journals or workbooks like [The Cognitive Behavioral Workbook for Depression](https://www.amazon.com/Cognitive-Behavioral-Workbook-Depression-Step/dp/1572244216?tag=contentportfo-20) (Amazon, commission may apply) can help you start identifying patterns in your thinking before a therapist even asks. It's not a replacement for care, but it's a productive way to use the waiting period.
 
 ---
 

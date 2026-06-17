@@ -56,7 +56,7 @@ Not all therapy is the same. Sitting on a couch and talking about your childhood
 
 **Mindfulness-Based Cognitive Therapy (MBCT)** blends CBT with mindfulness practice. It's particularly effective for people who experience recurring anxiety or who have anxiety alongside depression.
 
-If you want to supplement your therapy work with tools at home, structured resources like [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1606236253?tag=yourtag-20) or a dedicated [CBT journal](https://www.amazon.com/s?k=CBT+journal+anxiety&tag=yourtag-20) can help reinforce the concepts you're working on between sessions. *(This site may earn a commission from qualifying purchases.)*
+If you want to supplement your therapy work with tools at home, structured resources like [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1606236253?tag=contentportfo-20) or a dedicated [CBT journal](https://www.amazon.com/s?k=CBT+journal+anxiety&tag=contentportfo-20) can help reinforce the concepts you're working on between sessions. *(This site may earn a commission from qualifying purchases.)*
 
 ## How to Choose the Right Therapist for Anxiety
 
@@ -90,7 +90,7 @@ For moderate to severe anxiety, research consistently shows that a combination o
 
 That said, many people with mild to moderate anxiety do very well with therapy alone. Medication is a clinical decision that belongs between you and a psychiatrist or your primary care physician. Therapy can give you the skills you keep for life; medication manages symptoms. Both have their place, and neither should be positioned as a failure.
 
-If you're curious about the mindfulness components of anxiety treatment, resources like [Jon Kabat-Zinn's Mindfulness Meditation for Everyday Life](https://www.amazon.com/s?k=mindfulness+meditation+anxiety+book&tag=yourtag-20) can be a useful complement to professional care. *(This site may earn a commission from qualifying purchases.)*
+If you're curious about the mindfulness components of anxiety treatment, resources like [Jon Kabat-Zinn's Mindfulness Meditation for Everyday Life](https://www.amazon.com/s?k=mindfulness+meditation+anxiety+book&tag=contentportfo-20) can be a useful complement to professional care. *(This site may earn a commission from qualifying purchases.)*
 
 ## Practical Comparison: Common Anxiety Therapy Types
 

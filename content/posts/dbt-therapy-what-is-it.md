@@ -52,7 +52,7 @@ DBT is organized around four distinct skill areas. Most comprehensive DBT progra
 
 **Interpersonal Effectiveness** covers how to ask for what you need, say no without destroying a relationship, and maintain your self-respect even in difficult conversations. The DEAR MAN skill (Describe, Express, Assert, Reinforce, Mindful, Appear confident, Negotiate) gives you a literal script structure for hard conversations. For someone who historically either shuts down or explodes in conflict, having a real framework to follow is more useful than being told to "communicate better."
 
-If you want to supplement your DBT work with a structured workbook, [the DBT Skills Training Handouts and Worksheets by Dr. Marsha Linehan herself](https://www.amazon.com/dp/1572307811?tag=yourtag-20) is the clinical standard and genuinely accessible for non-clinicians. *(Disclosure: this site may earn a small commission on purchases.)*
+If you want to supplement your DBT work with a structured workbook, [the DBT Skills Training Handouts and Worksheets by Dr. Marsha Linehan herself](https://www.amazon.com/dp/1572307811?tag=contentportfo-20) is the clinical standard and genuinely accessible for non-clinicians. *(Disclosure: this site may earn a small commission on purchases.)*
 
 ## Who DBT Is Designed For
 
@@ -100,7 +100,7 @@ Finding DBT isn't always as straightforward as it should be. Here's a realistic 
 
 **Step 5: Begin with a commitment to the process.** DBT typically requires commitment for at least six months to a year, sometimes longer. The skills take time to build. Going in with realistic expectations prevents you from dropping out before you've had a chance to really benefit.
 
-**Step 6: Use supplemental resources alongside therapy.** A good skills workbook can reinforce what you're learning. [The Dialectical Behavior Therapy Skills Workbook by Matthew McKay](https://www.amazon.com/dp/1572245131?tag=yourtag-20) is widely recommended by clinicians for people working through DBT outside of sessions. *(Disclosure: this site may earn a small commission.)*
+**Step 6: Use supplemental resources alongside therapy.** A good skills workbook can reinforce what you're learning. [The Dialectical Behavior Therapy Skills Workbook by Matthew McKay](https://www.amazon.com/dp/1572245131?tag=contentportfo-20) is widely recommended by clinicians for people working through DBT outside of sessions. *(Disclosure: this site may earn a small commission.)*
 
 If at any point you're in crisis and need immediate support, please reach out to the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) by calling or texting 988. You don't have to be in immediate danger to call. If you're overwhelmed and don't know where to turn, they can help.
 

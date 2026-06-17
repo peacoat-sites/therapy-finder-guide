@@ -85,7 +85,7 @@ Here's a general picture of how a session unfolds:
 
 **Step 5: Home practice.** Every session comes with homework, typically 45 minutes of daily mindfulness practice using recordings or written exercises. The research on MBCT is clear that home practice is where the real change happens.
 
-Between formal sessions, many people use workbooks to reinforce skills. The [Full Catastrophe Living workbook by Jon Kabat-Zinn](https://www.amazon.com/Full-Catastrophe-Living-Revised-Illness/dp/0345536932?tag=mentalhealthsite-20) is one of the most widely used self-directed companions to MBSR programs. *(Disclosure: this site may earn a small commission on qualifying purchases.)*
+Between formal sessions, many people use workbooks to reinforce skills. The [Full Catastrophe Living workbook by Jon Kabat-Zinn](https://www.amazon.com/Full-Catastrophe-Living-Revised-Illness/dp/0345536932?tag=contentportfo-20) is one of the most widely used self-directed companions to MBSR programs. *(Disclosure: this site may earn a small commission on qualifying purchases.)*
 
 ## How Mindfulness-Based Therapy Compares to Other Approaches
 

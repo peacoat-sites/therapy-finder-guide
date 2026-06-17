@@ -52,7 +52,7 @@ What the data does suggest is that the first 8 to 12 sessions are often the most
 
 This is where the picture gets genuinely interesting, because different therapeutic modalities are literally designed with different time horizons in mind.
 
-**Cognitive Behavioral Therapy (CBT)** is the most researched short-term approach. For conditions like panic disorder, specific phobias, or mild to moderate depression, structured CBT protocols typically run 12 to 20 sessions. The model is skills-based. You learn to identify distorted thought patterns, practice challenging them, and gradually change behaviors. It's structured enough that many CBT workbooks, like [The Cognitive Behavioral Workbook for Anxiety by William Knaus](https://www.amazon.com/s?k=cognitive+behavioral+workbook+anxiety&tag=YOURTAG), can even supplement your sessions meaningfully. (Heads up: this site may earn a small commission on purchases through links like that one.)
+**Cognitive Behavioral Therapy (CBT)** is the most researched short-term approach. For conditions like panic disorder, specific phobias, or mild to moderate depression, structured CBT protocols typically run 12 to 20 sessions. The model is skills-based. You learn to identify distorted thought patterns, practice challenging them, and gradually change behaviors. It's structured enough that many CBT workbooks, like [The Cognitive Behavioral Workbook for Anxiety by William Knaus](https://www.amazon.com/s?k=cognitive+behavioral+workbook+anxiety&tag=contentportfo-20), can even supplement your sessions meaningfully. (Heads up: this site may earn a small commission on purchases through links like that one.)
 
 **Dialectical Behavior Therapy (DBT)** was originally designed as a 12-month program, combining individual sessions with group skills training. It's particularly used for borderline personality disorder, chronic self-harm, and intense emotional dysregulation.
 
@@ -112,7 +112,7 @@ A few practical steps if you're questioning whether things are moving:
 
 3. **Consider a consultation.** Some people see a second therapist for one or two sessions just to get a fresh perspective. This is completely appropriate and ethical.
 
-4. **Check the practical stuff.** Are you seeing your therapist consistently? Are you doing any reflection between sessions? Even keeping a simple journal or using a tool like [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/s?k=anxiety+and+worry+workbook+clark+beck&tag=YOURTAG) (commission disclosure applies) can accelerate what happens in the room. (Always confirm with your therapist that any supplemental tool is a good fit for your situation.)
+4. **Check the practical stuff.** Are you seeing your therapist consistently? Are you doing any reflection between sessions? Even keeping a simple journal or using a tool like [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/s?k=anxiety+and+worry+workbook+clark+beck&tag=contentportfo-20) (commission disclosure applies) can accelerate what happens in the room. (Always confirm with your therapist that any supplemental tool is a good fit for your situation.)
 
 5. **Evaluate fit honestly.** Therapeutic alliance is one of the strongest predictors of outcome in the research literature. If you've been seeing someone for 3 months and still don't feel like they genuinely understand you, that's data worth taking seriously.
 

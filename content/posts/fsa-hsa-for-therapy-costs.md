@@ -75,7 +75,7 @@ Teletherapy with a licensed therapist qualifies just as in-person sessions do. T
 
 Mental health apps are trickier. Apps like Headspace and Calm are generally not FSA/HSA eligible on their own because they're considered general wellness products. Some prescription digital therapeutics, meaning apps specifically prescribed by a clinician to treat a diagnosed condition, may qualify, but these are still relatively rare. Your safest bet is to check the FSA Store (fsastore.com) or your plan's eligible expense list rather than guessing.
 
-If you're looking for supplemental support between sessions, a structured CBT workbook or a mindfulness journal can be a genuinely useful tool, even if you're buying it out of pocket. Something like [*Mind Over Mood* by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=yourtag-20) is one I've recommended for years as a between-session resource. *(Note: this site may earn a small commission from qualifying purchases.)*
+If you're looking for supplemental support between sessions, a structured CBT workbook or a mindfulness journal can be a genuinely useful tool, even if you're buying it out of pocket. Something like [*Mind Over Mood* by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=contentportfo-20) is one I've recommended for years as a between-session resource. *(Note: this site may earn a small commission from qualifying purchases.)*
 
 ## What to Do If You Don't Have an FSA or HSA
 

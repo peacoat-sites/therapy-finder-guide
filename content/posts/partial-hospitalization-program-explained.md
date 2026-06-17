@@ -77,7 +77,7 @@ They also require real logistical capacity. You need transportation to and from 
 
 Some people find the group therapy format frustrating at first. If you're a private person, spending five hours a day in groups with strangers talking about your mental health is genuinely hard. Most people adjust. Some don't, and that's legitimate information about whether that treatment modality fits you.
 
-Building on skills between sessions can help significantly. Workbooks designed for CBT or DBT practice, like [The DBT Skills Workbook by Matthew McKay](https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook/dp/1572245131?tag=mindfulnessme-20) (affiliate link, small commission if you buy), can extend what you're doing in groups into your evenings at home. Not required. Genuinely useful.
+Building on skills between sessions can help significantly. Workbooks designed for CBT or DBT practice, like [The DBT Skills Workbook by Matthew McKay](https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook/dp/1572245131?tag=contentportfo-20) (affiliate link, small commission if you buy), can extend what you're doing in groups into your evenings at home. Not required. Genuinely useful.
 
 ---
 

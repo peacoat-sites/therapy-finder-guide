@@ -87,7 +87,7 @@ But CBT isn't the right tool for everything. Trauma often responds better to EMD
 
 When you're evaluating a platform, ask specifically what modalities their therapists are trained in. Many platforms list this in therapist profiles. If someone has "DBT" listed as a specialty, verify in your first session what that actually means for their practice.
 
-If you want to supplement your therapy work at home, structured workbooks can genuinely help. The [CBT Workbook for Mental Health](https://www.amazon.com/s?k=CBT+workbook+mental+health&tag=yourtag-20) by Simon Rego and Sarah Fader is one I've seen therapists recommend frequently, and mindfulness journals like [52-Week Mindfulness Journal](https://www.amazon.com/s?k=52+week+mindfulness+journal&tag=yourtag-20) can support the reflective work you do between sessions. (Disclosure: this site may earn a commission from qualifying purchases.)
+If you want to supplement your therapy work at home, structured workbooks can genuinely help. The [CBT Workbook for Mental Health](https://www.amazon.com/s?k=CBT+workbook+mental+health&tag=contentportfo-20) by Simon Rego and Sarah Fader is one I've seen therapists recommend frequently, and mindfulness journals like [52-Week Mindfulness Journal](https://www.amazon.com/s?k=52+week+mindfulness+journal&tag=contentportfo-20) can support the reflective work you do between sessions. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ## Getting Started Without Getting Stuck
 

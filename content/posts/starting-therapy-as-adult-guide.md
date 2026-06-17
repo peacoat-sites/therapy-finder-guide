@@ -66,7 +66,7 @@ Googling therapy modalities is a fast way to feel overwhelmed. You'll hit CBT, D
 
 You don't need to choose your modality before finding a therapist. A good therapist will help you figure out what fits. But knowing the basics means you can have an informed conversation instead of just nodding along.
 
-If you want to supplement therapy with self-directed work, a structured CBT workbook like [*Mind Over Mood* by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=YOURTAG-20) is one of the most clinically respected options available (the site may earn a small commission if you purchase through that link). It's not a replacement for a therapist, but it's a legitimate tool.
+If you want to supplement therapy with self-directed work, a structured CBT workbook like [*Mind Over Mood* by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=contentportfo-20) is one of the most clinically respected options available (the site may earn a small commission if you purchase through that link). It's not a replacement for a therapist, but it's a legitimate tool.
 
 ## How to Actually Find a Therapist: A Step-by-Step Process
 

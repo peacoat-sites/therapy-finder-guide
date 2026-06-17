@@ -94,7 +94,7 @@ You're allowed to decide a therapist isn't the right fit. One session doesn't bi
 **Step 6: Give it time, but not forever.**
 Research suggests most people start noticing meaningful benefit from CBT within 8 to 16 sessions. If you've attended 8 or more sessions and feel like nothing is moving, have an honest conversation with your therapist. A good one will welcome it.
 
-Between sessions, some people find structured tools helpful. CBT workbooks can help you practice what you're learning with a therapist, or give you a starting framework while you wait for an appointment. Tools like [*The CBT Workbook for Mental Health*](https://www.amazon.com/dp/1648765815?tag=mentalhealthsite-20) or a dedicated [mindfulness journal](https://www.amazon.com/s?k=mindfulness+journal+for+stress&tag=mentalhealthsite-20) can be genuinely useful companions to the process. (Disclosure: this site may earn a small commission from qualifying purchases, at no extra cost to you.)
+Between sessions, some people find structured tools helpful. CBT workbooks can help you practice what you're learning with a therapist, or give you a starting framework while you wait for an appointment. Tools like [*The CBT Workbook for Mental Health*](https://www.amazon.com/dp/1648765815?tag=contentportfo-20) or a dedicated [mindfulness journal](https://www.amazon.com/s?k=mindfulness+journal+for+stress&tag=contentportfo-20) can be genuinely useful companions to the process. (Disclosure: this site may earn a small commission from qualifying purchases, at no extra cost to you.)
 
 ## The Fears That Keep People From Starting
 

@@ -111,7 +111,7 @@ The logistics of starting therapy can feel like an obstacle course. Here's how t
 
 Therapy sessions are usually one hour per week, which leaves 167 other hours. What happens during those hours matters. Some families find it genuinely helpful to use structured tools between sessions to practice what they're learning.
 
-Workbooks designed around CBT (Cognitive Behavioral Therapy) principles can help individual family members track thoughts and reactions outside of sessions. The [*Mind Over Mood* workbook by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Changing/dp/1462520421?tag=YOUR_TAG) is one of the most widely used and therapist-recommended CBT tools available. *(Disclosure: this site may earn a small commission from qualifying Amazon purchases.)*
+Workbooks designed around CBT (Cognitive Behavioral Therapy) principles can help individual family members track thoughts and reactions outside of sessions. The [*Mind Over Mood* workbook by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Changing/dp/1462520421?tag=contentportfo-20) is one of the most widely used and therapist-recommended CBT tools available. *(Disclosure: this site may earn a small commission from qualifying Amazon purchases.)*
 
 For families dealing with a teen or child who struggles with emotional regulation, tools like mindfulness journals or guided meditation apps can be useful supplements. These don't replace therapy, but they can reinforce the work.
 

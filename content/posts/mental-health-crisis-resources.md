@@ -97,7 +97,7 @@ A few things worth doing once you're in a steadier place:
 
 **Consider a crisis safety plan.** This is a written document, sometimes one page, that lists your warning signs, coping strategies, support contacts, and what to do if things escalate. Many therapists help create these, and there are printable templates available through SAMHSA.
 
-**Look into structured self-support tools.** These aren't replacements for professional care, but they can be useful between appointments. A workbook built around CBT techniques, like the widely used [Mind Over Mood by Dennis Greenberger and Christine Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Edition/dp/1462520421?tag=yourtag-20), can give you concrete skills to practice. *(Disclosure: this site may earn a small commission from qualifying Amazon purchases.)*
+**Look into structured self-support tools.** These aren't replacements for professional care, but they can be useful between appointments. A workbook built around CBT techniques, like the widely used [Mind Over Mood by Dennis Greenberger and Christine Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Edition/dp/1462520421?tag=contentportfo-20), can give you concrete skills to practice. *(Disclosure: this site may earn a small commission from qualifying Amazon purchases.)*
 
 **Tell someone you trust what happened.** Isolation after a crisis is common and understandable. It's also one of the things that makes the next episode more likely.
 

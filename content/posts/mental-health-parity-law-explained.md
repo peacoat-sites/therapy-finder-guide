@@ -114,7 +114,7 @@ But once the immediate crisis passes, parity law matters a lot in this context. 
 
 You didn't create the gap between how physical and mental health care are treated in this country. But you do have more tools than most people realize to push back against it. If a claim is denied, ask why. If the answer doesn't hold up compared to how a broken leg would be handled, say so in writing and keep saying so. The law is on your side, even when the process isn't. Working with a licensed mental health professional throughout this process is always worthwhile, both for your care and for building the clinical documentation that makes appeals stick.
 
-*If you're just beginning your mental health journey and want practical support alongside professional care, workbooks like [The Cognitive Behavioral Therapy Workbook](https://www.amazon.com/s?k=cognitive+behavioral+therapy+workbook&tag=yourtag-20) can be useful between sessions. This site may earn a small commission on qualifying purchases.*
+*If you're just beginning your mental health journey and want practical support alongside professional care, workbooks like [The Cognitive Behavioral Therapy Workbook](https://www.amazon.com/s?k=cognitive+behavioral+therapy+workbook&tag=contentportfo-20) can be useful between sessions. This site may earn a small commission on qualifying purchases.*
 
 ## Helpful Resources
 

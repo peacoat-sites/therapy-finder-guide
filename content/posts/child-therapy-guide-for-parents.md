@@ -119,7 +119,7 @@ For teenagers, honesty and autonomy matter more. Let them read reviews of differ
 
 Don't promise it will be fun. Don't promise it will "fix" everything. What you can honestly say is that you take their struggles seriously enough to get them real support.
 
-If your child is dealing with anxiety, working through a CBT-based workbook at home alongside therapy can reinforce skills between sessions. Books like [*What to Do When You Worry Too Much* by Dawn Huebner](https://www.amazon.com/dp/1591473144?tag=yourtag-20) are written directly for kids aged 6 to 12 and are often recommended by therapists as companions to treatment. *(Disclosure: this site may earn a small commission from qualifying purchases.)*
+If your child is dealing with anxiety, working through a CBT-based workbook at home alongside therapy can reinforce skills between sessions. Books like [*What to Do When You Worry Too Much* by Dawn Huebner](https://www.amazon.com/dp/1591473144?tag=contentportfo-20) are written directly for kids aged 6 to 12 and are often recommended by therapists as companions to treatment. *(Disclosure: this site may earn a small commission from qualifying purchases.)*
 
 ---
 

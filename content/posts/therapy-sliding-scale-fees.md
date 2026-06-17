@@ -110,7 +110,7 @@ Sliding scale is the most direct route, but it's not the only one. A few others 
 
 **Group therapy**: Group therapy is clinically effective for many conditions, particularly anxiety, depression, and grief. It typically costs significantly less than individual sessions, sometimes a third of the price, because the therapist's time is shared.
 
-**Bibliotherapy and self-guided tools**: These are not a replacement for professional care, but they can complement therapy or help you build skills between sessions. Workbooks based on Cognitive Behavioral Therapy, like [The Feeling Good Handbook by David D. Burns](https://www.amazon.com/dp/0452281326?tag=yourtag-20) (affiliate link, the site may earn a commission), are clinically grounded tools that many therapists actually assign to their clients. Mindfulness resources, CBT journals, and structured self-reflection guides can extend the value of whatever professional care you access.
+**Bibliotherapy and self-guided tools**: These are not a replacement for professional care, but they can complement therapy or help you build skills between sessions. Workbooks based on Cognitive Behavioral Therapy, like [The Feeling Good Handbook by David D. Burns](https://www.amazon.com/dp/0452281326?tag=contentportfo-20) (affiliate link, the site may earn a commission), are clinically grounded tools that many therapists actually assign to their clients. Mindfulness resources, CBT journals, and structured self-reflection guides can extend the value of whatever professional care you access.
 
 ---
 

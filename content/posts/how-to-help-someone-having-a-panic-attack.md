@@ -87,7 +87,7 @@ In practice, guide it as a conversation. "Look around. Tell me one thing you see
 
 Cold water is also underrated here. If you're near a sink, cold water on the wrists or the face can physically interrupt the body's stress response. Not ice, not dramatic. Just cold tap water.
 
-Another one that doesn't get enough credit: physical weight or pressure. If the person is okay with it, a hand on the shoulder, or even just asking them to press their feet flat on the floor and notice the pressure, can help. There's a reason weighted blankets (something like the [YnM Weighted Blanket](https://www.amazon.com/dp/B01LYNTIHY/?tag=mental0dc-20) gets consistent reviews for anxiety) have a real following. Proprioceptive input seems to help calm an activated nervous system. (Disclosure: this site may earn a small commission on Amazon purchases.)
+Another one that doesn't get enough credit: physical weight or pressure. If the person is okay with it, a hand on the shoulder, or even just asking them to press their feet flat on the floor and notice the pressure, can help. There's a reason weighted blankets (something like the [YnM Weighted Blanket](https://www.amazon.com/dp/B01LYNTIHY/?tag=contentportfo-20) gets consistent reviews for anxiety) have a real following. Proprioceptive input seems to help calm an activated nervous system. (Disclosure: this site may earn a small commission on Amazon purchases.)
 
 ---
 
@@ -126,7 +126,7 @@ If the person expresses thoughts of suicide or self-harm during or after the epi
 
 If you live with or care for someone who has panic disorder, preparing in advance makes you significantly more effective in the moment. Talk to them about what helps *them* specifically, because this varies more than most articles admit. Some people want to be touched during a panic attack. Some find touch overwhelming. Some want you talking. Some need silence.
 
-A few practical resources worth having: a grounding workbook like [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1606239422/?tag=mental0dc-20) is one of the better CBT-based self-help books, grounded in real research rather than wellness-speak. For daily practice, a structured mindfulness journal can help someone build the emotional regulation habits that reduce panic frequency over time. [The Five Minute Journal](https://www.amazon.com/dp/0991846206/?tag=mental0dc-20) is simple and consistently recommended by therapists for good reason. (Disclosure: commission may apply.)
+A few practical resources worth having: a grounding workbook like [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1606239422/?tag=contentportfo-20) is one of the better CBT-based self-help books, grounded in real research rather than wellness-speak. For daily practice, a structured mindfulness journal can help someone build the emotional regulation habits that reduce panic frequency over time. [The Five Minute Journal](https://www.amazon.com/dp/0991846206/?tag=contentportfo-20) is simple and consistently recommended by therapists for good reason. (Disclosure: commission may apply.)
 
 The research on mindfulness-based interventions for panic disorder is mixed at the severity-reduction level, but for general anxiety and stress reactivity, a 2014 study in JAMA Internal Medicine found meaningful improvements from mindfulness meditation programs. It won't cure panic disorder, but it's not nothing.
 

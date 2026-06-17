@@ -94,7 +94,7 @@ Choosing between therapies isn't about which one is best in the abstract. It's a
 
 The practical upshot: if talking through traumatic memories in detail feels like too much right now, EMDR and CPT both offer routes that don't require a full verbal account of everything that happened. If you're working with a specific phobia or a discrete traumatic incident, EMDR tends to move quickly. Complex, multi-layered trauma histories typically take longer regardless of modality.
 
-A good CBT workbook can complement therapy between sessions. Something like [The Cognitive Behavioral Workbook for Anxiety](https://www.amazon.com/Cognitive-Behavioral-Workbook-Anxiety-Step/dp/1572245832?tag=_youraffiliatetag_0-20) (affiliate link) can help you practice thought-record skills and grounding techniques that pair well with any trauma-focused approach. These are tools, not replacements for a qualified therapist.
+A good CBT workbook can complement therapy between sessions. Something like [The Cognitive Behavioral Workbook for Anxiety](https://www.amazon.com/Cognitive-Behavioral-Workbook-Anxiety-Step/dp/1572245832?tag=contentportfo-20) (affiliate link) can help you practice thought-record skills and grounding techniques that pair well with any trauma-focused approach. These are tools, not replacements for a qualified therapist.
 
 ---
 

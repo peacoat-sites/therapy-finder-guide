@@ -82,7 +82,7 @@ Cost is one of the most common reasons people delay care. I've seen it stop peop
 
 Federally Qualified Health Centers (FQHCs), many of which receive SAMHSA block grant funding, integrate behavioral health into primary care and also use sliding-scale fees. You can find FQHCs through the Health Resources and Services Administration's finder at findahealthcenter.hrsa.gov.
 
-For self-guided support between sessions or while you wait for an appointment, structured workbooks can be genuinely helpful. A CBT-based workbook like the [Mind Over Mood: Change How You Feel by Changing the Way You Think](https://www.amazon.com/Mind-Over-Mood-Second-Changing/dp/1462520421/?tag=sitetaghere-20) or a mindfulness resource like [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/Mindfulness-Acceptance-Workbook-Anxiety-Relationship/dp/1626253994/?tag=sitetaghere-20) won't replace therapy, but they can give you something concrete to work with. (This site may earn a commission on purchases made through these links.)
+For self-guided support between sessions or while you wait for an appointment, structured workbooks can be genuinely helpful. A CBT-based workbook like the [Mind Over Mood: Change How You Feel by Changing the Way You Think](https://www.amazon.com/Mind-Over-Mood-Second-Changing/dp/1462520421/?tag=contentportfo-20) or a mindfulness resource like [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/Mindfulness-Acceptance-Workbook-Anxiety-Relationship/dp/1626253994/?tag=contentportfo-20) won't replace therapy, but they can give you something concrete to work with. (This site may earn a commission on purchases made through these links.)
 
 ---
 

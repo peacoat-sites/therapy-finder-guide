@@ -115,7 +115,7 @@ Sometimes the coverage isn't there, or it's technically there but practically in
 
 **Group therapy** is typically less expensive than individual therapy and is covered by insurance in most of the same ways. For many issues, including anxiety, depression, grief, and interpersonal difficulties, group therapy is clinically comparable to individual therapy in terms of outcomes.
 
-If you're working through specific challenges between sessions or while waiting to connect with a therapist, structured self-help tools can make a real difference. CBT-based workbooks like [The Feeling Good Handbook by David D. Burns](https://www.amazon.com/dp/0452281326?tag=YOURTAG-20) or a dedicated [CBT journal](https://www.amazon.com/s?k=cbt+journal&tag=YOURTAG-20) can help you start building skills independently. These are supplements, not substitutes for professional care, but they're not nothing either. (Disclosure: this site may earn a small commission on purchases through these links.)
+If you're working through specific challenges between sessions or while waiting to connect with a therapist, structured self-help tools can make a real difference. CBT-based workbooks like [The Feeling Good Handbook by David D. Burns](https://www.amazon.com/dp/0452281326?tag=contentportfo-20) or a dedicated [CBT journal](https://www.amazon.com/s?k=cbt+journal&tag=contentportfo-20) can help you start building skills independently. These are supplements, not substitutes for professional care, but they're not nothing either. (Disclosure: this site may earn a small commission on purchases through these links.)
 
 ---
 

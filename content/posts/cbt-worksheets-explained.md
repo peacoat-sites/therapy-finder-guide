@@ -75,7 +75,7 @@ CBT isn't one fixed technique. It's a family of approaches, and the worksheets r
 
 Honestly, most people don't need all of these. A solid thought record and a behavioral activation log cover the majority of common uses. I'd skip the elaborate workbooks aimed at doing twelve different CBT techniques simultaneously, at least until you've got the basics down.
 
-If you're looking for a reliable starting point on your own, [The Feeling Good Handbook by David D. Burns](https://www.amazon.com/Feeling-Good-Handbook-David-Burns/dp/0452281326?tag=mentalhealthsite-20) remains one of the most practical introductions to CBT worksheets in print. (Full disclosure: this site may earn a small commission on that link.) Burns explains the reasoning behind each tool in plain language, which makes the difference between doing the worksheets and actually understanding them.
+If you're looking for a reliable starting point on your own, [The Feeling Good Handbook by David D. Burns](https://www.amazon.com/Feeling-Good-Handbook-David-Burns/dp/0452281326?tag=contentportfo-20) remains one of the most practical introductions to CBT worksheets in print. (Full disclosure: this site may earn a small commission on that link.) Burns explains the reasoning behind each tool in plain language, which makes the difference between doing the worksheets and actually understanding them.
 
 ## How to Actually Use One Without Feeling Ridiculous
 

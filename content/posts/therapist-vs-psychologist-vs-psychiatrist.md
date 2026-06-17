@@ -106,7 +106,7 @@ Almost everyone walks into their first appointment carrying some version of the 
 
 **"I can't afford it."** Cost is a real barrier, not a personal excuse. Sliding-scale therapy, community mental health centers, employee assistance programs (EAPs), and telehealth platforms have all expanded access in meaningful ways. Open Path Collective, for example, connects people with therapists offering sessions at reduced rates. It's worth making a few calls before assuming it's out of reach.
 
-If you want to do some structured work between sessions, or even before you've found a provider, a workbook like [The CBT Workbook for Mental Health](https://www.amazon.com/dp/1648766285?tag=yourtag-20) can help you start building skills on your own. *(Note: This site may earn a small commission from qualifying purchases.)*
+If you want to do some structured work between sessions, or even before you've found a provider, a workbook like [The CBT Workbook for Mental Health](https://www.amazon.com/dp/1648766285?tag=contentportfo-20) can help you start building skills on your own. *(Note: This site may earn a small commission from qualifying purchases.)*
 
 ---
 

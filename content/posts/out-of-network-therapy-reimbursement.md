@@ -80,7 +80,7 @@ Services like Reimbursify and Nirvana automate out-of-network claim submission f
 
 Separately: if you have a Flexible Spending Account or Health Savings Account, you can use those pre-tax dollars to pay your therapy sessions upfront. That's a discount equal to your marginal tax rate, typically 22% to 32% for middle-income earners, before any insurance reimbursement. Combining FSA/HSA payments with reimbursement can make out-of-network therapy financially reasonable even on a moderate income.
 
-A structured CBT journal like [The Feeling Good Handbook by David D. Burns](https://www.amazon.com/Feeling-Good-Handbook-David-Burns/dp/0452281326?tag=yourtag-20) can supplement your sessions and make each therapy hour work harder. (Disclosure: this site may earn a commission from qualifying purchases.)
+A structured CBT journal like [The Feeling Good Handbook by David D. Burns](https://www.amazon.com/Feeling-Good-Handbook-David-Burns/dp/0452281326?tag=contentportfo-20) can supplement your sessions and make each therapy hour work harder. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ## Finding the Right Therapist to Start With
 
