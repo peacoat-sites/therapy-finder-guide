@@ -151,3 +151,5 @@ if ('IntersectionObserver' in window) {
   });
   imgs.forEach(img => observer.observe(img));
 }
+// -- Scroll-to-top --
+(function(){var b=document.createElement('button');b.id='scroll-top';b.setAttribute('aria-label','Back to top');b.innerHTML='&#8679;';document.body.appendChild(b);window.addEventListener('scroll',function(){b.classList.toggle('visible',window.scrollY>400);},{passive:true});b.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'});});})();
