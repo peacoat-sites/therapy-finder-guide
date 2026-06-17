@@ -1,0 +1,133 @@
+<style>
+.gad7-wrap{margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.gad7-head{padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem}
+.gad7-body{padding:20px}
+.gad7-disclaimer{margin-bottom:20px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,#7c3aed 10%,#fff);border:1px solid color-mix(in srgb,#7c3aed 30%,transparent);font-size:.9rem;line-height:1.6}
+.gad7-disclaimer strong{color:#7c3aed}
+.gad7-intro{font-size:.95rem;color:var(--muted);margin-bottom:16px;line-height:1.5}
+.gad7-question{margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid var(--border)}
+.gad7-question:last-of-type{border-bottom:none}
+.gad7-qtext{font-size:.95rem;font-weight:600;color:var(--text);margin-bottom:10px;line-height:1.4}
+.gad7-qnum{color:var(--accent);font-weight:800;margin-right:4px}
+.gad7-options{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:8px}
+.gad7-opt{position:relative}
+.gad7-opt input{position:absolute;opacity:0;width:0;height:0}
+.gad7-opt label{display:block;padding:9px 12px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:13px;font-weight:600;color:var(--muted);cursor:pointer;text-align:center;transition:all .15s;background:var(--surface)}
+.gad7-opt input:checked+label{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,#fff);color:var(--accent)}
+.gad7-opt label:hover{border-color:var(--accent)}
+.gad7-btn{margin-top:20px;background:var(--accent);border:none;border-radius:10px;padding:13px 28px;font-size:1rem;font-weight:700;color:#fff;cursor:pointer;transition:opacity .15s}
+.gad7-btn:hover{opacity:.88}
+.gad7-results{display:none;margin-top:20px}
+.gad7-score-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-bottom:16px}
+.gad7-rc{background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center}
+.gad7-rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.gad7-rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0}
+.gad7-rs{display:block;font-size:11.5px;color:var(--muted)}
+.gad7-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5}
+.gad7-callout b{color:var(--accent)}
+.gad7-ctas{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+.gad7-cta-primary{background:var(--accent);border:none;border-radius:8px;padding:10px 20px;font-size:.9rem;font-weight:700;color:#fff;cursor:pointer;text-decoration:none;display:inline-block}
+.gad7-cta-secondary{background:none;border:1px solid var(--border-strong);border-radius:8px;padding:10px 18px;font-size:.9rem;font-weight:600;color:var(--text);cursor:pointer;text-decoration:none;display:inline-block}
+.gad7-cta-secondary:hover,.gad7-cta-primary:hover{opacity:.88}
+.gad7-reset{background:none;border:1px solid var(--border-strong);border-radius:8px;padding:9px 16px;font-size:14px;font-weight:600;color:var(--text);cursor:pointer;margin-top:12px}
+.gad7-reset:hover{border-color:var(--accent)}
+.gad7-note{margin:16px 0 0;font-size:12px;color:var(--stone);line-height:1.5}
+.gad7-severity-0{color:#16a34a!important}
+.gad7-severity-1{color:#ca8a04!important}
+.gad7-severity-2{color:#ea580c!important}
+.gad7-severity-3{color:#dc2626!important}
+@media(max-width:560px){.gad7-rv{font-size:1.4rem}.gad7-options{grid-template-columns:1fr 1fr}}
+</style>
+
+<div class="gad7-wrap">
+  <div class="gad7-head">GAD-7 Anxiety Screening</div>
+  <div class="gad7-body">
+    <div class="gad7-disclaimer">
+      <strong>Important Notice:</strong> The GAD-7 is a validated screening questionnaire used by clinicians. It is <strong>NOT a diagnosis</strong>. Only a licensed mental health professional or physician can diagnose an anxiety disorder. If you are in crisis or having thoughts of self-harm, <strong>call or text 988</strong> (Suicide &amp; Crisis Lifeline) immediately. For emergencies, call <strong>911</strong>.
+    </div>
+    <p class="gad7-intro">Over the last <strong>2 weeks</strong>, how often have you been bothered by the following problems?</p>
+
+    <div id="gad7-questions"></div>
+
+    <button class="gad7-btn" onclick="gad7Calculate()">Calculate My Score</button>
+
+    <div class="gad7-results" id="gad7-results">
+      <div class="gad7-score-row">
+        <div class="gad7-rc">
+          <span class="gad7-rl">Total Score</span>
+          <span class="gad7-rv" id="gad7-total">—</span>
+          <span class="gad7-rs">out of 21</span>
+        </div>
+        <div class="gad7-rc">
+          <span class="gad7-rl">Severity</span>
+          <span class="gad7-rv" id="gad7-severity" style="font-size:1.1rem">—</span>
+          <span class="gad7-rs" id="gad7-range">—</span>
+        </div>
+      </div>
+      <div class="gad7-callout" id="gad7-action"></div>
+      <div class="gad7-ctas">
+        <a class="gad7-cta-primary" href="/find-therapist/">Talk to a Therapist</a>
+        <a class="gad7-cta-secondary" href="/types-of-anxiety-therapy/">Learn About Anxiety Treatment</a>
+      </div>
+      <button class="gad7-reset" onclick="gad7Reset()">Retake Screening</button>
+      <p class="gad7-note">This screening tool does not provide a diagnosis. Results should be reviewed with a qualified healthcare provider. GAD-7 is in the public domain (Pfizer Inc., Spitzer et al., 2006).</p>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var qs = [
+    "Feeling nervous, anxious, or on edge",
+    "Not being able to stop or control worrying",
+    "Worrying too much about different things",
+    "Trouble relaxing",
+    "Being so restless that it’s hard to sit still",
+    "Becoming easily annoyed or irritable",
+    "Feeling afraid as if something awful might happen"
+  ];
+  var opts = [["Not at all",0],["Several days",1],["More than half the days",2],["Nearly every day",3]];
+  var container = document.getElementById('gad7-questions');
+  qs.forEach(function(q,i){
+    var qDiv = document.createElement('div');
+    qDiv.className = 'gad7-question';
+    var oHtml = '<div class="gad7-options">';
+    opts.forEach(function(o){
+      var id='gad7_q'+(i+1)+'_v'+o[1];
+      oHtml+='<div class="gad7-opt"><input type="radio" name="gad7_q'+(i+1)+'" id="'+id+'" value="'+o[1]+'"><label for="'+id+'">'+o[0]+'<br><small style="color:var(--stone)">'+o[1]+' pts</small></label></div>';
+    });
+    oHtml+='</div>';
+    qDiv.innerHTML='<div class="gad7-qtext"><span class="gad7-qnum">'+(i+1)+'.</span>'+q+'</div>'+oHtml;
+    container.appendChild(qDiv);
+  });
+})();
+
+function gad7Calculate(){
+  var total=0, allAnswered=true;
+  for(var i=1;i<=7;i++){
+    var sel=document.querySelector('input[name="gad7_q'+i+'"]:checked');
+    if(!sel){allAnswered=false;break;}
+    total+=parseInt(sel.value);
+  }
+  if(!allAnswered){alert('Please answer all 7 questions before calculating your score.');return;}
+  var severity,cls,action,range;
+  if(total<=4){severity='Minimal Anxiety';cls='gad7-severity-0';action='<b>Score 0–4:</b> Minimal anxiety symptoms. Continue monitoring how you feel. Stress-management practices like mindfulness and regular exercise can help maintain emotional well-being.';range='Score 0–4';}
+  else if(total<=9){severity='Mild Anxiety';cls='gad7-severity-1';action='<b>Score 5–9:</b> Mild anxiety symptoms present. Consider discussing these feelings with your primary care provider. Self-care strategies and therapy can be very effective at this stage.';range='Score 5–9';}
+  else if(total<=14){severity='Moderate Anxiety';cls='gad7-severity-2';action='<b>Score 10–14:</b> Moderate anxiety symptoms. It is worth considering talking to a provider. Cognitive-behavioral therapy (CBT) has strong evidence for anxiety disorders and may be very helpful.';range='Score 10–14';}
+  else{severity='Severe Anxiety';cls='gad7-severity-3';action='<b>Score 15–21:</b> Severe anxiety symptoms. Professional evaluation is strongly recommended. Effective treatments are available. Please reach out to a mental health professional or your doctor soon. If in crisis, call or text <strong>988</strong>.';range='Score 15–21';}
+  document.getElementById('gad7-total').textContent=total;
+  var sevEl=document.getElementById('gad7-severity');
+  sevEl.textContent=severity;
+  sevEl.className='gad7-rv '+cls;
+  document.getElementById('gad7-range').textContent=range;
+  document.getElementById('gad7-action').innerHTML=action;
+  document.getElementById('gad7-results').style.display='block';
+  document.getElementById('gad7-results').scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+function gad7Reset(){
+  document.querySelectorAll('input[name^="gad7_"]').forEach(function(el){el.checked=false;});
+  document.getElementById('gad7-results').style.display='none';
+  window.scrollTo({top:document.querySelector('.gad7-wrap').offsetTop-80,behavior:'smooth'});
+}
+</script>

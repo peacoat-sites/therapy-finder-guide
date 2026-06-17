@@ -1,0 +1,162 @@
+<style>
+.phq9-wrap{margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.phq9-head{padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem}
+.phq9-body{padding:20px}
+.phq9-disclaimer{margin-bottom:20px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,#dc2626 10%,#fff);border:1px solid color-mix(in srgb,#dc2626 35%,transparent);font-size:.9rem;line-height:1.6}
+.phq9-disclaimer strong{color:#dc2626}
+.phq9-intro{font-size:.95rem;color:var(--muted);margin-bottom:16px;line-height:1.5}
+.phq9-question{margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid var(--border)}
+.phq9-question:last-of-type{border-bottom:none}
+.phq9-qtext{font-size:.95rem;font-weight:600;color:var(--text);margin-bottom:10px;line-height:1.4}
+.phq9-qnum{color:var(--accent);font-weight:800;margin-right:4px}
+.phq9-options{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:8px}
+.phq9-opt{position:relative}
+.phq9-opt input{position:absolute;opacity:0;width:0;height:0}
+.phq9-opt label{display:block;padding:9px 12px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:13px;font-weight:600;color:var(--muted);cursor:pointer;text-align:center;transition:all .15s;background:var(--surface)}
+.phq9-opt input:checked+label{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,#fff);color:var(--accent)}
+.phq9-opt label:hover{border-color:var(--accent)}
+.phq9-crisis-alert{display:none;margin-top:10px;padding:12px 16px;border-radius:10px;background:color-mix(in srgb,#dc2626 10%,#fff);border:1px solid color-mix(in srgb,#dc2626 40%,transparent);font-size:.9rem;line-height:1.5;color:#7f1d1d}
+.phq9-crisis-alert strong{display:block;margin-bottom:4px;font-size:.95rem;color:#dc2626}
+.phq9-btn{margin-top:20px;background:var(--accent);border:none;border-radius:10px;padding:13px 28px;font-size:1rem;font-weight:700;color:#fff;cursor:pointer;transition:opacity .15s}
+.phq9-btn:hover{opacity:.88}
+.phq9-results{display:none;margin-top:20px}
+.phq9-score-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-bottom:16px}
+.phq9-rc{background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center}
+.phq9-rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.phq9-rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0}
+.phq9-rs{display:block;font-size:11.5px;color:var(--muted)}
+.phq9-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5}
+.phq9-callout b{color:var(--accent)}
+.phq9-ctas{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+.phq9-cta-primary{background:var(--accent);border:none;border-radius:8px;padding:10px 20px;font-size:.9rem;font-weight:700;color:#fff;cursor:pointer;text-decoration:none;display:inline-block}
+.phq9-cta-secondary{background:none;border:1px solid var(--border-strong);border-radius:8px;padding:10px 18px;font-size:.9rem;font-weight:600;color:var(--text);cursor:pointer;text-decoration:none;display:inline-block}
+.phq9-cta-secondary:hover,.phq9-cta-primary:hover{opacity:.88}
+.phq9-reset{background:none;border:1px solid var(--border-strong);border-radius:8px;padding:9px 16px;font-size:14px;font-weight:600;color:var(--text);cursor:pointer;margin-top:12px}
+.phq9-reset:hover{border-color:var(--accent)}
+.phq9-note{margin:16px 0 0;font-size:12px;color:var(--stone);line-height:1.5}
+.phq9-severity-0{color:#16a34a!important}
+.phq9-severity-1{color:#ca8a04!important}
+.phq9-severity-2{color:#ea580c!important}
+.phq9-severity-3{color:#dc2626!important}
+.phq9-severity-4{color:#7c1d1d!important}
+@media(max-width:560px){.phq9-rv{font-size:1.4rem}.phq9-options{grid-template-columns:1fr 1fr}}
+</style>
+
+<div class="phq9-wrap">
+  <div class="phq9-head">PHQ-9 Depression Screening</div>
+  <div class="phq9-body">
+    <div class="phq9-disclaimer">
+      <strong>Important Notice:</strong> This is the PHQ-9, a standardized screening questionnaire used in clinical settings. It is <strong>NOT a diagnosis</strong>. Only a licensed mental health professional or physician can diagnose depression. If you are in crisis or having thoughts of self-harm, <strong>call or text 988</strong> (Suicide &amp; Crisis Lifeline) immediately. For emergencies, call <strong>911</strong>.
+    </div>
+    <p class="phq9-intro">Over the last <strong>2 weeks</strong>, how often have you been bothered by any of the following problems?</p>
+
+    <div id="phq9-questions">
+      <!-- Questions injected by JS -->
+    </div>
+
+    <button class="phq9-btn" onclick="phq9Calculate()">Calculate My Score</button>
+
+    <div class="phq9-results" id="phq9-results">
+      <div class="phq9-score-row">
+        <div class="phq9-rc">
+          <span class="phq9-rl">Total Score</span>
+          <span class="phq9-rv" id="phq9-total">—</span>
+          <span class="phq9-rs">out of 27</span>
+        </div>
+        <div class="phq9-rc">
+          <span class="phq9-rl">Severity</span>
+          <span class="phq9-rv" id="phq9-severity" style="font-size:1.1rem">—</span>
+          <span class="phq9-rs" id="phq9-range">—</span>
+        </div>
+      </div>
+      <div class="phq9-callout" id="phq9-action"></div>
+      <div class="phq9-ctas">
+        <a class="phq9-cta-primary" href="/find-therapist/">Talk to a Therapist</a>
+        <a class="phq9-cta-secondary" href="/what-is-cognitive-behavioral-therapy-cbt/">Learn About Treatment Options</a>
+      </div>
+      <button class="phq9-reset" onclick="phq9Reset()">Retake Screening</button>
+      <p class="phq9-note">This screening tool does not provide a diagnosis. Scores are meant to be reviewed with a qualified healthcare provider who can interpret results in the context of your full clinical picture. PHQ-9 is in the public domain (Pfizer Inc.).</p>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var qs = [
+    "Little interest or pleasure in doing things",
+    "Feeling down, depressed, or hopeless",
+    "Trouble falling or staying asleep, or sleeping too much",
+    "Feeling tired or having little energy",
+    "Poor appetite or overeating",
+    "Feeling bad about yourself — or that you are a failure or have let yourself or your family down",
+    "Trouble concentrating on things, such as reading the newspaper or watching television",
+    "Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual",
+    "Thoughts that you would be better off dead, or of hurting yourself in some way"
+  ];
+  var opts = [["Not at all",0],["Several days",1],["More than half the days",2],["Nearly every day",3]];
+  var container = document.getElementById('phq9-questions');
+  qs.forEach(function(q, i){
+    var qDiv = document.createElement('div');
+    qDiv.className = 'phq9-question';
+    var qText = '<div class="phq9-qtext"><span class="phq9-qnum">'+(i+1)+'.</span>'+q+'</div>';
+    var oHtml = '<div class="phq9-options">';
+    opts.forEach(function(o){
+      var id = 'phq9_q'+(i+1)+'_v'+o[1];
+      oHtml += '<div class="phq9-opt"><input type="radio" name="phq9_q'+(i+1)+'" id="'+id+'" value="'+o[1]+'"'+(i===8?' onchange="phq9CheckQ9()"':'')+'><label for="'+id+'">'+o[0]+'<br><small style="color:var(--stone)">'+o[1]+' pts</small></label></div>';
+    });
+    oHtml += '</div>';
+    if(i===8){
+      oHtml += '<div class="phq9-crisis-alert" id="phq9-crisis-q9"><strong>If you are having thoughts of self-harm, please reach out now:</strong>Crisis Line: Call or text <strong>988</strong> &nbsp;|&nbsp; Emergency: <strong>911</strong> &nbsp;|&nbsp; Crisis Text Line: Text <strong>HOME to 741741</strong></div>';
+    }
+    qDiv.innerHTML = qText + oHtml;
+    container.appendChild(qDiv);
+  });
+})();
+
+function phq9CheckQ9(){
+  var sel = document.querySelector('input[name="phq9_q9"]:checked');
+  var alert = document.getElementById('phq9-crisis-q9');
+  if(sel && parseInt(sel.value) > 0){
+    alert.style.display = 'block';
+  } else {
+    alert.style.display = 'none';
+  }
+}
+
+function phq9Calculate(){
+  var total = 0;
+  var allAnswered = true;
+  for(var i=1;i<=9;i++){
+    var sel = document.querySelector('input[name="phq9_q'+i+'"]:checked');
+    if(!sel){ allAnswered=false; break; }
+    total += parseInt(sel.value);
+  }
+  if(!allAnswered){
+    alert('Please answer all 9 questions before calculating your score.');
+    return;
+  }
+  var severity, cls, action, range;
+  if(total<=4){ severity='Minimal Depression'; cls='phq9-severity-0'; action='<b>Score 0–4:</b> Minimal or no depression symptoms detected. Continue monitoring your mood and well-being. Consider talking to a healthcare provider if you notice changes.'; range='Score 0–4'; }
+  else if(total<=9){ severity='Mild Depression'; cls='phq9-severity-1'; action='<b>Score 5–9:</b> Mild depression symptoms. Consider discussing your mood with your primary care provider or a mental health professional. Lifestyle changes and support can make a difference.'; range='Score 5–9'; }
+  else if(total<=14){ severity='Moderate Depression'; cls='phq9-severity-2'; action='<b>Score 10–14:</b> Moderate depression symptoms. It is suggested that you discuss these results with a healthcare provider. Effective treatments including therapy and medication are available.'; range='Score 10–14'; }
+  else if(total<=19){ severity='Moderately Severe Depression'; cls='phq9-severity-3'; action='<b>Score 15–19:</b> Moderately severe depression symptoms. Professional mental health support is recommended. Please consider contacting a therapist or physician soon.'; range='Score 15–19'; }
+  else { severity='Severe Depression'; cls='phq9-severity-4'; action='<b>Score 20–27:</b> Severe depression symptoms. Strongly recommend seeking immediate professional evaluation. Please contact a mental health professional or your doctor as soon as possible. If in crisis, call or text <strong>988</strong>.'; range='Score 20–27'; }
+
+  document.getElementById('phq9-total').textContent = total;
+  var sevEl = document.getElementById('phq9-severity');
+  sevEl.textContent = severity;
+  sevEl.className = 'phq9-rv '+cls;
+  document.getElementById('phq9-range').textContent = range;
+  document.getElementById('phq9-action').innerHTML = action;
+  document.getElementById('phq9-results').style.display = 'block';
+  document.getElementById('phq9-results').scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+function phq9Reset(){
+  document.querySelectorAll('input[name^="phq9_"]').forEach(function(el){ el.checked=false; });
+  document.getElementById('phq9-results').style.display='none';
+  var crisis = document.getElementById('phq9-crisis-q9');
+  if(crisis) crisis.style.display='none';
+  window.scrollTo({top:document.querySelector('.phq9-wrap').offsetTop-80,behavior:'smooth'});
+}
+</script>

@@ -1,0 +1,196 @@
+<style>
+.tcc-wrap{margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.tcc-head{padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem}
+.tcc-body{padding:20px}
+.tcc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.tcc-label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.tcc-input,.tcc-select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.tcc-input:focus,.tcc-select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+.tcc-conditional{display:none;margin-top:14px}
+.tcc-slider-row{display:flex;align-items:center;gap:12px}
+.tcc-slider{-webkit-appearance:none;flex:1;height:6px;border-radius:3px;background:var(--border-strong);outline:none}
+.tcc-slider::-webkit-slider-thumb{-webkit-appearance:none;width:20px;height:20px;border-radius:50%;background:var(--accent);cursor:pointer}
+.tcc-slider::-moz-range-thumb{width:20px;height:20px;border-radius:50%;background:var(--accent);cursor:pointer;border:none}
+.tcc-slider-val{font-weight:800;color:var(--accent);min-width:36px;text-align:right}
+.tcc-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.tcc-rc{background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center}
+.tcc-rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.tcc-rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0}
+.tcc-rs{display:block;font-size:11.5px;color:var(--muted)}
+.tcc-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5}
+.tcc-callout b{color:var(--accent)}
+.tcc-affordable{margin-top:20px;padding:18px 20px;background:var(--surface2);border-radius:12px;border:1px solid var(--border)}
+.tcc-affordable h4{margin:0 0 12px;font-size:.95rem;font-weight:800;color:var(--text)}
+.tcc-option{display:flex;align-items:flex-start;gap:10px;margin-bottom:10px;font-size:.88rem;line-height:1.5;color:var(--muted)}
+.tcc-option-icon{font-size:1rem;flex-shrink:0;margin-top:1px}
+.tcc-option strong{color:var(--text)}
+.tcc-note{margin:16px 0 0;font-size:12px;color:var(--stone);line-height:1.5}
+@media(max-width:560px){.tcc-rv{font-size:1.4rem}}
+</style>
+
+<div class="tcc-wrap">
+  <div class="tcc-head">Therapy Cost Estimator</div>
+  <div class="tcc-body">
+    <div class="tcc-grid">
+      <label class="tcc-label" style="grid-column:1/-1">
+        Insurance Status
+        <select class="tcc-select" id="tcc-ins" onchange="tccUpdate()">
+          <option value="none">No insurance</option>
+          <option value="deductible">Insurance with deductible</option>
+          <option value="copay">Insurance — copay only</option>
+          <option value="medicaid">Medicaid / Medicare</option>
+        </select>
+      </label>
+    </div>
+
+    <!-- No insurance -->
+    <div class="tcc-conditional" id="tcc-cond-none">
+      <div class="tcc-grid">
+        <label class="tcc-label">
+          Average session cost ($)
+          <input type="number" class="tcc-input" id="tcc-no-ins-cost" value="150" min="0" oninput="tccUpdate()">
+        </label>
+      </div>
+      <p style="font-size:12px;color:var(--stone);margin:0 0 8px">Therapist rates typically range $100–$250/session without insurance. Open Path Collective offers $30–$80/session for income-qualified clients.</p>
+    </div>
+
+    <!-- Deductible -->
+    <div class="tcc-conditional" id="tcc-cond-deductible">
+      <div class="tcc-grid">
+        <label class="tcc-label">
+          Deductible remaining ($)
+          <input type="number" class="tcc-input" id="tcc-deductible" value="1000" min="0" oninput="tccUpdate()">
+        </label>
+        <label class="tcc-label">
+          Coinsurance after deductible (%)
+          <input type="number" class="tcc-input" id="tcc-coinsurance" value="20" min="0" max="100" oninput="tccUpdate()">
+        </label>
+        <label class="tcc-label">
+          Average session cost ($)
+          <input type="number" class="tcc-input" id="tcc-ded-cost" value="150" min="0" oninput="tccUpdate()">
+        </label>
+      </div>
+    </div>
+
+    <!-- Copay -->
+    <div class="tcc-conditional" id="tcc-cond-copay">
+      <div class="tcc-grid">
+        <label class="tcc-label">
+          Copay per session ($)
+          <input type="number" class="tcc-input" id="tcc-copay" value="30" min="0" oninput="tccUpdate()">
+        </label>
+      </div>
+    </div>
+
+    <!-- Medicaid -->
+    <div class="tcc-conditional" id="tcc-cond-medicaid">
+      <p style="font-size:.9rem;color:var(--muted);margin:0 0 8px;padding:12px 14px;background:var(--surface2);border-radius:10px;border:1px solid var(--border)">Medicaid and Medicare typically cover mental health services at low or no cost to you. Costs vary by state and plan. Many plans have $0 copays for mental health visits. Check with your specific plan for exact coverage details.</p>
+    </div>
+
+    <div class="tcc-grid" style="margin-top:14px">
+      <label class="tcc-label">
+        Sessions per month
+        <select class="tcc-select" id="tcc-sessions" onchange="tccUpdate()">
+          <option value="1">1 session/month (maintenance)</option>
+          <option value="2" selected>2 sessions/month (typical)</option>
+          <option value="4">4 sessions/month (weekly)</option>
+          <option value="8">8 sessions/month (intensive)</option>
+        </select>
+      </label>
+      <label class="tcc-label">
+        Treatment duration
+        <div class="tcc-slider-row">
+          <input type="range" class="tcc-slider" id="tcc-months" min="1" max="12" value="3" oninput="tccSlider()">
+          <span class="tcc-slider-val"><span id="tcc-months-val">3</span> mo</span>
+        </div>
+      </label>
+    </div>
+
+    <div class="tcc-results">
+      <div class="tcc-rc">
+        <span class="tcc-rl">Per Session</span>
+        <span class="tcc-rv" id="tcc-per-session">$—</span>
+        <span class="tcc-rs">estimated cost</span>
+      </div>
+      <div class="tcc-rc">
+        <span class="tcc-rl">Monthly Cost</span>
+        <span class="tcc-rv" id="tcc-monthly">$—</span>
+        <span class="tcc-rs">at chosen frequency</span>
+      </div>
+      <div class="tcc-rc">
+        <span class="tcc-rl">Total Estimate</span>
+        <span class="tcc-rv" id="tcc-total">$—</span>
+        <span class="tcc-rs" id="tcc-total-label">for 3 months</span>
+      </div>
+    </div>
+
+    <div class="tcc-callout" id="tcc-callout" style="display:none"></div>
+
+    <div class="tcc-affordable">
+      <h4>Affordable Therapy Options</h4>
+      <div class="tcc-option"><span class="tcc-option-icon">&#128197;</span><div><strong>Open Path Collective:</strong> $30–$80/session for income-qualified individuals and families. Searchable directory of therapists accepting reduced rates.</div></div>
+      <div class="tcc-option"><span class="tcc-option-icon">&#127968;</span><div><strong>Community Mental Health Centers:</strong> Sliding scale fees based on income. Often serve uninsured and underinsured clients.</div></div>
+      <div class="tcc-option"><span class="tcc-option-icon">&#127979;</span><div><strong>University Training Clinics:</strong> Therapy provided by supervised graduate students for $0–$20/session. High-quality care at minimal cost.</div></div>
+      <div class="tcc-option"><span class="tcc-option-icon">&#128241;</span><div><strong>Online Platforms (BetterHelp / Talkspace):</strong> Subscription-based therapy at $60–$100/week. Convenient and often more affordable than in-office sessions.</div></div>
+      <div class="tcc-option"><span class="tcc-option-icon">&#128188;</span><div><strong>Employee Assistance Program (EAP):</strong> Many employers offer 6 or more free therapy sessions annually. Check with your HR department — it's a benefit you may already have.</div></div>
+    </div>
+
+    <p class="tcc-note">Mental health parity laws (Mental Health Parity and Addiction Equity Act) require most insurers to cover mental health benefits at the same level as medical benefits. This calculator provides estimates only. Actual costs vary by provider, plan, and location. Always verify coverage directly with your insurance provider.</p>
+  </div>
+</div>
+
+<script>
+function tccSlider(){
+  var v=document.getElementById('tcc-months').value;
+  document.getElementById('tcc-months-val').textContent=v;
+  tccUpdate();
+}
+function tccUpdate(){
+  var ins=document.getElementById('tcc-ins').value;
+  var sessions=parseInt(document.getElementById('tcc-sessions').value);
+  var months=parseInt(document.getElementById('tcc-months').value);
+  // show/hide conditional sections
+  ['none','deductible','copay','medicaid'].forEach(function(k){
+    document.getElementById('tcc-cond-'+k).style.display=(k===ins)?'block':'none';
+  });
+  document.getElementById('tcc-months-val').textContent=months;
+  var perSession=0, monthly=0, total=0, callout='';
+  if(ins==='none'){
+    perSession=parseFloat(document.getElementById('tcc-no-ins-cost').value)||150;
+    monthly=perSession*sessions;
+    total=monthly*months;
+    if(total>2000) callout='<b>Tip:</b> Without insurance, costs add up quickly. Open Path Collective ($30–$80/session) or university clinics ($0–$20) could save you hundreds of dollars.';
+  } else if(ins==='deductible'){
+    var ded=parseFloat(document.getElementById('tcc-deductible').value)||0;
+    var coins=(parseFloat(document.getElementById('tcc-coinsurance').value)||20)/100;
+    perSession=parseFloat(document.getElementById('tcc-ded-cost').value)||150;
+    var totalSessions=sessions*months;
+    var costBeforeDed=Math.min(ded,totalSessions*perSession);
+    var sessionsBeforeDed=Math.min(totalSessions,Math.ceil(ded/perSession));
+    var sessionsAfterDed=Math.max(0,totalSessions-sessionsBeforeDed);
+    total=costBeforeDed+(sessionsAfterDed*perSession*coins);
+    monthly=total/months;
+    var effPerSession=total/totalSessions;
+    perSession=Math.round(effPerSession);
+    if(ded>0) callout='<b>Deductible note:</b> Your first ~'+sessionsBeforeDed+' sessions count toward your deductible (full cost). After that, you pay '+Math.round(coins*100)+'% coinsurance. Estimate based on your inputs.';
+  } else if(ins==='copay'){
+    perSession=parseFloat(document.getElementById('tcc-copay').value)||30;
+    monthly=perSession*sessions;
+    total=monthly*months;
+    callout='<b>Copay plan:</b> Your plan covers most of the session cost. You pay $'+perSession.toFixed(0)+' per visit regardless of session length or therapist rate (above the negotiated rate).';
+  } else if(ins==='medicaid'){
+    perSession=0; monthly=0; total=0;
+    callout='<b>Medicaid/Medicare:</b> Your coverage typically includes mental health services at little or no cost. Contact your plan to find in-network therapists and confirm your specific benefits.';
+  }
+  var fmt=function(n){return '$'+Math.round(n).toLocaleString();};
+  document.getElementById('tcc-per-session').textContent=fmt(perSession);
+  document.getElementById('tcc-monthly').textContent=fmt(monthly);
+  document.getElementById('tcc-total').textContent=fmt(total);
+  document.getElementById('tcc-total-label').textContent='for '+months+' month'+(months===1?'':'s');
+  var co=document.getElementById('tcc-callout');
+  if(callout){co.innerHTML=callout;co.style.display='block';}else{co.style.display='none';}
+}
+// Init
+document.addEventListener('DOMContentLoaded',function(){tccUpdate();});
+tccUpdate();
+</script>
