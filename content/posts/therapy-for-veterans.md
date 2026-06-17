@@ -94,6 +94,11 @@ Sleep is treated like a soft issue and it isn't. Trauma-related nightmares are o
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
+## Sources & References
+
+- [VA — Mental Health Services](https://www.va.gov/health-care/health-needs-conditions/mental-health/) — supports VA mental health programs and services description
+- [VA — Community Care Program](https://www.va.gov/communitycare/) — supports Community Care eligibility for outside providers
+- [National Center for PTSD — VA](https://www.ptsd.va.gov/) — supports evidence-based PTSD therapy types discussion
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

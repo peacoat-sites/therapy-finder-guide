@@ -143,6 +143,11 @@ The right provider isn't the one with the most impressive degree or the longest 
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Types of Mental Health Professionals](https://www.apa.org/topics/mental-health) — Explains psychologist training, licensing, and scope of practice
+- [SAMHSA — Types of Treatment Professionals](https://www.samhsa.gov/find-help) — Defines therapist, counselor, psychiatrist roles and credentials
+- [NIMH — Mental Health Information](https://www.nimh.nih.gov/health/find-help) — Government resource on finding appropriate mental health care
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

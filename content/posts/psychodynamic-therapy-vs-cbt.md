@@ -128,6 +128,12 @@ The honest truth is that most people who benefit from therapy don't do so becaus
 
 ---
 
+## Sources & References
+
+- [APA — Different approaches to psychotherapy](https://www.apa.org/topics/psychotherapy/approaches) — Explains major therapy types including psychodynamic and CBT
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Overview of evidence-based psychotherapy approaches
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Mental health treatment referral and information resource
+
 ---
 
 ## Recommended Resources

@@ -121,6 +121,11 @@ Wherever you are right now, whether you're just starting to wonder if something'
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 
+## Sources & References
+
+- [World Health Organization — Burn-out an occupational phenomenon](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases) — WHO's 2019 ICD-11 burnout definition and three core features
+- [SAMHSA — Workplace Mental Health](https://www.samhsa.gov/workplace) — Federal guidance on occupational stress and mental health resources
+- [American Psychological Association — Burnout and Stress](https://www.apa.org/topics/healthy-workplaces/burnout-stress) — Explains burnout symptoms, causes, and psychological treatment approaches
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 

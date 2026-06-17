@@ -138,6 +138,11 @@ Therapy can change your life. That's not a marketing line, it's something I've w
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — What to Expect from Therapy](https://www.apa.org/topics/psychotherapy/understanding) — Explains therapy process, what to expect, and how it works
+- [SAMHSA — Finding Help](https://www.samhsa.gov/find-help) — Federal guidance on accessing mental health treatment
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Overview of therapy types and treatment approaches
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

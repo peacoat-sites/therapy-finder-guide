@@ -139,6 +139,13 @@ The hardest part of accessing mental health care isn't usually the resources the
 
 ---
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — confirms 24/7 free treatment referral service details
+- [988 Suicide & Crisis Lifeline — official site](https://988lifeline.org/) — supports crisis line contact info and services
+- [VA — Veterans Crisis Line](https://www.va.gov/reach/) — confirms veteran-specific crisis support options
+- [The Trevor Project — Get Help](https://www.thetrevorproject.org/get-help/) — supports LGBTQ+ youth crisis line information
+
 ---
 
 ## Recommended Resources

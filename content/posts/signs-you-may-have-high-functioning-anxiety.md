@@ -115,6 +115,11 @@ There's something quietly costly about spending years being the person who has i
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Stress in America survey](https://www.apa.org/news/press/releases/stress) — supports statistic on adults feeling too stressed to function
+- [NIMH — Generalized Anxiety Disorder](https://www.nimh.nih.gov/health/topics/anxiety-disorders) — supports GAD criteria and clinical context
+- [SAMHSA — Mental Health Information](https://www.samhsa.gov/mental-health) — supports guidance on recognizing anxiety and seeking help
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 

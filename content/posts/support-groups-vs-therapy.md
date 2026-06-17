@@ -136,6 +136,12 @@ Here's what I want you to take from all of this: there's no single right answer,
 
 ---
 
+## Sources & References
+
+- [SAMHSA — Finding Support](https://www.samhsa.gov/find-support) — Explains types of mental health support including groups and therapy
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Defines therapy types and evidence-based treatment approaches
+- [APA — Understanding Psychotherapy](https://www.apa.org/topics/psychotherapy/understanding) — Explains what therapy is and how it differs from other support
+
 ---
 
 ## Recommended Resources

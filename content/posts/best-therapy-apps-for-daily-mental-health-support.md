@@ -129,6 +129,10 @@ That's enough to be worth it.
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — supports crisis resource context for mental health apps
+- [NIMH — Technology and the Future of Mental Health Treatment](https://www.nimh.nih.gov/health/topics/technology-and-the-future-of-mental-health-treatment) — supports discussion of digital mental health tools
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

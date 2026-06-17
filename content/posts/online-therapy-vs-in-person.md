@@ -131,6 +131,10 @@ The decision between online and in-person therapy matters less than the decision
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — What is Telepsychology?](https://www.apa.org/topics/telepsychology) — supports evidence-based approaches work via telehealth
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — explains CBT, DBT, and other evidence-based therapies
 
 *Photo: [Katerina Holmes](https://www.pexels.com/@katerina-holmes) via Pexels*
 

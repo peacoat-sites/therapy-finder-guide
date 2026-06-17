@@ -126,6 +126,10 @@ There's a particular kind of exhaustion that comes from relationship pain that d
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Couples Therapy](https://www.apa.org/topics/psychotherapy/couples-therapy) — Explains evidence-based approaches to couples therapy
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Free referrals for mental health and family services
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

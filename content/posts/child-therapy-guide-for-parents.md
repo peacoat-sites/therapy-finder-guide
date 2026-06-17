@@ -152,6 +152,10 @@ Getting help for your child is one of the more courageous things a parent can do
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 
+## Sources & References
+
+- [American Psychological Association — Children and Adolescents](https://www.apa.org/topics/children) — Supports therapy types and developmental considerations for kids
+- [CDC — Children's Mental Health](https://www.cdc.gov/children-mental-health/) — Supports signs children may need mental health support
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

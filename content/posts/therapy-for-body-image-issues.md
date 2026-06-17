@@ -91,6 +91,11 @@ If you're ever in a moment of acute distress, remember that the 988 Suicide and 
 - **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
 - **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — Mental Health Information](https://www.samhsa.gov/mental-health) — supports mental health treatment approaches and early intervention benefits
+- [APA — Body Dysmorphic Disorder](https://www.apa.org/topics/body-dysmorphic-disorder) — supports information on BDD as clinical condition requiring treatment
+- [NIMH — Eating Disorders](https://www.nimh.nih.gov/health/topics/eating-disorders) — supports eating disorders as part of body image distress spectrum
 
 *Photo: [Makingoffphotos SouZynan DDV](https://www.pexels.com/@makingoffphotos-souzynan-ddv-1166572) via Pexels*
 

@@ -125,6 +125,11 @@ The search for a couples therapist can feel like one more thing to fight about, 
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
+## Sources & References
+
+- [The Gottman Institute — Research](https://www.gottman.com/about/research/) — Supports Gottman research on couples and relationship science
+- [APA — Understanding psychotherapy](https://www.apa.org/topics/psychotherapy) — Authoritative guidance on therapy effectiveness and finding therapists
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Federal resource for finding mental health treatment services
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

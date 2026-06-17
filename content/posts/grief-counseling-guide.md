@@ -128,6 +128,10 @@ Grief is one of the most universal human experiences, and one of the loneliest. 
 - **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Grief: Coping with the loss of your loved one](https://www.apa.org/topics/grief) — Supports counseling benefits and types of loss
+- [National Institute of Mental Health — Coping with Grief](https://www.nimh.nih.gov/health/topics/coping-with-traumatic-events) — Supports grief responses and when to seek help
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

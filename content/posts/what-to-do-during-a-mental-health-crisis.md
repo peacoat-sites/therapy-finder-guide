@@ -123,6 +123,12 @@ One step. Then the next.
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — 24/7 free crisis support and treatment referrals
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/) — Official crisis line for suicidal thoughts and emotional distress
+- [NIMH — Caring for Your Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health) — Federal guidance on recognizing and responding to mental health crises
+- [NAMI — Crisis Resources](https://www.nami.org/help) — Nonprofit crisis support options and warning signs
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 

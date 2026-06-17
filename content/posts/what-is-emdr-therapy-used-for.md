@@ -131,6 +131,10 @@ The bottom line is simpler than most EMDR coverage makes it: this is a well-rese
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 - **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — EMDR Clinical Practice Guideline](https://www.apa.org/ptsd-guideline/treatments/eye-movement-reprocessing) — Supports EMDR as evidence-based treatment for PTSD
+- [SAMHSA — Trauma-Informed Care Resources](https://www.samhsa.gov/trauma-informed-care) — Federal guidance on evidence-based trauma treatments
 
 *Photo: [Mario Spencer](https://www.pexels.com/@spencphoto) via Pexels*
 

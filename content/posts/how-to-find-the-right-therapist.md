@@ -64,6 +64,12 @@ Access to mental health care has real barriers. They're not your fault, and ther
 
 ---
 
+## Sources & References
+
+- [SAMHSA — National Helpline and Treatment Locator](https://www.samhsa.gov/find-help) — supports SAMHSA treatment locator reference for finding mental health services
+- [APA — How to Choose a Psychologist](https://www.apa.org/topics/psychotherapy/choose-therapist) — supports guidance on evaluating therapist fit and asking questions
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — supports understanding different therapeutic approaches and treatment options
+
 ---
 
 ## Recommended Resources

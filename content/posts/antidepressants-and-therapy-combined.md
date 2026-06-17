@@ -103,6 +103,11 @@ The combination of medication and therapy isn't a guaranteed fix. Nothing in men
 - **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Mental Health Medications](https://www.nimh.nih.gov/health/topics/mental-health-medications) — supports antidepressant mechanism, timeline, side effects info
+- [APA — Clinical Practice Guideline for Depression](https://www.apa.org/depression-guideline) — supports combined therapy approach for moderate-severe depression
+- [SAMHSA — Depression Treatment](https://www.samhsa.gov/mental-health/depression) — supports access barriers and treatment options overview
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

@@ -106,6 +106,12 @@ Getting connected to mental health care is rarely as clean and simple as we wish
 
 ---
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Official info on free 24/7 mental health helpline
+- [SAMHSA — About Us](https://www.samhsa.gov/about-us) — Agency mission and role within HHS
+- [988 Suicide and Crisis Lifeline](https://988lifeline.org/) — Official site for federally-funded crisis line
+
 ---
 
 ## Recommended Resources

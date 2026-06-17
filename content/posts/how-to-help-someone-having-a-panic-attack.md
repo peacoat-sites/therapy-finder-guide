@@ -145,6 +145,10 @@ The single most useful thing you can bring to someone mid-panic is a regulated n
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — Tips for Survivors of Disaster](https://www.samhsa.gov/find-help/disaster-distress-helpline/coping-tips) — Grounding techniques and crisis support strategies
+- [APA — What Are Anxiety Disorders](https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders) — Authoritative info on panic as anxiety response
 
 *Photo: [Manuel Camacho-Navarro](https://www.pexels.com/@himanuuu) via Pexels*
 

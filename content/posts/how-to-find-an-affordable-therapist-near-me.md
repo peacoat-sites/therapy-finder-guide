@@ -140,6 +140,12 @@ The real barrier to therapy usually isn't money, though that pressure is real. I
 
 ---
 
+## Sources & References
+
+- [SAMHSA — Behavioral Health Treatment Services Locator](https://findtreatment.gov/) — Official tool to find local low-cost mental health services
+- [HRSA — Find a Health Center](https://findahealthcenter.hrsa.gov/) — Federally qualified health centers offering sliding-scale fees
+- [APA — How to Find Help for Mental Health](https://www.apa.org/topics/mental-health) — Professional guidance on accessing affordable therapy options
+
 ---
 
 ## Recommended Resources

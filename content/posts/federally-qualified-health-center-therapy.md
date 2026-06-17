@@ -122,6 +122,11 @@ The system isn't perfectly set up for people who need affordable mental health c
 
 ---
 
+## Sources & References
+
+- [HRSA — Find a Health Center](https://findahealthcenter.hrsa.gov/) — Official tool to locate FQHCs nationwide
+- [SAMHSA — Community Mental Health Centers](https://www.samhsa.gov/find-help/national-helpline) — Supports mental health service availability at community centers
+
 ---
 
 ## Recommended Resources

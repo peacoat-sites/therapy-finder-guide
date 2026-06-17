@@ -123,6 +123,11 @@ Starting group therapy takes a specific kind of courage, the willingness to be r
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Understanding group therapy](https://www.apa.org/topics/psychotherapy/group-therapy) — Explains group therapy format, benefits, and professional standards
+- [SAMHSA — Mental health treatment services](https://www.samhsa.gov/find-help/national-helpline) — Supports availability and effectiveness of group-based treatment
+- [NIMH — Psychotherapies overview](https://www.nimh.nih.gov/health/topics/psychotherapies) — Covers evidence-based therapy approaches including group formats
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

@@ -129,6 +129,10 @@ The system genuinely could be easier. It shouldn't require three phone calls and
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — free referral service for treatment and insurance navigation
+- [NAMI — How to Find a Mental Health Professional](https://www.nami.org/Your-Journey/Individuals-with-Mental-Illness/Finding-a-Mental-Health-Professional) — guidance on verifying insurance coverage with providers
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

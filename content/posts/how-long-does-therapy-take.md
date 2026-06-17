@@ -145,6 +145,11 @@ The honest truth is that asking "how long will therapy take" before you start is
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Understanding psychotherapy and how it works](https://www.apa.org/topics/psychotherapy/understanding) — Supports general therapy effectiveness and what to expect from treatment
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Authoritative overview of therapy types and evidence-based approaches
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Official resource for mental health treatment information and referrals
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 

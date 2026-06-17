@@ -99,6 +99,10 @@ Grief changes you. That's not a warning; it's just true. What therapy can do is 
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Grief: Coping with the loss of your loved one](https://www.apa.org/topics/families/grief) — Professional psychology guidance on grief and therapy
+- [National Institute of Mental Health — Coping with Grief](https://www.nimh.nih.gov/health/topics/coping-with-traumatic-events) — Federal mental health resource on processing loss
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

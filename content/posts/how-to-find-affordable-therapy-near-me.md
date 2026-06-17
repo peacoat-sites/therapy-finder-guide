@@ -95,6 +95,11 @@ You don't need a perfect plan. You need a first step, one phone call, one email,
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — National Helpline and Treatment Locator](https://www.samhsa.gov/find-help/national-helpline) — Free referrals to local sliding-scale and community mental health services
+- [NIMH — Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help) — Federal guidance on finding affordable mental health treatment options
+- [HRSA — Find a Health Center](https://findahealthcenter.hrsa.gov/) — Locates federally-funded community health centers offering sliding-scale fees
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

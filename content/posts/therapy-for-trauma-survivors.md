@@ -154,6 +154,11 @@ Getting into a car and driving to a therapist's office, or opening a telehealth 
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Trauma](https://www.apa.org/topics/trauma) — supports 70% trauma exposure statistic and trauma definitions
+- [SAMHSA — Trauma and Violence](https://www.samhsa.gov/trauma-violence) — supports trauma as treatable condition with effective therapies
+- [NIMH — Post-Traumatic Stress Disorder](https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd) — supports brain changes and physiological basis of trauma responses
 
 *Photo: [olia danilevich](https://www.pexels.com/@olia-danilevich) via Pexels*
 

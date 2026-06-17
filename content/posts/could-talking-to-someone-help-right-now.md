@@ -22,6 +22,12 @@ However your answers landed, reaching out for support is a sign of strength, not
 
 ---
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — supports that free mental health support resources exist
+- [NIMH — Caring for Your Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health) — supports self-check-in and seeking help as healthy steps
+- [MentalHealth.gov — Talk About Mental Health](https://www.mentalhealth.gov/talk) — reinforces that reaching out is a sign of strength
+
 ---
 
 ## Recommended Resources

@@ -111,6 +111,11 @@ The system genuinely isn't set up to make this easy, and acknowledging that isn'
 
 ---
 
+## Sources & References
+
+- [Senate Finance Committee — Mental Health Provider Directories Report](https://www.finance.senate.gov/) — supports ghost network/directory accuracy statistics cited
+- [CMS — Mental Health Parity Information](https://www.cms.gov/cciio/programs-and-initiatives/other-insurance-protections/mhpaea_factsheet) — supports insurance network requirements context
+
 ---
 
 ## Recommended Resources

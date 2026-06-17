@@ -146,6 +146,11 @@ Progress in therapy is real even when it's hard to see. The fact that you're ask
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Understanding psychotherapy and how it works](https://www.apa.org/topics/psychotherapy/understanding) — Supports how therapy works and what progress looks like
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Authoritative overview of therapy effectiveness and approaches
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Official resource for mental health treatment information
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

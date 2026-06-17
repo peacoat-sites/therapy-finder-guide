@@ -121,6 +121,11 @@ The decision to switch therapists is rarely dramatic. It usually just starts wit
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — How to choose a psychologist](https://www.apa.org/topics/psychotherapy/choose-therapist) — supports guidance on evaluating therapeutic fit and relationship
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — authoritative mental health resource for treatment referrals
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — supports that therapy effectiveness depends on therapeutic relationship
 
 *Photo: [Timur Weber](https://www.pexels.com/@timur-weber) via Pexels*
 

@@ -124,6 +124,11 @@ Finding mental health support should not require a master's degree in navigating
 
 ---
 
+## Sources & References
+
+- [SAMHSA — Community Mental Health Centers](https://www.samhsa.gov/find-help/national-helpline) — supports CMHC services and how to locate them
+- [USA.gov — Mental Health Resources](https://www.usa.gov/mental-health) — supports federal overview of mental health access options
+
 ---
 
 ## Recommended Resources

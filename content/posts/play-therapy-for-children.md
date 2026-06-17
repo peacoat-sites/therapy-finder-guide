@@ -97,6 +97,10 @@ Ask the therapist what you can do. A good one will tell you.
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
+## Sources & References
+
+- [American Psychological Association — Play Therapy](https://www.apa.org/ptsd-guideline/patients-and-families/play-therapy) — Explains play therapy approaches and evidence base for children
+- [SAMHSA — Child Trauma Treatments](https://www.samhsa.gov/child-trauma) — Supports trauma-focused interventions including play-based approaches
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

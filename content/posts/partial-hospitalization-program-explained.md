@@ -90,6 +90,11 @@ Building on skills between sessions can help significantly. Workbooks designed f
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — Levels of Care in Mental Health Treatment](https://www.samhsa.gov/find-help/national-helpline) — supports existence of PHP as intermediate care level
+- [CMS — Medicare Mental Health Coverage](https://www.medicare.gov/coverage/mental-health-care-outpatient) — confirms PHP coverage and medical necessity criteria
+- [NAMI — Types of Mental Health Professionals and Treatment](https://www.nami.org/About-Mental-Illness/Treatments) — explains PHP structure and who benefits from intensive programs
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

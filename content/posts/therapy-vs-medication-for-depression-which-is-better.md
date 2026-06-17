@@ -99,6 +99,11 @@ Previous history is useful information. If you had a relative for whom a particu
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Depression Treatment Overview](https://www.nimh.nih.gov/health/topics/depression) — supports medication and therapy effectiveness comparisons
+- [SAMHSA — Mental Health Treatment](https://www.samhsa.gov/mental-health) — supports combined treatment approaches for depression
+- [APA — Clinical Practice Guideline for Depression](https://www.apa.org/depression-guideline) — supports CBT effectiveness and treatment recommendations
 
 *Photo: [Etatics Inc.](https://www.pexels.com/@etatics-inc-252430999) via Pexels*
 

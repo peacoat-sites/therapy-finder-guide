@@ -134,6 +134,10 @@ The most important thing I want you to take away is this: if your emotions have 
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — What Is Dialectical Behavior Therapy](https://www.apa.org/ptsd-guideline/treatments/dialectical-behavior-therapy) — Supports DBT structure, skills modules, and clinical applications
+- [NIMH — Borderline Personality Disorder](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder) — Supports DBT as effective treatment for BPD
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

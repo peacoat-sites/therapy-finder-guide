@@ -85,6 +85,11 @@ Progress is rarely linear. Most people I've worked with describe a period around
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Understanding and treating perfectionism](https://www.apa.org/topics/personality/perfectionism) — Supports link between perfectionism and clinical conditions
+- [NIMH — Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders) — Supports GAD as common perfectionism-related diagnosis
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Authoritative mental health treatment resource
 
 *Photo: [TRAVEL BLOG](https://www.pexels.com/@travel-blog-26954066) via Pexels*
 

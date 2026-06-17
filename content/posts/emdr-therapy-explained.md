@@ -139,6 +139,11 @@ If you've been living with a trauma that talk therapy alone hasn't touched, EMDR
 - **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — PTSD Clinical Practice Guideline](https://www.apa.org/ptsd-guideline) — APA recognition of EMDR as evidence-based PTSD treatment
+- [VA/DoD — PTSD Clinical Practice Guidelines](https://www.healthquality.va.gov/guidelines/MH/ptsd/) — VA endorsement of EMDR for PTSD treatment
+- [WHO — Mental Health Guidelines](https://www.who.int/publications/i/item/9789241548205) — WHO recognition of EMDR for trauma treatment
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

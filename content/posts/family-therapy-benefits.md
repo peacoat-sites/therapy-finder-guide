@@ -130,6 +130,10 @@ Families aren't supposed to be perfect. They're supposed to be real, which means
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Family therapy overview](https://www.apa.org/topics/psychotherapy/family-therapy) — supports effectiveness and benefits of family therapy
+- [SAMHSA — Family Therapy](https://www.samhsa.gov/families) — supports family intervention approaches and when to seek help
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

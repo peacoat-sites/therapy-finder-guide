@@ -143,6 +143,12 @@ Recovery from PTSD isn't linear, and it isn't fast, but it's real. The brain tha
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Post-Traumatic Stress Disorder](https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd) — Defines PTSD symptoms, causes, and evidence-based treatments
+- [VA — PTSD Treatment Basics](https://www.ptsd.va.gov/understand_tx/tx_basics.asp) — Explains effective trauma-focused therapies for PTSD
+- [SAMHSA — Trauma and Violence](https://www.samhsa.gov/trauma-violence) — Overview of trauma-informed care and treatment resources
+- [APA — PTSD Clinical Practice Guideline](https://www.apa.org/ptsd-guideline) — Professional guidelines for PTSD treatment approaches
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

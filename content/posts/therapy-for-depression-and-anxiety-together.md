@@ -117,6 +117,11 @@ Yes, and more often than people expect. Early sessions can stir up things you've
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Depression Overview](https://www.nimh.nih.gov/health/topics/depression) — Supports facts about depression symptoms and co-occurring anxiety
+- [SAMHSA — Mental Health Treatments](https://www.samhsa.gov/mental-health) — Supports integrated treatment approaches for mental health conditions
+- [APA — Clinical Practice Guideline for Depression](https://www.apa.org/depression-guideline) — Supports evidence-based therapy approaches for depression treatment
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 

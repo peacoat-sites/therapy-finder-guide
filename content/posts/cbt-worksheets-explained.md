@@ -114,6 +114,10 @@ The research is also worth being honest about. CBT is one of the most well-studi
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 - **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — What is Cognitive Behavioral Therapy?](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) — Explains CBT principles and thought-behavior connections
+- [SAMHSA — Evidence-Based Practices](https://www.samhsa.gov/resource-search/ebp) — Supports CBT as evidence-based treatment approach
 
 *Photo: [Budgeron Bach](https://www.pexels.com/@budgeron-bach) via Pexels*
 

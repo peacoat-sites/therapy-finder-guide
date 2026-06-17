@@ -118,6 +118,11 @@ If you're sitting with that 3 a.m. anxiety right now, or a version of it, the mo
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — What is Cognitive Behavioral Therapy?](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) — Explains CBT principles and conditions it treats
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Federal overview of evidence-based psychotherapy including CBT
+- [SAMHSA — Evidence-Based Practices](https://www.samhsa.gov/evidence-based-practices-resource-center) — Federal resource on research-supported mental health treatments
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

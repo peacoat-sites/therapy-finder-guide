@@ -136,6 +136,11 @@ The cost of therapy is a real barrier, and I don't want to minimize that. But it
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — free treatment referrals and sliding-scale therapy options
+- [CMS — Mental Health & Substance Abuse Coverage](https://www.healthcare.gov/coverage/mental-health-substance-abuse-coverage/) — insurance requirements for mental health parity
+- [NIMH — Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help) — finding affordable mental health treatment resources
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

@@ -121,6 +121,10 @@ Living with OCD is genuinely hard. The doubt, the rituals, the exhaustion of fig
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Obsessive-Compulsive Disorder](https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd) — Prevalence stats and clinical definition of OCD
+- [IOCDF — About OCD](https://iocdf.org/about-ocd/) — Authoritative nonprofit resource on OCD symptoms and treatment
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

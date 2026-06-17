@@ -115,6 +115,11 @@ The system is genuinely confusing. You're not missing something obvious. But the
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Mental Health Professionals](https://www.nimh.nih.gov/health/find-help) — explains types of mental health providers and their roles
+- [APA — Understanding Psychotherapy](https://www.apa.org/topics/psychotherapy) — describes what psychologists do and therapy approaches
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — supports guidance on finding appropriate mental health care
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

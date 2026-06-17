@@ -99,6 +99,11 @@ Coverage varies enormously, but the Mental Health Parity and Addiction Equity Ac
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Eating Disorders](https://www.nimh.nih.gov/health/topics/eating-disorders) — Supports mortality rates and medical severity of eating disorders
+- [SAMHSA — Mental Health Treatment](https://www.samhsa.gov/mental-health) — Federal resource on evidence-based mental health treatments
+- [APA — Eating Disorders](https://www.apa.org/topics/eating-disorders) — Supports CBT and therapy approaches for eating disorders
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 

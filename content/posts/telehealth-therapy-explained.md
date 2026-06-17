@@ -135,6 +135,11 @@ Telehealth therapy isn't a workaround or a consolation prize. For many people, i
 
 ---
 
+## Sources & References
+
+- [SAMHSA — Telehealth for the Treatment of Serious Mental Illness and Substance Use Disorders](https://www.samhsa.gov/resource/ebp/telehealth-treatment-serious-mental-illness-substance-use-disorders) — Federal guidance on telehealth therapy effectiveness and implementation
+- [APA — What you need to know about telehealth](https://www.apa.org/topics/telehealth) — Professional standards for telehealth therapy from psychology's governing body
+
 ---
 
 ## Recommended Resources

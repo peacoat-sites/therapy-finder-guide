@@ -113,6 +113,11 @@ The 2 p.m. Tuesday version of you deserves real support. Not a list of platitude
 - **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Depression Overview](https://www.nimh.nih.gov/health/topics/depression) — Supports symptoms, prevalence, and treatment effectiveness for depression
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Supports treatment access barriers and finding mental health services
+- [APA — Clinical Practice Guideline for Depression](https://www.apa.org/depression-guideline) — Supports evidence-based therapy approaches for depression treatment
 
 *Photo: [Timur Weber](https://www.pexels.com/@timur-weber) via Pexels*
 

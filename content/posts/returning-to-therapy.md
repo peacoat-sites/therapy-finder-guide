@@ -89,6 +89,11 @@ You've probably been thinking about this longer than you realize. The return doe
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Finding a therapist who can help you heal](https://www.apa.org/topics/psychotherapy/finding-therapist) — Guidance on choosing or returning to a therapist
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Free mental health treatment referrals and support
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Overview of therapy types and what to expect
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 

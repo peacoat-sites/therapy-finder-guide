@@ -129,6 +129,11 @@ The process of finding a therapist is genuinely imperfect, and the mental health
 - **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Free treatment referral service and therapist-finding resource
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Explains CBT, EMDR, DBT and evidence-based therapy types
+- [APA — How to Choose a Psychologist](https://www.apa.org/topics/psychotherapy/choose-therapist) — Guidance on selecting a therapist and what to ask
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

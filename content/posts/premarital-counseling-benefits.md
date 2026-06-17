@@ -115,6 +115,10 @@ Marriage is genuinely hard, in the best possible way, in the way that anything w
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Does premarital education work?](https://www.apa.org/topics/marriage-divorce) — supports claims about premarital education improving outcomes
+- [SAMHSA — Couples and family therapy resources](https://www.samhsa.gov/find-help) — authoritative mental health resource on counseling approaches
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

@@ -133,6 +133,11 @@ The real cost of therapy without insurance is almost always lower than the stick
 
 ---
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Free treatment referrals and sliding-scale provider information
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Overview of therapy types and finding mental health care
+
 ---
 
 ## Recommended Resources

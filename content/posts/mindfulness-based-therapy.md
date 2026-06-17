@@ -138,6 +138,12 @@ Mindfulness-based therapy won't silence every difficult thought you've ever had.
 
 ---
 
+## Sources & References
+
+- [SAMHSA — Evidence-Based Practices Resource Center](https://www.samhsa.gov/resource-search/ebp) — supports MBCT, DBT, ACT as evidence-based treatments
+- [NCCIH — Meditation and Mindfulness](https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know) — supports mindfulness research and clinical applications
+- [APA — Mindfulness Meditation](https://www.apa.org/topics/mindfulness) — supports therapeutic benefits of mindfulness practices
+
 ---
 
 ## Recommended Resources

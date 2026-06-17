@@ -109,6 +109,11 @@ Starting this process takes more out of you than it should. That's the unfair tr
 - **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — Trauma-Informed Care](https://www.samhsa.gov/trauma-violence) — Defines trauma-informed care framework and principles
+- [APA — Trauma](https://www.apa.org/topics/trauma) — Explains trauma responses and evidence-based treatment approaches
+- [NIMH — Post-Traumatic Stress Disorder](https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd) — Overview of trauma-related conditions and finding help
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 

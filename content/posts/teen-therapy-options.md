@@ -125,6 +125,11 @@ Getting your teenager into the right therapy isn't always fast or easy, and ther
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 - **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — Mental Health Services for Adolescents](https://www.samhsa.gov/mental-health) — supports importance of age-appropriate mental health treatment approaches
+- [NIMH — The Teen Brain: 7 Things to Know](https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know) — supports adolescent brain development and prefrontal cortex claims
+- [APA — Psychotherapy for Children and Adolescents](https://www.apa.org/topics/psychotherapy/children-and-adolescents) — supports specialized therapeutic approaches for teens
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

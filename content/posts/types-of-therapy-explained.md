@@ -131,6 +131,11 @@ The world of therapy is genuinely varied, and that variety exists for a reason: 
 - **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — explains evidence-based therapy types and their uses
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — supports finding mental health treatment resources
+- [APA — Different Approaches to Psychotherapy](https://www.apa.org/topics/psychotherapy/approaches) — describes major therapy modalities and therapeutic alliance
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

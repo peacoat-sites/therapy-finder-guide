@@ -134,6 +134,12 @@ The path to affordable therapy isn't always straightforward, but it's more navig
 
 ---
 
+## Sources & References
+
+- [SAMHSA — Finding Help for Mental Health](https://www.samhsa.gov/find-help) — Federal resource for locating affordable mental health services
+- [APA — How to Find Affordable Therapy](https://www.apa.org/topics/psychotherapy/affordable) — Explains sliding scale and low-cost therapy options
+- [NAMI — Getting Treatment During a Crisis](https://www.nami.org/help) — Mental health support resources including cost assistance
+
 ---
 
 ## Recommended Resources

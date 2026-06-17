@@ -129,6 +129,11 @@ The fact that you're researching this is already something. Most people spend ye
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — About Couples Therapy](https://www.apa.org/topics/psychotherapy/couples-therapy) — supports effectiveness and general overview of couples therapy
+- [SAMHSA — Behavioral Health Treatment Services Locator](https://findtreatment.samhsa.gov/) — supports finding licensed mental health providers
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — supports evidence-based therapy approaches discussion
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

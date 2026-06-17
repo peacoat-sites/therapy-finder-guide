@@ -123,6 +123,12 @@ Getting through a mental health crisis is hard enough without also having to fig
 
 ---
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Official info on 24/7 crisis and treatment referral services
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/) — Official site for national suicide prevention hotline
+- [NIMH — Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help) — Federal guidance on recognizing crises and finding help
+
 ---
 
 ## Recommended Resources

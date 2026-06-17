@@ -140,6 +140,11 @@ The 11-year wait is an average. You don't have to be part of that statistic. Mak
 - **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
 - **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — Mental Health Information](https://www.samhsa.gov/mental-health) — supports mental health treatment access and seeking help
+- [NIMH — Mental Illness Overview](https://www.nimh.nih.gov/health/statistics/mental-illness) — supports treatment delay statistics and prevalence data
+- [APA — Understanding Psychotherapy](https://www.apa.org/topics/psychotherapy) — supports therapy benefits for various mental health concerns
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

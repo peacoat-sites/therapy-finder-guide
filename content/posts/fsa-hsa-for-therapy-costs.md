@@ -105,6 +105,12 @@ Taking care of your mental health is hard enough without the financial piece fee
 
 ---
 
+## Sources & References
+
+- [IRS — Publication 969 HSAs and FSAs](https://www.irs.gov/publications/p969) — Confirms HSA/FSA contribution limits, eligibility rules, and rollover policies
+- [IRS — Publication 502 Medical Expenses](https://www.irs.gov/publications/p502) — Lists qualified medical expenses including mental health treatment
+- [Healthcare.gov — HSA-eligible Plans](https://www.healthcare.gov/glossary/health-savings-account-hsa/) — Explains HDHP requirement and HSA portability
+
 ---
 
 ## Recommended Resources

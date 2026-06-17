@@ -119,6 +119,11 @@ Anxiety has a particular cruelty to it: it often convinces you that treatment wo
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 
+## Sources & References
+
+- [NIMH — Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders) — Supports anxiety as treatable condition and biological basis
+- [APA — Anxiety](https://www.apa.org/topics/anxiety) — Professional guidance on anxiety symptoms and treatment approaches
+- [SAMHSA — Mental Health Topics](https://www.samhsa.gov/mental-health) — Federal resource on mental health treatment effectiveness
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

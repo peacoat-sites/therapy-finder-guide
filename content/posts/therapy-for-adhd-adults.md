@@ -122,6 +122,12 @@ A few ADHD-specific tools can also support what you're doing in therapy. Structu
 
 ---
 
+## Sources & References
+
+- [NIMH — Attention-Deficit/Hyperactivity Disorder](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd) — Supports ADHD prevalence, treatment approaches, and comorbidity information
+- [CDC — ADHD Treatment](https://www.cdc.gov/adhd/treatment/index.html) — Supports combined therapy and medication approach for ADHD
+- [CHADD — About ADHD](https://chadd.org/about-adhd/overview/) — Major nonprofit supporting ADHD statistics and therapy benefits
+
 ---
 
 ## Recommended Resources

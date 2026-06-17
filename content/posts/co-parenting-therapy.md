@@ -107,6 +107,10 @@ The honest truth is that co-parenting therapy works best when at least one paren
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — Co-parenting after divorce](https://www.apa.org/topics/parenting/co-parenting) — supports effective co-parenting approaches and therapy goals
+- [SAMHSA — Family therapy resources](https://www.samhsa.gov/families) — supports family-focused therapeutic interventions
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 

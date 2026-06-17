@@ -133,6 +133,10 @@ Licensed therapists are bound by HIPAA and professional ethics codes that requir
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 - **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — National Helpline and Treatment Locator](https://www.samhsa.gov/find-help) — supports finding mental health treatment options
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — supports evidence-based treatment approaches
 
 *Photo: [Shoper .pl](https://www.pexels.com/@shoper-pl-550490863) via Pexels*
 

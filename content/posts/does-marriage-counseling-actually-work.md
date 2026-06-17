@@ -123,6 +123,11 @@ The research on couples therapy is solid enough that dismissing it out of hand w
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 - **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
 
+## Sources & References
+
+- [The Gottman Institute — Research on Couples](https://www.gottman.com/about/research/) — Supports contempt as divorce predictor and therapy timing research
+- [APA — Does Couples Therapy Work?](https://www.apa.org/topics/psychotherapy/relationships) — Supports evidence base for couples therapy effectiveness
+- [SAMHSA — Substance Abuse and Family Therapy](https://www.samhsa.gov/families) — Supports need for individual addiction treatment before couples work
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

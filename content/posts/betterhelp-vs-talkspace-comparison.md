@@ -133,6 +133,10 @@ The gap between knowing you need support and actually having a therapist on the 
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Supports crisis resource info and mental health treatment access
+- [988 Suicide and Crisis Lifeline](https://988lifeline.org/) — Supports crisis hotline recommendation already cited in article
 
 *Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 

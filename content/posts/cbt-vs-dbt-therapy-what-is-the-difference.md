@@ -115,6 +115,10 @@ The honest thing I'd leave you with: don't let the alphabet soup of therapy type
 - **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
 - **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
 
+## Sources & References
+
+- [APA — What is Cognitive Behavioral Therapy?](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) — Supports CBT definition and evidence-based applications
+- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Supports evidence base for therapy approaches
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
