@@ -188,3 +188,17 @@ if ('IntersectionObserver' in window) {
     ul.after(btn);
   });
 })();
+
+// -- Ticker speed proportional --
+(function(){
+  document.addEventListener('DOMContentLoaded',function(){
+    var track=document.querySelector('.ticker-track');
+    if(!track)return;
+    // track is doubled for seamless loop; -50% = one content-width traveled
+    var halfW=track.scrollWidth/2;
+    if(!halfW)return;
+    // target 25px/sec — comfortable reading speed for a category ticker
+    var dur=Math.round(Math.max(60,halfW/25));
+    track.style.animationDuration=dur+'s';
+  });
+})();

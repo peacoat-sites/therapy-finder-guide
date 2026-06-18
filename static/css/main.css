@@ -767,3 +767,6 @@ html { scrollbar-gutter: stable; }
 
 /* -- Sidebar static + topics fix -- */
 .sidebar{max-height:none;overflow-y:visible}
+
+/* -- Ticker speed fix -- */
+.ticker-track{animation-duration:200s}
