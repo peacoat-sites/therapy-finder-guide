@@ -861,6 +861,8 @@ Write it in the author's specific voice, with the opinions and concrete detail o
     meta = client.messages.create(
         model="claude-sonnet-4-6",
         max_tokens=160,
+        # -- temporal meta fix --
+        system=f"Today is {_current_date}. The current year is {_current_year}. Do NOT reference specific past years in descriptions. Use currently or omit the year entirely.",
         messages=[{"role": "user", "content": (
             f"For an article titled '{keyword}', output ONLY a JSON object (no preamble, no code fence):\n"
             '{"description": "<140-155 char SEO meta description, plain text, no quotes>", '
