@@ -123,8 +123,8 @@ Living with OCD is genuinely hard. The doubt, the rituals, the exhaustion of fig
 
 ## Sources & References
 
-- [NIMH — Obsessive-Compulsive Disorder](https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd) — Prevalence stats and clinical definition of OCD
-- [IOCDF — About OCD](https://iocdf.org/about-ocd/) — Authoritative nonprofit resource on OCD symptoms and treatment
+- [NIMH, Obsessive-Compulsive Disorder](https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd), Prevalence stats and clinical definition of OCD
+- [IOCDF, About OCD](https://iocdf.org/about-ocd/), Authoritative nonprofit resource on OCD symptoms and treatment
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -140,6 +140,6 @@ Living with OCD is genuinely hard. The doubt, the rituals, the exhaustion of fig
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

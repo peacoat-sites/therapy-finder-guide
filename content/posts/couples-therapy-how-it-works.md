@@ -36,9 +36,9 @@ If you're reading this because you're wondering whether couples therapy might he
 <div class="value-module">
   <div class="vm-head">Therapy Model Comparison Decision Guide</div>
   <div class="vm-body">
-    <p class="vm-intro">Different evidence-based approaches work better for different relationship challenges—here's how to match your situation to an approach.</p>
+    <p class="vm-intro">Different evidence-based approaches work better for different relationship challenges-here's how to match your situation to an approach.</p>
     <table><thead><tr><th>Therapy Model</th><th>Best For</th><th>Core Method</th><th>Typical Duration</th><th>Ask Therapist If...</th></tr></thead><tbody><tr><td>Emotionally Focused Therapy (EFT)</td><td>Emotional disconnection, attachment wounds, feeling like roommates</td><td>Identifies negative interaction cycles, rebuilds emotional bonds through structured conversations</td><td>12–20 sessions</td><td>"Are you EFT-certified through ICEEFT?"</td></tr><tr><td>Gottman Method</td><td>Chronic conflict patterns, contempt/criticism, communication breakdowns</td><td>Assessment-based; teaches specific skills (repair attempts, dreams-within-conflict)</td><td>12–25 sessions</td><td>"Have you completed Level 3 Gottman training?"</td></tr><tr><td>Discernment Counseling</td><td>Mixed-agenda couples (one wants out, one wants to work on it)</td><td>Short-term clarity process; no pressure to decide immediately</td><td>1–5 sessions</td><td>"Do you practice Doherty's discernment model?"</td></tr><tr><td>Cognitive Behavioral Couples Therapy (CBCT)</td><td>Specific behavioral issues, differing expectations, concrete problem-solving</td><td>Identifies distorted thinking patterns, assigns behavioral experiments</td><td>15–20 sessions</td><td>"What's your CBT couples training background?"</td></tr><tr><td>Imago Relationship Therapy</td><td>Childhood-rooted triggers, recurring power struggles, feeling unseen</td><td>Structured "Imago Dialogue" to mirror and validate partner's experience</td><td>12–20 sessions</td><td>"Are you a Certified Imago Therapist?"</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -131,9 +131,9 @@ The fact that you're researching this is already something. Most people spend ye
 
 ## Sources & References
 
-- [APA — About Couples Therapy](https://www.apa.org/topics/psychotherapy/couples-therapy) — supports effectiveness and general overview of couples therapy
-- [SAMHSA — Behavioral Health Treatment Services Locator](https://findtreatment.samhsa.gov/) — supports finding licensed mental health providers
-- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — supports evidence-based therapy approaches discussion
+- [APA, About Couples Therapy](https://www.apa.org/topics/psychotherapy/couples-therapy), supports effectiveness and general overview of couples therapy
+- [SAMHSA, Behavioral Health Treatment Services Locator](https://findtreatment.samhsa.gov/), supports finding licensed mental health providers
+- [NIMH, Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies), supports evidence-based therapy approaches discussion
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -149,7 +149,7 @@ The fact that you're researching this is already something. Most people spend ye
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18) — Practical workbook companion to Feeling Good — structured CBT exercises for depression, anxiety, and relationship problems.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.
 

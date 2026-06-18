@@ -123,9 +123,9 @@ You deserve care that actually fits what you're going through. That's worth advo
 
 ## Sources & References
 
-- [SAMHSA — Mental Health Treatment Services](https://www.samhsa.gov/find-help/national-helpline) — supports mental health treatment options and resources
-- [NAMI — Types of Mental Health Professionals and Treatment](https://www.nami.org/About-Mental-Illness/Treatments) — supports inpatient vs outpatient treatment distinctions
-- [CMS — Mental Health Services Coverage](https://www.medicare.gov/coverage/mental-health-care-outpatient) — supports insurance coverage for mental health treatment
+- [SAMHSA, Mental Health Treatment Services](https://www.samhsa.gov/find-help/national-helpline), supports mental health treatment options and resources
+- [NAMI, Types of Mental Health Professionals and Treatment](https://www.nami.org/About-Mental-Illness/Treatments), supports inpatient vs outpatient treatment distinctions
+- [CMS, Mental Health Services Coverage](https://www.medicare.gov/coverage/mental-health-care-outpatient), supports insurance coverage for mental health treatment
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -141,6 +141,6 @@ You deserve care that actually fits what you're going through. That's worth advo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

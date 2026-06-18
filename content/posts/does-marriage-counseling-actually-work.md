@@ -36,9 +36,9 @@ So let's be specific about what the research says, where counseling tends to fai
 <div class="value-module">
   <div class="vm-head">Success Predictors: Key Threshold Checklist</div>
   <div class="vm-body">
-    <p class="vm-intro">Research identifies specific factors that predict whether couples therapy will help—use these evidence-based thresholds to assess your situation before committing.</p>
+    <p class="vm-intro">Research identifies specific factors that predict whether couples therapy will help-use these evidence-based thresholds to assess your situation before committing.</p>
     <table><caption>Factors That Predict Couples Therapy Outcomes</caption><thead><tr><th>Factor</th><th>Favorable Threshold</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Timing of seeking help</td><td>Within 1-2 years of persistent problems emerging</td><td>Waiting 6+ years (average couple waits 6 years; outcomes decline significantly with delay)</td></tr><tr><td>Both partners' commitment</td><td>Both actively want relationship to improve</td><td>One partner attending only to "prove" they tried before leaving</td></tr><tr><td>Contempt levels</td><td>Disagreements stay issue-focused</td><td>Regular eye-rolling, mockery, or character attacks (Gottman's strongest divorce predictor)</td></tr><tr><td>Active addiction or abuse</td><td>No untreated substance abuse; no physical/emotional abuse</td><td>Active addiction or any domestic violence (individual treatment needed first)</td></tr><tr><td>Affair status</td><td>Affair disclosed and ended; both willing to process</td><td>Ongoing secret affair by either partner</td></tr><tr><td>Practice between sessions</td><td>Completing homework 70%+ of the time</td><td>Only engaging during the therapy hour itself</td></tr><tr><td>Therapist fit</td><td>Both partners feel heard by session 3-4</td><td>Either partner consistently feels therapist "takes sides"</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -125,9 +125,9 @@ The research on couples therapy is solid enough that dismissing it out of hand w
 
 ## Sources & References
 
-- [The Gottman Institute — Research on Couples](https://www.gottman.com/about/research/) — Supports contempt as divorce predictor and therapy timing research
-- [APA — Does Couples Therapy Work?](https://www.apa.org/topics/psychotherapy/relationships) — Supports evidence base for couples therapy effectiveness
-- [SAMHSA — Substance Abuse and Family Therapy](https://www.samhsa.gov/families) — Supports need for individual addiction treatment before couples work
+- [The Gottman Institute, Research on Couples](https://www.gottman.com/about/research/), Supports contempt as divorce predictor and therapy timing research
+- [APA, Does Couples Therapy Work?](https://www.apa.org/topics/psychotherapy/relationships), Supports evidence base for couples therapy effectiveness
+- [SAMHSA, Substance Abuse and Family Therapy](https://www.samhsa.gov/families), Supports need for individual addiction treatment before couples work
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
@@ -141,6 +141,6 @@ The research on couples therapy is solid enough that dismissing it out of hand w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

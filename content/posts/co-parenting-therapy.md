@@ -34,9 +34,9 @@ That context matters, because it shapes everything about how co-parenting therap
 <div class="value-module">
   <div class="vm-head">Session Red Flags vs. Progress Signs</div>
   <div class="vm-body">
-    <p class="vm-intro">Knowing whether co-parenting therapy is working—or wasting time and money—requires watching for specific behavioral patterns across sessions.</p>
+    <p class="vm-intro">Knowing whether co-parenting therapy is working-or wasting time and money-requires watching for specific behavioral patterns across sessions.</p>
     <table><caption>Indicators to Assess Co-Parenting Therapy Effectiveness</caption><thead><tr><th scope="col">Area</th><th scope="col">Red Flags (Consider Changing Approach)</th><th scope="col">Progress Signs (Therapy Working)</th></tr></thead><tbody><tr><td>Session Focus</td><td>Repeatedly relitigating past relationship grievances; therapist allows venting without redirection</td><td>Discussions stay on current parenting logistics; therapist redirects historical complaints within 2-3 minutes</td></tr><tr><td>Communication Patterns</td><td>Same argument cycles repeat session after session with no new tools introduced</td><td>Parents can name and interrupt at least one reactive pattern (e.g., "I notice I'm shutting down")</td></tr><tr><td>Between-Session Behavior</td><td>No structured assignments; nothing changes in actual co-parenting interactions</td><td>Specific homework given and reviewed (e.g., using agreed text template for schedule changes)</td></tr><tr><td>Child-Centeredness</td><td>Child's stated needs rarely referenced; focus stays on parental grievances</td><td>Concrete decisions made based on child's developmental stage and expressed preferences</td></tr><tr><td>Conflict Escalation</td><td>Sessions regularly end with higher tension than they started; one parent storms out</td><td>Parents can disagree without personal attacks; able to table issues for next session</td></tr><tr><td>Timeline</td><td>After 8-10 sessions, no agreement reached on even minor logistical issues</td><td>By session 6-8, at least one previously contested issue (pickup times, communication method) resolved</td></tr><tr><td>Therapist Role</td><td>Therapist sides consistently with one parent or avoids holding either accountable</td><td>Both parents feel occasionally challenged; therapist maintains neutral parenting-relationship focus</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -109,8 +109,8 @@ The honest truth is that co-parenting therapy works best when at least one paren
 
 ## Sources & References
 
-- [APA — Co-parenting after divorce](https://www.apa.org/topics/parenting/co-parenting) — supports effective co-parenting approaches and therapy goals
-- [SAMHSA — Family therapy resources](https://www.samhsa.gov/families) — supports family-focused therapeutic interventions
+- [APA, Co-parenting after divorce](https://www.apa.org/topics/parenting/co-parenting), supports effective co-parenting approaches and therapy goals
+- [SAMHSA, Family therapy resources](https://www.samhsa.gov/families), supports family-focused therapeutic interventions
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 
@@ -124,6 +124,6 @@ The honest truth is that co-parenting therapy works best when at least one paren
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

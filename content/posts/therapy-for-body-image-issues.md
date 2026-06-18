@@ -93,9 +93,9 @@ If you're ever in a moment of acute distress, remember that the 988 Suicide and 
 
 ## Sources & References
 
-- [SAMHSA — Mental Health Information](https://www.samhsa.gov/mental-health) — supports mental health treatment approaches and early intervention benefits
-- [APA — Body Dysmorphic Disorder](https://www.apa.org/topics/body-dysmorphic-disorder) — supports information on BDD as clinical condition requiring treatment
-- [NIMH — Eating Disorders](https://www.nimh.nih.gov/health/topics/eating-disorders) — supports eating disorders as part of body image distress spectrum
+- [SAMHSA, Mental Health Information](https://www.samhsa.gov/mental-health), supports mental health treatment approaches and early intervention benefits
+- [APA, Body Dysmorphic Disorder](https://www.apa.org/topics/body-dysmorphic-disorder), supports information on BDD as clinical condition requiring treatment
+- [NIMH, Eating Disorders](https://www.nimh.nih.gov/health/topics/eating-disorders), supports eating disorders as part of body image distress spectrum
 
 *Photo: [Makingoffphotos SouZynan DDV](https://www.pexels.com/@makingoffphotos-souzynan-ddv-1166572) via Pexels*
 
@@ -109,6 +109,6 @@ If you're ever in a moment of acute distress, remember that the 988 Suicide and 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

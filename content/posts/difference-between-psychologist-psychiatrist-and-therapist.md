@@ -38,7 +38,7 @@ So let me just lay it out plainly.
   <div class="vm-body">
     <p class="vm-intro">Use this decision matrix to match your primary concern with the most appropriate starting point, based on typical clinical pathways.</p>
     <table><thead><tr><th>Primary Concern</th><th>Start With</th><th>Why This Route</th><th>May Also Need</th></tr></thead><tbody><tr><td>Severe symptoms disrupting daily function (can't work, can't sleep for weeks, thoughts of self-harm)</td><td>Psychiatrist</td><td>Medical evaluation needed; medication often essential for stabilization</td><td>Therapist for ongoing support once stable</td></tr><tr><td>Suspected ADHD, learning disability, or autism evaluation</td><td>Psychologist</td><td>Formal psychological testing and assessment is their specialty</td><td>Psychiatrist if medication indicated after diagnosis</td></tr><tr><td>Relationship conflicts, life transitions, grief, stress</td><td>Therapist (LCSW, LPC, LMFT)</td><td>Talk therapy is primary treatment; no testing or medication typically needed</td><td>Psychologist or psychiatrist only if symptoms escalate</td></tr><tr><td>Anxiety or depression affecting quality of life but still functioning</td><td>Therapist or Psychologist</td><td>Evidence-based therapy (CBT, etc.) is first-line treatment for mild-moderate cases</td><td>Psychiatrist if therapy alone insufficient after 8-12 weeks</td></tr><tr><td>Need medication management for existing diagnosis</td><td>Psychiatrist (or psychiatric NP)</td><td>Only MDs/DOs/NPs can prescribe and adjust psychiatric medications</td><td>Therapist for complementary talk therapy</td></tr><tr><td>Unclear what's wrong, just know something is off</td><td>Therapist or Primary Care Doctor</td><td>Lower barrier to entry; can help clarify and refer appropriately</td><td>Specialist referral based on initial assessment</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -117,9 +117,9 @@ The system is genuinely confusing. You're not missing something obvious. But the
 
 ## Sources & References
 
-- [NIMH — Mental Health Professionals](https://www.nimh.nih.gov/health/find-help) — explains types of mental health providers and their roles
-- [APA — Understanding Psychotherapy](https://www.apa.org/topics/psychotherapy) — describes what psychologists do and therapy approaches
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — supports guidance on finding appropriate mental health care
+- [NIMH, Mental Health Professionals](https://www.nimh.nih.gov/health/find-help), explains types of mental health providers and their roles
+- [APA, Understanding Psychotherapy](https://www.apa.org/topics/psychotherapy), describes what psychologists do and therapy approaches
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), supports guidance on finding appropriate mental health care
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -133,6 +133,6 @@ The system is genuinely confusing. You're not missing something obvious. But the
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

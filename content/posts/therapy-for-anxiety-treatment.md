@@ -121,9 +121,9 @@ Anxiety has a particular cruelty to it: it often convinces you that treatment wo
 
 ## Sources & References
 
-- [NIMH — Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders) — Supports anxiety as treatable condition and biological basis
-- [APA — Anxiety](https://www.apa.org/topics/anxiety) — Professional guidance on anxiety symptoms and treatment approaches
-- [SAMHSA — Mental Health Topics](https://www.samhsa.gov/mental-health) — Federal resource on mental health treatment effectiveness
+- [NIMH, Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders), Supports anxiety as treatable condition and biological basis
+- [APA, Anxiety](https://www.apa.org/topics/anxiety), Professional guidance on anxiety symptoms and treatment approaches
+- [SAMHSA, Mental Health Topics](https://www.samhsa.gov/mental-health), Federal resource on mental health treatment effectiveness
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
@@ -139,8 +139,8 @@ Anxiety has a particular cruelty to it: it often convinces you that treatment wo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25) — Written by Aaron Beck (founder of CBT) — the authoritative structured workbook for managing generalized anxiety disorder.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10) — Guided self-care journal for managing anxiety and depression — a low-cost tool to complement your therapy work.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25), Written by Aaron Beck (founder of CBT), the authoritative structured workbook for managing generalized anxiety disorder.
+- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
 

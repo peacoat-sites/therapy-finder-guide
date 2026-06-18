@@ -38,7 +38,7 @@ This guide is for you: the parent who knows something is off but feels overwhelm
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to assess whether your child is ready for therapy and which format might work best for their developmental stage.</p>
     <table><caption>Child Therapy Readiness Assessment by Age Group</caption><thead><tr><th>Factor</th><th>Ages 3–5</th><th>Ages 6–9</th><th>Ages 10–12</th><th>Ages 13+</th></tr></thead><tbody><tr><td>Primary therapy format</td><td>Play therapy with parent in/near room</td><td>Play therapy with gradual talk integration</td><td>Talk therapy with creative elements</td><td>Talk therapy, possibly without parent present</td></tr><tr><td>Session length tolerance</td><td>20–30 minutes</td><td>30–45 minutes</td><td>45–50 minutes</td><td>50–60 minutes</td></tr><tr><td>Can describe feelings verbally?</td><td>Limited; expresses through play/behavior</td><td>Basic emotions (mad, sad, scared)</td><td>Can identify and explain triggers</td><td>Can reflect on patterns and relationships</td></tr><tr><td>Parent involvement level</td><td>High: parent coaching, joint sessions</td><td>Moderate: regular parent check-ins</td><td>Balanced: periodic family sessions</td><td>Lower: teen confidentiality with safety limits</td></tr><tr><td>Readiness indicators</td><td>Engages in pretend play; tolerates new adults</td><td>Can follow 2-3 step instructions; separates from parent briefly</td><td>Shows curiosity about own feelings; asks questions</td><td>Acknowledges problem exists; willing to try</td></tr><tr><td>Red flags suggesting wait or adjust approach</td><td>Severe separation anxiety; nonverbal</td><td>Refuses all adult interaction; active crisis</td><td>Complete denial of any problem</td><td>Actively hostile to all help; substance use</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -154,8 +154,8 @@ Getting help for your child is one of the more courageous things a parent can do
 
 ## Sources & References
 
-- [American Psychological Association — Children and Adolescents](https://www.apa.org/topics/children) — Supports therapy types and developmental considerations for kids
-- [CDC — Children's Mental Health](https://www.cdc.gov/children-mental-health/) — Supports signs children may need mental health support
+- [American Psychological Association, Children and Adolescents](https://www.apa.org/topics/children), Supports therapy types and developmental considerations for kids
+- [CDC, Children's Mental Health](https://www.cdc.gov/children-mental-health/), Supports signs children may need mental health support
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
@@ -171,6 +171,6 @@ Getting help for your child is one of the more courageous things a parent can do
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

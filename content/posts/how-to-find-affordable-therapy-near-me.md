@@ -97,9 +97,9 @@ You don't need a perfect plan. You need a first step, one phone call, one email,
 
 ## Sources & References
 
-- [SAMHSA — National Helpline and Treatment Locator](https://www.samhsa.gov/find-help/national-helpline) — Free referrals to local sliding-scale and community mental health services
-- [NIMH — Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help) — Federal guidance on finding affordable mental health treatment options
-- [HRSA — Find a Health Center](https://findahealthcenter.hrsa.gov/) — Locates federally-funded community health centers offering sliding-scale fees
+- [SAMHSA, National Helpline and Treatment Locator](https://www.samhsa.gov/find-help/national-helpline), Free referrals to local sliding-scale and community mental health services
+- [NIMH, Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help), Federal guidance on finding affordable mental health treatment options
+- [HRSA, Find a Health Center](https://findahealthcenter.hrsa.gov/), Locates federally-funded community health centers offering sliding-scale fees
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -115,8 +115,8 @@ You don't need a perfect plan. You need a first step, one phone call, one email,
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

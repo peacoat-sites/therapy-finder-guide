@@ -38,7 +38,7 @@ Family therapy doesn't require a dramatic crisis to be useful. That's one of the
   <div class="vm-body">
     <p class="vm-intro">Use this decision checklist to determine whether your family situation warrants professional intervention, based on common clinical indicators.</p>
     <table><thead><tr><th>Indicator</th><th>Mild (Self-Help May Work)</th><th>Moderate (Consider Therapy)</th><th>Significant (Therapy Recommended)</th></tr></thead><tbody><tr><td>Communication breakdowns</td><td>Occasional misunderstandings resolved within days</td><td>Weekly conflicts that leave issues unresolved for 2+ weeks</td><td>Daily tension; family members actively avoiding conversation</td></tr><tr><td>Life transitions</td><td>Adjustment stress with maintained routines</td><td>Divorce, remarriage, or relocation causing 1-2 members distress</td><td>Multiple members showing behavioral changes (sleep, grades, withdrawal)</td></tr><tr><td>Child/teen behavioral changes</td><td>Minor mood fluctuations, occasional defiance</td><td>Dropping grades, new friend group, increased secrecy lasting 4+ weeks</td><td>School refusal, substance use, self-harm indicators, or legal issues</td></tr><tr><td>Conflict resolution attempts</td><td>Family meetings or conversations producing partial improvement</td><td>Same arguments recurring monthly despite attempts to address them</td><td>Conflicts escalating in intensity or resulting in prolonged estrangement</td></tr><tr><td>Impact on daily functioning</td><td>Stress present but work/school/health maintained</td><td>One family member's performance or health noticeably declining</td><td>Multiple members affected; household routines breaking down</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -132,8 +132,8 @@ Families aren't supposed to be perfect. They're supposed to be real, which means
 
 ## Sources & References
 
-- [APA — Family therapy overview](https://www.apa.org/topics/psychotherapy/family-therapy) — supports effectiveness and benefits of family therapy
-- [SAMHSA — Family Therapy](https://www.samhsa.gov/families) — supports family intervention approaches and when to seek help
+- [APA, Family therapy overview](https://www.apa.org/topics/psychotherapy/family-therapy), supports effectiveness and benefits of family therapy
+- [SAMHSA, Family Therapy](https://www.samhsa.gov/families), supports family intervention approaches and when to seek help
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 
@@ -149,7 +149,7 @@ Families aren't supposed to be perfect. They're supposed to be real, which means
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18) — Practical workbook companion to Feeling Good — structured CBT exercises for depression, anxiety, and relationship problems.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.
 

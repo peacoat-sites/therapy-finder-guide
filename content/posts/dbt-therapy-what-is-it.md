@@ -136,8 +136,8 @@ The most important thing I want you to take away is this: if your emotions have 
 
 ## Sources & References
 
-- [APA — What Is Dialectical Behavior Therapy](https://www.apa.org/ptsd-guideline/treatments/dialectical-behavior-therapy) — Supports DBT structure, skills modules, and clinical applications
-- [NIMH — Borderline Personality Disorder](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder) — Supports DBT as effective treatment for BPD
+- [APA, What Is Dialectical Behavior Therapy](https://www.apa.org/ptsd-guideline/treatments/dialectical-behavior-therapy), Supports DBT structure, skills modules, and clinical applications
+- [NIMH, Borderline Personality Disorder](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder), Supports DBT as effective treatment for BPD
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
@@ -153,8 +153,8 @@ The most important thing I want you to take away is this: if your emotions have 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18) — Practical workbook companion to Feeling Good — structured CBT exercises for depression, anxiety, and relationship problems.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10) — Guided self-care journal for managing anxiety and depression — a low-cost tool to complement your therapy work.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.
+- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
 

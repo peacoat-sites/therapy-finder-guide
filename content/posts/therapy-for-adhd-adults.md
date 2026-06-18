@@ -124,9 +124,9 @@ A few ADHD-specific tools can also support what you're doing in therapy. Structu
 
 ## Sources & References
 
-- [NIMH — Attention-Deficit/Hyperactivity Disorder](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd) — Supports ADHD prevalence, treatment approaches, and comorbidity information
-- [CDC — ADHD Treatment](https://www.cdc.gov/adhd/treatment/index.html) — Supports combined therapy and medication approach for ADHD
-- [CHADD — About ADHD](https://chadd.org/about-adhd/overview/) — Major nonprofit supporting ADHD statistics and therapy benefits
+- [NIMH, Attention-Deficit/Hyperactivity Disorder](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd), Supports ADHD prevalence, treatment approaches, and comorbidity information
+- [CDC, ADHD Treatment](https://www.cdc.gov/adhd/treatment/index.html), Supports combined therapy and medication approach for ADHD
+- [CHADD, About ADHD](https://chadd.org/about-adhd/overview/), Major nonprofit supporting ADHD statistics and therapy benefits
 
 ---
 
@@ -134,6 +134,6 @@ A few ADHD-specific tools can also support what you're doing in therapy. Structu
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

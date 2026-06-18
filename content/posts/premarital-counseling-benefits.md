@@ -117,8 +117,8 @@ Marriage is genuinely hard, in the best possible way, in the way that anything w
 
 ## Sources & References
 
-- [APA — Does premarital education work?](https://www.apa.org/topics/marriage-divorce) — supports claims about premarital education improving outcomes
-- [SAMHSA — Couples and family therapy resources](https://www.samhsa.gov/find-help) — authoritative mental health resource on counseling approaches
+- [APA, Does premarital education work?](https://www.apa.org/topics/marriage-divorce), supports claims about premarital education improving outcomes
+- [SAMHSA, Couples and family therapy resources](https://www.samhsa.gov/find-help), authoritative mental health resource on counseling approaches
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
@@ -134,6 +134,6 @@ Marriage is genuinely hard, in the best possible way, in the way that anything w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

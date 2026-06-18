@@ -131,8 +131,8 @@ If you've spent years understanding your pain intellectually without feeling bet
 
 ## Sources & References
 
-- [APA — Somatic therapies overview](https://www.apa.org/topics/psychotherapy) — supports body-based therapy as recognized psychological approach
-- [SAMHSA — Trauma-informed care resources](https://www.samhsa.gov/trauma-informed-care) — supports trauma treatment approaches including somatic methods
+- [APA, Somatic therapies overview](https://www.apa.org/topics/psychotherapy), supports body-based therapy as recognized psychological approach
+- [SAMHSA, Trauma-informed care resources](https://www.samhsa.gov/trauma-informed-care), supports trauma treatment approaches including somatic methods
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -148,6 +148,6 @@ If you've spent years understanding your pain intellectually without feeling bet
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

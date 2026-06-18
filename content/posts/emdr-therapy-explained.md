@@ -141,9 +141,9 @@ If you've been living with a trauma that talk therapy alone hasn't touched, EMDR
 
 ## Sources & References
 
-- [APA — PTSD Clinical Practice Guideline](https://www.apa.org/ptsd-guideline) — APA recognition of EMDR as evidence-based PTSD treatment
-- [VA/DoD — PTSD Clinical Practice Guidelines](https://www.healthquality.va.gov/guidelines/MH/ptsd/) — VA endorsement of EMDR for PTSD treatment
-- [WHO — Mental Health Guidelines](https://www.who.int/publications/i/item/9789241548205) — WHO recognition of EMDR for trauma treatment
+- [APA, PTSD Clinical Practice Guideline](https://www.apa.org/ptsd-guideline), APA recognition of EMDR as evidence-based PTSD treatment
+- [VA/DoD, PTSD Clinical Practice Guidelines](https://www.healthquality.va.gov/guidelines/MH/ptsd/), VA endorsement of EMDR for PTSD treatment
+- [WHO, Mental Health Guidelines](https://www.who.int/publications/i/item/9789241548205), WHO recognition of EMDR for trauma treatment
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
@@ -159,6 +159,6 @@ If you've been living with a trauma that talk therapy alone hasn't touched, EMDR
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

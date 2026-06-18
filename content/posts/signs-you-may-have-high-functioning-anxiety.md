@@ -117,9 +117,9 @@ There's something quietly costly about spending years being the person who has i
 
 ## Sources & References
 
-- [APA — Stress in America survey](https://www.apa.org/news/press/releases/stress) — supports statistic on adults feeling too stressed to function
-- [NIMH — Generalized Anxiety Disorder](https://www.nimh.nih.gov/health/topics/anxiety-disorders) — supports GAD criteria and clinical context
-- [SAMHSA — Mental Health Information](https://www.samhsa.gov/mental-health) — supports guidance on recognizing anxiety and seeking help
+- [APA, Stress in America survey](https://www.apa.org/news/press/releases/stress), supports statistic on adults feeling too stressed to function
+- [NIMH, Generalized Anxiety Disorder](https://www.nimh.nih.gov/health/topics/anxiety-disorders), supports GAD criteria and clinical context
+- [SAMHSA, Mental Health Information](https://www.samhsa.gov/mental-health), supports guidance on recognizing anxiety and seeking help
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
 
@@ -133,8 +133,8 @@ There's something quietly costly about spending years being the person who has i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25) — Written by Aaron Beck (founder of CBT) — the authoritative structured workbook for managing generalized anxiety disorder.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10) — Guided self-care journal for managing anxiety and depression — a low-cost tool to complement your therapy work.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25), Written by Aaron Beck (founder of CBT), the authoritative structured workbook for managing generalized anxiety disorder.
+- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
 

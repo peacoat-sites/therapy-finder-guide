@@ -24,9 +24,9 @@ However your answers landed, reaching out for support is a sign of strength, not
 
 ## Sources & References
 
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — supports that free mental health support resources exist
-- [NIMH — Caring for Your Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health) — supports self-check-in and seeking help as healthy steps
-- [MentalHealth.gov — Talk About Mental Health](https://www.mentalhealth.gov/talk) — reinforces that reaching out is a sign of strength
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), supports that free mental health support resources exist
+- [NIMH, Caring for Your Mental Health](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health), supports self-check-in and seeking help as healthy steps
+- [MentalHealth.gov, Talk About Mental Health](https://www.mentalhealth.gov/talk), reinforces that reaching out is a sign of strength
 
 ---
 
@@ -34,6 +34,6 @@ However your answers landed, reaching out for support is a sign of strength, not
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

@@ -37,9 +37,9 @@ I've watched people transform that abstract idea into something genuinely useful
 <div class="value-module">
   <div class="vm-head">Common CBT Worksheet Types Compared</div>
   <div class="vm-body">
-    <p class="vm-intro">Different worksheets target different cognitive patterns—matching the right tool to your situation improves results.</p>
+    <p class="vm-intro">Different worksheets target different cognitive patterns-matching the right tool to your situation improves results.</p>
     <table><thead><tr><th>Worksheet Type</th><th>Best For</th><th>Core Columns/Prompts</th><th>Time to Complete</th><th>Difficulty Level</th></tr></thead><tbody><tr><td>Basic Thought Record (3-column)</td><td>Beginners; quick emotional check-ins</td><td>Situation → Automatic Thought → Emotion</td><td>2–5 minutes</td><td>Entry-level</td></tr><tr><td>Full Thought Record (7-column)</td><td>Challenging distorted thinking patterns</td><td>Situation → Thought → Emotion (0-100) → Evidence For → Evidence Against → Balanced Thought → Re-rate Emotion</td><td>10–20 minutes</td><td>Intermediate</td></tr><tr><td>Behavioral Activation Log</td><td>Depression; low motivation; avoidance</td><td>Activity → Predicted Enjoyment (0-10) → Actual Enjoyment (0-10) → Mastery Rating</td><td>1–2 minutes per entry</td><td>Entry-level</td></tr><tr><td>Cognitive Distortion Checklist</td><td>Learning to identify thinking errors</td><td>Thought → Which distortion? (all-or-nothing, catastrophizing, mind-reading, etc.)</td><td>5–10 minutes</td><td>Entry-level</td></tr><tr><td>Exposure Hierarchy</td><td>Anxiety; phobias; avoidance behaviors</td><td>Feared Situation → Distress Rating (0-100) → Rank Order → Planned Exposure Steps</td><td>20–30 minutes (one-time setup)</td><td>Intermediate to Advanced</td></tr><tr><td>Downward Arrow</td><td>Uncovering core beliefs beneath surface thoughts</td><td>Automatic Thought → "If true, what does that mean?" (repeated 3-5 times) → Core Belief</td><td>10–15 minutes</td><td>Advanced</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -116,8 +116,8 @@ The research is also worth being honest about. CBT is one of the most well-studi
 
 ## Sources & References
 
-- [APA — What is Cognitive Behavioral Therapy?](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) — Explains CBT principles and thought-behavior connections
-- [SAMHSA — Evidence-Based Practices](https://www.samhsa.gov/resource-search/ebp) — Supports CBT as evidence-based treatment approach
+- [APA, What is Cognitive Behavioral Therapy?](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral), Explains CBT principles and thought-behavior connections
+- [SAMHSA, Evidence-Based Practices](https://www.samhsa.gov/resource-search/ebp), Supports CBT as evidence-based treatment approach
 
 *Photo: [Budgeron Bach](https://www.pexels.com/@budgeron-bach) via Pexels*
 
@@ -131,7 +131,7 @@ The research is also worth being honest about. CBT is one of the most well-studi
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18) — Practical workbook companion to Feeling Good — structured CBT exercises for depression, anxiety, and relationship problems.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.
 

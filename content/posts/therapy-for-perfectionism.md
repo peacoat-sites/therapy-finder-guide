@@ -87,9 +87,9 @@ Progress is rarely linear. Most people I've worked with describe a period around
 
 ## Sources & References
 
-- [APA — Understanding and treating perfectionism](https://www.apa.org/topics/personality/perfectionism) — Supports link between perfectionism and clinical conditions
-- [NIMH — Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders) — Supports GAD as common perfectionism-related diagnosis
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Authoritative mental health treatment resource
+- [APA, Understanding and treating perfectionism](https://www.apa.org/topics/personality/perfectionism), Supports link between perfectionism and clinical conditions
+- [NIMH, Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders), Supports GAD as common perfectionism-related diagnosis
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Authoritative mental health treatment resource
 
 *Photo: [TRAVEL BLOG](https://www.pexels.com/@travel-blog-26954066) via Pexels*
 
@@ -103,6 +103,6 @@ Progress is rarely linear. Most people I've worked with describe a period around
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

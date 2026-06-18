@@ -101,9 +101,9 @@ Previous history is useful information. If you had a relative for whom a particu
 
 ## Sources & References
 
-- [NIMH — Depression Treatment Overview](https://www.nimh.nih.gov/health/topics/depression) — supports medication and therapy effectiveness comparisons
-- [SAMHSA — Mental Health Treatment](https://www.samhsa.gov/mental-health) — supports combined treatment approaches for depression
-- [APA — Clinical Practice Guideline for Depression](https://www.apa.org/depression-guideline) — supports CBT effectiveness and treatment recommendations
+- [NIMH, Depression Treatment Overview](https://www.nimh.nih.gov/health/topics/depression), supports medication and therapy effectiveness comparisons
+- [SAMHSA, Mental Health Treatment](https://www.samhsa.gov/mental-health), supports combined treatment approaches for depression
+- [APA, Clinical Practice Guideline for Depression](https://www.apa.org/depression-guideline), supports CBT effectiveness and treatment recommendations
 
 *Photo: [Etatics Inc.](https://www.pexels.com/@etatics-inc-252430999) via Pexels*
 
@@ -117,7 +117,7 @@ Previous history is useful information. If you had a relative for whom a particu
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10) — Daily check-in journal for depression — structured mood tracking and reflection prompts designed around therapeutic principles.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10), Daily check-in journal for depression, structured mood tracking and reflection prompts designed around therapeutic principles.
 

@@ -96,9 +96,9 @@ Sleep is treated like a soft issue and it isn't. Trauma-related nightmares are o
 
 ## Sources & References
 
-- [VA — Mental Health Services](https://www.va.gov/health-care/health-needs-conditions/mental-health/) — supports VA mental health programs and services description
-- [VA — Community Care Program](https://www.va.gov/communitycare/) — supports Community Care eligibility for outside providers
-- [National Center for PTSD — VA](https://www.ptsd.va.gov/) — supports evidence-based PTSD therapy types discussion
+- [VA, Mental Health Services](https://www.va.gov/health-care/health-needs-conditions/mental-health/), supports VA mental health programs and services description
+- [VA, Community Care Program](https://www.va.gov/communitycare/), supports Community Care eligibility for outside providers
+- [National Center for PTSD, VA](https://www.ptsd.va.gov/), supports evidence-based PTSD therapy types discussion
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -112,6 +112,6 @@ Sleep is treated like a soft issue and it isn't. Trauma-related nightmares are o
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

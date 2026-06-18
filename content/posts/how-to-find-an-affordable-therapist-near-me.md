@@ -142,9 +142,9 @@ The real barrier to therapy usually isn't money, though that pressure is real. I
 
 ## Sources & References
 
-- [SAMHSA — Behavioral Health Treatment Services Locator](https://findtreatment.gov/) — Official tool to find local low-cost mental health services
-- [HRSA — Find a Health Center](https://findahealthcenter.hrsa.gov/) — Federally qualified health centers offering sliding-scale fees
-- [APA — How to Find Help for Mental Health](https://www.apa.org/topics/mental-health) — Professional guidance on accessing affordable therapy options
+- [SAMHSA, Behavioral Health Treatment Services Locator](https://findtreatment.gov/), Official tool to find local low-cost mental health services
+- [HRSA, Find a Health Center](https://findahealthcenter.hrsa.gov/), Federally qualified health centers offering sliding-scale fees
+- [APA, How to Find Help for Mental Health](https://www.apa.org/topics/mental-health), Professional guidance on accessing affordable therapy options
 
 ---
 
@@ -152,8 +152,8 @@ The real barrier to therapy usually isn't money, though that pressure is real. I
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17) — Nearly a million copies sold — covers every question to ask your lender, agent, and inspector before signing anything.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.
 

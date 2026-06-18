@@ -133,9 +133,9 @@ The world of therapy is genuinely varied, and that variety exists for a reason: 
 
 ## Sources & References
 
-- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — explains evidence-based therapy types and their uses
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — supports finding mental health treatment resources
-- [APA — Different Approaches to Psychotherapy](https://www.apa.org/topics/psychotherapy/approaches) — describes major therapy modalities and therapeutic alliance
+- [NIMH, Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies), explains evidence-based therapy types and their uses
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), supports finding mental health treatment resources
+- [APA, Different Approaches to Psychotherapy](https://www.apa.org/topics/psychotherapy/approaches), describes major therapy modalities and therapeutic alliance
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
@@ -151,7 +151,7 @@ The world of therapy is genuinely varied, and that variety exists for a reason: 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25) — Written by Aaron Beck (founder of CBT) — the authoritative structured workbook for managing generalized anxiety disorder.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25), Written by Aaron Beck (founder of CBT), the authoritative structured workbook for managing generalized anxiety disorder.
 

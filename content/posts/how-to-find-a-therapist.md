@@ -131,9 +131,9 @@ The process of finding a therapist is genuinely imperfect, and the mental health
 
 ## Sources & References
 
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Free treatment referral service and therapist-finding resource
-- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Explains CBT, EMDR, DBT and evidence-based therapy types
-- [APA — How to Choose a Psychologist](https://www.apa.org/topics/psychotherapy/choose-therapist) — Guidance on selecting a therapist and what to ask
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Free treatment referral service and therapist-finding resource
+- [NIMH, Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies), Explains CBT, EMDR, DBT and evidence-based therapy types
+- [APA, How to Choose a Psychologist](https://www.apa.org/topics/psychotherapy/choose-therapist), Guidance on selecting a therapist and what to ask
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
@@ -149,7 +149,7 @@ The process of finding a therapist is genuinely imperfect, and the mental health
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10) — Guided self-care journal for managing anxiety and depression — a low-cost tool to complement your therapy work.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
 

@@ -138,9 +138,9 @@ Here's what I want you to take from all of this: there's no single right answer,
 
 ## Sources & References
 
-- [SAMHSA — Finding Support](https://www.samhsa.gov/find-support) — Explains types of mental health support including groups and therapy
-- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Defines therapy types and evidence-based treatment approaches
-- [APA — Understanding Psychotherapy](https://www.apa.org/topics/psychotherapy/understanding) — Explains what therapy is and how it differs from other support
+- [SAMHSA, Finding Support](https://www.samhsa.gov/find-support), Explains types of mental health support including groups and therapy
+- [NIMH, Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies), Defines therapy types and evidence-based treatment approaches
+- [APA, Understanding Psychotherapy](https://www.apa.org/topics/psychotherapy/understanding), Explains what therapy is and how it differs from other support
 
 ---
 
@@ -148,6 +148,6 @@ Here's what I want you to take from all of this: there's no single right answer,
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

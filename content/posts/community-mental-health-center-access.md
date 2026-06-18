@@ -126,8 +126,8 @@ Finding mental health support should not require a master's degree in navigating
 
 ## Sources & References
 
-- [SAMHSA — Community Mental Health Centers](https://www.samhsa.gov/find-help/national-helpline) — supports CMHC services and how to locate them
-- [USA.gov — Mental Health Resources](https://www.usa.gov/mental-health) — supports federal overview of mental health access options
+- [SAMHSA, Community Mental Health Centers](https://www.samhsa.gov/find-help/national-helpline), supports CMHC services and how to locate them
+- [USA.gov, Mental Health Resources](https://www.usa.gov/mental-health), supports federal overview of mental health access options
 
 ---
 
@@ -135,6 +135,6 @@ Finding mental health support should not require a master's degree in navigating
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

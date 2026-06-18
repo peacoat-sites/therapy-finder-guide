@@ -127,9 +127,9 @@ Getting your teenager into the right therapy isn't always fast or easy, and ther
 
 ## Sources & References
 
-- [SAMHSA — Mental Health Services for Adolescents](https://www.samhsa.gov/mental-health) — supports importance of age-appropriate mental health treatment approaches
-- [NIMH — The Teen Brain: 7 Things to Know](https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know) — supports adolescent brain development and prefrontal cortex claims
-- [APA — Psychotherapy for Children and Adolescents](https://www.apa.org/topics/psychotherapy/children-and-adolescents) — supports specialized therapeutic approaches for teens
+- [SAMHSA, Mental Health Services for Adolescents](https://www.samhsa.gov/mental-health), supports importance of age-appropriate mental health treatment approaches
+- [NIMH, The Teen Brain: 7 Things to Know](https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know), supports adolescent brain development and prefrontal cortex claims
+- [APA, Psychotherapy for Children and Adolescents](https://www.apa.org/topics/psychotherapy/children-and-adolescents), supports specialized therapeutic approaches for teens
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
@@ -145,7 +145,7 @@ Getting your teenager into the right therapy isn't always fast or easy, and ther
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[Anti-Anxiety Journal](https://www.amazon.com/dp/B095WS28JL/?tag=contentportfo-20)** (~$9) — Daily structured journal for tracking anxiety triggers, patterns, and progress — ideal between therapy sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[Anti-Anxiety Journal](https://www.amazon.com/dp/B095WS28JL/?tag=contentportfo-20)** (~$9), Daily structured journal for tracking anxiety triggers, patterns, and progress, ideal between therapy sessions.
 

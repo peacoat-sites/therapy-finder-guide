@@ -137,8 +137,8 @@ Telehealth therapy isn't a workaround or a consolation prize. For many people, i
 
 ## Sources & References
 
-- [SAMHSA — Telehealth for the Treatment of Serious Mental Illness and Substance Use Disorders](https://www.samhsa.gov/resource/ebp/telehealth-treatment-serious-mental-illness-substance-use-disorders) — Federal guidance on telehealth therapy effectiveness and implementation
-- [APA — What you need to know about telehealth](https://www.apa.org/topics/telehealth) — Professional standards for telehealth therapy from psychology's governing body
+- [SAMHSA, Telehealth for the Treatment of Serious Mental Illness and Substance Use Disorders](https://www.samhsa.gov/resource/ebp/telehealth-treatment-serious-mental-illness-substance-use-disorders), Federal guidance on telehealth therapy effectiveness and implementation
+- [APA, What you need to know about telehealth](https://www.apa.org/topics/telehealth), Professional standards for telehealth therapy from psychology's governing body
 
 ---
 
@@ -146,6 +146,6 @@ Telehealth therapy isn't a workaround or a consolation prize. For many people, i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

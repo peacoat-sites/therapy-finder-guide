@@ -133,8 +133,8 @@ The bottom line is simpler than most EMDR coverage makes it: this is a well-rese
 
 ## Sources & References
 
-- [APA — EMDR Clinical Practice Guideline](https://www.apa.org/ptsd-guideline/treatments/eye-movement-reprocessing) — Supports EMDR as evidence-based treatment for PTSD
-- [SAMHSA — Trauma-Informed Care Resources](https://www.samhsa.gov/trauma-informed-care) — Federal guidance on evidence-based trauma treatments
+- [APA, EMDR Clinical Practice Guideline](https://www.apa.org/ptsd-guideline/treatments/eye-movement-reprocessing), Supports EMDR as evidence-based treatment for PTSD
+- [SAMHSA, Trauma-Informed Care Resources](https://www.samhsa.gov/trauma-informed-care), Federal guidance on evidence-based trauma treatments
 
 *Photo: [Mario Spencer](https://www.pexels.com/@spencphoto) via Pexels*
 
@@ -150,6 +150,6 @@ The bottom line is simpler than most EMDR coverage makes it: this is a well-rese
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

@@ -145,10 +145,10 @@ Recovery from PTSD isn't linear, and it isn't fast, but it's real. The brain tha
 
 ## Sources & References
 
-- [NIMH — Post-Traumatic Stress Disorder](https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd) — Defines PTSD symptoms, causes, and evidence-based treatments
-- [VA — PTSD Treatment Basics](https://www.ptsd.va.gov/understand_tx/tx_basics.asp) — Explains effective trauma-focused therapies for PTSD
-- [SAMHSA — Trauma and Violence](https://www.samhsa.gov/trauma-violence) — Overview of trauma-informed care and treatment resources
-- [APA — PTSD Clinical Practice Guideline](https://www.apa.org/ptsd-guideline) — Professional guidelines for PTSD treatment approaches
+- [NIMH, Post-Traumatic Stress Disorder](https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd), Defines PTSD symptoms, causes, and evidence-based treatments
+- [VA, PTSD Treatment Basics](https://www.ptsd.va.gov/understand_tx/tx_basics.asp), Explains effective trauma-focused therapies for PTSD
+- [SAMHSA, Trauma and Violence](https://www.samhsa.gov/trauma-violence), Overview of trauma-informed care and treatment resources
+- [APA, PTSD Clinical Practice Guideline](https://www.apa.org/ptsd-guideline), Professional guidelines for PTSD treatment approaches
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -164,6 +164,6 @@ Recovery from PTSD isn't linear, and it isn't fast, but it's real. The brain tha
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

@@ -130,8 +130,8 @@ Grief is one of the most universal human experiences, and one of the loneliest. 
 
 ## Sources & References
 
-- [APA — Grief: Coping with the loss of your loved one](https://www.apa.org/topics/grief) — Supports counseling benefits and types of loss
-- [National Institute of Mental Health — Coping with Grief](https://www.nimh.nih.gov/health/topics/coping-with-traumatic-events) — Supports grief responses and when to seek help
+- [APA, Grief: Coping with the loss of your loved one](https://www.apa.org/topics/grief), Supports counseling benefits and types of loss
+- [National Institute of Mental Health, Coping with Grief](https://www.nimh.nih.gov/health/topics/coping-with-traumatic-events), Supports grief responses and when to seek help
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
@@ -147,6 +147,6 @@ Grief is one of the most universal human experiences, and one of the loneliest. 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

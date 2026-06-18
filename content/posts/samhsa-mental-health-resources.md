@@ -108,9 +108,9 @@ Getting connected to mental health care is rarely as clean and simple as we wish
 
 ## Sources & References
 
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Official info on free 24/7 mental health helpline
-- [SAMHSA — About Us](https://www.samhsa.gov/about-us) — Agency mission and role within HHS
-- [988 Suicide and Crisis Lifeline](https://988lifeline.org/) — Official site for federally-funded crisis line
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Official info on free 24/7 mental health helpline
+- [SAMHSA, About Us](https://www.samhsa.gov/about-us), Agency mission and role within HHS
+- [988 Suicide and Crisis Lifeline](https://988lifeline.org/), Official site for federally-funded crisis line
 
 ---
 
@@ -118,6 +118,6 @@ Getting connected to mental health care is rarely as clean and simple as we wish
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

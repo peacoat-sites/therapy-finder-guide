@@ -140,9 +140,9 @@ Mindfulness-based therapy won't silence every difficult thought you've ever had.
 
 ## Sources & References
 
-- [SAMHSA — Evidence-Based Practices Resource Center](https://www.samhsa.gov/resource-search/ebp) — supports MBCT, DBT, ACT as evidence-based treatments
-- [NCCIH — Meditation and Mindfulness](https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know) — supports mindfulness research and clinical applications
-- [APA — Mindfulness Meditation](https://www.apa.org/topics/mindfulness) — supports therapeutic benefits of mindfulness practices
+- [SAMHSA, Evidence-Based Practices Resource Center](https://www.samhsa.gov/resource-search/ebp), supports MBCT, DBT, ACT as evidence-based treatments
+- [NCCIH, Meditation and Mindfulness](https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know), supports mindfulness research and clinical applications
+- [APA, Mindfulness Meditation](https://www.apa.org/topics/mindfulness), supports therapeutic benefits of mindfulness practices
 
 ---
 
@@ -150,6 +150,6 @@ Mindfulness-based therapy won't silence every difficult thought you've ever had.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

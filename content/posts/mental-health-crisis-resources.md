@@ -125,9 +125,9 @@ Getting through a mental health crisis is hard enough without also having to fig
 
 ## Sources & References
 
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Official info on 24/7 crisis and treatment referral services
-- [988 Suicide & Crisis Lifeline](https://988lifeline.org/) — Official site for national suicide prevention hotline
-- [NIMH — Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help) — Federal guidance on recognizing crises and finding help
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Official info on 24/7 crisis and treatment referral services
+- [988 Suicide & Crisis Lifeline](https://988lifeline.org/), Official site for national suicide prevention hotline
+- [NIMH, Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help), Federal guidance on recognizing crises and finding help
 
 ---
 
@@ -135,6 +135,6 @@ Getting through a mental health crisis is hard enough without also having to fig
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

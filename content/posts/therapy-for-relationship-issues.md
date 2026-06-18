@@ -128,8 +128,8 @@ There's a particular kind of exhaustion that comes from relationship pain that d
 
 ## Sources & References
 
-- [APA — Couples Therapy](https://www.apa.org/topics/psychotherapy/couples-therapy) — Explains evidence-based approaches to couples therapy
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Free referrals for mental health and family services
+- [APA, Couples Therapy](https://www.apa.org/topics/psychotherapy/couples-therapy), Explains evidence-based approaches to couples therapy
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Free referrals for mental health and family services
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
@@ -145,6 +145,6 @@ There's a particular kind of exhaustion that comes from relationship pain that d
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

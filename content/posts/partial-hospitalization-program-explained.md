@@ -92,9 +92,9 @@ Building on skills between sessions can help significantly. Workbooks designed f
 
 ## Sources & References
 
-- [SAMHSA — Levels of Care in Mental Health Treatment](https://www.samhsa.gov/find-help/national-helpline) — supports existence of PHP as intermediate care level
-- [CMS — Medicare Mental Health Coverage](https://www.medicare.gov/coverage/mental-health-care-outpatient) — confirms PHP coverage and medical necessity criteria
-- [NAMI — Types of Mental Health Professionals and Treatment](https://www.nami.org/About-Mental-Illness/Treatments) — explains PHP structure and who benefits from intensive programs
+- [SAMHSA, Levels of Care in Mental Health Treatment](https://www.samhsa.gov/find-help/national-helpline), supports existence of PHP as intermediate care level
+- [CMS, Medicare Mental Health Coverage](https://www.medicare.gov/coverage/mental-health-care-outpatient), confirms PHP coverage and medical necessity criteria
+- [NAMI, Types of Mental Health Professionals and Treatment](https://www.nami.org/About-Mental-Illness/Treatments), explains PHP structure and who benefits from intensive programs
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
@@ -108,6 +108,6 @@ Building on skills between sessions can help significantly. Workbooks designed f
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

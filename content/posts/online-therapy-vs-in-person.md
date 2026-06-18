@@ -133,8 +133,8 @@ The decision between online and in-person therapy matters less than the decision
 
 ## Sources & References
 
-- [APA — What is Telepsychology?](https://www.apa.org/topics/telepsychology) — supports evidence-based approaches work via telehealth
-- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — explains CBT, DBT, and other evidence-based therapies
+- [APA, What is Telepsychology?](https://www.apa.org/topics/telepsychology), supports evidence-based approaches work via telehealth
+- [NIMH, Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies), explains CBT, DBT, and other evidence-based therapies
 
 *Photo: [Katerina Holmes](https://www.pexels.com/@katerina-holmes) via Pexels*
 
@@ -150,7 +150,7 @@ The decision between online and in-person therapy matters less than the decision
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10) — Guided self-care journal for managing anxiety and depression — a low-cost tool to complement your therapy work.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
 

@@ -130,9 +130,9 @@ The honest truth is that most people who benefit from therapy don't do so becaus
 
 ## Sources & References
 
-- [APA — Different approaches to psychotherapy](https://www.apa.org/topics/psychotherapy/approaches) — Explains major therapy types including psychodynamic and CBT
-- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Overview of evidence-based psychotherapy approaches
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Mental health treatment referral and information resource
+- [APA, Different approaches to psychotherapy](https://www.apa.org/topics/psychotherapy/approaches), Explains major therapy types including psychodynamic and CBT
+- [NIMH, Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies), Overview of evidence-based psychotherapy approaches
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Mental health treatment referral and information resource
 
 ---
 
@@ -140,7 +140,7 @@ The honest truth is that most people who benefit from therapy don't do so becaus
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18) — Practical workbook companion to Feeling Good — structured CBT exercises for depression, anxiety, and relationship problems.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.
 
