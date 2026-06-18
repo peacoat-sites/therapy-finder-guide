@@ -60,3 +60,14 @@ If you are experiencing thoughts of suicide or self-harm, regardless of your tot
 If your score suggests you might benefit from professional support, you have more options than you might think. Many therapists offer sliding scale fees, and telehealth has made it easier than ever to access care from home. Our guide to [finding a therapist](/find-therapist/) can help you navigate the process, understand what to expect from a first appointment, and figure out what type of therapy may work best for your situation. Effective treatment for depression is available, and reaching out is the first and most important step.
 
 *This content is provided for informational and educational purposes only. It does not constitute medical advice and is not a substitute for professional mental health care. Always discuss screening results with a qualified healthcare provider.*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10) — Daily check-in journal for depression — structured mood tracking and reflection prompts designed around therapeutic principles.
+
