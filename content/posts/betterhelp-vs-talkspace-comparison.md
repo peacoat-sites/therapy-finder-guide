@@ -135,8 +135,8 @@ The gap between knowing you need support and actually having a therapist on the 
 
 ## Sources & References
 
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — Supports crisis resource info and mental health treatment access
-- [988 Suicide and Crisis Lifeline](https://988lifeline.org/) — Supports crisis hotline recommendation already cited in article
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Supports crisis resource info and mental health treatment access
+- [988 Suicide and Crisis Lifeline](https://988lifeline.org/), Supports crisis hotline recommendation already cited in article
 
 *Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 
@@ -152,6 +152,6 @@ The gap between knowing you need support and actually having a therapist on the 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

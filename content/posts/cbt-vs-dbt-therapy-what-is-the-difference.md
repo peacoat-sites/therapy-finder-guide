@@ -38,7 +38,7 @@ Here's the actual history, because it matters more than most articles let on.
   <div class="vm-body">
     <p class="vm-intro">This decision matrix maps common presenting concerns to the therapy approach that clinical research and practice guidelines most strongly support.</p>
     <table><thead><tr><th>Primary Concern</th><th>CBT Indicated</th><th>DBT Indicated</th><th>Key Deciding Factor</th></tr></thead><tbody><tr><td>Specific phobia or panic disorder</td><td>Strong</td><td>Weaker</td><td>CBT's exposure protocols have most robust evidence for discrete anxiety disorders</td></tr><tr><td>Depression without self-harm</td><td>Strong</td><td>Moderate</td><td>Standard CBT is first-line; DBT adds value if emotion dysregulation is prominent</td></tr><tr><td>Chronic suicidal ideation or self-injury</td><td>Weaker</td><td>Strong</td><td>DBT was specifically developed for and tested on this population</td></tr><tr><td>Borderline personality disorder</td><td>Weaker</td><td>Strong</td><td>DBT remains the most evidence-supported treatment for BPD</td></tr><tr><td>Binge eating or bulimia</td><td>Strong</td><td>Strong</td><td>Both have good evidence; DBT preferred when emotional eating is the core driver</td></tr><tr><td>Relationship instability and intense reactions</td><td>Moderate</td><td>Strong</td><td>DBT's interpersonal effectiveness module directly targets this pattern</td></tr><tr><td>PTSD</td><td>Strong (especially CPT, PE)</td><td>Moderate (often adjunct)</td><td>Trauma-focused CBT variants are first-line; DBT may stabilize before trauma processing</td></tr><tr><td>Generalized anxiety with rumination</td><td>Strong</td><td>Moderate</td><td>CBT has strongest evidence; DBT distress tolerance can help if worry feels uncontrollable</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -117,8 +117,8 @@ The honest thing I'd leave you with: don't let the alphabet soup of therapy type
 
 ## Sources & References
 
-- [APA — What is Cognitive Behavioral Therapy?](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral) — Supports CBT definition and evidence-based applications
-- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — Supports evidence base for therapy approaches
+- [APA, What is Cognitive Behavioral Therapy?](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral), Supports CBT definition and evidence-based applications
+- [NIMH, Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies), Supports evidence base for therapy approaches
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
@@ -132,8 +132,8 @@ The honest thing I'd leave you with: don't let the alphabet soup of therapy type
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18) — Practical workbook companion to Feeling Good — structured CBT exercises for depression, anxiety, and relationship problems.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10) — Guided self-care journal for managing anxiety and depression — a low-cost tool to complement your therapy work.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.
+- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
 

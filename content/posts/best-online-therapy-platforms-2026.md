@@ -23,9 +23,9 @@ Let me give you the real version.
 <div class="value-module">
   <div class="vm-head">Platform Fit by Therapy Need</div>
   <div class="vm-body">
-    <p class="vm-intro">Different platforms suit different clinical needs and logistical constraints—this matrix helps you identify which factors matter most for your situation.</p>
+    <p class="vm-intro">Different platforms suit different clinical needs and logistical constraints-this matrix helps you identify which factors matter most for your situation.</p>
     <table><caption>Online Therapy Platform Decision Matrix</caption><thead><tr><th>Your Priority</th><th>Key Questions to Ask</th><th>Green Flags</th><th>Red Flags</th></tr></thead><tbody><tr><td>Specific diagnosis (OCD, PTSD, eating disorders)</td><td>Does the platform offer therapists with specialty training? Can you filter by treatment modality (ERP, EMDR, DBT)?</td><td>Searchable specialty filters; therapist profiles list specific certifications</td><td>Generic "anxiety and depression" only; no modality information</td></tr><tr><td>Insurance coverage</td><td>Does the platform bill insurance directly, or only provide superbills for out-of-network reimbursement?</td><td>In-network with major insurers; transparent cost calculator before signup</td><td>Vague "may be covered" language; subscription locks you in before verifying</td></tr><tr><td>Therapist consistency</td><td>Can you stay with the same therapist long-term? What happens if they leave the platform?</td><td>Direct booking with chosen therapist; notification policy if therapist departs</td><td>Algorithm-assigned matching with no opt-out; high therapist turnover reported</td></tr><tr><td>Scheduling flexibility</td><td>Are sessions available evenings/weekends? Can you book same-week appointments?</td><td>Real-time availability calendar; typical wait under 7 days for new clients</td><td>2-3 week waits standard; limited hours outside 9-5</td></tr><tr><td>Privacy concerns</td><td>What data is collected beyond session notes? Is messaging end-to-end encrypted?</td><td>Clear data retention policy; no third-party marketing data sharing; HIPAA-compliant messaging</td><td>History of FTC actions or data breaches; vague privacy terms</td></tr><tr><td>Budget constraints</td><td>What's the actual per-session cost? Are there hidden fees for messaging or rescheduling?</td><td>Transparent pricing ($60-150/session typical); sliding scale or financial aid options</td><td>Low advertised price requires annual commitment; messaging-only tiers with unclear therapist response times</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -135,8 +135,8 @@ Licensed therapists are bound by HIPAA and professional ethics codes that requir
 
 ## Sources & References
 
-- [SAMHSA — National Helpline and Treatment Locator](https://www.samhsa.gov/find-help) — supports finding mental health treatment options
-- [NIMH — Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies) — supports evidence-based treatment approaches
+- [SAMHSA, National Helpline and Treatment Locator](https://www.samhsa.gov/find-help), supports finding mental health treatment options
+- [NIMH, Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies), supports evidence-based treatment approaches
 
 *Photo: [Shoper .pl](https://www.pexels.com/@shoper-pl-550490863) via Pexels*
 
@@ -152,7 +152,7 @@ Licensed therapists are bound by HIPAA and professional ethics codes that requir
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10) — Guided self-care journal for managing anxiety and depression — a low-cost tool to complement your therapy work.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
 

@@ -40,7 +40,7 @@ So let's talk about what's actually out there, what works, what's overhyped, and
   <div class="vm-body">
     <p class="vm-intro">This table compares key features across popular daily mental health apps to help you identify which matches your specific needs and constraints.</p>
     <table><thead><tr><th>App</th><th>Core Approach</th><th>Daily Time Commitment</th><th>Human Access</th><th>Cost Range (USD/month)</th><th>Best For</th><th>Notable Limitation</th></tr></thead><tbody><tr><td>Woebot</td><td>CBT-based AI chatbot</td><td>5–10 min</td><td>None</td><td>Free</td><td>Learning CBT basics; anxiety spirals at 2am</td><td>Repetitive after 3–4 weeks; no crisis support</td></tr><tr><td>Wysa</td><td>AI coach + optional human therapist</td><td>5–15 min</td><td>Paid add-on ($99+/month)</td><td>Free (basic); $99+ (therapist)</td><td>Mood tracking with option to escalate</td><td>Human sessions sold separately at premium</td></tr><tr><td>Calm</td><td>Meditation, sleep, relaxtic</td><td>10–20 min</td><td>None</td><td>$15 (or $70/year)</td><td>Sleep issues; general stress reduction</td><td>Not therapy-focused; no personalization</td></tr><tr><td>Headspace</td><td>Guided meditation, mindfulness</td><td>5–20 min</td><td>None</td><td>$13 (or $70/year)</td><td>Building a meditation habit</td><td>Limited for clinical anxiety/depression</td></tr><tr><td>Sanvello</td><td>CBT tools + peer community</td><td>10–15 min</td><td>Coaching ($49+/month)</td><td>Free (basic); $49+ (coaching)</td><td>CBT exercises with community support</td><td>Community quality varies widely</td></tr><tr><td>Finch</td><td>Gamified self-care check-ins</td><td>3–5 min</td><td>None</td><td>Free (basic); $5 (premium)</td><td>Habit-building; gentle accountability</td><td>May feel too playful for serious distress</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -131,8 +131,8 @@ That's enough to be worth it.
 
 ## Sources & References
 
-- [SAMHSA — National Helpline](https://www.samhsa.gov/find-help/national-helpline) — supports crisis resource context for mental health apps
-- [NIMH — Technology and the Future of Mental Health Treatment](https://www.nimh.nih.gov/health/topics/technology-and-the-future-of-mental-health-treatment) — supports discussion of digital mental health tools
+- [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), supports crisis resource context for mental health apps
+- [NIMH, Technology and the Future of Mental Health Treatment](https://www.nimh.nih.gov/health/topics/technology-and-the-future-of-mental-health-treatment), supports discussion of digital mental health tools
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
@@ -146,6 +146,6 @@ That's enough to be worth it.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

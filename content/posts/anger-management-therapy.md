@@ -36,7 +36,7 @@ You're sitting in your car in the parking lot, hands gripping the steering wheel
   <div class="vm-body">
     <p class="vm-intro">Use this checklist after an anger episode to identify which intervention skills to prioritize with your therapist.</p>
     <table><thead><tr><th>Check If True</th><th>What It Suggests</th><th>Skill Area to Address</th></tr></thead><tbody><tr><td>My body reacted (racing heart, clenched jaw, heat) before I recognized I was angry</td><td>Low interoceptive awareness</td><td>Body-scan practice, physiological cue identification</td></tr><tr><td>I went from calm to explosive in under 30 seconds</td><td>Rapid escalation pattern</td><td>Time-out protocols, arousal interruption techniques</td></tr><tr><td>I used words like "always," "never," or "should" in my head or out loud</td><td>Cognitive distortions fueling intensity</td><td>CBT thought restructuring</td></tr><tr><td>I was already tired, hungry, or stressed before the trigger</td><td>Vulnerability factors lowering threshold</td><td>HALT awareness (Hungry, Angry, Lonely, Tired)</td></tr><tr><td>The intensity of my reaction didn't match the actual situation</td><td>Possible link to past wounds or schemas</td><td>Schema therapy or trauma-informed exploration</td></tr><tr><td>I felt justified in the moment but regretted it within an hour</td><td>Post-anger shame cycle</td><td>Values clarification, repair-and-amend skills</td></tr><tr><td>I replayed the conflict repeatedly afterward</td><td>Rumination extending anger duration</td><td>Mindfulness-based interventions, cognitive defusion</td></tr><tr><td>I directed anger at someone other than the original source</td><td>Displacement pattern</td><td>Assertive communication for original grievance</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -165,6 +165,6 @@ The parking lot moment at the start of this article is one a lot of people know.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

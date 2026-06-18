@@ -38,7 +38,7 @@ So why does half the country end up on SSRIs without a therapist in sight? Mostl
   <div class="vm-body">
     <p class="vm-intro">Understanding typical timelines helps set realistic expectations and identify when adjustments may be needed.</p>
     <table><caption>Combined Treatment Milestones and Decision Points</caption><thead><tr><th>Timeframe</th><th>Medication Effects</th><th>Therapy Progress</th><th>Decision Point</th></tr></thead><tbody><tr><td>Weeks 1–2</td><td>Side effects common (nausea, sleep changes); minimal mood benefit yet</td><td>Assessment, rapport-building, introducing thought tracking</td><td>Side effects intolerable? Contact prescriber; don't stop abruptly</td></tr><tr><td>Weeks 3–4</td><td>First noticeable symptom reduction in ~50% of responders</td><td>Identifying 2–3 core cognitive distortions; homework compliance matters</td><td>No change at all? Prescriber may adjust dose</td></tr><tr><td>Weeks 6–8</td><td>Near-maximum benefit from initial dose; clearer picture of effectiveness</td><td>Practicing cognitive restructuring; behavioral activation underway</td><td>Partial response? Consider dose increase or augmentation</td></tr><tr><td>Months 3–4</td><td>Stable therapeutic effect if medication is working</td><td>Skills becoming more automatic; fewer acute crisis sessions</td><td>Good response? Plan maintenance duration (typically 6–12+ months)</td></tr><tr><td>Months 6–12</td><td>Relapse prevention phase; discontinuation discussion begins</td><td>Relapse prevention module; spacing sessions to biweekly/monthly</td><td>Considering stopping medication? Taper slowly with prescriber; therapy continuation reduces relapse risk by ~30%</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -105,9 +105,9 @@ The combination of medication and therapy isn't a guaranteed fix. Nothing in men
 
 ## Sources & References
 
-- [NIMH — Mental Health Medications](https://www.nimh.nih.gov/health/topics/mental-health-medications) — supports antidepressant mechanism, timeline, side effects info
-- [APA — Clinical Practice Guideline for Depression](https://www.apa.org/depression-guideline) — supports combined therapy approach for moderate-severe depression
-- [SAMHSA — Depression Treatment](https://www.samhsa.gov/mental-health/depression) — supports access barriers and treatment options overview
+- [NIMH, Mental Health Medications](https://www.nimh.nih.gov/health/topics/mental-health-medications), supports antidepressant mechanism, timeline, side effects info
+- [APA, Clinical Practice Guideline for Depression](https://www.apa.org/depression-guideline), supports combined therapy approach for moderate-severe depression
+- [SAMHSA, Depression Treatment](https://www.samhsa.gov/mental-health/depression), supports access barriers and treatment options overview
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
@@ -121,6 +121,6 @@ The combination of medication and therapy isn't a guaranteed fix. Nothing in men
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 
