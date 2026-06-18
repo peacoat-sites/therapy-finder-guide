@@ -36,7 +36,7 @@ Imagine you've tried everything the self-help world told you to try. You've jour
   <div class="vm-body">
     <p class="vm-intro">Understanding how ACT differs from traditional CBT helps clarify which approach might fit your situation.</p>
     <table><thead><tr><th>Dimension</th><th>Cognitive Behavioral Therapy (CBT)</th><th>Acceptance and Commitment Therapy (ACT)</th></tr></thead><tbody><tr><td>Relationship to negative thoughts</td><td>Challenge and restructure distorted thoughts</td><td>Notice thoughts without fighting them; reduce their influence through defusion</td></tr><tr><td>Primary goal</td><td>Reduce symptom frequency and intensity</td><td>Increase psychological flexibility and values-based living</td></tr><tr><td>View of difficult emotions</td><td>Symptoms to be managed or reduced</td><td>Normal human experiences to make room for</td></tr><tr><td>Core question asked</td><td>"Is this thought accurate and helpful?"</td><td>"Does holding this thought tightly serve my values?"</td></tr><tr><td>Success metric</td><td>Fewer anxious/depressive episodes; improved mood ratings</td><td>Increased engagement in meaningful activities despite discomfort</td></tr><tr><td>Typical homework</td><td>Thought records, behavioral experiments, exposure hierarchies</td><td>Mindfulness exercises, values clarification, committed action plans</td></tr><tr><td>Best suited for someone who</td><td>Wants structured tools to counter specific thought patterns</td><td>Feels stuck fighting thoughts that resist logical challenge</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -163,6 +163,6 @@ ACT won't promise you a life without pain. But that's precisely what makes it cr
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 
