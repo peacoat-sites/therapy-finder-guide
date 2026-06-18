@@ -763,6 +763,12 @@ def keyword_to_slug(keyword: str) -> str:
     slug = re.sub(r"\s+", "-", slug.strip())
     return slug[:70]
 
+# -- _sanitize_content --
+def _sanitize_content(text):
+    """Strip em dashes (AI writing tell). Spaced em dash -> comma, bare -> hyphen."""
+    text = re.sub(r'\s+\u2014\s+', ', ', text)
+    return text.replace('\u2014', '-')
+
 # ── ARTICLE GENERATION ────────────────────────────────────────────────────────
 
 def generate_article(keyword: str, site_config: dict, persona: dict, priority: str, voice_style: str = "") -> dict:
@@ -891,6 +897,9 @@ Write it in the author's specific voice, with the opinions and concrete detail o
     if not image_query:
         image_query = _derive_image_query(keyword)
 
+    # -- sanitize before return --
+    content = _sanitize_content(content)
+    description = _sanitize_content(description)
     return {"content": content, "description": description, "image_query": image_query}
 
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
@@ -961,7 +970,13 @@ _TITLE_CAP_FIXES = [
     (r'\bDwi\b','DWI'),(r'\bDui\b','DUI'),
     (r'\bKwh\b','kWh'),(r'\bKw\b','kW'),
     (r'\bFaq\b','FAQ'),(r'\bTv\b','TV'),(r'\bHr\b','HR'),(r'\bPto\b','PTO'),
+    # -- Abbreviation expansion 2026 --
+    (r'\bOkrs\b','OKRs'),(r'\bOkr\b','OKR'),(r'\bKpis\b','KPIs'),(r'\bKpi\b','KPI'),
+    (r'\bCeo\b','CEO'),(r'\bCfo\b','CFO'),(r'\bCto\b','CTO'),(r'\bCoo\b','COO'),
+    (r'\bQa\b','QA'),(r'\bAaa\b','AAA'),(r'\bB2b\b','B2B'),(r'\bB2c\b','B2C'),
+    (r'\bSaas\b','SaaS'),(r'\bSeo\b','SEO'),(r'\bCrm\b','CRM'),(r'\bErp\b','ERP'),
 ]
+
 _TITLE_CAP_RX = [(re.compile(p), r) for p, r in _TITLE_CAP_FIXES]
 
 def _fix_title_caps(title):
