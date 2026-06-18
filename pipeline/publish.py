@@ -818,26 +818,34 @@ Temporal context (critical):
 - Prefer "currently", "today", or "as of this year", or omit the year entirely, rather than pinning a stale year.
 - Never reference a year later than {_current_year}.
 
+# -- Writing quality v2 --
 Writing rules (follow every one):
-- Write like a specific human with opinions, not a neutral summarizer. Where the topic allows, take a clear stance ("honestly, I'd skip the pricey version", "most advice on this is wrong"). Readers trust a writer who commits.
-- Vary your rhythm hard. Mix short, punchy sentences (fragments are fine) with longer ones. Let some paragraphs be a single sentence. Do not make every section the same length.
-- Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
-- Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
-- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"), but do not overdo it.
-- Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
-- Use contractions everywhere (you'll, it's, don't, can't, that's).
-- Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
-- Acknowledge nuance and uncertainty honestly ("the research here is mixed", "this won't work for everyone") instead of false confidence or robotic both-sidesing.
+- Write at college-graduate level, not executive-consultant level. Clear opinions, practical directness, occasional informality. Not every sentence needs to be polished. Real writers don't polish everything.
+- Write like a specific human with opinions, not a neutral summarizer. Commit to a stance where the topic allows. "The best option is X, and most of what you read about Y is oversold" beats hedging. Don't both-sides things you actually have a view on.
+- Vary sentence length DRAMATICALLY — this is the most important signal of real writing. Put a 4-word sentence next to a 30-word one. Let one paragraph be a single sentence. Let the next one run six. Never let three consecutive sentences be the same length.
+- Open differently every time. Sometimes a blunt claim, a specific number, a confession, a single concrete moment, or a direct question. Never open with "In today's...", "When it comes to...", "In the world of...", "Imagine...", or any generic setup that could precede any article.
+- Be relentlessly specific. Name real products, brands, prices, dates, places, numbers. "$180 a month" beats "expensive." "A 2019 JAMA study of 14,000 patients" beats "studies show." Specificity is the biggest tell of real writing.
+- Include at least one observation a reader might push back on, then make the case for it. A contrarian take backed by specifics builds more trust than an agreeable summary.
+- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself") — don't overdo it, but include it where it fits.
+- Use contractions everywhere: you'll, it's, don't, can't, that's, I've, I'd, we're.
+- Allow mild informality: the occasional aside in parentheses, a rhetorical question, a digression that circles back. Real people don't maintain perfect register throughout.
+- Don't hedge everything. "X is usually the right call" beats "X may be worth considering for many people in certain situations." Acknowledge genuine uncertainty, but don't manufacture it where you actually know the answer.
+- Never use em dashes. Use commas, colons, parentheses, or a new sentence.
 
-NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world.
+NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world, utilize, facilitate, streamline, empower, optimize, revolutionary, innovative, unprecedented, dynamic, scalable, agile, tailored, cutting-edge, best-in-class, next-generation, state-of-the-art, synergy, ecosystem, beacon, treasure trove, pave the way, at the forefront, shed light on, one might argue, some might say, boasting, meticulous, meticulously, consequently, subsequently, notably, hitherto, it goes without saying, needless to say, as previously mentioned, each and every.
 
 Avoid these structural tells:
-- The rule of three in every sentence ("X, Y, and Z"). Sometimes list two things, sometimes five.
+- The rule of three everywhere ("X, Y, and Z"). Sometimes list two things, sometimes five. Never always three.
 - "It's not just X, it's Y" / "It's not about X, it's about Y" constructions.
 - Ending the article, or every section, by restating what you just said.
 - Perfectly balanced "on one hand / on the other hand" hedging on everything.
-- Opening every paragraph with its topic sentence. Sometimes bury the point.
-- Turning everything into a bulleted list. Prose is fine; use a list only when it genuinely helps.
+- Opening every paragraph with its topic sentence. Sometimes bury the point, or start mid-thought.
+- Turning everything into a bulleted list. Prose is usually better; use a list only when parallel items genuinely call for it.
+- Bridging sections with meta-commentary: "In the next section we'll cover..." or "Now that we understand X, let's look at Y." Just start the next section.
+- Opening sections with definitions ("X is defined as..."). Start with action, an observation, or a specific example instead.
+- Making every section the same length. One section can be a single tight paragraph. Another can run four.
+- Uniform paragraph length throughout — vary it hard. One-sentence paragraph, then a six-sentence one, then three.
+- Framing claims as "one might argue" or "some people feel." Own your claims directly.
 {ymyl_instruction}
 {ref_instruction}
 {affiliate_note}
