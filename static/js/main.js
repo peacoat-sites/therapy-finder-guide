@@ -153,3 +153,18 @@ if ('IntersectionObserver' in window) {
 }
 // -- Scroll-to-top --
 (function(){var b=document.createElement('button');b.id='scroll-top';b.setAttribute('aria-label','Back to top');b.innerHTML='&#8679;';document.body.appendChild(b);window.addEventListener('scroll',function(){b.classList.toggle('visible',window.scrollY>400);},{passive:true});b.addEventListener('click',function(){window.scrollTo({top:0,behavior:'smooth'});});})();
+
+// -- Wave 5 reading progress --
+(function(){
+  var bar=document.createElement('div');
+  bar.id='reading-progress';
+  bar.setAttribute('aria-hidden','true');
+  document.body.insertBefore(bar,document.body.firstChild);
+  if(!CSS.supports('animation-timeline','scroll()')){
+    window.addEventListener('scroll',function(){
+      var s=document.documentElement;
+      var pct=s.scrollTop/(s.scrollHeight-s.clientHeight);
+      bar.style.transform='scaleX('+Math.min(1,Math.max(0,pct||0))+')';
+    },{passive:true});
+  }
+})();
