@@ -168,3 +168,23 @@ if ('IntersectionObserver' in window) {
     },{passive:true});
   }
 })();
+
+// -- Browse Topics truncation --
+(function(){
+  document.querySelectorAll('.widget-title').forEach(function(t){
+    if(t.textContent.trim()!=='Browse Topics')return;
+    var ul=t.closest('.widget').querySelector('.widget-list');
+    if(!ul)return;
+    var items=[].slice.call(ul.children);
+    if(items.length<=10)return;
+    items.slice(10).forEach(function(li){li.hidden=true;});
+    var btn=document.createElement('button');
+    btn.textContent='Show all '+items.length+' topics ▾';
+    btn.style.cssText='margin-top:8px;font-size:12px;color:var(--accent,#c2410c);background:none;border:none;cursor:pointer;padding:2px 0;font-family:inherit;display:block';
+    btn.addEventListener('click',function(){
+      items.slice(10).forEach(function(li){li.hidden=false;});
+      btn.remove();
+    });
+    ul.after(btn);
+  });
+})();

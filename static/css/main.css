@@ -764,3 +764,6 @@ html { scrollbar-gutter: stable; }
 .toc-widget nav a:hover{color:var(--text,#1a1a18);background:var(--surface2,#f5f2ec)}
 .toc-widget nav a.toc-active{color:var(--accent,#c2410c);border-left-color:var(--accent,#c2410c);font-weight:600;background:color-mix(in srgb,var(--accent,#c2410c) 8%,transparent)}
 .toc-widget nav ul ul a{padding-left:28px;font-size:12px}
+
+/* -- Sidebar static + topics fix -- */
+.sidebar{max-height:none;overflow-y:visible}
