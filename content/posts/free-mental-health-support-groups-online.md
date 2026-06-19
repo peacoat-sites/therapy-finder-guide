@@ -24,7 +24,6 @@ faqs:
   - q: "How do I know if a group is legitimate and safe?"
     a: "Look for groups run by established organizations (NAMI, DBSA, SMART Recovery, MHA) rather than groups formed through random Facebook communities or Reddit threads. Established organizations train their facilitators, have conduct policies, and have reporting mechanisms if something goes wrong. That infrastructure matters more than people realize until something goes sideways."
 ---
-
 Maybe you've been sitting with something heavy for a few weeks, or maybe it's been years. You know you probably need to talk to someone, but the idea of finding a therapist, scheduling an appointment, and paying $150 to $250 a session feels like a whole other problem on top of the one you already have. So you've been Googling, half-hoping something free exists, half-suspecting it doesn't really.
 
 It does. And some of it is genuinely good.
@@ -33,7 +32,7 @@ Free online support groups aren't therapy, and I want to be honest with you abou
 
 ## What You're Actually Looking For (Even If You Don't Know It Yet)
 
-You might be wondering what "online support group" actually means in practice. The range is wide.
+When you search for "online support group," what you'll find spans a wide spectrum.
 
 Some are facilitated, meaning a trained peer specialist or mental health professional leads the session, keeps the conversation on track, and makes sure nobody's being harmful to the group. Others are more self-directed, more like a moderated community chat or forum. Both can work, but they work differently. If you're in a vulnerable place, I'd steer you toward facilitated groups first. The structure matters more when you're raw.
 
@@ -42,8 +41,6 @@ Peer support, specifically, is something the [National Alliance on Mental Illnes
 ## The Groups Worth Your Time
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what I tell people who are starting from scratch: don't just search "free support group" and click the first thing that comes up. The quality varies enormously, and a poorly moderated group can actually leave you feeling worse.
 
@@ -69,16 +66,13 @@ If the first one isn't right, try a different platform or a different session ti
 
 ## The Limits of This, Stated Plainly
 
-A peer support group should not be your only resource if you're in crisis. If you're having thoughts of suicide or self-harm, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Full stop.
+A peer support group should not be your only resource if you're in crisis. If you're having thoughts of suicide or self-harm, contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. That's non-negotiable.
 
 Beyond acute crisis: if your symptoms are severe or significantly impairing your daily life, a support group is a complement to professional care, not a substitute. [SAMHSA's treatment locator](https://findtreatment.gov/) can help you find low-cost or sliding-scale mental health services in your area. Many community mental health centers offer therapy on a sliding scale starting as low as $0, and that option is radically underused because people don't know it exists.
 
 For between-session support or self-guided work alongside a group, a structured CBT workbook can genuinely help. Something like [The Cognitive Behavioral Workbook for Depression by William Knaus](https://www.amazon.com/Cognitive-Behavioral-Workbook-Depression-Step/dp/1572245999/?tag=contentportfo-20) gives you actual tools, not just encouragement. (Note: this site may earn a small commission from qualifying Amazon purchases.)
 
-
----
-
-If none of this feels like enough right now, that's okay. Sometimes the right next step is just finding one group, checking the schedule, and writing down when it meets. You don't have to be ready. You just have to show up once.
+If none of this feels like enough right now, that's okay. Sometimes the right next step is just finding one group, checking the schedule, and writing down when it meets. You don't have to be ready. Just show up once.
 
 ## Helpful Resources
 
@@ -88,19 +82,15 @@ If none of this feels like enough right now, that's okay. Sometimes the right ne
 - **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
 - **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
 
-
 *Photo: [Artem Podrez](https://www.pexels.com/@artempodrez) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

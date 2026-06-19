@@ -25,30 +25,23 @@ author_title: "Mental Health Writer"
 author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
 
 ---
-
 Most crisis advice online reads like it was written for a legal department. "Seek help immediately." "Contact a mental health professional." Cool, thanks. What does that actually mean at 2 a.m. when your hands are shaking and you can't remember how to breathe?
 
 Here's what I've seen work, having spent years sitting beside clinical teams and helping people find care when they desperately needed it. This is the practical version.
-
----
 
 ## First: Know What You're Actually Dealing With
 
 A mental health crisis isn't just "a really bad day." It's when distress becomes so intense that normal coping stops working, and a person's safety, or their ability to function at all, is in jeopardy. That can look like suicidal or self-harm thoughts, a psychotic episode, a severe panic attack that won't stop, or a total emotional breakdown where someone can't care for themselves.
 
-It's also worth saying: crises exist on a spectrum. Not every crisis requires a 911 call. Not every crisis resolves in an hour. The intensity, duration, and specific symptoms matter, and knowing roughly where on that spectrum you or someone you love is sitting will change what you do next.
+Crises exist on a spectrum. Not every crisis requires a 911 call. Not every crisis resolves in an hour. The intensity, duration, and specific symptoms matter, and knowing roughly where on that spectrum you or someone you love is sitting will change what you do next.
 
 If there's immediate danger to life, call 911 or go to an emergency room. That's the line where the rest of this article becomes secondary.
 
 For everything else, read on.
 
----
-
 ## The First 10 Minutes
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Panic narrows your thinking. That's not a character flaw; it's neuroscience. When the brain floods with stress hormones, the prefrontal cortex, the part that makes plans, partially goes offline. So the goal in the first 10 minutes isn't to solve anything. It's to stop the spiral from accelerating.
 
@@ -57,8 +50,6 @@ One concrete thing: breathing. Specifically, making your exhale longer than your
 Cold water helps too. Splashing it on your face, or holding ice, triggers what's called the dive reflex, which slows heart rate. Blunt, physical, and it actually works.
 
 If you're supporting someone else in crisis, the instinct to fix or reason them out of it is almost always wrong in the first few minutes. Presence and a calm voice matter more than words. "I'm here, I'm not going anywhere" is more useful than any explanation.
-
----
 
 ## Who to Call (and When to Call Them)
 
@@ -76,15 +67,11 @@ This is where most crisis guides fall apart, because they list resources without
 
 Knowing these distinctions ahead of time, before a crisis, is one of the more useful things you can do for yourself. I'd genuinely recommend saving 988 in your phone right now.
 
----
-
 ## If You're the One in Crisis
-
-This section is specifically for you, not a caregiver.
 
 The hardest part of being in crisis is that your brain will tell you things that aren't true. It'll tell you nobody cares, that it's going to be like this forever, that you're a burden. These thoughts feel like facts. They're not. They're symptoms.
 
-One technique that has good clinical backing: grounding. The 5-4-3-2-1 method asks you to name five things you can see, four you can hear, three you can physically feel, two you can smell, one you can taste. It sounds almost offensively simple. It works because it pulls your attention into the present and interrupts ruminative loops. Try it before dismissing it.
+One technique that has good clinical backing: grounding. The 5-4-3-2-1 method asks you to name five things you can see, four you can hear, three you can physically feel, two you can smell, one you can taste. It sounds almost offensively simple. It works because it pulls your attention into the present and interrupts ruminative loops.
 
 Keep a crisis plan somewhere you can actually find it. Some therapists help clients build these formally, but you can make a rough version yourself: who to call, what has helped before, what has made things worse, and a clear line that tells you when to go to the ER. The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) has free templates and guidance for building personal crisis plans, and it's worth spending twenty minutes on their site if you have any history of mental health episodes.
 
@@ -92,22 +79,15 @@ Also, and this runs counter to the "push through it" advice that floats around: 
 
 If journaling helps you process, a structured option like the [Cognitive Behavioral Therapy Workbook for Anxiety and Depression](https://www.amazon.com/s?k=CBT+workbook+anxiety+depression) (Amazon, various editions; the site may earn a commission) can give you a framework when your thoughts are too scattered to free-write. Not a substitute for professional support, but a useful tool in the immediate aftermath.
 
----
-
 ## After the Acute Phase
 
 Crises don't end cleanly. There's usually a day or two, sometimes a week, of feeling wrung out, fragile, and raw. People often make the mistake of treating "not actively in crisis" as "fine," and skipping the follow-up that would actually prevent the next episode.
-
-A few things worth doing once you're through the worst of it:
 
 Contact a therapist if you don't already have one. Even one session with a professional who can help you debrief what happened and build better coping structures is worth it. [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by insurance, location, specialty, and therapy type, and it's genuinely one of the better starting points. If cost is a barrier, look for therapists who offer sliding scale fees; many do, and it's always worth asking directly.
 
 Tell someone you trust what happened. Not for sympathy necessarily, but so you have another person watching for signs you might be slipping again. Isolation is one of the most reliable predictors of crisis recurrence.
 
 If you were supporting someone through the crisis, check in on yourself too. It's exhausting to hold space for someone in that much pain, and caregiver burnout is real. You're allowed to need some recovery time.
-
----
-
 
 ---
 
@@ -136,14 +116,9 @@ One step. Then the next.
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
----
-
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

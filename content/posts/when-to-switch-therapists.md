@@ -25,7 +25,6 @@ author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
 
 ---
-
 You've been seeing your therapist for eight months. You don't dread the appointments exactly, but you don't look forward to them either. Sessions feel a little like going through the motions. You talk, they nod, they ask a clarifying question or two, you wrap up. You leave feeling... fine. Not worse. But not better, either. And somewhere underneath the politeness of it all, you're starting to wonder: is this just how therapy works, or is something off? That quiet question, the one most people push down because they feel guilty even thinking it, is exactly what we need to talk about.
 
 ## The Difference Between a Rough Patch and a Real Problem
@@ -41,8 +40,6 @@ That said, staying too long with the wrong fit is one of the most common reasons
 ## Signs It's Time to Find Someone New
 
 > **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 These aren't vague "trust your gut" platitudes. These are concrete signals worth taking seriously.
 
@@ -74,7 +71,7 @@ If you raise it and genuinely nothing changes across the next few sessions, you'
 
 This is the part that trips people up logistically. The process doesn't have to be dramatic.
 
-**Step 1: Decide on your next priorities.** Before you search, get clear on what you want differently. A different modality (like EMDR or DBT instead of general talk therapy)? A specialist in a particular area? A different communication style? Write it down. It'll make the search much faster.
+**Step 1: Decide on your next priorities.** Before you search, get clear on what you want differently. A different modality, like EMDR or DBT instead of general talk therapy? A specialist in a particular area? A different communication style? Write it down. It'll make the search much faster.
 
 **Step 2: Check your insurance coverage again.** Coverage can change. Call your insurance company or log into your member portal and search specifically for in-network therapists who accept new clients. This step alone can save you hours of frustration.
 
@@ -106,11 +103,6 @@ Guilt can also show up as second-guessing. "What if I'm just being avoidant?" Ma
 
 Switching therapists, when done thoughtfully, isn't giving up. It's the opposite.
 
----
-
-
----
-
 The decision to switch therapists is rarely dramatic. It usually just starts with a quiet feeling, like the one that brought you here. Trust that feeling enough to take one concrete step, whether that's having an honest conversation with your current therapist or looking up two new names in a directory. Either way, you're still showing up for yourself. That counts for a lot.
 
 ## Helpful Resources
@@ -135,12 +127,9 @@ The decision to switch therapists is rarely dramatic. It usually just starts wit
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

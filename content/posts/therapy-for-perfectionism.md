@@ -25,7 +25,6 @@ author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
 
 ---
-
 Most perfectionists don't think they have a problem. They think they have standards.
 
 I've heard that line, or some version of it, more times than I can count. Someone gets referred to me for a consultation and they'll spend the first ten minutes explaining why their need for control is actually just conscientiousness, professionalism, high expectations they've earned the right to have. And then somewhere around minute fifteen, they mention they've rewritten the same email fourteen times. That they haven't started a project because they can't guarantee it'll go well. That they cried in their car after getting a 94 on something.
@@ -38,33 +37,29 @@ The good news is that therapy works for this. Really works. But what kind of the
 
 Perfectionism isn't a diagnosis in the DSM-5, which trips people up. You won't get a "perfectionism disorder" code on your insurance paperwork. What you will get are diagnoses like generalized anxiety disorder, OCD, major depression, or an eating disorder, because perfectionism is almost always interwoven with at least one of those.
 
-This matters because it shapes treatment. The perfectionism isn't usually the root; it's a strategy. A way of managing fear. Fear of judgment, of failure, of being seen as inadequate. Therapy needs to get underneath that, which means a good therapist will spend time understanding what the perfectionism is protecting you from before they try to dismantle any of it.
+This matters because it shapes treatment. The perfectionism isn't usually the root; it's a strategy. A way of managing fear. Fear of judgment, of failure, of being seen as inadequate. A good therapist will spend time understanding what the perfectionism is protecting you from before they try to dismantle any of it.
 
-What most people don't realize is that not all perfectionism looks the same. There's self-oriented perfectionism (brutal standards for yourself), other-oriented perfectionism (brutal standards for everyone around you), and socially prescribed perfectionism, where you're convinced the world is holding you to impossible standards. A 2017 study in *Psychological Bulletin* found that socially prescribed perfectionism has risen significantly since the 1980s, and it's the type most strongly linked to depression, anxiety, and suicidal ideation. The therapy approach for each of these can look quite different.
+Here's what most people miss: not all perfectionism looks the same. There's self-oriented perfectionism (brutal standards for yourself), other-oriented perfectionism (brutal standards for everyone around you), and socially prescribed perfectionism, where you're convinced the world is holding you to impossible standards. A 2017 study in *Psychological Bulletin* found that socially prescribed perfectionism has risen significantly since the 1980s, and it's the type most strongly linked to depression, anxiety, and suicidal ideation. Each of these requires a somewhat different therapy approach.
 
 ## The Therapy Types Worth Knowing
 
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+**Cognitive Behavioral Therapy (CBT)** is the most researched and probably the most common starting point for perfectionism. It works by identifying the specific thoughts driving perfectionistic behavior ("If I make a mistake, people will think I'm incompetent") and systematically testing them against reality. A 2017 trial published in *Cognitive Behaviour Therapy* found that a guided CBT self-help program produced significant reductions in perfectionism and associated anxiety and depression.
 
+If you want to work on this between sessions, a structured workbook helps. *The CBT Workbook for Perfectionism* by Sharon Martin is one I've recommended to a lot of people. It's practical and actually asks you to do things, not just read.
 
+**ACT (Acceptance and Commitment Therapy)** takes a different angle. Instead of challenging whether your thoughts are rational, it teaches you to hold them more lightly. You notice "there's that thought again that I'll be humiliated if this isn't perfect" without fusing to it, without treating it as fact, and you act according to your values anyway. For people who've done CBT and found themselves outsmarting their own thought records, ACT is often the next move. It lands especially well with high-achievers who have a lot of insight into their patterns but can't seem to stop them.
 
-**Cognitive Behavioral Therapy (CBT)** is the most researched and probably the most common starting point for perfectionism. It works by identifying the specific thoughts driving perfectionistic behavior ("If I make a mistake, people will think I'm incompetent") and systematically testing them against reality. There's good evidence behind it. A 2017 trial published in *Cognitive Behaviour Therapy* found that a guided CBT self-help program produced significant reductions in perfectionism and associated anxiety and depression.
+**OCD-focused therapies**, specifically ERP (Exposure and Response Prevention), matter more than people expect. A meaningful subset of clinical perfectionism overlaps with OCD, particularly around things like symmetry, "just right" feelings, and compulsive checking or redoing. If your perfectionism has a compulsive quality to it, seek out a therapist trained specifically in ERP. Not every CBT therapist has that training.
 
-If you want to work on this between sessions, a structured workbook can help you build the skill outside of a therapist's office. *The CBT Workbook for Perfectionism* by Sharon Martin is one I've recommended to a lot of people (the site may earn a small commission if you buy through the link). It's practical and actually asks you to do things, not just read.
-
-**ACT (Acceptance and Commitment Therapy)** takes a different angle. Instead of challenging whether your thoughts are rational, it teaches you to hold them more lightly. You learn to notice "there's that thought again that I'll be humiliated if this isn't perfect" without fusing to it, without treating it as fact, and to act according to your values anyway. For people who've done CBT and found themselves outsmarting their own thought records, ACT is often the move. I've seen it land especially well with high-achievers who have a lot of insight into their patterns but can't seem to stop them.
-
-**OCD-focused therapies**, specifically ERP (Exposure and Response Prevention), matter here more than people expect. A meaningful subset of clinical perfectionism overlaps with OCD, particularly around things like symmetry, "just right" feelings, and compulsive checking or redoing. If your perfectionism has a compulsive quality to it, a therapist trained in ERP is worth seeking out specifically. Not every CBT therapist is trained in ERP.
-
-**Schema Therapy and psychodynamic approaches** tend to go deeper into where perfectionism came from. If yours is rooted in early messages about conditional love or being valued only for achievement, a longer-term relational approach may eventually do more than symptom-focused work alone. That said, it's slower and often pricier, and I'd typically suggest starting with CBT or ACT unless you're already finding that short-term approaches aren't holding.
+**Schema Therapy and psychodynamic approaches** go deeper into where perfectionism came from. If yours is rooted in early messages about conditional love or being valued only for achievement, a longer-term relational approach may do more than symptom-focused work alone. That said, it's slower and often pricier, and I'd typically suggest starting with CBT or ACT unless short-term approaches have already let you down.
 
 ## Finding Someone Who Actually Gets This
 
-Here's the frustrating part. "Perfectionism" isn't a specialty most therapists list, so searching for it directly is mostly useless. What you want is someone who explicitly lists anxiety disorders, OCD, or self-esteem as their focus, and who uses CBT, ACT, or ERP as their primary modalities.
+Here's the frustrating part: "perfectionism" isn't a specialty most therapists list, so searching for it directly is mostly useless. What you want is someone who explicitly lists anxiety disorders, OCD, or self-esteem as their focus, and who uses CBT, ACT, or ERP as their primary modalities.
 
 [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by issue and approach, which genuinely helps narrow things down. If cost or access is a barrier, [SAMHSA's treatment locator](https://findtreatment.gov/) connects you to community mental health centers and sliding-scale options.
 
-Don't be afraid to ask a therapist directly in a consultation call: "Do you have experience treating perfectionism and anxiety, and what's your approach?" A good therapist won't be thrown by that. A vague or defensive answer is information.
+Ask a therapist directly in a consultation call: "Do you have experience treating perfectionism and anxiety, and what's your approach?" A good therapist won't be thrown by that. A vague or defensive answer tells you something.
 
 ## What Therapy For Perfectionism Actually Looks Like
 
@@ -72,10 +67,7 @@ Expect the early sessions to involve a lot of assessment. Where does the perfect
 
 The discomfort comes in the middle phase. Behavioral experiments in CBT will ask you to intentionally do things imperfectly and sit with the fallout (which is usually far less catastrophic than predicted). In ERP, you might be asked to submit something without proofreading it, or to leave a task deliberately incomplete and not fix it. This is uncomfortable. It's supposed to be. That discomfort is where the rewiring happens.
 
-Progress is rarely linear. Most people I've worked with describe a period around session six to ten where they feel worse before they feel better, because therapy is making the automatic stuff conscious, and that's temporarily harder to carry. It levels out. They usually come out the other side with a qualitatively different relationship to their own work and to the possibility of failure.
-
----
-
+Progress is rarely linear. Most people describe a period around session six to ten where they feel worse before they feel better, because therapy is making the automatic stuff conscious, and that's temporarily harder to carry. It levels out. They usually come out the other side with a qualitatively different relationship to their own work and to the possibility of failure.
 
 ## Helpful Resources
 
@@ -105,4 +97,3 @@ Progress is rarely linear. Most people I've worked with describe a period around
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

@@ -25,22 +25,19 @@ author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
 
 ---
-
 Maybe you've been going to therapy for six weeks, or six months, and you're sitting in the parking lot before a session wondering: *Is this actually doing anything?* You're not sure if what you're feeling is progress or just… talking. You don't want to seem ungrateful, and you're not ready to quit, but the question is sitting there, quietly, and it won't leave.
 
 That question is one of the most common things people bring to me, and it deserves a real answer.
 
 Therapy isn't like a broken arm. There's no X-ray to confirm the healing. Progress is often invisible before it becomes obvious, and the markers that actually matter aren't always the ones people expect. Here's what I tell people who are genuinely trying to figure this out: the answer lives in small moments between sessions, not in some dramatic turning point.
 
----
-
 ## What Progress in Therapy Actually Looks Like
 
-Most people start therapy with a specific picture in their head. They imagine they'll feel *better*, that the anxiety or grief or numbness will lift like fog on a sunny morning. And sometimes that does happen. But more often, the first signs of progress are quieter and stranger than that.
+Most people start therapy with a specific picture in their head. They imagine they'll feel *better*, that the anxiety or grief or numbness will lift like fog on a sunny morning. Sometimes that does happen. But more often, the first signs of progress are quieter and stranger than that.
 
 You might notice that you had a difficult conversation at work and didn't replay it for three days afterward. Or that you caught yourself mid-spiral and thought, "Oh, this is that pattern my therapist mentioned." That moment of recognition, even without resolution, is real progress. It means the work is building self-awareness, which is foundational to almost every therapeutic approach.
 
-I've seen clients go six to eight weeks feeling like nothing was shifting, and then describe a week where they handled three different stressors "the way I wish I used to." That's not a coincidence. That's the lag between insight and integration.
+I've seen clients go six to eight weeks feeling like nothing was shifting, then describe a week where they handled three different stressors "the way I wish I used to." That's not a coincidence. It's the lag between insight and integration.
 
 Progress in therapy often looks like:
 
@@ -52,17 +49,11 @@ Progress in therapy often looks like:
 
 None of these are dramatic. That's the point.
 
----
-
 ## Red Flags That Therapy Might Not Be Working
-
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's a harder truth: sometimes therapy really isn't working, and not because therapy itself is broken. The fit, the approach, or the timing might be off.
 
-There's a difference between the discomfort of doing real work and the stagnation of spinning your wheels. Therapy should sometimes feel uncomfortable. But after a reasonable amount of time (typically three to six months for many people, though this varies widely depending on what you're addressing), you should be able to point to *something* that's shifted.
+There's a difference between the discomfort of doing real work and the stagnation of spinning your wheels. Therapy should sometimes feel uncomfortable. But after a reasonable amount of time, typically three to six months for many people, though this varies widely depending on what you're addressing, you should be able to point to *something* that's shifted.
 
 Watch for these signs that something needs to change:
 
@@ -76,13 +67,11 @@ Watch for these signs that something needs to change:
 
 **You're performing wellness rather than experiencing it.** This one is subtle. Some people get good at saying the right things in therapy without actually letting it in. If you notice you're managing your therapist's perception of your progress more than engaging honestly, that's worth naming directly in session.
 
----
-
 ## How Different Therapy Types Show Progress Differently
 
-You might be wondering why this matters. It matters because the *timeline* and *texture* of progress look genuinely different depending on what kind of therapy you're in.
+The *timeline* and *texture* of progress look genuinely different depending on what kind of therapy you're in.
 
-**Cognitive Behavioral Therapy (CBT)** is goal-oriented and usually time-limited. Progress here tends to be more measurable: you're completing thought records, your depression symptom scores (therapists often use tools like the PHQ-9) are trending down, you're practicing exposures. If you're in CBT and can't point to any behavioral change after 8-12 sessions, raise that with your therapist.
+**Cognitive Behavioral Therapy (CBT)** is goal-oriented and usually time-limited. Progress tends to be more measurable: you're completing thought records, your depression symptom scores (therapists often use tools like the PHQ-9) are trending down, you're practicing exposures. If you're in CBT and can't point to any behavioral change after 8-12 sessions, raise that with your therapist.
 
 **Psychodynamic or insight-oriented therapy** works on a longer timeline and through a different mechanism. Progress might look like gradually understanding why you keep choosing emotionally unavailable partners, or connecting a current fear to something much older. This isn't slower because it's worse; it's addressing deeper roots.
 
@@ -90,13 +79,11 @@ You might be wondering why this matters. It matters because the *timeline* and *
 
 **DBT (Dialectical Behavior Therapy)** focuses on skills. Progress is trackable through your use of those skills in real situations: distress tolerance, emotional regulation, interpersonal effectiveness.
 
-Knowing your modality helps you evaluate your progress honestly. A tool like [this CBT journal on Amazon](https://www.amazon.com/s?k=CBT+journal+therapy+workbook) can help you track patterns between sessions and see movement you might otherwise miss. (Disclosure: this site may earn a commission from qualifying purchases.)
-
----
+Knowing your modality helps you evaluate your progress honestly. A tool like [this CBT journal on Amazon](https://www.amazon.com/s?k=CBT+journal+therapy+workbook) can help you track patterns between sessions and see movement you might otherwise miss. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## A Practical Way to Assess Your Own Progress
 
-I recommend something I call a "before and now" check-in. It's simple, but doing it intentionally makes a difference. Here's how to do it:
+I recommend something I call a "before and now" check-in. It's simple, but doing it intentionally makes a difference.
 
 **Step 1: Write down why you started therapy.** Be specific. Not "I wanted to feel better," but "I was having panic attacks three times a week" or "I couldn't stop ruminating after any conflict with my partner." If you didn't write it down at the start, reconstruct it as best you can.
 
@@ -117,8 +104,6 @@ I recommend something I call a "before and now" check-in. It's simple, but doing
 | Consistent reduction in symptom severity | Clear progress |
 | No change in 3-6 months and no explanation | Time for a direct conversation |
 
----
-
 ## Having the Conversation With Your Therapist
 
 A lot of people never ask their therapist if therapy is working. They either assume the therapist would bring it up, or they're afraid the question will offend. Here's what I want you to know: asking this question is not rude. It's clinically appropriate, and a good therapist will meet it openly.
@@ -130,11 +115,6 @@ If your therapist becomes defensive or dismissive in response to that question, 
 You might also want to bring concrete examples. "Last month I handled this situation differently, and I'm not sure if that's connected to our work" is a great conversation starter. Therapists often see patterns you can't, and this kind of specificity helps them give you better feedback.
 
 The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) also offers guidance on what to expect from mental health treatment and how to advocate for yourself within the system, which can be genuinely useful if you're not sure how to raise concerns.
-
----
-
-
----
 
 Progress in therapy is real even when it's hard to see. The fact that you're asking whether it's working means you're paying attention, and that attention itself is part of the process. You don't have to wait for a revelation. You just have to keep looking at the small moments, keep the conversation honest with your therapist, and trust that growth rarely announces itself before it's already happened.
 
@@ -152,20 +132,13 @@ Progress in therapy is real even when it's hard to see. The fact that you're ask
 - [NIMH, Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies), Authoritative overview of therapy effectiveness and approaches
 - [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Official resource for mental health treatment information
 
-*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
-
----
-
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
-
----
-
----
 
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*

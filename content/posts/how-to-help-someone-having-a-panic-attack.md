@@ -25,7 +25,6 @@ author_title: "Mental Health Writer"
 author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
 
 ---
-
 Most articles about panic attacks spend three paragraphs explaining what a panic attack *is* before they get to anything useful. You're already standing next to someone who's hyperventilating and gripping a table. You don't need a definition.
 
 Here's what you actually need to know.
@@ -44,98 +43,91 @@ Why does this matter for you? Because it explains why saying "calm down" or "you
 
 > **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+Most people rush to reassure. "You're okay! It's just anxiety! This will pass!" All true. Completely useless in the first 30 seconds. It signals that *you're* uncomfortable and want this to stop, which the panicking person reads immediately.
 
+What actually works is quieter. Get at or below their eye level. Steady voice. Slow your own breathing visibly, because humans unconsciously mirror each other.
 
-The wrong move, which almost everyone makes: rushing to reassure. "You're okay! It's just anxiety! This will pass!" All true. Almost never helpful in the first 30 seconds. It signals that you're uncomfortable and want this to stop, which the panicking person can read clearly.
+Try: "I'm right here. You're not alone. Can you feel my hand?" (if touch feels appropriate). Or just: "Look at me."
 
-What actually works is a quieter version of presence. Get at or below their eye level if you can. Steady voice. Slow your own breathing visibly, because humans are genuinely good at unconsciously mirroring each other.
+Don't ask "what's wrong?" It forces them to analyze and explain something they can't explain. Don't fire questions. One slow anchor at a time.
 
-Try something like: "I'm right here. You're not alone. Can you feel my hand?" (if touch is appropriate and welcomed). Or simply: "Look at me. Just look at me for a second."
-
-Don't ask "what's wrong?" It requires them to analyze and explain a state they can't explain. Don't fire questions. One slow, simple anchor at a time.
-
-If they're a stranger in public, this is harder. I'd still recommend getting low, speaking quietly, and asking "Can I stay with you for a minute?" Most people say yes. Some need you to identify yourself as non-threatening first, especially if they've had trauma.
+With a stranger in public, get low, speak quietly, and ask "Can I stay with you for a minute?" Most say yes. Some need you to identify yourself as non-threatening first, especially if they've experienced trauma.
 
 ---
 
 ## The breathing thing (done correctly)
 
-You've probably heard "breathe into a paper bag." That's outdated and actually counterproductive in most cases. Skip it.
+Paper bags are outdated and usually counterproductive. Skip that.
 
-What works is extending the exhale. Breathing out longer than you breathe in activates the parasympathetic nervous system, which is the brake pedal to adrenaline's gas pedal. The specific technique that has the most research support for acute anxiety is called box breathing (or 4-4-4-4), but honestly, the exact count matters less than the principle.
+What works is extending the exhale. Breathing out longer than you breathe in activates the parasympathetic nervous system, the brake pedal to adrenaline's gas pedal. Box breathing (4-4-4-4) has the most research support for acute anxiety, though the exact count matters less than the principle.
 
-Here's a version that works in a real panic moment:
+Here's a version that actually works when someone's panicking:
 
 1. Tell them to breathe in through the nose for a slow count of 4 (you count out loud, calmly).
 2. Hold for 4.
-3. Breathe out through the mouth for 6 to 8 counts. Slow. Audible is fine.
+3. Breathe out through the mouth for 6 to 8 counts. Slow. Audible works fine.
 4. Repeat.
 
-Key: do it *with* them. Breathe visibly yourself. "Breathe with me" works significantly better than "breathe slowly." You're giving their nervous system something external to sync to. This is not a metaphor. It's how co-regulation actually functions.
+Critical part: do it *with* them. Breathe visibly yourself. "Breathe with me" works way better than "breathe slowly." You're giving their nervous system something external to sync to. This isn't metaphorical. It's how co-regulation functions.
 
-If they can't do 4 counts yet, start with whatever they can manage. Even slightly elongating the exhale helps. Don't make the breathing exercise a new source of pressure.
+If they can't manage 4 counts yet, start smaller. Even slightly elongating the exhale helps. Don't turn the breathing exercise into another thing they're failing at.
 
 ---
 
 ## Grounding: the underrated tool
 
-Breathing is the first tool. Grounding is the second, and it's often more accessible when someone is too panicked to follow breathing instructions.
+Breathing is first. Grounding is second, and often more accessible when someone's too panicked for breathing instructions.
 
-The classic version is the 5-4-3-2-1 technique: name 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, 1 you can taste. It works because it forces sensory attention outward, which interrupts the inward spiral.
+The 5-4-3-2-1 technique works: name 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, 1 you can taste. It forces sensory attention outward, interrupting the spiral inward.
 
-In practice, guide it as a conversation. "Look around. Tell me one thing you see." Wait. "Okay, now one more." You're not drilling them, you're giving them something concrete to reach for.
+Guide it as conversation. "Look around. Tell me one thing you see." Wait. "Okay, one more." You're not drilling them. You're giving them something concrete to hold.
 
-Cold water is also underrated here. If you're near a sink, cold water on the wrists or the face can physically interrupt the body's stress response. Not ice, not dramatic. Just cold tap water.
+Cold water gets overlooked. If you're near a sink, cold water on the wrists or face can physically interrupt the stress response. Not ice. Just cold tap water.
 
-Another one that doesn't get enough credit: physical weight or pressure. If the person is okay with it, a hand on the shoulder, or even just asking them to press their feet flat on the floor and notice the pressure, can help. There's a reason weighted blankets (something like the [YnM Weighted Blanket](https://www.amazon.com/dp/B01LYNTIHY/?tag=contentportfo-20) gets consistent reviews for anxiety) have a real following. Proprioceptive input seems to help calm an activated nervous system. (Disclosure: this site may earn a small commission on Amazon purchases.)
+Physical weight or pressure also works. If they're comfortable with it, a hand on the shoulder or asking them to press their feet flat on the floor and notice the pressure helps. Weighted blankets like the [YnM Weighted Blanket](https://www.amazon.com/dp/B01LYNTIHY/?tag=contentportfo-20) have real research backing. Proprioceptive input seems to calm an activated nervous system. (Disclosure: this site may earn a small commission on Amazon purchases.)
 
 ---
 
 ## What to do after the acute phase
 
-A panic attack usually peaks within 10 minutes and most resolve within 20 to 30. After the worst passes, the person will often feel exhausted, embarrassed, or both.
+Most panic attacks peak within 10 minutes and resolve in 20 to 30. After the worst passes, the person will feel exhausted, embarrassed, or both.
 
-Don't immediately launch into "so what triggered that?" Not helpful. Not the moment.
+Don't immediately ask "so what triggered that?" Not the moment for it.
 
-What they might need: water, a place to sit quietly, a few minutes without having to manage your reaction to what just happened. Let them set the pace for what comes next.
+They might need water. A quiet place to sit. A few minutes where they don't have to manage your reaction to what just happened. Let them set the pace for what comes next.
 
-If they want to talk, let them lead. If they say they're fine and want to move on, respect that. The post-panic phase is fragile; people are often still shaky and feel acutely self-conscious.
+If they want to talk, let them lead. If they say they're fine and want to move on, respect that. The post-panic phase is fragile. People are shaky and acutely self-conscious.
 
-One thing worth gently offering, not pushing: if this is happening regularly, panic disorder is very treatable. Cognitive behavioral therapy, specifically a protocol called Panic Control Treatment developed by David Barlow at Boston University, has decades of strong outcome data. [SAMHSA's treatment locator](https://findtreatment.gov/) is a legitimate, free way to find providers if someone doesn't know where to start.
+One thing worth gently offering, not pushing: if this happens regularly, panic disorder is highly treatable. Cognitive behavioral therapy, specifically Panic Control Treatment developed by David Barlow at Boston University, has decades of strong research. [SAMHSA's treatment locator](https://findtreatment.gov/) is a legitimate, free way to find providers if someone doesn't know where to start.
 
 ---
 
 ## When to actually call for help
 
-Here's where I'll be direct, because some articles are weirdly vague on this.
-
 Call 911 if:
 
 - The person loses consciousness or can't be roused.
-- Chest pain is severe, radiates to the arm or jaw, and doesn't ease as the panic symptoms start to reduce.
+- Chest pain is severe, radiates to the arm or jaw, and doesn't ease as the panic symptoms start to plateau.
 - They have a known heart condition.
-- Symptoms are getting significantly worse after 20 minutes rather than starting to plateau.
+- Symptoms are getting significantly worse after 20 minutes instead of starting to level off.
 
-Panic attacks and heart attacks can genuinely feel identical to the person experiencing them. If there's any real doubt about whether this is cardiac, err toward calling. Don't let the label "panic attack" prevent you from taking something serious seriously.
+Panic attacks and heart attacks can feel identical to the person experiencing them. If there's real doubt about whether this is cardiac, call. Don't let the "panic attack" label prevent you from taking something serious seriously.
 
-If the person expresses thoughts of suicide or self-harm during or after the episode, don't try to handle that alone. The [988 Suicide and Crisis Lifeline](https://988lifeline.org/) is available by call or text, and it's staffed by trained counselors, not automated systems.
+If the person expresses thoughts of suicide or self-harm during or after the episode, don't handle that alone. The [988 Suicide and Crisis Lifeline](https://988lifeline.org/) is available by call or text, staffed by trained counselors, not automated systems.
 
 ---
 
 ## Building your own toolkit
 
-If you live with or care for someone who has panic disorder, preparing in advance makes you significantly more effective in the moment. Talk to them about what helps *them* specifically, because this varies more than most articles admit. Some people want to be touched during a panic attack. Some find touch overwhelming. Some want you talking. Some need silence.
+If you live with or care for someone who has panic disorder, preparing in advance makes you significantly more effective in the moment. Talk to them about what helps *them* specifically. This varies way more than most articles admit. Some people want touch during a panic attack. Others find it overwhelming. Some want talking. Some need silence.
 
-A few practical resources worth having: a grounding workbook like [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1606239422/?tag=contentportfo-20) is one of the better CBT-based self-help books, grounded in real research rather than wellness-speak. For daily practice, a structured mindfulness journal can help someone build the emotional regulation habits that reduce panic frequency over time. [The Five Minute Journal](https://www.amazon.com/dp/0991846206/?tag=contentportfo-20) is simple and consistently recommended by therapists for good reason. (Disclosure: commission may apply.)
+A few practical resources worth having: [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1606239422/?tag=contentportfo-20) is one of the better CBT-based self-help books, grounded in real research rather than wellness-speak. For daily practice, a structured mindfulness journal can help someone build the emotional regulation habits that reduce panic frequency over time. [The Five Minute Journal](https://www.amazon.com/dp/0991846206/?tag=contentportfo-20) is simple and consistently recommended by therapists. (Disclosure: commission may apply.)
 
-The research on mindfulness-based interventions for panic disorder is mixed at the severity-reduction level, but for general anxiety and stress reactivity, a 2014 study in JAMA Internal Medicine found meaningful improvements from mindfulness meditation programs. It won't cure panic disorder, but it's not nothing.
-
----
-
+Mindfulness research for panic disorder is mixed at the severity-reduction level, but a 2014 JAMA Internal Medicine study found meaningful improvements from mindfulness meditation programs for general anxiety and stress reactivity. It won't cure panic disorder. But it's not nothing.
 
 ---
 
-The single most useful thing you can bring to someone mid-panic is a regulated nervous system of your own. Not answers. Not fixes. Steadiness. That's harder than it sounds, and it's the part no checklist can fully give you. But it's also learnable, which is probably the most useful thing to know.
+The single most useful thing you can bring to someone mid-panic is a regulated nervous system of your own. Not answers. Not fixes. Steadiness. That's harder than it sounds, and it's the part no checklist fully gives you. But it's learnable, which is probably the most useful thing to know.
 
 ## Helpful Resources
 
@@ -166,4 +158,3 @@ The single most useful thing you can bring to someone mid-panic is a regulated n
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

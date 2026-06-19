@@ -25,7 +25,6 @@ author_title: "Mental Health Writer"
 author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
 
 ---
-
 Most couples spend more time picking a wedding venue than they do preparing for the marriage itself. That's not a criticism, it's just how it goes. The wedding industry is loud and immediate, with vendors and timelines and Pinterest boards demanding constant attention. The actual relationship, the one that will outlast the flowers and the open bar, gets squeezed into whatever's left. Premarital counseling exists precisely to correct that imbalance, and the research backs it up: couples who participate in premarital education report significantly higher marital satisfaction and meaningfully lower divorce rates compared to those who don't. Not a small effect. Worth paying attention to.
 
 ## What Premarital Counseling Actually Is (And Isn't)
@@ -39,10 +38,6 @@ It's different from marriage counseling, which usually starts after patterns hav
 Some premarital counseling is faith-based, offered through a church, synagogue, or mosque, and that's a legitimate route for couples for whom spiritual alignment is central to the marriage. Secular options through licensed therapists are equally valid and usually draw from evidence-based models like the Gottman Method or Emotionally Focused Therapy. Neither is objectively better. What matters is fit.
 
 ## The Specific Benefits, Ranked by Impact
-
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Not all premarital counseling gains are created equal. Here's what the research and my experience both point to as the highest-value outcomes:
 
@@ -92,20 +87,9 @@ Therapy sessions are an hour, maybe 90 minutes. The rest of your week is long. M
 
 Workbooks designed around Cognitive Behavioral Therapy (CBT) principles can help couples identify automatic negative thoughts and communication patterns independently. Mindfulness tools and guided meditation practices are useful if one or both partners struggle with emotional regulation during conflict. For couples who find journaling helpful, a dedicated relationship journal that prompts reflection on shared values, daily appreciations, and conflict patterns can keep the work alive between appointments.
 
-A few good resources are available if you want to supplement your sessions (note: this site may earn a small commission on purchases through these links):
+[The Seven Principles for Making Marriage Work](https://www.amazon.com/Seven-Principles-Making-Marriage-Work/dp/0553447718) by John Gottman is the clearest lay-reader version of research-backed relationship science. It's not a substitute for a therapist, but it's the best homework assignment I've seen. For couples interested in mindfulness-based approaches, Jon Kabat-Zinn's work on stress reduction translates well to relationship contexts, and his audiobook format makes it accessible for busy people. A structured CBT journal like [The Couples Therapy Workbook](https://www.amazon.com/Couples-Therapy-Workbook-Relationship-Strengthening/dp/1623155800) can give partners concrete exercises to practice between sessions.
 
-[The Seven Principles for Making Marriage Work](https://www.amazon.com/Seven-Principles-Making-Marriage-Work/dp/0553447718) by John Gottman is the clearest lay-reader version of research-backed relationship science. It's not a substitute for a therapist, but it's the best homework assignment I've seen.
-
-For couples interested in mindfulness-based approaches, Jon Kabat-Zinn's work on stress reduction translates well to relationship contexts, and his audiobook format makes it accessible for busy people.
-
-A structured CBT journal like [The Couples Therapy Workbook](https://www.amazon.com/Couples-Therapy-Workbook-Relationship-Strengthening/dp/1623155800) can give partners concrete exercises to practice between sessions.
-
----
-
-
----
-
-Marriage is genuinely hard, in the best possible way, in the way that anything worth doing is hard. The couples I've seen benefit most from premarital counseling aren't the ones who walked in with the most problems. They're the ones who walked in most willing to be honest. That's the actual prerequisite. A good therapist will handle the rest.
+Marriage is genuinely hard, in the best possible way, in the way that anything worth doing is hard. The couples I've seen benefit most from premarital counseling aren't the ones who walked in with the most problems. They're the ones who walked in most willing to be honest. That's the actual prerequisite.
 
 ## Helpful Resources
 
@@ -128,12 +112,9 @@ Marriage is genuinely hard, in the best possible way, in the way that anything w
 
 ---
 
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-
