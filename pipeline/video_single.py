@@ -10,7 +10,7 @@ Called by .github/workflows/video.yml in each site repo.
 All config comes from environment variables (GitHub Actions secrets/vars).
 """
 
-import os, sys, json, time, re, subprocess
+import io, os, sys, json, time, re, subprocess
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -204,6 +204,74 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
                 used_ids.add(vid["id"])
 
     return selected[:count]
+
+
+# ── Thumbnail generation ──────────────────────────────────────────────────────
+
+def generate_thumbnail(title: str, domain: str) -> bytes:
+    """Create a 1280x720 PNG thumbnail with the video title and domain."""
+    from PIL import Image, ImageDraw, ImageFont
+
+    W, H = 1280, 720
+    img = Image.new("RGB", (W, H), "#1a0702")
+    draw = ImageDraw.Draw(img)
+
+    # Vertical gradient: dark maroon at top → warm orange-red at bottom
+    for y in range(H):
+        t = y / H
+        r_ch = int(0x1a + (0xc2 - 0x1a) * t)
+        g_ch = int(0x07 + (0x41 - 0x07) * t)
+        b_ch = int(0x02 + (0x0c - 0x02) * t)
+        draw.line([(0, y), (W, y)], fill=(r_ch, g_ch, b_ch))
+
+    # Try to load a bold system font; fall back to PIL default
+    title_font = domain_font = None
+    for fp in [
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+        "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf",
+    ]:
+        if Path(fp).exists():
+            title_font = ImageFont.truetype(fp, 80)
+            domain_font = ImageFont.truetype(fp, 38)
+            break
+    if not title_font:
+        title_font = domain_font = ImageFont.load_default()
+
+    # Word-wrap title to fit within 1160px
+    words = title.split()
+    lines, cur = [], []
+    for word in words:
+        test = " ".join(cur + [word])
+        bbox = draw.textbbox((0, 0), test, font=title_font)
+        if bbox[2] > W - 120 and cur:
+            lines.append(" ".join(cur))
+            cur = [word]
+        else:
+            cur.append(word)
+    if cur:
+        lines.append(" ".join(cur))
+
+    # Draw title centered vertically (offset upward a bit for domain)
+    line_h = 96
+    total_h = len(lines) * line_h
+    y = (H - total_h) // 2 - 30
+    for line in lines:
+        bbox = draw.textbbox((0, 0), line, font=title_font)
+        x = (W - (bbox[2] - bbox[0])) // 2
+        draw.text((x + 3, y + 3), line, font=title_font, fill=(0, 0, 0, 160))
+        draw.text((x, y), line, font=title_font, fill="#FFFFFF")
+        y += line_h
+
+    # Domain label at bottom
+    bbox = draw.textbbox((0, 0), domain, font=domain_font)
+    dx = (W - (bbox[2] - bbox[0])) // 2
+    draw.text((dx + 1, H - 60 + 1), domain, font=domain_font, fill=(0, 0, 0, 120))
+    draw.text((dx, H - 60), domain, font=domain_font, fill="#FFFFFFBB")
+
+    buf = io.BytesIO()
+    img.save(buf, "PNG")
+    return buf.getvalue()
 
 
 # ── Step 5: Upload file ───────────────────────────────────────────────────────
@@ -439,6 +507,43 @@ def upload_to_youtube(video_bytes: bytes, script: dict, article: dict) -> str:
     return up_r.json()["id"]
 
 
+def set_youtube_thumbnail(video_id: str, png_bytes: bytes) -> bool:
+    """Upload a custom thumbnail. Returns False (not an error) if channel not phone-verified."""
+    token = get_access_token()
+    r = requests.post(
+        f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set"
+        f"?videoId={video_id}&uploadType=media",
+        headers={"Authorization": f"Bearer {token}", "Content-Type": "image/png"},
+        data=png_bytes, timeout=30,
+    )
+    if r.status_code == 403:
+        print("  Thumbnail: channel not phone-verified — skipping (visit youtube.com/verify to enable)")
+        return False
+    if r.status_code in (200, 204):
+        print("  Thumbnail: set OK")
+        return True
+    print(f"  Thumbnail: HTTP {r.status_code} — {r.text[:80]}")
+    return False
+
+
+def verify_upload_channel() -> None:
+    """Abort early if the token maps to the wrong channel — prevents misrouted uploads."""
+    token = get_access_token()
+    r = requests.get(
+        "https://www.googleapis.com/youtube/v3/channels?part=id&mine=true",
+        headers={"Authorization": f"Bearer {token}"}, timeout=15,
+    )
+    items = r.json().get("items", [])
+    if not items:
+        print("[ABORT] Could not verify YouTube channel identity")
+        sys.exit(1)
+    actual = items[0]["id"]
+    if actual != YOUTUBE_CHANNEL_ID:
+        print(f"[ABORT] Token routes to {actual}, expected {YOUTUBE_CHANNEL_ID} — fix YOUTUBE_REFRESH_TOKEN secret")
+        sys.exit(1)
+    print(f"  Channel: {actual}")
+
+
 # ── Step 9: Commit data/youtube.json ─────────────────────────────────────────
 
 def commit_youtube_json(article: dict, script: dict, video_id: str):
@@ -474,6 +579,10 @@ def main():
     if DRY_RUN:
         print("[DRY RUN] Will stop after audio synthesis")
 
+    print("STEP 0: Verifying upload channel...")
+    if not DRY_RUN:
+        verify_upload_channel()
+
     print("STEP 1: Reading latest article...")
     article = read_latest_article()
     if not article:
@@ -486,6 +595,14 @@ def main():
     print(f"  YT Title: {script['title']}")
     print(f"  Hook: {script['hook'][:80]}...")
 
+    print("STEP 2b: Generating thumbnail image...")
+    try:
+        thumbnail_png = generate_thumbnail(script["title"], SITE_DOMAIN)
+        print(f"  Thumbnail: {len(thumbnail_png)//1024} KB PNG")
+    except Exception as e:
+        print(f"  Thumbnail generation failed: {e} — will skip thumbnail upload")
+        thumbnail_png = None
+
     print("STEP 3: Synthesizing audio via ElevenLabs...")
     audio, words = synthesize_audio(script)
     audio_duration = words[-1]["end"] if words else 60.0
@@ -494,7 +611,9 @@ def main():
     if DRY_RUN:
         Path("narration.mp3").write_bytes(audio)
         Path("script.json").write_text(json.dumps(script, indent=2))
-        print("[DRY RUN] Saved narration.mp3 and script.json — done.")
+        if thumbnail_png:
+            Path("thumbnail.png").write_bytes(thumbnail_png)
+        print("[DRY RUN] Saved narration.mp3, script.json, thumbnail.png — done.")
         return
 
     print("STEP 4: Fetching Pexels B-roll clips...")
@@ -523,6 +642,10 @@ def main():
     print("STEP 9: Uploading to YouTube...")
     video_id = upload_to_youtube(video_bytes, script, article)
     print(f"  Published: https://www.youtube.com/shorts/{video_id}")
+
+    if thumbnail_png:
+        print("STEP 9b: Setting custom thumbnail...")
+        set_youtube_thumbnail(video_id, thumbnail_png)
 
     print("STEP 10: Committing youtube.json...")
     commit_youtube_json(article, script, video_id)

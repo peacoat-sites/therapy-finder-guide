@@ -33,7 +33,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Install Python dependencies
-        run: pip install anthropic requests
+        run: pip install anthropic requests pillow
 
       - name: Generate and publish videos
         run: python pipeline/video_single.py ${{ github.event.inputs.dry_run == 'true' && '--dry-run' || '' }}
