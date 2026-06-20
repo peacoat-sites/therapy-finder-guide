@@ -123,7 +123,7 @@
 <div class="stats-strip">
   <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $questions := 0 }}{{ range $posts }}{{ with .Params.faqs }}{{ $questions = add $questions (len .) }}{{ end }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot (int (math.Round (div .WordCount 450.0))) }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (math.Round (div $tot (len $posts))) }}{{ end }}
     <div class="stat-item">
-      {{ $ac := len (where .Site.RegularPages "Section" "posts") }}<span class="stat-counter" data-count="{{ if lt $ac 100 }}100{{ else }}{{ $ac }}{{ end }}"{{ if lt $ac 100 }} data-suffix="+"{{ end }}>—</span>
+      <span class="stat-counter" data-count="100" data-suffix="+">—</span>
       <span class="stat-label">Articles Published</span>
     </div>
     <div class="stat-sep"></div>
