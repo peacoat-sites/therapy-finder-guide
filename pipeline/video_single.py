@@ -169,29 +169,54 @@ def synthesize_audio(script: dict) -> tuple[bytes, list]:
 
 # ── Step 4: Fetch Pexels clips ────────────────────────────────────────────────
 
-def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
+def fetch_pexels_clips(count: int = 4, orientation: str = "portrait", topic: str = "") -> list:
+    # Build article-specific queries first so B-roll matches the video topic.
+    # Fallback to generic niche queries if we don't get enough clips.
+    STOPWORDS = {"the", "a", "an", "and", "or", "but", "in", "on", "at", "to",
+                 "for", "of", "with", "by", "from", "is", "are", "was", "were",
+                 "your", "you", "how", "why", "what", "when", "who", "will",
+                 "that", "this", "these", "those", "can", "cant", "dont", "wont",
+                 "not", "no", "vs", "its"}
+
+    topic_words = []
+    if topic:
+        # Strip punctuation, drop stopwords, keep meaningful content words
+        raw = re.sub(r"[^\w\s]", " ", topic.lower()).split()
+        topic_words = [w for w in raw if w not in STOPWORDS and len(w) > 3]
+
     niche_words = SITE_NICHE.replace(" & ", " ").replace(",", "").split()
-    queries = [
-        SITE_NICHE,
-        " ".join(niche_words[:2]) if len(niche_words) >= 2 else niche_words[0],
-        "professional advice",
-        "helping people",
-    ]
-    selected, used_ids = [], set()
+
+    queries = []
+    # 1. Best 2-3 topic keywords (most specific)
+    if len(topic_words) >= 2:
+        queries.append(" ".join(topic_words[:3]))
+        queries.append(" ".join(topic_words[:2]))
+    elif topic_words:
+        queries.append(topic_words[0])
+    # 2. Niche + first topic word (mid-specificity)
+    if topic_words:
+        queries.append(f"{SITE_NICHE} {topic_words[0]}")
+    # 3. Generic niche fallbacks
+    queries.append(SITE_NICHE)
+    queries.append(" ".join(niche_words[:2]) if len(niche_words) >= 2 else niche_words[0])
+    queries.extend(["professional advice", "helping people"])
+
+    candidates = []
+    seen_ids = set()
     headers = {"Authorization": PEXELS_KEY}
 
     for query in queries:
-        if len(selected) >= count:
+        if len(candidates) >= count * 4:  # collect a wide pool, then sample
             break
         r = requests.get(
             "https://api.pexels.com/videos/search",
             headers=headers,
-            params={"query": query, "per_page": 8, "orientation": orientation, "size": "medium"},
+            params={"query": query, "per_page": 15, "orientation": orientation, "size": "medium"},
         )
         if r.status_code != 200:
             continue
         for vid in r.json().get("videos", []):
-            if len(selected) >= count or vid["id"] in used_ids:
+            if vid["id"] in seen_ids:
                 continue
             files = vid.get("video_files", [])
             if orientation == "portrait":
@@ -200,10 +225,12 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
                 preferred = [f for f in files if f.get("width", 1) > f.get("height", 1) and f.get("height", 0) >= 720]
             chosen = sorted(preferred or files, key=lambda f: f.get("height", 0), reverse=True)
             if chosen:
-                selected.append(chosen[0]["link"])
-                used_ids.add(vid["id"])
+                candidates.append(chosen[0]["link"])
+                seen_ids.add(vid["id"])
 
-    return selected[:count]
+    # Shuffle the pool so the FIRST clip (= auto-thumbnail frame) varies each run
+    random.shuffle(candidates)
+    return candidates[:count]
 
 
 # ── Thumbnail generation ──────────────────────────────────────────────────────
@@ -617,7 +644,7 @@ def main():
         return
 
     print("STEP 4: Fetching Pexels B-roll clips...")
-    clips = fetch_pexels_clips(count=4, orientation="portrait")
+    clips = fetch_pexels_clips(count=4, orientation="portrait", topic=article.get("title", ""))
     print(f"  Found {len(clips)} clips")
 
     print("STEP 5: Uploading audio...")
