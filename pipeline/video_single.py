@@ -11,6 +11,7 @@ All config comes from environment variables (GitHub Actions secrets/vars).
 """
 
 import io, os, sys, json, time, re, subprocess
+import random
 from pathlib import Path
 from datetime import datetime, timezone
 
