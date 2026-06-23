@@ -1301,7 +1301,7 @@ Structure:
         return None
 
     article_md = "".join(getattr(b, "text", "") for b in wmsg.content if getattr(b, "type", "") == "text")
-    article_md = article_md.replace("—", ", ").strip()
+    article_md = _sanitize_content(article_md).strip()
     if len(article_md) < 600:
         print("    [topical] write too short; skipping")
         return None
@@ -1311,7 +1311,7 @@ Structure:
             model="claude-sonnet-4-6", max_tokens=80,
             messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{title}'. Plain text, no quotes."}],
         )
-        description = dmsg.content[0].text.strip().replace('"', "'")[:160]
+        description = _sanitize_content(dmsg.content[0].text.strip().replace('"', "'"))[:160]
     except Exception:
         description = (brief.get("angle", "") or title)[:155]
 
