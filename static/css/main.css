@@ -770,3 +770,18 @@ html { scrollbar-gutter: stable; }
 
 /* -- Ticker speed fix -- */
 .ticker-track{animation-duration:200s}
+
+
+/* ===== Daily polish (2026-06-23): branded form controls + anchor scroll-margin ===== */
+/* Append-only, gracefully degrading -- unsupported browsers ignore these. Safe to delete this whole block. */
+
+/* 1. Brand native form controls (quiz radios/checkboxes, calculator range sliders, progress) */
+input[type="checkbox"], input[type="radio"], input[type="range"], progress {
+  accent-color: var(--accent, #c2410c);
+}
+
+/* 2. Keep in-page anchor jumps (TOC / FAQ links) from landing flush against the top edge */
+h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], :target {
+  scroll-margin-top: 2rem;
+}
+/* ===== end Daily polish (2026-06-23) ===== */
