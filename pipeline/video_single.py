@@ -305,12 +305,13 @@ def generate_thumbnail(title: str, domain: str) -> bytes:
 # ── Step 5: Upload file ───────────────────────────────────────────────────────
 
 def upload_file(data: bytes, filename: str, mime: str) -> str:
-    r = requests.post("https://catbox.moe/user/api.php",
-        data={"reqtype": "fileupload"},
+    # Litterbox (catbox temp storage) — anonymous, 1h expiry, enough for Shotstack render
+    r = requests.post("https://litterbox.catbox.moe/resources/internals/api.php",
+        data={"reqtype": "fileupload", "time": "1h"},
         files={"fileToUpload": (filename, data, mime)}, timeout=60)
     if r.status_code == 200 and r.text.startswith("https://"):
         return r.text.strip()
-    raise RuntimeError(f"catbox upload failed: {r.text[:100]}")
+    raise RuntimeError(f"litterbox upload failed: {r.text[:100]}")
 
 
 def upload_audio(audio_bytes: bytes) -> str:
