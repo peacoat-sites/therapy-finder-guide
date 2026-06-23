@@ -497,11 +497,126 @@ def get_access_token() -> str:
     return d["access_token"]
 
 
+
+# ── AFFILIATE LINK BLOCK ──────────────────────────────────────────────────────
+
+AMAZON_TAG = "contentportfo-20"
+
+VIDEO_AFFILIATE_PRODUCTS = {
+    "mortgage & home financing": [
+        ("1524763438", "The Book on Rental Property Investing"),
+        ("1119697026", "Mortgages for Dummies"),
+        ("0812927427", "The Total Money Makeover"),
+        ("B09VW3KFVK", "Locking File Box for Mortgage Documents"),
+        ("1260116050", "Home Buying Kit for Dummies"),
+    ],
+    "small business finance": [
+        ("1119475347", "Profit First"),
+        ("1591845572", "The E-Myth Revisited"),
+        ("0307465357", "The 4-Hour Work Week"),
+        ("B08MBTZJ7H", "Pendaflex Expandable File Organizer for Business Records"),
+        ("1260455890", "QuickBooks Online: The Complete Guide"),
+    ],
+    "personal injury law": [
+        ("B08MBF3WNH", "Avery Durable Binder with Medical Records Organizer Pockets"),
+        ("1413330045", "How to Win Your Personal Injury Claim (Nolo)"),
+        ("B01N7IXNDR", "Pendaflex Portable File Box for Legal Documents"),
+        ("B09NQT9VXR", "Leuchtturm1917 Hardcover Notebook for Personal Records"),
+        ("B08YKWXNJR", "Fireproof Waterproof Document Bag for Medical and Legal Papers"),
+    ],
+    "mental health & therapy": [
+        ("1572245018", "The Mindfulness and Acceptance Workbook for Anxiety"),
+        ("1626258406", "The Body Keeps the Score"),
+        ("1572244275", "DBT Skills Training Handouts and Worksheets"),
+        ("B09B8LGTDG", "Anxiety Relief Journal with CBT Prompts and Mood Tracker"),
+        ("0143133462", "Maybe You Should Talk to Someone"),
+    ],
+    "solar energy & home solar": [
+        ("B09ZJ1WVGK", "Emporia Vue 2 Home Energy Monitor"),
+        ("B08B4C9R5J", "Jackery Explorer 300 Portable Power Station"),
+        ("B0BVXGN3WK", "Solar Panel Cleaning Brush Kit with Extension Handle"),
+        ("B098PPB3TN", "P3 Kill A Watt Electricity Usage Monitor"),
+        ("B07YTL2HFN", "Renogy 100W 12V Flexible Solar Panel"),
+    ],
+    "pet health & vet care": [
+        ("B09L3GS3L2", "Rayco First Aid Kit for Dogs and Cats"),
+        ("B07FZBKKDQ", "Arm & Hammer Dog Dental Spray"),
+        ("B07RJJ5RCG", "Zesty Paws Hip and Joint Supplement Chews for Dogs"),
+        ("B00XNGNQ58", "FRONTLINE Plus Flea and Tick Treatment for Dogs"),
+        ("B01BMKAGP2", "Thundershirt Classic Dog Anxiety Jacket"),
+    ],
+    "home insurance": [
+        ("B08N5LNQCV", "Honeywell 1104 Fireproof and Waterproof Safe Box"),
+        ("B07WDNRQGK", "Kidde 21005779 Pro 2.5lb ABC Fire Extinguisher"),
+        ("B08KGP3H3M", "Govee WiFi Water Sensor with App Alerts"),
+        ("B07NV9GN3J", "First Alert BRK 3120B Hardwired Smoke and CO Detector"),
+        ("B07XRSJQK1", "Blink Mini Indoor Security Camera 2-Pack"),
+    ],
+    "Medicare & senior health": [
+        ("B08R14NKBC", "iHealth Track Wireless Blood Pressure Monitor"),
+        ("B07RFQPNXS", "AUVON Weekly Pill Organizer with AM/PM Compartments"),
+        ("B09B4QDYXP", "Yes4All Wooden Balance Board for Seniors"),
+        ("B07VD8G5NL", "Copper Compression Knee Support Sleeve"),
+        ("B07W6T9L5J", "MedCenter 31-Day Monthly Pill Organizer"),
+    ],
+    "Keto & Low-Carb Living": [
+        ("B07K5Q5HMH", "Keto-Mojo Blood Ketone & Glucose Meter Kit"),
+        ("1628600160", "The Ketogenic Bible (Wilson & Lowery)"),
+        ("B01N0QEXRD", "Lakanto Golden Monkfruit Sweetener"),
+        ("0983490708", "The Art and Science of Low Carbohydrate Living"),
+        ("B07CKQFKS1", "Perfect Keto Exogenous Ketone Capsules"),
+    ],
+    "RV Life & Van Living": [
+        ("B00EP5SN94", "Camco 44510 Wrap-Around Leveling Blocks"),
+        ("B09ZJ1WVGK", "Renogy 200W Solar Panel Bundle for RVs"),
+        ("B009G9F9HU", "MaxxAir MaxxFan Deluxe Roof Vent Fan"),
+        ("1510730575", "Living the RV Life (Marc & Julie Bennett)"),
+        ("B00OQVZDJM", "Coleman RoadTrip 285 Portable Propane Grill"),
+    ],
+    "senior fitness & exercise": [
+        ("B001RG31JY", "TheraBand CLX Resistance Band for Seniors"),
+        ("B07FHKB2W4", "Yes4All Vinyl Coated Cast Iron Dumbbells"),
+        ("0761147187", "Younger Next Year (Crowley & Lodge)"),
+        ("B01MS7EHBT", "BalanceFrom 3-in-1 Foam Yoga and Exercise Mat"),
+        ("B09B4QDYXP", "Yes4All Wooden Balance Board"),
+    ],
+    "Backyard Chickens & Poultry": [
+        ("B07FLWVBNQ", "RentACoop Automatic Chicken Coop Door Opener"),
+        ("B00CNQJX04", "Brinsea Mini II Advance Automatic 7-Egg Incubator"),
+        ("1612129994", "Storey's Guide to Raising Chickens (4th Edition)"),
+        ("B004EZDQC4", "Miller Mfg Galvanized Hanging Poultry Feeder"),
+        ("B07RYFZHTQ", "Harris Farms Hanging Poultry Drinker Waterer"),
+    ],
+    "DIY home repair & improvement": [
+        ("B07SRDRNKG", "WORKPRO 322-Piece Home Repair Hand Tool Kit"),
+        ("B07WNWRJ7Q", "DEWALT 20V MAX Cordless Drill/Driver Combo"),
+        ("B07RDJD9D2", "Klein Tools Electrical Test Kit"),
+        ("1621453642", "Reader's Digest Complete Do-It-Yourself Manual"),
+        ("B004FXLRFE", "Irwin Tools Magnetic Stud Finder"),
+    ],
+}
+
+
+def build_affiliate_block() -> str:
+    products = VIDEO_AFFILIATE_PRODUCTS.get(SITE_NICHE, [])
+    if not products:
+        return ""
+    lines = [
+        "Affiliate disclosure: Links below are Amazon affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.",
+        "",
+        "Helpful resources:",
+    ]
+    for asin, name in products:
+        lines.append(f"- {name}: https://www.amazon.com/dp/{asin}?tag={AMAZON_TAG}")
+    return "\n".join(lines)
+
 def upload_to_youtube(video_bytes: bytes, script: dict, article: dict) -> str:
     token = get_access_token()
     title = script["title"][:100]
+    aff = build_affiliate_block()
     desc = (
         script["description"]
+        + ("\n\n" + aff if aff else "")
         + "\n\n#Shorts"
     )[:5000]
     tags = script["tags"][:15] + ["Shorts", SITE_NICHE]
