@@ -119,31 +119,6 @@
   </div>
 </section>
 
-<!-- ── STATS STRIP ─────────────────────────────────────────────────── -->
-<div class="stats-strip">
-  <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $questions := 0 }}{{ range $posts }}{{ with .Params.faqs }}{{ $questions = add $questions (len .) }}{{ end }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot (int (math.Round (div .WordCount 450.0))) }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (math.Round (div $tot (len $posts))) }}{{ end }}
-    <div class="stat-item">
-      <span class="stat-counter" data-count="100" data-suffix="+">—</span>
-      <span class="stat-label">Articles Published</span>
-    </div>
-    <div class="stat-sep"></div>
-    <div class="stat-item">
-      <span class="stat-counter" data-count="{{ len .Site.Taxonomies.categories }}">—</span>
-      <span class="stat-label">Topics Covered</span>
-    </div>
-    <div class="stat-sep"></div>
-    <div class="stat-item">
-      <span class="stat-counter" data-count="{{ $questions }}">—</span>
-      <span class="stat-label">Questions Answered</span>
-    </div>
-    <div class="stat-sep"></div>
-    <div class="stat-item">
-      <span class="stat-counter" data-count="{{ $avg }}">—</span>
-      <span class="stat-label">Avg. Min Read</span>
-    </div>
-  </div>
-</div>
-
 <!-- ── ARTICLES ────────────────────────────────────────────────────── -->
 <section class="articles-section">
   <div class="articles-inner">
