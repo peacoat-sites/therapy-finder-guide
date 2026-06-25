@@ -785,3 +785,16 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], :target {
   scroll-margin-top: 2rem;
 }
 /* ===== end Daily polish (2026-06-23) ===== */
+
+/* ===== Daily polish (2026-06-25): font optical sizing + underline thickness ===== */
+/* Append-only, gracefully degrading — unsupported browsers ignore these. Safe to delete this whole block. */
+
+/* 1. Let variable fonts auto-adjust stroke contrast and spacing at display vs. body sizes.
+      A no-op on non-variable fonts. Supported: Chrome 79+, Firefox 118+, Safari 11+. */
+body, h1, h2, h3, h4, h5, h6 { font-optical-sizing: auto; }
+
+/* 2. Use the underline thickness the font designer intended rather than the browser default.
+      Makes body-size underlines slimmer and display-size underlines proportionally heavier.
+      Supported: Chrome 89+, Firefox 70+, Safari 12.1+. Ignored elsewhere. */
+a { text-decoration-thickness: from-font; }
+/* ===== end Daily polish (2026-06-25) ===== */
