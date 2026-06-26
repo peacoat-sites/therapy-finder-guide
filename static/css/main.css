@@ -798,3 +798,31 @@ body, h1, h2, h3, h4, h5, h6 { font-optical-sizing: auto; }
       Supported: Chrome 89+, Firefox 70+, Safari 12.1+. Ignored elsewhere. */
 a { text-decoration-thickness: from-font; }
 /* ===== end Daily polish (2026-06-25) ===== */
+
+
+/* ===== Daily polish (2026-06-26): accessible focus ring + numeric typography ===== */
+/* Append-only, gracefully degrading -- unsupported browsers ignore these. Safe to delete this whole block. */
+
+/* 1. Visible keyboard-focus outline for interactive elements. :focus-visible fires ONLY for
+      keyboard/AT navigation, never on mouse click, so it adds accessibility without changing
+      the mouse experience. Supported: Chrome 86+, Firefox 85+, Safari 15.4+. Older browsers
+      keep their default outline. */
+a:focus-visible, button:focus-visible, summary:focus-visible,
+input:focus-visible, select:focus-visible, textarea:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--accent, #c2410c);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+/* 2. Align digits in data tables / calculator output so columns of numbers line up.
+      A no-op on fonts without tabular figures. Supported: all modern browsers. */
+table, .value-module td, .value-module th, .calc-output, .rate-table, .keto-carbs, .solar-table {
+  font-variant-numeric: tabular-nums;
+}
+
+/* 3. Nudge link underlines clear of descenders for cleaner body-copy legibility.
+      Pairs with the from-font underline thickness shipped 2026-06-25.
+      Supported: Chrome 70+, Firefox 70+, Safari 12.1+. Ignored elsewhere. */
+.post-content a, .article-card-desc a, p a { text-underline-offset: 0.15em; }
+/* ===== end Daily polish (2026-06-26) ===== */
