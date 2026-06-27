@@ -789,11 +789,14 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
     # Pick 1-2 reference links to weave in naturally
     ref_instruction = ""
     if references:
-        picked_refs = random.sample(references, min(2, len(references)))
+        picked_refs = random.sample(references, min(3, len(references)))
         ref_links = ", ".join(f'[{name}]({url})' for name, url in picked_refs)
+        ref_md = "\n".join(f'- [{name}]({url})' for name, url in picked_refs)
         ref_instruction = (
-            f"- Naturally reference 1-2 authoritative sources in the text: {ref_links}. "
-            "Do not list them -- weave them into a sentence as supporting evidence."
+            f"- Cite 2-3 authoritative sources by name inside the article: {ref_links}. "
+            "Work them into sentences as real supporting evidence (a specific stat, rule, or finding), not a dump. "
+            "Then, after the FAQ and just before you close, add a section headed exactly '## Sources' "
+            "that lists those same sources as markdown links, one per line:\n" + ref_md
         )
 
     ymyl_instruction = ""
