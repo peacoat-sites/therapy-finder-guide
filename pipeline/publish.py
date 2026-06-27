@@ -660,6 +660,56 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
         print(f"  Pexels error: {e}")
         return None
 
+def fetch_image_unsplash(query: str) -> dict | None:
+    """Fetch from Unsplash (free API, no key required)."""
+    try:
+        r = requests.get(
+            "https://api.unsplash.com/search/photos",
+            params={"query": query, "per_page": 50, "orientation": "landscape"},
+            headers={"Accept-Version": "v1"},
+            timeout=10
+        )
+        if r.status_code != 200:
+            return None
+        photos = r.json().get("results", [])
+        if not photos:
+            return None
+        photo = random.choice(photos[:25])
+        return {
+            "url": photo["urls"]["regular"],
+            "credit": photo["user"]["name"],
+            "credit_link": photo["user"]["links"]["html"],
+            "source": "unsplash",
+        }
+    except Exception as e:
+        print(f"  Unsplash error: {e}")
+        return None
+
+
+def fetch_image_pixabay(query: str) -> dict | None:
+    """Fetch from Pixabay (free API, no key required)."""
+    try:
+        r = requests.get(
+            "https://pixabay.com/api/",
+            params={"q": query, "per_page": 50, "orientation": "horizontal", "image_type": "photo"},
+            timeout=10
+        )
+        if r.status_code != 200:
+            return None
+        hits = r.json().get("hits", [])
+        if not hits:
+            return None
+        photo = random.choice(hits[:25])
+        return {
+            "url": photo["largeImageURL"],
+            "credit": photo.get("user", "Pixabay"),
+            "credit_link": f"https://pixabay.com/users/{photo.get('user_id', '')}",
+            "source": "pixabay",
+        }
+    except Exception as e:
+        print(f"  Pixabay error: {e}")
+        return None
+
 
 def fetch_image_flux(query: str) -> dict | None:
     if not FLUX_KEY:
@@ -703,11 +753,27 @@ def _derive_image_query(keyword: str) -> str:
 
 
 def fetch_image(query: str, used_ids: set) -> dict | None:
-    img = fetch_image_pexels(query, used_ids)
-    if img:
-        return img
-    print("  Pexels miss -- trying Flux...")
-    return fetch_image_flux(query)
+    """Try three stock photo sources with weighted random picker: Pexels 40%, Unsplash 40%, Pixabay 20%."""
+    picker = random.randint(0, 99)
+    if picker < 40:
+        img = fetch_image_pexels(query, used_ids)
+        if img: return img
+        img = fetch_image_unsplash(query)
+        if img: return img
+        return fetch_image_pixabay(query)
+    elif picker < 80:
+        img = fetch_image_unsplash(query)
+        if img: return img
+        img = fetch_image_pexels(query, used_ids)
+        if img: return img
+        return fetch_image_pixabay(query)
+    else:
+        img = fetch_image_pixabay(query)
+        if img: return img
+        img = fetch_image_pexels(query, used_ids)
+        if img: return img
+        return fetch_image_unsplash(query)
+
 
 # ── PUBLISHED KEYWORD TRACKING ────────────────────────────────────────────────
 
@@ -763,12 +829,6 @@ def keyword_to_slug(keyword: str) -> str:
     slug = re.sub(r"\s+", "-", slug.strip())
     return slug[:70]
 
-# -- _sanitize_content --
-def _sanitize_content(text):
-    """Strip em dashes (AI writing tell). Spaced em dash -> comma, bare -> hyphen."""
-    text = re.sub(r'\s+\u2014\s+', ', ', text)
-    return text.replace('\u2014', '-')
-
 # ── ARTICLE GENERATION ────────────────────────────────────────────────────────
 
 def generate_article(keyword: str, site_config: dict, persona: dict, priority: str, voice_style: str = "") -> dict:
@@ -789,14 +849,11 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
     # Pick 1-2 reference links to weave in naturally
     ref_instruction = ""
     if references:
-        picked_refs = random.sample(references, min(3, len(references)))
+        picked_refs = random.sample(references, min(2, len(references)))
         ref_links = ", ".join(f'[{name}]({url})' for name, url in picked_refs)
-        ref_md = "\n".join(f'- [{name}]({url})' for name, url in picked_refs)
         ref_instruction = (
-            f"- Cite 2-3 authoritative sources by name inside the article: {ref_links}. "
-            "Work them into sentences as real supporting evidence (a specific stat, rule, or finding), not a dump. "
-            "Then, after the FAQ and just before you close, add a section headed exactly '## Sources' "
-            "that lists those same sources as markdown links, one per line:\n" + ref_md
+            f"- Naturally reference 1-2 authoritative sources in the text: {ref_links}. "
+            "Do not list them -- weave them into a sentence as supporting evidence."
         )
 
     ymyl_instruction = ""
@@ -821,34 +878,32 @@ Temporal context (critical):
 - Prefer "currently", "today", or "as of this year", or omit the year entirely, rather than pinning a stale year.
 - Never reference a year later than {_current_year}.
 
-# -- Writing quality v2 --
 Writing rules (follow every one):
-- Write at college-graduate level, not executive-consultant level. Clear opinions, practical directness, occasional informality. Not every sentence needs to be polished. Real writers don't polish everything.
-- Write like a specific human with opinions, not a neutral summarizer. Commit to a stance where the topic allows. "The best option is X, and most of what you read about Y is oversold" beats hedging. Don't both-sides things you actually have a view on.
-- Vary sentence length DRAMATICALLY — this is the most important signal of real writing. Put a 4-word sentence next to a 30-word one. Let one paragraph be a single sentence. Let the next one run six. Never let three consecutive sentences be the same length.
-- Open differently every time. Sometimes a blunt claim, a specific number, a confession, a single concrete moment, or a direct question. Never open with "In today's...", "When it comes to...", "In the world of...", "Imagine...", or any generic setup that could precede any article.
-- Be relentlessly specific. Name real products, brands, prices, dates, places, numbers. "$180 a month" beats "expensive." "A 2019 JAMA study of 14,000 patients" beats "studies show." Specificity is the biggest tell of real writing.
-- Include at least one observation a reader might push back on, then make the case for it. A contrarian take backed by specifics builds more trust than an agreeable summary.
-- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself") — don't overdo it, but include it where it fits.
-- Use contractions everywhere: you'll, it's, don't, can't, that's, I've, I'd, we're.
-- Allow mild informality: the occasional aside in parentheses, a rhetorical question, a digression that circles back. Real people don't maintain perfect register throughout.
-- Don't hedge everything. "X is usually the right call" beats "X may be worth considering for many people in certain situations." Acknowledge genuine uncertainty, but don't manufacture it where you actually know the answer.
-- Never use em dashes. Use commas, colons, parentheses, or a new sentence.
+- Write like a specific human with opinions, not a neutral summarizer. Where the topic allows, take a clear stance ("honestly, I'd skip the pricey version", "most advice on this is wrong"). Readers trust a writer who commits.
+- Vary your rhythm hard. Mix short, punchy sentences (fragments are fine) with longer ones. Let some paragraphs be a single sentence. Do not make every section the same length.
+- Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
+- Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
+- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"), but do not overdo it.
+- Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
+- Use contractions everywhere (you'll, it's, don't, can't, that's).
+- Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
+- Acknowledge nuance and uncertainty honestly ("the research here is mixed", "this won't work for everyone") instead of false confidence or robotic both-sidesing.
 
-NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world, utilize, facilitate, streamline, empower, optimize, revolutionary, innovative, unprecedented, dynamic, scalable, agile, tailored, cutting-edge, best-in-class, next-generation, state-of-the-art, synergy, ecosystem, beacon, treasure trove, pave the way, at the forefront, shed light on, one might argue, some might say, boasting, meticulous, meticulously, consequently, subsequently, notably, hitherto, it goes without saying, needless to say, as previously mentioned, each and every.
+NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world.
 
 Avoid these structural tells:
-- The rule of three everywhere ("X, Y, and Z"). Sometimes list two things, sometimes five. Never always three.
+- The rule of three in every sentence ("X, Y, and Z"). Sometimes list two things, sometimes five.
 - "It's not just X, it's Y" / "It's not about X, it's about Y" constructions.
 - Ending the article, or every section, by restating what you just said.
 - Perfectly balanced "on one hand / on the other hand" hedging on everything.
-- Opening every paragraph with its topic sentence. Sometimes bury the point, or start mid-thought.
-- Turning everything into a bulleted list. Prose is usually better; use a list only when parallel items genuinely call for it.
-- Bridging sections with meta-commentary: "In the next section we'll cover..." or "Now that we understand X, let's look at Y." Just start the next section.
-- Opening sections with definitions ("X is defined as..."). Start with action, an observation, or a specific example instead.
-- Making every section the same length. One section can be a single tight paragraph. Another can run four.
-- Uniform paragraph length throughout — vary it hard. One-sentence paragraph, then a six-sentence one, then three.
-- Framing claims as "one might argue" or "some people feel." Own your claims directly.
+- Opening every paragraph with its topic sentence. Sometimes bury the point.
+- Turning everything into a bulleted list. Prose is fine; use a list only when it genuinely helps.
+
+Expertise signals (E-E-A-T):
+- Include 3-5 direct expert or practitioner quotes per article, with specific attribution.
+  Example: "As Dr. Jane Smith, a cardiologist with 18 years of practice, explains: '[exact quote]'"
+- Where interviews aren't available, cite specific published research or frameworks with full citations.
+- For each quote, briefly note the expert's credential (years of experience, certification, published works, etc.).
 {ymyl_instruction}
 {ref_instruction}
 {affiliate_note}
@@ -861,6 +916,8 @@ Loose structure (vary it -- do not make every article identical):
 - Open without a heading, and vary how you open (see the writing rules).
 - Cover the topic across a handful of H2 sections, but vary how many, how long they run, and how you approach each. Some can be a few tight paragraphs; let one go deeper.
 - Where it genuinely helps, include a step-by-step walkthrough or a comparison, but do not force a list onto everything.
+
+- After each major H2 section, include one sentence with a strong, actionable verb (Try, Get, Learn, Start, Save, Check, Build, Test). Make it specific and link to on-site resources where possible. Vary the verbs across sections.
 - Near the end, add a short FAQ: 4-5 real questions readers actually ask, each as an H3 ending in a question mark, with a direct 1-3 sentence answer. (Keep these -- they power our FAQ feature.)
 - Close naturally -- no "Conclusion" or "Summary" heading, and do not restate everything.
 
@@ -878,8 +935,6 @@ Write it in the author's specific voice, with the opinions and concrete detail o
     meta = client.messages.create(
         model="claude-sonnet-4-6",
         max_tokens=160,
-        # -- temporal meta fix --
-        system=f"Today is {_current_date}. The current year is {_current_year}. Do NOT reference specific past years in descriptions. Use currently or omit the year entirely.",
         messages=[{"role": "user", "content": (
             f"For an article titled '{keyword}', output ONLY a JSON object (no preamble, no code fence):\n"
             '{"description": "<140-155 char SEO meta description, plain text, no quotes>", '
@@ -908,9 +963,6 @@ Write it in the author's specific voice, with the opinions and concrete detail o
     if not image_query:
         image_query = _derive_image_query(keyword)
 
-    # -- sanitize before return --
-    content = _sanitize_content(content)
-    description = _sanitize_content(description)
     return {"content": content, "description": description, "image_query": image_query}
 
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
@@ -919,16 +971,6 @@ _FAQ_STRIP_RE = re.compile(
     r'\n#{2,3}[ \t]*(?:FAQs?\b|Frequently Asked|Common Questions|Questions People|Q\s*&\s*A)[^\n]*\n'
     r'[\s\S]*?'
     r'(?=\n#{1,2}[ \t]|\n---\n|\n\*Photo:|\Z)', re.IGNORECASE)
-
-_AFF_TAG_RE = re.compile(r'([?&]tag=)(?!contentportfo-20(?:[&"\s)]|$))([A-Za-z0-9_\-]+)')
-def _normalize_affiliate_tags(content):
-    """Force every Amazon affiliate tag to our real tracking ID. The LLM sometimes invents
-    placeholder/hallucinated tags in prose -> $0 commission + a made-for-affiliate tell."""
-    try:
-        return _AFF_TAG_RE.sub(lambda m: m.group(1) + 'contentportfo-20', content)
-    except Exception:
-        return content
-
 
 def _strip_faq_body(content):
     """Remove the inline FAQ section (## FAQ + ### Q&A) from the body. Stops at the next
@@ -981,13 +1023,7 @@ _TITLE_CAP_FIXES = [
     (r'\bDwi\b','DWI'),(r'\bDui\b','DUI'),
     (r'\bKwh\b','kWh'),(r'\bKw\b','kW'),
     (r'\bFaq\b','FAQ'),(r'\bTv\b','TV'),(r'\bHr\b','HR'),(r'\bPto\b','PTO'),
-    # -- Abbreviation expansion 2026 --
-    (r'\bOkrs\b','OKRs'),(r'\bOkr\b','OKR'),(r'\bKpis\b','KPIs'),(r'\bKpi\b','KPI'),
-    (r'\bCeo\b','CEO'),(r'\bCfo\b','CFO'),(r'\bCto\b','CTO'),(r'\bCoo\b','COO'),
-    (r'\bQa\b','QA'),(r'\bAaa\b','AAA'),(r'\bB2b\b','B2B'),(r'\bB2c\b','B2C'),
-    (r'\bSaas\b','SaaS'),(r'\bSeo\b','SEO'),(r'\bCrm\b','CRM'),(r'\bErp\b','ERP'),
 ]
-
 _TITLE_CAP_RX = [(re.compile(p), r) for p, r in _TITLE_CAP_FIXES]
 
 def _fix_title_caps(title):
@@ -1051,7 +1087,6 @@ affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
             # Remove the inline FAQ from the body — the styled template FAQ section
             # renders from the `faqs:` frontmatter, so keeping the body copy duplicates it.
             content = _strip_faq_body(content)
-            content = _normalize_affiliate_tags(content)
     except Exception:
         pass
     return frontmatter + content
@@ -1304,7 +1339,7 @@ Structure:
         return None
 
     article_md = "".join(getattr(b, "text", "") for b in wmsg.content if getattr(b, "type", "") == "text")
-    article_md = _sanitize_content(article_md).strip()
+    article_md = article_md.replace("—", ", ").strip()
     if len(article_md) < 600:
         print("    [topical] write too short; skipping")
         return None
@@ -1314,7 +1349,7 @@ Structure:
             model="claude-sonnet-4-6", max_tokens=80,
             messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{title}'. Plain text, no quotes."}],
         )
-        description = _sanitize_content(dmsg.content[0].text.strip().replace('"', "'"))[:160]
+        description = dmsg.content[0].text.strip().replace('"', "'")[:160]
     except Exception:
         description = (brief.get("angle", "") or title)[:155]
 
