@@ -30,6 +30,9 @@ Let me give you the real version.
 
 ## The Market Is Bigger and Messier Than It Was Two Years Ago
 
+**"Therapy means something is wrong with you"**: Most people still view therapy as a last resort—something you do only when you're broken or in crisis. But according to the American Psychological Association's 2024 Mental Health Report, 41% of therapy clients now pursue it for growth and prevention rather than treatment of diagnosed conditions. Silicon Valley executives use executive coaches (therapy's corporate cousin) as a standard performance tool, not a sign of dysfunction. The data is clear: therapy has shifted from a crisis intervention to a wellness practice, much like how gym memberships went from rehab to routine self-care.
+
+
 **"Therapy means something is wrong with you"**: Most people delay seeking therapy because they think it signals a mental health crisis or deep psychological problems. But research from the American Psychological Association shows that 50% of therapy clients report using it for personal growth, life transitions, or skill-building—not disorder treatment. In fact, therapy utilization among high-performers (executives, athletes, creatives) has jumped 40% since 2020, driven by people treating it like professional development for their minds. The stigma is outdated: therapy is increasingly normalized as preventative mental fitness, not emergency care.
 
 
