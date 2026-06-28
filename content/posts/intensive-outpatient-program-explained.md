@@ -109,6 +109,15 @@ The hard truth about IOPs is that their effectiveness depends heavily on the qua
 
 ## Recommended Resources
 
+## Sources
+
+- [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
+- [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)
+- [NAMI](https://www.nami.org/)
+- [The DBT Skills Workbook](https://www.amazon.com/s?k=DBT+skills+workbook&tag=contentportfo-20)
+- [CBT thought record journal](https://www.amazon.com/s?k=CBT+thought+record+journal&tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.

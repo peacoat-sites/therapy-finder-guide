@@ -90,6 +90,15 @@ If none of this feels like enough right now, that's okay. Sometimes the right ne
 
 ## Recommended Resources
 
+## Sources
+
+- [National Alliance on Mental Illness (NAMI)](https://www.nami.org/)
+- [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
+- [SAMHSA's treatment locator](https://findtreatment.gov/)
+- [The Cognitive Behavioral Workbook for Depression by William Knaus](https://www.amazon.com/Cognitive-Behavioral-Workbook-Depression-Step/dp/1572245999/?tag=contentportfo-20)
+- [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.

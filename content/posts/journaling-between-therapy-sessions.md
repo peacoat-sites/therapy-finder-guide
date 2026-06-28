@@ -101,6 +101,15 @@ Keep entries short enough that you'll actually write them. A paragraph is fine. 
 
 ## Recommended Resources
 
+## Sources
+
+- [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)
+- [The Cognitive Behavioral Workbook for Anxiety](https://www.amazon.com/s?k=CBT+journal+anxiety+workbook)
+- [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
+- [NAMI (the National Alliance on Mental Illness)](https://www.nami.org/)
+- [mindfulness and self-reflection journal](https://www.amazon.com/s?k=mindfulness+self+reflection+therapy+journal)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.

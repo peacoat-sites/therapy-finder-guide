@@ -136,6 +136,15 @@ The anxiety that makes you dread your own voice on a Zoom call, that narrows you
 
 ## Recommended Resources
 
+## Sources
+
+- [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)
+- [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
+- [The National Alliance on Mental Illness (NAMI)](https://www.nami.org/)
+- [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
+- [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.

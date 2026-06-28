@@ -95,6 +95,15 @@ If you want to build some baseline skills for supporting someone else, *The Dial
 
 ## Recommended Resources
 
+## Sources
+
+- [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
+- [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)
+- [SAMHSA's treatment locator](https://findtreatment.gov/)
+- [on Amazon](https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook/dp/1572245131)
+- [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.

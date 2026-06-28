@@ -107,6 +107,15 @@ The process of finding the right therapist is imperfect and sometimes exhausting
 
 ## Recommended Resources
 
+## Sources
+
+- [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
+- [The National Alliance on Mental Illness (NAMI)](https://www.nami.org/)
+- [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
+- [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)
+- [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.

@@ -108,6 +108,15 @@ The path from "I think I need therapy" to sitting in a session with someone qual
 
 ## Recommended Resources
 
+## Sources
+
+- [findtreatment.gov](https://findtreatment.gov/)
+- [psychologytoday.com/us/therapists](https://www.psychologytoday.com/us/therapists)
+- [The Feeling Good Handbook by David D. Burns](https://www.amazon.com/dp/0452281326?tag=contentportfo-20)
+- [CBT journal](https://www.amazon.com/s?k=cbt+journal&tag=contentportfo-20)
+- [Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.

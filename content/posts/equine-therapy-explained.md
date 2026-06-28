@@ -115,6 +115,15 @@ There's no universal number. Some people report noticeable shifts within four to
 
 ## Recommended Resources
 
+## Sources
+
+- [PATH Intl.](https://pathintl.org/)
+- [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)
+- [NAMI](https://www.nami.org/)
+- [SAMHSA's treatment locator](https://findtreatment.gov/)
+- [Amazon](https://www.amazon.com/s?k=trauma+informed+mindfulness+workbook)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.

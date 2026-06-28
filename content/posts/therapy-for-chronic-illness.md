@@ -111,6 +111,15 @@ Getting therapy right when you have a chronic illness takes more legwork than it
 
 ## Recommended Resources
 
+## Sources
+
+- [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
+- [*The Mindfulness and Acceptance Workbook for Anxiety*](https://www.amazon.com/dp/1572244992?tag=contentportfo-20)
+- [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
+- [*The Chronic Illness Workbook*](https://www.amazon.com/dp/1572243457?tag=contentportfo-20)
+- [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.

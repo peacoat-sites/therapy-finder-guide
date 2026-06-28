@@ -101,6 +101,15 @@ For anyone in or approaching this field who wants to think more rigorously about
 
 ## Recommended Resources
 
+## Sources
+
+- [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)
+- [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
+- [NAMI](https://www.nami.org/)
+- [CBT workbook or clinical skills journal](https://www.amazon.com/s?k=CBT+workbook+therapist)
+- [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.

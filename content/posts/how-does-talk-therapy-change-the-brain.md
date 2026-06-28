@@ -99,6 +99,15 @@ The fact that a conversation can physically reshape the organ you use to have th
 
 ## Recommended Resources
 
+## Sources
+
+- [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
+- [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
+- [SAMHSA's treatment locator](https://findtreatment.gov/)
+- [Feeling Good Handbook by David Burns](https://www.amazon.com/Feeling-Good-Handbook-David-Burns/dp/0452281326?tag=contentportfo-20)
+- [guided mindfulness workbooks](https://www.amazon.com/s?k=mindfulness+workbook+CBT&tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.

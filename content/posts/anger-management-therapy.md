@@ -152,6 +152,15 @@ That parking lot moment at the start. A lot of people know it. The shame after t
 
 ## Recommended Resources
 
+## Sources
+
+- [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
+- [NAMI](https://www.nami.org/)
+- [CBT-based anger journal on Amazon](https://www.amazon.com/s?k=CBT+anger+journal)
+- [psychologytoday.com/us/therapists](https://www.psychologytoday.com/us/therapists)
+- [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.

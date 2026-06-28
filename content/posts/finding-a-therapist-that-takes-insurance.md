@@ -128,6 +128,15 @@ The process of finding a therapist who takes your insurance can feel designed to
 
 ## Recommended Resources
 
+## Sources
+
+- [findtreatment.gov](https://findtreatment.gov/)
+- [Mind Over Mood](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=contentportfo-20)
+- [Suicide and Crisis Lifeline](https://988lifeline.org/)
+- [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)
+- [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)
+
+
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
