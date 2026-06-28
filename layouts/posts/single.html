@@ -8,9 +8,6 @@
      ════════════════════════════════════════════════════════════ */}}
 
 <div class="post-wrap">
-  <aside class="left-rail">
-    {{ partial "amazon-products.html" . }}
-  </aside>
   <article class="post-main">
 
     <!-- Breadcrumb -->
@@ -273,8 +270,7 @@
   </aside>
 </div>
 
-
-
+{{ partial "amazon-products.html" . }}
 {{- else -}}
 
 {{/* ════════════════════════════════════════════════════════════
