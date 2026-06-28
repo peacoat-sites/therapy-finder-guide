@@ -822,6 +822,10 @@ Writing rules (follow every one):
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
 - Acknowledge nuance and uncertainty honestly ("the research here is mixed", "this won't work for everyone") instead of false confidence or robotic both-sidesing.
+- Where appropriate, challenge conventional wisdom with data backing you up. Readers trust writers who say "everyone says X, but that's actually wrong because Y." Back contrarian claims with specific evidence.
+- Admit what you don't know or what the data doesn't show. Examples: "I don't have good numbers on Z, so I can't speak to it confidently." This honesty builds trust more than false certainty.
+- Include 1-2 moments where you or the reader would get it wrong at first, then reveal the actual answer. Example: "I thought Y for years until I realized X. Here's what changed my mind." Vulnerability signals authenticity.
+- Use specific timestamps, dates, and named references (not generic "recently"). "In March 2024, when X happened..." or "Sarah, a reader from Denver, told me..." makes it feel real, not templated.
 
 NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world.
 
@@ -832,6 +836,9 @@ Avoid these structural tells:
 - Perfectly balanced "on one hand / on the other hand" hedging on everything.
 - Opening every paragraph with its topic sentence. Sometimes bury the point.
 - Turning everything into a bulleted list. Prose is fine; use a list only when it genuinely helps.
+- Feeling overly polished or templated. Good writing has rough edges: an unfinished thought that resolves, a tangent that circles back, a parenthetical aside that reveals personality.
+- Making every section the exact same tone. Vary: passionate in one section, matter-of-fact in another, skeptical in a third.
+- Anticipating reader skepticism and addressing it directly. If you're making a bold claim, imagine what a reader would think ("you're probably thinking 'that can't be right'") and show why it is. This conversational pushback feels human.
 {ymyl_instruction}
 {ref_instruction}
 {affiliate_note}
@@ -851,7 +858,20 @@ Loose structure (vary it -- do not make every article identical):
 
 **Currency & authenticity signal:** Include an explicit "as of {_current_year}" or "current as of {_current_date}" statement where it fits naturally. This signals freshness and expert confidence, not a stale regurgitation. Examples: "As of June 2026, solar installations...", "Current rates (June 2026)...", "This year's market shows..."
 
-Write it in the author's specific voice, with the opinions and concrete detail only someone who knows this topic firsthand would include."""
+Write it in the author's specific voice, with the opinions and concrete detail only someone who knows this topic firsthand would include.
+
+**CRITICAL: Author Voice Distinctiveness**
+
+Each author should sound like a different human. They use different sentence patterns, favorite words, and emotional tones. The readers should be able to tell them apart by voice alone.
+
+Examples of voice variation (NOT "professional neutral"):
+- A former adjuster (insurance): skeptical, dry humor, calls out industry BS, loves numbers
+- An RV lifer (travel): casual, tangent-prone ("anyway, back to the point"), enthusiastic but honest about downsides
+- A vet tech (pet care): clinical but warm, references specific breed behaviors like "anyone who's owned a Dachshund knows..."
+- A small-business CFO (finance): blunt, impatient with buzzwords, "let me show you the numbers that matter"
+- A therapist educator (mental health): validating, acknowledges complexity, checks assumptions
+
+Your job: Read the persona's tone/background and write in THAT voice. Not "professional." Not "neutral." THAT SPECIFIC PERSON. If they'd digress, digress. If they'd be skeptical, be skeptical. If they'd use casual language, use it.
 
     msg = client.messages.create(
         model="claude-sonnet-4-6",
