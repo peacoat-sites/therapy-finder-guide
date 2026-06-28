@@ -31,6 +31,9 @@ Here's the thing almost nobody tells you upfront: there is no universal answer, 
 
 ## Why "How Long Will This Take?" Is the Wrong First Question
 
+**"Therapy means something is wrong with you"**: Most people assume therapy is a last resort—something you do only when you're broken or in crisis. But research shows 90% of therapy clients report therapy as beneficial for general life improvement, not just symptom relief. The American Psychological Association found that therapy-goers cite goals like "personal growth," "relationship skills," and "life direction" just as often as treating diagnosed conditions. Therapy isn't a diagnostic stamp; it's a tool. Athletes use coaches to improve already-good performance. Executives use therapists the same way—to optimize mental performance and navigate life's normal complexity.
+
+
 That sounds a little harsh, I know. But hear me out.
 
 The question assumes therapy is like a course of antibiotics. Take the full round, problem solved. Therapy is closer to physical rehabilitation after an injury. A sprained ankle and a torn ACL both send you to the same type of professional, but they don't have the same recovery arc. Neither does a situational bout of anxiety after a job loss and a decade of complex trauma.
