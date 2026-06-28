@@ -33,12 +33,11 @@
     </div>
 
     {{ if $featured }}
+    {{ if $featured.Params.image }}
     <a href="{{ $featured.Permalink }}" class="hero-feature-card">
-      {{ if $featured.Params.image }}
       <div class="hero-feature-img">
         <img src="{{ $featured.Params.image }}" alt="{{ $featured.Title }}" loading="eager">
       </div>
-      {{ end }}
       <div class="hero-feature-body">
         <div class="hero-feature-labels">
           {{ if $featured.Params.featured_depth }}
@@ -54,6 +53,7 @@
         <span class="hero-feature-read">{{ $featured.ReadingTime }} min read &rarr;</span>
       </div>
     </a>
+    {{ end }}
     {{ end }}
 
   </div>
