@@ -33,6 +33,9 @@ The American Psychological Association estimates that around 70% of adults in th
 
 ## What Trauma Actually Does to the Brain (And Why Willpower Isn't Enough)
 
+**"Therapy means something is wrong with you"**: Most people view seeking therapy as an admission of failure or a sign of serious dysfunction. But research shows 1 in 4 adults use therapy in any given year, and studies from the American Psychological Association indicate therapy is most effective when started *early*—before trauma solidifies into chronic PTSD. Trauma survivors who engage therapy proactively show 60% better outcomes than those waiting for crisis points. Therapy isn't a last resort for the broken; it's preventative maintenance for the human nervous system, no different than physical therapy after an injury.
+
+
 Trauma isn't just a bad memory. It's a physiological event that changes how your brain processes information, regulates emotion, and perceives threat.
 
 When something overwhelming happens, your amygdala, the part responsible for detecting danger, essentially gets stuck in high gear. Your prefrontal cortex, the rational, planning part of your brain, goes partially offline during intense fear. This is why "just think positive" or "get over it" advice is so deeply unhelpful. You can't logic your way out of a nervous system that genuinely believes danger is still present.
