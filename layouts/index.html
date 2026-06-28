@@ -1,158 +1,101 @@
 {{ define "main" }}
 
-{{/* Partition articles — exclude non-post pages */}}
-{{ $pages    := (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
-{{ $featured := index $pages 0 }}
-{{ $second   := index $pages 1 }}
-{{ $third    := index $pages 2 }}
-{{ $rest     := after 3 $pages }}
+{{/* Partition articles — prioritize quality/depth content (moats, worked examples) */}}
+{{ $allPages := where .Site.RegularPages "Section" "posts" }}
 
-<!-- ── TOPIC TICKER STRIP ─────────────────────────────────────────── -->
-<div class="ticker-strip" aria-label="Browse topics">
-  <span class="ticker-label">Topics</span>
-  <div class="ticker-outer">
-    <div class="ticker-track">
-      {{- range $i := (seq 8) -}}
-      {{- range $name, $taxonomy := $.Site.Taxonomies.categories -}}
-      {{- $lbl := title (replace $name "-" " ") -}}
-      {{- $lbl = replace $lbl "Hr" "HR" -}}{{- $lbl = replace $lbl "Pm" "PM" -}}{{- $lbl = replace $lbl "Diy" "DIY" -}}{{- $lbl = replace $lbl "Hoa" "HOA" -}}{{- $lbl = replace $lbl "Hvac" "HVAC" -}}{{- $lbl = replace $lbl "Rv" "RV" -}}
-      <a href="{{ with site.GetPage (printf "/categories/%s" $name) }}{{ .RelPermalink }}{{ end }}" class="ticker-item">{{ $lbl }}</a>
-      {{- end -}}
-      {{- end -}}
-    </div>
-  </div>
-</div>
+{{/* Separate featured-depth articles (moats, quality pieces) from regular articles */}}
+{{ $depthArticles := where $allPages "Params.featured_depth" true }}
+{{ $regularArticles := where $allPages "Params.featured_depth" "!=" true }}
 
-<!-- ── SPLIT HERO ─────────────────────────────────────────────────── -->
-<section class="hero-split">
-  <div class="hero-split-inner">
+{{/* Sort both by date (newest first) */}}
+{{ $depthSorted := $depthArticles.ByDate.Reverse }}
+{{ $regularSorted := $regularArticles.ByDate.Reverse }}
 
-    <!-- Left: Editorial text -->
-    <div class="hero-split-text">
+{{/* Featured carousel: depth articles first, then recent regular articles */}}
+{{ $carousel := union $depthSorted $regularSorted }}
+
+{{ $featured := index $carousel 0 }}
+{{ $second   := index $carousel 1 }}
+{{ $rest     := after 2 $carousel }}
+
+<!-- ── ANIMATED GRADIENT HERO ───────────────────────────────────────────── -->
+<section class="hero hero-authority">
+  <div class="hero-authority-inner">
+
+    <div class="hero-auth-text">
       {{ with .Site.Params.niche }}<p class="hero-eyebrow">{{ . }}</p>{{ end }}
-      <span class="hero-emblem">{{ partial "brand-mark.html" . }}</span>
-      {{ $tt := .Site.Params.tagline | default .Site.Title }}
-      {{ $w := split $tt " " }}{{ $n := len $w }}
-      {{ if gt $n 1 }}<h1 class="hero-split-title">{{ delimit (first (sub $n 1) $w) " " }} <span class="ht-accent">{{ index $w (sub $n 1) }}</span></h1>{{ else }}<h1 class="hero-split-title">{{ $tt }}</h1>{{ end }}
-      <p class="hero-split-sub">{{ .Site.Params.description }}</p>
+      <h1 class="hero-auth-title">{{ .Site.Params.tagline | default .Site.Title }}</h1>
+      <p class="hero-auth-sub">{{ .Site.Params.description }}</p>
       <div class="hero-auth-actions">
-        {{ with .Site.Params.youtube_channel }}<a href="https://www.youtube.com/channel/{{ . }}" target="_blank" rel="noopener" class="hero-yt" aria-label="Watch us on YouTube" title="Watch us on YouTube" style="display:inline-flex;align-items:center;justify-content:center;flex-shrink:0"><svg viewBox="0 0 28 20" width="34" height="24" aria-hidden="true"><rect width="28" height="20" rx="6" fill="#FF0000"/><path d="M11.2 6l6.6 4-6.6 4z" fill="#fff"/></svg></a>{{ end }}
         <a href="/posts/" class="btn-hero-primary">Browse All Articles</a>
         <a href="/search/" class="btn-hero-ghost">Search Topics</a>
-        {{ with index (where .Site.RegularPages "Params.quiz_page" true) 0 }}<a href="{{ .Permalink }}" class="btn-hero-ghost">Take the Quiz</a>{{ end }}
       </div>
     </div>
 
-    <!-- Hero Carousel: 5 daily-rotating articles (date-seeded, client-side) -->
-    <div class="hero-split-cards">
-      <div class="hero-carousel" id="hero-carousel">
-        <div class="carousel-track" id="carousel-track"></div>
-        <div class="carousel-dots" id="carousel-dots"></div>
-        <button class="carousel-prev" id="carousel-prev" aria-label="Previous article">&#8249;</button>
-        <button class="carousel-next" id="carousel-next" aria-label="Next article">&#8250;</button>
+    {{ if $featured }}
+    <a href="{{ $featured.Permalink }}" class="hero-feature-card">
+      {{ if $featured.Params.image }}
+      <div class="hero-feature-img">
+        <img src="{{ $featured.Params.image }}" alt="{{ $featured.Title }}" loading="eager">
       </div>
-
-      <!-- All article data for JS to pick from -->
-      <script id="carousel-articles" type="application/json">
-      [{{ range $i, $p := $pages }}{{ if and $p.Params.image (ne $p.Params.image "") }}{{ if $i }},{{ end }}{"u":"{{ $p.Permalink }}","t":"{{ $p.Title | htmlEscape }}","img":"{{ $p.Params.image }}","cat":"{{ if $p.Params.categories }}{{ partial "topic-label.html" (index $p.Params.categories 0) }}{{ end }}","rt":{{ int (math.Round (div $p.WordCount 450.0)) }}}{{ end }}{{ end }}]
-      </script>
-
-      <script>
-      (function(){
-        /* Date-seeded deterministic shuffle — same 5 articles all day for every visitor */
-        var s = Math.floor(Date.now() / 86400000); // changes at midnight UTC
-        function rng(){ s = (s * 1664525 + 1013904223) >>> 0; return s / 4294967296; }
-        function shuffle(a){
-          a = a.slice();
-          for(var i=a.length-1;i>0;i--){ var j=Math.floor(rng()*(i+1)),t=a[i];a[i]=a[j];a[j]=t; }
-          return a;
-        }
-        var all = JSON.parse(document.getElementById('carousel-articles').textContent);
-        var articles = shuffle(all.filter(function(a){ return a.img && a.img.indexOf('http')===0; })).slice(0,5);
-        if(!articles.length) return;
-
-        var track = document.getElementById('carousel-track');
-        var dotsEl = document.getElementById('carousel-dots');
-        var cur = 0;
-
-        articles.forEach(function(a, i){
-          var slide = document.createElement('div');
-          slide.className = 'carousel-slide' + (i===0?' active':'');
-          slide.innerHTML =
-            '<img class="carousel-img" src="'+a.img+'" alt="'+a.t.replace(/"/g,'&quot;')+'" loading="'+(i===0?'eager':'lazy')+'">' +
-            '<div class="carousel-overlay">' +
-              '<div class="carousel-body">' +
-                (a.cat ? '<span class="carousel-cat">'+a.cat+'</span>' : '') +
-                '<h2 class="carousel-title">'+a.t+'</h2>' +
-                '<span class="carousel-meta">'+a.rt+' min read</span>' +
-                '<a href="'+a.u+'" class="carousel-cta">Read Article &rarr;</a>' +
-              '</div>' +
-            '</div>';
-          track.appendChild(slide);
-
-          var dot = document.createElement('button');
-          dot.className = 'carousel-dot'+(i===0?' active':'');
-          dot.setAttribute('aria-label','Article '+(i+1));
-          (function(n){ dot.addEventListener('click',function(){ goTo(n); resetTimer(); }); })(i);
-          dotsEl.appendChild(dot);
-        });
-
-        function goTo(n){
-          var slides = track.querySelectorAll('.carousel-slide');
-          var dots   = dotsEl.querySelectorAll('.carousel-dot');
-          slides[cur].classList.remove('active');
-          dots[cur].classList.remove('active');
-          cur = ((n % articles.length) + articles.length) % articles.length;
-          slides[cur].classList.add('active');
-          dots[cur].classList.add('active');
-        }
-
-        var timer;
-        function resetTimer(){ clearInterval(timer); timer = setInterval(function(){ goTo(cur+1); }, 8000); }
-        document.getElementById('carousel-prev').addEventListener('click', function(){ goTo(cur-1); resetTimer(); });
-        document.getElementById('carousel-next').addEventListener('click', function(){ goTo(cur+1); resetTimer(); });
-        resetTimer();
-      })();
-      </script>
-    </div>
+      {{ end }}
+      <div class="hero-feature-body">
+        <div class="hero-feature-labels">
+          {{ if $featured.Params.featured_depth }}
+          <span class="hero-feature-badge hero-feature-badge-depth">⭐ Data-Backed Guide</span>
+          {{ else }}
+          <span class="hero-feature-label">Latest</span>
+          {{ end }}
+          {{ if $featured.Params.categories }}
+          <span class="hero-feature-cat">{{ index $featured.Params.categories 0 | title }}</span>
+          {{ end }}
+        </div>
+        <h2 class="hero-feature-title">{{ $featured.Title }}</h2>
+        <span class="hero-feature-read">{{ $featured.ReadingTime }} min read &rarr;</span>
+      </div>
+    </a>
+    {{ end }}
 
   </div>
 </section>
 
-<!-- ── ARTICLES ────────────────────────────────────────────────────── -->
+<!-- ── ARTICLES ──────────────────────────────────────────────────────────── -->
 <section class="articles-section">
   <div class="articles-inner">
     <div class="articles-wrap">
 
       <div class="articles-main">
-        <p class="section-label">More Articles</p>
+        <p class="section-label">Latest Articles</p>
 
-        {{ if $rest }}
-        {{ $wideCard  := index $rest 0 }}
-        {{ $gridCards := after 1 $rest }}
-
-        <a href="{{ $wideCard.Permalink }}" class="article-card article-card-wide">
-          {{ if $wideCard.Params.image }}
+        {{ if $second }}
+        <a href="{{ $second.Permalink }}" class="article-card article-card-wide {{ if $second.Params.featured_depth }}article-card-featured{{ end }}">
+          {{ if $second.Params.image }}
           <div class="article-card-image article-card-image-wide">
-            <img src="{{ $wideCard.Params.image }}" alt="{{ $wideCard.Title }}" loading="lazy">
+            <img src="{{ $second.Params.image }}" alt="{{ $second.Title }}" loading="lazy">
           </div>
           {{ end }}
           <div class="article-card-body">
-            {{ if $wideCard.Params.categories }}
-            <span class="article-cat">{{ partial "topic-label.html" (index $wideCard.Params.categories 0) }}</span>
-            {{ end }}
-            <h2 class="article-title article-title-wide">{{ $wideCard.Title }}</h2>
-            <p class="article-excerpt">{{ $wideCard.Summary | plainify | truncate 160 }}</p>
+            <div class="article-card-labels">
+              {{ if $second.Params.featured_depth }}
+              <span class="article-badge article-badge-depth">⭐ Data-Backed</span>
+              {{ end }}
+              {{ if $second.Params.categories }}
+              <span class="article-cat">{{ index $second.Params.categories 0 | title }}</span>
+              {{ end }}
+            </div>
+            <h2 class="article-title article-title-wide">{{ $second.Title }}</h2>
+            <p class="article-excerpt">{{ $second.Summary | plainify | truncate 160 }}</p>
             <div class="article-meta">
-              <span>{{ $wideCard.PublishDate.Format "Jan 2, 2006" }}</span>
-              <span>{{ (int (math.Round (div $wideCard.WordCount 450.0))) }} min read</span>
+              <span>{{ $second.PublishDate.Format "Jan 2, 2006" }}</span>
+              <span>{{ $second.ReadingTime }} min read</span>
               <span class="card-read-more">Read Article &rarr;</span>
             </div>
           </div>
         </a>
+        {{ end }}
 
         <div class="articles-grid" style="margin-top:28px">
-          {{ range $gridCards }}
+          {{ range $rest }}
           <a href="{{ .Permalink }}" class="article-card">
             {{ if .Params.image }}
             <div class="article-card-image">
@@ -161,25 +104,23 @@
             {{ end }}
             <div class="article-card-body">
               {{ if .Params.categories }}
-              <span class="article-cat">{{ partial "topic-label.html" (index .Params.categories 0) }}</span>
+              <span class="article-cat">{{ index .Params.categories 0 | title }}</span>
               {{ end }}
               <h3 class="article-title">{{ .Title }}</h3>
               <p class="article-excerpt">{{ .Summary | plainify | truncate 100 }}</p>
               <div class="article-meta">
-                <span>{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+                <span>{{ .ReadingTime }} min read</span>
                 <span class="card-read-more">Read &rarr;</span>
               </div>
             </div>
           </a>
           {{ end }}
         </div>
-        {{ end }}
       </div>
 
       <aside class="sidebar">
         {{ partial "cta-box.html" . }}
-        {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_sidebar (ne .Site.Params.adsense_slot_sidebar "auto") }}
-        <div class="widget" style="padding:0;border:none;background:transparent">
+        <div class="widget">
           <ins class="adsbygoogle" style="display:block"
             data-ad-client="{{ .Site.Params.adsense_id }}"
             data-ad-slot="{{ .Site.Params.adsense_slot_sidebar }}"
@@ -187,14 +128,11 @@
             data-full-width-responsive="true"></ins>
           <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
-        {{ end }}
         <div class="widget">
           <div class="widget-title">Browse Topics</div>
           <ul class="widget-list">
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            {{ $lbl := title (replace $name "-" " ") }}
-            {{ $lbl = replace $lbl "Hr" "HR" }}{{ $lbl = replace $lbl "Pm" "PM" }}{{ $lbl = replace $lbl "Diy" "DIY" }}{{ $lbl = replace $lbl "Hoa" "HOA" }}{{ $lbl = replace $lbl "Hvac" "HVAC" }}{{ $lbl = replace $lbl "Rv" "RV" }}
-            <li><a href="{{ with site.GetPage (printf "/categories/%s" $name) }}{{ .RelPermalink }}{{ end }}">{{ $lbl }}</a></li>
+            <li><a href="/categories/{{ $name | urlize }}/">{{ $name | title }} <span>({{ len $taxonomy }})</span></a></li>
             {{ end }}
           </ul>
         </div>
