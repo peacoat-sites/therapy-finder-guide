@@ -49,6 +49,7 @@ a { color: inherit; text-decoration: none; }
 
 /* ── SEARCH PAGE ── */
 .search-page-wrap { max-width: 860px; }
+.search-page-title { color: #fff; text-shadow: 0 2px 4px rgba(0,0,0,0.3); }
 .search-form-large { margin-bottom: 8px; }
 .search-form-inner { display: flex; align-items: center; background: #ffffff; border: 2px solid #e2e8f0; border-radius: 28px; padding: 10px 20px; gap: 10px; transition: var(--trans); }
 .search-form-inner:focus-within { border-color: var(--accent, var(--primary, #4338ca)); box-shadow: 0 0 0 3px rgba(26,39,68,0.08); }
@@ -115,6 +116,7 @@ a { color: inherit; text-decoration: none; }
 .post-featured-image { border-radius: var(--radius); overflow: hidden; margin-bottom: 0; }
 .post-featured-image img { width: 100%; max-height: 480px; object-fit: cover; }
 .post-content { font-size: 16px; line-height: 1.85; color: var(--text); }
+.post-content img { max-width: 100%; height: auto; display: block; margin: 20px 0; aspect-ratio: 16/9; object-fit: contain; }
 .post-content h2 { font-family: var(--serif); font-size: 1.55rem; font-weight: 700; color: var(--text); margin: 36px 0 14px; padding-bottom: 8px; border-bottom: 2px solid var(--border); }
 .post-content h3 { font-family: var(--serif); font-size: 1.2rem; font-weight: 600; color: var(--text); margin: 28px 0 10px; }
 .post-content p { margin-bottom: 18px; }
