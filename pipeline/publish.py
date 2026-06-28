@@ -872,6 +872,7 @@ Examples of voice variation (NOT "professional neutral"):
 - A therapist educator (mental health): validating, acknowledges complexity, checks assumptions
 
 Your job: Read the persona's tone/background and write in THAT voice. Not "professional." Not "neutral." THAT SPECIFIC PERSON. If they'd digress, digress. If they'd be skeptical, be skeptical. If they'd use casual language, use it.
+"""
 
     msg = client.messages.create(
         model="claude-sonnet-4-6",
