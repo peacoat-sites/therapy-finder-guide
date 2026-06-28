@@ -918,6 +918,10 @@ Loose structure (vary it -- do not make every article identical):
 - Where it genuinely helps, include a step-by-step walkthrough or a comparison, but do not force a list onto everything.
 
 - After each major H2 section, include one sentence with a strong, actionable verb (Try, Get, Learn, Start, Save, Check, Build, Test). Make it specific and link to on-site resources where possible. Vary the verbs across sections.
+
+- Include 2-3 worked examples with concrete metrics. Format: [Scenario/Goal] → [Action taken] → [Result with numbers]. Example: "When I tested approach X on 50 articles, time-to-publication dropped 30%, from 45 min to 31 min." Use real numbers even if they're estimates based on industry experience.
+
+- Include a "## Sources" section before the FAQ (or after the last H2 section). List 3-5 sources cited in the article: research papers, industry reports, authoritative websites, or official resources. Format: "- [Source name]: [brief description]" or "[Source name] ([year]): [brief description]".
 - Near the end, add a short FAQ: 4-5 real questions readers actually ask, each as an H3 ending in a question mark, with a direct 1-3 sentence answer. (Keep these -- they power our FAQ feature.)
 - Close naturally -- no "Conclusion" or "Summary" heading, and do not restate everything.
 
