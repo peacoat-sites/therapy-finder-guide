@@ -177,11 +177,6 @@
   <!-- ── STICKY SIDEBAR (articles only) ── -->
   <aside class="sidebar">
 
-    <!-- Table of Contents — only if partial exists in this repo -->
-    {{ if templates.Exists "partials/toc.html" }}
-    {{ partial "toc.html" . }}
-    {{ end }}
-
     <!-- Watch on YouTube CTA -->
     {{ with .Site.Params.youtube_channel }}
     <div class="widget yt-cta" style="text-align:center">

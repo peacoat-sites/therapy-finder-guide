@@ -51,9 +51,6 @@
     tocLinks.forEach(function(a) {
       a.classList.toggle('toc-active', a.getAttribute('href') === '#' + id);
     });
-    // Scroll active link into view within TOC panel
-    var active = toc.querySelector('a.toc-active');
-    if (active) active.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
   }, { rootMargin: '-5% 0px -75% 0px' });
   headings.forEach(function(h) { headingObs.observe(h); });
 
