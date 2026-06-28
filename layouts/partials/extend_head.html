@@ -1,13 +1,13 @@
 <!-- Open Graph -->
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ if or (eq .Kind "term") (eq .Kind "taxonomy") }}{{ partial "topic-label.html" .Title }}{{ else }}{{ .Title }}{{ end }} » {{ .Site.Title }}{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 {{ with .Params.image }}<meta property="og:image" content="{{ . }}">{{ end }}
 <!-- Twitter Card -->
 <meta name="twitter:card" content="{{ if .Params.image }}summary_large_image{{ else }}summary{{ end }}">
-<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ if or (eq .Kind "term") (eq .Kind "taxonomy") }}{{ partial "topic-label.html" .Title }}{{ else }}{{ .Title }}{{ end }}{{ end }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 {{ with .Params.image }}<meta name="twitter:image" content="{{ . }}">{{ end }}
 
@@ -29,34 +29,56 @@
 {{ end }}
 
 <!-- Schema Markup -->
-{{- if .IsHome }}
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","name":"{{ .Site.Title }}","url":"{{ .Site.BaseURL }}","description":"{{ .Site.Params.description }}"}
-</script>
-{{- end }}
-
-<!-- Schema Markup -->
 {{ if eq .Type "posts" }}
-{{- $desc := .Site.Params.description -}}{{- with .Description }}{{ $desc = . }}{{ end -}}
-{{- $author := .Params.author | default .Site.Params.persona_name | default .Site.Title -}}
-{{- $section := "" -}}{{- with .Params.categories }}{{ $section = index . 0 | title }}{{ end -}}
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"{{ .Title }}","datePublished":"{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}","dateModified":"{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}","author":{"@type":"Person","name":"{{ .Params.author | jsonify }}","url":"{{ printf "%sauthors/%s/" .Site.BaseURL (.Params.author_slug | urlize) }}"},"publisher":{"@type":"Organization","name":"{{ .Site.Title }}"},"url":"{{ .Permalink }}","mainEntityOfPage":"{{ .Permalink }}","description":"{{ $desc }}","wordCount":{{ .WordCount }}{{ if $section }},"articleSection":"{{ $section }}"{{ end }}{{ with .Params.image }},"image":"{{ . }}"{{ end }}}
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title | replaceRE "\"" "\\\"" }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.persona_name | default .Site.Params.author | default .Site.Title | replaceRE "\"" "\\\"" }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title | replaceRE "\"" "\\\"" }}"
+  },
+  "url": "{{ .Permalink }}{{ with .Params.image }}",
+  "image": "{{ . }}{{ end }}"
+}
 </script>
-{{- if .Params.categories -}}
-{{- $cat := index .Params.categories 0 -}}
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"{{ .Site.BaseURL }}"},{"@type":"ListItem","position":2,"name":"{{ title $cat }}","item":"{{ .Site.BaseURL }}categories/{{ urlize $cat }}/"},{"@type":"ListItem","position":3,"name":"{{ .Title }}","item":"{{ .Permalink }}"}]}
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }{{ if .Params.categories }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ index .Params.categories 0 | title }}",
+      "item": "{{ print .Site.BaseURL "categories/" (index .Params.categories 0 | urlize) "/" }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }{{ else }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }{{ end }}
+  ]
+}
 </script>
-{{- else -}}
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"{{ .Site.BaseURL }}"},{"@type":"ListItem","position":2,"name":"{{ .Title }}","item":"{{ .Permalink }}"}]}
-</script>
-{{- end -}}
 {{ end }}
-
-{{- if and (eq .Type "posts") .Params.faqs }}
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{- range $i, $faq := .Params.faqs }}{{- if $i }},{{ end }}{"@type":"Question","name":"{{ $faq.q }}","acceptedAnswer":{"@type":"Answer","text":"{{ $faq.a }}"}}{{- end }}]}
-</script>
-{{- end }}
