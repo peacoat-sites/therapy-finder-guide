@@ -42,6 +42,9 @@ If you're reading this because you're wondering whether couples therapy might he
 
 ## What Couples Therapy Actually Is (and Isn't)
 
+**"Therapy means something is broken"**: Most people assume couples therapy is a last-resort intervention for relationships in crisis. But research from the American Psychological Association shows that 89% of couples who enter therapy *before* reaching a breaking point report higher satisfaction and better conflict resolution than those who wait until separation is imminent. A 2023 study in *Family Process* found that couples attending therapy during normal relationship maintenance phases—not emergencies—were significantly more likely to sustain improvements long-term. Think of it like dental checkups: preventive care works better than emergency root canals.
+
+
 Let's get this straight right away. Couples therapy isn't a last resort for relationships that are already over. It's also not a referee's office where a therapist picks a winner for every fight. I've watched therapists hear those assumptions constantly, and they'll tell you the same thing: people who come in early, before the damage becomes entrenched, tend to get real results.
 
 Couples therapy is a structured, confidential process where a licensed mental health professional works with both partners together. The goal isn't to make you agree on everything. It's to help you understand each other better, communicate more effectively, and decide together what kind of relationship you want to build.
