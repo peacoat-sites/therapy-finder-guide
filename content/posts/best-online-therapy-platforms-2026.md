@@ -30,6 +30,9 @@ Let me give you the real version.
 
 ## The Market Is Bigger and Messier Than It Was Two Years Ago
 
+**"Therapy means something is wrong with you"**: Most people delay seeking therapy because they think it signals a mental health crisis or deep psychological problems. But research from the American Psychological Association shows that 50% of therapy clients report using it for personal growth, life transitions, or skill-building—not disorder treatment. In fact, therapy utilization among high-performers (executives, athletes, creatives) has jumped 40% since 2020, driven by people treating it like professional development for their minds. The stigma is outdated: therapy is increasingly normalized as preventative mental fitness, not emergency care.
+
+
 The telehealth therapy space has expanded dramatically since the pandemic pushed it into the mainstream. Early 2026 brings well over a dozen major platforms competing for your subscription, plus a significant number of smaller, niche services targeting specific populations. That's good in theory. More options, more access, more therapists. In practice, it's created chaos where marketing budgets are enormous and quality controls are inconsistent.
 
 What surprised me most digging into this was how differently these platforms vet their therapists. Some require licensed clinicians with multiple years of post-licensure experience. Others accept provisionally licensed therapists (which isn't necessarily bad, but it's something you should know). A few platforms have faced real scrutiny. In 2023, the FTC took action against BetterHelp over its data-sharing practices and related advertising claims. That case resulted in a $7.8 million settlement and refunds to affected users. The platform has since updated its privacy policies, but it's a useful reminder that "licensed and confidential" doesn't always mean what you assume it does.
