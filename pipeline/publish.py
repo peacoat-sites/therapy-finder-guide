@@ -660,56 +660,6 @@ def fetch_image_pexels(query: str, used_ids: set) -> dict | None:
         print(f"  Pexels error: {e}")
         return None
 
-def fetch_image_unsplash(query: str) -> dict | None:
-    """Fetch from Unsplash (free API, no key required)."""
-    try:
-        r = requests.get(
-            "https://api.unsplash.com/search/photos",
-            params={"query": query, "per_page": 50, "orientation": "landscape"},
-            headers={"Accept-Version": "v1"},
-            timeout=10
-        )
-        if r.status_code != 200:
-            return None
-        photos = r.json().get("results", [])
-        if not photos:
-            return None
-        photo = random.choice(photos[:25])
-        return {
-            "url": photo["urls"]["regular"],
-            "credit": photo["user"]["name"],
-            "credit_link": photo["user"]["links"]["html"],
-            "source": "unsplash",
-        }
-    except Exception as e:
-        print(f"  Unsplash error: {e}")
-        return None
-
-
-def fetch_image_pixabay(query: str) -> dict | None:
-    """Fetch from Pixabay (free API, no key required)."""
-    try:
-        r = requests.get(
-            "https://pixabay.com/api/",
-            params={"q": query, "per_page": 50, "orientation": "horizontal", "image_type": "photo"},
-            timeout=10
-        )
-        if r.status_code != 200:
-            return None
-        hits = r.json().get("hits", [])
-        if not hits:
-            return None
-        photo = random.choice(hits[:25])
-        return {
-            "url": photo["largeImageURL"],
-            "credit": photo.get("user", "Pixabay"),
-            "credit_link": f"https://pixabay.com/users/{photo.get('user_id', '')}",
-            "source": "pixabay",
-        }
-    except Exception as e:
-        print(f"  Pixabay error: {e}")
-        return None
-
 
 def fetch_image_flux(query: str) -> dict | None:
     if not FLUX_KEY:
@@ -753,27 +703,11 @@ def _derive_image_query(keyword: str) -> str:
 
 
 def fetch_image(query: str, used_ids: set) -> dict | None:
-    """Try three stock photo sources with weighted random picker: Pexels 40%, Unsplash 40%, Pixabay 20%."""
-    picker = random.randint(0, 99)
-    if picker < 40:
-        img = fetch_image_pexels(query, used_ids)
-        if img: return img
-        img = fetch_image_unsplash(query)
-        if img: return img
-        return fetch_image_pixabay(query)
-    elif picker < 80:
-        img = fetch_image_unsplash(query)
-        if img: return img
-        img = fetch_image_pexels(query, used_ids)
-        if img: return img
-        return fetch_image_pixabay(query)
-    else:
-        img = fetch_image_pixabay(query)
-        if img: return img
-        img = fetch_image_pexels(query, used_ids)
-        if img: return img
-        return fetch_image_unsplash(query)
-
+    img = fetch_image_pexels(query, used_ids)
+    if img:
+        return img
+    print("  Pexels miss -- trying Flux...")
+    return fetch_image_flux(query)
 
 # ── PUBLISHED KEYWORD TRACKING ────────────────────────────────────────────────
 
@@ -883,7 +817,7 @@ Writing rules (follow every one):
 - Vary your rhythm hard. Mix short, punchy sentences (fragments are fine) with longer ones. Let some paragraphs be a single sentence. Do not make every section the same length.
 - Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
 - Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
-- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"), but do not overdo it.
+- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"). Include at least 1-2 "I tested", "in my experience", or "when I [verb]" moments per article. These signal authentic expertise and are the highest-trust differentiator from generic AI writing. Do not overdo it—2-3 natural moments per article is perfect, not contrived.
 - Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
@@ -898,12 +832,6 @@ Avoid these structural tells:
 - Perfectly balanced "on one hand / on the other hand" hedging on everything.
 - Opening every paragraph with its topic sentence. Sometimes bury the point.
 - Turning everything into a bulleted list. Prose is fine; use a list only when it genuinely helps.
-
-Expertise signals (E-E-A-T):
-- Include 3-5 direct expert or practitioner quotes per article, with specific attribution.
-  Example: "As Dr. Jane Smith, a cardiologist with 18 years of practice, explains: '[exact quote]'"
-- Where interviews aren't available, cite specific published research or frameworks with full citations.
-- For each quote, briefly note the expert's credential (years of experience, certification, published works, etc.).
 {ymyl_instruction}
 {ref_instruction}
 {affiliate_note}
@@ -916,14 +844,12 @@ Loose structure (vary it -- do not make every article identical):
 - Open without a heading, and vary how you open (see the writing rules).
 - Cover the topic across a handful of H2 sections, but vary how many, how long they run, and how you approach each. Some can be a few tight paragraphs; let one go deeper.
 - Where it genuinely helps, include a step-by-step walkthrough or a comparison, but do not force a list onto everything.
-
-- After each major H2 section, include one sentence with a strong, actionable verb (Try, Get, Learn, Start, Save, Check, Build, Test). Make it specific and link to on-site resources where possible. Vary the verbs across sections.
-
-- Include 2-3 worked examples with concrete metrics. Format: [Scenario/Goal] → [Action taken] → [Result with numbers]. Example: "When I tested approach X on 50 articles, time-to-publication dropped 30%, from 45 min to 31 min." Use real numbers even if they're estimates based on industry experience.
-
-- Include a "## Sources" section before the FAQ (or after the last H2 section). List 3-5 sources cited in the article: research papers, industry reports, authoritative websites, or official resources. Format: "- [Source name]: [brief description]" or "[Source name] ([year]): [brief description]".
 - Near the end, add a short FAQ: 4-5 real questions readers actually ask, each as an H3 ending in a question mark, with a direct 1-3 sentence answer. (Keep these -- they power our FAQ feature.)
+- Include a "## Sources" section before the FAQ or after the last main section. List 3-5 authoritative sources you cite in the article: research papers, industry reports, official resources, or verified data. Format: "- [Source name]: [brief description]" or "[Source name] ([year]): [description]".
+- Weave in 2-3 worked examples with concrete outcomes. Format: "[Scenario] → [Action taken] → [Result with numbers]". Example: "When we tested this approach on 50 projects, completion time dropped 28%, from 45 days to 32 days." Use real numbers even if estimated from industry experience.
 - Close naturally -- no "Conclusion" or "Summary" heading, and do not restate everything.
+
+**Currency & authenticity signal:** Include an explicit "as of {_current_year}" or "current as of {_current_date}" statement where it fits naturally. This signals freshness and expert confidence, not a stale regurgitation. Examples: "As of June 2026, solar installations...", "Current rates (June 2026)...", "This year's market shows..."
 
 Write it in the author's specific voice, with the opinions and concrete detail only someone who knows this topic firsthand would include."""
 
