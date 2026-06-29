@@ -22,7 +22,7 @@
 
   <div class="posts-body">
     {{ range $catName, $catPages := .Site.Taxonomies.categories }}
-    {{ $sorted := $catPages.ByDate.Reverse }}
+    {{ $sorted := $catPages.Pages.ByPublishDate.Reverse }}
     {{ if ge (len $sorted) 1 }}
 
     <div class="cat-section" id="cat-{{ $catName | urlize }}">
