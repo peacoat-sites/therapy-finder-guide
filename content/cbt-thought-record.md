@@ -5,6 +5,7 @@ date: 2026-06-10
 slug: "cbt-thought-record-worksheet"
 categories: ["Mental Health Tools"]
 author: "Megan Strand"
+image: "https://images.pexels.com/photos/36421444/pexels-photo-36421444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Cognitive Behavioral Therapy (CBT) is one of the most extensively researched forms of psychotherapy in existence. Decades of clinical trials across dozens of countries have demonstrated its effectiveness for conditions including depression, anxiety disorders, PTSD, OCD, eating disorders, and chronic pain. One of its central tools is the **thought record** — sometimes called a thought diary or cognitive restructuring worksheet.

@@ -5,6 +5,7 @@ description: "Use our interactive therapy type matcher to explore which evidence
 categories: ["Finding a Therapist"]
 author: "Megan Strand"
 slug: "which-therapy-type"
+image: "https://images.pexels.com/photos/10617672/pexels-photo-10617672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 One of the most confusing parts of starting therapy is discovering that there are dozens of different therapeutic approaches — and that your therapist's style matters as much as their credentials. CBT, EMDR, DBT, ACT, psychodynamic therapy, somatic therapy, IFS: what do these acronyms mean, and how do you know which might work for you?

@@ -5,6 +5,7 @@ date: 2026-06-10
 slug: "first-therapy-session-checklist"
 categories: ["Finding a Therapist"]
 author: "Megan Strand"
+image: "https://images.pexels.com/photos/9562136/pexels-photo-9562136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Starting therapy for the first time is a meaningful step, and it is natural to feel a mix of hope and nervousness. Many people wonder what will actually happen during that first appointment. Understanding the structure of an initial session can ease anxiety and help you walk in feeling prepared rather than blindsided.
