@@ -218,7 +218,7 @@
       <a href="/">Home</a>
       {{ if .Params.categories }}
       <span>&rsaquo;</span>
-      <a href="{{ with index (.GetTerms \"categories\") 0 }}{{ .RelPermalink }}{{ end }}">{{ partial "topic-label.html" (index .Params.categories 0) }}</a>
+      <a href="{{ with index (.GetTerms "categories") 0 }}{{ .RelPermalink }}{{ end }}">{{ partial "topic-label.html" (index .Params.categories 0) }}</a>
       {{ end }}
       <span>&rsaquo;</span>
       <span>{{ .Title | truncate 60 }}</span>
