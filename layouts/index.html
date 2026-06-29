@@ -94,26 +94,42 @@
         </a>
         {{ end }}
 
-        <div class="articles-grid" style="margin-top:28px">
-          {{ range $rest }}
-          <a href="{{ .Permalink }}" class="article-card">
-            {{ if .Params.image }}
-            <div class="article-card-image">
-              <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
-            </div>
-            {{ end }}
-            <div class="article-card-body">
-              {{ if .Params.categories }}
-              <span class="article-cat">{{ index .Params.categories 0 | title }}</span>
+        <!-- Topic-grouped article sections: breaks visual monotony of uniform tile grid -->
+        <div class="topic-groups">
+          {{ range $catName, $catPages := .Site.Taxonomies.categories }}
+          {{ $sorted := $catPages.Pages.ByPublishDate.Reverse }}
+          {{ if ge (len $sorted) 2 }}
+          <section class="topic-group">
+            <div class="topic-group-header">
+              <h2 class="topic-group-title">{{ $catName | title }}</h2>
+              {{ if gt (len $sorted) 4 }}
+              <a href="/categories/{{ $catName | urlize }}/" class="topic-view-all">View all {{ len $sorted }} &rarr;</a>
               {{ end }}
-              <h3 class="article-title">{{ .Title }}</h3>
-              <p class="article-excerpt">{{ .Summary | plainify | truncate 100 }}</p>
-              <div class="article-meta">
-                <span>{{ .ReadingTime }} min read</span>
-                <span class="card-read-more">Read &rarr;</span>
-              </div>
             </div>
-          </a>
+            <div class="articles-grid">
+              {{ range $i, $p := first 4 $sorted }}
+              <a href="{{ $p.Permalink }}" class="article-card{{ if eq $i 0 }} article-card-lead{{ end }}">
+                {{ if $p.Params.image }}
+                <div class="article-card-image">
+                  <img src="{{ $p.Params.image }}" alt="{{ $p.Title }}" loading="lazy">
+                </div>
+                {{ end }}
+                <div class="article-card-body">
+                  {{ if $p.Params.categories }}
+                  <span class="article-cat">{{ index $p.Params.categories 0 | title }}</span>
+                  {{ end }}
+                  <h3 class="article-title">{{ $p.Title }}</h3>
+                  {{ if eq $i 0 }}<p class="article-excerpt">{{ $p.Summary | plainify | truncate 180 }}</p>{{ end }}
+                  <div class="article-meta">
+                    <span>{{ $p.ReadingTime }} min read</span>
+                    <span class="card-read-more">Read &rarr;</span>
+                  </div>
+                </div>
+              </a>
+              {{ end }}
+            </div>
+          </section>
+          {{ end }}
           {{ end }}
         </div>
       </div>
