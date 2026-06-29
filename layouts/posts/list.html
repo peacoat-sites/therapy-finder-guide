@@ -1,0 +1,87 @@
+{{ define "main" }}
+
+{{/* Build sorted category list: all categories with their articles sorted by date */}}
+
+<section class="posts-section">
+
+  <div class="posts-hero">
+    <div class="posts-hero-inner">
+      <p class="section-label">All Articles</p>
+      <h1 class="posts-hero-title">Browse by Topic</h1>
+      <p class="posts-hero-sub">{{ len (where .Site.RegularPages "Section" "posts") }} articles across {{ len .Site.Taxonomies.categories }} topics</p>
+    </div>
+    {{/* Quick-jump topic nav */}}
+    <nav class="posts-topic-nav" aria-label="Jump to topic">
+      {{ range $catName, $catPages := .Site.Taxonomies.categories }}
+      {{ if ge (len $catPages) 1 }}
+      <a href="#cat-{{ $catName | urlize }}" class="posts-topic-pill">{{ $catName | title }}</a>
+      {{ end }}
+      {{ end }}
+    </nav>
+  </div>
+
+  <div class="posts-body">
+    {{ range $catName, $catPages := .Site.Taxonomies.categories }}
+    {{ $sorted := $catPages.ByDate.Reverse }}
+    {{ if ge (len $sorted) 1 }}
+
+    <div class="cat-section" id="cat-{{ $catName | urlize }}">
+
+      <div class="cat-section-header">
+        <h2 class="cat-section-name">{{ $catName | title }}</h2>
+        <span class="cat-section-count">{{ len $sorted }} articles</span>
+        <a href="/categories/{{ $catName | urlize }}/" class="cat-view-all">View all &rarr;</a>
+      </div>
+
+      <div class="cat-layout">
+
+        {{/* Lead card: most recent article in this category */}}
+        {{ with index $sorted 0 }}
+        <a href="{{ .Permalink }}" class="cat-lead">
+          {{ if .Params.image }}
+          <div class="cat-lead-img">
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="cat-lead-body">
+            {{ if .Params.categories }}
+            <span class="cat-lead-topic">{{ index .Params.categories 0 | title }}</span>
+            {{ end }}
+            <h3 class="cat-lead-title">{{ .Title }}</h3>
+            <p class="cat-lead-excerpt">{{ .Summary | plainify | truncate 200 }}</p>
+            <div class="cat-lead-meta">
+              <span>{{ .PublishDate.Format "Jan 2, 2006" }}</span>
+              <span>{{ .ReadingTime }} min read</span>
+              <span class="cat-lead-cta">Read article &rarr;</span>
+            </div>
+          </div>
+        </a>
+        {{ end }}
+
+        {{/* Compact tiles: next 3 articles */}}
+        <div class="cat-tiles">
+          {{ range after 1 (first 4 $sorted) }}
+          <a href="{{ .Permalink }}" class="cat-tile">
+            {{ if .Params.image }}
+            <div class="cat-tile-img">
+              <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+            </div>
+            {{ end }}
+            <div class="cat-tile-body">
+              <h4 class="cat-tile-title">{{ .Title }}</h4>
+              <span class="cat-tile-meta">{{ .ReadingTime }} min read</span>
+            </div>
+          </a>
+          {{ end }}
+        </div>
+
+      </div>{{/* end cat-layout */}}
+
+    </div>{{/* end cat-section */}}
+
+    {{ end }}
+    {{ end }}
+  </div>{{/* end posts-body */}}
+
+</section>
+{{ end }}
