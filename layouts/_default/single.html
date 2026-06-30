@@ -97,25 +97,7 @@
       </div>
     </div>
     {{ end }}
-        </a>
-      </div>
-      <div class="author-info">
-        <strong class="author-name">
-          <a href="/{{ .Params.author_slug | urlize }}/" style="text-decoration: none; color: inherit;">
-            {{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}
-          </a>
-        </strong>
-        {{ with .Params.author_title }}<span class="author-title">{{ . }}</span>{{ end }}
-        {{ with .Params.author_bio }}<p class="author-blurb">{{ . }}</p>{{ end }}
-      </div>
-    </div>
-      <div class="author-info">
-        <strong class="author-name">{{ . }}</strong>
-        <span class="author-title">{{ $.Site.Params.persona_title }}</span>
-        <p class="author-blurb">{{ $.Site.Params.persona_bio }}</p>
-      </div>
-    </div>
-    {{ end }}
+
 
 {{ if eq .Type "posts" }}
 <div class="share-row" style="display:flex;gap:10px;flex-wrap:wrap;margin:32px 0 16px;padding:20px 0;border-top:1px solid var(--border,#e7e5e4);border-bottom:1px solid var(--border,#e7e5e4)">
