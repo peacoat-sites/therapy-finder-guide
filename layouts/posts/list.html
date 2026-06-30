@@ -1,6 +1,11 @@
 {{ define "main" }}
 
-{{/* Build sorted category list: all categories with their articles sorted by date */}}
+{{/* Sort categories by article count descending */}}
+{{ $catList := slice }}
+{{ range $name, $pages := .Site.Taxonomies.categories }}
+  {{ $catList = $catList | append (dict "name" $name "pages" $pages "count" (len $pages)) }}
+{{ end }}
+{{ $catList = sort $catList "count" "desc" }}
 
 <section class="posts-section">
 
@@ -10,19 +15,20 @@
       <h1 class="posts-hero-title">Browse by Topic</h1>
       <p class="posts-hero-sub">{{ len (where .Site.RegularPages "Section" "posts") }} articles across {{ len .Site.Taxonomies.categories }} topics</p>
     </div>
-    {{/* Quick-jump topic nav */}}
+    {{/* Quick-jump topic nav — sorted by count */}}
     <nav class="posts-topic-nav" aria-label="Jump to topic">
-      {{ range $catName, $catPages := .Site.Taxonomies.categories }}
-      {{ if ge (len $catPages) 1 }}
-      <a href="#cat-{{ $catName | urlize }}" class="posts-topic-pill">{{ $catName | title }}</a>
+      {{ range $catList }}
+      {{ if ge .count 1 }}
+      <a href="#cat-{{ .name | urlize }}" class="posts-topic-pill">{{ .name | title }}</a>
       {{ end }}
       {{ end }}
     </nav>
   </div>
 
   <div class="posts-body">
-    {{ range $catName, $catPages := .Site.Taxonomies.categories }}
-    {{ $sorted := $catPages.Pages.ByPublishDate.Reverse }}
+    {{ range $catList }}
+    {{ $catName := .name }}
+    {{ $sorted := .pages.Pages.ByPublishDate.Reverse }}
     {{ if ge (len $sorted) 1 }}
 
     <div class="cat-section" id="cat-{{ $catName | urlize }}">

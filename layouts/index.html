@@ -94,10 +94,16 @@
         </a>
         {{ end }}
 
-        <!-- Topic-grouped article sections: breaks visual monotony of uniform tile grid -->
+        <!-- Topic-grouped article sections sorted by category size (most articles first) -->
+        {{ $catList := slice }}
+        {{ range $name, $pages := .Site.Taxonomies.categories }}
+          {{ $catList = $catList | append (dict "name" $name "pages" $pages "count" (len $pages)) }}
+        {{ end }}
+        {{ $catList = sort $catList "count" "desc" }}
         <div class="topic-groups">
-          {{ range $catName, $catPages := .Site.Taxonomies.categories }}
-          {{ $sorted := $catPages.Pages.ByPublishDate.Reverse }}
+          {{ range $catList }}
+          {{ $catName := .name }}
+          {{ $sorted := .pages.Pages.ByPublishDate.Reverse }}
           {{ if ge (len $sorted) 2 }}
           <section class="topic-group">
             <div class="topic-group-header">
