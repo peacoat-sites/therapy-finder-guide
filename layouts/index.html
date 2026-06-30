@@ -39,9 +39,18 @@
         {{ if lt (len $slides) 6 }}{{ $slides = $slides | append . }}{{ end }}
       {{ end }}
     {{ end }}
+    {{/* Build slide data as Hugo dicts so jsonify produces clean JSON (avoids minifier double-escaping) */}}
+    {{ $slideData := slice }}
+    {{ range $slides }}
+      {{ $cat := "" }}
+      {{ if .Params.categories }}{{ $cat = index .Params.categories 0 }}{{ end }}
+      {{ $depth := false }}
+      {{ if .Params.featured_depth }}{{ $depth = true }}{{ end }}
+      {{ $slideData = $slideData | append (dict "url" .Permalink "img" .Params.image "title" .Title "cat" $cat "read" .ReadingTime "depth" $depth) }}
+    {{ end }}
     {{ with index $slides 0 }}
     <div class="hero-carousel" id="hero-carousel">
-      <script type="application/json" id="hero-slide-data">[{{ range $i, $p := $slides }}{{ if $i }},{{ end }}{"url":{{ $p.Permalink | jsonify }},"img":{{ $p.Params.image | jsonify }},"title":{{ $p.Title | jsonify }},"cat":{{ if $p.Params.categories }}{{ index $p.Params.categories 0 | title | jsonify }}{{ else }}""{{ end }},"read":{{ $p.ReadingTime }},"depth":{{ if $p.Params.featured_depth }}true{{ else }}false{{ end }}}{{ end }}]</script>
+      <script>var HERO_SLIDES={{ $slideData | jsonify }};</script>
       <a href="{{ .Permalink }}" class="hero-feature-card" id="hero-card-link">
         <div class="hero-feature-img">
           <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" id="hero-card-img">
@@ -53,7 +62,7 @@
             {{ else }}
             <span class="hero-feature-label" id="hero-card-badge">Latest</span>
             {{ end }}
-            {{ if .Params.categories }}<span class="hero-feature-cat" id="hero-card-cat">{{ index .Params.categories 0 | title }}</span>{{ end }}
+            {{ if .Params.categories }}<span class="hero-feature-cat" id="hero-card-cat">{{ index .Params.categories 0 }}</span>{{ end }}
           </div>
           <h2 class="hero-feature-title" id="hero-card-title">{{ .Title }}</h2>
           <span class="hero-feature-read" id="hero-card-read">{{ .ReadingTime }} min read &rarr;</span>
@@ -67,10 +76,8 @@
     </div>
     <script>
     (function(){
-      var data=document.getElementById('hero-slide-data');
-      if(!data) return;
-      var slides=JSON.parse(data.textContent);
-      if(slides.length<2) return;
+      if(!window.HERO_SLIDES||HERO_SLIDES.length<2) return;
+      var slides=HERO_SLIDES;
       var cur=0,timer,busy=false;
       var link=document.getElementById('hero-card-link');
       var img=document.getElementById('hero-card-img');
@@ -148,17 +155,25 @@
         <!-- Topic-grouped article sections sorted by category size (most articles first) -->
         {{ $catList := slice }}
         {{ range $name, $pages := .Site.Taxonomies.categories }}
-          {{ $catList = $catList | append (dict "name" $name "pages" $pages "count" (len $pages)) }}
+          {{/* Get display name from first article frontmatter to preserve acronym casing (e.g. "PM Frameworks" not "Pm Frameworks") */}}
+          {{ $display := $name | title }}
+          {{ with index $pages.Pages 0 }}
+            {{ range .Params.categories }}
+              {{ if eq (. | urlize) $name }}{{ $display = . }}{{ end }}
+            {{ end }}
+          {{ end }}
+          {{ $catList = $catList | append (dict "name" $name "display" $display "pages" $pages "count" (len $pages)) }}
         {{ end }}
         {{ $catList = sort $catList "count" "desc" }}
         <div class="topic-groups">
           {{ range $catList }}
           {{ $catName := .name }}
+          {{ $catDisplay := .display }}
           {{ $sorted := .pages.Pages.ByPublishDate.Reverse }}
           {{ if ge (len $sorted) 2 }}
           <section class="topic-group">
             <div class="topic-group-header">
-              <h2 class="topic-group-title">{{ $catName | title }}</h2>
+              <h2 class="topic-group-title">{{ $catDisplay }}</h2>
               {{ if gt (len $sorted) 4 }}
               <a href="/categories/{{ $catName | urlize }}/" class="topic-view-all">View all {{ len $sorted }} &rarr;</a>
               {{ end }}
@@ -173,7 +188,7 @@
                 {{ end }}
                 <div class="article-card-body">
                   {{ if $p.Params.categories }}
-                  <span class="article-cat">{{ index $p.Params.categories 0 | title }}</span>
+                  <span class="article-cat">{{ index $p.Params.categories 0 }}</span>
                   {{ end }}
                   <h3 class="article-title">{{ $p.Title }}</h3>
                   {{ if eq $i 0 }}<p class="article-excerpt">{{ $p.Summary | plainify | truncate 180 }}</p>{{ end }}

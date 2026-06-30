@@ -1,9 +1,15 @@
 {{ define "main" }}
 
-{{/* Sort categories by article count descending */}}
+{{/* Sort categories by article count descending; preserve display name casing from frontmatter */}}
 {{ $catList := slice }}
 {{ range $name, $pages := .Site.Taxonomies.categories }}
-  {{ $catList = $catList | append (dict "name" $name "pages" $pages "count" (len $pages)) }}
+  {{ $display := $name | title }}
+  {{ with index $pages.Pages 0 }}
+    {{ range .Params.categories }}
+      {{ if eq (. | urlize) $name }}{{ $display = . }}{{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $catList = $catList | append (dict "name" $name "display" $display "pages" $pages "count" (len $pages)) }}
 {{ end }}
 {{ $catList = sort $catList "count" "desc" }}
 
@@ -19,7 +25,7 @@
     <nav class="posts-topic-nav" aria-label="Jump to topic">
       {{ range $catList }}
       {{ if ge .count 1 }}
-      <a href="#cat-{{ .name | urlize }}" class="posts-topic-pill">{{ .name | title }}</a>
+      <a href="#cat-{{ .name | urlize }}" class="posts-topic-pill">{{ .display }}</a>
       {{ end }}
       {{ end }}
     </nav>
@@ -28,13 +34,14 @@
   <div class="posts-body">
     {{ range $catList }}
     {{ $catName := .name }}
+    {{ $catDisplay := .display }}
     {{ $sorted := .pages.Pages.ByPublishDate.Reverse }}
     {{ if ge (len $sorted) 1 }}
 
     <div class="cat-section" id="cat-{{ $catName | urlize }}">
 
       <div class="cat-section-header">
-        <h2 class="cat-section-name">{{ $catName | title }}</h2>
+        <h2 class="cat-section-name">{{ $catDisplay }}</h2>
         <span class="cat-section-count">{{ len $sorted }} articles</span>
         <a href="/categories/{{ $catName | urlize }}/" class="cat-view-all">View all &rarr;</a>
       </div>
@@ -51,7 +58,7 @@
           {{ end }}
           <div class="cat-lead-body">
             {{ if .Params.categories }}
-            <span class="cat-lead-topic">{{ index .Params.categories 0 | title }}</span>
+            <span class="cat-lead-topic">{{ index .Params.categories 0 }}</span>
             {{ end }}
             <h3 class="cat-lead-title">{{ .Title }}</h3>
             <p class="cat-lead-excerpt">{{ .Summary | plainify | truncate 200 }}</p>
