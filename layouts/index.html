@@ -39,7 +39,7 @@
         {{ if lt (len $slides) 6 }}{{ $slides = $slides | append . }}{{ end }}
       {{ end }}
     {{ end }}
-    {{/* Build slide data as Hugo dicts so jsonify produces clean JSON (avoids minifier double-escaping) */}}
+    {{/* Build slide data; base64-encode JSON so Hugo's JS minifier can't mangle it */}}
     {{ $slideData := slice }}
     {{ range $slides }}
       {{ $cat := "" }}
@@ -50,7 +50,7 @@
     {{ end }}
     {{ with index $slides 0 }}
     <div class="hero-carousel" id="hero-carousel">
-      <script>var HERO_SLIDES={{ $slideData | jsonify }};</script>
+      <script>window.HERO_SLIDES=JSON.parse(atob("{{ $slideData | jsonify | base64Encode }}"));</script>
       <a href="{{ .Permalink }}" class="hero-feature-card" id="hero-card-link">
         <div class="hero-feature-img">
           <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" id="hero-card-img">
@@ -62,7 +62,7 @@
             {{ else }}
             <span class="hero-feature-label" id="hero-card-badge">Latest</span>
             {{ end }}
-            {{ if .Params.categories }}<span class="hero-feature-cat" id="hero-card-cat">{{ index .Params.categories 0 }}</span>{{ end }}
+            {{ if .Params.categories }}<span class="hero-feature-cat" id="hero-card-cat">{{ index .Params.categories 0 | title }}</span>{{ end }}
           </div>
           <h2 class="hero-feature-title" id="hero-card-title">{{ .Title }}</h2>
           <span class="hero-feature-read" id="hero-card-read">{{ .ReadingTime }} min read &rarr;</span>
@@ -86,6 +86,9 @@
       var title=document.getElementById('hero-card-title');
       var read=document.getElementById('hero-card-read');
       var dots=document.querySelectorAll('#hero-carousel .hero-dot');
+      /* title-case helper — keeps known acronyms uppercase */
+      var UPPER={pm:1,seo:1,diy:1,rv:1,roi:1,llc:1,ui:1,ux:1,api:1,hvac:1,ac:1};
+      function tc(s){return s.replace(/\w+/g,function(w){return UPPER[w.toLowerCase()]?w.toUpperCase():w.charAt(0).toUpperCase()+w.slice(1).toLowerCase();});}
       link.style.transition='opacity 0.35s ease';
       function goTo(n){
         if(busy) return; busy=true;
@@ -96,7 +99,7 @@
           img.src=s.img; img.alt=s.title;
           badge.className=s.depth?'hero-feature-badge hero-feature-badge-depth':'hero-feature-label';
           badge.textContent=s.depth?'⭐ Data-Backed Guide':'Latest';
-          if(cat) cat.textContent=s.cat;
+          if(cat) cat.textContent=tc(s.cat);
           title.textContent=s.title;
           read.textContent=s.read+' min read →';
           dots.forEach(function(d,i){d.classList.toggle('active',i===n);});
