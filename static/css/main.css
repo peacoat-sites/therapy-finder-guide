@@ -574,6 +574,13 @@ a { color: inherit; text-decoration: none; }
 }
 .btn-hero-ghost:hover { background: rgba(255,255,255,0.18); color: #fff; }
 
+/* Hero carousel */
+.hero-carousel { position: relative; }
+.hero-carousel-dots { display: flex; gap: 7px; justify-content: center; margin-top: 10px; }
+.hero-dot { width: 7px; height: 7px; border-radius: 50%; background: rgba(255,255,255,0.32); border: none; cursor: pointer; padding: 0; transition: background 0.25s ease, transform 0.25s ease; }
+.hero-dot.active { background: rgba(255,255,255,0.92); transform: scale(1.35); }
+.hero-dot:hover { background: rgba(255,255,255,0.6); }
+
 /* Featured article card in hero */
 .hero-feature-card {
   background: rgba(255,255,255,0.96);

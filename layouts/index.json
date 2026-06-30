@@ -6,6 +6,8 @@
     "url" .Permalink
     "categories" (.Params.categories | default slice)
     "date" (.PublishDate.Format "Jan 2, 2006")
+    "image" (.Params.image | default "")
+    "readingtime" .ReadingTime
   ) -}}
 {{- end -}}
 {{- $index | jsonify -}}

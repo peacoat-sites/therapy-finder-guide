@@ -1,16 +1,23 @@
 {{ define "main" }}
-<div class="page-wrap search-page-wrap">
-  <h1 class="page-title search-page-title">Search Articles</h1>
+<div class="posts-section search-page">
 
-  <form class="search-form-large" id="search-form-page" role="search">
-    <div class="search-form-inner">
-      <svg class="search-form-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      <input type="search" id="search-input-page" class="search-input-large" placeholder="Search for a topic…" autocomplete="off" autofocus>
+  <div class="posts-hero">
+    <div class="posts-hero-inner">
+      <p class="section-label">Search</p>
+      <h1 class="posts-hero-title">Find an Article</h1>
+      <form class="search-form-large" id="search-form-page" role="search">
+        <div class="search-form-inner">
+          <svg class="search-form-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="search" id="search-input-page" class="search-input-large" placeholder="Search for a topic…" autocomplete="off" autofocus>
+        </div>
+      </form>
     </div>
-  </form>
+    <nav class="posts-topic-nav" id="search-topic-nav" aria-label="Jump to topic"></nav>
+  </div>
 
   <div id="search-status" class="search-status"></div>
-  <div id="search-results" class="search-results-grid"></div>
+  <div id="search-results"></div>
+
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
@@ -36,39 +43,108 @@
       var q = new URLSearchParams(window.location.search).get('q') || '';
       var input = document.getElementById('search-input-page');
       if (q) { input.value = q; doSearch(q); }
-      else { displayAllArticles(); }
+      else { displayBrowse(); }
     })
     .catch(function() {
       document.getElementById('search-status').textContent = 'Search index could not be loaded.';
     });
 
-  function displayAllArticles() {
+  function slugify(s) {
+    return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  }
+
+  function esc(s) {
+    var d = document.createElement('div');
+    d.textContent = String(s || '');
+    return d.innerHTML;
+  }
+
+  function displayBrowse() {
+    var statusEl  = document.getElementById('search-status');
     var resultsEl = document.getElementById('search-results');
-    var sorted = allData.slice().sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
-    resultsEl.innerHTML = sorted.map(function(item) {
-      var cat = (item.categories && item.categories.length) ? item.categories[0] : '';
-      return '<a href="' + item.url + '" class="article-card">' +
-        '<div class="article-card-body">' +
-          (cat ? '<span class="article-cat">' + cat + '</span>' : '') +
-          '<h2 class="article-title">' + item.title + '</h2>' +
-          '<p class="article-excerpt">' + (item.summary || '') + '</p>' +
-          '<div class="article-meta"><span>' + (item.date || '') + '</span>' +
-            '<span class="card-read-more">Read more</span></div>' +
-        '</div>' +
-      '</a>';
+    var navEl     = document.getElementById('search-topic-nav');
+    statusEl.textContent = '';
+
+    /* build category map */
+    var cats = {};
+    allData.forEach(function(item) {
+      var cat = (item.categories && item.categories.length) ? item.categories[0] : 'General';
+      if (!cats[cat]) cats[cat] = [];
+      cats[cat].push(item);
+    });
+
+    /* sort articles within each category by date */
+    Object.keys(cats).forEach(function(cat) {
+      cats[cat].sort(function(a, b) { return new Date(b.date) - new Date(a.date); });
+    });
+
+    /* sort categories by count desc */
+    var sorted = Object.keys(cats).sort(function(a, b) { return cats[b].length - cats[a].length; });
+
+    /* topic nav pills */
+    navEl.innerHTML = sorted.map(function(cat) {
+      return '<a href="#cat-' + slugify(cat) + '" class="posts-topic-pill">' + esc(cat) + '</a>';
     }).join('');
+
+    /* category sections */
+    resultsEl.innerHTML = '<div class="posts-body">' + sorted.map(function(cat) {
+      var articles = cats[cat];
+      var lead = articles[0];
+      var tiles = articles.slice(1, 4);
+
+      var leadHtml =
+        '<a href="' + esc(lead.url) + '" class="cat-lead">' +
+          (lead.image ? '<div class="cat-lead-img"><img src="' + esc(lead.image) + '" alt="' + esc(lead.title) + '" loading="lazy"></div>' : '') +
+          '<div class="cat-lead-body">' +
+            '<span class="cat-lead-topic">' + esc(cat) + '</span>' +
+            '<h3 class="cat-lead-title">' + esc(lead.title) + '</h3>' +
+            '<p class="cat-lead-excerpt">' + esc(lead.summary || '') + '</p>' +
+            '<div class="cat-lead-meta">' +
+              '<span>' + esc(lead.date || '') + '</span>' +
+              (lead.readingtime ? '<span>' + lead.readingtime + ' min read</span>' : '') +
+              '<span class="cat-lead-cta">Read article →</span>' +
+            '</div>' +
+          '</div>' +
+        '</a>';
+
+      var tilesHtml = tiles.length
+        ? '<div class="cat-tiles">' + tiles.map(function(t) {
+            return '<a href="' + esc(t.url) + '" class="cat-tile">' +
+              (t.image ? '<div class="cat-tile-img"><img src="' + esc(t.image) + '" alt="' + esc(t.title) + '" loading="lazy"></div>' : '') +
+              '<div class="cat-tile-body">' +
+                '<h4 class="cat-tile-title">' + esc(t.title) + '</h4>' +
+                (t.readingtime ? '<span class="cat-tile-meta">' + t.readingtime + ' min read</span>' : '') +
+              '</div>' +
+            '</a>';
+          }).join('') + '</div>'
+        : '';
+
+      return '<div class="cat-section" id="cat-' + slugify(cat) + '">' +
+        '<div class="cat-section-header">' +
+          '<h2 class="cat-section-name">' + esc(cat) + '</h2>' +
+          '<span class="cat-section-count">' + articles.length + ' articles</span>' +
+          '<a href="/categories/' + slugify(cat) + '/" class="cat-view-all">View all →</a>' +
+        '</div>' +
+        '<div class="cat-layout">' + leadHtml + tilesHtml + '</div>' +
+      '</div>';
+    }).join('') + '</div>';
   }
 
   function doSearch(query) {
     var statusEl  = document.getElementById('search-status');
     var resultsEl = document.getElementById('search-results');
+    var navEl     = document.getElementById('search-topic-nav');
     query = (query || '').trim();
 
     if (!query) {
       statusEl.textContent = '';
-      resultsEl.innerHTML = '';
+      resultsEl.innerHTML  = '';
+      navEl.innerHTML      = '';
+      displayBrowse();
       return;
     }
+
+    navEl.innerHTML = '';
     if (!fuse) { statusEl.textContent = 'Loading…'; return; }
 
     var results = fuse.search(query).slice(0, 12);
@@ -81,25 +157,27 @@
       return;
     }
 
-    resultsEl.innerHTML = results.map(function(r) {
+    resultsEl.innerHTML = '<div class="search-results-grid">' + results.map(function(r) {
       var item = r.item;
       var cat  = (item.categories && item.categories.length) ? item.categories[0] : '';
-      return '<a href="' + item.url + '" class="article-card">' +
+      return '<a href="' + esc(item.url) + '" class="article-card">' +
+        (item.image ? '<div class="article-card-image"><img src="' + esc(item.image) + '" alt="' + esc(item.title) + '" loading="lazy"></div>' : '') +
         '<div class="article-card-body">' +
-          (cat ? '<span class="article-cat">' + cat + '</span>' : '') +
-          '<h2 class="article-title">' + item.title + '</h2>' +
-          '<p class="article-excerpt">' + (item.summary || '') + '</p>' +
-          '<div class="article-meta"><span>' + (item.date || '') + '</span>' +
-            '<span class="card-read-more">Read more</span></div>' +
+          (cat ? '<span class="article-cat">' + esc(cat) + '</span>' : '') +
+          '<h2 class="article-title">' + esc(item.title) + '</h2>' +
+          '<p class="article-excerpt">' + esc(item.summary || '') + '</p>' +
+          '<div class="article-meta"><span>' + esc(item.date || '') + '</span>' +
+            (item.readingtime ? '<span>' + item.readingtime + ' min read</span>' : '') +
+            '<span class="card-read-more">Read more →</span></div>' +
         '</div>' +
       '</a>';
-    }).join('');
+    }).join('') + '</div>';
   }
 
   document.getElementById('search-input-page').addEventListener('input', function() {
     var q = this.value;
     history.replaceState(null, '', q ? '/search/?q=' + encodeURIComponent(q) : '/search/');
-    doSearch(q);
+    if (q) { doSearch(q); } else { displayBrowse(); }
   });
 
   document.getElementById('search-form-page').addEventListener('submit', function(e) {

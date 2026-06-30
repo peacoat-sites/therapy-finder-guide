@@ -32,28 +32,79 @@
       </div>
     </div>
 
-    {{ if $featured }}
-    {{ if $featured.Params.image }}
-    <a href="{{ $featured.Permalink }}" class="hero-feature-card">
-      <div class="hero-feature-img">
-        <img src="{{ $featured.Params.image }}" alt="{{ $featured.Title }}" loading="eager">
-      </div>
-      <div class="hero-feature-body">
-        <div class="hero-feature-labels">
-          {{ if $featured.Params.featured_depth }}
-          <span class="hero-feature-badge hero-feature-badge-depth">⭐ Data-Backed Guide</span>
-          {{ else }}
-          <span class="hero-feature-label">Latest</span>
-          {{ end }}
-          {{ if $featured.Params.categories }}
-          <span class="hero-feature-cat">{{ index $featured.Params.categories 0 | title }}</span>
-          {{ end }}
-        </div>
-        <h2 class="hero-feature-title">{{ $featured.Title }}</h2>
-        <span class="hero-feature-read">{{ $featured.ReadingTime }} min read &rarr;</span>
-      </div>
-    </a>
+    {{/* Hero carousel — up to 6 recent articles with images */}}
+    {{ $slides := slice }}
+    {{ range first 20 $carousel }}
+      {{ if and .Params.image (ne .Params.image "") }}
+        {{ if lt (len $slides) 6 }}{{ $slides = $slides | append . }}{{ end }}
+      {{ end }}
     {{ end }}
+    {{ with index $slides 0 }}
+    <div class="hero-carousel" id="hero-carousel">
+      <script type="application/json" id="hero-slide-data">[{{ range $i, $p := $slides }}{{ if $i }},{{ end }}{"url":{{ $p.Permalink | jsonify }},"img":{{ $p.Params.image | jsonify }},"title":{{ $p.Title | jsonify }},"cat":{{ if $p.Params.categories }}{{ index $p.Params.categories 0 | title | jsonify }}{{ else }}""{{ end }},"read":{{ $p.ReadingTime }},"depth":{{ if $p.Params.featured_depth }}true{{ else }}false{{ end }}}{{ end }}]</script>
+      <a href="{{ .Permalink }}" class="hero-feature-card" id="hero-card-link">
+        <div class="hero-feature-img">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" id="hero-card-img">
+        </div>
+        <div class="hero-feature-body">
+          <div class="hero-feature-labels">
+            {{ if .Params.featured_depth }}
+            <span class="hero-feature-badge hero-feature-badge-depth" id="hero-card-badge">⭐ Data-Backed Guide</span>
+            {{ else }}
+            <span class="hero-feature-label" id="hero-card-badge">Latest</span>
+            {{ end }}
+            {{ if .Params.categories }}<span class="hero-feature-cat" id="hero-card-cat">{{ index .Params.categories 0 | title }}</span>{{ end }}
+          </div>
+          <h2 class="hero-feature-title" id="hero-card-title">{{ .Title }}</h2>
+          <span class="hero-feature-read" id="hero-card-read">{{ .ReadingTime }} min read &rarr;</span>
+        </div>
+      </a>
+      {{ if gt (len $slides) 1 }}
+      <div class="hero-carousel-dots">
+        {{ range $i, $_ := $slides }}<button class="hero-dot{{ if eq $i 0 }} active{{ end }}" data-idx="{{ $i }}" aria-label="Article {{ add $i 1 }}"></button>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+    <script>
+    (function(){
+      var data=document.getElementById('hero-slide-data');
+      if(!data) return;
+      var slides=JSON.parse(data.textContent);
+      if(slides.length<2) return;
+      var cur=0,timer,busy=false;
+      var link=document.getElementById('hero-card-link');
+      var img=document.getElementById('hero-card-img');
+      var badge=document.getElementById('hero-card-badge');
+      var cat=document.getElementById('hero-card-cat');
+      var title=document.getElementById('hero-card-title');
+      var read=document.getElementById('hero-card-read');
+      var dots=document.querySelectorAll('#hero-carousel .hero-dot');
+      link.style.transition='opacity 0.35s ease';
+      function goTo(n){
+        if(busy) return; busy=true;
+        link.style.opacity='0';
+        setTimeout(function(){
+          var s=slides[n];
+          link.href=s.url;
+          img.src=s.img; img.alt=s.title;
+          badge.className=s.depth?'hero-feature-badge hero-feature-badge-depth':'hero-feature-label';
+          badge.textContent=s.depth?'⭐ Data-Backed Guide':'Latest';
+          if(cat) cat.textContent=s.cat;
+          title.textContent=s.title;
+          read.textContent=s.read+' min read →';
+          dots.forEach(function(d,i){d.classList.toggle('active',i===n);});
+          link.style.opacity='1'; cur=n; busy=false;
+        },350);
+      }
+      function next(){goTo((cur+1)%slides.length);}
+      function start(){timer=setInterval(next,4500);}
+      function stop(){clearInterval(timer);}
+      link.addEventListener('mouseenter',stop);
+      link.addEventListener('mouseleave',start);
+      dots.forEach(function(d,i){d.addEventListener('click',function(){stop();goTo(i);start();});});
+      start();
+    })();
+    </script>
     {{ end }}
 
   </div>
