@@ -875,7 +875,7 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
 """
 
     msg = client.messages.create(
-        model="claude-sonnet-4-6",
+        model="claude-haiku-4-5-20251001",
         max_tokens=4000,
         system=system_prompt,
         messages=[{"role": "user", "content": user_prompt}]
@@ -884,7 +884,7 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
 
     # Meta description + subject-accurate hero image query (single call)
     meta = client.messages.create(
-        model="claude-sonnet-4-6",
+        model="claude-haiku-4-5-20251001",
         max_tokens=160,
         messages=[{"role": "user", "content": (
             f"For an article titled '{keyword}', output ONLY a JSON object (no preamble, no code fence):\n"
@@ -1231,7 +1231,7 @@ When done researching, output ONLY a JSON object (no prose before or after):
 
     try:
         msg = client.messages.create(
-            model="claude-sonnet-4-6", max_tokens=2500,
+            model="claude-haiku-4-5-20251001", max_tokens=2500,
             tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 5}],
             messages=[{"role": "user", "content": radar_prompt}],
         )
@@ -1282,7 +1282,7 @@ Structure:
 
     try:
         wmsg = client.messages.create(
-            model="claude-sonnet-4-6", max_tokens=4000, system=system,
+            model="claude-haiku-4-5-20251001", max_tokens=4000, system=system,
             messages=[{"role": "user", "content": user}],
         )
     except Exception as e:
@@ -1297,7 +1297,7 @@ Structure:
 
     try:
         dmsg = client.messages.create(
-            model="claude-sonnet-4-6", max_tokens=80,
+            model="claude-haiku-4-5-20251001", max_tokens=80,
             messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{title}'. Plain text, no quotes."}],
         )
         description = dmsg.content[0].text.strip().replace('"', "'")[:160]
