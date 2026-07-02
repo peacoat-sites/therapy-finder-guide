@@ -158,13 +158,22 @@
         <!-- Topic-grouped article sections sorted by category size (most articles first) -->
         {{ $catList := slice }}
         {{ range $name, $pages := .Site.Taxonomies.categories }}
-          {{/* Get display name from first article frontmatter to preserve acronym casing (e.g. "PM Frameworks" not "Pm Frameworks") */}}
-          {{ $display := $name | title }}
+          {{ $display := replace $name "-" " " | title }}
           {{ with index $pages.Pages 0 }}
             {{ range .Params.categories }}
-              {{ if eq (. | urlize) $name }}{{ $display = . }}{{ end }}
+              {{ if eq (. | urlize) $name }}{{ $display = . | title }}{{ end }}
             {{ end }}
           {{ end }}
+          {{/* Fix acronyms that title-case incorrectly */}}
+          {{ $display = replace $display "Pm " "PM " }}{{ $display = replace $display "Pm\n" "PM\n" }}
+          {{ $display = replace $display "Seo " "SEO " }}{{ $display = replace $display "Diy " "DIY " }}
+          {{ $display = replace $display "Rv " "RV " }}{{ $display = replace $display "Roi " "ROI " }}
+          {{ $display = replace $display "Llc " "LLC " }}{{ $display = replace $display "Ui " "UI " }}
+          {{ $display = replace $display "Ux " "UX " }}{{ $display = replace $display "Api " "API " }}
+          {{ $display = replace $display "Hvac " "HVAC " }}{{ $display = replace $display "Ac " "AC " }}
+          {{ $display = strings.TrimRight " " $display }}
+          {{ if hasSuffix $display " Pm" }}{{ $display = printf "%s PM" (strings.TrimSuffix " Pm" $display) }}{{ end }}
+          {{ if hasSuffix $display " Rv" }}{{ $display = printf "%s RV" (strings.TrimSuffix " Rv" $display) }}{{ end }}
           {{ $catList = $catList | append (dict "name" $name "display" $display "pages" $pages "count" (len $pages)) }}
         {{ end }}
         {{ $catList = sort $catList "count" "desc" }}
