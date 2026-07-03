@@ -9,16 +9,16 @@ tags: ["couples", "therapy", "works"]
 slug: "couples-therapy-how-it-works"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does couples therapy usually take?"
-    a: "There's no single answer, and anyone who gives you a guarantee should raise a flag. Many couples notice real changes within 8 to 12 sessions. More complex situations, like recovery from infidelity or deeply entrenched communication patterns, often take longer. The Gottman Institute's research suggests that couples who engage consistently and practice skills between sessions tend to move faster."
-  - q: "Do we have to be on the verge of breaking up to try couples therapy?"
-    a: "Not at all. In my experience, the couples who get the most out of therapy are those who come in before things have completely deteriorated. You don't wait until your tooth is abscessed to see a dentist. Premarital couples use therapy as a foundation. Long-term couples use it as a tune-up. Therapy is appropriate at almost any stage."
-  - q: "What if my partner refuses to come?"
-    a: "This comes up a lot. You can still benefit from individual therapy where your therapist has couples training, sometimes called 'one-person couples therapy.' You can work on how you show up in the relationship, what patterns you bring, and how you respond. Sometimes a partner who initially refuses becomes willing after seeing real changes. And sometimes you gain clarity about what you need, regardless of whether your partner joins."
-  - q: "Will the therapist take sides?"
-    a: "A well-trained couples therapist won't align with either partner. That said, they may challenge both of you at different times, and that can feel like being called out. If you feel like the therapist is consistently siding with your partner in a way that feels unfair, bring it up directly. That conversation itself can be productive. If the imbalance is real and doesn't improve, it's okay to seek a different therapist."
-  - q: "How much does couples therapy typically cost, and does insurance cover it?"
-    a: "Costs vary significantly based on location, therapist credentials, and session length. Many insurance plans cover couples therapy when there's a mental health diagnosis associated with one partner, though coverage varies widely. It's worth calling your insurance company directly and asking specifically about outpatient mental health benefits for couples counseling. Many therapists also offer sliding scale fees. Don't assume it's out of reach without asking."
+ - q: "How long does couples therapy usually take?"
+ a: "There's no single answer, and anyone who gives you a guarantee should raise a flag. Many couples notice real changes within 8 to 12 sessions. More complex situations, like recovery from infidelity or deeply entrenched communication patterns, often take longer. The Gottman Institute's research suggests that couples who engage consistently and practice skills between sessions tend to move faster."
+ - q: "Do we have to be on the verge of breaking up to try couples therapy?"
+ a: "Not at all. In my experience, the couples who get the most out of therapy are those who come in before things have completely deteriorated. You don't wait until your tooth is abscessed to see a dentist. Premarital couples use therapy as a foundation. Long-term couples use it as a tune-up. Therapy is appropriate at almost any stage."
+ - q: "What if my partner refuses to come?"
+ a: "This comes up a lot. You can still benefit from individual therapy where your therapist has couples training, sometimes called 'one-person couples therapy.' You can work on how you show up in the relationship, what patterns you bring, and how you respond. Sometimes a partner who initially refuses becomes willing after seeing real changes. And sometimes you gain clarity about what you need, regardless of whether your partner joins."
+ - q: "Will the therapist take sides?"
+ a: "A well-trained couples therapist won't align with either partner. That said, they may challenge both of you at different times, and that can feel like being called out. If you feel like the therapist is consistently siding with your partner in a way that feels unfair, bring it up directly. That conversation itself can be productive. If the imbalance is real and doesn't improve, it's okay to seek a different therapist."
+ - q: "How much does couples therapy typically cost, and does insurance cover it?"
+ a: "Costs vary significantly based on location, therapist credentials, and session length. Many insurance plans cover couples therapy when there's a mental health diagnosis associated with one partner, though coverage varies widely. It's worth calling your insurance company directly and asking specifically about outpatient mental health benefits for couples counseling. Many therapists also offer sliding scale fees. Don't assume it's out of reach without asking."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
@@ -32,12 +32,12 @@ If you're reading this because you're wondering whether couples therapy might he
 ---
 
 <div class="value-module">
-  <div class="vm-head">Therapy Model Comparison Decision Guide</div>
-  <div class="vm-body">
-    <p class="vm-intro">Different evidence-based approaches work better for different relationship challenges-here's how to match your situation to an approach.</p>
-    <table><thead><tr><th>Therapy Model</th><th>Best For</th><th>Core Method</th><th>Typical Duration</th><th>Ask Therapist If...</th></tr></thead><tbody><tr><td>Emotionally Focused Therapy (EFT)</td><td>Emotional disconnection, attachment wounds, feeling like roommates</td><td>Identifies negative interaction cycles, rebuilds emotional bonds through structured conversations</td><td>12–20 sessions</td><td>"Are you EFT-certified through ICEEFT?"</td></tr><tr><td>Gottman Method</td><td>Chronic conflict patterns, contempt/criticism, communication breakdowns</td><td>Assessment-based; teaches specific skills (repair attempts, dreams-within-conflict)</td><td>12–25 sessions</td><td>"Have you completed Level 3 Gottman training?"</td></tr><tr><td>Discernment Counseling</td><td>Mixed-agenda couples (one wants out, one wants to work on it)</td><td>Short-term clarity process; no pressure to decide immediately</td><td>1–5 sessions</td><td>"Do you practice Doherty's discernment model?"</td></tr><tr><td>Cognitive Behavioral Couples Therapy (CBCT)</td><td>Specific behavioral issues, differing expectations, concrete problem-solving</td><td>Identifies distorted thinking patterns, assigns behavioral experiments</td><td>15–20 sessions</td><td>"What's your CBT couples training background?"</td></tr><tr><td>Imago Relationship Therapy</td><td>Childhood-rooted triggers, recurring power struggles, feeling unseen</td><td>Structured "Imago Dialogue" to mirror and validate partner's experience</td><td>12–20 sessions</td><td>"Are you a Certified Imago Therapist?"</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Therapy Model Comparison Decision Guide</div>
+ <div class="vm-body">
+ <p class="vm-intro">Different evidence-based approaches work better for different relationship challenges-here's how to match your situation to an approach.</p>
+ <table><thead><tr><th>Therapy Model</th><th>Best For</th><th>Core Method</th><th>Typical Duration</th><th>Ask Therapist If...</th></tr></thead><tbody><tr><td>Emotionally Focused Therapy (EFT)</td><td>Emotional disconnection, attachment wounds, feeling like roommates</td><td>Identifies negative interaction cycles, rebuilds emotional bonds through structured conversations</td><td>12–20 sessions</td><td>"Are you EFT-certified through ICEEFT?"</td></tr><tr><td>Gottman Method</td><td>Chronic conflict patterns, contempt/criticism, communication breakdowns</td><td>Assessment-based; teaches specific skills (repair attempts, dreams-within-conflict)</td><td>12–25 sessions</td><td>"Have you completed Level 3 Gottman training?"</td></tr><tr><td>Discernment Counseling</td><td>Mixed-agenda couples (one wants out, one wants to work on it)</td><td>Short-term clarity process; no pressure to decide immediately</td><td>1–5 sessions</td><td>"Do you practice Doherty's discernment model?"</td></tr><tr><td>Cognitive Behavioral Couples Therapy (CBCT)</td><td>Specific behavioral issues, differing expectations, concrete problem-solving</td><td>Identifies distorted thinking patterns, assigns behavioral experiments</td><td>15–20 sessions</td><td>"What's your CBT couples training background?"</td></tr><tr><td>Imago Relationship Therapy</td><td>Childhood-rooted triggers, recurring power struggles, feeling unseen</td><td>Structured "Imago Dialogue" to mirror and validate partner's experience</td><td>12–20 sessions</td><td>"Are you a Certified Imago Therapist?"</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Couples Therapy Actually Is (and Isn't)

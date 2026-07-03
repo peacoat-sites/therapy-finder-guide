@@ -9,14 +9,14 @@ image: "https://images.pexels.com/photos/897817/pexels-photo-897817.jpeg?auto=co
 categories: ["Mental Health Assessment"]
 tags: ["anxiety", "screening", "GAD-7", "mental health assessment"]
 faqs:
-  - question: "What does GAD-7 stand for?"
-    answer: "GAD-7 stands for Generalized Anxiety Disorder 7-item scale. It was developed to screen for generalized anxiety disorder and to measure anxiety severity. Despite the name, it is used to detect a range of anxiety conditions, not just generalized anxiety disorder."
-  - question: "How is the GAD-7 scored?"
-    answer: "Each of the 7 questions is rated 0 to 3 (Not at all=0, Several days=1, More than half the days=2, Nearly every day=3). The scores are summed for a total between 0 and 21. Scores of 5, 10, and 15 are cut-points for mild, moderate, and severe anxiety."
-  - question: "Is a GAD-7 score of 10 serious?"
-    answer: "A score of 10 falls in the moderate anxiety range. Most clinical guidelines recommend that patients with scores of 10 or above be evaluated further by a healthcare provider. It does not mean you have an anxiety disorder, but it does indicate symptoms worth discussing with a professional."
-  - question: "What types of anxiety does GAD-7 detect?"
-    answer: "The GAD-7 was developed to screen for generalized anxiety disorder but has also been validated for panic disorder, social anxiety disorder, and post-traumatic stress disorder (PTSD). It measures the frequency of core anxiety symptoms over the past two weeks."
+ - question: "What does GAD-7 stand for?"
+ answer: "GAD-7 stands for Generalized Anxiety Disorder 7-item scale. It was developed to screen for generalized anxiety disorder and to measure anxiety severity. Despite the name, it is used to detect a range of anxiety conditions, not just generalized anxiety disorder."
+ - question: "How is the GAD-7 scored?"
+ answer: "Each of the 7 questions is rated 0 to 3 (Not at all=0, Several days=1, More than half the days=2, Nearly every day=3). The scores are summed for a total between 0 and 21. Scores of 5, 10, and 15 are cut-points for mild, moderate, and severe anxiety."
+ - question: "Is a GAD-7 score of 10 serious?"
+ answer: "A score of 10 falls in the moderate anxiety range. Most clinical guidelines recommend that patients with scores of 10 or above be evaluated further by a healthcare provider. It does not mean you have an anxiety disorder, but it does indicate symptoms worth discussing with a professional."
+ - question: "What types of anxiety does GAD-7 detect?"
+ answer: "The GAD-7 was developed to screen for generalized anxiety disorder but has also been validated for panic disorder, social anxiety disorder, and post-traumatic stress disorder (PTSD). It measures the frequency of core anxiety symptoms over the past two weeks."
 ---
 **If you are in crisis or having thoughts of self-harm, call or text 988 (Suicide & Crisis Lifeline) immediately. For emergencies, call 911.**
 

@@ -11,10 +11,7 @@ author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 slug: "equine-therapy-explained"
-affiliate_disclosure: true
----
-
-If you're reading this, you've probably already Googled "equine therapy" at least once and ended up more confused than when you started. Maybe you saw a feel-good news segment, or a friend mentioned it helped their kid, or your therapist brought it up as something worth considering. And now you're sitting here wondering: is this actually legitimate, or is it just an expensive way to pet horses?
+affiliate_disclosure: true, If you're reading this, you've probably already Googled "equine therapy" at least once and ended up more confused than when you started. Maybe you saw a feel-good news segment, or a friend mentioned it helped their kid, or your therapist brought it up as something worth considering. And now you're sitting here wondering: is this actually legitimate, or is it just an expensive way to pet horses?
 
 Fair question. Here's what I tell people when they ask me that directly: equine therapy is real, it's evidence-supported, and it's genuinely not for everyone. That last part matters, because a lot of wellness content will sell you on something without being honest about who it actually helps. I'd rather give you the full picture.
 
@@ -105,7 +102,7 @@ There's no universal number. Some people report noticeable shifts within four to
 - **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
 
 
-*Photo: [Betül  Üstün](https://www.pexels.com/@betul-ustun-236006735) via Pexels*
+*Photo: [Betül Üstün](https://www.pexels.com/@betul-ustun-236006735) via Pexels*
 
 ---
 
@@ -126,6 +123,6 @@ There's no universal number. Some people report noticeable shifts within four to
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

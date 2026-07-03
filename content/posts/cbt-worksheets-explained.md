@@ -13,16 +13,16 @@ author_bio: "Taylor Brooks facilitates peer support groups and advocates for com
 slug: "cbt-worksheets-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "Do CBT worksheets actually work?"
-    a: "The skills CBT worksheets teach, particularly identifying and challenging distorted thinking, are backed by decades of research. Whether worksheets specifically help depends on how you use them: completing them thoughtfully and regularly tends to show benefits; filling them in without reflection usually doesn't. They work best as part of structured therapy or a consistent self-directed practice."
-  - q: "Can I do CBT worksheets on my own, without a therapist?"
-    a: "Yes, many people use CBT worksheets independently with good results, especially for mild-to-moderate anxiety and low mood. That said, a therapist can identify your specific thinking patterns, correct misapplications, and adapt exercises in ways a worksheet can't do alone. If your symptoms are significant or persistent, professional guidance is strongly advisable."
-  - q: "Where can I find free CBT worksheets?"
-    a: "Several reputable sources offer free downloadable worksheets, including Psychology Tools (psychologytools.com) and Therapist Aid (therapistaid.com). Both are widely used by clinicians and are generally high quality. NAMI's website also has educational resources that can point you in the right direction."
-  - q: "How long does it take for CBT worksheets to make a difference?"
-    a: "Most CBT-based treatments are structured around 12-20 sessions, and people often notice some shift in thinking patterns within a few weeks of consistent practice. But 'a difference' is highly individual. Some people feel a meaningful change within a month; for others it takes longer. Consistency matters more than speed."
-  - q: "What's the difference between a CBT worksheet and a regular journal?"
-    a: "A journal is open-ended. A CBT worksheet has a specific structure designed to prompt a particular cognitive process, like examining evidence for a belief or identifying a thinking error. The structure is the point. It keeps you from circling the thought indefinitely and asks you to actively test it instead."
+ - q: "Do CBT worksheets actually work?"
+ a: "The skills CBT worksheets teach, particularly identifying and challenging distorted thinking, are backed by decades of research. Whether worksheets specifically help depends on how you use them: completing them thoughtfully and regularly tends to show benefits; filling them in without reflection usually doesn't. They work best as part of structured therapy or a consistent self-directed practice."
+ - q: "Can I do CBT worksheets on my own, without a therapist?"
+ a: "Yes, many people use CBT worksheets independently with good results, especially for mild-to-moderate anxiety and low mood. That said, a therapist can identify your specific thinking patterns, correct misapplications, and adapt exercises in ways a worksheet can't do alone. If your symptoms are significant or persistent, professional guidance is strongly advisable."
+ - q: "Where can I find free CBT worksheets?"
+ a: "Several reputable sources offer free downloadable worksheets, including Psychology Tools (psychologytools.com) and Therapist Aid (therapistaid.com). Both are widely used by clinicians and are generally high quality. NAMI's website also has educational resources that can point you in the right direction."
+ - q: "How long does it take for CBT worksheets to make a difference?"
+ a: "Most CBT-based treatments are structured around 12-20 sessions, and people often notice some shift in thinking patterns within a few weeks of consistent practice. But 'a difference' is highly individual. Some people feel a meaningful change within a month; for others it takes longer. Consistency matters more than speed."
+ - q: "What's the difference between a CBT worksheet and a regular journal?"
+ a: "A journal is open-ended. A CBT worksheet has a specific structure designed to prompt a particular cognitive process, like examining evidence for a belief or identifying a thinking error. The structure is the point. It keeps you from circling the thought indefinitely and asks you to actively test it instead."
 ---
 Most people who pick up a CBT worksheet for the first time stare at it for a solid thirty seconds, feel vaguely judged by a piece of paper, and set it down.
 
@@ -34,12 +34,12 @@ I've watched people turn that abstract idea into something genuinely useful for 
 
 
 <div class="value-module">
-  <div class="vm-head">Common CBT Worksheet Types Compared</div>
-  <div class="vm-body">
-    <p class="vm-intro">Different worksheets target different cognitive patterns, matching the right tool to your situation improves results.</p>
-    <table><thead><tr><th>Worksheet Type</th><th>Best For</th><th>Core Columns/Prompts</th><th>Time to Complete</th><th>Difficulty Level</th></tr></thead><tbody><tr><td>Basic Thought Record (3-column)</td><td>Beginners; quick emotional check-ins</td><td>Situation → Automatic Thought → Emotion</td><td>2–5 minutes</td><td>Entry-level</td></tr><tr><td>Full Thought Record (7-column)</td><td>Challenging distorted thinking patterns</td><td>Situation → Thought → Emotion (0-100) → Evidence For → Evidence Against → Balanced Thought → Re-rate Emotion</td><td>10–20 minutes</td><td>Intermediate</td></tr><tr><td>Behavioral Activation Log</td><td>Depression; low motivation; avoidance</td><td>Activity → Predicted Enjoyment (0-10) → Actual Enjoyment (0-10) → Mastery Rating</td><td>1–2 minutes per entry</td><td>Entry-level</td></tr><tr><td>Cognitive Distortion Checklist</td><td>Learning to identify thinking errors</td><td>Thought → Which distortion? (all-or-nothing, catastrophizing, mind-reading, etc.)</td><td>5–10 minutes</td><td>Entry-level</td></tr><tr><td>Exposure Hierarchy</td><td>Anxiety; phobias; avoidance behaviors</td><td>Feared Situation → Distress Rating (0-100) → Rank Order → Planned Exposure Steps</td><td>20–30 minutes (one-time setup)</td><td>Intermediate to Advanced</td></tr><tr><td>Downward Arrow</td><td>Uncovering core beliefs beneath surface thoughts</td><td>Automatic Thought → "If true, what does that mean?" (repeated 3-5 times) → Core Belief</td><td>10–15 minutes</td><td>Advanced</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Common CBT Worksheet Types Compared</div>
+ <div class="vm-body">
+ <p class="vm-intro">Different worksheets target different cognitive patterns, matching the right tool to your situation improves results.</p>
+ <table><thead><tr><th>Worksheet Type</th><th>Best For</th><th>Core Columns/Prompts</th><th>Time to Complete</th><th>Difficulty Level</th></tr></thead><tbody><tr><td>Basic Thought Record (3-column)</td><td>Beginners; quick emotional check-ins</td><td>Situation → Automatic Thought → Emotion</td><td>2–5 minutes</td><td>Entry-level</td></tr><tr><td>Full Thought Record (7-column)</td><td>Challenging distorted thinking patterns</td><td>Situation → Thought → Emotion (0-100) → Evidence For → Evidence Against → Balanced Thought → Re-rate Emotion</td><td>10–20 minutes</td><td>Intermediate</td></tr><tr><td>Behavioral Activation Log</td><td>Depression; low motivation; avoidance</td><td>Activity → Predicted Enjoyment (0-10) → Actual Enjoyment (0-10) → Mastery Rating</td><td>1–2 minutes per entry</td><td>Entry-level</td></tr><tr><td>Cognitive Distortion Checklist</td><td>Learning to identify thinking errors</td><td>Thought → Which distortion? (all-or-nothing, catastrophizing, mind-reading, etc.)</td><td>5–10 minutes</td><td>Entry-level</td></tr><tr><td>Exposure Hierarchy</td><td>Anxiety; phobias; avoidance behaviors</td><td>Feared Situation → Distress Rating (0-100) → Rank Order → Planned Exposure Steps</td><td>20–30 minutes (one-time setup)</td><td>Intermediate to Advanced</td></tr><tr><td>Downward Arrow</td><td>Uncovering core beliefs beneath surface thoughts</td><td>Automatic Thought → "If true, what does that mean?" (repeated 3-5 times) → Core Belief</td><td>10–15 minutes</td><td>Advanced</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What CBT Worksheets Are Actually Doing

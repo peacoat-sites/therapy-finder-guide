@@ -9,16 +9,16 @@ tags: ["does", "marriage", "counseling", "actually", "work"]
 slug: "does-marriage-counseling-actually-work"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does marriage counseling usually take?"
-    a: "Most couples see meaningful movement within 12-20 sessions, though that varies a lot based on how complex the issues are and how consistently both partners engage. EFT research suggests 8-20 sessions on average. If you've been in therapy for 6 months and feel like you're going in circles, raise that directly with your therapist."
-  - q: "Can marriage counseling work if only one partner wants to go?"
-    a: "Yes, actually. Individual therapy focused on relationship patterns (sometimes called 'relationship coaching' or simply individual therapy with a relational focus) can shift dynamics even when only one person participates. It's not ideal, but it's not useless either. Some therapists also do 'one person couples therapy' intentionally."
-  - q: "Is online marriage counseling as effective as in-person?"
-    a: "The research here is still catching up, but early evidence suggests comparable outcomes for most couples. The main exception is high-conflict situations where a skilled therapist needs to physically manage the room, read body language closely, and intervene in real time. For moderate conflict or maintenance work, online is a reasonable choice."
-  - q: "What's the difference between marriage counseling and couples therapy?"
-    a: "Mostly just terminology. In practice, the terms are used interchangeably. 'Marriage counseling' sometimes implies a shorter, more advice-oriented approach, while 'couples therapy' often suggests a deeper therapeutic process, but there's no standardized distinction. What matters is the therapist's training and approach, not what they call it on their website."
-  - q: "Should we try marriage counseling before deciding to divorce?"
-    a: "It depends on whether ambivalence is real on both sides. If it is, discernment counseling (mentioned above) is a better fit than jumping into process therapy. If one person has emotionally checked out, therapy can clarify that faster than more years of limping along. Either outcome is information."
+ - q: "How long does marriage counseling usually take?"
+ a: "Most couples see meaningful movement within 12-20 sessions, though that varies a lot based on how complex the issues are and how consistently both partners engage. EFT research suggests 8-20 sessions on average. If you've been in therapy for 6 months and feel like you're going in circles, raise that directly with your therapist."
+ - q: "Can marriage counseling work if only one partner wants to go?"
+ a: "Yes, actually. Individual therapy focused on relationship patterns (sometimes called 'relationship coaching' or simply individual therapy with a relational focus) can shift dynamics even when only one person participates. It's not ideal, but it's not useless either. Some therapists also do 'one person couples therapy' intentionally."
+ - q: "Is online marriage counseling as effective as in-person?"
+ a: "The research here is still catching up, but early evidence suggests comparable outcomes for most couples. The main exception is high-conflict situations where a skilled therapist needs to physically manage the room, read body language closely, and intervene in real time. For moderate conflict or maintenance work, online is a reasonable choice."
+ - q: "What's the difference between marriage counseling and couples therapy?"
+ a: "Mostly just terminology. In practice, the terms are used interchangeably. 'Marriage counseling' sometimes implies a shorter, more advice-oriented approach, while 'couples therapy' often suggests a deeper therapeutic process, but there's no standardized distinction. What matters is the therapist's training and approach, not what they call it on their website."
+ - q: "Should we try marriage counseling before deciding to divorce?"
+ a: "It depends on whether ambivalence is real on both sides. If it is, discernment counseling (mentioned above) is a better fit than jumping into process therapy. If one person has emotionally checked out, therapy can clarify that faster than more years of limping along. Either outcome is information."
 author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
@@ -32,12 +32,12 @@ So let's be specific about what the research says, where counseling tends to fai
 ---
 
 <div class="value-module">
-  <div class="vm-head">Success Predictors: Key Threshold Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Research identifies specific factors that predict whether couples therapy will help, use these evidence-based thresholds to assess your situation before committing.</p>
-    <table><caption>Factors That Predict Couples Therapy Outcomes</caption><thead><tr><th>Factor</th><th>Favorable Threshold</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Timing of seeking help</td><td>Within 1-2 years of persistent problems emerging</td><td>Waiting 6+ years (average couple waits 6 years; outcomes decline significantly with delay)</td></tr><tr><td>Both partners' commitment</td><td>Both actively want relationship to improve</td><td>One partner attending only to "prove" they tried before leaving</td></tr><tr><td>Contempt levels</td><td>Disagreements stay issue-focused</td><td>Regular eye-rolling, mockery, or character attacks (Gottman's strongest divorce predictor)</td></tr><tr><td>Active addiction or abuse</td><td>No untreated substance abuse; no physical/emotional abuse</td><td>Active addiction or any domestic violence (individual treatment needed first)</td></tr><tr><td>Affair status</td><td>Affair disclosed and ended; both willing to process</td><td>Ongoing secret affair by either partner</td></tr><tr><td>Practice between sessions</td><td>Completing homework 70%+ of the time</td><td>Only engaging during the therapy hour itself</td></tr><tr><td>Therapist fit</td><td>Both partners feel heard by session 3-4</td><td>Either partner consistently feels therapist "takes sides"</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Success Predictors: Key Threshold Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Research identifies specific factors that predict whether couples therapy will help, use these evidence-based thresholds to assess your situation before committing.</p>
+ <table><caption>Factors That Predict Couples Therapy Outcomes</caption><thead><tr><th>Factor</th><th>Favorable Threshold</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Timing of seeking help</td><td>Within 1-2 years of persistent problems emerging</td><td>Waiting 6+ years (average couple waits 6 years; outcomes decline significantly with delay)</td></tr><tr><td>Both partners' commitment</td><td>Both actively want relationship to improve</td><td>One partner attending only to "prove" they tried before leaving</td></tr><tr><td>Contempt levels</td><td>Disagreements stay issue-focused</td><td>Regular eye-rolling, mockery, or character attacks (Gottman's strongest divorce predictor)</td></tr><tr><td>Active addiction or abuse</td><td>No untreated substance abuse; no physical/emotional abuse</td><td>Active addiction or any domestic violence (individual treatment needed first)</td></tr><tr><td>Affair status</td><td>Affair disclosed and ended; both willing to process</td><td>Ongoing secret affair by either partner</td></tr><tr><td>Practice between sessions</td><td>Completing homework 70%+ of the time</td><td>Only engaging during the therapy hour itself</td></tr><tr><td>Therapist fit</td><td>Both partners feel heard by session 3-4</td><td>Either partner consistently feels therapist "takes sides"</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Research Is Good, With Caveats

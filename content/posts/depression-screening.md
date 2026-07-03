@@ -9,14 +9,14 @@ image: "https://images.pexels.com/photos/3807571/pexels-photo-3807571.jpeg?auto=
 categories: ["Mental Health Assessment"]
 tags: ["depression", "screening", "PHQ-9", "mental health assessment"]
 faqs:
-  - question: "Is the PHQ-9 accurate?"
-    answer: "The PHQ-9 has been validated in numerous clinical studies and is widely used by primary care physicians and mental health professionals. However, it is a screening tool, not a diagnostic instrument. A mental health professional uses PHQ-9 results alongside clinical interviews and history."
-  - question: "What score on the PHQ-9 means I should see a doctor?"
-    answer: "A score of 10 or above (moderate depression range) is generally when clinicians recommend discussing results with a healthcare provider. However, if any score is worrying you or interfering with your life, speaking with a professional at any score is worthwhile."
-  - question: "Can I take the PHQ-9 online?"
-    answer: "Yes. The PHQ-9 is in the public domain and widely available online. Our interactive version above calculates your score automatically. Remember that online tools are not a substitute for professional evaluation."
-  - question: "What happens after a positive PHQ-9 screen?"
-    answer: "If your score suggests moderate to severe depression, a clinician will typically conduct a more thorough clinical interview, discuss your history and symptoms in depth, and discuss treatment options including therapy, medication, or a combination of both."
+ - question: "Is the PHQ-9 accurate?"
+ answer: "The PHQ-9 has been validated in numerous clinical studies and is widely used by primary care physicians and mental health professionals. However, it is a screening tool, not a diagnostic instrument. A mental health professional uses PHQ-9 results alongside clinical interviews and history."
+ - question: "What score on the PHQ-9 means I should see a doctor?"
+ answer: "A score of 10 or above (moderate depression range) is generally when clinicians recommend discussing results with a healthcare provider. However, if any score is worrying you or interfering with your life, speaking with a professional at any score is worthwhile."
+ - question: "Can I take the PHQ-9 online?"
+ answer: "Yes. The PHQ-9 is in the public domain and widely available online. Our interactive version above calculates your score automatically. Remember that online tools are not a substitute for professional evaluation."
+ - question: "What happens after a positive PHQ-9 screen?"
+ answer: "If your score suggests moderate to severe depression, a clinician will typically conduct a more thorough clinical interview, discuss your history and symptoms in depth, and discuss treatment options including therapy, medication, or a combination of both."
 ---
 **If you are in crisis or having thoughts of self-harm, please call or text 988 (Suicide & Crisis Lifeline) right now. For emergencies, call 911.**
 

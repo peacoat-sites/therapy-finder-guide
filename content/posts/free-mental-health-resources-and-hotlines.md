@@ -9,16 +9,16 @@ tags: ["free", "mental", "health", "resources", "hotlines"]
 slug: "free-mental-health-resources-and-hotlines"
 affiliate_disclosure: true
 faqs:
-  - q: "Is calling 988 really confidential? Will they send police?"
-    a: "Calls to 988 are confidential. Counselors operate under the same confidentiality principles as licensed therapists. Emergency services are only contacted in situations where a counselor determines there is an imminent risk of harm and no other option is available. This represents a very small percentage of calls. The vast majority of conversations stay between you and the counselor."
-  - q: "Can I get real therapy for free, or is it always a compromise?"
-    a: "Community mental health centers and university training clinics offer genuinely structured, ongoing therapy at no cost. University clinics in particular provide evidence-based treatment under licensed supervision. It's not a lesser product. It's a different delivery model, and for many people it works well."
-  - q: "What if I don't want to talk, I just need information?"
-    a: "SAMHSA's National Helpline (1-800-662-4357) is specifically designed as an information and referral service. You don't have to be in crisis. You can call to ask: 'What options exist for someone in my situation?' They'll help you find local services."
-  - q: "Are mental health apps actually effective?"
-    a: "The honest answer is: for some things, in some contexts, yes. Apps built on CBT principles, like MindShift, have reasonable evidence behind them for mild to moderate anxiety and mood issues. They are not effective replacements for clinical care for serious mental health conditions. Think of them as a supplement or a bridge, not a ceiling."
-  - q: "How do I support someone else who needs help but won't reach out?"
-    a: "You can't force someone into care, and trying to tends to backfire. What you can do is reduce the friction. Offer to sit with them while they make a call. Look up the nearest community health center so they don't have to do that work alone. Remind them that 988 exists and you can text together if that feels easier. Being a consistent, non-pressuring presence matters more than any single resource."
+ - q: "Is calling 988 really confidential? Will they send police?"
+ a: "Calls to 988 are confidential. Counselors operate under the same confidentiality principles as licensed therapists. Emergency services are only contacted in situations where a counselor determines there is an imminent risk of harm and no other option is available. This represents a very small percentage of calls. The vast majority of conversations stay between you and the counselor."
+ - q: "Can I get real therapy for free, or is it always a compromise?"
+ a: "Community mental health centers and university training clinics offer genuinely structured, ongoing therapy at no cost. University clinics in particular provide evidence-based treatment under licensed supervision. It's not a lesser product. It's a different delivery model, and for many people it works well."
+ - q: "What if I don't want to talk, I just need information?"
+ a: "SAMHSA's National Helpline (1-800-662-4357) is specifically designed as an information and referral service. You don't have to be in crisis. You can call to ask: 'What options exist for someone in my situation?' They'll help you find local services."
+ - q: "Are mental health apps actually effective?"
+ a: "The honest answer is: for some things, in some contexts, yes. Apps built on CBT principles, like MindShift, have reasonable evidence behind them for mild to moderate anxiety and mood issues. They are not effective replacements for clinical care for serious mental health conditions. Think of them as a supplement or a bridge, not a ceiling."
+ - q: "How do I support someone else who needs help but won't reach out?"
+ a: "You can't force someone into care, and trying to tends to backfire. What you can do is reduce the friction. Offer to sit with them while they make a call. Look up the nearest community health center so they don't have to do that work alone. Remind them that 988 exists and you can text together if that feels easier. Being a consistent, non-pressuring presence matters more than any single resource."
 author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
@@ -30,12 +30,12 @@ Most people figure getting mental health support means dropping money on a thera
 ---
 
 <div class="value-module">
-  <div class="vm-head">Crisis Line Quick-Reference Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this table to identify the right line for your situation at a glance.</p>
-    <table><thead><tr><th>Resource</th><th>Contact</th><th>Best For</th><th>Hours</th><th>Chat/Text Option</th></tr></thead><tbody><tr><td>988 Suicide &amp; Crisis Lifeline</td><td>Call or text 988</td><td>General crisis, suicidal thoughts, overwhelming distress</td><td>24/7</td><td>Yes (text 988 or online chat)</td></tr><tr><td>Crisis Text Line</td><td>Text HOME to 741741</td><td>When calling feels too exposed; prefer typing</td><td>24/7</td><td>Text only</td></tr><tr><td>The Trevor Project</td><td>1-866-488-7386 or text START to 678-678</td><td>LGBTQ+ youth (under 25)</td><td>24/7</td><td>Yes</td></tr><tr><td>Veterans Crisis Line</td><td>988 then press 1, or text 838255</td><td>Veterans, service members, military families</td><td>24/7</td><td>Yes</td></tr><tr><td>SAMHSA National Helpline</td><td>1-800-662-4357</td><td>Treatment referrals for mental health or substance use</td><td>24/7</td><td>No (phone only)</td></tr><tr><td>National Domestic Violence Hotline</td><td>1-800-799-7233 or text START to 88788</td><td>Abuse situations, safety planning</td><td>24/7</td><td>Yes</td></tr><tr><td>NAMI Helpline</td><td>1-800-950-6264</td><td>Non-crisis support, navigating the mental health system</td><td>Mon–Fri 10am–10pm ET</td><td>No</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Crisis Line Quick-Reference Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this table to identify the right line for your situation at a glance.</p>
+ <table><thead><tr><th>Resource</th><th>Contact</th><th>Best For</th><th>Hours</th><th>Chat/Text Option</th></tr></thead><tbody><tr><td>988 Suicide &amp; Crisis Lifeline</td><td>Call or text 988</td><td>General crisis, suicidal thoughts, overwhelming distress</td><td>24/7</td><td>Yes (text 988 or online chat)</td></tr><tr><td>Crisis Text Line</td><td>Text HOME to 741741</td><td>When calling feels too exposed; prefer typing</td><td>24/7</td><td>Text only</td></tr><tr><td>The Trevor Project</td><td>1-866-488-7386 or text START to 678-678</td><td>LGBTQ+ youth (under 25)</td><td>24/7</td><td>Yes</td></tr><tr><td>Veterans Crisis Line</td><td>988 then press 1, or text 838255</td><td>Veterans, service members, military families</td><td>24/7</td><td>Yes</td></tr><tr><td>SAMHSA National Helpline</td><td>1-800-662-4357</td><td>Treatment referrals for mental health or substance use</td><td>24/7</td><td>No (phone only)</td></tr><tr><td>National Domestic Violence Hotline</td><td>1-800-799-7233 or text START to 88788</td><td>Abuse situations, safety planning</td><td>24/7</td><td>Yes</td></tr><tr><td>NAMI Helpline</td><td>1-800-950-6264</td><td>Non-crisis support, navigating the mental health system</td><td>Mon–Fri 10am–10pm ET</td><td>No</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## When You Need Help Right Now: Crisis Lines and Immediate Support

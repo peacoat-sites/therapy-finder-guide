@@ -9,16 +9,16 @@ tags: ["difference", "between", "psychologist", "psychiatrist", "therapist"]
 slug: "difference-between-psychologist-psychiatrist-and-therapist"
 affiliate_disclosure: true
 faqs:
-  - q: "Can a therapist diagnose me?"
-    a: "Licensed therapists (LCSWs, LPCs, LMFTs) can typically provide a clinical diagnosis for billing and treatment purposes, but their training in formal diagnostic assessment is generally less extensive than a psychologist's. For straightforward diagnoses like generalized anxiety disorder or major depression, a therapist's assessment is usually sufficient. For complex or unclear presentations, a psychologist or psychiatrist may be better positioned to sort it out."
-  - q: "Do I need a referral to see a psychiatrist?"
-    a: "Usually not, though some insurance plans require one. You can often self-refer and call a psychiatrist's office directly. If access is a barrier, your primary care doctor can also make a warm referral and sometimes that speeds up the process significantly."
-  - q: "Is a psychologist the same as a therapist?"
-    a: "A psychologist can be a therapist, yes. But not every therapist is a psychologist. Psychologist refers to a specific doctoral-level credential. Therapist describes a role that many different credential-holders can fill, from master's-level LCSWs to doctoral-level psychologists."
-  - q: "Can a psychiatrist provide therapy, or do they only prescribe medications?"
-    a: "Some psychiatrists are trained in therapy and do practice it, but in current U.S. clinical practice, most psychiatrists focus primarily on medication evaluation and management. If you're looking for ongoing talk therapy combined with medication, you'll often work with both a therapist and a psychiatrist rather than one person doing both."
-  - q: "How do I know if I need medication or just therapy?"
-    a: "This is genuinely one of the hardest questions, and the honest answer is that a qualified professional assessment is the only reliable way to know. A good therapist can help you figure out if a psychiatric evaluation makes sense. Many conditions respond well to therapy alone; others respond better to a combination. Start somewhere, be honest about your symptoms, and let the clinical picture guide the conversation."
+ - q: "Can a therapist diagnose me?"
+ a: "Licensed therapists (LCSWs, LPCs, LMFTs) can typically provide a clinical diagnosis for billing and treatment purposes, but their training in formal diagnostic assessment is generally less extensive than a psychologist's. For straightforward diagnoses like generalized anxiety disorder or major depression, a therapist's assessment is usually sufficient. For complex or unclear presentations, a psychologist or psychiatrist may be better positioned to sort it out."
+ - q: "Do I need a referral to see a psychiatrist?"
+ a: "Usually not, though some insurance plans require one. You can often self-refer and call a psychiatrist's office directly. If access is a barrier, your primary care doctor can also make a warm referral and sometimes that speeds up the process significantly."
+ - q: "Is a psychologist the same as a therapist?"
+ a: "A psychologist can be a therapist, yes. But not every therapist is a psychologist. Psychologist refers to a specific doctoral-level credential. Therapist describes a role that many different credential-holders can fill, from master's-level LCSWs to doctoral-level psychologists."
+ - q: "Can a psychiatrist provide therapy, or do they only prescribe medications?"
+ a: "Some psychiatrists are trained in therapy and do practice it, but in current U.S. clinical practice, most psychiatrists focus primarily on medication evaluation and management. If you're looking for ongoing talk therapy combined with medication, you'll often work with both a therapist and a psychiatrist rather than one person doing both."
+ - q: "How do I know if I need medication or just therapy?"
+ a: "This is genuinely one of the hardest questions, and the honest answer is that a qualified professional assessment is the only reliable way to know. A good therapist can help you figure out if a psychiatric evaluation makes sense. Many conditions respond well to therapy alone; others respond better to a combination. Start somewhere, be honest about your symptoms, and let the clinical picture guide the conversation."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
@@ -33,12 +33,12 @@ So let me just lay it out plainly.
 
 
 <div class="value-module">
-  <div class="vm-head">Which Provider for Which Concern</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this decision matrix to match your primary concern with the most appropriate starting point, based on typical clinical pathways.</p>
-    <table><thead><tr><th>Primary Concern</th><th>Start With</th><th>Why This Route</th><th>May Also Need</th></tr></thead><tbody><tr><td>Severe symptoms disrupting daily function (can't work, can't sleep for weeks, thoughts of self-harm)</td><td>Psychiatrist</td><td>Medical evaluation needed; medication often essential for stabilization</td><td>Therapist for ongoing support once stable</td></tr><tr><td>Suspected ADHD, learning disability, or autism evaluation</td><td>Psychologist</td><td>Formal psychological testing and assessment is their specialty</td><td>Psychiatrist if medication indicated after diagnosis</td></tr><tr><td>Relationship conflicts, life transitions, grief, stress</td><td>Therapist (LCSW, LPC, LMFT)</td><td>Talk therapy is primary treatment; no testing or medication typically needed</td><td>Psychologist or psychiatrist only if symptoms escalate</td></tr><tr><td>Anxiety or depression affecting quality of life but still functioning</td><td>Therapist or Psychologist</td><td>Evidence-based therapy (CBT, etc.) is first-line treatment for mild-moderate cases</td><td>Psychiatrist if therapy alone insufficient after 8-12 weeks</td></tr><tr><td>Need medication management for existing diagnosis</td><td>Psychiatrist (or psychiatric NP)</td><td>Only MDs/DOs/NPs can prescribe and adjust psychiatric medications</td><td>Therapist for complementary talk therapy</td></tr><tr><td>Unclear what's wrong, just know something is off</td><td>Therapist or Primary Care Doctor</td><td>Lower barrier to entry; can help clarify and refer appropriately</td><td>Specialist referral based on initial assessment</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Which Provider for Which Concern</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this decision matrix to match your primary concern with the most appropriate starting point, based on typical clinical pathways.</p>
+ <table><thead><tr><th>Primary Concern</th><th>Start With</th><th>Why This Route</th><th>May Also Need</th></tr></thead><tbody><tr><td>Severe symptoms disrupting daily function (can't work, can't sleep for weeks, thoughts of self-harm)</td><td>Psychiatrist</td><td>Medical evaluation needed; medication often essential for stabilization</td><td>Therapist for ongoing support once stable</td></tr><tr><td>Suspected ADHD, learning disability, or autism evaluation</td><td>Psychologist</td><td>Formal psychological testing and assessment is their specialty</td><td>Psychiatrist if medication indicated after diagnosis</td></tr><tr><td>Relationship conflicts, life transitions, grief, stress</td><td>Therapist (LCSW, LPC, LMFT)</td><td>Talk therapy is primary treatment; no testing or medication typically needed</td><td>Psychologist or psychiatrist only if symptoms escalate</td></tr><tr><td>Anxiety or depression affecting quality of life but still functioning</td><td>Therapist or Psychologist</td><td>Evidence-based therapy (CBT, etc.) is first-line treatment for mild-moderate cases</td><td>Psychiatrist if therapy alone insufficient after 8-12 weeks</td></tr><tr><td>Need medication management for existing diagnosis</td><td>Psychiatrist (or psychiatric NP)</td><td>Only MDs/DOs/NPs can prescribe and adjust psychiatric medications</td><td>Therapist for complementary talk therapy</td></tr><tr><td>Unclear what's wrong, just know something is off</td><td>Therapist or Primary Care Doctor</td><td>Lower barrier to entry; can help clarify and refer appropriately</td><td>Specialist referral based on initial assessment</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Shortest Possible Version (Before We Go Deeper)

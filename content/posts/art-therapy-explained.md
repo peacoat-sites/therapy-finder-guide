@@ -13,16 +13,16 @@ author_bio: "Alex Morgan has a background in psychology and has written about me
 slug: "art-therapy-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "Do I need to be good at art to benefit from art therapy?"
-    a: "No, and this concern is one of the most common things that keeps people from trying it. Art therapy isn't evaluated on artistic quality. The image is a tool for exploration, not a performance. Most experienced art therapists will tell you that people who are highly self-critical about their drawing ability sometimes find the process most revealing precisely because of that self-criticism."
-  - q: "Is art therapy covered by insurance?"
-    a: "Sometimes. Art therapists who are also licensed as counselors or social workers (which many are) can bill under those licenses in states that recognize the dual credential. Coverage varies considerably by state and plan. As of 2026, roughly a dozen states have formal licensure for art therapists specifically, which affects insurance billing. Always ask your potential therapist before your first session."
-  - q: "How is art therapy different from regular therapy?"
-    a: "Traditional talk therapy relies primarily on verbal language to access and process emotional material. Art therapy adds a non-verbal channel, the image, that can reach material that language sometimes can't. They're not competing approaches. Many clinicians integrate art-based techniques into conventional sessions, and many clients see an art therapist alongside a talk therapist."
-  - q: "Can art therapy help with trauma?"
-    a: "Yes, and this is actually one of its strongest evidence bases. Because trauma is often stored somatically and pre-verbally, trauma survivors sometimes find that talking directly about the event is less accessible or more destabilizing than working through imagery. Art therapy allows for what clinicians call 'titrated exposure,' approaching difficult material at a pace and a distance the client can manage. Always work with a trauma-trained clinician if this is your focus."
-  - q: "How long does art therapy take to work?"
-    a: "This depends enormously on what you're working on. Some people report feeling meaningfully different after six to eight sessions. Others are in ongoing art therapy for years, particularly when addressing complex trauma or chronic mental health conditions. The research on short-term art therapy groups (six to twelve sessions) generally shows measurable symptom improvement, but 'working' means different things for different goals. Talk with your therapist early about what you're hoping to see change and how you'll both know if it's happening."
+ - q: "Do I need to be good at art to benefit from art therapy?"
+ a: "No, and this concern is one of the most common things that keeps people from trying it. Art therapy isn't evaluated on artistic quality. The image is a tool for exploration, not a performance. Most experienced art therapists will tell you that people who are highly self-critical about their drawing ability sometimes find the process most revealing precisely because of that self-criticism."
+ - q: "Is art therapy covered by insurance?"
+ a: "Sometimes. Art therapists who are also licensed as counselors or social workers (which many are) can bill under those licenses in states that recognize the dual credential. Coverage varies considerably by state and plan. As of 2026, roughly a dozen states have formal licensure for art therapists specifically, which affects insurance billing. Always ask your potential therapist before your first session."
+ - q: "How is art therapy different from regular therapy?"
+ a: "Traditional talk therapy relies primarily on verbal language to access and process emotional material. Art therapy adds a non-verbal channel, the image, that can reach material that language sometimes can't. They're not competing approaches. Many clinicians integrate art-based techniques into conventional sessions, and many clients see an art therapist alongside a talk therapist."
+ - q: "Can art therapy help with trauma?"
+ a: "Yes, and this is actually one of its strongest evidence bases. Because trauma is often stored somatically and pre-verbally, trauma survivors sometimes find that talking directly about the event is less accessible or more destabilizing than working through imagery. Art therapy allows for what clinicians call 'titrated exposure,' approaching difficult material at a pace and a distance the client can manage. Always work with a trauma-trained clinician if this is your focus."
+ - q: "How long does art therapy take to work?"
+ a: "This depends enormously on what you're working on. Some people report feeling meaningfully different after six to eight sessions. Others are in ongoing art therapy for years, particularly when addressing complex trauma or chronic mental health conditions. The research on short-term art therapy groups (six to twelve sessions) generally shows measurable symptom improvement, but 'working' means different things for different goals. Talk with your therapist early about what you're hoping to see change and how you'll both know if it's happening."
 ---
 
 Most people who ask me about art therapy are secretly asking something else. They're asking: *Is this real therapy, or is it just crafts?*
@@ -128,6 +128,6 @@ If you're in a moment of crisis, please don't try to self-therapize through art.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

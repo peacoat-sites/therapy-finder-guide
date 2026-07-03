@@ -13,16 +13,16 @@ author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a
 slug: "988-mental-health-hotline-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "Is 988 only for people who are suicidal?"
-    a: "No. The line supports anyone in a mental health or substance use crisis, including panic attacks, severe anxiety, grief, concerns about someone else, or any situation where you feel overwhelmed and need immediate support from a trained person."
-  - q: "Will calling 988 automatically send police to my door?"
-    a: "Not automatically, and not typically. Police or emergency services are only contacted if a counselor concludes someone is in immediate, imminent danger and no other option is available. The vast majority of calls do not result in any emergency dispatch."
-  - q: "Is 988 free and confidential?"
-    a: "Yes to both. There's no cost to call or text, and calls are confidential. Exceptions exist only in genuine imminent-danger situations, which apply to a small fraction of contacts."
-  - q: "Can I text 988 instead of calling?"
-    a: "Yes. Texting 988 connects you to a crisis counselor through the same network. It's a legitimate option, not a lesser one, and some people find it easier to communicate in writing during high-stress moments."
-  - q: "What if I call and the wait is too long or I can't get through?"
-    a: "If you're in immediate danger and can't reach 988, call 911 and ask for a mental health crisis team if your area has one. The Crisis Text Line (text HOME to 741741) is another option with typically fast response times."
+ - q: "Is 988 only for people who are suicidal?"
+ a: "No. The line supports anyone in a mental health or substance use crisis, including panic attacks, severe anxiety, grief, concerns about someone else, or any situation where you feel overwhelmed and need immediate support from a trained person."
+ - q: "Will calling 988 automatically send police to my door?"
+ a: "Not automatically, and not typically. Police or emergency services are only contacted if a counselor concludes someone is in immediate, imminent danger and no other option is available. The vast majority of calls do not result in any emergency dispatch."
+ - q: "Is 988 free and confidential?"
+ a: "Yes to both. There's no cost to call or text, and calls are confidential. Exceptions exist only in genuine imminent-danger situations, which apply to a small fraction of contacts."
+ - q: "Can I text 988 instead of calling?"
+ a: "Yes. Texting 988 connects you to a crisis counselor through the same network. It's a legitimate option, not a lesser one, and some people find it easier to communicate in writing during high-stress moments."
+ - q: "What if I call and the wait is too long or I can't get through?"
+ a: "If you're in immediate danger and can't reach 988, call 911 and ask for a mental health crisis team if your area has one. The Crisis Text Line (text HOME to 741741) is another option with typically fast response times."
 ---
 
 Most people who share the 988 number don't explain what actually happens when you call it. They post it with a heart emoji and move on. That leaves a lot of people wondering whether to dial, what they'll hear, and whether it's really for them. Let's fix that.

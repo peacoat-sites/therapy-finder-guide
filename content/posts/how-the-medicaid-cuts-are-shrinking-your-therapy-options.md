@@ -11,10 +11,7 @@ author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
 slug: "how-the-medicaid-cuts-are-shrinking-your-therapy-options"
-affiliate_disclosure: true
----
-
-Picture this: you've finally made the appointment. Maybe it took months to work up to it, or your doctor referred you, or things got bad enough that you stopped putting it off. You show up, you start to trust your therapist, and then one day you get a letter. Your Medicaid coverage has changed. The clinic is no longer in-network, or your provider stopped accepting Medicaid entirely, or your hours of covered care just got slashed. That letter is landing in real mailboxes right now, and if you're on Medicaid or know someone who is, the situation is more urgent than most news coverage is making it sound.
+affiliate_disclosure: true, Picture this: you've finally made the appointment. Maybe it took months to work up to it, or your doctor referred you, or things got bad enough that you stopped putting it off. You show up, you start to trust your therapist, and then one day you get a letter. Your Medicaid coverage has changed. The clinic is no longer in-network, or your provider stopped accepting Medicaid entirely, or your hours of covered care just got slashed. That letter is landing in real mailboxes right now, and if you're on Medicaid or know someone who is, the situation is more urgent than most news coverage is making it sound.
 
 Here's what's actually happening.
 
@@ -90,6 +87,6 @@ None of this means you should give up on accessing help. It means you should act
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

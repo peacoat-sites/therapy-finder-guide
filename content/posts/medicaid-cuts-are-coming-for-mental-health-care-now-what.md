@@ -11,10 +11,7 @@ author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 slug: "medicaid-cuts-are-coming-for-mental-health-care-now-what"
-affiliate_disclosure: true
----
-
-If you get mental health care through Medicaid, or you know someone who does, the next few years are going to be harder than most people realize. And I'll be honest: when I started looking into exactly what's happening right now, I didn't expect the picture to be this concrete, this fast-moving, or this unevenly distributed across states.
+affiliate_disclosure: true, If you get mental health care through Medicaid, or you know someone who does, the next few years are going to be harder than most people realize. And I'll be honest: when I started looking into exactly what's happening right now, I didn't expect the picture to be this concrete, this fast-moving, or this unevenly distributed across states.
 
 The One Big Beautiful Bill Act, which passed the House in May 2026, cuts federal Medicaid funding by roughly 15 percent, amounting to approximately $1 trillion over ten years. The Congressional Budget Office estimates that 11.8 million people will lose Medicaid coverage as a direct result. That's not a projection buried in a think-tank footnote. That's the official federal scorekeeper saying more than eleven million people lose their coverage. For mental health care specifically, this matters in a way that goes beyond the headline number, because Medicaid isn't just one payer among many. It's the single largest payer of behavioral health services in the United States, funding more than a quarter of all behavioral health care nationally and covering roughly 29 percent of the estimated 52 million nonelderly adults living with mental illness. We're talking about approximately 15 million people whose mental health coverage runs through this one program.
 
@@ -88,6 +85,6 @@ The research here is still evolving, the bill still has to clear the Senate, and
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

@@ -9,16 +9,16 @@ tags: ["anger", "management", "therapy"]
 slug: "anger-management-therapy"
 affiliate_disclosure: true
 faqs:
-  - q: "Is anger management therapy the same as a court-ordered anger management program?"
-    a: "Not necessarily. Court-ordered programs are often structured group curricula, sometimes delivered in a single block of sessions, focused on accountability and behavioral change. Therapy, by contrast, is a clinical relationship that goes deeper into the underlying drivers of anger, including trauma, attachment patterns, and co-occurring mental health conditions. Both can be valuable, but they're not identical."
-  - q: "Can anger management therapy help with rage that comes from nowhere?"
-    a: "Yes, and this is actually a clinically important pattern. Anger that feels sudden or disproportionate is often a sign of a lower baseline stress tolerance or of unresolved emotional material getting triggered. A good therapist will help you identify what's really underneath those seemingly unpredictable reactions."
-  - q: "How long does it take to see results?"
-    a: "Many people notice meaningful changes within 8 to 12 sessions. You might feel some relief earlier, as simply understanding what's happening physiologically can reduce the shame and confusion that often makes anger worse. Deeper change in long-standing patterns typically takes longer, and that's completely normal."
-  - q: "What if my anger is connected to depression or PTSD?"
-    a: "This is common, and it's important. Anger is frequently a presenting symptom of depression in adults, particularly in men, and it's one of the core symptoms of PTSD. In these cases, anger management needs to happen alongside, or sometimes after, treatment for the underlying condition. Our overview of PTSD therapy options covers how trauma treatment intersects with anger responses."
-  - q: "What if my partner also needs help, not just me?"
-    a: "That's a fair and often accurate observation. Sometimes the anger dynamic in a relationship is genuinely two-directional. A skilled therapist can help you figure out whether individual work, couples work, or a combination makes the most sense in your situation. It's also worth knowing that making real changes on your side of the dynamic can shift the relational system, even before your partner does any work of their own."
+ - q: "Is anger management therapy the same as a court-ordered anger management program?"
+ a: "Not necessarily. Court-ordered programs are often structured group curricula, sometimes delivered in a single block of sessions, focused on accountability and behavioral change. Therapy, by contrast, is a clinical relationship that goes deeper into the underlying drivers of anger, including trauma, attachment patterns, and co-occurring mental health conditions. Both can be valuable, but they're not identical."
+ - q: "Can anger management therapy help with rage that comes from nowhere?"
+ a: "Yes, and this is actually a clinically important pattern. Anger that feels sudden or disproportionate is often a sign of a lower baseline stress tolerance or of unresolved emotional material getting triggered. A good therapist will help you identify what's really underneath those seemingly unpredictable reactions."
+ - q: "How long does it take to see results?"
+ a: "Many people notice meaningful changes within 8 to 12 sessions. You might feel some relief earlier, as simply understanding what's happening physiologically can reduce the shame and confusion that often makes anger worse. Deeper change in long-standing patterns typically takes longer, and that's completely normal."
+ - q: "What if my anger is connected to depression or PTSD?"
+ a: "This is common, and it's important. Anger is frequently a presenting symptom of depression in adults, particularly in men, and it's one of the core symptoms of PTSD. In these cases, anger management needs to happen alongside, or sometimes after, treatment for the underlying condition. Our overview of PTSD therapy options covers how trauma treatment intersects with anger responses."
+ - q: "What if my partner also needs help, not just me?"
+ a: "That's a fair and often accurate observation. Sometimes the anger dynamic in a relationship is genuinely two-directional. A skilled therapist can help you figure out whether individual work, couples work, or a combination makes the most sense in your situation. It's also worth knowing that making real changes on your side of the dynamic can shift the relational system, even before your partner does any work of their own."
 author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
@@ -29,12 +29,12 @@ You're sitting in your car in the parking lot, hands gripping the steering wheel
 
 
 <div class="value-module">
-  <div class="vm-head">Anger Episode Self-Assessment Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist after an anger episode to identify which intervention skills to prioritize with your therapist.</p>
-    <table><thead><tr><th>Check If True</th><th>What It Suggests</th><th>Skill Area to Address</th></tr></thead><tbody><tr><td>My body reacted (racing heart, clenched jaw, heat) before I recognized I was angry</td><td>Low interoceptive awareness</td><td>Body-scan practice, physiological cue identification</td></tr><tr><td>I went from calm to explosive in under 30 seconds</td><td>Rapid escalation pattern</td><td>Time-out protocols, arousal interruption techniques</td></tr><tr><td>I used words like "always," "never," or "should" in my head or out loud</td><td>Cognitive distortions fueling intensity</td><td>CBT thought restructuring</td></tr><tr><td>I was already tired, hungry, or stressed before the trigger</td><td>Vulnerability factors lowering threshold</td><td>HALT awareness (Hungry, Angry, Lonely, Tired)</td></tr><tr><td>The intensity of my reaction didn't match the actual situation</td><td>Possible link to past wounds or schemas</td><td>Schema therapy or trauma-informed exploration</td></tr><tr><td>I felt justified in the moment but regretted it within an hour</td><td>Post-anger shame cycle</td><td>Values clarification, repair-and-amend skills</td></tr><tr><td>I replayed the conflict repeatedly afterward</td><td>Rumination extending anger duration</td><td>Mindfulness-based interventions, cognitive defusion</td></tr><tr><td>I directed anger at someone other than the original source</td><td>Displacement pattern</td><td>Assertive communication for original grievance</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Anger Episode Self-Assessment Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist after an anger episode to identify which intervention skills to prioritize with your therapist.</p>
+ <table><thead><tr><th>Check If True</th><th>What It Suggests</th><th>Skill Area to Address</th></tr></thead><tbody><tr><td>My body reacted (racing heart, clenched jaw, heat) before I recognized I was angry</td><td>Low interoceptive awareness</td><td>Body-scan practice, physiological cue identification</td></tr><tr><td>I went from calm to explosive in under 30 seconds</td><td>Rapid escalation pattern</td><td>Time-out protocols, arousal interruption techniques</td></tr><tr><td>I used words like "always," "never," or "should" in my head or out loud</td><td>Cognitive distortions fueling intensity</td><td>CBT thought restructuring</td></tr><tr><td>I was already tired, hungry, or stressed before the trigger</td><td>Vulnerability factors lowering threshold</td><td>HALT awareness (Hungry, Angry, Lonely, Tired)</td></tr><tr><td>The intensity of my reaction didn't match the actual situation</td><td>Possible link to past wounds or schemas</td><td>Schema therapy or trauma-informed exploration</td></tr><tr><td>I felt justified in the moment but regretted it within an hour</td><td>Post-anger shame cycle</td><td>Values clarification, repair-and-amend skills</td></tr><tr><td>I replayed the conflict repeatedly afterward</td><td>Rumination extending anger duration</td><td>Mindfulness-based interventions, cognitive defusion</td></tr><tr><td>I directed anger at someone other than the original source</td><td>Displacement pattern</td><td>Assertive communication for original grievance</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Anger Management Therapy Actually Is (And Isn't)

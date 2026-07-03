@@ -9,16 +9,16 @@ tags: ["co-parenting", "therapy"]
 slug: "co-parenting-therapy"
 affiliate_disclosure: true
 faqs:
-  - q: "Can co-parenting therapy be court-ordered?"
-    a: "Yes, and it often is. Judges in custody cases sometimes order co-parenting counseling as a condition of a parenting plan, particularly in high-conflict divorces. If it's court-ordered, make sure the therapist is familiar with producing documentation if the court requests updates."
-  - q: "What if my ex refuses to participate?"
-    a: "This is genuinely common. Some therapists will work with one parent alone on co-parenting skills, which can still shift the dynamic even if the other parent never shows up. It's not ideal, but it's not worthless either."
-  - q: "Is co-parenting therapy confidential?"
-    a: "Generally yes, but with important exceptions. If the case is court-involved, the therapist may be asked to submit reports. Some parenting coordinators operate without the usual confidentiality protections. Ask your specific therapist to explain their confidentiality limits before you say anything you'd want protected."
-  - q: "How is this different from family therapy?"
-    a: "Family therapy usually involves the whole family unit working on relationships together. Co-parenting therapy is specifically focused on the parenting relationship between two adults who are no longer together, with the explicit goal of making the child's environment more stable. The child may not be in the room at all."
-  - q: "How do I bring this up to my ex without starting a fight?"
-    a: "Frame it around the kids, not the relationship. 'I think we could both use some support figuring out a system that works better for the kids' lands differently than anything that sounds like 'you need to change.' Asking your own therapist or attorney to make the recommendation can also take the pressure off you personally."
+ - q: "Can co-parenting therapy be court-ordered?"
+ a: "Yes, and it often is. Judges in custody cases sometimes order co-parenting counseling as a condition of a parenting plan, particularly in high-conflict divorces. If it's court-ordered, make sure the therapist is familiar with producing documentation if the court requests updates."
+ - q: "What if my ex refuses to participate?"
+ a: "This is genuinely common. Some therapists will work with one parent alone on co-parenting skills, which can still shift the dynamic even if the other parent never shows up. It's not ideal, but it's not worthless either."
+ - q: "Is co-parenting therapy confidential?"
+ a: "Generally yes, but with important exceptions. If the case is court-involved, the therapist may be asked to submit reports. Some parenting coordinators operate without the usual confidentiality protections. Ask your specific therapist to explain their confidentiality limits before you say anything you'd want protected."
+ - q: "How is this different from family therapy?"
+ a: "Family therapy usually involves the whole family unit working on relationships together. Co-parenting therapy is specifically focused on the parenting relationship between two adults who are no longer together, with the explicit goal of making the child's environment more stable. The child may not be in the room at all."
+ - q: "How do I bring this up to my ex without starting a fight?"
+ a: "Frame it around the kids, not the relationship. 'I think we could both use some support figuring out a system that works better for the kids' lands differently than anything that sounds like 'you need to change.' Asking your own therapist or attorney to make the recommendation can also take the pressure off you personally."
 author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
@@ -29,12 +29,12 @@ Most parents don't plan to end up in co-parenting therapy. They land there after
 
 
 <div class="value-module">
-  <div class="vm-head">Session Red Flags vs. Progress Signs</div>
-  <div class="vm-body">
-    <p class="vm-intro">Knowing whether co-parenting therapy is working, or just burning money, means watching for specific patterns across sessions.</p>
-    <table><caption>Indicators to Assess Co-Parenting Therapy Effectiveness</caption><thead><tr><th scope="col">Area</th><th scope="col">Red Flags (Consider Changing Approach)</th><th scope="col">Progress Signs (Therapy Working)</th></tr></thead><tbody><tr><td>Session Focus</td><td>Repeatedly relitigating past relationship grievances; therapist allows venting without redirection</td><td>Discussions stay on current parenting logistics; therapist redirects historical complaints within 2-3 minutes</td></tr><tr><td>Communication Patterns</td><td>Same argument cycles repeat session after session with no new tools introduced</td><td>Parents can name and interrupt at least one reactive pattern (e.g., "I notice I'm shutting down")</td></tr><tr><td>Between-Session Behavior</td><td>No structured assignments; nothing changes in actual co-parenting interactions</td><td>Specific homework given and reviewed (e.g., using agreed text template for schedule changes)</td></tr><tr><td>Child-Centeredness</td><td>Child's stated needs rarely referenced; focus stays on parental grievances</td><td>Concrete decisions made based on child's developmental stage and expressed preferences</td></tr><tr><td>Conflict Escalation</td><td>Sessions regularly end with higher tension than they started; one parent storms out</td><td>Parents can disagree without personal attacks; able to table issues for next session</td></tr><tr><td>Timeline</td><td>After 8-10 sessions, no agreement reached on even minor logistical issues</td><td>By session 6-8, at least one previously contested issue (pickup times, communication method) resolved</td></tr><tr><td>Therapist Role</td><td>Therapist sides consistently with one parent or avoids holding either accountable</td><td>Both parents feel occasionally challenged; therapist maintains neutral parenting-relationship focus</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Session Red Flags vs. Progress Signs</div>
+ <div class="vm-body">
+ <p class="vm-intro">Knowing whether co-parenting therapy is working, or just burning money, means watching for specific patterns across sessions.</p>
+ <table><caption>Indicators to Assess Co-Parenting Therapy Effectiveness</caption><thead><tr><th scope="col">Area</th><th scope="col">Red Flags (Consider Changing Approach)</th><th scope="col">Progress Signs (Therapy Working)</th></tr></thead><tbody><tr><td>Session Focus</td><td>Repeatedly relitigating past relationship grievances; therapist allows venting without redirection</td><td>Discussions stay on current parenting logistics; therapist redirects historical complaints within 2-3 minutes</td></tr><tr><td>Communication Patterns</td><td>Same argument cycles repeat session after session with no new tools introduced</td><td>Parents can name and interrupt at least one reactive pattern (e.g., "I notice I'm shutting down")</td></tr><tr><td>Between-Session Behavior</td><td>No structured assignments; nothing changes in actual co-parenting interactions</td><td>Specific homework given and reviewed (e.g., using agreed text template for schedule changes)</td></tr><tr><td>Child-Centeredness</td><td>Child's stated needs rarely referenced; focus stays on parental grievances</td><td>Concrete decisions made based on child's developmental stage and expressed preferences</td></tr><tr><td>Conflict Escalation</td><td>Sessions regularly end with higher tension than they started; one parent storms out</td><td>Parents can disagree without personal attacks; able to table issues for next session</td></tr><tr><td>Timeline</td><td>After 8-10 sessions, no agreement reached on even minor logistical issues</td><td>By session 6-8, at least one previously contested issue (pickup times, communication method) resolved</td></tr><tr><td>Therapist Role</td><td>Therapist sides consistently with one parent or avoids holding either accountable</td><td>Both parents feel occasionally challenged; therapist maintains neutral parenting-relationship focus</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Co-Parenting Therapy Actually Is (and What It Isn't)

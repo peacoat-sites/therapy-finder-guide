@@ -9,16 +9,16 @@ tags: ["therapy", "what", "difference"]
 slug: "cbt-vs-dbt-therapy-what-is-the-difference"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I do CBT and DBT at the same time?"
-    a: "Yes, and many therapists integrate elements of both. If you're in a full DBT program, your individual therapist will typically use DBT protocols consistently rather than mixing them mid-session, but across your overall treatment lifetime, there's no conflict in learning both skill sets."
-  - q: "Which therapy is better for anxiety?"
-    a: "CBT has more accumulated research specifically for anxiety disorders including generalized anxiety, panic, social anxiety, and OCD. DBT can help anxiety too, particularly when it's tied to emotional dysregulation, but CBT is typically the first-line recommendation from most clinical guidelines for anxiety."
-  - q: "Do I need a BPD diagnosis to try DBT?"
-    a: "No. DBT was originally developed for borderline personality disorder, but clinicians now use it for eating disorders, PTSD, depression, adolescent self-harm, and anyone who struggles with intense emotion regulation. Your diagnosis (or absence of one) doesn't disqualify you."
-  - q: "How long does DBT take compared to CBT?"
-    a: "CBT is often shorter, typically 12 to 20 sessions for a targeted issue. Standard DBT is usually a six-month to one-year commitment, sometimes longer for complex presentations. DBT-informed therapy with an individual therapist can be more flexible in length."
-  - q: "What if my therapist offers 'CBT-informed' or 'DBT-informed' rather than pure versions?"
-    a: "This is extremely common and not a red flag. Most experienced clinicians draw from multiple evidence-based approaches rather than practicing in strict orthodoxy. What matters more is their training background, your rapport with them, and whether you're making progress. Ask them directly how they incorporate the approach and what that looks like in practice."
+ - q: "Can I do CBT and DBT at the same time?"
+ a: "Yes, and many therapists integrate elements of both. If you're in a full DBT program, your individual therapist will typically use DBT protocols consistently rather than mixing them mid-session, but across your overall treatment lifetime, there's no conflict in learning both skill sets."
+ - q: "Which therapy is better for anxiety?"
+ a: "CBT has more accumulated research specifically for anxiety disorders including generalized anxiety, panic, social anxiety, and OCD. DBT can help anxiety too, particularly when it's tied to emotional dysregulation, but CBT is typically the first-line recommendation from most clinical guidelines for anxiety."
+ - q: "Do I need a BPD diagnosis to try DBT?"
+ a: "No. DBT was originally developed for borderline personality disorder, but clinicians now use it for eating disorders, PTSD, depression, adolescent self-harm, and anyone who struggles with intense emotion regulation. Your diagnosis (or absence of one) doesn't disqualify you."
+ - q: "How long does DBT take compared to CBT?"
+ a: "CBT is often shorter, typically 12 to 20 sessions for a targeted issue. Standard DBT is usually a six-month to one-year commitment, sometimes longer for complex presentations. DBT-informed therapy with an individual therapist can be more flexible in length."
+ - q: "What if my therapist offers 'CBT-informed' or 'DBT-informed' rather than pure versions?"
+ a: "This is extremely common and not a red flag. Most experienced clinicians draw from multiple evidence-based approaches rather than practicing in strict orthodoxy. What matters more is their training background, your rapport with them, and whether you're making progress. Ask them directly how they incorporate the approach and what that looks like in practice."
 author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
@@ -33,12 +33,12 @@ Here's the actual history, because it matters more than most articles let on.
 
 
 <div class="value-module">
-  <div class="vm-head">Which Therapy Fits Your Situation</div>
-  <div class="vm-body">
-    <p class="vm-intro">This decision matrix maps common presenting concerns to the therapy approach that clinical research and practice guidelines most strongly support.</p>
-    <table><thead><tr><th>Primary Concern</th><th>CBT Indicated</th><th>DBT Indicated</th><th>Key Deciding Factor</th></tr></thead><tbody><tr><td>Specific phobia or panic disorder</td><td>Strong</td><td>Weaker</td><td>CBT's exposure protocols have most robust evidence for discrete anxiety disorders</td></tr><tr><td>Depression without self-harm</td><td>Strong</td><td>Moderate</td><td>Standard CBT is first-line; DBT adds value if emotion dysregulation is prominent</td></tr><tr><td>Chronic suicidal ideation or self-injury</td><td>Weaker</td><td>Strong</td><td>DBT was specifically developed for and tested on this population</td></tr><tr><td>Borderline personality disorder</td><td>Weaker</td><td>Strong</td><td>DBT remains the most evidence-supported treatment for BPD</td></tr><tr><td>Binge eating or bulimia</td><td>Strong</td><td>Strong</td><td>Both have good evidence; DBT preferred when emotional eating is the core driver</td></tr><tr><td>Relationship instability and intense reactions</td><td>Moderate</td><td>Strong</td><td>DBT's interpersonal effectiveness module directly targets this pattern</td></tr><tr><td>PTSD</td><td>Strong (especially CPT, PE)</td><td>Moderate (often adjunct)</td><td>Trauma-focused CBT variants are first-line; DBT may stabilize before trauma processing</td></tr><tr><td>Generalized anxiety with rumination</td><td>Strong</td><td>Moderate</td><td>CBT has strongest evidence; DBT distress tolerance can help if worry feels uncontrollable</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Which Therapy Fits Your Situation</div>
+ <div class="vm-body">
+ <p class="vm-intro">This decision matrix maps common presenting concerns to the therapy approach that clinical research and practice guidelines most strongly support.</p>
+ <table><thead><tr><th>Primary Concern</th><th>CBT Indicated</th><th>DBT Indicated</th><th>Key Deciding Factor</th></tr></thead><tbody><tr><td>Specific phobia or panic disorder</td><td>Strong</td><td>Weaker</td><td>CBT's exposure protocols have most robust evidence for discrete anxiety disorders</td></tr><tr><td>Depression without self-harm</td><td>Strong</td><td>Moderate</td><td>Standard CBT is first-line; DBT adds value if emotion dysregulation is prominent</td></tr><tr><td>Chronic suicidal ideation or self-injury</td><td>Weaker</td><td>Strong</td><td>DBT was specifically developed for and tested on this population</td></tr><tr><td>Borderline personality disorder</td><td>Weaker</td><td>Strong</td><td>DBT remains the most evidence-supported treatment for BPD</td></tr><tr><td>Binge eating or bulimia</td><td>Strong</td><td>Strong</td><td>Both have good evidence; DBT preferred when emotional eating is the core driver</td></tr><tr><td>Relationship instability and intense reactions</td><td>Moderate</td><td>Strong</td><td>DBT's interpersonal effectiveness module directly targets this pattern</td></tr><tr><td>PTSD</td><td>Strong (especially CPT, PE)</td><td>Moderate (often adjunct)</td><td>Trauma-focused CBT variants are first-line; DBT may stabilize before trauma processing</td></tr><tr><td>Generalized anxiety with rumination</td><td>Strong</td><td>Moderate</td><td>CBT has strongest evidence; DBT distress tolerance can help if worry feels uncontrollable</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Where DBT Came From (And Why It Matters)
