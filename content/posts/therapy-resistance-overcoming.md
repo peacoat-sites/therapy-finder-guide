@@ -14,15 +14,15 @@ slug: "therapy-resistance-overcoming"
 affiliate_disclosure: true
 faqs:
  - q: "What if I've tried therapy before and it didn't help?"
- a: "One therapist or one approach not working doesn't mean therapy as a whole won't work for you. Outcomes vary significantly based on the therapeutic relationship, the type of therapy, and the match between the approach and your specific concerns. It's worth trying a different modality or a different therapist before writing it off entirely."
+   a: "One therapist or one approach not working doesn't mean therapy as a whole won't work for you. Outcomes vary significantly based on the therapeutic relationship, the type of therapy, and the match between the approach and your specific concerns. It's worth trying a different modality or a different therapist before writing it off entirely."
  - q: "Is it normal to feel worse in the first few weeks of therapy?"
- a: "Yes, and it's more common than most people expect. When you start examining things you've been coping with by not examining them, there's often a temporary increase in emotional discomfort. Tell your therapist if this happens. It usually levels out, and a good therapist will help you manage the pace."
+   a: "Yes, and it's more common than most people expect. When you start examining things you've been coping with by not examining them, there's often a temporary increase in emotional discomfort. Tell your therapist if this happens. It usually levels out, and a good therapist will help you manage the pace."
  - q: "What if I genuinely don't know what to talk about in therapy?"
- a: "That's fine to say out loud in the room. A skilled therapist doesn't expect you to walk in with an agenda. 'I don't really know what I'm doing here' is a completely workable place to start."
+   a: "That's fine to say out loud in the room. A skilled therapist doesn't expect you to walk in with an agenda. 'I don't really know what I'm doing here' is a completely workable place to start."
  - q: "How do I know if a therapist is actually qualified?"
- a: "In the U.S., look for licensed credentials: LCSW, LMFT, LPC, PhD, or PsyD. You can verify licensure through your state's licensing board website. Certifications in specific modalities (like EMDR or CBT) are a plus but aren't a substitute for a valid license."
+   a: "In the U.S., look for licensed credentials: LCSW, LMFT, LPC, PhD, or PsyD. You can verify licensure through your state's licensing board website. Certifications in specific modalities (like EMDR or CBT) are a plus but aren't a substitute for a valid license."
  - q: "What if I can't afford therapy right now?"
- a: "Sliding-scale fees are more widely available than people realize. Many therapists offer them but don't advertise them prominently. Community mental health centers, university training clinics, and open-enrollment platforms like Open Path Collective offer significantly reduced rates. It's worth asking directly rather than assuming cost rules it out."
+   a: "Sliding-scale fees are more widely available than people realize. Many therapists offer them but don't advertise them prominently. Community mental health centers, university training clinics, and open-enrollment platforms like Open Path Collective offer significantly reduced rates. It's worth asking directly rather than assuming cost rules it out."
 ---
 Something I've noticed over twenty years in this field: the people who say "therapy isn't for me" are almost always the ones who need it most. Not in a patronizing way. I mean that the survival skills that help someone endure genuinely hard circumstances, minimizing, pushing through, not wanting to burden others, are the exact same skills that make sitting down with a stranger to talk about your inner life feel completely absurd.
 

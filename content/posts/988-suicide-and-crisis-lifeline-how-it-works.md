@@ -14,15 +14,15 @@ slug: "988-suicide-and-crisis-lifeline-how-it-works"
 affiliate_disclosure: true
 faqs:
  - q: "Is 988 available 24/7?"
- a: "Yes. The Lifeline operates around the clock, every day of the year, including holidays. Call, text, or chat at any hour."
+   a: "Yes. The Lifeline operates around the clock, every day of the year, including holidays. Call, text, or chat at any hour."
  - q: "Can I call 988 even if I'm not suicidal?"
- a: "Absolutely. You don't have to be in a life-threatening situation to reach out. Emotional distress, anxiety, overwhelm, substance-related crises, or just needing to talk to someone trained in mental health are all valid reasons to contact 988."
+   a: "Absolutely. You don't have to be in a life-threatening situation to reach out. Emotional distress, anxiety, overwhelm, substance-related crises, or just needing to talk to someone trained in mental health are all valid reasons to contact 988."
  - q: "Is my call to 988 confidential?"
- a: "Generally yes. Counselors are trained to maintain confidentiality. The exception is when there is imminent risk of harm, at which point they may take action to ensure safety. This mirrors the same confidentiality limits that apply in any licensed clinical setting."
+   a: "Generally yes. Counselors are trained to maintain confidentiality. The exception is when there is imminent risk of harm, at which point they may take action to ensure safety. This mirrors the same confidentiality limits that apply in any licensed clinical setting."
  - q: "What if I don't want to call, only text?"
- a: "Texting 988 works the same way as calling in terms of the network you're reaching. Response times may be slightly longer via text, but many people strongly prefer it. Chat at 988lifeline.org is another fully text-based option."
+   a: "Texting 988 works the same way as calling in terms of the network you're reaching. Response times may be slightly longer via text, but many people strongly prefer it. Chat at 988lifeline.org is another fully text-based option."
  - q: "Does using 988 affect my insurance or medical records?"
- a: "Calling or texting 988 does not automatically create a medical record or affect your insurance. If emergency services are dispatched and you receive in-person care, that becomes a separate clinical encounter with its own documentation, but the 988 contact itself is not reported to insurers."
+   a: "Calling or texting 988 does not automatically create a medical record or affect your insurance. If emergency services are dispatched and you receive in-person care, that becomes a separate clinical encounter with its own documentation, but the 988 contact itself is not reported to insurers."
 ---
 
 You're probably reading this because something is wrong right now, or because someone you love is struggling and you're trying to figure out what to do. Maybe you've seen the number 988 somewhere and you're not sure if it applies to you. Maybe you're not even sure your situation is "bad enough" to call.

@@ -14,15 +14,15 @@ slug: "cbt-worksheets-explained"
 affiliate_disclosure: true
 faqs:
  - q: "Do CBT worksheets actually work?"
- a: "The skills CBT worksheets teach, particularly identifying and challenging distorted thinking, are backed by decades of research. Whether worksheets specifically help depends on how you use them: completing them thoughtfully and regularly tends to show benefits; filling them in without reflection usually doesn't. They work best as part of structured therapy or a consistent self-directed practice."
+   a: "The skills CBT worksheets teach, particularly identifying and challenging distorted thinking, are backed by decades of research. Whether worksheets specifically help depends on how you use them: completing them thoughtfully and regularly tends to show benefits; filling them in without reflection usually doesn't. They work best as part of structured therapy or a consistent self-directed practice."
  - q: "Can I do CBT worksheets on my own, without a therapist?"
- a: "Yes, many people use CBT worksheets independently with good results, especially for mild-to-moderate anxiety and low mood. That said, a therapist can identify your specific thinking patterns, correct misapplications, and adapt exercises in ways a worksheet can't do alone. If your symptoms are significant or persistent, professional guidance is strongly advisable."
+   a: "Yes, many people use CBT worksheets independently with good results, especially for mild-to-moderate anxiety and low mood. That said, a therapist can identify your specific thinking patterns, correct misapplications, and adapt exercises in ways a worksheet can't do alone. If your symptoms are significant or persistent, professional guidance is strongly advisable."
  - q: "Where can I find free CBT worksheets?"
- a: "Several reputable sources offer free downloadable worksheets, including Psychology Tools (psychologytools.com) and Therapist Aid (therapistaid.com). Both are widely used by clinicians and are generally high quality. NAMI's website also has educational resources that can point you in the right direction."
+   a: "Several reputable sources offer free downloadable worksheets, including Psychology Tools (psychologytools.com) and Therapist Aid (therapistaid.com). Both are widely used by clinicians and are generally high quality. NAMI's website also has educational resources that can point you in the right direction."
  - q: "How long does it take for CBT worksheets to make a difference?"
- a: "Most CBT-based treatments are structured around 12-20 sessions, and people often notice some shift in thinking patterns within a few weeks of consistent practice. But 'a difference' is highly individual. Some people feel a meaningful change within a month; for others it takes longer. Consistency matters more than speed."
+   a: "Most CBT-based treatments are structured around 12-20 sessions, and people often notice some shift in thinking patterns within a few weeks of consistent practice. But 'a difference' is highly individual. Some people feel a meaningful change within a month; for others it takes longer. Consistency matters more than speed."
  - q: "What's the difference between a CBT worksheet and a regular journal?"
- a: "A journal is open-ended. A CBT worksheet has a specific structure designed to prompt a particular cognitive process, like examining evidence for a belief or identifying a thinking error. The structure is the point. It keeps you from circling the thought indefinitely and asks you to actively test it instead."
+   a: "A journal is open-ended. A CBT worksheet has a specific structure designed to prompt a particular cognitive process, like examining evidence for a belief or identifying a thinking error. The structure is the point. It keeps you from circling the thought indefinitely and asks you to actively test it instead."
 ---
 Most people who pick up a CBT worksheet for the first time stare at it for a solid thirty seconds, feel vaguely judged by a piece of paper, and set it down.
 

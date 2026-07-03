@@ -14,15 +14,15 @@ slug: "culturally-competent-therapy"
 affiliate_disclosure: true
 faqs:
  - q: "How do I find a therapist who specializes in my specific cultural background?"
- a: "Psychology Today's therapist directory lets you filter by 'issues' including cultural and identity-related specialties, and many therapists now list specific communities they serve in their bios. Directories like Therapy for Black Girls, Latinx Therapy, and the Asian Mental Health Collective maintain curated lists vetted for cultural relevance. These are faster than general searches."
+   a: "Psychology Today's therapist directory lets you filter by 'issues' including cultural and identity-related specialties, and many therapists now list specific communities they serve in their bios. Directories like Therapy for Black Girls, Latinx Therapy, and the Asian Mental Health Collective maintain curated lists vetted for cultural relevance. These are faster than general searches."
  - q: "What if there are no culturally competent therapists in my area?"
- a: "Teletherapy changed the math here significantly. You're no longer limited to whoever practices within driving distance. Platforms like Alma and Headway let you filter by insurance and specialty; many therapists on these platforms are licensed across multiple states. If you're in crisis and need immediate support, 988lifeline.org offers chat and call options with increasing attention to culturally responsive care."
+   a: "Teletherapy changed the math here significantly. You're no longer limited to whoever practices within driving distance. Platforms like Alma and Headway let you filter by insurance and specialty; many therapists on these platforms are licensed across multiple states. If you're in crisis and need immediate support, 988lifeline.org offers chat and call options with increasing attention to culturally responsive care."
  - q: "Is it offensive to ask a therapist directly about their cultural competence?"
- a: "No. It's a clinical question, the same as asking about their training in anxiety or trauma. Any therapist worth your time will take it seriously. If they seem defensive or dismissive, that's your answer."
+   a: "No. It's a clinical question, the same as asking about their training in anxiety or trauma. Any therapist worth your time will take it seriously. If they seem defensive or dismissive, that's your answer."
  - q: "Can a therapist from a different background still be a good fit?"
- a: "Yes, genuinely. What matters most is whether the therapist approaches your cultural context with curiosity and respect rather than assumption. Shared background helps, but it's not a guarantee of cultural competence, and its absence isn't disqualifying."
+   a: "Yes, genuinely. What matters most is whether the therapist approaches your cultural context with curiosity and respect rather than assumption. Shared background helps, but it's not a guarantee of cultural competence, and its absence isn't disqualifying."
  - q: "What's the difference between cultural competence and cultural humility?"
- a: "Cultural competence implies a fixed skill set you achieve. Cultural humility acknowledges that this is ongoing: a therapist should be continuously learning, self-examining, and open to being corrected. Most thoughtful clinicians today prefer the humility framing because it's more honest about how much there is to know."
+   a: "Cultural competence implies a fixed skill set you achieve. Cultural humility acknowledges that this is ongoing: a therapist should be continuously learning, self-examining, and open to being corrected. Most thoughtful clinicians today prefer the humility framing because it's more honest about how much there is to know."
 ---
 Most articles about culturally competent therapy describe what it is, give you a warm fuzzy definition, and then leave you to figure out the hard part yourself. That's not useful. Here's what they skip: how to actually tell whether a therapist has it, what to do when they don't, and why the standard advice to "just find someone who looks like you" is an oversimplification that can backfire.
 

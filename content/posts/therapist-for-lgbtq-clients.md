@@ -14,15 +14,15 @@ slug: "therapist-for-lgbtq-clients"
 affiliate_disclosure: true
 faqs:
  - q: "How do I know if a therapist is truly LGBTQ-affirming before my first session?"
- a: "Ask a direct, specific question before booking, either by email or a brief phone call. 'What's your experience working with [your specific identity or concern]?' tells you far more than a directory label. Vague, overly careful answers are a yellow flag."
+   a: "Ask a direct, specific question before booking, either by email or a brief phone call. 'What's your experience working with [your specific identity or concern]?' tells you far more than a directory label. Vague, overly careful answers are a yellow flag."
  - q: "What if there are no LGBTQ-affirming therapists in my area?"
- a: "Telehealth is a real solution here, not a consolation prize. As of 2026, most states allow licensed therapists to see clients anywhere within the state via video, which dramatically expands your options beyond local providers. Search specifically for telehealth therapists licensed in your state."
+   a: "Telehealth is a real solution here, not a consolation prize. As of 2026, most states allow licensed therapists to see clients anywhere within the state via video, which dramatically expands your options beyond local providers. Search specifically for telehealth therapists licensed in your state."
  - q: "Should my therapist be LGBTQ themselves?"
- a: "Not necessarily, and identity match isn't a reliable proxy for clinical quality or genuine affirmation. Some of the most skilled affirming therapists are straight and cisgender; some LGBTQ therapists carry their own unprocessed biases about certain subgroups within the community. Ask about training and experience, not just identity."
+   a: "Not necessarily, and identity match isn't a reliable proxy for clinical quality or genuine affirmation. Some of the most skilled affirming therapists are straight and cisgender; some LGBTQ therapists carry their own unprocessed biases about certain subgroups within the community. Ask about training and experience, not just identity."
  - q: "Is it okay to switch therapists if I feel my identity isn't being respected?"
- a: "Yes, completely. You're not obligated to educate your therapist on basic aspects of your identity, and doing so consistently during paid sessions is a real cost, both financially and emotionally. A good therapist won't take it personally; they'll want you to find the right fit."
+   a: "Yes, completely. You're not obligated to educate your therapist on basic aspects of your identity, and doing so consistently during paid sessions is a real cost, both financially and emotionally. A good therapist won't take it personally; they'll want you to find the right fit."
  - q: "What questions should I ask a potential therapist about their LGBTQ experience specifically?"
- a: "Try: 'Have you worked with clients who've experienced family rejection related to identity?' or 'What's your approach when a client's religious beliefs and sexual or gender identity are in conflict?' The specificity of their answer, and whether they treat these as routine clinical terrain or unusual challenges, tells you a lot."
+   a: "Try: 'Have you worked with clients who've experienced family rejection related to identity?' or 'What's your approach when a client's religious beliefs and sexual or gender identity are in conflict?' The specificity of their answer, and whether they treat these as routine clinical terrain or unusual challenges, tells you a lot."
 ---
 
 Most advice about finding an LGBTQ-affirming therapist stops at "look for someone who checks the box." That's not enough, and honestly, it can leave you worse off than before if you end up with someone who's technically "affirming" but still treats your queerness as a complication to manage rather than a normal part of who you are.

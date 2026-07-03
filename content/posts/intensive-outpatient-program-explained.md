@@ -14,15 +14,15 @@ slug: "intensive-outpatient-program-explained"
 affiliate_disclosure: true
 faqs:
  - q: "How is an IOP different from a partial hospitalization program (PHP)?"
- a: "PHP is the step above IOP, typically five days a week for five to six hours per day. It's closer to full-time treatment while still living at home. IOPs are less intensive, usually three days a week for three to four hours. You might move from PHP down to IOP as you stabilize."
+   a: "PHP is the step above IOP, typically five days a week for five to six hours per day. It's closer to full-time treatment while still living at home. IOPs are less intensive, usually three days a week for three to four hours. You might move from PHP down to IOP as you stabilize."
  - q: "Can I work or attend school while in an IOP?"
- a: "Many people do, which is partly why evening programs exist. It depends on the program's schedule and your own capacity. Some people take FMLA leave; others rearrange their schedules. It's worth discussing with the intake team before you enroll."
+   a: "Many people do, which is partly why evening programs exist. It depends on the program's schedule and your own capacity. Some people take FMLA leave; others rearrange their schedules. It's worth discussing with the intake team before you enroll."
  - q: "What conditions do IOPs treat?"
- a: "Depression, anxiety disorders, PTSD, bipolar disorder, substance use disorders, and eating disorders all have IOP programs specifically designed for them. Some programs are generalist; others specialize. If you have a specific diagnosis, ask whether the program has experience with it specifically."
+   a: "Depression, anxiety disorders, PTSD, bipolar disorder, substance use disorders, and eating disorders all have IOP programs specifically designed for them. Some programs are generalist; others specialize. If you have a specific diagnosis, ask whether the program has experience with it specifically."
  - q: "Will I be in group therapy with people whose problems seem way more severe than mine?"
- a: "Probably sometimes, and it cuts both ways. Most programs group by level of care rather than specific diagnosis. Exposure to other people's struggles rarely makes things worse and often creates perspective that individual therapy can't replicate. It's more normalizing than distressing for most people."
+   a: "Probably sometimes, and it cuts both ways. Most programs group by level of care rather than specific diagnosis. Exposure to other people's struggles rarely makes things worse and often creates perspective that individual therapy can't replicate. It's more normalizing than distressing for most people."
  - q: "What happens if I'm not improving or the program isn't working?"
- a: "A good program will do regular clinical check-ins and adjust the plan. If symptoms are worsening, the right call might be a step up to PHP or inpatient. If the modality isn't fitting, that's worth raising directly with your treatment team. 'This isn't clicking' is valid clinical information, not a complaint."
+   a: "A good program will do regular clinical check-ins and adjust the plan. If symptoms are worsening, the right call might be a step up to PHP or inpatient. If the modality isn't fitting, that's worth raising directly with your treatment team. 'This isn't clicking' is valid clinical information, not a complaint."
 ---
 
 Most articles about intensive outpatient programs describe what the acronym stands for and then pad the rest with reassurances. That's not useful. Here's what you actually need to know.
