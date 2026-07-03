@@ -765,6 +765,18 @@ def keyword_to_slug(keyword: str) -> str:
 
 # ── ARTICLE GENERATION ────────────────────────────────────────────────────────
 
+
+def _strip_em_dashes(text: str) -> str:
+    """Hard post-processing pass: replace any em dashes the LLM snuck in."""
+    import re
+    # — = em dash; also catch double/triple hyphens used as em dashes
+    text = text.replace('—', ', ')
+    text = re.sub(r'(?<=[a-zA-Z0-9]) -- (?=[a-zA-Z])', ', ', text)
+    # Clean up any ", ," double-comma artifacts
+    text = re.sub(r',\s*,', ',', text)
+    return text
+
+
 def generate_article(keyword: str, site_config: dict, persona: dict, priority: str, voice_style: str = "") -> dict:
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
@@ -818,7 +830,7 @@ Writing rules (follow every one):
 - Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
 - Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
 - Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"). Include at least 1-2 "I tested", "in my experience", or "when I [verb]" moments per article. These signal authentic expertise and are the highest-trust differentiator from generic AI writing. Do not overdo it—2-3 natural moments per article is perfect, not contrived.
-- Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
+- NEVER use em dashes in any form. This means the Unicode character — (the long dash that appears mid-sentence), as well as -- or ---. Replace every em dash with a comma, colon, parentheses, or split into two sentences. This is a hard rule, not a style preference.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
 - Acknowledge nuance and uncertainty honestly ("the research here is mixed", "this won't work for everyone") instead of false confidence or robotic both-sidesing.
@@ -914,6 +926,7 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
     if not image_query:
         image_query = _derive_image_query(keyword)
 
+    content = _strip_em_dashes(content)
     return {"content": content, "description": description, "image_query": image_query}
 
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
