@@ -13,16 +13,16 @@ author_bio: "Taylor Brooks facilitates peer support groups and advocates for com
 slug: "therapy-for-healthcare-workers"
 affiliate_disclosure: true
 faqs:
-  - q: "Will my employer find out if I go to therapy?"
-    a: "In most cases, no. Therapy is confidential under HIPAA and state privacy laws. If you use your employer's EAP, there are limits to what they can access, but individual session content is not reported. Private-pay therapy outside your insurance is the most completely separate option if confidentiality is a major concern."
-  - q: "Can going to therapy affect my medical license?"
-    a: "Most state licensing boards do not ask about mental health treatment, and therapy alone is virtually never grounds for license action. Some states ask about 'mental conditions that currently impair your ability to practice,' which is a different and much narrower question. Checking your specific state board's application language directly is the most reliable way to understand what applies to you."
-  - q: "What type of therapist should a healthcare worker look for?"
-    a: "Look for someone with experience working with high-stress professions, trauma, or specifically healthcare populations. Therapists who list burnout, PTSD, or occupational stress as specialties are a reasonable starting point. It's also fine to ask a prospective therapist directly whether they've worked with medical professionals before your first session."
-  - q: "Is online therapy as effective as in-person for burnout and work stress?"
-    a: "For most people dealing with burnout, anxiety, and occupational stress (rather than severe psychiatric conditions), the research suggests telehealth CBT and ACT are comparably effective to in-person formats. The bigger clinical caveat is that severe depression or PTSD may benefit from in-person care, particularly if safety is a concern."
-  - q: "What if I can't afford therapy or my insurance coverage is limited?"
-    a: "Open Path Collective offers sessions at reduced rates (often $30 to $80) for people who don't qualify for free services but can't afford standard fees. Community mental health centers, teaching clinics at psychology graduate programs, and some hospital employee assistance programs also offer low-cost or free sessions. SAMHSA's locator at findtreatment.gov can help you find sliding-scale options by zip code."
+ - q: "Will my employer find out if I go to therapy?"
+ a: "In most cases, no. Therapy is confidential under HIPAA and state privacy laws. If you use your employer's EAP, there are limits to what they can access, but individual session content is not reported. Private-pay therapy outside your insurance is the most completely separate option if confidentiality is a major concern."
+ - q: "Can going to therapy affect my medical license?"
+ a: "Most state licensing boards do not ask about mental health treatment, and therapy alone is virtually never grounds for license action. Some states ask about 'mental conditions that currently impair your ability to practice,' which is a different and much narrower question. Checking your specific state board's application language directly is the most reliable way to understand what applies to you."
+ - q: "What type of therapist should a healthcare worker look for?"
+ a: "Look for someone with experience working with high-stress professions, trauma, or specifically healthcare populations. Therapists who list burnout, PTSD, or occupational stress as specialties are a reasonable starting point. It's also fine to ask a prospective therapist directly whether they've worked with medical professionals before your first session."
+ - q: "Is online therapy as effective as in-person for burnout and work stress?"
+ a: "For most people dealing with burnout, anxiety, and occupational stress (rather than severe psychiatric conditions), the research suggests telehealth CBT and ACT are comparably effective to in-person formats. The bigger clinical caveat is that severe depression or PTSD may benefit from in-person care, particularly if safety is a concern."
+ - q: "What if I can't afford therapy or my insurance coverage is limited?"
+ a: "Open Path Collective offers sessions at reduced rates (often $30 to $80) for people who don't qualify for free services but can't afford standard fees. Community mental health centers, teaching clinics at psychology graduate programs, and some hospital employee assistance programs also offer low-cost or free sessions. SAMHSA's locator at findtreatment.gov can help you find sliding-scale options by zip code."
 ---
 
 Most people assume that being surrounded by medical knowledge makes it easier to ask for help. I believed that too, for a long time. The reality is almost the opposite.
@@ -113,6 +113,6 @@ If you're in crisis or supporting someone who is, the [988 Suicide and Crisis Li
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

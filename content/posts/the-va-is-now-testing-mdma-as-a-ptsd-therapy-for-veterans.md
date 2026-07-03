@@ -11,10 +11,7 @@ author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
 slug: "the-va-is-now-testing-mdma-as-a-ptsd-therapy-for-veterans"
-affiliate_disclosure: true
----
-
-Something most people still assume is that psychedelic therapy is a fringe idea, the kind of thing debated at research conferences and quietly shelved. What happened on May 27, 2026 challenges that assumption pretty directly. The Department of Veterans Affairs announced it had launched its first federally sponsored MDMA-assisted therapy trial, with enrollment already underway at the Providence VA Healthcare System in Rhode Island. This isn't a university pilot or a private clinic experiment. It's the federal government, using federal funding infrastructure, testing MDMA as medicine for veterans carrying some of the heaviest trauma loads in the country. That's a line that just got crossed, and it matters whether or not you ever plan to set foot in a VA clinic.
+affiliate_disclosure: true, Something most people still assume is that psychedelic therapy is a fringe idea, the kind of thing debated at research conferences and quietly shelved. What happened on May 27, 2026 challenges that assumption pretty directly. The Department of Veterans Affairs announced it had launched its first federally sponsored MDMA-assisted therapy trial, with enrollment already underway at the Providence VA Healthcare System in Rhode Island. This isn't a university pilot or a private clinic experiment. It's the federal government, using federal funding infrastructure, testing MDMA as medicine for veterans carrying some of the heaviest trauma loads in the country. That's a line that just got crossed, and it matters whether or not you ever plan to set foot in a VA clinic.
 
 ## What the Trial Actually Looks Like
 
@@ -85,6 +82,6 @@ Preliminary results are expected in 2027, and that timeline will tell us a great
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

@@ -13,16 +13,16 @@ author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental he
 slug: "parent-child-interaction-therapy"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does PCIT take?"
-    a: "Most families complete PCIT in 12 to 20 weekly sessions, but the model is mastery-based, meaning you graduate when you consistently demonstrate the skills rather than after a fixed number of appointments. Families who practice the daily homework assignments (five-minute 'special playtime' each day) tend to move through phases faster."
-  - q: "Can PCIT be done via telehealth?"
-    a: "Yes, and the evidence for telehealth PCIT is genuinely encouraging. Several studies published between 2018 and 2025 found outcomes comparable to in-person delivery, which is significant given how many families lack local access to trained clinicians. Your therapist will need a platform that allows live coaching, often through a smartphone or earpiece setup."
-  - q: "Is PCIT covered by insurance?"
-    a: "Many insurance plans, including Medicaid in most states, cover PCIT when billed under appropriate behavioral health codes. Coverage varies by state and insurer, so the most reliable step is calling your insurance company directly and asking whether 'parent-child interaction therapy' is a covered procedure under your plan."
-  - q: "What ages is PCIT appropriate for?"
-    a: "The standard protocol is designed for children 2 to 7 years old. A toddler adaptation (PCIT-T) exists for children 12 to 24 months. Some clinicians use modified versions with older children up to about age 12, particularly in cases involving trauma or developmental delays, though the research base for those adaptations is thinner."
-  - q: "What if my child refuses to participate in sessions?"
-    a: "This comes up more than people expect, and it's not a disqualifier. PCIT therapists are trained to help parents use their CDI skills to draw reluctant children into play. The early sessions often focus heavily on making the play environment appealing enough that participation becomes self-reinforcing. If a child is genuinely too dysregulated to engage, the therapist will adjust the approach rather than force a session that won't help anyone."
+ - q: "How long does PCIT take?"
+ a: "Most families complete PCIT in 12 to 20 weekly sessions, but the model is mastery-based, meaning you graduate when you consistently demonstrate the skills rather than after a fixed number of appointments. Families who practice the daily homework assignments (five-minute 'special playtime' each day) tend to move through phases faster."
+ - q: "Can PCIT be done via telehealth?"
+ a: "Yes, and the evidence for telehealth PCIT is genuinely encouraging. Several studies published between 2018 and 2025 found outcomes comparable to in-person delivery, which is significant given how many families lack local access to trained clinicians. Your therapist will need a platform that allows live coaching, often through a smartphone or earpiece setup."
+ - q: "Is PCIT covered by insurance?"
+ a: "Many insurance plans, including Medicaid in most states, cover PCIT when billed under appropriate behavioral health codes. Coverage varies by state and insurer, so the most reliable step is calling your insurance company directly and asking whether 'parent-child interaction therapy' is a covered procedure under your plan."
+ - q: "What ages is PCIT appropriate for?"
+ a: "The standard protocol is designed for children 2 to 7 years old. A toddler adaptation (PCIT-T) exists for children 12 to 24 months. Some clinicians use modified versions with older children up to about age 12, particularly in cases involving trauma or developmental delays, though the research base for those adaptations is thinner."
+ - q: "What if my child refuses to participate in sessions?"
+ a: "This comes up more than people expect, and it's not a disqualifier. PCIT therapists are trained to help parents use their CDI skills to draw reluctant children into play. The early sessions often focus heavily on making the play environment appealing enough that participation becomes self-reinforcing. If a child is genuinely too dysregulated to engage, the therapist will adjust the approach rather than force a session that won't help anyone."
 ---
 
 Most parents I've worked with arrive at the idea of Parent-Child Interaction Therapy the same way: exhausted, a little ashamed, and quietly terrified that something is permanently broken. Their child is melting down constantly, defying every instruction, maybe hitting or biting or screaming in a way that clears grocery stores. The parents have tried everything the internet suggested. Nothing stuck. And now someone is recommending "therapy" -- which, depending on your background, can feel like being told you've failed.
@@ -69,7 +69,7 @@ One thing worth knowing: PCIT uses a mastery-based model, not a session-count mo
 
 ## Preparing Yourself for the Experience
 
-The coaching can feel vulnerable in ways parents don't always anticipate. Having someone in your ear while you're trying to manage your child -- watching every interaction, gently correcting your phrasing in real time -- is not comfortable at first. I've heard parents describe the first two sessions as mildly mortifying and deeply useful in equal measure.
+The coaching can feel vulnerable in ways parents don't always anticipate. Having someone in your ear while you're trying to manage your child, watching every interaction, gently correcting your phrasing in real time, is not comfortable at first. I've heard parents describe the first two sessions as mildly mortifying and deeply useful in equal measure.
 
 A few things that help: reading about PCIT before you start, so the concepts feel less foreign when the coach introduces them. Some parents find workbooks on positive parenting or behavioral skills useful as a primer. If you're looking for something along those lines, "The Kazdin Method for Parenting the Defiant Child" by Alan Kazdin (available on Amazon, and yes, the site may earn a small commission if you buy through a link here) covers related behavioral principles in accessible language. It won't replace PCIT, but it can make the framework feel less alien.
 

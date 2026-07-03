@@ -118,7 +118,7 @@ Yes, and more often than people expect. Early sessions can stir up things you've
 - [SAMHSA, Mental Health Treatments](https://www.samhsa.gov/mental-health), Supports integrated treatment approaches for mental health conditions
 - [APA, Clinical Practice Guideline for Depression](https://www.apa.org/depression-guideline), Supports evidence-based therapy approaches for depression treatment
 
-*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
+*Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

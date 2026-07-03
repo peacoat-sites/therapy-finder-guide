@@ -13,10 +13,7 @@ author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
 slug: "the-va-is-testing-mdma-assisted-therapy-for-ptsd-right-now"
-affiliate_disclosure: true
----
-
-Picture a veteran you know. Maybe it's someone in your family, or a neighbor who came back from deployment quieter than they left. They've probably tried the standard routes: SSRIs, talk therapy, maybe a residential program. And maybe it helped a little, or maybe it didn't touch what they were actually carrying. That's not a failure of the veteran, and it's not a failure of their therapist. It's a reflection of how stubbornly difficult treatment-resistant PTSD can be. What's happening right now at the VA, though, is genuinely different from anything we've seen before.
+affiliate_disclosure: true, Picture a veteran you know. Maybe it's someone in your family, or a neighbor who came back from deployment quieter than they left. They've probably tried the standard routes: SSRIs, talk therapy, maybe a residential program. And maybe it helped a little, or maybe it didn't touch what they were actually carrying. That's not a failure of the veteran, and it's not a failure of their therapist. It's a reflection of how stubbornly difficult treatment-resistant PTSD can be. What's happening right now at the VA, though, is genuinely different from anything we've seen before.
 
 On May 18, 2026, the Department of Veterans Affairs began enrolling participants in its first-ever federal clinical trial of MDMA-assisted therapy. That sentence deserves a moment. The VA, a federal healthcare system operating under a government where MDMA is still a DEA Schedule I controlled substance, is now actively recruiting veterans to participate in a randomized, placebo-controlled trial pairing pharmaceutical-grade MDMA with psychotherapy. This is not a small university pilot. This is a direct, government-funded signal that the conversation about psychedelic medicine in mainstream mental health care has shifted.
 
@@ -64,10 +61,10 @@ This is still early. The research has to hold up. But I've followed enough treat
 
 ## Sources
 - [VA Launches MDMA-Assisted Mental Health Therapy Trial](https://news.va.gov/press-room/va-launches-mdma-assisted-mental-health-therapy-trial/) (June 15, 2026)
-- [VA Launches Clinical Trial Using Hallucinogen to Treat PTSD and Alcohol Addiction in Veterans ,  Stars and Stripes](https://www.stripes.com/veterans/2026-06-02/ptsd-clinical-trial-mdma-va-21852986.html) (June 2, 2026)
-- [What the VA's New MDMA-Assisted Therapy Trial Signals for Providers ,  Behavioral Health Business](https://bhbusiness.com/2026/05/28/what-the-vas-new-mdma-assisted-therapy-trial-signals-for-providers/) (May 28, 2026)
-- [VA First Federal MDMA-Assisted Therapy Trial for Veterans ,  Rainier Rehab](https://rainierrehab.org/blog/2026-05-27-va-mdma-therapy-trial-veterans) (May 27, 2026)
-- [ClinicalTrials.gov ,  NCT07118839: MDMA-Assisted Therapy for Veterans With PTSD and AUD](https://clinicaltrials.gov/study/NCT07118839) (May 2026)
+- [VA Launches Clinical Trial Using Hallucinogen to Treat PTSD and Alcohol Addiction in Veterans , Stars and Stripes](https://www.stripes.com/veterans/2026-06-02/ptsd-clinical-trial-mdma-va-21852986.html) (June 2, 2026)
+- [What the VA's New MDMA-Assisted Therapy Trial Signals for Providers , Behavioral Health Business](https://bhbusiness.com/2026/05/28/what-the-vas-new-mdma-assisted-therapy-trial-signals-for-providers/) (May 28, 2026)
+- [VA First Federal MDMA-Assisted Therapy Trial for Veterans , Rainier Rehab](https://rainierrehab.org/blog/2026-05-27-va-mdma-therapy-trial-veterans) (May 27, 2026)
+- [ClinicalTrials.gov , NCT07118839: MDMA-Assisted Therapy for Veterans With PTSD and AUD](https://clinicaltrials.gov/study/NCT07118839) (May 2026)
 
 ## Helpful Resources
 

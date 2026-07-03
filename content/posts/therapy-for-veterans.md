@@ -13,16 +13,16 @@ author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidenc
 slug: "therapy-for-veterans"
 affiliate_disclosure: true
 faqs:
-  - q: "Does the VA cover mental health services for all veterans?"
-    a: "Eligibility depends on discharge status and service history. Veterans with an honorable discharge and at least two years of active service are generally eligible, though other pathways exist. The VA's website has an eligibility checker, or you can call 1-800-827-1000 to find out where you stand before assuming you're covered or excluded."
-  - q: "What if I tried therapy before and it didn't help?"
-    a: "That's more common than most resources admit. A bad fit with a therapist, or an approach that wasn't right for your specific symptoms, doesn't mean therapy doesn't work for you. Ask specifically about CPT or PE if you haven't tried them. The evidence base behind those protocols is substantially stronger than general talk therapy for trauma."
-  - q: "Is telehealth therapy as effective as in-person for veterans?"
-    a: "For most conditions, yes. Studies published through 2025 show comparable outcomes for telehealth versus in-person for PTSD, depression, and anxiety. Some veterans strongly prefer telehealth because it removes transportation barriers and the discomfort of waiting rooms. Others find the distance makes it harder to open up. Try it and trust your own read."
-  - q: "Can family members of veterans access mental health support?"
-    a: "They can and should. The VA offers caregiver support through the Program of Comprehensive Assistance for Family Caregivers (PCAFC), and many VA facilities provide couples counseling and family therapy. Military family stress is its own thing with its own treatment considerations, not just a generic relationship problem."
-  - q: "How do I talk to a veteran in my life about getting help?"
-    a: "Skip the broad 'you should talk to someone' suggestion, which lands as dismissal. Be specific: 'I found a therapist who works specifically with veterans, want me to send you the information?' Concrete offers beat vague encouragement every time. And if they're in crisis, the Veterans Crisis Line at 988 (press 1) is staffed around the clock."
+ - q: "Does the VA cover mental health services for all veterans?"
+ a: "Eligibility depends on discharge status and service history. Veterans with an honorable discharge and at least two years of active service are generally eligible, though other pathways exist. The VA's website has an eligibility checker, or you can call 1-800-827-1000 to find out where you stand before assuming you're covered or excluded."
+ - q: "What if I tried therapy before and it didn't help?"
+ a: "That's more common than most resources admit. A bad fit with a therapist, or an approach that wasn't right for your specific symptoms, doesn't mean therapy doesn't work for you. Ask specifically about CPT or PE if you haven't tried them. The evidence base behind those protocols is substantially stronger than general talk therapy for trauma."
+ - q: "Is telehealth therapy as effective as in-person for veterans?"
+ a: "For most conditions, yes. Studies published through 2025 show comparable outcomes for telehealth versus in-person for PTSD, depression, and anxiety. Some veterans strongly prefer telehealth because it removes transportation barriers and the discomfort of waiting rooms. Others find the distance makes it harder to open up. Try it and trust your own read."
+ - q: "Can family members of veterans access mental health support?"
+ a: "They can and should. The VA offers caregiver support through the Program of Comprehensive Assistance for Family Caregivers (PCAFC), and many VA facilities provide couples counseling and family therapy. Military family stress is its own thing with its own treatment considerations, not just a generic relationship problem."
+ - q: "How do I talk to a veteran in my life about getting help?"
+ a: "Skip the broad 'you should talk to someone' suggestion, which lands as dismissal. Be specific: 'I found a therapist who works specifically with veterans, want me to send you the information?' Concrete offers beat vague encouragement every time. And if they're in crisis, the Veterans Crisis Line at 988 (press 1) is staffed around the clock."
 ---
 Most articles about veteran mental health spend two-thirds of their word count explaining that war is hard. You already know that. What you probably don't know is which specific therapy types actually work for combat-related PTSD, how to access care without drowning in VA bureaucracy, and what to do if you've tried one approach and it didn't help. Let's skip the obvious part.
 

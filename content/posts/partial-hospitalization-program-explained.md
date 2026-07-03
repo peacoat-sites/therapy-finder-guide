@@ -13,16 +13,16 @@ author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental he
 slug: "partial-hospitalization-program-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "How is a PHP different from an intensive outpatient program (IOP)?"
-    a: "An IOP typically meets for three to four hours a day, three days a week, and is designed for people with more baseline stability. A PHP is longer in both daily hours and weekly days, and is appropriate for higher acuity, meaning more acute or severe symptoms that need closer clinical monitoring."
-  - q: "Can I go to a PHP voluntarily, or does someone have to admit me?"
-    a: "You can absolutely seek PHP admission voluntarily. You'd typically get a referral from a psychiatrist, therapist, primary care physician, or an emergency department, but in many cases you can also call a program directly to inquire about their intake process."
-  - q: "Will I lose my job if I go to a PHP?"
-    a: "Not necessarily. The Family and Medical Leave Act (FMLA) in the United States protects eligible employees' jobs during medical leave, which includes mental health treatment. Eligibility depends on your employer size and tenure. It's worth speaking with HR or an FMLA specialist before making assumptions either way."
-  - q: "How long does a typical PHP last?"
-    a: "Most people attend for two to four weeks, though programs vary and insurance utilization review plays a role. Clinical need drives the decision, and some people step down to an IOP after two weeks while others continue in PHP longer."
-  - q: "What happens after I finish a PHP?"
-    a: "Most programs have a discharge plan built in. You'll typically transition to either an IOP, a standard outpatient therapy schedule with a community therapist, or both. The goal is to avoid a cliff-drop back to weekly (or less frequent) care."
+ - q: "How is a PHP different from an intensive outpatient program (IOP)?"
+ a: "An IOP typically meets for three to four hours a day, three days a week, and is designed for people with more baseline stability. A PHP is longer in both daily hours and weekly days, and is appropriate for higher acuity, meaning more acute or severe symptoms that need closer clinical monitoring."
+ - q: "Can I go to a PHP voluntarily, or does someone have to admit me?"
+ a: "You can absolutely seek PHP admission voluntarily. You'd typically get a referral from a psychiatrist, therapist, primary care physician, or an emergency department, but in many cases you can also call a program directly to inquire about their intake process."
+ - q: "Will I lose my job if I go to a PHP?"
+ a: "Not necessarily. The Family and Medical Leave Act (FMLA) in the United States protects eligible employees' jobs during medical leave, which includes mental health treatment. Eligibility depends on your employer size and tenure. It's worth speaking with HR or an FMLA specialist before making assumptions either way."
+ - q: "How long does a typical PHP last?"
+ a: "Most people attend for two to four weeks, though programs vary and insurance utilization review plays a role. Clinical need drives the decision, and some people step down to an IOP after two weeks while others continue in PHP longer."
+ - q: "What happens after I finish a PHP?"
+ a: "Most programs have a discharge plan built in. You'll typically transition to either an IOP, a standard outpatient therapy schedule with a community therapist, or both. The goal is to avoid a cliff-drop back to weekly (or less frequent) care."
 ---
 Most people don't hear about partial hospitalization programs until they're already in crisis. You're sitting across from a psychiatrist who just told you that you're "too stable for inpatient but too unwell for weekly outpatient." That gap is real. PHPs fill it.
 

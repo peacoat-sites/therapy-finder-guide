@@ -11,10 +11,7 @@ author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
 slug: "the-va-just-launched-an-mdma-therapy-trial-for-veterans-with-ptsd"
-affiliate_disclosure: true
----
-
-If you work with veterans, or if you *are* a veteran trying to make sense of what's happening in your own treatment options, the news out of the VA this spring is worth paying close attention to. On May 18, 2026, the Department of Veterans Affairs began enrolling participants in its first-ever federally funded MDMA-assisted therapy trial, a randomized controlled study targeting veterans dealing with both PTSD and alcohol use disorder. This isn't a fringe research project or a think-tank proposal. It's a live federal clinical trial, funded by approximately $1.5 million in VA grants, and it signals a real shift in how the federal government is thinking about treatment-resistant trauma.
+affiliate_disclosure: true, If you work with veterans, or if you *are* a veteran trying to make sense of what's happening in your own treatment options, the news out of the VA this spring is worth paying close attention to. On May 18, 2026, the Department of Veterans Affairs began enrolling participants in its first-ever federally funded MDMA-assisted therapy trial, a randomized controlled study targeting veterans dealing with both PTSD and alcohol use disorder. This isn't a fringe research project or a think-tank proposal. It's a live federal clinical trial, funded by approximately $1.5 million in VA grants, and it signals a real shift in how the federal government is thinking about treatment-resistant trauma.
 
 ## What the Trial Actually Is (and Isn't)
 
@@ -65,11 +62,11 @@ The results won't be in until 2030. But the trial starting matters now, because 
 ## Sources
 
 - [VA launches MDMA-assisted mental health therapy trial](https://news.va.gov/press-room/va-launches-mdma-assisted-mental-health-therapy-trial/) (May 27, 2026)
-- [VA Launches MDMA Therapy Trial for Veterans With PTSD and Alcohol Use Disorder – VeteranLife](https://veteranlife.com/veteran-benefits/va-mdma-trial) (June 2026)
-- [VA rolling out study of MDMA therapy for veterans with PTSD – Washington Times](https://www.washingtontimes.com/news/2026/jun/16/va-rolling-study-mdma-therapy-veterans-ptsd/) (June 16, 2026)
-- [VA Launches Clinical Trial Using MDMA to Treat PTSD and Alcohol Addiction – Stars and Stripes](https://www.stripes.com/veterans/2026-06-02/ptsd-clinical-trial-mdma-va-21852986.html) (June 2, 2026)
-- [What the VA's New MDMA-Assisted Therapy Trial Signals for Providers – Behavioral Health Business](https://bhbusiness.com/2026/05/28/what-the-vas-new-mdma-assisted-therapy-trial-signals-for-providers/) (May 28, 2026)
-- [VA Tests MDMA-Assisted Therapy for Veterans – Newsweek](https://www.newsweek.com/va-tests-mdma-assisted-therapy-veterans-11997586) (May 27, 2026)
+- [VA Launches MDMA Therapy Trial for Veterans With PTSD and Alcohol Use Disorder, VeteranLife](https://veteranlife.com/veteran-benefits/va-mdma-trial) (June 2026)
+- [VA rolling out study of MDMA therapy for veterans with PTSD, Washington Times](https://www.washingtontimes.com/news/2026/jun/16/va-rolling-study-mdma-therapy-veterans-ptsd/) (June 16, 2026)
+- [VA Launches Clinical Trial Using MDMA to Treat PTSD and Alcohol Addiction, Stars and Stripes](https://www.stripes.com/veterans/2026-06-02/ptsd-clinical-trial-mdma-va-21852986.html) (June 2, 2026)
+- [What the VA's New MDMA-Assisted Therapy Trial Signals for Providers, Behavioral Health Business](https://bhbusiness.com/2026/05/28/what-the-vas-new-mdma-assisted-therapy-trial-signals-for-providers/) (May 28, 2026)
+- [VA Tests MDMA-Assisted Therapy for Veterans, Newsweek](https://www.newsweek.com/va-tests-mdma-assisted-therapy-veterans-11997586) (May 27, 2026)
 
 ## Helpful Resources
 

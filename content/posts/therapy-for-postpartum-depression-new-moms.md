@@ -13,16 +13,16 @@ author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental he
 slug: "therapy-for-postpartum-depression-new-moms"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I know if what I'm feeling is PPD or just the baby blues?"
-    a: "Baby blues typically show up in the first one to two weeks after delivery and resolve on their own, usually by week three or four. If you're still feeling depressed, empty, anxious, or overwhelmed past the four-week mark, that's worth taking seriously. PPD doesn't always feel like sadness; rage and numbness are common presentations too."
-  - q: "Can therapy help with postpartum anxiety, or is it just for depression?"
-    a: "Absolutely. Postpartum anxiety is as common as PPD and often responds even more quickly to CBT than depression does. The thought-pattern work in CBT is particularly well-suited to the 'what if something terrible happens to my baby' spiral that characterizes a lot of postpartum anxiety."
-  - q: "Is it safe to do therapy while breastfeeding and taking medication?"
-    a: "Therapy is completely safe alongside breastfeeding. For medication, the answer depends on which medication, but several SSRIs have decades of data on breastfeeding safety. Your prescribing doctor should walk through the specifics with you based on your situation."
-  - q: "How long does therapy for PPD usually take?"
-    a: "Many women see meaningful improvement within eight to twelve structured sessions of CBT or IPT. That's not a guarantee, and some women benefit from longer-term support, especially if there's a history of depression or significant relationship stress. But PPD is not a chronic, treatment-resistant condition for most people. It gets better."
-  - q: "My partner thinks I just need more sleep and help around the house. How do I explain that I need actual therapy?"
-    a: "Sleep deprivation and practical support do matter, and your partner isn't wrong that those things help. But PPD has a neurobiological component that rest alone won't fix, the same way sleep won't treat a broken leg. Framing it that way sometimes lands better than a debate about feelings. If your partner is resistant, going to a single session together can help them understand what you're actually dealing with."
+ - q: "How do I know if what I'm feeling is PPD or just the baby blues?"
+ a: "Baby blues typically show up in the first one to two weeks after delivery and resolve on their own, usually by week three or four. If you're still feeling depressed, empty, anxious, or overwhelmed past the four-week mark, that's worth taking seriously. PPD doesn't always feel like sadness; rage and numbness are common presentations too."
+ - q: "Can therapy help with postpartum anxiety, or is it just for depression?"
+ a: "Absolutely. Postpartum anxiety is as common as PPD and often responds even more quickly to CBT than depression does. The thought-pattern work in CBT is particularly well-suited to the 'what if something terrible happens to my baby' spiral that characterizes a lot of postpartum anxiety."
+ - q: "Is it safe to do therapy while breastfeeding and taking medication?"
+ a: "Therapy is completely safe alongside breastfeeding. For medication, the answer depends on which medication, but several SSRIs have decades of data on breastfeeding safety. Your prescribing doctor should walk through the specifics with you based on your situation."
+ - q: "How long does therapy for PPD usually take?"
+ a: "Many women see meaningful improvement within eight to twelve structured sessions of CBT or IPT. That's not a guarantee, and some women benefit from longer-term support, especially if there's a history of depression or significant relationship stress. But PPD is not a chronic, treatment-resistant condition for most people. It gets better."
+ - q: "My partner thinks I just need more sleep and help around the house. How do I explain that I need actual therapy?"
+ a: "Sleep deprivation and practical support do matter, and your partner isn't wrong that those things help. But PPD has a neurobiological component that rest alone won't fix, the same way sleep won't treat a broken leg. Framing it that way sometimes lands better than a debate about feelings. If your partner is resistant, going to a single session together can help them understand what you're actually dealing with."
 ---
 
 You're three weeks postpartum, you haven't slept more than two hours in a stretch, and everyone keeps asking if you're "just loving every minute." You're not. You feel hollowed out, anxious in a way that sits in your chest, and maybe a little frightened by how little you feel toward the baby you spent nine months waiting for. You search "postpartum depression" at 2 a.m. and immediately feel overwhelmed by how many tabs you have to open before you find anything useful.
@@ -112,7 +112,7 @@ Getting help for PPD is not self-indulgent. Treating it is one of the most direc
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10) — Daily check-in journal for depression — structured mood tracking and reflection prompts designed around therapeutic principles.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10), Daily check-in journal for depression, structured mood tracking and reflection prompts designed around therapeutic principles.
 

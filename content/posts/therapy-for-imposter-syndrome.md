@@ -13,16 +13,16 @@ author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidenc
 slug: "therapy-for-imposter-syndrome"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does therapy for imposter syndrome typically take?"
-    a: "There's no universal answer, but most people doing focused CBT see meaningful shifts in 12 to 20 sessions. If the imposter pattern is connected to deeper schema-level beliefs or early experiences, longer-term work is common. Maintenance sessions after an initial course of treatment are often worth the investment."
-  - q: "Can therapy make imposter syndrome worse before it gets better?"
-    a: "Yes, and a good therapist will tell you this upfront. When you start examining long-held beliefs closely, it can temporarily amplify discomfort. This isn't a sign therapy isn't working. It's usually a sign you're actually doing the work."
-  - q: "Does imposter syndrome require a specific type of therapist?"
-    a: "Not a licensed specialty, no. You want someone with experience in CBT, ACT, or schema therapy who has worked with high-achievers or perfectionism-related presentations. That combination isn't rare. When you reach out, it's completely reasonable to ask a therapist directly whether they've worked with imposter syndrome specifically."
-  - q: "Is imposter syndrome really that different from anxiety or depression?"
-    a: "It frequently co-occurs with both, and sometimes it's more of a symptom pattern within a broader anxiety or depressive picture than a standalone thing. A thorough assessment at the start of therapy should sort this out. Treating the imposter pattern in isolation when there's also a clinical anxiety disorder underneath it is going to produce limited results."
-  - q: "Can imposter syndrome come back after therapy?"
-    a: "Honestly, yes. High-stakes transitions, new roles, public recognition, criticism from respected peers, these can all trigger a recurrence. The goal of therapy isn't to eliminate the thought permanently. It's to change your relationship with it enough that when it does come back, it doesn't derail you."
+ - q: "How long does therapy for imposter syndrome typically take?"
+ a: "There's no universal answer, but most people doing focused CBT see meaningful shifts in 12 to 20 sessions. If the imposter pattern is connected to deeper schema-level beliefs or early experiences, longer-term work is common. Maintenance sessions after an initial course of treatment are often worth the investment."
+ - q: "Can therapy make imposter syndrome worse before it gets better?"
+ a: "Yes, and a good therapist will tell you this upfront. When you start examining long-held beliefs closely, it can temporarily amplify discomfort. This isn't a sign therapy isn't working. It's usually a sign you're actually doing the work."
+ - q: "Does imposter syndrome require a specific type of therapist?"
+ a: "Not a licensed specialty, no. You want someone with experience in CBT, ACT, or schema therapy who has worked with high-achievers or perfectionism-related presentations. That combination isn't rare. When you reach out, it's completely reasonable to ask a therapist directly whether they've worked with imposter syndrome specifically."
+ - q: "Is imposter syndrome really that different from anxiety or depression?"
+ a: "It frequently co-occurs with both, and sometimes it's more of a symptom pattern within a broader anxiety or depressive picture than a standalone thing. A thorough assessment at the start of therapy should sort this out. Treating the imposter pattern in isolation when there's also a clinical anxiety disorder underneath it is going to produce limited results."
+ - q: "Can imposter syndrome come back after therapy?"
+ a: "Honestly, yes. High-stakes transitions, new roles, public recognition, criticism from respected peers, these can all trigger a recurrence. The goal of therapy isn't to eliminate the thought permanently. It's to change your relationship with it enough that when it does come back, it doesn't derail you."
 ---
 
 Most people who land on an article about imposter syndrome therapy are already skeptical that it'll help. They're thinking: "My problem isn't that I *feel* like a fraud. My problem is that I actually *am* less qualified than everyone around me thinks." That's exactly the thought pattern that makes imposter syndrome so hard to treat. And I'll be honest, it took me longer than I should admit to understand why that distinction matters so much clinically.
@@ -102,6 +102,6 @@ Mindfulness practice matters too, particularly for ACT-style defusion work. A gu
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

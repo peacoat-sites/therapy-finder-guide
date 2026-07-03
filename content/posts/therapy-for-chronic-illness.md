@@ -13,16 +13,16 @@ author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental he
 slug: "therapy-for-chronic-illness"
 affiliate_disclosure: true
 faqs:
-  - q: "Is therapy covered by insurance for chronic illness patients?"
-    a: "Generally yes, as long as you're seeing a licensed mental health provider and have a qualifying diagnosis like major depressive disorder, adjustment disorder, or anxiety disorder, which are common with chronic illness. Your insurer may require documentation of medical necessity. Call your insurance's behavioral health line before your first appointment to confirm coverage specifics for your plan."
-  - q: "How is therapy for chronic illness different from regular therapy?"
-    a: "The main difference is that the goal isn't resolution. Good therapy for chronic illness focuses on quality of life, pacing, identity, grief, and coping patterns rather than on making the problem go away. A therapist unfamiliar with this distinction may inadvertently push for acceptance or 'moving on' on a timeline that doesn't fit the reality of an ongoing condition."
-  - q: "Can therapy actually reduce physical symptoms?"
-    a: "For pain in particular, the answer is yes, with an important qualifier. Psychological interventions don't cure the underlying disease, but they do affect pain perception, inflammation markers, and functional disability in measurable ways. CBT-CP and ACT have the strongest evidence for this. The mechanism runs through the nervous system's learned sensitivity to threat, not through willpower or attitude."
-  - q: "How do I know if a therapist is right for my situation?"
-    a: "Ask directly about their experience with chronic or health-related conditions. Notice whether they treat your medical situation as context they want to understand, or as background noise. A good fit usually becomes clear within three to four sessions. If you're spending significant session time explaining your illness rather than working on your life, that's useful data."
-  - q: "Should I see a therapist separately from my medical team, or try to integrate care?"
-    a: "Integrated care, where your therapist and physicians are at least loosely communicating, is better when you can get it. It's not always possible. If it isn't, bring a brief summary of your medical situation to your therapist at the start, and don't assume they'll coordinate automatically. You'll often need to be the connector between your providers, which is frustrating but real."
+ - q: "Is therapy covered by insurance for chronic illness patients?"
+ a: "Generally yes, as long as you're seeing a licensed mental health provider and have a qualifying diagnosis like major depressive disorder, adjustment disorder, or anxiety disorder, which are common with chronic illness. Your insurer may require documentation of medical necessity. Call your insurance's behavioral health line before your first appointment to confirm coverage specifics for your plan."
+ - q: "How is therapy for chronic illness different from regular therapy?"
+ a: "The main difference is that the goal isn't resolution. Good therapy for chronic illness focuses on quality of life, pacing, identity, grief, and coping patterns rather than on making the problem go away. A therapist unfamiliar with this distinction may inadvertently push for acceptance or 'moving on' on a timeline that doesn't fit the reality of an ongoing condition."
+ - q: "Can therapy actually reduce physical symptoms?"
+ a: "For pain in particular, the answer is yes, with an important qualifier. Psychological interventions don't cure the underlying disease, but they do affect pain perception, inflammation markers, and functional disability in measurable ways. CBT-CP and ACT have the strongest evidence for this. The mechanism runs through the nervous system's learned sensitivity to threat, not through willpower or attitude."
+ - q: "How do I know if a therapist is right for my situation?"
+ a: "Ask directly about their experience with chronic or health-related conditions. Notice whether they treat your medical situation as context they want to understand, or as background noise. A good fit usually becomes clear within three to four sessions. If you're spending significant session time explaining your illness rather than working on your life, that's useful data."
+ - q: "Should I see a therapist separately from my medical team, or try to integrate care?"
+ a: "Integrated care, where your therapist and physicians are at least loosely communicating, is better when you can get it. It's not always possible. If it isn't, bring a brief summary of your medical situation to your therapist at the start, and don't assume they'll coordinate automatically. You'll often need to be the connector between your providers, which is frustrating but real."
 ---
 
 Most articles about therapy and chronic illness spend three paragraphs explaining what chronic illness is, then recommend "finding a therapist who understands your condition" without telling you what that actually means or how to do it. That's not useful. Let's skip all of that.
@@ -122,6 +122,6 @@ Getting therapy right when you have a chronic illness takes more legwork than it
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

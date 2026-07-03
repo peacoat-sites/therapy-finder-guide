@@ -9,23 +9,23 @@ tags: ["starting", "therapy", "adult", "guide"]
 slug: "starting-therapy-as-adult-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I know if I actually need therapy or just need to make lifestyle changes?"
-    a: "Both can be true at once. Lifestyle factors like sleep, exercise, and social connection genuinely affect mental health. But if you've been trying to manage on your own and things aren't shifting, that's useful information. Therapy isn't a last resort after everything else has failed. A professional assessment can help you figure out what's driving what -- which lifestyle changes are actually helpful, and what might need more direct support."
-  - q: "What if I start therapy and decide I don't like my therapist?"
-    a: "Change therapists. Seriously. The therapeutic relationship is one of the strongest predictors of outcomes -- not the modality, not the credentials, but the fit between you and the specific person across from you. It can feel awkward to leave, but a good therapist will support you in doing so. You can ask for a referral, or simply thank them and find someone else."
-  - q: "Can therapy make things worse?"
-    a: "Temporarily, yes. Engaging with difficult material can increase distress in the short term. This is different from therapy being harmful. True harm in therapy -- boundary violations, unethical behavior, a therapist who reinforces harmful beliefs -- is a different category and should be reported. If you feel genuinely unsafe or that your therapist is behaving unethically, you can file a complaint with your state licensing board."
-  - q: "Do I have to talk about my childhood?"
-    a: "Not necessarily. Some therapy approaches are entirely focused on present patterns and current functioning. Psychodynamic work goes deeper into history, but even then, the pace is yours. You're not obligated to go anywhere you're not ready to go. A good therapist follows your lead."
-  - q: "How long will I need to be in therapy?"
-    a: "It depends on what you're working on, the approach being used, and how you respond. CBT for a specific phobia might wrap up in 12 sessions. Processing complex trauma might take years. Most people find that even a relatively short course of therapy (three to six months) produces meaningful change. Ongoing therapy for long-term support is also legitimate -- this isn't a race to the exit."
+ - q: "How do I know if I actually need therapy or just need to make lifestyle changes?"
+ a: "Both can be true at once. Lifestyle factors like sleep, exercise, and social connection genuinely affect mental health. But if you've been trying to manage on your own and things aren't shifting, that's useful information. Therapy isn't a last resort after everything else has failed. A professional assessment can help you figure out what's driving what, which lifestyle changes are actually helpful, and what might need more direct support."
+ - q: "What if I start therapy and decide I don't like my therapist?"
+ a: "Change therapists. Seriously. The therapeutic relationship is one of the strongest predictors of outcomes, not the modality, not the credentials, but the fit between you and the specific person across from you. It can feel awkward to leave, but a good therapist will support you in doing so. You can ask for a referral, or simply thank them and find someone else."
+ - q: "Can therapy make things worse?"
+ a: "Temporarily, yes. Engaging with difficult material can increase distress in the short term. This is different from therapy being harmful. True harm in therapy, boundary violations, unethical behavior, a therapist who reinforces harmful beliefs, is a different category and should be reported. If you feel genuinely unsafe or that your therapist is behaving unethically, you can file a complaint with your state licensing board."
+ - q: "Do I have to talk about my childhood?"
+ a: "Not necessarily. Some therapy approaches are entirely focused on present patterns and current functioning. Psychodynamic work goes deeper into history, but even then, the pace is yours. You're not obligated to go anywhere you're not ready to go. A good therapist follows your lead."
+ - q: "How long will I need to be in therapy?"
+ a: "It depends on what you're working on, the approach being used, and how you respond. CBT for a specific phobia might wrap up in 12 sessions. Processing complex trauma might take years. Most people find that even a relatively short course of therapy (three to six months) produces meaningful change. Ongoing therapy for long-term support is also legitimate, this isn't a race to the exit."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
 
 ---
-Most people wait an average of 11 years between the onset of mental health symptoms and actually getting treatment. Eleven years. That's not buried in some footnote -- it shows up repeatedly in mental health research, and every time I see it, I think about all the people white-knuckling through their twenties, their relationships, their careers, quietly wondering if something's broken in them. If you're reading this right now, you're probably not in year one of whatever you're carrying. And you're probably tired of carrying it alone.
+Most people wait an average of 11 years between the onset of mental health symptoms and actually getting treatment. Eleven years. That's not buried in some footnote, it shows up repeatedly in mental health research, and every time I see it, I think about all the people white-knuckling through their twenties, their relationships, their careers, quietly wondering if something's broken in them. If you're reading this right now, you're probably not in year one of whatever you're carrying. And you're probably tired of carrying it alone.
 
 Here's what most "how to start therapy" guides get wrong: they treat finding a therapist as the hardest part. It isn't. The hardest part is deciding you deserve one. Everything after that is just logistics.
 
@@ -39,7 +39,7 @@ The "not sick enough" threshold is invented. Therapy isn't reserved for crisis. 
 
 "Other people have it worse" is a comparison that has nothing to do with your nervous system. Your pain doesn't get smaller because someone else's is larger.
 
-The self-reliance objection is the trickiest, because it often comes from a real value -- independence, resilience, not burdening others. But therapy isn't weakness dressed up as treatment. It's a structured skill-building process with a trained professional. You'd see a physical therapist for a knee that wasn't working right. Same logic applies.
+The self-reliance objection is the trickiest, because it often comes from a real value, independence, resilience, not burdening others. But therapy isn't weakness dressed up as treatment. It's a structured skill-building process with a trained professional. You'd see a physical therapist for a knee that wasn't working right. Same logic applies.
 
 Cost is a legitimate barrier and we'll get to it. It's not insurmountable, but it deserves a real answer, not a dismissal.
 
@@ -59,7 +59,7 @@ Googling therapy modalities is a fast way to feel overwhelmed. You'll hit CBT, D
 
 **Psychodynamic therapy** is less structured, more exploratory. It looks at how early relationships and unconscious patterns shape current behavior. Takes longer. Good for people who want depth over quick symptom relief.
 
-**ACT (Acceptance and Commitment Therapy)** focuses on psychological flexibility -- accepting difficult thoughts and feelings rather than fighting them, while committing to action aligned with your values. Shares roots with mindfulness.
+**ACT (Acceptance and Commitment Therapy)** focuses on psychological flexibility, accepting difficult thoughts and feelings rather than fighting them, while committing to action aligned with your values. Shares roots with mindfulness.
 
 You don't need to choose your modality before finding a therapist. A good therapist will help you figure out what fits. But knowing the basics means you can have an informed conversation instead of just nodding along.
 
@@ -70,16 +70,16 @@ If you want to supplement therapy with self-directed work, [*Mind Over Mood* by 
 This is where the practical logistics begin. The process isn't glamorous, but it's doable.
 
 **Step 1: Clarify what you're dealing with (roughly).**
-You don't need a diagnosis. But having a general sense of your concern -- anxiety, depression, relationship issues, trauma, life transitions -- helps you filter candidates. Some therapists specialize; some generalize. Knowing what you're bringing narrows the field.
+You don't need a diagnosis. But having a general sense of your concern, anxiety, depression, relationship issues, trauma, life transitions, helps you filter candidates. Some therapists specialize; some generalize. Knowing what you're bringing narrows the field.
 
 **Step 2: Determine your access options.**
 Start with your insurance. Log into your portal or call the member services number and ask for in-network mental health providers in your area. Ask specifically: "What is my copay for outpatient therapy?" and "Is there a deductible before coverage kicks in?" If you don't have insurance or your coverage is thin, look at community mental health centers, sliding-scale practices, or training clinics affiliated with universities (supervised graduate students offer therapy at low or no cost). SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) is a free, legitimate tool for finding local services regardless of your ability to pay.
 
 **Step 3: Build a short list.**
-Psychology Today's therapist finder is the most widely used directory. Filter by specialty, insurance, and modality. Aim for 3 to 5 names. Read their profiles critically -- not just credentials, but how they describe their approach. Vague, jargon-heavy bios sometimes signal a vague, jargon-heavy therapist.
+Psychology Today's therapist finder is the most widely used directory. Filter by specialty, insurance, and modality. Aim for 3 to 5 names. Read their profiles critically, not just credentials, but how they describe their approach. Vague, jargon-heavy bios sometimes signal a vague, jargon-heavy therapist.
 
 **Step 4: Contact them.**
-Most therapists offer a free 15-minute consultation call. Use it. This isn't an audition where you have to impress them -- it's a screening call for you. Ask: "What's your approach?" "Do you have experience with [your concern]?" "What does a typical session look like with you?" If something feels off on the phone, trust that instinct.
+Most therapists offer a free 15-minute consultation call. Use it. This isn't an audition where you have to impress them, it's a screening call for you. Ask: "What's your approach?" "Do you have experience with [your concern]?" "What does a typical session look like with you?" If something feels off on the phone, trust that instinct.
 
 **Step 5: Book a first appointment.**
 Then keep it. First sessions are awkward. That's normal. You're meeting a stranger and being asked to be honest. Give it at least three sessions before deciding whether the fit is right.
@@ -98,11 +98,11 @@ Are you feeling heard? Are you learning anything? Is there any movement, even sm
 
 ## What to Expect in the First Few Sessions
 
-First sessions are intake sessions. The therapist is gathering history -- not because they're being nosy, but because context matters. They'll likely ask about your family background, significant relationships, any previous mental health treatment, and what's bringing you in now. You're allowed to say "I'd rather not go there yet" about anything. Good therapists don't push past boundaries in early sessions.
+First sessions are intake sessions. The therapist is gathering history, not because they're being nosy, but because context matters. They'll likely ask about your family background, significant relationships, any previous mental health treatment, and what's bringing you in now. You're allowed to say "I'd rather not go there yet" about anything. Good therapists don't push past boundaries in early sessions.
 
 Sessions two and three typically involve collaborating on goals. What do you actually want to be different? That question sounds obvious until you're sitting with it. "I want to feel better" is a start, but "I want to stop avoiding difficult conversations with my partner" is something a therapist can actually work with.
 
-Therapy isn't linear. Some sessions feel productive and clear. Others feel like circling the same territory. Progress in therapy often looks less like a graph trending upward and more like slowly peeling back layers -- uncomfortable, occasionally disorienting, ultimately useful.
+Therapy isn't linear. Some sessions feel productive and clear. Others feel like circling the same territory. Progress in therapy often looks less like a graph trending upward and more like slowly peeling back layers, uncomfortable, occasionally disorienting, ultimately useful.
 
 You may feel worse before you feel better. This is documented and common, not a sign that therapy isn't working. Surfacing difficult material creates temporary discomfort. The goal isn't to stay comfortable; it's to eventually feel differently than you do now.
 
@@ -114,7 +114,7 @@ With insurance, your out-of-pocket cost per session typically depends on your co
 
 Without insurance, or with inadequate coverage:
 
-- **Sliding-scale therapists** charge based on your income. Many private practice therapists hold a few sliding-scale slots. You have to ask directly -- they're not always advertised.
+- **Sliding-scale therapists** charge based on your income. Many private practice therapists hold a few sliding-scale slots. You have to ask directly, they're not always advertised.
 - **Community mental health centers** serve people regardless of ability to pay. Quality varies, waitlists exist, but they're an important resource.
 - **University training clinics** offer therapy from supervised graduate students at significantly reduced rates. The supervision structure actually means their work is closely monitored.
 - **Open Path Collective** is a network of therapists offering sessions at reduced rates for those who qualify.

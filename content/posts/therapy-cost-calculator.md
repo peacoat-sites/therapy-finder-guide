@@ -9,14 +9,14 @@ image: "https://images.pexels.com/photos/4386370/pexels-photo-4386370.jpeg?auto=
 categories: ["Finding a Therapist"]
 tags: ["therapy cost", "therapy affordability", "insurance", "mental health access"]
 faqs:
-  - question: "How much does therapy cost without insurance?"
-    answer: "Without insurance, therapy typically costs $100 to $250 per session with a licensed therapist in private practice. The average is around $150 per session, though rates vary significantly by location, therapist credentials, and specialization. Affordable alternatives like Open Path Collective ($30-$80), university training clinics ($0-$20), and online platforms ($60-$100/week) can substantially reduce out-of-pocket costs."
-  - question: "Does insurance cover therapy?"
-    answer: "Most health insurance plans cover mental health services, including therapy, under the Mental Health Parity and Addiction Equity Act. Coverage varies by plan. With many plans, you'll pay a copay per session (typically $20-$50) once you've met your deductible. Check your Summary of Benefits or call your insurance company to confirm your specific mental health benefits."
-  - question: "What is a sliding scale fee for therapy?"
-    answer: "A sliding scale fee means the therapist charges based on your income and ability to pay rather than a fixed rate. Many therapists offer this option. You can specifically search for sliding scale therapists on directories like Psychology Today or Open Path Collective, and the therapist will typically ask about your income to determine your fee."
-  - question: "Is online therapy cheaper than in-person therapy?"
-    answer: "Online therapy platforms like BetterHelp and Talkspace typically charge $60 to $100 per week for unlimited messaging plus one video session, which can be more affordable than weekly in-person therapy. Some insurance plans now cover telehealth sessions at the same rate as in-person visits."
+ - question: "How much does therapy cost without insurance?"
+ answer: "Without insurance, therapy typically costs $100 to $250 per session with a licensed therapist in private practice. The average is around $150 per session, though rates vary significantly by location, therapist credentials, and specialization. Affordable alternatives like Open Path Collective ($30-$80), university training clinics ($0-$20), and online platforms ($60-$100/week) can substantially reduce out-of-pocket costs."
+ - question: "Does insurance cover therapy?"
+ answer: "Most health insurance plans cover mental health services, including therapy, under the Mental Health Parity and Addiction Equity Act. Coverage varies by plan. With many plans, you'll pay a copay per session (typically $20-$50) once you've met your deductible. Check your Summary of Benefits or call your insurance company to confirm your specific mental health benefits."
+ - question: "What is a sliding scale fee for therapy?"
+ answer: "A sliding scale fee means the therapist charges based on your income and ability to pay rather than a fixed rate. Many therapists offer this option. You can specifically search for sliding scale therapists on directories like Psychology Today or Open Path Collective, and the therapist will typically ask about your income to determine your fee."
+ - question: "Is online therapy cheaper than in-person therapy?"
+ answer: "Online therapy platforms like BetterHelp and Talkspace typically charge $60 to $100 per week for unlimited messaging plus one video session, which can be more affordable than weekly in-person therapy. Some insurance plans now cover telehealth sessions at the same rate as in-person visits."
 ---
 Cost is the number one reason people put off therapy. It's a legitimate worry. But here's what most people don't realize: therapy costs swing wildly depending on your insurance, where you live, and who you see. Figure out what you'll actually pay before you start, and suddenly committing to treatment becomes doable.
 
