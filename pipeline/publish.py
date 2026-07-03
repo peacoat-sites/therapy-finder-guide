@@ -765,27 +765,6 @@ def keyword_to_slug(keyword: str) -> str:
 
 # ── ARTICLE GENERATION ────────────────────────────────────────────────────────
 
-
-def _strip_em_dashes(text: str) -> str:
-    """Hard post-processing pass: replace any em dashes the LLM snuck in."""
-    # Em dash (—) and spaced em dash ( — )
-    text = re.sub(r'\s*—\s*', ', ', text)
-    # En dash used as em dash ( – )
-    text = re.sub(r'\s+–\s+', ', ', text)
-    # Double/triple hyphen used as em dash
-    text = re.sub(r'(?<=[a-zA-Z0-9])\s*---?\s*(?=[a-zA-Z])', ', ', text)
-    # Strip common AI opener phrases that slip past the prompt
-    text = re.sub(r"^In today['']s .{0,40}[,\s]", '', text, flags=re.MULTILINE)
-    text = re.sub(r'^(In conclusion|In summary|To summarize|To sum up|Ultimately)[,.:]\s*', '', text, flags=re.MULTILINE | re.IGNORECASE)
-    text = re.sub(r"it['']s worth noting that ", '', text, flags=re.IGNORECASE)
-    text = re.sub(r'it is important to note that ', '', text, flags=re.IGNORECASE)
-    text = re.sub(r'it goes without saying that ', '', text, flags=re.IGNORECASE)
-    # Clean up double-comma/space artifacts
-    text = re.sub(r',\s*,', ',', text)
-    text = re.sub(r'  +', ' ', text)
-    return text
-
-
 def generate_article(keyword: str, site_config: dict, persona: dict, priority: str, voice_style: str = "") -> dict:
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
@@ -839,7 +818,7 @@ Writing rules (follow every one):
 - Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
 - Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
 - Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"). Include at least 1-2 "I tested", "in my experience", or "when I [verb]" moments per article. These signal authentic expertise and are the highest-trust differentiator from generic AI writing. Do not overdo it—2-3 natural moments per article is perfect, not contrived.
-- NEVER use em dashes in any form. This means the Unicode character — (the long dash that appears mid-sentence), as well as -- or ---. Replace every em dash with a comma, colon, parentheses, or split into two sentences. This is a hard rule, not a style preference.
+- Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
 - Acknowledge nuance and uncertainty honestly ("the research here is mixed", "this won't work for everyone") instead of false confidence or robotic both-sidesing.
@@ -848,7 +827,7 @@ Writing rules (follow every one):
 - Include 1-2 moments where you or the reader would get it wrong at first, then reveal the actual answer. Example: "I thought Y for years until I realized X. Here's what changed my mind." Vulnerability signals authenticity.
 - Use specific timestamps, dates, and named references (not generic "recently"). "In March 2024, when X happened..." or "Sarah, a reader from Denver, told me..." makes it feel real, not templated.
 
-NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in-depth, cutting-edge, transformative, groundbreaking, revolutionize, paradigm, synergy, actionable, scalable, streamline, empower, ensure, facilitate, spearhead, comprehensive, nuanced approach, key takeaways, shed light on, it goes without saying, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world.
+NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world.
 
 Avoid these structural tells:
 - The rule of three in every sentence ("X, Y, and Z"). Sometimes list two things, sometimes five.
@@ -896,7 +875,7 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
 """
 
     msg = client.messages.create(
-        model="claude-haiku-4-5-20251001",
+        model="claude-sonnet-4-6",
         max_tokens=4000,
         system=system_prompt,
         messages=[{"role": "user", "content": user_prompt}]
@@ -905,7 +884,7 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
 
     # Meta description + subject-accurate hero image query (single call)
     meta = client.messages.create(
-        model="claude-haiku-4-5-20251001",
+        model="claude-sonnet-4-6",
         max_tokens=160,
         messages=[{"role": "user", "content": (
             f"For an article titled '{keyword}', output ONLY a JSON object (no preamble, no code fence):\n"
@@ -935,7 +914,6 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
     if not image_query:
         image_query = _derive_image_query(keyword)
 
-    content = _strip_em_dashes(content)
     return {"content": content, "description": description, "image_query": image_query}
 
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
@@ -1062,7 +1040,15 @@ affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
             content = _strip_faq_body(content)
     except Exception:
         pass
-    return frontmatter + content
+    result = frontmatter + content
+    # Defensive: verify the generated markdown has proper YAML frontmatter.
+    # If the closing --- is missing, the article body is merged into YAML and
+    # Hugo will fail to build. Raise so the caller logs it and skips the commit.
+    parts = result.split("\n---\n", 2)
+    if len(parts) < 2:
+        raise ValueError(f"build_markdown: generated content missing closing '---' delimiter. "
+                         f"First 200 chars: {result[:200]!r}")
+    return result
 
 # ── GITHUB COMMIT ─────────────────────────────────────────────────────────────
 
@@ -1253,7 +1239,7 @@ When done researching, output ONLY a JSON object (no prose before or after):
 
     try:
         msg = client.messages.create(
-            model="claude-haiku-4-5-20251001", max_tokens=2500,
+            model="claude-sonnet-4-6", max_tokens=2500,
             tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 5}],
             messages=[{"role": "user", "content": radar_prompt}],
         )
@@ -1304,7 +1290,7 @@ Structure:
 
     try:
         wmsg = client.messages.create(
-            model="claude-haiku-4-5-20251001", max_tokens=4000, system=system,
+            model="claude-sonnet-4-6", max_tokens=4000, system=system,
             messages=[{"role": "user", "content": user}],
         )
     except Exception as e:
@@ -1319,7 +1305,7 @@ Structure:
 
     try:
         dmsg = client.messages.create(
-            model="claude-haiku-4-5-20251001", max_tokens=80,
+            model="claude-sonnet-4-6", max_tokens=80,
             messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{title}'. Plain text, no quotes."}],
         )
         description = dmsg.content[0].text.strip().replace('"', "'")[:160]
@@ -1327,7 +1313,6 @@ Structure:
         description = (brief.get("angle", "") or title)[:155]
 
     print(f"    [topical] ok: {title}")
-    article_md = _strip_em_dashes(article_md)
     return {"keyword": title, "content": article_md, "description": description,
             "image_query": brief.get("image_query") or title, "category": "trending"}
 
