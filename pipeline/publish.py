@@ -1042,12 +1042,19 @@ affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
         pass
     result = frontmatter + content
     # Defensive: verify the generated markdown has proper YAML frontmatter.
-    # If the closing --- is missing, the article body is merged into YAML and
-    # Hugo will fail to build. Raise so the caller logs it and skips the commit.
-    parts = result.split("\n---\n", 2)
-    if len(parts) < 2:
-        raise ValueError(f"build_markdown: generated content missing closing '---' delimiter. "
+    # Strategy: extract the YAML section (up to the FIRST \n---\n in file), then
+    # check that it doesn't contain body content merged in (Bug A pattern).
+    # A naive split on \n---\n is insufficient because article bodies often contain
+    # --- horizontal rules, which would satisfy the check even for broken articles.
+    _ym = re.match(r'^---\n(.*?)\n---(?:\r?\n|$)', result, re.DOTALL)
+    if not _ym:
+        raise ValueError(f"build_markdown: missing frontmatter closing '---' delimiter. "
                          f"First 200 chars: {result[:200]!r}")
+    _yaml_section = _ym.group(1)
+    _bug_a = re.search(r'\n\w+: (?:true|false), ', '\n' + _yaml_section)
+    if _bug_a:
+        raise ValueError(f"build_markdown: Bug A detected — boolean YAML field followed by body content "
+                         f"(missing closing ---). Match: {_bug_a.group()!r}")
     return result
 
 # ── GITHUB COMMIT ─────────────────────────────────────────────────────────────
