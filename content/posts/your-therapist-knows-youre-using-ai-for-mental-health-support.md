@@ -11,10 +11,7 @@ author_slug: "alex-morgan"
 author_title: "Mental Health Writer"
 author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
 slug: "your-therapist-knows-youre-using-ai-for-mental-health-support"
-affiliate_disclosure: true
----
-
-Most coverage of AI mental health tools lands in one of two places: breathless enthusiasm about democratizing access to care, or hand-wringing about chatbots replacing therapists. Both framings miss what's actually happening in therapy rooms right now. People aren't choosing between AI and a therapist. They're using both, often without telling anyone, and the gap between those two experiences is becoming a clinical problem therapists are scrambling to address.
+affiliate_disclosure: true, Most coverage of AI mental health tools lands in one of two places: breathless enthusiasm about democratizing access to care, or hand-wringing about chatbots replacing therapists. Both framings miss what's actually happening in therapy rooms right now. People aren't choosing between AI and a therapist. They're using both, often without telling anyone, and the gap between those two experiences is becoming a clinical problem therapists are scrambling to address.
 
 A landmark APA survey released in June 2026, polling more than 1,200 licensed psychologists actively seeing patients, found that 77% of psychologists now have patients who openly discuss using AI chatbots for mental health support. Openly. Which implies a larger group who don't bring it up at all. Thirty-five percent of those psychologists say their patients are treating AI as an additional mental health professional, and 39% have had patients use AI to self-diagnose. These aren't edge cases. This is standard practice now, and the clinical field is trying to catch up.
 
@@ -60,11 +57,11 @@ The bottom line is that AI isn't going away as part of people's mental health li
 
 ## Sources
 
-- [APA 2026 Chatbots and Mental Health Survey – Patients are bringing AI to therapy](https://www.apa.org/pubs/reports/chatbots-mental-health-2026) (June 2026)
-- [APA – Discussing AI use in therapy](https://www.apa.org/topics/artificial-intelligence-machine-learning/discussing-ai-use-therapy) (June 2026)
-- [MedicalXpress – Psychologists say patients are turning to chatbots as mental health professionals](https://medicalxpress.com/news/2026-06-psychologists-patients-chatbots-mental-health.html) (June 16, 2026)
-- [APA – Survey of APA Members Reveals Optimism, Concern About Use of AI in Practice](https://www.psychiatry.org/news-room/news-releases/survey-of-apa-members-about-ai-use-in-practice) (April 9, 2026)
-- [Psychology Today – More people are turning to AI as a therapist](https://www.psychologytoday.com/us/news) (June 8, 2026)
+- [APA 2026 Chatbots and Mental Health Survey, Patients are bringing AI to therapy](https://www.apa.org/pubs/reports/chatbots-mental-health-2026) (June 2026)
+- [APA, Discussing AI use in therapy](https://www.apa.org/topics/artificial-intelligence-machine-learning/discussing-ai-use-therapy) (June 2026)
+- [MedicalXpress, Psychologists say patients are turning to chatbots as mental health professionals](https://medicalxpress.com/news/2026-06-psychologists-patients-chatbots-mental-health.html) (June 16, 2026)
+- [APA, Survey of APA Members Reveals Optimism, Concern About Use of AI in Practice](https://www.psychiatry.org/news-room/news-releases/survey-of-apa-members-about-ai-use-in-practice) (April 9, 2026)
+- [Psychology Today, More people are turning to AI as a therapist](https://www.psychologytoday.com/us/news) (June 8, 2026)
 
 ## Helpful Resources
 
@@ -87,6 +84,6 @@ The bottom line is that AI isn't going away as part of people's mental health li
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

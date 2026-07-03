@@ -11,10 +11,7 @@ author_slug: "alex-morgan"
 author_title: "Mental Health Writer"
 author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
 slug: "what-the-vas-new-mdma-therapy-trial-means-for-ptsd-treatment"
-affiliate_disclosure: true
----
-
-If you're a veteran living with PTSD, or you love someone who is, you've probably learned to hold cautious hope. Treatments come and go. Headlines promise breakthroughs. And the waiting room stays full. So when news broke on May 26, 2026 that the VA had launched the first federally sponsored MDMA-assisted therapy trial for veterans, it made sense to feel two things at once: genuinely curious, and a little skeptical. Both responses are reasonable. Here's what's actually happening, what the research does and doesn't tell us, and what it might mean for veterans seeking help right now.
+affiliate_disclosure: true, If you're a veteran living with PTSD, or you love someone who is, you've probably learned to hold cautious hope. Treatments come and go. Headlines promise breakthroughs. And the waiting room stays full. So when news broke on May 26, 2026 that the VA had launched the first federally sponsored MDMA-assisted therapy trial for veterans, it made sense to feel two things at once: genuinely curious, and a little skeptical. Both responses are reasonable. Here's what's actually happening, what the research does and doesn't tell us, and what it might mean for veterans seeking help right now.
 
 ## What Just Happened and Why It Moved This Fast
 
@@ -94,6 +91,6 @@ What's happening with this trial is genuinely significant. It represents a shift
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

@@ -11,10 +11,7 @@ author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
 slug: "what-the-medicaid-cuts-mean-for-your-therapy-coverage"
-affiliate_disclosure: true
----
-
-Most people assume that if they're already enrolled in Medicaid and actively seeing a therapist, they're fine. The coverage is there, the appointments are happening, and whatever is going on in Washington feels abstract. I want to be honest with you: that assumption is now genuinely dangerous. The policy landscape shifted dramatically when the One Big Beautiful Bill Act became law, and the first real consequences are landing this year, not sometime in the future.
+affiliate_disclosure: true, Most people assume that if they're already enrolled in Medicaid and actively seeing a therapist, they're fine. The coverage is there, the appointments are happening, and whatever is going on in Washington feels abstract. I want to be honest with you: that assumption is now genuinely dangerous. The policy landscape shifted dramatically when the One Big Beautiful Bill Act became law, and the first real consequences are landing this year, not sometime in the future.
 
 Here's what's actually in motion. The Congressional Budget Office estimates that roughly 17 million Americans will lose Medicaid coverage over the next decade as a result of this legislation, which cuts federal Medicaid funding by approximately $1 trillion, or about 15%, over ten years. NAMI called it out directly after the bill's final passage in July 2025. For mental health specifically, that number carries outsized weight, because Medicaid isn't just one payer among many in behavioral health. It's the dominant one. According to APA Services, Medicaid covers one quarter of all behavioral health spending in the United States. If you're in therapy through Medicaid right now, you are in the system that is most exposed.
 
@@ -60,11 +57,11 @@ If your mental health care is stable right now, it's worth spending thirty minut
 
 ## Sources
 
-- [New Policies Affecting Access to Mental Health Care – APA Services](https://updates.apaservices.org/new-policies-affecting-access-to-mental-health-care) (Ongoing, updated 2026)
+- [New Policies Affecting Access to Mental Health Care, APA Services](https://updates.apaservices.org/new-policies-affecting-access-to-mental-health-care) (Ongoing, updated 2026)
 - [NAMI Statement on Final Passage of Bill Cutting Medicaid for Millions](https://www.nami.org/press-releases/nami-deep-concern-over-final-passage-of-bill/) (July 2025)
-- [Budget Cut Fallout: After Idaho Cut a Critical Medicaid Mental Health Service, Two Patients Died – Idaho Capital Sun](https://idahocapitalsun.com/2026/02/10/budget-cut-fallout-after-idaho-cut-a-critical-medicaid-mental-health-service-two-patients-died/) (February 10, 2026)
-- [Behavioral Health Policy Changes: Major Federal and State Shifts Reshaping Access to Care in 2026 – Psychiatric Medical Care](https://www.psychmc.com/behavioral-health-policy-changes-major-federal-and-state-shifts-reshaping-access-to-care-in-2026/) (Early 2026)
-- [Update on Cuts to Medicaid Funding – APA Services](https://updates.apaservices.org/update-on-proposed-cuts-to-medicaid-funding) (2026)
+- [Budget Cut Fallout: After Idaho Cut a Critical Medicaid Mental Health Service, Two Patients Died, Idaho Capital Sun](https://idahocapitalsun.com/2026/02/10/budget-cut-fallout-after-idaho-cut-a-critical-medicaid-mental-health-service-two-patients-died/) (February 10, 2026)
+- [Behavioral Health Policy Changes: Major Federal and State Shifts Reshaping Access to Care in 2026, Psychiatric Medical Care](https://www.psychmc.com/behavioral-health-policy-changes-major-federal-and-state-shifts-reshaping-access-to-care-in-2026/) (Early 2026)
+- [Update on Cuts to Medicaid Funding, APA Services](https://updates.apaservices.org/update-on-proposed-cuts-to-medicaid-funding) (2026)
 
 ## Helpful Resources
 
@@ -87,7 +84,7 @@ If your mental health care is stable right now, it's worth spending thirty minut
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 
