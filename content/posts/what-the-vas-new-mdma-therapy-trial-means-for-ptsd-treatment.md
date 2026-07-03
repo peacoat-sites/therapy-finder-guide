@@ -11,7 +11,9 @@ author_slug: "alex-morgan"
 author_title: "Mental Health Writer"
 author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
 slug: "what-the-vas-new-mdma-therapy-trial-means-for-ptsd-treatment"
-affiliate_disclosure: true, If you're a veteran living with PTSD, or you love someone who is, you've probably learned to hold cautious hope. Treatments come and go. Headlines promise breakthroughs. And the waiting room stays full. So when news broke on May 26, 2026 that the VA had launched the first federally sponsored MDMA-assisted therapy trial for veterans, it made sense to feel two things at once: genuinely curious, and a little skeptical. Both responses are reasonable. Here's what's actually happening, what the research does and doesn't tell us, and what it might mean for veterans seeking help right now.
+affiliate_disclosure: true
+---
+If you're a veteran living with PTSD, or you love someone who is, you've probably learned to hold cautious hope. Treatments come and go. Headlines promise breakthroughs. And the waiting room stays full. So when news broke on May 26, 2026 that the VA had launched the first federally sponsored MDMA-assisted therapy trial for veterans, it made sense to feel two things at once: genuinely curious, and a little skeptical. Both responses are reasonable. Here's what's actually happening, what the research does and doesn't tell us, and what it might mean for veterans seeking help right now.
 
 ## What Just Happened and Why It Moved This Fast
 

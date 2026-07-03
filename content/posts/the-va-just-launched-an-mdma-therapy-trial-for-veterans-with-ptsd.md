@@ -11,7 +11,9 @@ author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
 slug: "the-va-just-launched-an-mdma-therapy-trial-for-veterans-with-ptsd"
-affiliate_disclosure: true, If you work with veterans, or if you *are* a veteran trying to make sense of what's happening in your own treatment options, the news out of the VA this spring is worth paying close attention to. On May 18, 2026, the Department of Veterans Affairs began enrolling participants in its first-ever federally funded MDMA-assisted therapy trial, a randomized controlled study targeting veterans dealing with both PTSD and alcohol use disorder. This isn't a fringe research project or a think-tank proposal. It's a live federal clinical trial, funded by approximately $1.5 million in VA grants, and it signals a real shift in how the federal government is thinking about treatment-resistant trauma.
+affiliate_disclosure: true
+---
+If you work with veterans, or if you *are* a veteran trying to make sense of what's happening in your own treatment options, the news out of the VA this spring is worth paying close attention to. On May 18, 2026, the Department of Veterans Affairs began enrolling participants in its first-ever federally funded MDMA-assisted therapy trial, a randomized controlled study targeting veterans dealing with both PTSD and alcohol use disorder. This isn't a fringe research project or a think-tank proposal. It's a live federal clinical trial, funded by approximately $1.5 million in VA grants, and it signals a real shift in how the federal government is thinking about treatment-resistant trauma.
 
 ## What the Trial Actually Is (and Isn't)
 

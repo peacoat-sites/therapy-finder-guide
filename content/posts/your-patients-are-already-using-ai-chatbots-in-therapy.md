@@ -11,7 +11,9 @@ author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 slug: "your-patients-are-already-using-ai-chatbots-in-therapy"
-affiliate_disclosure: true, Picture this: your therapist asks how your week went, and you talk about the journaling you did, the breathing exercises, maybe a tough conversation at work. What you don't mention is the two hours you spent on Sunday night talking to an AI chatbot about your anxiety spiral. It felt helpful in the moment. You're not sure your therapist would get it. So you just... don't bring it up.
+affiliate_disclosure: true
+---
+Picture this: your therapist asks how your week went, and you talk about the journaling you did, the breathing exercises, maybe a tough conversation at work. What you don't mention is the two hours you spent on Sunday night talking to an AI chatbot about your anxiety spiral. It felt helpful in the moment. You're not sure your therapist would get it. So you just... don't bring it up.
 
 If that sounds familiar, you're in extremely good company. A landmark survey released June 16, 2026 by the American Psychological Association polled more than 1,200 licensed U.S. psychologists and found that 77% of them now have patients who use AI chatbots for mental health support. And based on what therapists are describing, a significant number of those patients haven't breathed a word about it in session.
 

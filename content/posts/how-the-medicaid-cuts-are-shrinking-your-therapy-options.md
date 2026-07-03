@@ -11,7 +11,9 @@ author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
 slug: "how-the-medicaid-cuts-are-shrinking-your-therapy-options"
-affiliate_disclosure: true, Picture this: you've finally made the appointment. Maybe it took months to work up to it, or your doctor referred you, or things got bad enough that you stopped putting it off. You show up, you start to trust your therapist, and then one day you get a letter. Your Medicaid coverage has changed. The clinic is no longer in-network, or your provider stopped accepting Medicaid entirely, or your hours of covered care just got slashed. That letter is landing in real mailboxes right now, and if you're on Medicaid or know someone who is, the situation is more urgent than most news coverage is making it sound.
+affiliate_disclosure: true
+---
+Picture this: you've finally made the appointment. Maybe it took months to work up to it, or your doctor referred you, or things got bad enough that you stopped putting it off. You show up, you start to trust your therapist, and then one day you get a letter. Your Medicaid coverage has changed. The clinic is no longer in-network, or your provider stopped accepting Medicaid entirely, or your hours of covered care just got slashed. That letter is landing in real mailboxes right now, and if you're on Medicaid or know someone who is, the situation is more urgent than most news coverage is making it sound.
 
 Here's what's actually happening.
 
