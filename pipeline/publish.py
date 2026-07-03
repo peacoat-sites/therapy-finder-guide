@@ -768,12 +768,21 @@ def keyword_to_slug(keyword: str) -> str:
 
 def _strip_em_dashes(text: str) -> str:
     """Hard post-processing pass: replace any em dashes the LLM snuck in."""
-    import re
-    # — = em dash; also catch double/triple hyphens used as em dashes
-    text = text.replace('—', ', ')
-    text = re.sub(r'(?<=[a-zA-Z0-9]) -- (?=[a-zA-Z])', ', ', text)
-    # Clean up any ", ," double-comma artifacts
+    # Em dash (—) and spaced em dash ( — )
+    text = re.sub(r'\s*—\s*', ', ', text)
+    # En dash used as em dash ( – )
+    text = re.sub(r'\s+–\s+', ', ', text)
+    # Double/triple hyphen used as em dash
+    text = re.sub(r'(?<=[a-zA-Z0-9])\s*---?\s*(?=[a-zA-Z])', ', ', text)
+    # Strip common AI opener phrases that slip past the prompt
+    text = re.sub(r"^In today['']s .{0,40}[,\s]", '', text, flags=re.MULTILINE)
+    text = re.sub(r'^(In conclusion|In summary|To summarize|To sum up|Ultimately)[,.:]\s*', '', text, flags=re.MULTILINE | re.IGNORECASE)
+    text = re.sub(r"it['']s worth noting that ", '', text, flags=re.IGNORECASE)
+    text = re.sub(r'it is important to note that ', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'it goes without saying that ', '', text, flags=re.IGNORECASE)
+    # Clean up double-comma/space artifacts
     text = re.sub(r',\s*,', ',', text)
+    text = re.sub(r'  +', ' ', text)
     return text
 
 
@@ -839,7 +848,7 @@ Writing rules (follow every one):
 - Include 1-2 moments where you or the reader would get it wrong at first, then reveal the actual answer. Example: "I thought Y for years until I realized X. Here's what changed my mind." Vulnerability signals authenticity.
 - Use specific timestamps, dates, and named references (not generic "recently"). "In March 2024, when X happened..." or "Sarah, a reader from Denver, told me..." makes it feel real, not templated.
 
-NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world.
+NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in-depth, cutting-edge, transformative, groundbreaking, revolutionize, paradigm, synergy, actionable, scalable, streamline, empower, ensure, facilitate, spearhead, comprehensive, nuanced approach, key takeaways, shed light on, it goes without saying, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world.
 
 Avoid these structural tells:
 - The rule of three in every sentence ("X, Y, and Z"). Sometimes list two things, sometimes five.
@@ -1318,6 +1327,7 @@ Structure:
         description = (brief.get("angle", "") or title)[:155]
 
     print(f"    [topical] ok: {title}")
+    article_md = _strip_em_dashes(article_md)
     return {"keyword": title, "content": article_md, "description": description,
             "image_query": brief.get("image_query") or title, "category": "trending"}
 
