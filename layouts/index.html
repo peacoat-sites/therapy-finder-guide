@@ -142,7 +142,7 @@
               <span class="article-badge article-badge-depth">⭐ Data-Backed</span>
               {{ end }}
               {{ if $second.Params.categories }}
-              <span class="article-cat">{{ index $second.Params.categories 0 | title }}</span>
+              <span class="article-cat">{{ partial "topic-label.html" (index $second.Params.categories 0) }}</span>
               {{ end }}
             </div>
             <h2 class="article-title article-title-wide">{{ $second.Title }}</h2>
@@ -236,7 +236,7 @@
           <div class="widget-title">Browse Topics</div>
           <ul class="widget-list">
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <li><a href="/categories/{{ $name | urlize }}/">{{ $name | title }} <span>({{ len $taxonomy }})</span></a></li>
+            <li><a href="/categories/{{ $name | urlize }}/">{{ partial "topic-label.html" $name }} <span>({{ len $taxonomy }})</span></a></li>
             {{ end }}
           </ul>
         </div>
