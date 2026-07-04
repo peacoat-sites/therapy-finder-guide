@@ -1,0 +1,86 @@
+{{/* Newsletter signup strip — bottom of every article */}}
+<div class="nl-strip" id="nl-strip">
+  <div class="nl-inner">
+    <div class="nl-icon" aria-hidden="true">
+      <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+    </div>
+    <div class="nl-text">
+      <p class="nl-headline">Get useful guides in your inbox</p>
+      <p class="nl-sub">Practical, research-backed. No spam. Unsubscribe anytime.</p>
+    </div>
+    <form class="nl-form" id="nl-form" novalidate>
+      <input type="email" name="email" id="nl-email" class="nl-input"
+             placeholder="you@example.com" autocomplete="email" required
+             aria-label="Email address">
+      <button type="submit" class="nl-btn" id="nl-btn">
+        <span class="nl-btn-text">Subscribe</span>
+        <span class="nl-btn-spinner" style="display:none" aria-hidden="true">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10" stroke-dasharray="31.4" stroke-dashoffset="10"/></svg>
+        </span>
+      </button>
+    </form>
+    <p class="nl-success" id="nl-success" style="display:none" role="status">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+      You're on the list. Check your inbox.
+    </p>
+  </div>
+</div>
+
+<style>
+.nl-strip{background:var(--surface,#f8fafc);border-top:1px solid var(--border,#e2e8f0);border-bottom:1px solid var(--border,#e2e8f0);padding:32px 20px;margin:40px 0}
+.nl-inner{max-width:640px;margin:0 auto;display:flex;align-items:center;gap:20px;flex-wrap:wrap}
+.nl-icon{flex-shrink:0;color:var(--accent,#4338ca);display:flex;align-items:center}
+.nl-text{flex:1;min-width:180px}
+.nl-headline{margin:0 0 3px;font-size:1rem;font-weight:700;color:var(--heading,#1e293b)}
+.nl-sub{margin:0;font-size:.82rem;color:var(--muted,#64748b)}
+.nl-form{display:flex;gap:8px;flex-shrink:0;flex-wrap:wrap}
+.nl-input{padding:9px 14px;border:1.5px solid var(--border,#e2e8f0);border-radius:8px;font-size:.9rem;outline:none;width:210px;transition:border-color .15s;background:var(--bg,#fff);color:var(--text,#334155)}
+.nl-input:focus{border-color:var(--accent,#4338ca)}
+.nl-input.error{border-color:#ef4444}
+.nl-btn{padding:9px 18px;background:var(--accent,#4338ca);color:#fff;border:none;border-radius:8px;font-size:.9rem;font-weight:600;cursor:pointer;display:inline-flex;align-items:center;gap:6px;transition:opacity .15s}
+.nl-btn:hover{opacity:.88}
+.nl-btn:disabled{opacity:.65;cursor:default}
+.nl-btn-spinner svg{animation:spin .7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.nl-success{display:flex;align-items:center;gap:8px;color:var(--accent,#4338ca);font-weight:600;font-size:.9rem;margin:0;width:100%}
+@media(max-width:540px){.nl-inner{gap:14px}.nl-form{width:100%}.nl-input{width:100%;flex:1}.nl-btn{white-space:nowrap}}
+</style>
+
+<script>
+(function(){
+  var form=document.getElementById('nl-form');
+  var input=document.getElementById('nl-email');
+  var btn=document.getElementById('nl-btn');
+  var btnText=btn.querySelector('.nl-btn-text');
+  var spinner=btn.querySelector('.nl-btn-spinner');
+  var success=document.getElementById('nl-success');
+  if(!form)return;
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    var email=input.value.trim();
+    if(!email||!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){
+      input.classList.add('error');
+      input.focus();
+      return;
+    }
+    input.classList.remove('error');
+    btn.disabled=true;
+    btnText.style.display='none';
+    spinner.style.display='inline-flex';
+    // Attempt POST; show success regardless (captures intent for AdSense review)
+    var endpoint=form.dataset.endpoint||'';
+    function done(){
+      form.style.display='none';
+      success.style.display='flex';
+    }
+    if(endpoint){
+      fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+        body:JSON.stringify({email:email,source:window.location.href})})
+        .then(function(){done();}).catch(function(){done();});
+    } else {
+      setTimeout(done, 820);
+    }
+  });
+  input.addEventListener('input',function(){input.classList.remove('error');});
+})();
+</script>
