@@ -39,7 +39,8 @@
   "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
   "author": {
     "@type": "Person",
-    "name": "{{ .Site.Params.persona_name | default .Site.Params.author | default .Site.Title | replaceRE "\"" "\\\"" }}"
+    "name": "{{ .Params.author | default .Site.Params.author | replaceRE "\"" "\\\"" }}",
+    "url": "{{ .Site.BaseURL }}{{ with .Params.author_slug }}{{ . }}{{ else }}{{ .Params.author | urlize }}{{ end }}/"
   },
   "publisher": {
     "@type": "Organization",
@@ -82,3 +83,17 @@
 }
 </script>
 {{ end }}
+
+{{- if eq .Params.layout "author-page" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ .Params.author_name | replaceRE "\"" "\\\"" }}",
+  "url": "{{ .Permalink }}",
+  "jobTitle": "{{ .Params.author_title | replaceRE "\"" "\\\"" }}"{{ with .Params.author_specialty }},
+  "knowsAbout": "{{ . | replaceRE "\"" "\\\"" }}"{{ end }}{{ if .Content }},
+  "description": "{{ .Content | plainify | strings.TrimSpace | truncate 300 | replaceRE "\"" "\\\"" }}"{{ end }}
+}
+</script>
+{{- end }}
