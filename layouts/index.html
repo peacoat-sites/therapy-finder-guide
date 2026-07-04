@@ -39,82 +39,83 @@
         {{ if lt (len $slides) 6 }}{{ $slides = $slides | append . }}{{ end }}
       {{ end }}
     {{ end }}
-    {{/* Build slide data; base64-encode JSON so Hugo's JS minifier can't mangle it */}}
-    {{ $slideData := slice }}
-    {{ range $slides }}
-      {{ $cat := "" }}
-      {{ if .Params.categories }}{{ $cat = index .Params.categories 0 }}{{ end }}
-      {{ $depth := false }}
-      {{ if .Params.featured_depth }}{{ $depth = true }}{{ end }}
-      {{ $slideData = $slideData | append (dict "url" .Permalink "img" .Params.image "title" .Title "cat" $cat "read" .ReadingTime "depth" $depth) }}
-    {{ end }}
-    {{ with index $slides 0 }}
-    <div class="hero-carousel" id="hero-carousel">
-      <script>window.HERO_SLIDES=JSON.parse(atob("{{ $slideData | jsonify | base64Encode }}"));</script>
-      <a href="{{ .Permalink }}" class="hero-feature-card" id="hero-card-link">
-        <div class="hero-feature-img">
-          <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" id="hero-card-img">
-        </div>
-        <div class="hero-feature-body">
-          <div class="hero-feature-labels">
-            {{ if .Params.featured_depth }}
-            <span class="hero-feature-badge hero-feature-badge-depth" id="hero-card-badge">⭐ Data-Backed Guide</span>
-            {{ else }}
-            <span class="hero-feature-label" id="hero-card-badge">Latest</span>
-            {{ end }}
-            {{ if .Params.categories }}<span class="hero-feature-cat" id="hero-card-cat">{{ index .Params.categories 0 | title }}</span>{{ end }}
+    {{ if gt (len $slides) 0 }}
+    <div class="hero-carousel" id="hero-carousel" aria-roledescription="carousel" aria-label="Featured articles">
+      <div class="hero-carousel-viewport">
+        <div class="hero-carousel-track" id="hero-track">
+          {{ range $i, $p := $slides }}
+          <div class="hero-slide" aria-label="Article {{ add $i 1 }} of {{ len $slides }}">
+            <a href="{{ $p.Permalink }}" class="hero-feature-card">
+              <div class="hero-feature-img">
+                <img src="{{ $p.Params.image }}" alt="{{ $p.Title }}" loading="{{ if eq $i 0 }}eager{{ else }}lazy{{ end }}">
+              </div>
+              <div class="hero-feature-body">
+                <div class="hero-feature-labels">
+                  {{ if $p.Params.featured_depth }}
+                  <span class="hero-feature-badge hero-feature-badge-depth">⭐ Data-Backed Guide</span>
+                  {{ else }}
+                  <span class="hero-feature-label">Latest</span>
+                  {{ end }}
+                  {{ if $p.Params.categories }}<span class="hero-feature-cat">{{ index $p.Params.categories 0 }}</span>{{ end }}
+                </div>
+                <h2 class="hero-feature-title">{{ $p.Title }}</h2>
+                <span class="hero-feature-read">{{ $p.ReadingTime }} min read &rarr;</span>
+              </div>
+            </a>
           </div>
-          <h2 class="hero-feature-title" id="hero-card-title">{{ .Title }}</h2>
-          <span class="hero-feature-read" id="hero-card-read">{{ .ReadingTime }} min read &rarr;</span>
+          {{ end }}
         </div>
-      </a>
+        {{ if gt (len $slides) 1 }}
+        <button type="button" class="hero-arrow hero-arrow-prev" aria-label="Previous article"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg></button>
+        <button type="button" class="hero-arrow hero-arrow-next" aria-label="Next article"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg></button>
+        {{ end }}
+      </div>
       {{ if gt (len $slides) 1 }}
       <div class="hero-carousel-dots">
-        {{ range $i, $_ := $slides }}<button class="hero-dot{{ if eq $i 0 }} active{{ end }}" data-idx="{{ $i }}" aria-label="Article {{ add $i 1 }}"></button>{{ end }}
+        {{ range $i, $_ := $slides }}<button type="button" class="hero-dot{{ if eq $i 0 }} active{{ end }}" data-idx="{{ $i }}" aria-label="Go to article {{ add $i 1 }}"></button>{{ end }}
       </div>
       {{ end }}
     </div>
+    {{ if gt (len $slides) 1 }}
     <script>
     (function(){
-      if(!window.HERO_SLIDES||HERO_SLIDES.length<2) return;
-      var slides=HERO_SLIDES;
-      var cur=0,timer,busy=false;
-      var link=document.getElementById('hero-card-link');
-      var img=document.getElementById('hero-card-img');
-      var badge=document.getElementById('hero-card-badge');
-      var cat=document.getElementById('hero-card-cat');
-      var title=document.getElementById('hero-card-title');
-      var read=document.getElementById('hero-card-read');
-      var dots=document.querySelectorAll('#hero-carousel .hero-dot');
-      /* title-case helper — keeps known acronyms uppercase */
-      var UPPER={pm:1,seo:1,diy:1,rv:1,roi:1,llc:1,ui:1,ux:1,api:1,hvac:1,ac:1};
-      function tc(s){return s.replace(/\w+/g,function(w){return UPPER[w.toLowerCase()]?w.toUpperCase():w.charAt(0).toUpperCase()+w.slice(1).toLowerCase();});}
-      link.style.transition='opacity 0.35s ease';
-      function goTo(n){
-        if(busy) return; busy=true;
-        link.style.opacity='0';
-        setTimeout(function(){
-          var s=slides[n];
-          link.href=s.url;
-          img.src=s.img; img.alt=s.title;
-          badge.className=s.depth?'hero-feature-badge hero-feature-badge-depth':'hero-feature-label';
-          badge.textContent=s.depth?'⭐ Data-Backed Guide':'Latest';
-          if(cat) cat.textContent=tc(s.cat);
-          title.textContent=s.title;
-          read.textContent=s.read+' min read →';
-          dots.forEach(function(d,i){d.classList.toggle('active',i===n);});
-          link.style.opacity='1'; cur=n; busy=false;
-        },350);
+      var root=document.getElementById('hero-carousel');
+      var track=document.getElementById('hero-track');
+      if(!root||!track) return;
+      var n=track.children.length, cur=0, timer=null, stopped=false;
+      var dots=root.querySelectorAll('.hero-dot');
+      function goTo(i){
+        cur=((i%n)+n)%n;
+        track.style.transform='translateX(-'+(cur*100)+'%)';
+        for(var k=0;k<dots.length;k++) dots[k].classList.toggle('active',k===cur);
       }
-      function next(){goTo((cur+1)%slides.length);}
-      function start(){timer=setInterval(next,4500);}
-      function stop(){clearInterval(timer);}
-      link.addEventListener('mouseenter',stop);
-      link.addEventListener('mouseleave',start);
-      dots.forEach(function(d,i){d.addEventListener('click',function(){stop();goTo(i);start();});});
-      start();
+      function next(){goTo(cur+1);}
+      function prev(){goTo(cur-1);}
+      /* autoplay: desktop pointers only, honors reduced-motion, stops for good on manual nav */
+      var canAuto=window.matchMedia('(min-width: 901px)').matches&&!window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      function pause(){if(timer){clearInterval(timer);timer=null;}}
+      function play(){if(canAuto&&!stopped&&!timer)timer=setInterval(next,6000);}
+      function stopAuto(){stopped=true;pause();}
+      root.querySelector('.hero-arrow-next').addEventListener('click',function(){stopAuto();next();});
+      root.querySelector('.hero-arrow-prev').addEventListener('click',function(){stopAuto();prev();});
+      for(var k=0;k<dots.length;k++)(function(k){dots[k].addEventListener('click',function(){stopAuto();goTo(k);});})(k);
+      root.addEventListener('keydown',function(e){
+        if(e.key==='ArrowRight'){stopAuto();next();}
+        else if(e.key==='ArrowLeft'){stopAuto();prev();}
+      });
+      var sx=0,sy=0,swiping=false;
+      track.addEventListener('touchstart',function(e){sx=e.touches[0].clientX;sy=e.touches[0].clientY;swiping=true;},{passive:true});
+      track.addEventListener('touchend',function(e){
+        if(!swiping)return; swiping=false;
+        var dx=e.changedTouches[0].clientX-sx, dy=e.changedTouches[0].clientY-sy;
+        if(Math.abs(dx)>40&&Math.abs(dx)>Math.abs(dy)){stopAuto();if(dx<0){next();}else{prev();}}
+      },{passive:true});
+      root.addEventListener('mouseenter',pause);
+      root.addEventListener('mouseleave',play);
+      play();
     })();
     </script>
+    {{ end }}
     {{ end }}
 
   </div>
