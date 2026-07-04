@@ -4,15 +4,14 @@
   <div class="posts-hero">
     <div class="posts-hero-inner">
       <p class="section-label">Search</p>
-      <h1 class="posts-hero-title">Find an Article</h1>
+      <h1 class="posts-hero-title">Search Articles</h1>
       <form class="search-form-large" id="search-form-page" role="search">
         <div class="search-form-inner">
           <svg class="search-form-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-          <input type="search" id="search-input-page" class="search-input-large" placeholder="Search for a topic…" autocomplete="off" autofocus>
+          <input type="search" id="search-input-page" class="search-input-large" placeholder="Search articles…" autocomplete="off" autofocus>
         </div>
       </form>
     </div>
-    <nav class="posts-topic-nav" id="search-topic-nav" aria-label="Jump to topic"></nav>
   </div>
 
   <div id="search-status" class="search-status"></div>
@@ -62,7 +61,6 @@
   function displayBrowse() {
     var statusEl  = document.getElementById('search-status');
     var resultsEl = document.getElementById('search-results');
-    var navEl     = document.getElementById('search-topic-nav');
     statusEl.textContent = '';
 
     /* build category map */
@@ -80,11 +78,6 @@
 
     /* sort categories by count desc */
     var sorted = Object.keys(cats).sort(function(a, b) { return cats[b].length - cats[a].length; });
-
-    /* topic nav pills */
-    navEl.innerHTML = sorted.map(function(cat) {
-      return '<a href="#cat-' + slugify(cat) + '" class="posts-topic-pill">' + esc(cat) + '</a>';
-    }).join('');
 
     /* category sections */
     resultsEl.innerHTML = '<div class="posts-body">' + sorted.map(function(cat) {
@@ -133,18 +126,15 @@
   function doSearch(query) {
     var statusEl  = document.getElementById('search-status');
     var resultsEl = document.getElementById('search-results');
-    var navEl     = document.getElementById('search-topic-nav');
     query = (query || '').trim();
 
     if (!query) {
       statusEl.textContent = '';
       resultsEl.innerHTML  = '';
-      navEl.innerHTML      = '';
       displayBrowse();
       return;
     }
 
-    navEl.innerHTML = '';
     if (!fuse) { statusEl.textContent = 'Loading…'; return; }
 
     var results = fuse.search(query).slice(0, 12);
