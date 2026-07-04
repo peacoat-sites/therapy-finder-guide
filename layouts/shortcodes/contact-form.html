@@ -1,0 +1,101 @@
+<div class="cf-wrap" id="cf-wrap">
+  <form class="cf-form" id="cf-form" novalidate>
+    <div class="cf-row cf-row-2">
+      <div class="cf-field">
+        <label class="cf-label" for="cf-name">Your name</label>
+        <input class="cf-input" type="text" id="cf-name" name="name" placeholder="Jane Smith" autocomplete="name" required>
+      </div>
+      <div class="cf-field">
+        <label class="cf-label" for="cf-email">Email address</label>
+        <input class="cf-input" type="email" id="cf-email" name="email" placeholder="jane@example.com" autocomplete="email" required>
+      </div>
+    </div>
+    <div class="cf-field">
+      <label class="cf-label" for="cf-subject">Subject</label>
+      <input class="cf-input" type="text" id="cf-subject" name="subject" placeholder="Question about an article" required>
+    </div>
+    <div class="cf-field">
+      <label class="cf-label" for="cf-message">Message</label>
+      <textarea class="cf-input cf-textarea" id="cf-message" name="message" placeholder="Write your message here..." rows="6" required></textarea>
+    </div>
+    <button type="submit" class="cf-submit" id="cf-submit">
+      <span class="cf-submit-text">Send Message</span>
+      <span class="cf-submit-spinner" style="display:none" aria-hidden="true">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10" stroke-dasharray="31.4" stroke-dashoffset="10"/></svg>
+      </span>
+    </button>
+  </form>
+  <div class="cf-success" id="cf-success" style="display:none" role="status">
+    <div class="cf-success-icon" aria-hidden="true">
+      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+    </div>
+    <h3 class="cf-success-title">Message sent</h3>
+    <p class="cf-success-msg">Thanks for reaching out. We read every message and aim to reply within 2&ndash;3 business days.</p>
+  </div>
+</div>
+
+<style>
+.cf-wrap{max-width:580px}
+.cf-form{display:flex;flex-direction:column;gap:16px}
+.cf-row-2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:480px){.cf-row-2{grid-template-columns:1fr}}
+.cf-field{display:flex;flex-direction:column;gap:5px}
+.cf-label{font-size:.83rem;font-weight:600;color:var(--heading,#1e293b)}
+.cf-input{padding:10px 14px;border:1.5px solid var(--border,#e2e8f0);border-radius:8px;font-size:.92rem;font-family:inherit;outline:none;background:var(--bg,#fff);color:var(--text,#334155);transition:border-color .15s}
+.cf-input:focus{border-color:var(--accent,#4338ca)}
+.cf-input.error{border-color:#ef4444}
+.cf-textarea{resize:vertical;min-height:130px}
+.cf-submit{padding:11px 28px;background:var(--accent,#4338ca);color:#fff;border:none;border-radius:8px;font-size:.95rem;font-weight:600;cursor:pointer;display:inline-flex;align-items:center;gap:8px;transition:opacity .15s;align-self:flex-start}
+.cf-submit:hover{opacity:.88}
+.cf-submit:disabled{opacity:.65;cursor:default}
+.cf-submit-spinner svg{animation:cfspin .7s linear infinite}
+@keyframes cfspin{to{transform:rotate(360deg)}}
+.cf-success{text-align:center;padding:40px 0}
+.cf-success-icon{color:var(--accent,#4338ca);margin-bottom:14px}
+.cf-success-title{font-size:1.3rem;font-weight:700;color:var(--heading,#1e293b);margin:0 0 8px}
+.cf-success-msg{color:var(--muted,#64748b);margin:0;font-size:.95rem}
+</style>
+
+<script>
+(function(){
+  var form=document.getElementById('cf-form');
+  var success=document.getElementById('cf-success');
+  var submit=document.getElementById('cf-submit');
+  var submitText=submit.querySelector('.cf-submit-text');
+  var spinner=submit.querySelector('.cf-submit-spinner');
+  if(!form)return;
+  function validate(){
+    var ok=true;
+    ['cf-name','cf-email','cf-subject','cf-message'].forEach(function(id){
+      var el=document.getElementById(id);
+      if(!el.value.trim()){el.classList.add('error');ok=false;}
+    });
+    var em=document.getElementById('cf-email');
+    if(em.value&&!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(em.value.trim())){em.classList.add('error');ok=false;}
+    return ok;
+  }
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    if(!validate())return;
+    submit.disabled=true;
+    submitText.style.display='none';
+    spinner.style.display='inline-flex';
+    var name=document.getElementById('cf-name').value.trim();
+    var email=document.getElementById('cf-email').value.trim();
+    var subject=document.getElementById('cf-subject').value.trim();
+    var msg=document.getElementById('cf-message').value.trim();
+    // Open mailto: as functional fallback, then show success
+    var mailto='mailto:brenishs@gmail.com?subject='+encodeURIComponent('[Contact Form] '+subject)
+      +'&body='+encodeURIComponent('From: '+name+' <'+email+'>\n\n'+msg);
+    window.location.href=mailto;
+    setTimeout(function(){
+      form.style.display='none';
+      success.style.display='block';
+    },600);
+  });
+  ['cf-name','cf-email','cf-subject','cf-message'].forEach(function(id){
+    var el=document.getElementById(id);
+    if(el)el.addEventListener('input',function(){el.classList.remove('error');});
+  });
+})();
+</script>
