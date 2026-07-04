@@ -58,6 +58,15 @@
     return d.innerHTML;
   }
 
+  /* title-case with acronym map — frontmatter category casing is inconsistent */
+  var UPPER = {pm:1,seo:1,diy:1,rv:1,roi:1,llc:1,ui:1,ux:1,api:1,hvac:1,ac:1};
+  function tc(s) {
+    return String(s || '').replace(/\w+/g, function(w) {
+      var lw = w.toLowerCase();
+      return UPPER[lw] ? w.toUpperCase() : w.charAt(0).toUpperCase() + lw.slice(1);
+    });
+  }
+
   function displayBrowse() {
     var statusEl  = document.getElementById('search-status');
     var resultsEl = document.getElementById('search-results');
@@ -89,7 +98,7 @@
         '<a href="' + esc(lead.url) + '" class="cat-lead">' +
           (lead.image ? '<div class="cat-lead-img"><img src="' + esc(lead.image) + '" alt="' + esc(lead.title) + '" loading="lazy"></div>' : '') +
           '<div class="cat-lead-body">' +
-            '<span class="cat-lead-topic">' + esc(cat) + '</span>' +
+            '<span class="cat-lead-topic">' + esc(tc(cat)) + '</span>' +
             '<h3 class="cat-lead-title">' + esc(lead.title) + '</h3>' +
             '<p class="cat-lead-excerpt">' + esc(lead.summary || '') + '</p>' +
             '<div class="cat-lead-meta">' +
@@ -114,7 +123,7 @@
 
       return '<div class="cat-section" id="cat-' + slugify(cat) + '">' +
         '<div class="cat-section-header">' +
-          '<h2 class="cat-section-name">' + esc(cat) + '</h2>' +
+          '<h2 class="cat-section-name">' + esc(tc(cat)) + '</h2>' +
           '<span class="cat-section-count">' + articles.length + ' articles</span>' +
           '<a href="/categories/' + slugify(cat) + '/" class="cat-view-all">View all →</a>' +
         '</div>' +
@@ -153,7 +162,7 @@
       return '<a href="' + esc(item.url) + '" class="article-card">' +
         (item.image ? '<div class="article-card-image"><img src="' + esc(item.image) + '" alt="' + esc(item.title) + '" loading="lazy"></div>' : '') +
         '<div class="article-card-body">' +
-          (cat ? '<span class="article-cat">' + esc(cat) + '</span>' : '') +
+          (cat ? '<span class="article-cat">' + esc(tc(cat)) + '</span>' : '') +
           '<h2 class="article-title">' + esc(item.title) + '</h2>' +
           '<p class="article-excerpt">' + esc(item.summary || '') + '</p>' +
           '<div class="article-meta"><span>' + esc(item.date || '') + '</span>' +
