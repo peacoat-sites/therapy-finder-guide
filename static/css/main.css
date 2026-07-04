@@ -945,3 +945,41 @@ a { color: inherit; text-decoration: none; }
 /* Capitalizes each word; Hugo template handles acronyms (PM, SEO, RV, etc.) */
 .topic-group-title { text-transform: capitalize; }
 .cat-section-name  { text-transform: capitalize; }
+
+/* -- Hero carousel v2: sliding track, arrows, swipe (2026-07-04) -- */
+.hero-carousel-viewport { overflow: hidden; border-radius: 12px; box-shadow: 0 20px 60px rgba(0,0,0,0.35); position: relative; }
+.hero-carousel-track { display: flex; transition: transform 0.45s cubic-bezier(0.4,0,0.2,1); }
+.hero-slide { flex: 0 0 100%; min-width: 0; display: flex; }
+.hero-slide .hero-feature-card { width: 100%; box-shadow: none; border-radius: 0; }
+.hero-slide .hero-feature-card:hover { transform: none; box-shadow: none; }
+.hero-arrow {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  width: 40px; height: 40px; border-radius: 50%; border: none;
+  background: rgba(15,23,42,0.55); color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer; z-index: 2; transition: background 0.2s ease, opacity 0.2s ease;
+}
+.hero-arrow:hover { background: rgba(15,23,42,0.82); }
+.hero-arrow:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+.hero-arrow svg { width: 18px; height: 18px; }
+.hero-arrow-prev { left: 12px; }
+.hero-arrow-next { right: 12px; }
+.hero-dot { width: 8px; height: 8px; box-sizing: content-box; padding: 5px; background-clip: content-box; }
+@media (min-width: 901px) {
+  .hero-authority-inner { grid-template-columns: 2fr 3fr; gap: 48px; }
+  .hero-feature-title { font-size: 1.5rem; }
+  .hero-feature-body { padding: 22px 26px 24px; }
+}
+@media (max-width: 900px) {
+  .hero-authority { padding-top: 24px; }
+  .hero-authority-inner { display: flex; flex-direction: column; }
+  .hero-carousel { order: -1; width: 100%; }
+  .hero-slide .hero-feature-card, .hero-feature-card { max-width: none; }
+  .hero-auth-text { text-align: center; }
+  .hero-auth-sub { margin-left: auto; margin-right: auto; }
+  .hero-auth-actions { justify-content: center; }
+}
+@media (max-width: 600px) {
+  .hero-arrow { width: 34px; height: 34px; }
+  .hero-arrow svg { width: 15px; height: 15px; }
+}
