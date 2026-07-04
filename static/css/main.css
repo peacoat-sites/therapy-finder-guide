@@ -940,3 +940,8 @@ a { color: inherit; text-decoration: none; }
 /* ── STANDALONE TOOL/COMPARISON PAGES ── */
 .page-tool-desc { font-size: 16px; color: var(--muted); line-height: 1.65; margin: 10px 0 24px; }
 .page-wrap .post-main { max-width: 860px; }
+
+/* -- Category/topic header case fix (2026-07-03) -- */
+/* Capitalizes each word; Hugo template handles acronyms (PM, SEO, RV, etc.) */
+.topic-group-title { text-transform: capitalize; }
+.cat-section-name  { text-transform: capitalize; }
