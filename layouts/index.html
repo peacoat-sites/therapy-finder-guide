@@ -24,7 +24,7 @@
 
     <div class="hero-auth-text">
       {{ with .Site.Params.niche }}<p class="hero-eyebrow">{{ . }}</p>{{ end }}
-      <h1 class="hero-auth-title">{{ .Site.Params.tagline | default .Site.Title }}</h1>
+      {{ $tag := .Site.Params.tagline | default .Site.Title }}<h1 class="hero-auth-title{{ if gt (len $tag) 42 }} hero-auth-title-long{{ end }}">{{ $tag }}</h1>
       <p class="hero-auth-sub">{{ .Site.Params.description }}</p>
       <div class="hero-auth-actions">
         <a href="/posts/" class="btn-hero-primary">Browse All Articles</a>
