@@ -983,3 +983,6 @@ a { color: inherit; text-decoration: none; }
   .hero-arrow { width: 34px; height: 34px; }
   .hero-arrow svg { width: 15px; height: 15px; }
 }
+
+/* -- Hero actions: stacked + centered under tagline (2026-07-04) -- */
+.hero-auth-actions { flex-direction: column; align-items: center; gap: 12px; }
