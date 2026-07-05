@@ -2,6 +2,7 @@
 title: "Alex Morgan"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Writer"
