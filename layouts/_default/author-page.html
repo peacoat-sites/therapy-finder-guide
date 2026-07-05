@@ -15,7 +15,7 @@
       <div class="ap-photo-fallback" aria-hidden="true">{{ substr $name 0 1 | upper }}</div>
     </div>
     <div class="ap-hero-info">
-      {{ if not (eq (.Params.hide_title | default false) true) }}<h1 class="ap-name">{{ $name }}</h1>{{ end }}
+      <h1 class="ap-name">{{ $name }}</h1>
       <p class="ap-title-label">{{ $title }}</p>
       {{ with $spec }}<p class="ap-spec">{{ . }}</p>{{ end }}
       {{ if .Content }}
