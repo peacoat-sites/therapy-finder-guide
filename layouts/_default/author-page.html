@@ -18,9 +18,7 @@
       <h1 class="ap-name">{{ $name }}</h1>
       <p class="ap-title-label">{{ $title }}</p>
       {{ with $spec }}<p class="ap-spec">{{ . }}</p>{{ end }}
-      {{ if .Content }}
-      <p class="ap-summary">{{ .Content | plainify | truncate 220 }}</p>
-      {{ end }}
+
     </div>
   </div>
 
@@ -37,15 +35,8 @@
     <div class="ap-bio">{{ .Content }}</div>
     {{ if $articles }}
     <div class="ap-stats">
-      <div class="ap-stat">
-        <span class="ap-stat-value">{{ len $articles }}</span>
-        <span class="ap-stat-label">Articles</span>
-      </div>
-      {{ $sorted := sort $articles "PublishDate" "asc" }}
-      <div class="ap-stat">
-        <span class="ap-stat-value">{{ (index $sorted 0).PublishDate.Format "Jan 2006" }}</span>
-        <span class="ap-stat-label">Writing since</span>
-      </div>
+
+
     </div>
     {{ end }}
   </div>
