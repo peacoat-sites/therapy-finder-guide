@@ -254,15 +254,21 @@
     {{ if gt (len $authorPosts) 1 }}
     <div class="widget">
       <div class="widget-title">More by {{ $authorName }}</div>
-      <ul class="widget-list">
+      <div class="author-articles">
         {{ $currentPermalink := $.Permalink }}
         {{ range ($authorPosts | first 6) }}
           {{ if ne .Permalink $currentPermalink }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }} <span style="color:var(--muted,#94a3b8);white-space:nowrap">&middot; {{ (int (math.Round (div .WordCount 450.0))) }} min</span></a></li>
+          <a href="{{ .RelPermalink }}" class="author-article-card">
+            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="author-article-image" />{{ end }}
+            <div class="author-article-content">
+              <h4 class="author-article-title">{{ .Title }}</h4>
+              <span class="author-article-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+            </div>
+          </a>
           {{ end }}
         {{ end }}
-      </ul>
-      <a href="/{{ $authorSlug }}/" style="display:block;margin-top:10px;font-size:.8rem;font-weight:600;color:var(--accent,#4338ca);text-decoration:none">View all articles &rsaquo;</a>
+      </div>
+      <a href="/{{ $authorSlug }}/" class="view-all-link">View all articles &rsaquo;</a>
     </div>
     {{ end }}
     {{ end }}
