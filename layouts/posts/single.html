@@ -2,10 +2,10 @@
 
 {{- if eq .Section "posts" -}}
 
-{{/* ════════════════════════════════════════════════════════════
+{{/* ════════════════════════════════════════════════════════
      ARTICLE PAGES  (content/posts/*)
      Full layout: featured hero image + header + sidebar + ads
-     ════════════════════════════════════════════════════════════ */}}
+     ════════════════════════════════════════════════════════ */}}
 
 <div class="post-wrap">
   {{ $tocRail := .TableOfContents }}
@@ -139,8 +139,7 @@
     </div>
     {{ end }}
 
-    {{ partial "audible-cta.html" . }}
-  {{ partial "related-articles.html" . }}
+    {{ partial "related-articles.html" . }}
 
     <!-- In-article Ad -->
     {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_incontent (ne .Site.Params.adsense_slot_incontent "auto") }}
@@ -289,10 +288,10 @@
 {{ partial "amazon-products.html" . }}
 {{- else -}}
 
-{{/* ════════════════════════════════════════════════════════════
+{{/* ════════════════════════════════════════════════════════
      NON-ARTICLE PAGES  (about, contact, privacy, etc.)
      Clean single-column — no ads, no read time, no date, no CTA
-     ════════════════════════════════════════════════════════════ */}}
+     ════════════════════════════════════════════════════════ */}}
 
 <div class="page-wrap">
   <div class="page-content">
