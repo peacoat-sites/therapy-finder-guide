@@ -198,7 +198,7 @@
     <!-- Related Articles widget — reliable recent-posts fallback -->
     <div class="widget">
       <div class="widget-title">Related Articles</div>
-      <ul class="widget-list">
+      <div class="related-articles">
         {{- $currentPermalink := .Permalink -}}
         {{- $allPosts := where .Site.RegularPages "Section" "posts" -}}
         {{- $sameCat := slice -}}
@@ -212,15 +212,16 @@
         {{- end -}}
         {{- range $candidates -}}
           {{- if ne .Permalink $currentPermalink -}}
-          <li>
-            <a href="{{ .Permalink }}">
-              {{ .Title }}
-              <span>{{ (int (math.Round (div .WordCount 450.0))) }} min</span>
-            </a>
-          </li>
+          <a href="{{ .Permalink }}" class="article-card">
+            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="article-card-image" />{{ end }}
+            <div class="article-card-content">
+              <h4 class="article-card-title">{{ .Title }}</h4>
+              <span class="article-card-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+            </div>
+          </a>
           {{- end -}}
         {{- end -}}
-      </ul>
+      </div>
     </div>
 
     <!-- Sidebar Ad -->
