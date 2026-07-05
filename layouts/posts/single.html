@@ -273,6 +273,23 @@
     {{ end }}
     {{ end }}
 
+    <!-- Recent Articles -->
+    <div class="widget">
+      <div class="widget-title">Recent Articles</div>
+      <div class="recent-articles">
+        {{ $posts := where .Site.RegularPages "Section" "posts" | first 6 }}
+        {{ range $posts }}
+        <a href="{{ .RelPermalink }}" class="article-card">
+          {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="article-card-image" />{{ end }}
+          <div class="article-card-content">
+            <h4 class="article-card-title">{{ .Title }}</h4>
+            <span class="article-card-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+
   </aside>
 </div>
 
@@ -301,22 +318,6 @@
 
 {{- end }}
 {{ end }}
-
-        <div class="widget">
-          <div class="widget-title">Recent Articles</div>
-          <div class="recent-articles">
-            {{ $posts := where .Site.RegularPages "Section" "posts" | first 6 }}
-            {{ range $posts }}
-            <a href="{{ .RelPermalink }}" class="article-card">
-              {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="article-card-image" />{{ end }}
-              <div class="article-card-content">
-                <h4 class="article-card-title">{{ .Title }}</h4>
-                <span class="article-card-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
-              </div>
-            </a>
-            {{ end }}
-          </div>
-        </div>
 
         <style>
         .recent-articles {
