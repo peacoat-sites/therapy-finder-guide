@@ -1,5 +1,6 @@
 ---
 title: "Which Type of Therapy Is Right for You? A Guide to 7 Common Approaches"
+hide_title: true
 date: 2026-06-10
 description: "Use our interactive therapy type matcher to explore which evidence-based therapy approach — CBT, EMDR, DBT, ACT, Psychodynamic, Somatic, or IFS — may fit your situation best."
 categories: ["Finding a Therapist"]
