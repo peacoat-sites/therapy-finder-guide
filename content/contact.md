@@ -3,8 +3,6 @@ title: "Contact"
 description: "Get in touch with the Therapy Finder Guide editorial team. We read every message."
 ---
 
-# Contact Us
-
 Have a question, spotted an error, or want to suggest a topic? We read every message personally and aim to reply within 2-3 business days.
 
 {{< contact-form >}}
