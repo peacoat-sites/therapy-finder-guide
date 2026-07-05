@@ -270,7 +270,15 @@
   </aside>
 </div>
 
-{{ partial "newsletter-strip.html" . }}
+
+<!-- AI Disclosure -->
+<div class="ai-disclosure">
+  <p>This article was produced with assistance from AI tools and reviewed by
+    {{ if .Params.author }}<a href="/authors/{{ .Params.author | urlize }}/">{{ .Params.author }}</a>{{ else }}our editorial team{{ end }}.
+  </p>
+</div>
+
+  {{ partial "newsletter-strip.html" . }}
 {{ partial "amazon-products.html" . }}
 {{- else -}}
 
