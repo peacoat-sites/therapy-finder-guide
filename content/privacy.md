@@ -3,6 +3,7 @@ title: "Privacy Policy"
 date: 2026-01-01
 draft: false
 description: "Privacy Policy for Therapy Finder Guide"
+hide_title: true
 ---
 
 ## Privacy Policy
