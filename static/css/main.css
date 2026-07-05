@@ -1016,3 +1016,16 @@ a { color: inherit; text-decoration: none; }
 .ai-disclosure a { color: var(--primary); text-decoration: none; }
 .ai-disclosure a:hover { text-decoration: underline; }
 .ai-disclosure p { margin: 0; }
+/* -- Hero: per-site gradient colors from config (2026-07-04) -- */
+.hero-authority {
+  --hero-c1: {{ or .Site.Params.hero_color_1 "#0f172a" }};
+  --hero-c2: {{ or .Site.Params.hero_color_2 "#1e3a8a" }};
+  --hero-c3: {{ or .Site.Params.hero_color_3 "#c9a84c" }};
+  --hero-c4: {{ or .Site.Params.hero_color_4 "#1a2744" }};
+}
+
+/* -- Hide empty ad containers (2026-07-04) -- */
+.ad-container:empty,
+.ad-container:has(> ins[data-ad-slot="auto"]) {
+  display: none;
+}
