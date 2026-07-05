@@ -1,5 +1,6 @@
 ---
 title: "Editorial Policy"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "How Therapy Finder Guide researches, writes, fact-checks, and maintains every article — our commitment to accuracy, source quality, and genuine usefulness."
