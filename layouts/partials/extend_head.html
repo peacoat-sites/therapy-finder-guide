@@ -101,3 +101,12 @@
 {{/* title-font */}}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@700;800&display=swap">
 <style>:root{--serif:'Crimson Pro', Georgia, serif}.post-title{letter-spacing:-.01em}</style>
+<style>
+.hero-authority {
+  --hero-c1: {{ .Site.Params.hero_color_1 | default "#0f172a" }};
+  --hero-c2: {{ .Site.Params.hero_color_2 | default "#1e3a8a" }};
+  --hero-c3: {{ .Site.Params.hero_color_3 | default "#c9a84c" }};
+  --hero-c4: {{ .Site.Params.hero_color_4 | default "#1a2744" }};
+}
+</style>
+<!-- Hero gradient CSS variables from config (2026-07-05) -->
