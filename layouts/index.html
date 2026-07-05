@@ -12,7 +12,10 @@
 {{ $regularSorted := $regularArticles.ByDate.Reverse }}
 
 {{/* Featured carousel: depth articles first, then recent regular articles */}}
-{{ $carousel := union $depthSorted $regularSorted }}
+{{ $combined := union $depthSorted $regularSorted }}
+{{ $topical := where $combined "Params.categories" "intersect" (slice "trending") }}
+{{ $other := where $combined "Params.categories" "intersect" (slice "trending") | not }}
+{{ $carousel := union $topical $other }} {{/* topical boost: trending articles surface first */}}
 
 {{ $featured := index $carousel 0 }}
 {{ $second   := index $carousel 1 }}
