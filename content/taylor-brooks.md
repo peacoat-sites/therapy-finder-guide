@@ -2,6 +2,7 @@
 title: "Taylor Brooks"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
