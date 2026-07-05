@@ -1016,14 +1016,6 @@ a { color: inherit; text-decoration: none; }
 .ai-disclosure a { color: var(--primary); text-decoration: none; }
 .ai-disclosure a:hover { text-decoration: underline; }
 .ai-disclosure p { margin: 0; }
-/* -- Hide empty ad containers (2026-07-04) -- */
-.ad-container:empty,
-.ad-container.ad-empty {
-  display: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  height: 0 !important;
-}
 
 /* -- Hero text contrast improvement for dark gradients (2026-07-05) -- */
 .hero-auth-text {
@@ -1040,4 +1032,30 @@ a { color: inherit; text-decoration: none; }
 .hero-sub {
   color: rgba(255, 255, 255, 0.85);
   text-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+/* -- Hide uninitialized ad boxes (2026-07-05 v2) -- */
+.widget > ins.adsbygoogle {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  visibility: hidden !important;
+}
+
+.widget:has(> ins.adsbygoogle:only-child),
+.widget:has(> .ad-container:only-child) {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 0 !important;
+}
+
+.ad-container:empty,
+.ad-container.ad-empty,
+.ad-container ins[data-ad-slot="auto"] {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
