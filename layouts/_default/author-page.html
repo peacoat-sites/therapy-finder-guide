@@ -7,7 +7,7 @@
 
 <div class="ap-wrap">
 
-  {{/* ── Hero ── */}}
+  {{/* â”€â”€ Hero â”€â”€ */}}
   <div class="ap-hero">
     <div class="ap-photo-wrap">
       <img class="ap-photo" src="/img/authors/{{ $slug }}.jpg" alt="{{ $name }}"
@@ -15,38 +15,59 @@
       <div class="ap-photo-fallback" aria-hidden="true">{{ substr $name 0 1 | upper }}</div>
     </div>
     <div class="ap-hero-info">
-      <h1 class="ap-name">{{ $name }}</h1>
+      {{ if not .Params.hide_title }}<h1 class="ap-name">{{ $name }}</h1>{{ end }}
       <p class="ap-title-label">{{ $title }}</p>
       {{ with $spec }}<p class="ap-spec">{{ . }}</p>{{ end }}
       {{ if .Content }}
-      <div class="ap-bio-hero">{{ .Content }}</div>
+      <p class="ap-summary">{{ .Content | plainify | truncate 220 }}</p>
       {{ end }}
     </div>
   </div>
 
-  {{/* ── Latest Articles ── */}}
-  {{ if $articles }}
-  <div class="ap-articles-section">
-    <h2 class="ap-articles-heading">Latest Articles</h2>
-    <div class="ap-articles">
-      {{ range sort $articles "PublishDate" "desc" }}
-      <a href="{{ .RelPermalink }}" class="ap-card">
-        <div class="ap-card-body">
-          <time class="ap-card-date">{{ .PublishDate.Format "January 2, 2006" }}</time>
-          <h3 class="ap-card-title">{{ .Title }}</h3>
-          <p class="ap-card-excerpt">{{ .Summary | plainify | truncate 130 }}</p>
-          <span class="ap-card-meta">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
-        </div>
-        {{ if .Params.image }}
-        <div class="ap-card-thumb">
-          <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
-        </div>
-        {{ end }}
-      </a>
-      {{ end }}
-    </div>
+  {{/* â”€â”€ Tabs â”€â”€ */}}
+  <div class="ap-tabs" role="tablist">
+    <button class="ap-tab ap-tab-active" data-tab="ap-about" role="tab" aria-selected="true">About</button>
+    <button class="ap-tab" data-tab="ap-articles" role="tab" aria-selected="false">
+      Latest <span class="ap-count">({{ len $articles }})</span>
+    </button>
   </div>
-  {{ end }}
+
+  {{/* â”€â”€ About panel â”€â”€ */}}
+  <div class="ap-panel" id="ap-about">
+    <div class="ap-bio">{{ .Content }}</div>
+    {{ if $articles }}
+    <div class="ap-stats">
+      <div class="ap-stat">
+        <span class="ap-stat-value">{{ len $articles }}</span>
+        <span class="ap-stat-label">Articles</span>
+      </div>
+      {{ $sorted := sort $articles "PublishDate" "asc" }}
+      <div class="ap-stat">
+        <span class="ap-stat-value">{{ (index $sorted 0).PublishDate.Format "Jan 2006" }}</span>
+        <span class="ap-stat-label">Writing since</span>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
+  {{/* â”€â”€ Latest panel â”€â”€ */}}
+  <div class="ap-panel ap-hidden" id="ap-articles">
+    {{ range sort $articles "PublishDate" "desc" }}
+    <a href="{{ .RelPermalink }}" class="ap-card">
+      <div class="ap-card-body">
+        <time class="ap-card-date">{{ .PublishDate.Format "January 2, 2006" }}</time>
+        <h3 class="ap-card-title">{{ .Title }}</h3>
+        <p class="ap-card-excerpt">{{ .Summary | plainify | truncate 130 }}</p>
+        <span class="ap-card-meta">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+      </div>
+      {{ if .Params.image }}
+      <div class="ap-card-thumb">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+      </div>
+      {{ end }}
+    </a>
+    {{ end }}
+  </div>
 
 </div>
 
@@ -54,7 +75,7 @@
 .ap-wrap{max-width:780px;margin:0 auto;padding:52px 24px 80px}
 
 /* Hero */
-.ap-hero{display:flex;gap:36px;align-items:flex-start;margin-bottom:48px;padding-bottom:0}
+.ap-hero{display:flex;gap:36px;align-items:flex-start;margin-bottom:0;padding-bottom:36px}
 .ap-photo-wrap{flex-shrink:0}
 .ap-photo{width:160px;height:160px;border-radius:50%;object-fit:cover;display:block;
   box-shadow:0 2px 16px rgba(0,0,0,.10)}
@@ -68,17 +89,33 @@
 .ap-title-label{font-size:.8rem;font-weight:700;color:var(--accent,#4338ca);
   text-transform:uppercase;letter-spacing:.1em;margin:0 0 6px}
 .ap-spec{font-size:.9rem;color:var(--muted,#64748b);margin:0 0 16px}
-.ap-bio-hero{font-size:.95rem;color:var(--text,#334155);line-height:1.7;
+.ap-summary{font-size:.95rem;color:var(--text,#334155);line-height:1.7;
   margin:0;max-width:500px}
-.ap-bio-hero p{margin:0 0 12px}
-.ap-bio-hero p:last-child{margin-bottom:0}
 
-/* Articles section */
-.ap-articles-section{margin-top:48px}
-.ap-articles-heading{font-size:1.5rem;font-weight:700;color:var(--heading,#1e293b);
-  margin:0 0 24px;padding-bottom:16px;border-bottom:2px solid var(--accent,#4338ca)}
+/* Tabs */
+.ap-tabs{display:flex;border-bottom:1px solid var(--border,#e2e8f0);margin-bottom:32px}
+.ap-tab{padding:14px 22px;background:none;border:none;
+  border-bottom:2px solid transparent;font-family:inherit;
+  font-size:.88rem;font-weight:600;color:var(--muted,#64748b);
+  cursor:pointer;margin-bottom:-1px;transition:color .15s,border-color .15s}
+.ap-tab:hover{color:var(--heading,#1e293b)}
+.ap-tab-active{color:var(--heading,#1e293b);
+  border-bottom-color:var(--accent,#4338ca)}
+.ap-count{font-weight:400;color:var(--muted,#94a3b8)}
 
-.ap-articles{display:flex;flex-direction:column;gap:0}
+/* Panels */
+.ap-hidden{display:none}
+
+/* About panel */
+.ap-bio{font-size:.97rem;line-height:1.82;color:var(--text,#334155)}
+.ap-bio p{margin:0 0 18px}
+.ap-stats{display:flex;gap:48px;margin-top:36px;padding-top:28px;
+  border-top:1px solid var(--border,#e2e8f0)}
+.ap-stat{display:flex;flex-direction:column;gap:3px}
+.ap-stat-value{font-size:1.6rem;font-weight:800;color:var(--heading,#1e293b);
+  letter-spacing:-.02em}
+.ap-stat-label{font-size:.73rem;color:var(--muted,#94a3b8);
+  text-transform:uppercase;letter-spacing:.07em}
 
 /* Article cards */
 .ap-card{display:flex;gap:20px;padding:22px 0;
@@ -104,9 +141,22 @@
   .ap-photo,.ap-photo-fallback{width:110px;height:110px}
   .ap-photo-fallback{font-size:2.2rem}
   .ap-name{font-size:2rem}
-  .ap-bio-hero{max-width:none}
+  .ap-summary{max-width:none}
   .ap-card-thumb{width:90px;height:62px}
 }
 </style>
 
+<script>
+(function(){
+  var tabs=document.querySelectorAll('.ap-tab');
+  tabs.forEach(function(t){
+    t.addEventListener('click',function(){
+      tabs.forEach(function(x){x.classList.remove('ap-tab-active');x.setAttribute('aria-selected','false');});
+      this.classList.add('ap-tab-active');this.setAttribute('aria-selected','true');
+      document.querySelectorAll('.ap-panel').forEach(function(p){p.classList.add('ap-hidden');});
+      document.getElementById(this.dataset.tab).classList.remove('ap-hidden');
+    });
+  });
+})();
+</script>
 {{ end }}
