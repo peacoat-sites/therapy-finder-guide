@@ -145,7 +145,15 @@
       {{ if .Params.image }}<a class="share-btn share-pinterest" href="https://pinterest.com/pin/create/button/?url={{ .Permalink | absURL | urlquery }}&media={{ .Params.image | absURL | urlquery }}&description={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Pin on Pinterest">P</a>{{ end }}
     </div>
 
-  </article>
+  
+<!-- AI Disclosure -->
+<div class="ai-disclosure">
+  <p>This article was produced with assistance from AI tools and reviewed by
+    {{ if .Params.author }}<a href="/authors/{{ .Params.author | urlize }}/">{{ .Params.author }}</a>{{ else }}our editorial team{{ end }}.
+  </p>
+</div>
+
+</article>
 
   <!-- ── STICKY SIDEBAR (articles only) ── -->
   <aside class="sidebar">
@@ -240,7 +248,15 @@
     <div class="post-content">
       {{ .Content }}
     </div>
-  </article>
+  
+<!-- AI Disclosure -->
+<div class="ai-disclosure">
+  <p>This article was produced with assistance from AI tools and reviewed by
+    {{ if .Params.author }}<a href="/authors/{{ .Params.author | urlize }}/">{{ .Params.author }}</a>{{ else }}our editorial team{{ end }}.
+  </p>
+</div>
+
+</article>
 </div>
 
 {{- end }}
