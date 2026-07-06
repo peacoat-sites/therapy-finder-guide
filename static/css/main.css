@@ -213,9 +213,9 @@ a { color: inherit; text-decoration: none; }
   backdrop-filter: blur(4px);
 }
 .hero-feature-badge-depth {
-  background: rgba(201,168,76,0.3);
-  border: 1px solid rgba(201,168,76,0.5);
-  color: #ffd700;
+  background: #c9a84c;
+  border: 1px solid rgba(0,0,0,0.12);
+  color: #2b2205;
 }
 .hero-feature-label {
   font-size: 10px;
