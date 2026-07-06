@@ -30,7 +30,7 @@
     <span class="post-cat">{{ partial "topic-label.html" (index .Params.categories 0) }}</span>
     {{ end }}
     <h1 class="post-title">{{ .Title }}</h1>
-    <div class="post-meta" style="justify-content:space-between;align-items:center">
+    <div class="post-meta" style="justify-content:space-between;align-items:center;margin-top:16px">
       <div class="post-meta-main" style="display:flex;align-items:center;flex-wrap:wrap;gap:10px">
       {{ with .Params.author }}<span class="post-author" style="display:inline-flex;align-items:center;gap:6px">By <a href="/{{ $.Params.author_slug | default (urlize .) }}/" rel="author" style="display:inline-flex;align-items:center;gap:6px;color:inherit;font-weight:600;text-decoration:none"><img src="/img/authors/{{ $.Params.author_slug | default (urlize .) }}.jpg" alt="{{ . }}" style="width:22px;height:22px;border-radius:50%;object-fit:cover;flex-shrink:0">{{ . }}</a></span>{{ end }}
       <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
@@ -59,7 +59,7 @@
 
     <!-- Featured Hero Image — same image shown on the article card -->
     {{ if .Params.image }}
-    <div class="post-featured-image" style="margin-bottom:12px">
+    <div class="post-featured-image" style="margin-bottom:20px">
       <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" fetchpriority="high" style="width:100%;max-height:480px;object-fit:cover;border-radius:var(--radius)">
     </div>
     {{ end }}
