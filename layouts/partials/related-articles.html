@@ -5,71 +5,26 @@
 {{ with $related }}
 <section class="related-articles-inline">
   <h3>Related Articles</h3>
-  <div class="related-articles-cards">
+  <div class="rai-grid">
     {{ range . }}
-    <a href="{{ .Permalink }}" class="article-card">
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="article-card-image" />{{ end }}
-      <div class="article-card-content">
-        <h4 class="article-card-title">{{ .Title }}</h4>
-        <span class="article-card-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+    <a href="{{ .Permalink }}" class="rai-card">
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="rai-thumb" loading="lazy" />{{ end }}
+      <div class="rai-body">
+        <h4 class="rai-title">{{ .Title }}</h4>
+        <span class="rai-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
       </div>
     </a>
     {{ end }}
   </div>
 
   <style>
-  .related-articles-cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 16px;
-    margin-top: 16px;
-  }
-
-  .article-card {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    padding: 8px;
-    border-radius: 6px;
-    text-decoration: none;
-    color: inherit;
-    transition: background 0.2s;
-    border: 1px solid var(--border, #e2e8f0);
-  }
-
-  .article-card:hover {
-    background: var(--surface2, #f5f2ec);
-  }
-
-  .article-card-image {
-    width: 100%;
-    height: 120px;
-    object-fit: cover;
-    border-radius: 4px;
-  }
-
-  .article-card-content {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-  }
-
-  .article-card-title {
-    font-size: 0.95rem;
-    font-weight: 600;
-    color: var(--text, #1c1917);
-    margin: 0;
-    line-height: 1.3;
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 2;
-    overflow: hidden;
-  }
-
-  .article-card-time {
-    font-size: 0.8rem;
-    color: var(--muted, #a8a29e);
-  }
+  .rai-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px;margin-top:16px}
+  .rai-card{display:grid;grid-template-columns:70px 1fr;gap:12px;align-items:center;padding:8px;border-radius:8px;border:1px solid var(--border,#e7e5e4);background:var(--surface,#fff);text-decoration:none;color:inherit;transition:background .2s,transform .2s}
+  .rai-card:hover{transform:translateY(-1px);background:var(--surface2,#f5f2ec)}
+  .rai-thumb{width:70px;height:50px;object-fit:cover;border-radius:5px}
+  .rai-body{display:flex;flex-direction:column;gap:3px;min-width:0}
+  .rai-title{font-size:.88rem;font-weight:600;color:var(--text,#1c1917);margin:0;line-height:1.3;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+  .rai-time{font-size:.76rem;color:var(--muted,#a8a29e)}
   </style>
 </section>
 {{ end }}
