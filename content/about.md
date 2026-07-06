@@ -7,6 +7,7 @@ description: "About Therapy Finder Guide,  meet Megan Strand and learn how we he
 layout: "about-page"
 author_slug: "alex-morgan"
 author_name: "Therapy Finder Guide"
+person_name: "Megan Strand"
 ---
 
 ## About Therapy Finder Guide
