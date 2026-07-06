@@ -241,12 +241,27 @@
         </div>
         <div class="widget">
           <div class="widget-title">Recent Articles</div>
-          <ul class="widget-list">
+          <div class="ra-list">
             {{ range first 6 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            <a href="{{ .RelPermalink }}" class="ra-card">
+              {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" loading="lazy" />{{ end }}
+              <div class="ra-body">
+                <h4 class="ra-title">{{ .Title }}</h4>
+                <span class="ra-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+              </div>
+            </a>
             {{ end }}
-          </ul>
+          </div>
         </div>
+        <style>
+          .ra-list{display:flex;flex-direction:column;gap:10px}
+          .ra-card{display:grid;grid-template-columns:70px 1fr;gap:12px;align-items:center;padding:8px;border-radius:8px;border:1px solid var(--border,#e7e5e4);background:var(--surface,#fff);text-decoration:none;color:inherit;transition:background .2s,transform .2s}
+          .ra-card:hover{transform:translateY(-1px);background:var(--surface2,#f5f2ec)}
+          .ra-thumb{width:70px;height:50px;object-fit:cover;border-radius:5px}
+          .ra-body{display:flex;flex-direction:column;gap:3px;min-width:0}
+          .ra-title{font-size:.88rem;font-weight:600;color:var(--text,#1c1917);margin:0;line-height:1.3;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+          .ra-time{font-size:.76rem;color:var(--muted,#a8a29e)}
+        </style>
       </aside>
 
     </div>
