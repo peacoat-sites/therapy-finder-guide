@@ -4,10 +4,11 @@
 {{ if $slug }}
 <div class="about-hero">
   <div class="about-photo-wrap">
-    <img class="about-photo" src="/img/authors/{{ $slug }}.jpg" alt="{{ .Params.author_name }}"
+    <img class="about-photo" src="/img/authors/{{ $slug }}.jpg" alt="{{ .Params.person_name | default .Params.author_name }}"
          onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-    <div class="about-photo-fallback" aria-hidden="true">{{ substr .Params.author_name 0 1 | upper }}</div>
+    <div class="about-photo-fallback" aria-hidden="true">{{ substr (.Params.person_name | default .Params.author_name) 0 1 | upper }}</div>
   </div>
+  {{ with .Params.person_name }}<div class="about-name">{{ . }}</div>{{ end }}
 </div>
 {{ end }}
 
@@ -20,10 +21,20 @@
 <style>
 .about-hero {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 18px;
   padding: 60px 24px 40px;
   background: var(--bg, #fff);
+}
+
+.about-name {
+  font-family: var(--serif);
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--heading, #1e293b);
+  text-align: center;
 }
 
 .about-photo-wrap {
