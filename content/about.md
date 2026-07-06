@@ -4,7 +4,9 @@ hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Therapy Finder Guide,  meet Megan Strand and learn how we help people find and afford therapy."
----
+layout: "about-page"
+author_slug: "therapy-finder-guide"
+author_name: "Therapy Finder Guide"---
 
 ## About Therapy Finder Guide
 
