@@ -212,11 +212,11 @@
         {{- end -}}
         {{- range $candidates -}}
           {{- if ne .Permalink $currentPermalink -}}
-          <a href="{{ .Permalink }}" class="article-card">
-            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="article-card-image" />{{ end }}
-            <div class="article-card-content">
-              <h4 class="article-card-title">{{ .Title }}</h4>
-              <span class="article-card-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+          <a href="{{ .Permalink }}" class="ra-card">
+            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" />{{ end }}
+            <div class="ra-body">
+              <h4 class="ra-title">{{ .Title }}</h4>
+              <span class="ra-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
             </div>
           </a>
           {{- end -}}
@@ -259,11 +259,11 @@
         {{ $currentPermalink := $.Permalink }}
         {{ range ($authorPosts | first 6) }}
           {{ if ne .Permalink $currentPermalink }}
-          <a href="{{ .RelPermalink }}" class="author-article-card">
-            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="author-article-image" />{{ end }}
-            <div class="author-article-content">
-              <h4 class="author-article-title">{{ .Title }}</h4>
-              <span class="author-article-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+          <a href="{{ .RelPermalink }}" class="ra-card">
+            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" />{{ end }}
+            <div class="ra-body">
+              <h4 class="ra-title">{{ .Title }}</h4>
+              <span class="ra-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
             </div>
           </a>
           {{ end }}
@@ -293,7 +293,7 @@
       </div>
     </div>
     <style>
-      .recent-articles{display:flex;flex-direction:column;gap:10px}
+      .recent-articles,.related-articles,.author-articles{display:flex;flex-direction:column;gap:10px}
       .ra-card{display:grid;grid-template-columns:70px 1fr;gap:12px;align-items:center;padding:8px;border-radius:8px;border:1px solid var(--border,#e7e5e4);background:var(--surface,#fff);text-decoration:none;color:inherit;transition:background .2s,transform .2s}
       .ra-card:hover{transform:translateY(-1px);background:var(--surface2,#f5f2ec)}
       .ra-thumb{width:70px;height:50px;object-fit:cover;border-radius:5px}
