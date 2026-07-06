@@ -2,10 +2,10 @@
 
 {{- if eq .Section "posts" -}}
 
-{{/* ════════════════════════════════════════════════════════
+{{/* ════════════════════════════════════════════════════════════
      ARTICLE PAGES  (content/posts/*)
      Full layout: featured hero image + header + sidebar + ads
-     ════════════════════════════════════════════════════════ */}}
+     ════════════════════════════════════════════════════════════ */}}
 
 <div class="post-wrap">
   {{ $tocRail := .TableOfContents }}
@@ -139,7 +139,8 @@
     </div>
     {{ end }}
 
-    {{ partial "related-articles.html" . }}
+    {{ partial "audible-cta.html" . }}
+  {{ partial "related-articles.html" . }}
 
     <!-- In-article Ad -->
     {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_incontent (ne .Site.Params.adsense_slot_incontent "auto") }}
@@ -197,7 +198,7 @@
     <!-- Related Articles widget — reliable recent-posts fallback -->
     <div class="widget">
       <div class="widget-title">Related Articles</div>
-      <ul class="widget-list">
+      <div class="related-articles">
         {{- $currentPermalink := .Permalink -}}
         {{- $allPosts := where .Site.RegularPages "Section" "posts" -}}
         {{- $sameCat := slice -}}
@@ -211,15 +212,16 @@
         {{- end -}}
         {{- range $candidates -}}
           {{- if ne .Permalink $currentPermalink -}}
-          <li>
-            <a href="{{ .Permalink }}">
-              {{ .Title }}
-              <span>{{ (int (math.Round (div .WordCount 450.0))) }} min</span>
-            </a>
-          </li>
+          <a href="{{ .Permalink }}" class="article-card">
+            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="article-card-image" />{{ end }}
+            <div class="article-card-content">
+              <h4 class="article-card-title">{{ .Title }}</h4>
+              <span class="article-card-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+            </div>
+          </a>
           {{- end -}}
         {{- end -}}
-      </ul>
+      </div>
     </div>
 
     <!-- Sidebar Ad -->
@@ -272,17 +274,18 @@
     {{ end }}
     {{ end }}
 
+    <!-- Recent Articles -->
     <div class="widget">
       <div class="widget-title">Recent Articles</div>
       <div class="recent-articles">
-        {{ $currentPermalink := .Permalink }}
-        {{ range first 6 (where .Site.RegularPages "Section" "posts") }}
-        {{ if ne .Permalink $currentPermalink }}
-        <a href="{{ .RelPermalink }}" class="article-card">
-          {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="article-card-image" loading="lazy" />{{ end }}
-          <div class="article-card-content">
-            <h4 class="article-card-title">{{ .Title }}</h4>
-            <span class="article-card-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+        {{ $raCurrent := .Permalink }}
+        {{ range first 6 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+        {{ if ne .Permalink $raCurrent }}
+        <a href="{{ .RelPermalink }}" class="ra-card">
+          {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" loading="lazy" />{{ end }}
+          <div class="ra-body">
+            <h4 class="ra-title">{{ .Title }}</h4>
+            <span class="ra-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
           </div>
         </a>
         {{ end }}
@@ -290,21 +293,13 @@
       </div>
     </div>
     <style>
-      .recent-articles{display:flex;flex-direction:column;gap:12px}
-      .article-card{display:grid;grid-template-columns:70px 1fr;gap:12px;align-items:start;padding:6px;border-radius:6px;text-decoration:none;color:inherit;transition:background .2s}
-      .article-card:hover{background:var(--surface2,#f5f2ec)}
-      .article-card-image{width:70px;height:50px;object-fit:cover;border-radius:4px}
-      .article-card-content{display:flex;flex-direction:column;gap:4px}
-      .article-card-title{font-size:.9rem;font-weight:600;color:var(--text,#1c1917);margin:0;line-height:1.3;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
-      .article-card-time{font-size:.78rem;color:var(--muted,#a8a29e)}
-      .author-articles{display:flex;flex-direction:column;gap:12px}
-      .author-article-card{display:grid;grid-template-columns:70px 1fr;gap:12px;align-items:start;padding:6px;border-radius:6px;text-decoration:none;color:inherit;transition:background .2s}
-      .author-article-card:hover{background:var(--surface2,#f5f2ec)}
-      .author-article-image{width:70px;height:50px;object-fit:cover;border-radius:4px}
-      .author-article-content{display:flex;flex-direction:column;gap:4px}
-      .author-article-title{font-size:.9rem;font-weight:600;color:var(--text,#1c1917);margin:0;line-height:1.3;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
-      .author-article-time{font-size:.78rem;color:var(--muted,#a8a29e)}
-      .view-all-link{display:inline-block;margin-top:10px;font-size:.85rem;font-weight:600;color:var(--accent,#4338ca);text-decoration:none}
+      .recent-articles{display:flex;flex-direction:column;gap:10px}
+      .ra-card{display:grid;grid-template-columns:70px 1fr;gap:12px;align-items:center;padding:8px;border-radius:8px;border:1px solid var(--border,#e7e5e4);background:var(--surface,#fff);text-decoration:none;color:inherit;transition:background .2s,transform .2s}
+      .ra-card:hover{transform:translateY(-1px);background:var(--surface2,#f5f2ec)}
+      .ra-thumb{width:70px;height:50px;object-fit:cover;border-radius:5px}
+      .ra-body{display:flex;flex-direction:column;gap:3px;min-width:0}
+      .ra-title{font-size:.88rem;font-weight:600;color:var(--text,#1c1917);margin:0;line-height:1.3;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+      .ra-time{font-size:.76rem;color:var(--muted,#a8a29e)}
     </style>
 
   </aside>
@@ -322,10 +317,10 @@
 {{ partial "amazon-products.html" . }}
 {{- else -}}
 
-{{/* ════════════════════════════════════════════════════════
+{{/* ════════════════════════════════════════════════════════════
      NON-ARTICLE PAGES  (about, contact, privacy, etc.)
      Clean single-column — no ads, no read time, no date, no CTA
-     ════════════════════════════════════════════════════════ */}}
+     ════════════════════════════════════════════════════════════ */}}
 
 <div class="page-wrap">
   <div class="page-content">
