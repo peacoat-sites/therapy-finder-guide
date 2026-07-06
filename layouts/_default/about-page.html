@@ -1,0 +1,115 @@
+{{ define "main" }}
+{{ $slug := .Params.author_slug }}
+
+{{ if $slug }}
+<div class="about-hero">
+  <div class="about-photo-wrap">
+    <img class="about-photo" src="/img/authors/{{ $slug }}.jpg" alt="{{ .Params.author_name }}"
+         onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+    <div class="about-photo-fallback" aria-hidden="true">{{ substr .Params.author_name 0 1 | upper }}</div>
+  </div>
+</div>
+{{ end }}
+
+<article class="about-content">
+  <div class="about-wrap">
+    {{ .Content }}
+  </div>
+</article>
+
+<style>
+.about-hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 24px 40px;
+  background: var(--bg, #fff);
+}
+
+.about-photo-wrap {
+  flex-shrink: 0;
+}
+
+.about-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+}
+
+.about-photo-fallback {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: var(--accent, #4338ca);
+  color: #fff;
+  font-size: 4rem;
+  font-weight: 800;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-content {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0 24px 80px;
+}
+
+.about-wrap {
+  font-size: 0.97rem;
+  line-height: 1.82;
+  color: var(--text, #334155);
+}
+
+.about-wrap h1,
+.about-wrap h2 {
+  margin: 32px 0 18px;
+  font-weight: 700;
+  color: var(--heading, #1e293b);
+}
+
+.about-wrap h1 {
+  font-size: 1.8rem;
+}
+
+.about-wrap h2 {
+  font-size: 1.3rem;
+}
+
+.about-wrap p {
+  margin: 0 0 18px;
+}
+
+.about-wrap ul,
+.about-wrap ol {
+  margin: 0 0 18px 24px;
+}
+
+.about-wrap li {
+  margin: 0 0 8px;
+}
+
+@media (max-width: 600px) {
+  .about-hero {
+    padding: 40px 24px 30px;
+  }
+
+  .about-photo,
+  .about-photo-fallback {
+    width: 140px;
+    height: 140px;
+  }
+
+  .about-photo-fallback {
+    font-size: 2.8rem;
+  }
+
+  .about-content {
+    padding: 0 24px 60px;
+  }
+}
+</style>
+{{ end }}
