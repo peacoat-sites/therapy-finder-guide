@@ -235,7 +235,7 @@
           <div class="widget-title">Browse Topics</div>
           <ul class="widget-list">
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <li><a href="/categories/{{ $name | urlize }}/">{{ partial "topic-label.html" $name }} <span>({{ len $taxonomy }})</span></a></li>
+            <li><a href="/categories/{{ $name | urlize }}/">{{ partial "topic-label.html" $name }}</a></li>
             {{ end }}
           </ul>
         </div>
