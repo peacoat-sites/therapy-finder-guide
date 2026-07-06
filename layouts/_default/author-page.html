@@ -3,11 +3,8 @@
 {{ $slug     := .Params.author_slug }}
 {{ $title    := .Params.author_title }}
 {{ $spec     := .Params.author_specialty }}
-{{ $articles := where site.RegularPages "Params.author" $name }}
 
 <div class="ap-wrap">
-
-  {{/* â”€â”€ Hero â”€â”€ */}}
   <div class="ap-hero">
     <div class="ap-photo-wrap">
       <img class="ap-photo" src="/img/authors/{{ $slug }}.jpg" alt="{{ $name }}"
@@ -18,145 +15,28 @@
       <h1 class="ap-name">{{ $name }}</h1>
       <p class="ap-title-label">{{ $title }}</p>
       {{ with $spec }}<p class="ap-spec">{{ . }}</p>{{ end }}
-      {{ if .Content }}
-      <p class="ap-summary">{{ .Content | plainify | truncate 220 }}</p>
-      {{ end }}
+      {{ if .Content }}<p class="ap-summary">{{ .Content | plainify | truncate 220 }}</p>{{ end }}
     </div>
   </div>
-
-  {{/* â”€â”€ Tabs â”€â”€ */}}
-  <div class="ap-tabs" role="tablist">
-    <button class="ap-tab ap-tab-active" data-tab="ap-about" role="tab" aria-selected="true">About</button>
-    <button class="ap-tab" data-tab="ap-articles" role="tab" aria-selected="false">
-      Latest <span class="ap-count">({{ len $articles }})</span>
-    </button>
-  </div>
-
-  {{/* â”€â”€ About panel â”€â”€ */}}
-  <div class="ap-panel" id="ap-about">
-    <div class="ap-bio">{{ .Content }}</div>
-    {{ if $articles }}
-    <div class="ap-stats">
-      <div class="ap-stat">
-        <span class="ap-stat-value">{{ len $articles }}</span>
-        <span class="ap-stat-label">Articles</span>
-      </div>
-      {{ $sorted := sort $articles "PublishDate" "asc" }}
-      <div class="ap-stat">
-        <span class="ap-stat-value">{{ (index $sorted 0).PublishDate.Format "Jan 2006" }}</span>
-        <span class="ap-stat-label">Writing since</span>
-      </div>
-    </div>
-    {{ end }}
-  </div>
-
-  {{/* â”€â”€ Latest panel â”€â”€ */}}
-  <div class="ap-panel ap-hidden" id="ap-articles">
-    {{ range sort $articles "PublishDate" "desc" }}
-    <a href="{{ .RelPermalink }}" class="ap-card">
-      <div class="ap-card-body">
-        <time class="ap-card-date">{{ .PublishDate.Format "January 2, 2006" }}</time>
-        <h3 class="ap-card-title">{{ .Title }}</h3>
-        <p class="ap-card-excerpt">{{ .Summary | plainify | truncate 130 }}</p>
-        <span class="ap-card-meta">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
-      </div>
-      {{ if .Params.image }}
-      <div class="ap-card-thumb">
-        <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
-      </div>
-      {{ end }}
-    </a>
-    {{ end }}
-  </div>
-
 </div>
 
 <style>
 .ap-wrap{max-width:780px;margin:0 auto;padding:52px 24px 80px}
-
-/* Hero */
 .ap-hero{display:flex;gap:36px;align-items:flex-start;margin-bottom:0;padding-bottom:36px}
 .ap-photo-wrap{flex-shrink:0}
-.ap-photo{width:160px;height:160px;border-radius:50%;object-fit:cover;display:block;
-  box-shadow:0 2px 16px rgba(0,0,0,.10)}
-.ap-photo-fallback{width:160px;height:160px;border-radius:50%;
-  background:var(--accent,#4338ca);color:#fff;
-  font-size:3rem;font-weight:800;display:none;
-  align-items:center;justify-content:center}
+.ap-photo{width:160px;height:160px;border-radius:50%;object-fit:cover;display:block;box-shadow:0 2px 16px rgba(0,0,0,.10)}
+.ap-photo-fallback{width:160px;height:160px;border-radius:50%;background:var(--accent,#4338ca);color:#fff;font-size:3rem;font-weight:800;display:none;align-items:center;justify-content:center}
 .ap-hero-info{flex:1;padding-top:4px}
-.ap-name{font-size:2.6rem;font-weight:800;color:var(--heading,#1e293b);
-  margin:0 0 10px;line-height:1.05;letter-spacing:-.025em}
-.ap-title-label{font-size:.8rem;font-weight:700;color:var(--accent,#4338ca);
-  text-transform:uppercase;letter-spacing:.1em;margin:0 0 6px}
+.ap-name{font-size:2.6rem;font-weight:800;color:var(--heading,#1e293b);margin:0 0 10px;line-height:1.05;letter-spacing:-.025em}
+.ap-title-label{font-size:.8rem;font-weight:700;color:var(--accent,#4338ca);text-transform:uppercase;letter-spacing:.1em;margin:0 0 6px}
 .ap-spec{font-size:.9rem;color:var(--muted,#64748b);margin:0 0 16px}
-.ap-summary{font-size:.95rem;color:var(--text,#334155);line-height:1.7;
-  margin:0;max-width:500px}
-
-/* Tabs */
-.ap-tabs{display:flex;border-bottom:1px solid var(--border,#e2e8f0);margin-bottom:32px}
-.ap-tab{padding:14px 22px;background:none;border:none;
-  border-bottom:2px solid transparent;font-family:inherit;
-  font-size:.88rem;font-weight:600;color:var(--muted,#64748b);
-  cursor:pointer;margin-bottom:-1px;transition:color .15s,border-color .15s}
-.ap-tab:hover{color:var(--heading,#1e293b)}
-.ap-tab-active{color:var(--heading,#1e293b);
-  border-bottom-color:var(--accent,#4338ca)}
-.ap-count{font-weight:400;color:var(--muted,#94a3b8)}
-
-/* Panels */
-.ap-hidden{display:none}
-
-/* About panel */
-.ap-bio{font-size:.97rem;line-height:1.82;color:var(--text,#334155)}
-.ap-bio p{margin:0 0 18px}
-.ap-stats{display:flex;gap:48px;margin-top:36px;padding-top:28px;
-  border-top:1px solid var(--border,#e2e8f0)}
-.ap-stat{display:flex;flex-direction:column;gap:3px}
-.ap-stat-value{font-size:1.6rem;font-weight:800;color:var(--heading,#1e293b);
-  letter-spacing:-.02em}
-.ap-stat-label{font-size:.73rem;color:var(--muted,#94a3b8);
-  text-transform:uppercase;letter-spacing:.07em}
-
-/* Article cards */
-.ap-card{display:flex;gap:20px;padding:22px 0;
-  border-bottom:1px solid var(--border,#e2e8f0);
-  text-decoration:none;color:inherit;transition:opacity .15s}
-.ap-card:first-child{border-top:1px solid var(--border,#e2e8f0)}
-.ap-card:hover .ap-card-title{color:var(--accent,#4338ca)}
-.ap-card-body{flex:1}
-.ap-card-date{font-size:.73rem;color:var(--muted,#94a3b8);display:block;
-  margin-bottom:7px;text-transform:uppercase;letter-spacing:.05em}
-.ap-card-title{font-size:1.08rem;font-weight:700;
-  color:var(--heading,#1e293b);margin:0 0 7px;line-height:1.3;
-  transition:color .15s}
-.ap-card-excerpt{font-size:.85rem;color:var(--muted,#64748b);
-  margin:0 0 9px;line-height:1.55}
-.ap-card-meta{font-size:.73rem;color:var(--muted,#94a3b8)}
-.ap-card-thumb{flex-shrink:0;width:130px;height:88px;align-self:center}
-.ap-card-thumb img{width:100%;height:100%;object-fit:cover;
-  border-radius:6px;display:block}
-
+.ap-summary{font-size:.95rem;color:var(--text,#334155);line-height:1.7;margin:0;max-width:500px}
 @media(max-width:600px){
   .ap-hero{flex-direction:column;align-items:center;text-align:center;gap:18px}
   .ap-photo,.ap-photo-fallback{width:110px;height:110px}
   .ap-photo-fallback{font-size:2.2rem}
   .ap-name{font-size:2rem}
   .ap-summary{max-width:none}
-  .ap-card-thumb{width:90px;height:62px}
 }
 </style>
-
-<script>
-(function(){
-  var tabs=document.querySelectorAll('.ap-tab');
-  tabs.forEach(function(t){
-    t.addEventListener('click',function(){
-      tabs.forEach(function(x){x.classList.remove('ap-tab-active');x.setAttribute('aria-selected','false');});
-      this.classList.add('ap-tab-active');this.setAttribute('aria-selected','true');
-      document.querySelectorAll('.ap-panel').forEach(function(p){p.classList.add('ap-hidden');});
-      document.getElementById(this.dataset.tab).classList.remove('ap-hidden');
-    });
-  });
-})();
-</script>
 {{ end }}
