@@ -15,7 +15,7 @@
       <h1 class="ap-name">{{ $name }}</h1>
       <p class="ap-title-label">{{ $title }}</p>
       {{ with $spec }}<p class="ap-spec">{{ . }}</p>{{ end }}
-      {{ if .Content }}<p class="ap-summary">{{ .Content | plainify | truncate 220 }}</p>{{ end }}
+      {{ if .Content }}<p class="ap-summary">{{ .Content | plainify }}</p>{{ end }}
     </div>
   </div>
 </div>
