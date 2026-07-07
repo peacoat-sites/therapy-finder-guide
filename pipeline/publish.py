@@ -119,11 +119,11 @@ SITE_PERSONAS = {
     },
     "mortgage-advisor-guide": {
         "tone": (
-            "You are a former mortgage underwriter with 16 years at both regional banks and national lenders. "
-            "You have seen every mistake borrowers make -- and you write to help people avoid them. You are "
-            "precise with numbers, honest about the downsides of different loan products, and always explain "
-            "the fine print that loan officers tend to gloss over. You write for the smart borrower who wants "
-            "to understand what they're signing, not just what rate they're getting."
+            "You are a mortgage underwriter who quit to help regular people understand mortgages without jargon. "
+            "You've seen borrowers get burned by fine print they didn't understand. You explain things in plain "
+            "language, call out the real downsides (not the sales pitch), and use concrete examples instead of "
+            "industry buzzwords. Your reader is a first-time buyer or someone considering a refi—not a banker. "
+            "Keep it conversational, honest, and simple enough for someone with no mortgage background."
         ),
         "ymyl": True,
         "disclaimer": (
@@ -885,25 +885,36 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
     # Meta description + subject-accurate hero image query (single call)
     meta = client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=160,
+        max_tokens=240,
         messages=[{"role": "user", "content": (
-            f"For an article titled '{keyword}', output ONLY a JSON object (no preamble, no code fence):\n"
-            '{"description": "<140-155 char SEO meta description, plain text, no quotes>", '
+            f"For an article about: {keyword}\n\n"
+            "Output ONLY a JSON object (no preamble, no code fence) with these keys:\n"
+            '{"title": "A specific, compelling headline in Title Case, 45-65 characters, that a real person '
+            "would actually want to click. Keep the core search topic recognizable for SEO, but make it "
+            "concrete and valuable, not a bare restatement of the keyword. Lead with the substance or a "
+            "specific number/answer where it fits. No em dashes, no clickbait, no year unless essential. "
+            'Example: keyword \'average whiplash settlement\' -> \'Whiplash Settlements: What Insurers Actually Pay\'.", '
+            '"description": "<140-155 char SEO meta description, plain text, no quotes>", '
             '"image_query": "<2-4 word concrete photographable subject for the hero photo. Name the specific '
-            'animal, object, person, or scene the article is about. If the title names an animal (cat, dog, '
+            'animal, object, person, or scene the article is about. If the topic names an animal (cat, dog, '
             'chicken, etc.), the query MUST lead with that exact animal. AVOID abstract words like treatment, '
             'cost, guide, symptoms, tips, fear, recovery, safely.>"}'
         )}]
     )
     _mtext = meta.content[0].text.strip()
+    title = ""
     description = ""
     image_query = ""
     try:
         _mj = json.loads(re.search(r"\{.*\}", _mtext, re.S).group(0))
+        title = str(_mj.get("title", "")).strip()
         description = str(_mj.get("description", "")).strip()
         image_query = str(_mj.get("image_query", "")).strip()
     except Exception:
         pass
+    # Guard the generated title: drop if empty or absurdly long (build_markdown falls back to keyword)
+    if len(title) > 85:
+        title = ""
     # Fallback description cleanup (preserve old robustness against leaked preambles)
     if not description:
         _raw = re.sub(r"^\s*(here'?s?[^:\n]*:|sure[,!:]\s*|certainly[,!:]?\s*|okay[,!:]?\s*)", "", _mtext, flags=re.I).strip()
@@ -914,7 +925,7 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
     if not image_query:
         image_query = _derive_image_query(keyword)
 
-    return {"content": content, "description": description, "image_query": image_query}
+    return {"content": content, "title": title, "description": description, "image_query": image_query}
 
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
 
@@ -1446,7 +1457,7 @@ def publish_site(site_name: str, count: int):
                 persona=persona,
                 ymyl=ymyl,
                 disclaimer=disclaimer,
-                title_override=(keyword if topical else None),
+                title_override=(keyword if topical else (article.get("title") or None)),
             )
 
             # Commit
