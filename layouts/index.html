@@ -29,6 +29,23 @@
         <a href="/posts/" class="btn-hero-primary">Browse All Articles</a>
         <a href="/search/" class="btn-hero-ghost">Search Articles</a>
       </div>
+      {{ with .Site.Data.tools }}{{ if . }}
+      <div class="hero-tools">
+        <span class="hero-tools-label">Free Tools &amp; Calculators</span>
+        <div class="hero-tools-chips">
+          {{ range . }}<a href="{{ .url }}" class="hero-tool-chip"><span class="htc-ic" aria-hidden="true">{{ .icon }}</span>{{ .label }}</a>{{ end }}
+        </div>
+      </div>
+      <style>
+      .hero-tools{margin-top:22px}
+      .hero-tools-label{display:block;font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.72);margin-bottom:10px}
+      .hero-tools-chips{display:flex;flex-wrap:wrap;gap:8px}
+      .hero-tool-chip{display:inline-flex;align-items:center;gap:6px;padding:7px 13px;border-radius:999px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.24);color:#fff;font-size:.82rem;font-weight:600;text-decoration:none;backdrop-filter:blur(4px);transition:background .18s,transform .18s}
+      .hero-tool-chip:hover{background:rgba(255,255,255,.24);transform:translateY(-1px)}
+      .htc-ic{font-size:.95rem;line-height:1}
+      @media(max-width:900px){.hero-tools{text-align:center}.hero-tools-chips{justify-content:center}}
+      </style>
+      {{ end }}{{ end }}
     </div>
 
     {{/* Hero carousel — up to 6 recent articles with images */}}
