@@ -109,6 +109,24 @@
 </script>
 {{ end }}
 
+<!-- FAQPage schema -->
+{{- if and (eq .Type "posts") .Params.faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $f := .Params.faqs }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $f.q }}",
+      "acceptedAnswer": { "@type": "Answer", "text": "{{ $f.a }}" }
+    }{{- end }}
+  ]
+}
+</script>
+{{- end }}
+
 {{- if eq .Params.layout "author-page" }}
 <script type="application/ld+json">
 {
