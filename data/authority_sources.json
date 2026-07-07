@@ -1,0 +1,22 @@
+[
+ {
+  "name": "National Institute of Mental Health",
+  "url": "https://www.nimh.nih.gov/",
+  "note": "Mental-health research"
+ },
+ {
+  "name": "SAMHSA",
+  "url": "https://www.samhsa.gov/",
+  "note": "Treatment and support services"
+ },
+ {
+  "name": "American Psychological Association",
+  "url": "https://www.apa.org/",
+  "note": "Psychology resources"
+ },
+ {
+  "name": "988 Suicide & Crisis Lifeline",
+  "url": "https://988lifeline.org/",
+  "note": "24/7 crisis support"
+ }
+]

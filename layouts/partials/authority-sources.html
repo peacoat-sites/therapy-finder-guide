@@ -1,0 +1,11 @@
+{{- with .Site.Data.authority_sources }}
+<section class="authority-sources" aria-label="Authoritative sources and further reading">
+  <h2 class="authority-sources-title">Authoritative Sources &amp; Further Reading</h2>
+  <p class="authority-sources-intro">This guide draws on data and guidance from independent, authoritative organizations:</p>
+  <ul class="authority-sources-list">
+    {{- range . }}
+    <li><a href="{{ .url }}" target="_blank" rel="noopener nofollow">{{ .name }}</a>{{ with .note }} <span class="src-note">{{ . }}</span>{{ end }}</li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

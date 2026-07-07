@@ -123,6 +123,8 @@
     </div>
     {{- end }}
 
+    {{ partial "authority-sources.html" . }}
+
     <!-- Author Bio -->
     {{ with .Params.author }}
     {{ $slug := $.Params.author_slug | default (urlize .) }}
