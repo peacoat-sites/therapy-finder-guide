@@ -18,9 +18,32 @@
       {{ if .Content }}<p class="ap-summary">{{ .Content | plainify }}</p>{{ end }}
     </div>
   </div>
+  {{ $ap := where (where .Site.RegularPages "Section" "posts") "Params.author" $name }}
+  {{ with $ap }}
+  <div class="ap-articles">
+    <h2 class="ap-articles-title">Articles by {{ $name }}</h2>
+    <div class="ap-articles-grid">
+      {{ range first 12 .ByDate.Reverse }}
+      <a href="{{ .RelPermalink }}" class="ap-article">
+        {{ with .Params.image }}<div class="ap-article-img" style="background-image:url('{{ . }}')"></div>{{ end }}
+        <div class="ap-article-b"><h3 class="ap-article-t">{{ .Title }}</h3><span class="ap-article-m">{{ .ReadingTime }} min read</span></div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
 </div>
 
 <style>
+.ap-articles{margin-top:8px;padding-top:32px;border-top:1px solid var(--border,#e7e5e4)}
+.ap-articles-title{font-size:1.3rem;font-weight:700;color:var(--heading,#1e293b);margin:0 0 20px}
+.ap-articles-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:16px}
+.ap-article{display:flex;flex-direction:column;border:1px solid var(--border,#e7e5e4);border-radius:10px;overflow:hidden;text-decoration:none;color:inherit;background:var(--surface,#fff);transition:transform .15s,box-shadow .15s}
+.ap-article:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.08)}
+.ap-article-img{height:118px;background-size:cover;background-position:center;background-color:var(--surface2,#f5f2ec)}
+.ap-article-b{padding:12px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.ap-article-t{font-size:.95rem;font-weight:600;line-height:1.35;margin:0;color:var(--text,#1c1917)}
+.ap-article-m{font-size:.78rem;color:var(--muted,#a8a29e);margin-top:auto}
 .ap-wrap{max-width:780px;margin:0 auto;padding:52px 24px 80px}
 .ap-hero{display:flex;gap:36px;align-items:flex-start;margin-bottom:0;padding-bottom:36px}
 .ap-photo-wrap{flex-shrink:0}
