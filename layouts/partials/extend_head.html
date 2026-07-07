@@ -91,9 +91,11 @@
   "@type": "Person",
   "name": "{{ .Params.author_name | replaceRE "\"" "\\\"" }}",
   "url": "{{ .Permalink }}",
+  "image": "{{ (printf "img/authors/%s.jpg" .Params.author_slug) | absURL }}",
   "jobTitle": "{{ .Params.author_title | replaceRE "\"" "\\\"" }}"{{ with .Params.author_specialty }},
   "knowsAbout": "{{ . | replaceRE "\"" "\\\"" }}"{{ end }}{{ if .Content }},
-  "description": "{{ .Content | plainify | strings.TrimSpace | truncate 300 | replaceRE "\"" "\\\"" }}"{{ end }}
+  "description": "{{ .Content | plainify | strings.TrimSpace | truncate 300 | replaceRE "\"" "\\\"" }}"{{ end }},
+  "worksFor": { "@type": "Organization", "name": "{{ .Site.Title | replaceRE "\"" "\\\"" }}", "url": "{{ .Site.BaseURL }}" }
 }
 </script>
 {{- end }}
