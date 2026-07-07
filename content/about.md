@@ -3,11 +3,11 @@ title: "About Therapy Finder Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Therapy Finder Guide,  meet Megan Strand and learn how we help people find and afford therapy."
+description: "About Therapy Finder Guide,  meet Alex Morgan and learn how we help people find and afford therapy."
 layout: "about-page"
 author_slug: "alex-morgan"
 author_name: "Therapy Finder Guide"
-person_name: "Megan Strand"
+person_name: "Alex Morgan"
 ---
 
 ## About Therapy Finder Guide
@@ -16,11 +16,9 @@ Therapy Finder Guide is an independent resource to help people navigate the proc
 
 ## Meet the Editor
 
-**Megan Strand** is the editor behind Therapy Finder Guide.
+**Alex Morgan** is the editor behind Therapy Finder Guide.
 
-Megan spent years researching access to mental health care after seeing firsthand how confusing,  and discouraging,  the process of finding a therapist could be. The insurance confusion, the waitlists, the terminology, the cost uncertainty: there were so many friction points between someone deciding they wanted help and actually sitting in a therapy session.
-
-She writes practical guides to help people move through that process more confidently,  understanding what different therapy approaches actually involve, how to use insurance benefits for mental health, what teletherapy platforms offer, and how to find affordable care when insurance isn’t an option.
+Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy.
 
 ## What We Cover
 
@@ -32,7 +30,7 @@ We don’t refer to specific therapists or take referral fees. We don’t endors
 
 ## Important Disclaimer
 
-Therapy Finder Guide provides general mental health information only. Megan Strand is a writer and researcher,  not a licensed therapist, psychologist, or mental health professional. Nothing on this site is a substitute for professional mental health care.
+Therapy Finder Guide provides general mental health information only. Alex Morgan is a writer and researcher,  not a licensed therapist, psychologist, or mental health professional. Nothing on this site is a substitute for professional mental health care.
 
 **If you are in crisis, please contact the 988 Suicide & Crisis Lifeline by calling or texting 988.**
 
