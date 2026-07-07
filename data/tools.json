@@ -1,0 +1,22 @@
+[
+  {
+    "label": "CBT Thought Record",
+    "url": "/cbt-thought-record-worksheet/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "First Therapy Session",
+    "url": "/first-therapy-session-checklist/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Which Therapy Type",
+    "url": "/which-therapy-type/",
+    "icon": "\ud83e\udded"
+  },
+  {
+    "label": "Types Therapy Compared",
+    "url": "/types-of-therapy-compared/",
+    "icon": "\ud83e\uddee"
+  }
+]
