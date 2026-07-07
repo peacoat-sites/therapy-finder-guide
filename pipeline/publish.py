@@ -843,7 +843,7 @@ Avoid these structural tells:
 {ref_instruction}
 {affiliate_note}
 
-Output ONLY the article body in Markdown. No preamble, no title (title comes from frontmatter)."""
+Output ONLY the article body in Markdown. Start with a normal paragraph, never a heading, and do not restate or rephrase the title as an opening line. Never use a level-1 "# " heading anywhere in the article; every section heading must be "## " or smaller. The page title is rendered separately from frontmatter, so a "# " heading here creates a duplicate oversized title."""
 
     user_prompt = f"""Write a thorough, genuinely useful article about: {keyword}
 
@@ -1275,7 +1275,7 @@ Length target: 900-1400 words.
 
 {_TOPICAL_RULES}{ymyl_note}
 
-Output ONLY the article body in Markdown. No title (it comes from frontmatter)."""
+Output ONLY the article body in Markdown. Start with a normal paragraph, never a heading. Never use a level-1 "# " heading anywhere; all section headings must be "## " or smaller (the title comes from frontmatter and is rendered separately, so a "# " here creates a duplicate oversized title)."""
 
     user = f"""Write a current, topical article.
 
