@@ -1,0 +1,35 @@
+{{/* Contextual in-article tool card: matches page keywords to data/tools.json */}}
+{{ $tools := .Site.Data.tools }}
+{{ if $tools }}
+  {{ $hay := lower (printf "%s %s %s" .Title (delimit (.Params.categories | default slice) " ") (delimit (.Params.tags | default slice) " ")) }}
+  {{ $best := false }}{{ $bestScore := 0 }}
+  {{ range $tools }}
+    {{ $score := 0 }}
+    {{ range (.match | default slice) }}
+      {{ if in $hay . }}{{ $score = add $score 1 }}{{ end }}
+    {{ end }}
+    {{ if gt $score $bestScore }}{{ $bestScore = $score }}{{ $best = . }}{{ end }}
+  {{ end }}
+  {{ if and $best (ge $bestScore 1) }}
+  <aside class="rt-card" aria-label="Related tool">
+    <div class="rt-ic" aria-hidden="true">{{ $best.icon }}</div>
+    <div class="rt-main">
+      <span class="rt-kicker">Free interactive tool</span>
+      <div class="rt-title">{{ $best.label }}</div>
+      <p class="rt-sub">A free interactive tool. Get results tailored to your situation in under a minute.</p>
+    </div>
+    <a href="{{ $best.url }}" class="rt-cta">Open tool &rarr;</a>
+  </aside>
+  <style>
+  .rt-card{display:flex;align-items:center;gap:16px;margin:34px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}
+  .rt-ic{font-size:1.9rem;line-height:1;flex-shrink:0}
+  .rt-main{flex:1;min-width:0}
+  .rt-kicker{font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#4338ca)}
+  .rt-title{font-size:1.12rem;font-weight:700;margin:2px 0 3px;color:var(--heading,#1e293b)}
+  .rt-sub{font-size:.85rem;color:var(--muted,#64748b);margin:0;line-height:1.5}
+  .rt-cta{flex-shrink:0;display:inline-block;padding:10px 17px;border-radius:8px;background:var(--accent,#4338ca);color:#fff;font-size:.85rem;font-weight:600;text-decoration:none;white-space:nowrap}
+  .rt-cta:hover{opacity:.9}
+  @media(max-width:560px){.rt-card{flex-wrap:wrap}.rt-cta{width:100%;text-align:center}}
+  </style>
+  {{ end }}
+{{ end }}
