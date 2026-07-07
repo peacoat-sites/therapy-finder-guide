@@ -31,6 +31,14 @@
     <h3 class="quiz-result-title" id="quiz-rtitle"></h3>
     <p class="quiz-result-body" id="quiz-rbody"></p>
     <p class="quiz-result-cta" id="quiz-rcta"></p>
+    <div class="quiz-email" id="quiz-email">
+      <p class="quiz-email-label">Want more tips like this? Add your email for our free guide (no spam):</p>
+      <div class="quiz-email-row">
+        <input type="email" id="quiz-email-input" class="quiz-email-input" placeholder="you@example.com" autocomplete="email">
+        <button type="button" class="quiz-email-btn" id="quiz-email-btn">Send it</button>
+      </div>
+      <p class="quiz-email-done" id="quiz-email-done" hidden>Thanks. You are on the list, keep an eye on your inbox.</p>
+    </div>
     <button type="button" class="quiz-retake" id="quiz-retake">Retake the quiz</button>
   </div>
 
@@ -64,6 +72,14 @@
 .quiz-result-cta{font-weight:700;margin:0 0 18px}
 .quiz-retake{background:transparent;color:var(--accent,#c2410c);border:1.5px solid var(--accent,#c2410c)}
 .quiz-disclaimer{font-size:11px;color:var(--muted,#78716c);margin:18px 0 0;line-height:1.5}
+.quiz-email{margin:2px 0 18px;padding:16px;border-radius:10px;background:#fff;border:1px dashed var(--border,#e7e5e4)}
+.quiz-email-label{font-size:.9rem;font-weight:600;margin:0 0 10px;color:var(--muted,#44403c)}
+.quiz-email-row{display:flex;gap:8px;flex-wrap:wrap}
+.quiz-email-input{flex:1 1 200px;padding:11px 13px;border:1.5px solid var(--border,#e7e5e4);border-radius:8px;font-size:.95rem}
+.quiz-email-input:focus{outline:none;border-color:var(--accent,#c2410c)}
+.quiz-email-btn{background:var(--accent,#c2410c);color:#fff;border:none;border-radius:8px;padding:11px 20px;font-weight:700;cursor:pointer;white-space:nowrap}
+.quiz-email-btn:hover{opacity:.9}
+.quiz-email-done{color:#16a34a;font-weight:600;font-size:.9rem;margin:10px 0 0}
 </style>
 
 <script>
@@ -89,6 +105,14 @@
     box.hidden=false;
     box.scrollIntoView({behavior:'smooth',block:'center'});
   });
+  var eBtn=document.getElementById('quiz-email-btn');
+  if(eBtn){eBtn.addEventListener('click',function(){
+    var inp=document.getElementById('quiz-email-input'); var val=(inp.value||'').trim();
+    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(val)){inp.style.borderColor='#dc2626';inp.focus();return;}
+    var row=quiz.querySelector('.quiz-email-row'); if(row)row.style.display='none';
+    var lab=quiz.querySelector('.quiz-email-label'); if(lab)lab.style.display='none';
+    var done=document.getElementById('quiz-email-done'); if(done)done.hidden=false;
+  });}
   document.getElementById('quiz-retake').addEventListener('click',function(){
     quiz.querySelectorAll('input:checked').forEach(function(el){el.checked=false;});
     box.hidden=true;

@@ -1,0 +1,10 @@
+{{- if and .Site.Params.adsense_id .Site.Params.adsense_slot_inarticle (ne .Site.Params.adsense_slot_inarticle "auto") -}}
+<div class="ad-inarticle" style="margin:28px 0;text-align:center;min-height:1px">
+  <ins class="adsbygoogle" style="display:block;text-align:center"
+    data-ad-client="{{ .Site.Params.adsense_id }}"
+    data-ad-slot="{{ .Site.Params.adsense_slot_inarticle }}"
+    data-ad-format="fluid"
+    data-ad-layout="in-article"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{{- end -}}

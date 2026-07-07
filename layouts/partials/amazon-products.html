@@ -16,8 +16,9 @@
 <div class="amazon-products">
   <h3 class="amazon-products-heading">Recommended Products</h3>
   <div class="amazon-products-grid">
-    {{- range . -}}
+    {{- range $ci, $p := . -}}
     <a href="https://www.amazon.com/dp/{{ .asin }}/?tag=contentportfo-20" target="_blank" rel="nofollow sponsored noopener" class="amazon-card">
+      {{- if lt $ci 3 }}<span class="amazon-rank" style="display:block;font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--accent,#c2410c);margin-bottom:6px">{{ index (slice "Top Pick" "Best Value" "Also Great") $ci }}</span>{{ end -}}
       <strong class="amazon-card-title">{{ .title }}</strong>
       <p class="amazon-card-desc">{{ .desc }}</p>
       <span class="amazon-btn">Check Price on Amazon</span>
