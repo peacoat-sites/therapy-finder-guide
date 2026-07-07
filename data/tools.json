@@ -2,21 +2,40 @@
   {
     "label": "CBT Thought Record",
     "url": "/cbt-thought-record-worksheet/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "cbt",
+      "thought",
+      "record"
+    ]
   },
   {
     "label": "First Therapy Session",
     "url": "/first-therapy-session-checklist/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "first",
+      "therapy",
+      "session"
+    ]
   },
   {
     "label": "Which Therapy Type",
     "url": "/which-therapy-type/",
-    "icon": "\ud83e\udded"
+    "icon": "\ud83e\udded",
+    "match": [
+      "which",
+      "therapy",
+      "type"
+    ]
   },
   {
     "label": "Types Therapy Compared",
     "url": "/types-of-therapy-compared/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "types",
+      "therapy"
+    ]
   }
 ]
