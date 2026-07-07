@@ -176,7 +176,7 @@
             <div class="topic-group-header">
               <h2 class="topic-group-title">{{ $catDisplay }}</h2>
               {{ if gt (len $sorted) 4 }}
-              <a href="/categories/{{ $catName | urlize }}/" class="topic-view-all">View all {{ len $sorted }} &rarr;</a>
+              <a href="/categories/{{ $catName | anchorize }}/" class="topic-view-all">View all {{ len $sorted }} &rarr;</a>
               {{ end }}
             </div>
             <div class="articles-grid">
@@ -223,7 +223,7 @@
           <div class="widget-title">Browse Topics</div>
           <ul class="widget-list">
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-            <li><a href="/categories/{{ $name | urlize }}/">{{ partial "topic-label.html" $name }}</a></li>
+            <li><a href="/categories/{{ $name | anchorize }}/">{{ partial "topic-label.html" $name }}</a></li>
             {{ end }}
           </ul>
         </div>

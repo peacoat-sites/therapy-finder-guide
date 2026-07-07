@@ -52,7 +52,7 @@
       <div class="cat-section-header">
         <h2 class="cat-section-name">{{ $catDisplay }}</h2>
         <span class="cat-section-count">{{ len $sorted }} articles</span>
-        <a href="/categories/{{ $catName | urlize }}/" class="cat-view-all">View all &rarr;</a>
+        <a href="/categories/{{ $catName | anchorize }}/" class="cat-view-all">View all &rarr;</a>
       </div>
 
       <div class="cat-layout">
