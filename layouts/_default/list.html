@@ -4,7 +4,10 @@
     <div class="list-header">
       <p class="section-label">{{ if .IsHome }}All Articles{{ else if eq .Kind "taxonomy" }}Topics{{ else if eq .Kind "term" }}Browse Articles{{ else }}Latest Articles{{ end }}</p>
       <h1 class="section-title">{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ partial "topic-label.html" .Title }}{{ end }}</h1>
-      {{ if .Description }}<p class="section-desc">{{ .Description }}</p>{{ end }}
+      {{ if .Description }}<p class="section-desc">{{ .Description }}</p>
+      {{ else if eq .Kind "term" }}{{ $lbl := partial "topic-label.html" .Title }}{{ $n := len .Pages }}<p class="section-desc">Browse {{ $n }} in-depth {{ $lbl }} {{ cond (eq $n 1) "guide" "guides" }} from {{ .Site.Title }}. Our editorial team researches and writes each one to give you clear, practical answers, current as of {{ now.Format "January 2006" }}. The newest are shown first.</p>
+      {{ else if eq .Kind "taxonomy" }}<p class="section-desc">Explore {{ .Site.Title }} by topic. Pick a category below to browse our latest guides and how-tos.</p>
+      {{ end }}
     </div>
 
     <div class="articles-wrap">
