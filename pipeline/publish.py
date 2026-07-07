@@ -851,6 +851,7 @@ Loose structure (vary it -- do not make every article identical):
 - Open without a heading, and vary how you open (see the writing rules).
 - Cover the topic across a handful of H2 sections, but vary how many, how long they run, and how you approach each. Some can be a few tight paragraphs; let one go deeper.
 - Where it genuinely helps, include a step-by-step walkthrough or a comparison, but do not force a list onto everything.
+- When the subject involves costs, numbers, timelines, dosages, or options that differ, present that comparison as a Markdown table (a header row, a separator row of dashes like | --- | --- |, then data rows) instead of burying the figures in prose. A concrete data table with real, specific numbers (price or cost ranges, nutrition or dosage values, side-by-side options, timelines by scenario) is one of the strongest signals of original, useful content. Include one such table whenever the topic genuinely supports it, but never invent a table for a subject that has no natural tabular data.
 - Near the end, add a short FAQ: 4-5 real questions readers actually ask, each as an H3 ending in a question mark, with a direct 1-3 sentence answer. (Keep these -- they power our FAQ feature.)
 - Include a "## Sources" section before the FAQ or after the last main section. List 3-5 authoritative sources you cite in the article: research papers, industry reports, official resources, or verified data. Format: "- [Source name]: [brief description]" or "[Source name] ([year]): [description]".
 - Weave in 2-3 worked examples with concrete outcomes. Format: "[Scenario] → [Action taken] → [Result with numbers]". Example: "When we tested this approach on 50 projects, completion time dropped 28%, from 45 days to 32 days." Use real numbers even if estimated from industry experience.
@@ -1301,7 +1302,7 @@ SOURCES (weave 2-3 inline as evidence, then list ALL in a Sources section):
 
 Structure:
 1. Open with the timely hook: what's happening now and why the reader should care. No heading.
-2. 3-5 H2 sections of analysis and practical takeaways. Explainer/analysis, NOT a numbered how-to.
+2. 3-5 H2 sections of analysis and practical takeaways. Explainer/analysis, NOT a numbered how-to. Where the research above includes figures, costs, or side-by-side options, present one of them as a Markdown table (header row, a | --- | --- | separator, then data rows) rather than only prose.
 3. Weave 2-3 sources inline naturally.
 4. A short closing paragraph (no heading).
 5. A final section titled exactly "## Sources" listing every source as: - [title](url) (published date)."""
