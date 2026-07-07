@@ -21,8 +21,8 @@ faqs:
    a: "For employer-sponsored plans: the Department of Labor's Employee Benefits Security Administration (EBSA) at 1-866-444-3272. For individual or small group market plans: your state insurance commissioner's office. For Medicaid: your state Medicaid agency. Document everything before you call."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Writer"
-author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+author_title: "Mental Health Educator"
+author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 
 ---
 You call your insurance company to ask about therapy coverage. The hold music plays for eleven minutes. When someone finally picks up, they tell you your plan covers "medically necessary" mental health services, but your therapist's claims keep getting denied. Meanwhile, your neighbor had knee surgery last month and sailed through the approval process without a single hiccup. That gap, that specific frustration, is exactly what mental health parity law was designed to close. And understanding it might be the most practical thing you do for your mental health care this year.

@@ -21,8 +21,8 @@ faqs:
    a: "It depends on the depth of what you're dealing with and the type of therapy. For someone whose burnout is relatively recent and situational, 8 to 12 sessions of CBT can produce real results. For someone with longer-standing patterns, deeper anxiety, or burnout that has developed over years, the work often takes longer. Your therapist should give you a working sense of the timeline after the first couple of sessions. If they can't speak to this at all, it's okay to ask directly."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Writer"
-author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+author_title: "Mental Health Educator"
+author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 
 ---
 Maybe you've started dreading Sunday evenings. Not in a vague, "weekends go too fast" kind of way, but in a chest-tightening, stomach-dropping way that you can't quite explain to the people around you. You're getting your work done. You're showing up. From the outside, things probably look fine. But something has shifted, and you know it. You're more irritable than you used to be, you can't seem to recover on weekends the way you once could, and the things that used to feel meaningful at work now feel like a performance you're barely keeping up. If any of that lands, you're not weak, you're not broken, and you're not alone. You might be burned out. And therapy might be exactly what you need.

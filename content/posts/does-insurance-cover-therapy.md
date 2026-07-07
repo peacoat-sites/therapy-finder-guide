@@ -21,8 +21,8 @@ faqs:
    a: "This one is tricky. Many insurance plans do not cover couples therapy unless there's a diagnosable mental health condition being treated. Family therapy is more likely to be covered when a child or family member with a diagnosis is the identified patient. It's not a hard no across the board, but it requires careful verification. Some therapists handle this by billing for the individual with the diagnosis while conducting joint sessions."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Writer"
-author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+author_title: "Mental Health Educator"
+author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 
 ---
 You call your insurance company on a Tuesday morning, ready to finally book that first therapy appointment. Forty-five minutes later, you hang up more confused than when you started. Deductibles, out-of-pocket maximums, "in-network" versus "out-of-network," prior authorization, mental health parity. The words blur together. And somewhere in that blur, the idea of actually *going* to therapy quietly gets shelved. I've watched this happen to people more times than I can count, and it's one of the most frustrating obstacles between someone and the help they need. The good news is that most insurance plans do cover therapy to some meaningful degree, but understanding exactly what you're entitled to takes a little unpacking.

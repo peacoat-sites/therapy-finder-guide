@@ -21,8 +21,8 @@ faqs:
    a: "This is a real and legitimate concern. A few options worth exploring: community mental health centers often offer sliding-scale fees. University training clinics provide supervised therapy at reduced cost. Many employers offer Employee Assistance Programs (EAPs) with free sessions. Open Path Collective is one organization that connects people with affordable therapists. NAMI's helpline at nami.org can help you identify local resources. Insurance parity laws also mean that mental health benefits should be comparable to physical health benefits, so it's worth pushing your insurance provider if y"
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Writer"
-author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+author_title: "Mental Health Educator"
+author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 
 ---
 Most people walk into their first therapy session secretly hoping someone will hand them a timeline. Six weeks, maybe eight, and you'll feel better. I used to think that too, before I started working alongside clinical teams and watching how wildly different the actual picture looks from person to person. What surprised me most wasn't that therapy takes time. It was how much the *type* of problem, the *type* of therapy, and a handful of factors most people never think to ask about can shrink or stretch that timeline dramatically.

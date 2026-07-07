@@ -21,8 +21,8 @@ faqs:
     a: "You'll often feel it within the first two sessions. A good therapist listens without rushing, reflects back what you've said accurately, challenges you without shaming you, and makes you feel like a competent adult rather than a patient being managed. If you leave sessions feeling vaguely worse for several weeks in a row without any sense of progress or understanding, it's worth raising that directly or reconsidering the fit."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Writer"
-author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+author_title: "Mental Health Educator"
+author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 
 ---
 You've finally decided you want to talk to someone. Maybe it took months to get here. Maybe a specific Tuesday broke something open and you realized you couldn't keep white-knuckling it alone. You open Google, type "find a therapist near me," and suddenly you're staring at a wall of names, credentials, and therapy types you've never heard of. LCSW, CBT, EMDR, DBT. Insurance accepted, sliding scale, telehealth only. Within five minutes, you've closed the tab and told yourself you'll try again later. Sound familiar? You're not alone, and the fact that the process feels this confusing is a real problem, not a reflection of your readiness or willpower.

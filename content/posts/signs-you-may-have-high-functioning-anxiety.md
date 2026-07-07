@@ -21,8 +21,8 @@ faqs:
    a: "Duration and proportion are the two things to look at. Normal stress is usually tied to a specific stressor and eases when the situation changes. Anxiety tends to persist, shift objects, and feel disproportionate to the actual circumstances. If the worry is constant, if it's jumped from topic to topic, or if relief is only ever temporary, that pattern is worth discussing with a professional."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Writer"
-author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+author_title: "Mental Health Educator"
+author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 
 ---
 You probably don't think of yourself as an anxious person. You show up on time. You get things done. You're the one people call when they need something handled. The idea that you might have an anxiety disorder feels almost insulting, like a misdiagnosis meant for someone else.

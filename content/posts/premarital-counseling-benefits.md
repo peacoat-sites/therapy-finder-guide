@@ -21,8 +21,8 @@ faqs:
    a: "Earlier than you think. Ideally, start three to six months before the wedding, not three weeks before. You want enough time to surface difficult topics and actually work through them, not just check a box. If something significant comes up in session, you want room to address it without a venue deposit and 150 RSVPs hanging over the conversation."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Writer"
-author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+author_title: "Mental Health Educator"
+author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 
 ---
 Most couples spend more time picking a wedding venue than they do preparing for the marriage itself. That's not a criticism, it's just how it goes. The wedding industry is loud and immediate, with vendors and timelines and Pinterest boards demanding constant attention. The actual relationship, the one that will outlast the flowers and the open bar, gets squeezed into whatever's left. Premarital counseling exists precisely to correct that imbalance, and the research backs it up: couples who participate in premarital education report significantly higher marital satisfaction and meaningfully lower divorce rates compared to those who don't. Not a small effect. Worth paying attention to.

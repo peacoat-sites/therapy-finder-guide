@@ -21,8 +21,8 @@ faqs:
    a: "Yes, in most cases. The COVID-19 pandemic accelerated insurance parity for telehealth, and the majority of commercial plans now cover video therapy sessions at the same rate as in-person visits. Verify with your insurer, since some plans still have telehealth restrictions or require specific platforms. That said, access has improved substantially since 2020."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Writer"
-author_bio: "Alex Morgan has a background in psychology and has written about mental health topics for years, with a focus on making therapy accessible and destigmatized for people who have never sought professional help before. Their writing centers on the practical side of finding care: understanding different therapy types, navigating insurance, and knowing what to expect in a first session. At Therapy Finder Guide, Alex covers therapy basics, how to find a therapist, and what makes therapy actually work."
+author_title: "Mental Health Educator"
+author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 
 ---
 You've finally decided to make the call. Maybe it took months of convincing yourself you were "fine," or maybe something happened last Tuesday that made it undeniable: you need to talk to someone. You open your insurance app, squint at the mental health benefits page, and within about four minutes you're staring at a list of 47 providers, half of whom aren't accepting new patients, three of whom share a single office phone number, and one who retired in 2019. Welcome to the mental health insurance maze. It's genuinely frustrating, and you're not doing anything wrong. The system is just harder than it should be.
