@@ -105,6 +105,8 @@
     {{- end -}}
     </div>
 
+    {{ partial "related-tool.html" . }}
+
     {{ with .Site.Params.disclaimer }}
     <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
     {{ end }}
