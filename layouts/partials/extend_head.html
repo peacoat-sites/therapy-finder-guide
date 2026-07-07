@@ -1,3 +1,28 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Site.Title | replaceRE "\"" "\\\"" }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ "favicon.svg" | absURL }}"{{ with .Site.Params.youtube_channel }},
+  "sameAs": ["https://www.youtube.com/channel/{{ . }}"]{{ end }}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title | replaceRE "\"" "\\\"" }}",
+  "url": "{{ .Site.BaseURL }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": { "@type": "EntryPoint", "urlTemplate": "{{ .Site.BaseURL }}search/?q={search_term_string}" },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ end }}
 <!-- Open Graph -->
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
