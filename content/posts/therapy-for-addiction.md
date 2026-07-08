@@ -23,7 +23,7 @@ faqs:
     a: "'Therapist' usually refers to someone with a master's or doctoral degree (LCSW, LPC, PhD/PsyD) trained in a clinical modality like CBT. 'Addiction counselor' often refers to someone with a CADC or LADC credential, which specifically covers substance use treatment. Both can be effective; the credential that matters most is whether they have specific, supervised training in addiction, not just general mental health."
   - q: "What if I'm not ready to stop completely?"
     a: "This is more common than programs acknowledge, and it's worth knowing that harm reduction therapy is a legitimate approach. Some people enter treatment with a goal of reducing use rather than full abstinence, and a skilled therapist can work with that. Motivational Interviewing, in particular, is designed for exactly this stage. You don't have to be 'ready' in the way people imagine to benefit from talking to someone."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who finally call a treatment center do it on a Tuesday. I don't know why Tuesday specifically, but after years of working alongside clinical teams, I've noticed the pattern: it's never the rock-bottom Friday night or the awful Sunday morning. It's a few days later, when the dust has settled enough to make a phone call. And the first thing they say, almost without fail, is: "I don't even know what kind of help I need."
@@ -124,6 +124,6 @@ For self-directed support between sessions, some people find structured CBT work
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

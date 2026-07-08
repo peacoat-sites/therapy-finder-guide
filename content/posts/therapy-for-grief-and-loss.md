@@ -23,7 +23,7 @@ faqs:
     a: "Grief tends to come in waves, often triggered by reminders, and typically preserves the capacity for positive emotion at least intermittently. Depression is more pervasive and tends to flatten mood more consistently. They overlap and co-occur, but a therapist who treats pure depression without addressing the loss itself will often miss the most important work."
   - q: "Should I try medication alongside grief therapy?"
     a: "That's a question for a psychiatrist or your prescribing physician, not me. What the research does show is that antidepressants alone are less effective for complicated grief than for standard depression, and they work best when combined with grief-specific therapy rather than used as a standalone treatment. Worth a direct conversation with your doctor."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Grief doesn't follow a schedule. And if you're here reading this, you're probably somewhere in that disorienting middle space where you know something is very wrong, you've heard that "therapy helps," but you have no idea what that actually looks like or whether it would even work for you.
@@ -134,6 +134,6 @@ Mindfulness-based tools are genuinely useful here, not because grief needs to be
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

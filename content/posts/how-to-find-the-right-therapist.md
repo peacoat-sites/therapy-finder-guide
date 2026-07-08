@@ -10,7 +10,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Finding a therapist involves more than scrolling through your insurance directory. The right person, someone whose approach, communication style, and specialty actually align with what you need, matters far more than convenience or availability.
 
@@ -43,7 +43,7 @@ This cuts your search from thousands down to dozens. That's the whole point.
 
 Your insurance company's provider portal is next, because in-network therapists keep your costs down. Check it even if you hate navigating their website.
 
-If you're paying out of pocket, **Open Path Collective** (openpathcollective.org) offers sessions for $30–$80 sliding scale. Real money when you're uninsured.
+If you're paying out of pocket, **Open Path Collective** (openpathcollective.org) offers sessions for $30-$80 sliding scale. Real money when you're uninsured.
 
 **SAMHSA's treatment locator** (findtreatment.gov) is specifically for substance use and co-occurring conditions if that's relevant.
 
@@ -74,7 +74,7 @@ Community mental health centers often use sliding-scale fees based on income. Ca
 
 Universities run training clinics where graduate students provide therapy under supervision. It's cheaper. The supervision actually means you're getting quality oversight.
 
-Many employers offer [Employee Assistance Programs (EAPs)](/free-mental-health-resources-and-hotlines/) that cover 3–8 free sessions. Check your benefits. Most people don't realize they have this.
+Many employers offer [Employee Assistance Programs (EAPs)](/free-mental-health-resources-and-hotlines/) that cover 3-8 free sessions. Check your benefits. Most people don't realize they have this.
 
 Open Path Collective again, or platforms like it, if you need something quick and affordable.
 

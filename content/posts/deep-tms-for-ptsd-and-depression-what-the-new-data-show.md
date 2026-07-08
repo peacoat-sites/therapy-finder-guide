@@ -12,7 +12,7 @@ author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 slug: "deep-tms-for-ptsd-and-depression-what-the-new-data-show"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Something unusual happened in the world of psychiatric treatment at the end of June 2026, and I think it deserves more attention than it's getting outside of clinical circles. BrainsWay, the company behind Deep Transcranial Magnetic Stimulation technology, released results from what they're calling the largest real-world study ever conducted on Deep TMS in patients dealing with both PTSD and major depressive disorder at the same time. The numbers were striking. But here's the catch that most headlines glossed over: Deep TMS still isn't FDA-cleared for PTSD. So what do patients and clinicians actually do with this information? That question is genuinely complicated, and I want to try to answer it honestly.
@@ -88,7 +88,7 @@ The next step for BrainsWay will likely involve submitting this data as part of 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10) — Daily check-in journal for depression — structured mood tracking and reflection prompts designed around therapeutic principles.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10), Daily check-in journal for depression, structured mood tracking and reflection prompts designed around therapeutic principles.
 

@@ -23,7 +23,7 @@ faqs:
     a: "This is a real issue, not a hypothetical. Therapist countertransference is documented. If sessions feel consistently comfortable, like your therapist always agrees with your framing, that's worth raising directly, or seeking a consultation with a different provider. Good therapy for people pleasing should include some productive discomfort."
   - q: "Will therapy make me selfish or uncaring?"
     a: "This is the fear most people don't say out loud but clearly have. Clinically, no. People pleasers often become more genuinely kind after treatment because their helpfulness shifts from anxiety-driven to chosen. The research on assertiveness training consistently shows that appropriate boundary-setting improves relationship quality rather than damaging it. You stop being endlessly agreeable; you don't stop caring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most writing about people pleasing treats it like a quirky personality trait you can fix with a few assertiveness tips. "Just say no more often!" That advice is about as useful as telling someone with a broken leg to walk it off.
@@ -89,11 +89,11 @@ One honest caveat: I don't have strong data on digital-only therapy platforms fo
 
 ## Sources
 
-- Walker, Pete (2013): *Complex PTSD: From Surviving to Thriving* — foundational text on fawn response as a trauma adaptation.
+- Walker, Pete (2013): *Complex PTSD: From Surviving to Thriving*, foundational text on fawn response as a trauma adaptation.
 - Muris, P. et al. (2017): Meta-analysis in *Behaviour Research and Therapy* on CBT outcomes for submissive and socially anxious behavior patterns.
-- Young, J.E., Klosko, J.S., & Weishaar, M.E. (2003): *Schema Therapy: A Practitioner's Guide* — the clinical foundation for schema-based treatment of people pleasing and subjugation schemas.
+- Young, J.E., Klosko, J.S., & Weishaar, M.E. (2003): *Schema Therapy: A Practitioner's Guide*, the clinical foundation for schema-based treatment of people pleasing and subjugation schemas.
 - [SAMHSA National Helpline and Treatment Locator](https://findtreatment.gov/): U.S. government resource for finding licensed mental health providers by location and specialty.
-- Shapiro, F. (2018): *Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures* — primary clinical reference for EMDR practice and indications.
+- Shapiro, F. (2018): *Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures*, primary clinical reference for EMDR practice and indications.
 
 ---
 
@@ -119,6 +119,6 @@ One honest caveat: I don't have strong data on digital-only therapy platforms fo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 

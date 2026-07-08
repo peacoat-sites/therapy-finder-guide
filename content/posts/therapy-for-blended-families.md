@@ -23,7 +23,7 @@ faqs:
     a: "Yes, genuinely. Some formats work better in person, particularly play therapy with younger children. But couple therapy and family talk therapy via video have shown outcomes comparable to in-person in several studies. As of July 2026, most states allow therapists to provide telehealth services across state lines under certain conditions, so geographic flexibility has improved considerably."
   - q: "How do I know if a therapist is actually trained in stepfamily dynamics versus just listing it as a specialty?"
     a: "Ask them directly what training they've done. Names to listen for: Papernow's work, the National Stepfamily Resource Center's training, or Ron Deal's Smart Stepfamily programs. A therapist who mentions first-family concepts without acknowledging that stepfamilies operate differently is a sign to look elsewhere. It's not rude to ask. It's how you protect your time and your family."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who call me about blended family therapy start the same way: "We're not in crisis or anything, we're just... struggling." And then, usually within the first three minutes, they describe something that absolutely is a crisis. A teenager who refuses to eat dinner with her stepfather. A dad who's quietly fueling his kids' resentment of their stepmom. Two adults who love each other deeply and are watching that love get sandpapered away, week by week, by a family structure nobody prepared them for.
@@ -146,6 +146,6 @@ If one or both partners are working on their own reactivity or stress, a structu
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 
