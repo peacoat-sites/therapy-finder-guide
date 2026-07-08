@@ -894,7 +894,10 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
             '{"title": "A specific, compelling headline in Title Case, 45-65 characters, that a real person '
             "would actually want to click. Keep the core search topic recognizable for SEO, but make it "
             "concrete and valuable, not a bare restatement of the keyword. Lead with the substance or a "
-            "specific number/answer where it fits. No em dashes, no clickbait, no year unless essential. "
+            "genuine answer where it fits. Never invent a specific statistic, percentage, or dollar "
+            "savings figure -- you do not have the article's data yet, so any such number would be "
+            "fabricated; a count of items ('5 Options', '3 Signs') is fine since it just describes "
+            "the list. No em dashes, no clickbait, no year unless essential. "
             'Example: keyword \'average whiplash settlement\' -> \'Whiplash Settlements: What Insurers Actually Pay\'.", '
             '"description": "<140-155 char SEO meta description, plain text, no quotes>", '
             '"image_query": "<2-4 word concrete photographable subject for the hero photo. Name the specific '
