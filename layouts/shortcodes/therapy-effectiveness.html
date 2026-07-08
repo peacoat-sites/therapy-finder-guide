@@ -1,0 +1,24 @@
+<div class="moat-table" style="overflow-x:auto;margin:1.5rem 0">
+{{- $d := site.Data.therapy_effectiveness -}}
+<table style="width:100%;border-collapse:collapse;font-size:.9em;min-width:640px">
+<thead><tr style="background:var(--surface,#f1f5f9)">
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Modality</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Strongest For</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Evidence</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Typical Course</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Cost / Session</th>
+</tr></thead>
+<tbody>
+{{- range $m, $v := $d.modalities }}
+<tr>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)"><strong>{{ $m }}</strong></td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.strongest_for }}</td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.evidence_level }}</td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.typical_course }}</td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.cost_per_session }}</td>
+</tr>
+{{- end }}
+</tbody>
+</table>
+<p style="font-size:.8em;color:var(--muted,#64748b);margin:8px 0 0">Comparative summary as of {{ $d.as_of }}. Source: {{ $d.source }}. Effectiveness varies by person and therapist; this is educational, not a treatment recommendation.</p>
+</div>

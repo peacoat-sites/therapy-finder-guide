@@ -1,0 +1,41 @@
+{
+  "as_of": "2026",
+  "source": "SAMHSA guidance and published meta-analyses of therapy outcome research",
+  "modalities": {
+    "CBT (Cognitive Behavioral Therapy)": {
+      "strongest_for": "Depression, anxiety, panic, OCD, insomnia",
+      "evidence_level": "Very strong (hundreds of RCTs)",
+      "typical_course": "12-20 sessions",
+      "cost_per_session": "$100-$200",
+      "format": "Structured, skills and homework between sessions"
+    },
+    "DBT (Dialectical Behavior Therapy)": {
+      "strongest_for": "Borderline personality, self-harm, emotion dysregulation",
+      "evidence_level": "Strong for target conditions",
+      "typical_course": "6-12 months (often group + individual)",
+      "cost_per_session": "$120-$250",
+      "format": "Skills training plus individual therapy"
+    },
+    "EMDR (Eye Movement Desensitization)": {
+      "strongest_for": "PTSD and single-incident trauma",
+      "evidence_level": "Strong for PTSD",
+      "typical_course": "6-12 sessions",
+      "cost_per_session": "$120-$250",
+      "format": "Structured trauma-processing protocol"
+    },
+    "Psychodynamic Therapy": {
+      "strongest_for": "Long-standing relationship and self-worth patterns",
+      "evidence_level": "Moderate; benefits often grow after treatment ends",
+      "typical_course": "Months to years",
+      "cost_per_session": "$100-$250",
+      "format": "Open-ended, insight-oriented"
+    },
+    "ACT (Acceptance & Commitment)": {
+      "strongest_for": "Chronic pain, anxiety, values-based change",
+      "evidence_level": "Growing, moderate-to-strong",
+      "typical_course": "8-16 sessions",
+      "cost_per_session": "$100-$200",
+      "format": "Mindfulness plus committed action"
+    }
+  }
+}
