@@ -108,6 +108,8 @@
     {{- end -}}
     </div>
 
+    {{ partial "next-read.html" . }}
+
     {{ with .Site.Params.disclaimer }}
     <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
     {{ end }}
@@ -125,6 +127,8 @@
     {{- end }}
 
     {{ partial "authority-sources.html" . }}
+
+    {{ partial "quiz-cta.html" . }}
 
     <!-- Author Bio -->
     {{ with .Params.author }}

@@ -1,0 +1,23 @@
+{{- $q := .Site.Data.quiz -}}
+{{- if and $q $q.url -}}
+<aside class="quiz-cta" aria-label="Take the quiz">
+  <div class="qc-ic" aria-hidden="true">&#10067;</div>
+  <div class="qc-main">
+    <span class="qc-kicker">2-minute quiz</span>
+    <div class="qc-title">{{ with $q.title }}{{ . }}{{ else }}Take our quick quiz{{ end }}</div>
+    <p class="qc-sub">Not sure where you stand? Answer a few questions and get a result tailored to your situation.</p>
+  </div>
+  <a href="{{ $q.url }}" class="qc-cta">Take the quiz &rarr;</a>
+</aside>
+<style>
+.quiz-cta{display:flex;align-items:center;gap:16px;margin:32px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}
+.qc-ic{font-size:1.9rem;line-height:1;flex-shrink:0}
+.qc-main{flex:1;min-width:0}
+.qc-kicker{font-size:.7rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#4338ca)}
+.qc-title{font-size:1.12rem;font-weight:700;margin:2px 0 3px;color:var(--heading,#1e293b)}
+.qc-sub{font-size:.85rem;color:var(--muted,#64748b);margin:0;line-height:1.5}
+.qc-cta{flex-shrink:0;display:inline-block;padding:10px 17px;border-radius:8px;background:var(--accent,#4338ca);color:#fff;font-size:.85rem;font-weight:600;text-decoration:none;white-space:nowrap}
+.qc-cta:hover{opacity:.9}
+@media(max-width:560px){.quiz-cta{flex-wrap:wrap}.qc-cta{width:100%;text-align:center}}
+</style>
+{{- end -}}

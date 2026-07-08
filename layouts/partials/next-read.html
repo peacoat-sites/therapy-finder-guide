@@ -1,0 +1,26 @@
+{{- $pool := where (where .Site.RegularPages "Type" "posts") "Permalink" "ne" .Permalink -}}
+{{- $cat := "" -}}{{- with .Params.categories -}}{{- $cat = index . 0 -}}{{- end -}}
+{{- if $cat -}}{{- $cp := where $pool "Params.categories" "intersect" (slice $cat) -}}{{- if gt (len $cp) 0 -}}{{- $pool = $cp -}}{{- end -}}{{- end -}}
+{{- if gt (len $pool) 0 -}}
+{{- $p := index $pool 0 -}}
+<aside class="next-read" aria-label="Read next">
+  <span class="nr-kicker">Read next</span>
+  <a href="{{ $p.Permalink }}" class="nr-card">
+    {{ with $p.Params.image }}<img src="{{ . }}" alt="{{ $p.Title }}" class="nr-thumb" loading="lazy">{{ end }}
+    <span class="nr-body">
+      <span class="nr-title">{{ $p.Title }}</span>
+      <span class="nr-go">Continue reading &rarr;</span>
+    </span>
+  </a>
+</aside>
+<style>
+.next-read{margin:32px 0}
+.nr-kicker{display:block;font-size:.72rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px}
+.nr-card{display:flex;align-items:center;gap:16px;padding:14px 16px;border:1px solid var(--border,#e7e5e4);border-radius:12px;background:var(--surface2,#f8fafc);text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}
+.nr-card:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(0,0,0,.07)}
+.nr-thumb{width:96px;height:72px;object-fit:cover;border-radius:8px;flex-shrink:0}
+.nr-body{display:flex;flex-direction:column;gap:5px;min-width:0}
+.nr-title{font-family:var(--serif,Georgia,serif);font-size:1.12rem;font-weight:700;line-height:1.25;color:var(--heading,#1e293b)}
+.nr-go{font-size:.82rem;font-weight:600;color:var(--accent,#4338ca)}
+</style>
+{{- end -}}
