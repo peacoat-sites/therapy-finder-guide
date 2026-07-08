@@ -1,5 +1,5 @@
 ---
-title: "CBT Worksheets Explained"
+title: "How CBT Worksheets Help Rewire Anxious Thoughts"
 date: 2026-06-15T18:12:12.414937+00:00
 draft: false
 description: "Discover how CBT worksheets work, what they cover, and how they help you challenge negative thoughts and build healthier thinking patterns."

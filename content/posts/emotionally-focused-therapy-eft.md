@@ -1,5 +1,5 @@
 ---
-title: "Emotionally Focused Therapy Eft"
+title: "Heal Your Relationship Through Emotionally Focused Therapy"
 date: 2026-07-05T15:00:03.524137+00:00
 draft: false
 description: "Discover how Emotionally Focused Therapy strengthens relationships by reshaping emotional bonds. Learn what EFT involves and how it can help couples and individ"

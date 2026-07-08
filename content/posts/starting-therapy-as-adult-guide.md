@@ -1,5 +1,5 @@
 ---
-title: "Starting Therapy As Adult Guide"
+title: "Your First Therapy Appointment: What To Expect"
 date: 2026-05-22T07:31:43.242288+00:00
 draft: false
 description: "Thinking about starting therapy as an adult? Discover practical tips on finding the right therapist, what to expect, and how to make the most of every session."
@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people wait an average of 11 years between the onset of mental health symptoms and actually getting treatment. Eleven years. That's not buried in some footnote, it shows up repeatedly in mental health research, and every time I see it, I think about all the people white-knuckling through their twenties, their relationships, their careers, quietly wondering if something's broken in them. If you're reading this right now, you're probably not in year one of whatever you're carrying. And you're probably tired of carrying it alone.
 

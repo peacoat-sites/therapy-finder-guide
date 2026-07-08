@@ -1,5 +1,5 @@
 ---
-title: "Partial Hospitalization Program Explained"
+title: "When Intensive Therapy Works Better Than Weekly Sessions"
 date: 2026-06-16T18:21:35.435534+00:00
 draft: false
 description: "Learn what a partial hospitalization program is, how it works, who it helps, and what to expect during treatment in this clear, complete overview."
@@ -23,7 +23,7 @@ faqs:
    a: "Most people attend for two to four weeks, though programs vary and insurance utilization review plays a role. Clinical need drives the decision, and some people step down to an IOP after two weeks while others continue in PHP longer."
  - q: "What happens after I finish a PHP?"
    a: "Most programs have a discharge plan built in. You'll typically transition to either an IOP, a standard outpatient therapy schedule with a community therapist, or both. The goal is to avoid a cliff-drop back to weekly (or less frequent) care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people don't hear about partial hospitalization programs until they're already in crisis. You're sitting across from a psychiatrist who just told you that you're "too stable for inpatient but too unwell for weekly outpatient." That gap is real. PHPs fill it.
 

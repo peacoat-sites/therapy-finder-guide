@@ -1,5 +1,5 @@
 ---
-title: "Acceptance And Commitment Therapy Act"
+title: "ACT Therapy: Break Free From Unhelpful Thought Patterns"
 date: 2026-05-21T22:37:04.862909+00:00
 draft: false
 description: "Acceptance and Commitment Therapy (ACT) is a psychological treatment that helps you build psychological flexibility by accepting thoughts and committing to valu"
@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've tried the self-help thing. Journaled. Done the mirror affirmations. White-knuckled your way through anxious days telling yourself to think positive. And the worry's still there. The grief's still there. The self-doubt hasn't budged. What if the problem isn't that you haven't tried hard enough, but that the entire strategy is backwards? What if telling yourself you need to eliminate painful thoughts before you can live is the thing actually keeping you stuck? That's the central idea of Acceptance and Commitment Therapy, or ACT. For a lot of people, it changes everything.
 

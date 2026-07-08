@@ -1,5 +1,5 @@
 ---
-title: "Culturally Competent Therapy"
+title: "How To Find A Therapist Who Gets Your Background"
 date: 2026-06-17T16:47:43.803794+00:00
 draft: false
 description: "Discover how culturally competent therapy improves mental health outcomes by honoring your background, values, and identity in every session."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, genuinely. What matters most is whether the therapist approaches your cultural context with curiosity and respect rather than assumption. Shared background helps, but it's not a guarantee of cultural competence, and its absence isn't disqualifying."
  - q: "What's the difference between cultural competence and cultural humility?"
    a: "Cultural competence implies a fixed skill set you achieve. Cultural humility acknowledges that this is ongoing: a therapist should be continuously learning, self-examining, and open to being corrected. Most thoughtful clinicians today prefer the humility framing because it's more honest about how much there is to know."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most articles about culturally competent therapy describe what it is, give you a warm fuzzy definition, and then leave you to figure out the hard part yourself. That's not useful. Here's what they skip: how to actually tell whether a therapist has it, what to do when they don't, and why the standard advice to "just find someone who looks like you" is an oversimplification that can backfire.
 

@@ -1,5 +1,5 @@
 ---
-title: "Anger Management Therapy"
+title: "How to Stop Anger Before It Controls You"
 date: 2026-05-25T22:13:59.812462+00:00
 draft: false
 description: "Anger management therapy helps you understand and control anger triggers. Learn effective techniques to reduce stress, improve relationships, and achieve emotio"
@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in your car in the parking lot, hands gripping the steering wheel, replaying the argument you just had with your partner for the twentieth time. The rage has faded into something worse: shame. You know you said things you didn't mean. You know this keeps happening. And somewhere between the anger and the regret, you're wondering if something is actually wrong with you, or if there's a way to change this pattern. There isn't anything wrong with you, exactly. But there is something you can learn. Anger management therapy is real, it works, and it's far more nuanced than the court-ordered stereotype most people picture.
 

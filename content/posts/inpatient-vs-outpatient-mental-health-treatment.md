@@ -1,5 +1,5 @@
 ---
-title: "Inpatient Vs Outpatient Mental Health Treatment"
+title: "When To Choose Inpatient vs Outpatient Mental Health Care"
 date: 2026-06-03T14:12:07.100960+00:00
 draft: false
 description: "Explore the key differences between inpatient and outpatient mental health treatment to help you choose the right level of care for your needs and recovery goal"
@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people don't learn the difference between inpatient and outpatient mental health treatment while they're calm and researching. They learn it in crisis, or watching someone they love go through one, while a doctor or ER nurse is asking them to make a decision they've never had to think about before. That moment hits different.
 

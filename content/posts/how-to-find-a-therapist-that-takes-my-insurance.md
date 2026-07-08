@@ -1,5 +1,5 @@
 ---
-title: "How To Find A Therapist That Takes My Insurance"
+title: "Your Insurance Coverage Guide to Finding an In-Network Therapist"
 date: 2026-06-09T16:21:59.048537+00:00
 draft: false
 description: "Learn how to find a therapist that takes your insurance with simple steps, including using your insurer's directory, verifying coverage, and comparing in-networ"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people spend more time picking a Netflix show than figuring out if their therapist is actually in-network. Then the bill arrives for $250 a session and suddenly everything makes sense. I've watched this play out enough times that it's basically the origin story for half the "I tried therapy and it was too expensive" conversations I hear.
 

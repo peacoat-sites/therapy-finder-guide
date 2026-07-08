@@ -1,5 +1,5 @@
 ---
-title: "Therapy For ADHD Adults"
+title: "How ADHD Adults Can Find The Right Therapist"
 date: 2026-05-18T03:52:24.372505+00:00
 draft: false
 description: "Discover effective therapy options for ADHD adults, including cognitive behavioral therapy, coaching, and medication management strategies to improve focus and "
@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You finally sit down to pay your bills. Twenty minutes later, you're reorganizing your bookshelf, watching a YouTube video about the history of staplers, and vaguely aware that the bills are still unpaid. Sound familiar? For the estimated 8 to 10 million adults in the United States living with ADHD, this kind of moment isn't laziness or lack of willpower. It's a neurological reality. And yet, most adults with ADHD spent decades being told they just needed to "try harder." Therapy can't erase ADHD, but it can genuinely change how you live with it.
 

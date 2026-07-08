@@ -1,5 +1,5 @@
 ---
-title: "How To Find A Trauma Informed Therapist"
+title: "Finding a Trauma Informed Therapist: What to Look For"
 date: 2026-06-05T12:21:36.164696+00:00
 draft: false
 description: "Find a trauma-informed therapist who truly understands your needs. Learn what to look for, questions to ask, and where to search for the right specialist."
@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-08
 ---
 Maybe you already know you need a trauma-informed therapist. Or maybe someone used that phrase around you recently and you're still not entirely sure what it means, but it sounds right, and you're here trying to figure out the next step. Either way, you're in the right place, and I want to make this as practical as possible for you.
 

@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Trauma Survivors"
+title: "Healing From Trauma: Evidence-Based Therapy Approaches"
 date: 2026-05-27T02:34:29.839682+00:00
 draft: false
 description: "Discover effective trauma therapy approaches, evidence-based treatments, and coping strategies to help survivors heal from PTSD and emotional wounds."
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-08
 ---
 You're sitting in your car in a grocery store parking lot. The fluorescent lights pouring through the windows feel suffocating, they're the same ones from the hospital, from that day. You can't go inside. You're not being dramatic. You're not "crazy." This is a trauma response, and millions of people know exactly what this moment feels like.
 

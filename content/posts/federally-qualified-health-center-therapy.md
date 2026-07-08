@@ -1,5 +1,5 @@
 ---
-title: "Federally Qualified Health Center Therapy"
+title: "Affordable Therapy at Federally Qualified Health Centers"
 date: 2026-05-22T06:20:57.288732+00:00
 draft: false
 description: "Discover how federally qualified health centers provide affordable therapy services to underserved communities, offering sliding scale fees and comprehensive me"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're reading about Federally Qualified Health Centers because you need help and you want to know if you can afford it. The answer is almost certainly yes. Here's how.
 

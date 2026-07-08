@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Lgbtq Affirming Counselors"
+title: "Finding LGBTQ-Affirming Therapists Who Get It"
 date: 2026-06-04T12:22:39.612157+00:00
 draft: false
 description: "Find expert guidance on therapy for LGBTQ clients with affirming counselors who create safe, inclusive spaces to support mental health, identity, and personal g"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-08
 ---
 Finding an LGBTQ-affirming therapist should not be this hard. And yet, for a lot of people, it is.
 

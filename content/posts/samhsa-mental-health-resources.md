@@ -1,5 +1,5 @@
 ---
-title: "Samhsa Mental Health Resources"
+title: "Find Free Mental Health Support Through SAMHSA"
 date: 2026-05-27T13:57:09.892844+00:00
 draft: false
 description: "Learn about SAMHSA mental health resources, including crisis hotlines, treatment locators, and support programs to help individuals and families find care and r"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-08
 ---
 Maybe you typed "free mental health help" into a search bar at 2am, or maybe a friend mentioned SAMHSA and you nodded like you knew what it was. Either way, you're here now, and that already takes something. What a lot of people don't realize is that SAMHSA, the Substance Abuse and Mental Health Services Administration, is one of the most underused resources in American mental health care. It's a federal agency operating within the U.S. Department of Health and Human Services, and it runs programs, hotlines, and funding streams that reach millions of people every year. Many of those people had no idea where to start before they found it.
 

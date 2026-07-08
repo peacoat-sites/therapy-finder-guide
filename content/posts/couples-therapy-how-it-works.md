@@ -1,5 +1,5 @@
 ---
-title: "Couples Therapy How It Works"
+title: "How Couples Therapy Actually Works to Heal Relationships"
 date: 2026-05-28T06:49:18.222849+00:00
 draft: false
 description: "Discover how couples therapy works, what to expect in sessions, and how it can help you and your partner improve communication, resolve conflict, and strengthen"

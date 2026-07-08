@@ -1,5 +1,5 @@
 ---
-title: "Signs You May Have High Functioning Anxiety"
+title: "6 Hidden Signs of High-Functioning Anxiety"
 date: 2026-06-08T16:59:51.059991+00:00
 draft: false
 description: "Discover the subtle signs of high functioning anxiety, from overthinking and perfectionism to hidden stress, and learn how to recognise and manage this conditio"
@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-
+lastmod: 2026-07-08
 ---
 You probably don't think of yourself as an anxious person. You show up on time. You get things done. You're the one people call when they need something handled. The idea that you might have an anxiety disorder feels almost insulting, like a misdiagnosis meant for someone else.
 

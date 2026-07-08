@@ -1,5 +1,5 @@
 ---
-title: "Group Therapy Benefits"
+title: "Why Group Therapy Works Better Than Solo Sessions"
 date: 2026-05-24T12:27:25.440937+00:00
 draft: false
 description: "Group therapy offers emotional support, reduces isolation, and provides affordable mental health treatment through shared experiences with others facing similar"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-08
 ---
 Sit in a circle with seven strangers, and nobody talks at first. Then someone admits something they've been too ashamed to say out loud, and your shoulders drop about two inches. That's group therapy. It's unglamorous, sometimes awkward, and wildly underrated in mental health care.
 

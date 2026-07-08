@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Grief And Loss"
+title: "How Grief Counseling Helps You Heal After Loss"
 date: 2026-07-06T16:40:14.746152+00:00
 draft: false
 description: "Find compassionate therapy for grief and loss. Explore proven approaches to help you heal, process emotions, and move forward after losing someone you love."

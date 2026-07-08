@@ -1,5 +1,5 @@
 ---
-title: "Therapist For Lgbtq Clients"
+title: "Finding An LGBTQ-Affirming Therapist: What To Know"
 date: 2026-07-01T16:10:21.721035+00:00
 draft: false
 description: "Find an affirming LGBTQ therapist who understands your unique experiences. Learn what to look for and how to start your mental health journey today."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, completely. You're not obligated to educate your therapist on basic aspects of your identity, and doing so consistently during paid sessions is a real cost, both financially and emotionally. A good therapist won't take it personally; they'll want you to find the right fit."
  - q: "What questions should I ask a potential therapist about their LGBTQ experience specifically?"
    a: "Try: 'Have you worked with clients who've experienced family rejection related to identity?' or 'What's your approach when a client's religious beliefs and sexual or gender identity are in conflict?' The specificity of their answer, and whether they treat these as routine clinical terrain or unusual challenges, tells you a lot."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most advice about finding an LGBTQ-affirming therapist stops at "look for someone who checks the box." That's not enough, and honestly, it can leave you worse off than before if you end up with someone who's technically "affirming" but still treats your queerness as a complication to manage rather than a normal part of who you are.

@@ -1,5 +1,5 @@
 ---
-title: "Child Therapy Guide For Parents"
+title: "How Parents Can Support Their Child's Therapy"
 date: 2026-05-23T22:56:42.793692+00:00
 draft: false
 description: "Discover how child therapy works, what to expect, and how to support your child's mental health journey with this practical guide for parents."

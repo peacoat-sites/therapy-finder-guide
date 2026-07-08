@@ -1,5 +1,5 @@
 ---
-title: "CBT Vs DBT Therapy What Is The Difference"
+title: "CBT vs. DBT: Which Therapy Works Best For You"
 date: 2026-06-10T16:48:47.901036+00:00
 draft: false
 description: "Explore the key differences between CBT and DBT therapy, how each approach works, and which treatment may be best suited for your mental health needs."
@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people searching "CBT vs DBT" are trying to figure out which one they need. That's the wrong question, and I'll explain why in a minute. But first, let me challenge something almost every explainer on this topic gets wrong: CBT and DBT are not competing therapies sitting on opposite ends of a spectrum. DBT *is* CBT, technically. It was built on the CBT framework and then radically restructured for a specific reason. Understanding that reason changes everything about how you'd choose between them.
 

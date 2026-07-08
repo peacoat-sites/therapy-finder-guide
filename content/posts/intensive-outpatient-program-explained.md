@@ -1,5 +1,5 @@
 ---
-title: "Intensive Outpatient Program Explained"
+title: "What an Intensive Outpatient Program Can Do for You"
 date: 2026-06-19T16:22:44.214458+00:00
 draft: false
 description: "Learn how intensive outpatient programs work, what to expect during sessions, who qualifies, and how IOP compares to other levels of mental health care."
@@ -23,7 +23,7 @@ faqs:
    a: "Probably sometimes, and it cuts both ways. Most programs group by level of care rather than specific diagnosis. Exposure to other people's struggles rarely makes things worse and often creates perspective that individual therapy can't replicate. It's more normalizing than distressing for most people."
  - q: "What happens if I'm not improving or the program isn't working?"
    a: "A good program will do regular clinical check-ins and adjust the plan. If symptoms are worsening, the right call might be a step up to PHP or inpatient. If the modality isn't fitting, that's worth raising directly with your treatment team. 'This isn't clicking' is valid clinical information, not a complaint."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about intensive outpatient programs describe what the acronym stands for and then pad the rest with reassurances. That's not useful. Here's what you actually need to know.

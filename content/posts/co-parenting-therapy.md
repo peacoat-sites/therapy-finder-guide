@@ -1,5 +1,5 @@
 ---
-title: "Co-Parenting Therapy"
+title: "How Co-Parenting Therapy Rebuilds Trust Between Exes"
 date: 2026-06-13T15:21:04.942686+00:00
 draft: false
 description: "Discover how co-parenting therapy helps separated parents communicate better, reduce conflict, and prioritize their children's well-being with professional guid"
@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most parents don't plan to end up in co-parenting therapy. They land there after something breaks. A judge recommends it. A school pickup turns into a shouting match. Your kid suddenly refuses to go to the other parent's house. You show up because you need this fixed, not because you want to work on yourself. That context shapes everything about how the therapy actually works.
 

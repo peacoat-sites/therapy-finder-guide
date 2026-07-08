@@ -1,5 +1,5 @@
 ---
-title: "Equine Therapy Explained"
+title: "How Horses Heal: The Science Behind Equine Therapy"
 date: 2026-06-24T15:52:55.288947+00:00
 draft: false
 description: "Discover how equine therapy uses horses to support mental and physical health, who it helps, what a session looks like, and how to find a program near you."
@@ -12,7 +12,7 @@ author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 slug: "equine-therapy-explained"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you're reading this, you've probably already Googled "equine therapy" at least once and ended up more confused than when you started. Maybe you saw a feel-good news segment, or a friend mentioned it helped their kid, or your therapist brought it up as something worth considering. And now you're sitting here wondering: is this actually legitimate, or is it just an expensive way to pet horses?
 

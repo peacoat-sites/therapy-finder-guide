@@ -1,5 +1,5 @@
 ---
-title: "PTSD Therapy Options"
+title: "Which PTSD Therapy Works Best For You"
 date: 2026-05-19T19:24:52.332574+00:00
 draft: false
 description: "Explore effective PTSD therapy options including CBT, EMDR, and exposure therapy. Learn how professional treatment can help manage symptoms and improve your qua"
@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 3 a.m. strikes again. Heart hammering. The smell is back, the sound is back, and you're absolutely certain you're there, in that moment from years ago, even though your eyes tell you otherwise. That's PTSD. It doesn't leave memories. It leaves wounds that keep tearing open.
 

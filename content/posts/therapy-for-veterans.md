@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Veterans"
+title: "How Veterans Find the Right Therapist"
 date: 2026-06-15T18:10:32.700830+00:00
 draft: false
 description: "Discover effective therapy options for veterans dealing with PTSD, anxiety, and trauma. Learn how professional support can help veterans heal and thrive."
@@ -23,6 +23,7 @@ faqs:
    a: "They can and should. The VA offers caregiver support through the Program of Comprehensive Assistance for Family Caregivers (PCAFC), and many VA facilities provide couples counseling and family therapy. Military family stress is its own thing with its own treatment considerations, not just a generic relationship problem."
  - q: "How do I talk to a veteran in my life about getting help?"
    a: "Skip the broad 'you should talk to someone' suggestion, which lands as dismissal. Be specific: 'I found a therapist who works specifically with veterans, want me to send you the information?' Concrete offers beat vague encouragement every time. And if they're in crisis, the Veterans Crisis Line at 988 (press 1) is staffed around the clock."
+lastmod: 2026-07-08
 ---
 Most articles about veteran mental health spend two-thirds of their word count explaining that war is hard. You already know that. What you probably don't know is which specific therapy types actually work for combat-related PTSD, how to access care without drowning in VA bureaucracy, and what to do if you've tried one approach and it didn't help. Let's skip the obvious part.
 

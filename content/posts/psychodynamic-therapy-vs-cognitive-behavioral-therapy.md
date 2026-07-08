@@ -1,5 +1,5 @@
 ---
-title: "Psychodynamic Therapy Vs Cognitive Behavioral Therapy"
+title: "Which Therapy Works Best: CBT or Psychodynamic?"
 date: 2026-07-03T15:35:04.917620+00:00
 draft: false
 description: "Compare psychodynamic therapy and cognitive behavioral therapy: differences, effectiveness, costs, and which approach may work best for your mental health needs"

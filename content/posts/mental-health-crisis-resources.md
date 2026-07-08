@@ -1,5 +1,5 @@
 ---
-title: "Mental Health Crisis Resources"
+title: "Finding Help Fast: Your Mental Health Crisis Toolkit"
 date: 2026-05-29T08:47:39.819971+00:00
 draft: false
 description: "Not sure if what you are feeling is an emergency? Find 24/7 crisis lines including 988, text and chat options, and how to get help right now."
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-08
 ---
 You're on hour three of sitting with something that feels too heavy to carry alone, and you don't know if what you're feeling counts as a "real" emergency. You're not sure if you should call someone, and you don't want to overreact. I've seen this exact moment play out more times than I can count, and the thing I want to say first is: if you're wondering whether you need help, that question itself is worth taking seriously.
 

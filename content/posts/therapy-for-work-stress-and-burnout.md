@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Work Stress And Burnout"
+title: "How Therapy Helps You Recover From Burnout"
 date: 2026-05-23T04:47:39.607901+00:00
 draft: false
 description: "Struggling with work stress and burnout? Discover how therapy can help you set boundaries, rebuild energy, and restore balance. Take the first step toward feeli"
@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Maybe you've started dreading Sunday evenings. Not in a vague, "weekends go too fast" kind of way, but in a chest-tightening, stomach-dropping way that you can't quite explain to the people around you. You're getting your work done. You're showing up. From the outside, things probably look fine. But something has shifted, and you know it. You're more irritable than you used to be, you can't seem to recover on weekends the way you once could, and the things that used to feel meaningful at work now feel like a performance you're barely keeping up. If any of that lands, you're not weak, you're not broken, and you're not alone. You might be burned out. And therapy might be exactly what you need.
 

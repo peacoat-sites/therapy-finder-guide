@@ -1,5 +1,5 @@
 ---
-title: "What To Do During A Mental Health Crisis"
+title: "Your Mental Health Crisis Action Plan: 5 Steps"
 date: 2026-06-06T15:02:00.629024+00:00
 draft: false
 description: "Learn what steps to take during a mental health crisis, including how to stay safe, who to call for help, and when to seek emergency support for yourself or oth"
@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most crisis advice online reads like it was written for a legal department. "Seek help immediately." "Contact a mental health professional." Cool, thanks. What does that actually mean at 2 a.m. when your hands are shaking and you can't remember how to breathe?
 

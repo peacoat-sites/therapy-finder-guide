@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Body Image Issues"
+title: "How Therapy Rewires Your Relationship With Your Body"
 date: 2026-06-14T15:27:25.414491+00:00
 draft: false
 description: "Struggling with body image issues? Discover how therapy can help you build a healthier relationship with your body, boost confidence, and improve your overall w"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who start therapy for body image issues don't think they're "sick enough" to be there. That's the first thing worth saying out loud, because it keeps a lot of people out of the room who genuinely need to be in it.
 

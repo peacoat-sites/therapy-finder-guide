@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Psychologist Psychiatrist And Therapist"
+title: "Which Mental Health Professional Do You Actually Need?"
 date: 2026-06-09T16:19:55.542905+00:00
 draft: false
 description: "Confused about psychologists, psychiatrists, and therapists? Discover the key differences in their training, roles, and treatments to find the right mental heal"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-08
 ---
 Most people spend more time researching a new laptop than figuring out who to actually call when they're struggling. That's not a criticism. It's just what happens when the system is this confusing and the stakes feel this high.
 

@@ -1,5 +1,5 @@
 ---
-title: "Adventure Therapy Teens"
+title: "How Wilderness Therapy Transforms Troubled Teens"
 date: 2026-06-23T16:11:14.213874+00:00
 draft: false
 description: "Discover how adventure therapy helps teens build confidence, resilience, and emotional skills through outdoor challenges, group activities, and hands-on experie"
@@ -23,7 +23,7 @@ faqs:
    a: "Most programs are designed for adolescents ages 13 to 17 or 18, though some serve young adults into their mid-20s. Programming, clinical approach, and group dynamics are usually calibrated to developmental stage, so it's worth asking specifically how a program structures its age groupings."
  - q: "Can a teenager refuse to participate, and what happens then?"
    a: "Refusal and resistance are common, especially early in a program, and good programs are built to handle it clinically rather than punitively. Teens who enter involuntarily (brought by parents) often do eventually engage. That said, programs that use physical force to compel participation are a red flag. A teenager's willingness to try, even reluctantly, is different from being coerced."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most parents I talk to assume that if their teenager refuses to sit still in a therapist's office, therapy itself isn't going to work. I'll be honest: I used to think something similar. The image of a sullen 16-year-old staring at the ceiling while a counselor asks "and how does that make you feel?" is burned into cultural memory for a reason. But adventure therapy challenges that premise in ways that the research, messily and imperfectly, seems to back up.

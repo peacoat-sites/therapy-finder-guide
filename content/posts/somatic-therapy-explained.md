@@ -1,5 +1,5 @@
 ---
-title: "Somatic Therapy Explained"
+title: "How Your Body Holds Onto Stress: A Somatic Therapy Guide"
 date: 2026-05-20T04:50:24.472596+00:00
 draft: false
 description: "Somatic therapy explained: Learn how this body-focused healing approach treats trauma and emotional pain by reconnecting mind and body for lasting wellness."
@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've talked about the same painful memory in therapy for months. You understand it intellectually. You can describe what happened, who was involved, why it hurt. But something still feels off, like your body didn't get the memo. Your shoulders tense up without warning. Your chest tightens in certain rooms. You startle easily, sleep poorly, and can't quite explain why.
 

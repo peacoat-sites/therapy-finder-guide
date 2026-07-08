@@ -1,5 +1,5 @@
 ---
-title: "Best Therapy Apps For Daily Mental Health Support"
+title: "The Mental Health Apps That Actually Work Daily"
 date: 2026-06-07T15:13:07.108103+00:00
 draft: false
 description: "Discover the best therapy apps for daily mental health support. Compare top-rated options for anxiety, depression, and stress relief to find your perfect mental"

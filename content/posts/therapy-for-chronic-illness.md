@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Chronic Illness"
+title: "How Therapy Helps Manage Chronic Illness Symptoms"
 date: 2026-06-27T15:05:33.896459+00:00
 draft: false
 description: "Discover how therapy helps people with chronic illness manage pain, reduce stress, and improve quality of life through proven mental health strategies."
@@ -23,7 +23,7 @@ faqs:
    a: "Ask directly about their experience with chronic or health-related conditions. Notice whether they treat your medical situation as context they want to understand, or as background noise. A good fit usually becomes clear within three to four sessions. If you're spending significant session time explaining your illness rather than working on your life, that's useful data."
  - q: "Should I see a therapist separately from my medical team, or try to integrate care?"
    a: "Integrated care, where your therapist and physicians are at least loosely communicating, is better when you can get it. It's not always possible. If it isn't, bring a brief summary of your medical situation to your therapist at the start, and don't assume they'll coordinate automatically. You'll often need to be the connector between your providers, which is frustrating but real."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about therapy and chronic illness spend three paragraphs explaining what chronic illness is, then recommend "finding a therapist who understands your condition" without telling you what that actually means or how to do it. That's not useful. Let's skip all of that.

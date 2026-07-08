@@ -1,5 +1,5 @@
 ---
-title: "DBT Therapy What Is It"
+title: "DBT Skills That Actually Change How You Cope"
 date: 2026-05-24T20:44:34.831968+00:00
 draft: false
 description: "Discover what DBT therapy is, how it works, and who it can help. Learn about the key skills taught in dialectical behaviour therapy and its proven benefits."
@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-08
 ---
 You've tried therapy before, maybe even more than once, and it helped a little. But the part of you that floods with emotion, that reacts in ways you regret hours later, that part never quite got addressed. Willpower alone hasn't budged it. If that's you, DBT is probably the conversation you haven't had yet.
 

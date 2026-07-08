@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Adult Children Of Alcoholics"
+title: "Healing From Alcoholic Parents: A Therapy Guide"
 date: 2026-06-21T15:30:58.100585+00:00
 draft: false
 description: "Discover effective therapy options for adult children of alcoholics to heal childhood trauma, break unhealthy patterns, and build healthier relationships."
@@ -23,7 +23,7 @@ faqs:
    a: "Longer than you'd probably like, and anyone who tells you otherwise is being optimistic in a way that sets you up for disappointment. These are deeply embedded patterns formed over years. Meaningful change typically happens over months to years of consistent work. That said, most people notice real shifts earlier in the process than they expect, even if the full arc is long."
  - q: "Can therapy help even if my parent is still actively drinking?"
    a: "Yes. Your work doesn't require your parent to change or acknowledge anything. Therapy for ACAs focuses on your patterns, your beliefs, and your nervous system, not on resolving or repairing the relationship with your parent. The relationship may shift as you do. Or it may not. Either way, your healing isn't contingent on theirs."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Growing up in a home shaped by alcohol doesn't end when you move out. That's the part most articles skip past in one sentence before listing coping tips. The truth is more complicated and, frankly, more interesting: adult children of alcoholics (ACAs) often spend decades confused about why certain things feel so hard, intimacy, conflict, trusting their own perceptions, before they connect those struggles to what happened in childhood. Therapy is where that connection usually gets made. But not all therapy is equally useful for this population, and walking into the wrong room can actually reinforce the problem.

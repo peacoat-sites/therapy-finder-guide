@@ -1,5 +1,5 @@
 ---
-title: "How To Help Someone Having A Panic Attack"
+title: "5 Ways To Ground Someone In A Panic Attack"
 date: 2026-06-04T12:24:46.132245+00:00
 draft: false
 description: "Learn how to help someone having a panic attack with calm, practical steps. Discover what to say, what to avoid, and when to seek professional help."
@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most articles about panic attacks spend three paragraphs explaining what a panic attack *is* before they get to anything useful. You're already standing next to someone who's hyperventilating and gripping a table. You don't need a definition.
 

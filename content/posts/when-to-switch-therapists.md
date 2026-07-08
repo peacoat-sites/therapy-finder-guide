@@ -1,5 +1,5 @@
 ---
-title: "When To Switch Therapists"
+title: "Red Flags It's Time to Find a New Therapist"
 date: 2026-05-22T04:28:25.616035+00:00
 draft: false
 description: "Sessions feel like just going through the motions? Learn the real signs it is time to switch therapists and how to make the change without guilt."
@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-08
 ---
 You've been seeing your therapist for eight months. You don't dread the appointments exactly, but you don't look forward to them either. Sessions feel a little like going through the motions. You talk, they nod, they ask a clarifying question or two, you wrap up. You leave feeling... fine. Not worse. But not better, either. And somewhere underneath the politeness of it all, you're starting to wonder: is this just how therapy works, or is something off? That quiet question, the one most people push down because they feel guilty even thinking it, is exactly what we need to talk about.
 

@@ -1,5 +1,5 @@
 ---
-title: "Support Groups Vs Therapy"
+title: "Support Groups vs Therapy: Which Works Best"
 date: 2026-05-18T09:53:00.110519+00:00
 draft: false
 description: "Explore the key differences between support groups and therapy to find the right mental health option for your needs, goals, and personal situation."
@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You finally worked up the nerve to tell your doctor you've been struggling. She nods, scribbles something on her notepad, and says, "You might want to try a support group or therapy." You leave the office no clearer than when you walked in. Are those the same thing? Is one better than the other? Can you even afford therapy right now?
 

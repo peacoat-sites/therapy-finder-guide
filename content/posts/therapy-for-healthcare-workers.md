@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Healthcare Workers"
+title: "Why Healthcare Workers Need Therapy Too"
 date: 2026-06-29T16:46:53.585572+00:00
 draft: false
 description: "Discover how therapy helps healthcare workers manage burnout, compassion fatigue, and stress. Learn about mental health support options made for medical profess"
@@ -23,7 +23,7 @@ faqs:
    a: "For most people dealing with burnout, anxiety, and occupational stress (rather than severe psychiatric conditions), the research suggests telehealth CBT and ACT are comparably effective to in-person formats. The bigger clinical caveat is that severe depression or PTSD may benefit from in-person care, particularly if safety is a concern."
  - q: "What if I can't afford therapy or my insurance coverage is limited?"
    a: "Open Path Collective offers sessions at reduced rates (often $30 to $80) for people who don't qualify for free services but can't afford standard fees. Community mental health centers, teaching clinics at psychology graduate programs, and some hospital employee assistance programs also offer low-cost or free sessions. SAMHSA's locator at findtreatment.gov can help you find sliding-scale options by zip code."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume that being surrounded by medical knowledge makes it easier to ask for help. I believed that too, for a long time. The reality is almost the opposite.

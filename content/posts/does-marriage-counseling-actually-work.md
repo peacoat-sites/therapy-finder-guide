@@ -1,5 +1,5 @@
 ---
-title: "Does Marriage Counseling Actually Work"
+title: "Does Marriage Counseling Really Help Couples?"
 date: 2026-06-10T16:51:20.178339+00:00
 draft: false
 description: "Wondering if marriage counseling actually works? Discover success rates, what factors influence outcomes, and how couples therapy can help save or strengthen yo"
@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The honest answer is: sometimes. That's not the hedge you'll find in most articles about marriage counseling, which tend to land somewhere between cautious optimism and outright cheerleading. But vague encouragement doesn't help you decide whether to spend $150 per session on [couples therapy](/couples-therapy-how-it-works/) or have a harder conversation about whether your relationship is actually salvageable.
 

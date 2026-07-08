@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Anxiety Treatment"
+title: "Anxiety Treatment Options Beyond Talk Therapy"
 date: 2026-05-19T11:31:16.564145+00:00
 draft: false
 description: "Discover effective therapy options for anxiety treatment. Learn how CBT, mindfulness, and other proven approaches can help you manage symptoms and reclaim your "
@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your heart's racing in a work meeting. You've got no idea why. Your palms are damp, you're half-listening to whoever's talking, and you're half-convinced something is seriously wrong even though nothing is. You make it through, drive home, spend the evening replaying the whole thing. It happens three times, four times, five times a week. You've Googled your symptoms, reassured yourself it's probably nothing, then Googled again. If that sounds like you, first thing: you're not alone. Second thing: you're not stuck. Anxiety is one of the most treatable mental health conditions out there, and therapy (the right kind, matched to what you're actually dealing with) can change things in ways that feel almost impossible to believe until you experience them.
 

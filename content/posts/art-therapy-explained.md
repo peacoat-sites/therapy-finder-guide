@@ -1,5 +1,5 @@
 ---
-title: "Art Therapy Explained"
+title: "How Art Therapy Heals the Mind and Body"
 date: 2026-07-02T15:43:19.697439+00:00
 draft: false
 description: "Discover how art therapy works, who it helps, and what to expect in a session. Explore the mental health benefits of creative expression through guided art."
@@ -23,6 +23,7 @@ faqs:
    a: "Yes, and this is actually one of its strongest evidence bases. Because trauma is often stored somatically and pre-verbally, trauma survivors sometimes find that talking directly about the event is less accessible or more destabilizing than working through imagery. Art therapy allows for what clinicians call 'titrated exposure,' approaching difficult material at a pace and a distance the client can manage. Always work with a trauma-trained clinician if this is your focus."
  - q: "How long does art therapy take to work?"
    a: "This depends enormously on what you're working on. Some people report feeling meaningfully different after six to eight sessions. Others are in ongoing art therapy for years, particularly when addressing complex trauma or chronic mental health conditions. The research on short-term art therapy groups (six to twelve sessions) generally shows measurable symptom improvement, but 'working' means different things for different goals. Talk with your therapist early about what you're hoping to see change and how you'll both know if it's happening."
+lastmod: 2026-07-08
 ---
 
 Most people who ask me about art therapy are secretly asking something else. They're asking: *Is this real therapy, or is it just crafts?*

@@ -1,5 +1,5 @@
 ---
-title: "Antidepressants And Therapy Combined"
+title: "Why Combining Therapy and Antidepressants Works Better"
 date: 2026-06-14T15:29:29.412809+00:00
 draft: false
 description: "Discover how combining antidepressants with therapy can boost treatment outcomes for depression, offering a powerful, evidence-based approach to lasting mental "

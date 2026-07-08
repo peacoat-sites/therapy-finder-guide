@@ -1,5 +1,5 @@
 ---
-title: "How To Know If Therapy Is Working"
+title: "Signs Your Therapy Is Actually Working"
 date: 2026-05-29T12:49:28.167265+00:00
 draft: false
 description: "Wondering if therapy is actually helping you? Learn the key signs that therapy is working, from improved mood to better relationships, and when to reassess your"
@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Maybe you've been going to therapy for six weeks, or six months, and you're sitting in the parking lot before a session wondering: *Is this actually doing anything?* You're not sure if what you're feeling is progress or just… talking. You don't want to seem ungrateful, and you're not ready to quit, but the question is sitting there, quietly, and it won't leave.
 

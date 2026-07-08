@@ -1,5 +1,5 @@
 ---
-title: "Therapy For People Pleasing"
+title: "Stop Being Everyone's Therapist: Break the People-Pleasing Cycle"
 date: 2026-07-07T16:06:42.080666+00:00
 draft: false
 description: "Discover how therapy helps you overcome people pleasing patterns, set healthy boundaries, and build authentic relationships rooted in self-worth and confidence."

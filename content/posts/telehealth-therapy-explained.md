@@ -1,5 +1,5 @@
 ---
-title: "Telehealth Therapy Explained"
+title: "How Online Therapy Sessions Actually Work"
 date: 2026-05-28T21:16:32.997617+00:00
 draft: false
 description: "Telehealth therapy explained: Learn how online mental health counseling works, its benefits, effectiveness, and what to expect from virtual therapy sessions."
@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-
+lastmod: 2026-07-08
 ---
 You've been meaning to call a therapist for months. Finally, you do. The first three aren't taking new patients. The fourth is 45 minutes away with only Tuesday morning appointments. You work Tuesday mornings. Browser closes. You'll try again later. For most people, later never happens. Telehealth therapy exists because of exactly this gap, between deciding you need help and actually getting it.
 

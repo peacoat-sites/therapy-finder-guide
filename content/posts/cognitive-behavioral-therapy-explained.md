@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Behavioral Therapy Explained"
+title: "How Cognitive Behavioral Therapy Rewires Your Brain"
 date: 2026-05-26T16:12:49.624660+00:00
 draft: false
 description: "Learn how cognitive behavioral therapy works, what to expect from CBT sessions, and how this evidence-based treatment can help manage anxiety, depression, and m"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've been waking up at 3 a.m. for six months. Same thoughts looping. Worst-case scenarios on repeat. You've tried journaling, meditation apps, cutting caffeine. Nothing works. Your doctor mentions CBT and you nod, but honestly? You have no idea what it actually involves or if it'd even help someone like you.
 

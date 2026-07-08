@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Grief After Losing A Loved One"
+title: "How to Heal: A Therapist's Guide to Grief"
 date: 2026-06-11T17:08:14.333047+00:00
 draft: false
 description: "Discover how therapy can help you heal after losing a loved one. Explore grief counseling options, coping strategies, and compassionate support to guide your jo"
@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-08
 ---
 Grief doesn't follow a schedule. And if you're reading this, you're probably somewhere in the thick of it, maybe weeks out from a loss, maybe years, wondering why it still hits you sideways when you open a cabinet and see their coffee mug. You might be wondering whether what you're feeling is "normal," or whether it's finally time to talk to someone. Both questions deserve real consideration.
 

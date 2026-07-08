@@ -1,5 +1,5 @@
 ---
-title: "Does Insurance Cover Therapy"
+title: "Your Insurance Plan's Therapy Coverage Explained"
 date: 2026-05-26T04:43:25.906951+00:00
 draft: false
 description: "Find out if insurance covers therapy, what mental health benefits are included in your plan, and how to navigate copays, deductibles, and in-network providers."
@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You call your insurance company on a Tuesday morning, ready to finally book that first therapy appointment. Forty-five minutes later, you hang up more confused than when you started. Deductibles, out-of-pocket maximums, "in-network" versus "out-of-network," prior authorization, mental health parity. The words blur together. And somewhere in that blur, the idea of actually *going* to therapy quietly gets shelved. I've watched this happen to people more times than I can count, and it's one of the most frustrating obstacles between someone and the help they need. The good news is that most insurance plans do cover therapy to some meaningful degree, but understanding exactly what you're entitled to takes a little unpacking.
 

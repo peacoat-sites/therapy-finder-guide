@@ -1,5 +1,5 @@
 ---
-title: "Schema Therapy Explained"
+title: "How Schema Therapy Rewires Harmful Thought Patterns"
 date: 2026-06-30T16:11:35.135818+00:00
 draft: false
 description: "Discover how schema therapy works, what emotional schemas are, and how this powerful approach helps you break lifelong patterns and heal deep-rooted issues."
@@ -23,7 +23,7 @@ faqs:
    a: "In some depth, yes. Schema therapy will look at where your patterns came from, which often means exploring childhood experiences. The therapist isn't just asking you to recount painful memories clinically; the experiential techniques are designed to process those memories rather than just analyze them. It can be uncomfortable, but a good schema therapist will pace it carefully and won't push you somewhere you're not ready to go."
  - q: "What's the difference between schemas and cognitive distortions?"
    a: "Cognitive distortions (from classic CBT) are thinking errors: catastrophizing, all-or-nothing thinking, etc. Schemas are more foundational. They're deep-seated beliefs and emotional patterns about yourself and the world that generate those distortions in the first place. Addressing a cognitive distortion without addressing the underlying schema is a bit like fixing a symptom without the cause: the distortion keeps coming back because the schema is still running underneath it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who've tried regular talk therapy and felt like it "didn't quite work" weren't doing anything wrong. They just may have needed something that goes deeper than coping strategies and cognitive reframing. Schema therapy is that something, and I've seen it change people's lives in ways that surprised even them.

@@ -1,5 +1,5 @@
 ---
-title: "Types Of Therapy Explained"
+title: "Find Your Ideal Therapy: 6 Major Approaches Compared"
 date: 2026-05-21T06:24:19.414039+00:00
 draft: false
 description: "Explore the most common types of therapy explained simply, from CBT to psychodynamic approaches, to help you find the right mental health support for your needs"
@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've finally decided to try therapy. You search online, find a list of credentials that reads like a foreign language (CBT, DBT, EMDR, psychodynamic, somatic, ACT, IFS), and close the tab. A few days later you try again, get overwhelmed, and quietly talk yourself out of the whole thing. This happens to more people than anyone admits, and it breaks my heart because that moment of confusion is usually the only thing standing between someone and real help.
 

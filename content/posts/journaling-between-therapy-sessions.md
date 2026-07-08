@@ -1,5 +1,5 @@
 ---
-title: "Journaling Between Therapy Sessions"
+title: "How To Use Journaling Between Therapy Sessions"
 date: 2026-06-26T15:40:52.267762+00:00
 draft: false
 description: "Journaling between therapy sessions can deepen self-awareness and accelerate healing. Discover prompts and techniques to make the most of your practice."
@@ -23,7 +23,7 @@ faqs:
    a: "Honestly, a few sentences is enough if that's what you have. There's no minimum. The quality of your attention matters more than the word count."
  - q: "Can journaling replace therapy if I can't access it right now?"
    a: "It can be a meaningful support tool when therapy isn't accessible, but it isn't a substitute for professional care. Journaling doesn't provide external perspective, clinical assessment, or evidence-based intervention. If cost or access is a barrier, NAMI's resources and community mental health centers often have low-cost or sliding-scale options worth exploring."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 If you've [recently started therapy](/starting-therapy-as-adult-guide/), or you're thinking about it, there's a good chance you've wondered what to do with the six days between sessions. An hour a week is genuinely not a lot of time. You and your therapist can only get so far before the session ends and you're back in your car, half-processed, sitting with things that didn't quite get resolved. That gap is real, and it matters.

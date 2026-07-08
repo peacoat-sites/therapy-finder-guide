@@ -1,5 +1,5 @@
 ---
-title: "Teen Therapy Options"
+title: "Which Teen Therapy Option Works Best for You"
 date: 2026-05-25T12:48:33.503757+00:00
 draft: false
 description: "Explore the best teen therapy options available, from cognitive behavioral therapy to group counseling. Find the right mental health support for your teenager t"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your 15-year-old hasn't left their room in three weeks. They're sleeping until noon, their grades have tanked, they snap at everyone, and when you ask what's wrong you get a shrug or a slammed door. Something's clearly off. You just have no idea what to do about it.
 

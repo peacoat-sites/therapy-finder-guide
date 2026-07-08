@@ -1,5 +1,5 @@
 ---
-title: "What To Expect First Therapy Session"
+title: "Your First Therapy Session: What Actually Happens"
 date: 2026-05-28T14:49:06.814407+00:00
 draft: false
 description: "Nervous about your first therapy session? Learn what to expect, how to prepare, and what your therapist will ask so you can feel calm and confident walking in."
@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-08
 ---
 Most people spend more time researching a new restaurant than preparing for their first therapy session. Then the appointment arrives, they sit down across from a stranger, and the first question, "So, what brings you in today?", lands like a spotlight. If you've ever frozen in that moment, or skipped booking the appointment entirely because you weren't sure what you were walking into, you're not alone. That uncertainty is one of the most common reasons people delay getting help they actually need.
 

@@ -1,5 +1,5 @@
 ---
-title: "FSA HSA For Therapy Costs"
+title: "Use Your FSA or HSA to Pay for Therapy"
 date: 2026-05-22T04:06:44.784802+00:00
 draft: false
 description: "Save on therapy costs using your FSA or HSA. Learn how these tax-advantaged accounts cover mental health sessions and how to maximize your benefits today."
@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you've finally decided to start therapy and then looked at the cost, you know that specific sinking feeling. Maybe your insurance has a high deductible you haven't met yet, or your plan barely covers mental health visits, or you're paying entirely out of pocket. Here's the part nobody mentions: you may already have a tax-advantaged account sitting in your benefits portal that can make therapy significantly more affordable. FSAs and HSAs don't get nearly enough attention in conversations about mental health access, and that's a real shame.
 

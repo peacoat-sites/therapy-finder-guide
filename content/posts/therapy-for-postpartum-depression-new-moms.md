@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Postpartum Depression New Moms"
+title: "How Therapy Helps New Moms Recover From Postpartum Depression"
 date: 2026-06-22T18:08:17.616881+00:00
 draft: false
 description: "Discover effective therapy options for postpartum depression to help new moms heal, regain balance, and bond with their baby during this challenging time."
@@ -23,6 +23,7 @@ faqs:
    a: "Many women see meaningful improvement within eight to twelve structured sessions of CBT or IPT. That's not a guarantee, and some women benefit from longer-term support, especially if there's a history of depression or significant relationship stress. But PPD is not a chronic, treatment-resistant condition for most people. It gets better."
  - q: "My partner thinks I just need more sleep and help around the house. How do I explain that I need actual therapy?"
    a: "Sleep deprivation and practical support do matter, and your partner isn't wrong that those things help. But PPD has a neurobiological component that rest alone won't fix, the same way sleep won't treat a broken leg. Framing it that way sometimes lands better than a debate about feelings. If your partner is resistant, going to a single session together can help them understand what you're actually dealing with."
+lastmod: 2026-07-08
 ---
 
 You're three weeks postpartum, you haven't slept more than two hours in a stretch, and everyone keeps asking if you're "just loving every minute." You're not. You feel hollowed out, anxious in a way that sits in your chest, and maybe a little frightened by how little you feel toward the baby you spent nine months waiting for. You search "postpartum depression" at 2 a.m. and immediately feel overwhelmed by how many tabs you have to open before you find anything useful.

@@ -1,5 +1,5 @@
 ---
-title: "Play Therapy For Children"
+title: "How Play Therapy Helps Children Process Emotions"
 date: 2026-06-12T16:34:40.374182+00:00
 draft: false
 description: "Discover how play therapy helps children express emotions, overcome trauma, and improve behaviour through guided, therapeutic play techniques with trained profe"
@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most parents who ask me about play therapy are expecting me to talk them into it. They've already Googled it, watched a few reassuring YouTube videos, and arrived at my inbox half-convinced but unsure if it's "real" therapy or just an expensive playdate. Here's what I actually tell them: it's one of the most evidence-backed approaches we have for children under twelve. The fact that it looks like playing? That's a feature, not a flaw.
 

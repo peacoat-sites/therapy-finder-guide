@@ -1,5 +1,5 @@
 ---
-title: "Therapy For OCD"
+title: "How Exposure Therapy Treats OCD Intrusive Thoughts"
 date: 2026-05-28T23:01:26.262314+00:00
 draft: false
 description: "Explore evidence-based therapy options for OCD including ERP and cognitive behavioral therapy. Learn how treatment can help manage symptoms and improve quality "
@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've checked the stove four times. You know it's off. You watched yourself turn the knob. And yet the thought is already creeping back in, louder this time, more insistent. So you check again. This is the exhausting loop that millions of people live inside every day, and if it sounds familiar, you should know something important: effective treatment exists, and it works better than most people realize.
 

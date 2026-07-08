@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Blended Families"
+title: "Blended Family Conflicts: A Therapist's Guide To Healing"
 date: 2026-07-04T14:53:42.721509+00:00
 draft: false
 description: "Discover how therapy helps blended families build trust, improve communication, and create harmony between stepparents, stepchildren, and siblings."

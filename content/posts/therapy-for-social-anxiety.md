@@ -1,5 +1,5 @@
 ---
-title: "Therapy For Social Anxiety"
+title: "How To Overcome Social Anxiety Without Medication"
 date: 2026-05-28T09:41:50.165730+00:00
 draft: false
 description: "Struggling with social anxiety? Discover how therapy can help you build confidence, manage fear, and connect with others. Find the right treatment option for yo"
@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You rehearsed the coffee order three times in your head before walking up to the counter. And then the barista asked a follow-up question you didn't expect, your face went hot, and you spent the next two hours replaying that 45-second interaction wondering if you'd seemed weird. If that sounds familiar, you're not dramatic and you're not broken. You're dealing with social anxiety, and it's more treatable than most people think.
 
