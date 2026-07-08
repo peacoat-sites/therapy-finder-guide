@@ -1,0 +1,43 @@
+{{- $tools := .Site.Data.tools -}}
+{{- $quiz := .Site.Data.quiz -}}
+{{- if or $tools (and $quiz $quiz.url) -}}
+<div class="nav-tools" data-nav-tools>
+  <button type="button" class="nav-tools-btn" aria-haspopup="true" aria-expanded="false">Tools
+    <svg class="nav-tools-caret" width="9" height="9" viewBox="0 0 12 12" aria-hidden="true"><path d="M2 4l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+  <div class="nav-tools-menu" role="menu">
+    {{- with $quiz }}{{- with .url }}
+    <a href="{{ . }}" role="menuitem" class="nt-item nt-quiz" title="{{ $quiz.title }}"><span class="nt-ic">&#10067;</span><span>Take the Quiz</span></a>
+    {{- end }}{{- end }}
+    {{- range $tools }}
+    <a href="{{ .url }}" role="menuitem" class="nt-item"><span class="nt-ic">{{ .icon }}</span><span>{{ .label }}</span></a>
+    {{- end }}
+  </div>
+</div>
+<style>
+.nav-tools{position:relative;display:inline-block}
+.nav-tools-btn{display:inline-flex;align-items:center;gap:4px;background:none;border:0;cursor:pointer;font-size:11px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.7);padding:0 0 3px;font-family:inherit;transition:var(--trans)}
+.nav-tools-btn:hover{color:#fff}
+.nav-tools-caret{transition:transform .2s}
+.nav-tools:hover .nav-tools-caret,.nav-tools.open .nav-tools-caret{transform:rotate(180deg)}
+.nav-tools-menu{position:absolute;top:calc(100% + 12px);right:0;min-width:232px;background:#fff;border:1px solid rgba(0,0,0,.08);border-radius:12px;box-shadow:0 12px 36px rgba(0,0,0,.18);padding:6px;opacity:0;visibility:hidden;transform:translateY(-4px);transition:opacity .15s,transform .15s,visibility .15s;z-index:200}
+.nav-tools:hover .nav-tools-menu,.nav-tools.open .nav-tools-menu,.nav-tools:focus-within .nav-tools-menu{opacity:1;visibility:visible;transform:none}
+.nt-item{display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:8px;color:#1e293b;text-decoration:none;font-size:.9rem;font-weight:600;letter-spacing:0;text-transform:none;white-space:nowrap}
+.nt-item::after{display:none}
+.nt-item:hover{background:#f1f5f9}
+.nt-ic{font-size:1.05rem;line-height:1;flex-shrink:0}
+.nt-quiz{border-bottom:1px solid rgba(0,0,0,.08);border-radius:8px 8px 0 0;margin-bottom:2px;padding-bottom:11px;color:var(--accent,#4338ca)}
+@media (max-width:768px){
+  .nav-tools{display:block;width:100%}
+  .nav-tools-menu{position:static;opacity:1;visibility:visible;transform:none;box-shadow:none;border:0;background:transparent;padding:6px 0 0;min-width:0}
+  .nt-item{color:rgba(255,255,255,.85)}
+  .nt-item:hover{background:rgba(255,255,255,.08)}
+  .nt-quiz{color:#fff;border-bottom-color:rgba(255,255,255,.15)}
+}
+</style>
+<script>
+(function(){var w=document.querySelector('[data-nav-tools]');if(!w)return;var b=w.querySelector('.nav-tools-btn');
+b.addEventListener('click',function(e){e.stopPropagation();var o=w.classList.toggle('open');b.setAttribute('aria-expanded',o);});
+document.addEventListener('click',function(e){if(!w.contains(e.target)){w.classList.remove('open');b.setAttribute('aria-expanded','false');}});})();
+</script>
+{{- end -}}
