@@ -3,7 +3,7 @@ title: "Somatic Therapy Explained"
 date: 2026-05-20T04:50:24.472596+00:00
 draft: false
 description: "Somatic therapy explained: Learn how this body-focused healing approach treats trauma and emotional pain by reconnecting mind and body for lasting wellness."
-image: "https://images.pexels.com/photos/9064779/pexels-photo-9064779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9064779.jpg"
 categories: ["Therapy Types"]
 tags: ["somatic", "therapy", "explained"]
 slug: "somatic-therapy-explained"

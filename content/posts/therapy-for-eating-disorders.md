@@ -3,7 +3,7 @@ title: "Therapy For Eating Disorders"
 date: 2026-06-12T16:32:54.171790+00:00
 draft: false
 description: "Discover effective therapy options for eating disorders, including CBT, DBT and family-based treatment, to support lasting recovery and improve your mental heal"
-image: "https://images.pexels.com/photos/5842232/pexels-photo-5842232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5842232.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "eating", "disorders"]
 slug: "therapy-for-eating-disorders"

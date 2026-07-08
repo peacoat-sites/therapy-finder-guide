@@ -3,7 +3,7 @@ title: "Journaling Between Therapy Sessions"
 date: 2026-06-26T15:40:52.267762+00:00
 draft: false
 description: "Journaling between therapy sessions can deepen self-awareness and accelerate healing. Discover prompts and techniques to make the most of your practice."
-image: "https://images.pexels.com/photos/5717022/pexels-photo-5717022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5717022.jpg"
 categories: ["Getting Started"]
 tags: ["journaling", "between", "therapy", "sessions"]
 author: "Kim Davis"

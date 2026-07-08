@@ -3,7 +3,7 @@ title: "Therapy For Adult Children Of Alcoholics"
 date: 2026-06-21T15:30:58.100585+00:00
 draft: false
 description: "Discover effective therapy options for adult children of alcoholics to heal childhood trauma, break unhealthy patterns, and build healthier relationships."
-image: "https://images.pexels.com/photos/7176305/pexels-photo-7176305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7176305.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "adult", "children", "alcoholics"]
 author: "Taylor Brooks"

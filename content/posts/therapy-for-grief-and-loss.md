@@ -3,7 +3,7 @@ title: "Therapy For Grief And Loss"
 date: 2026-07-06T16:40:14.746152+00:00
 draft: false
 description: "Find compassionate therapy for grief and loss. Explore proven approaches to help you heal, process emotions, and move forward after losing someone you love."
-image: "https://images.pexels.com/photos/8871551/pexels-photo-8871551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8871551.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "grief", "loss"]
 author: "Kim Davis"

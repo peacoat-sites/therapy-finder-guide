@@ -3,7 +3,7 @@ title: "What To Do During A Mental Health Crisis"
 date: 2026-06-06T15:02:00.629024+00:00
 draft: false
 description: "Learn what steps to take during a mental health crisis, including how to stay safe, who to call for help, and when to seek emergency support for yourself or oth"
-image: "https://images.pexels.com/photos/5699746/pexels-photo-5699746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5699746.jpg"
 categories: ["Crisis"]
 tags: ["what", "during", "mental", "health", "crisis"]
 slug: "what-to-do-during-a-mental-health-crisis"

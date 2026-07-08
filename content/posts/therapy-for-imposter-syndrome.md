@@ -3,7 +3,7 @@ title: "Therapy For Imposter Syndrome"
 date: 2026-06-21T15:28:31.112921+00:00
 draft: false
 description: "Discover effective therapy options for imposter syndrome to build confidence, silence self-doubt, and embrace your true abilities and accomplishments."
-image: "https://images.pexels.com/photos/6255629/pexels-photo-6255629.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6255629.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "imposter", "syndrome"]
 author: "Kim Davis"

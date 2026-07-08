@@ -3,7 +3,7 @@ title: "Mental Health Crisis Resources"
 date: 2026-05-29T08:47:39.819971+00:00
 draft: false
 description: "Not sure if what you are feeling is an emergency? Find 24/7 crisis lines including 988, text and chat options, and how to get help right now."
-image: "https://images.pexels.com/photos/23496453/pexels-photo-23496453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/23496453.jpg"
 categories: ["Crisis"]
 tags: ["mental", "health", "crisis", "resources"]
 slug: "mental-health-crisis-resources"

@@ -3,7 +3,7 @@ title: "Therapy For Social Anxiety"
 date: 2026-05-28T09:41:50.165730+00:00
 draft: false
 description: "Struggling with social anxiety? Discover how therapy can help you build confidence, manage fear, and connect with others. Find the right treatment option for yo"
-image: "https://images.pexels.com/photos/7278794/pexels-photo-7278794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7278794.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "social", "anxiety"]
 slug: "therapy-for-social-anxiety"

@@ -3,7 +3,7 @@ title: "A Single-Dose LSD Drug Just Beat Every Approved Depression Treatment"
 date: 2026-07-04T14:51:22.890295+00:00
 draft: false
 description: "Discover how a single-dose LSD treatment outperformed every FDA-approved depression medication in groundbreaking new research that could revolutionize mental he"
-image: "https://images.pexels.com/photos/12785272/pexels-photo-12785272.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12785272.jpg"
 categories: ["trending"]
 tags: ["single-dose", "drug", "just", "beat", "every"]
 author: "Taylor Brooks"

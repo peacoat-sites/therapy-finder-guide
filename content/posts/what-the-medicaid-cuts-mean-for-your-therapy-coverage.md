@@ -3,7 +3,7 @@ title: "What the Medicaid Cuts Mean for Your Therapy Coverage"
 date: 2026-07-01T16:08:12.504130+00:00
 draft: false
 description: "Medicaid cuts could impact your access to mental health therapy. Learn what changes mean for your coverage, who is affected, and how to protect your care."
-image: "https://images.pexels.com/photos/29268313/pexels-photo-29268313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29268313.jpg"
 categories: ["trending"]
 tags: ["what", "medicaid", "cuts", "mean", "your"]
 author: "Kim Davis"

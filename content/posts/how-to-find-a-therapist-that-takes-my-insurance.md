@@ -3,7 +3,7 @@ title: "How To Find A Therapist That Takes My Insurance"
 date: 2026-06-09T16:21:59.048537+00:00
 draft: false
 description: "Learn how to find a therapist that takes your insurance with simple steps, including using your insurer's directory, verifying coverage, and comparing in-networ"
-image: "https://images.pexels.com/photos/8441817/pexels-photo-8441817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8441817.jpg"
 categories: ["Finding Help"]
 tags: ["find", "therapist", "that", "takes", "insurance"]
 slug: "how-to-find-a-therapist-that-takes-my-insurance"

@@ -3,7 +3,7 @@ title: "Anger Management Therapy"
 date: 2026-05-25T22:13:59.812462+00:00
 draft: false
 description: "Anger management therapy helps you understand and control anger triggers. Learn effective techniques to reduce stress, improve relationships, and achieve emotio"
-image: "https://images.pexels.com/photos/783941/pexels-photo-783941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/783941.jpg"
 categories: ["Conditions"]
 tags: ["anger", "management", "therapy"]
 slug: "anger-management-therapy"

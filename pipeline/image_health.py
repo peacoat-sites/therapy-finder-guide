@@ -18,7 +18,11 @@ def query_from_slug(slug):
     return " ".join(words[:4]) or slug.replace("-", " ")
 
 def img_ok(url):
-    if not url or not url.startswith("http"):
+    if not url:
+        return False
+    if url.startswith("/"):
+        return True
+    if not url.startswith("http"):
         return False
     try:
         r = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=12)

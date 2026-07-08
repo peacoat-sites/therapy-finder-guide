@@ -3,7 +3,7 @@ title: "Therapy Resistance Overcoming"
 date: 2026-06-18T16:48:50.036962+00:00
 draft: false
 description: "Discover proven strategies to overcome therapy resistance and make real progress in mental health treatment with expert-backed techniques."
-image: "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/271639.jpg"
 categories: ["Getting Started"]
 tags: ["therapy", "resistance", "overcoming"]
 author: "Kim Davis"

@@ -3,7 +3,7 @@ title: "Therapy For Healthcare Workers"
 date: 2026-06-29T16:46:53.585572+00:00
 draft: false
 description: "Discover how therapy helps healthcare workers manage burnout, compassion fatigue, and stress. Learn about mental health support options made for medical profess"
-image: "https://images.pexels.com/photos/6712685/pexels-photo-6712685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6712685.jpg"
 categories: ["Specialized"]
 tags: ["therapy", "healthcare", "workers"]
 author: "Taylor Brooks"

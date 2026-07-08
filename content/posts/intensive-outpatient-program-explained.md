@@ -3,7 +3,7 @@ title: "Intensive Outpatient Program Explained"
 date: 2026-06-19T16:22:44.214458+00:00
 draft: false
 description: "Learn how intensive outpatient programs work, what to expect during sessions, who qualifies, and how IOP compares to other levels of mental health care."
-image: "https://images.pexels.com/photos/5711129/pexels-photo-5711129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5711129.jpg"
 categories: ["Level of Care"]
 tags: ["intensive", "outpatient", "program", "explained"]
 author: "Alex Morgan"

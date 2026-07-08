@@ -3,7 +3,7 @@ title: "Your Therapist May Be Using AI to Record Your Sessions"
 date: 2026-06-23T16:13:36.782947+00:00
 draft: false
 description: "Discover how AI is quietly entering therapy sessions to record and analyze conversations, what it means for your privacy, and what rights you have as a patient."
-image: "https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5699456.jpg"
 categories: ["trending"]
 tags: ["your", "therapist", "using", "record", "your"]
 author: "Kim Davis"

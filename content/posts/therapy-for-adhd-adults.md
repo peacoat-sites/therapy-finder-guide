@@ -3,7 +3,7 @@ title: "Therapy For ADHD Adults"
 date: 2026-05-18T03:52:24.372505+00:00
 draft: false
 description: "Discover effective therapy options for ADHD adults, including cognitive behavioral therapy, coaching, and medication management strategies to improve focus and "
-image: "https://images.pexels.com/photos/7176057/pexels-photo-7176057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7176057.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "ADHD", "adults"]
 slug: "therapy-for-adhd-adults"

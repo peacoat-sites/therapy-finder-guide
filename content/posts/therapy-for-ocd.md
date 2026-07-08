@@ -3,7 +3,7 @@ title: "Therapy For OCD"
 date: 2026-05-28T23:01:26.262314+00:00
 draft: false
 description: "Explore evidence-based therapy options for OCD including ERP and cognitive behavioral therapy. Learn how treatment can help manage symptoms and improve quality "
-image: "https://images.pexels.com/photos/9065234/pexels-photo-9065234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9065234.jpg"
 categories: ["Conditions"]
 tags: ["therapy"]
 slug: "therapy-for-ocd"

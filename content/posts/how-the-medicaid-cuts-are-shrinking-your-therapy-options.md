@@ -3,7 +3,7 @@ title: "How the Medicaid Cuts Are Shrinking Your Therapy Options"
 date: 2026-07-02T15:45:36.148567+00:00
 draft: false
 description: "Medicaid cuts are reducing access to mental health therapy for millions. Learn how these changes affect your coverage, provider options, and what you can do now"
-image: "https://images.pexels.com/photos/8534380/pexels-photo-8534380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8534380.jpg"
 categories: ["trending"]
 tags: ["medicaid", "cuts", "shrinking", "your", "therapy"]
 author: "Dr. Chris Peterson"

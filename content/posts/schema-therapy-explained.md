@@ -3,7 +3,7 @@ title: "Schema Therapy Explained"
 date: 2026-06-30T16:11:35.135818+00:00
 draft: false
 description: "Discover how schema therapy works, what emotional schemas are, and how this powerful approach helps you break lifelong patterns and heal deep-rooted issues."
-image: "https://images.pexels.com/photos/7176322/pexels-photo-7176322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7176322.jpg"
 categories: ["Therapy Types"]
 tags: ["schema", "therapy", "explained"]
 author: "Jamie Sullivan"

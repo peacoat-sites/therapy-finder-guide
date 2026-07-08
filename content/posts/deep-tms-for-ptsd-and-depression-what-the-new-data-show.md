@@ -3,7 +3,7 @@ title: "Deep TMS for PTSD and Depression: What the New Data Show"
 date: 2026-07-07T16:04:38.793224+00:00
 draft: false
 description: "Deep TMS is showing promising results for PTSD and depression. Explore the latest clinical data, how the treatment works, and what it means for patients seeking"
-image: "https://images.pexels.com/photos/5042606/pexels-photo-5042606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5042606.jpg"
 categories: ["trending"]
 tags: ["deep", "ptsd", "depression:", "what", "data"]
 author: "Alex Morgan"

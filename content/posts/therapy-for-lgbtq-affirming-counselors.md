@@ -3,7 +3,7 @@ title: "Therapy For Lgbtq Affirming Counselors"
 date: 2026-06-04T12:22:39.612157+00:00
 draft: false
 description: "Find expert guidance on therapy for LGBTQ clients with affirming counselors who create safe, inclusive spaces to support mental health, identity, and personal g"
-image: "https://images.pexels.com/photos/18500700/pexels-photo-18500700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18500700.jpg"
 categories: ["Specialized"]
 tags: ["therapy", "lgbtq", "affirming", "counselors"]
 slug: "therapy-for-lgbtq-affirming-counselors"

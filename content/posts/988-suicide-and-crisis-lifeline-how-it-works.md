@@ -3,7 +3,7 @@ title: "988 Suicide And Crisis Lifeline How It Works"
 date: 2026-06-20T15:23:08.254483+00:00
 draft: false
 description: "Learn how the 988 Suicide and Crisis Lifeline works, who answers your call, and what to expect when you reach out for immediate mental health support."
-image: "https://images.pexels.com/photos/7128188/pexels-photo-7128188.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7128188.jpg"
 categories: ["Crisis"]
 tags: ["suicide", "crisis", "lifeline", "works"]
 author: "Dr. Chris Peterson"

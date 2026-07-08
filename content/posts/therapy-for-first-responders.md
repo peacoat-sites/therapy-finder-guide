@@ -3,7 +3,7 @@ title: "Therapy For First Responders"
 date: 2026-06-28T15:07:49.522778+00:00
 draft: false
 description: "Discover effective therapy options designed for first responders dealing with PTSD, stress, and trauma to support mental health and long-term wellness."
-image: "https://images.pexels.com/photos/2030190/pexels-photo-2030190.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/2030190.jpg"
 categories: ["Specialized"]
 tags: ["therapy", "first", "responders"]
 author: "Kim Davis"

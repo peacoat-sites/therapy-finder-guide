@@ -3,7 +3,7 @@ title: "Therapy For Chronic Illness"
 date: 2026-06-27T15:05:33.896459+00:00
 draft: false
 description: "Discover how therapy helps people with chronic illness manage pain, reduce stress, and improve quality of life through proven mental health strategies."
-image: "https://images.pexels.com/photos/7176317/pexels-photo-7176317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7176317.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "chronic", "illness"]
 author: "Dr. Chris Peterson"

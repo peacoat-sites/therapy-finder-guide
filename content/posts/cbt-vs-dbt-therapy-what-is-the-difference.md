@@ -3,7 +3,7 @@ title: "CBT Vs DBT Therapy What Is The Difference"
 date: 2026-06-10T16:48:47.901036+00:00
 draft: false
 description: "Explore the key differences between CBT and DBT therapy, how each approach works, and which treatment may be best suited for your mental health needs."
-image: "https://images.pexels.com/photos/7176297/pexels-photo-7176297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7176297.jpg"
 categories: ["Therapy Types"]
 tags: ["therapy", "what", "difference"]
 slug: "cbt-vs-dbt-therapy-what-is-the-difference"

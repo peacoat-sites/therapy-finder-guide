@@ -3,7 +3,7 @@ title: "Parent-Child Interaction Therapy"
 date: 2026-06-30T16:09:00.099766+00:00
 draft: false
 description: "Learn how parent-child interaction therapy strengthens bonds, reduces behavior problems, and improves communication through proven play-based techniques."
-image: "https://images.pexels.com/photos/4934177/pexels-photo-4934177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4934177.jpg"
 categories: ["Specialized"]
 tags: ["parent-child", "interaction", "therapy"]
 author: "Dr. Chris Peterson"

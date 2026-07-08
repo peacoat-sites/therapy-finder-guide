@@ -3,7 +3,7 @@ title: "Your Therapist Knows You're Using AI for Mental Health Support"
 date: 2026-06-29T16:49:14.837946+00:00
 draft: false
 description: "Millions are turning to AI for mental health support, but what do therapists really think? Discover the benefits, risks, and what experts want you to know."
-image: "https://images.pexels.com/photos/6386/person-woman-hand-smartphone.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6386.jpg"
 categories: ["trending"]
 tags: ["your", "therapist", "knows", "you're", "using"]
 author: "Alex Morgan"

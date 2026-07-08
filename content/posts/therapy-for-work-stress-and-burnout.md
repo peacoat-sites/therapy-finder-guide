@@ -3,7 +3,7 @@ title: "Therapy For Work Stress And Burnout"
 date: 2026-05-23T04:47:39.607901+00:00
 draft: false
 description: "Struggling with work stress and burnout? Discover how therapy can help you set boundaries, rebuild energy, and restore balance. Take the first step toward feeli"
-image: "https://images.pexels.com/photos/7640765/pexels-photo-7640765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7640765.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "work", "stress", "burnout"]
 slug: "therapy-for-work-stress-and-burnout"

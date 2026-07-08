@@ -3,7 +3,7 @@ title: "Psychodynamic Therapy Vs CBT"
 date: 2026-05-23T03:41:27.689534+00:00
 draft: false
 description: "Psychodynamic therapy vs CBT: Compare talk therapy approaches, their techniques, effectiveness, costs, and which treatment works best for your needs."
-image: "https://images.pexels.com/photos/5699466/pexels-photo-5699466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5699466.jpg"
 categories: ["Therapy Types"]
 tags: ["psychodynamic", "therapy"]
 slug: "psychodynamic-therapy-vs-cbt"

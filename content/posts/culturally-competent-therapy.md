@@ -3,7 +3,7 @@ title: "Culturally Competent Therapy"
 date: 2026-06-17T16:47:43.803794+00:00
 draft: false
 description: "Discover how culturally competent therapy improves mental health outcomes by honoring your background, values, and identity in every session."
-image: "https://images.pexels.com/photos/7447083/pexels-photo-7447083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7447083.jpg"
 categories: ["Finding Help"]
 tags: ["culturally", "competent", "therapy"]
 author: "Jamie Sullivan"

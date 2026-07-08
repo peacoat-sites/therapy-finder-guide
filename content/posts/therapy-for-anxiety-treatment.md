@@ -3,7 +3,7 @@ title: "Therapy For Anxiety Treatment"
 date: 2026-05-19T11:31:16.564145+00:00
 draft: false
 description: "Discover effective therapy options for anxiety treatment. Learn how CBT, mindfulness, and other proven approaches can help you manage symptoms and reclaim your "
-image: "https://images.pexels.com/photos/36729381/pexels-photo-36729381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36729381.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "anxiety", "treatment"]
 slug: "therapy-for-anxiety-treatment"

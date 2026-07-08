@@ -3,7 +3,7 @@ title: "Therapy Vs Medication For Depression Which Is Better"
 date: 2026-06-07T15:15:33.212592+00:00
 draft: false
 description: "Discover whether therapy or medication works best for depression. Compare effectiveness, benefits, and side effects to help you make the right treatment choice "
-image: "https://images.pexels.com/photos/16051954/pexels-photo-16051954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16051954.jpg"
 categories: ["Treatment"]
 tags: ["therapy", "medication", "depression", "which", "better"]
 slug: "therapy-vs-medication-for-depression-which-is-better"

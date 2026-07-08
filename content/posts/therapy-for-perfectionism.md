@@ -3,7 +3,7 @@ title: "Therapy For Perfectionism"
 date: 2026-06-11T17:10:03.742340+00:00
 draft: false
 description: "Struggling with perfectionism? Discover how therapy can help you overcome unrealistic standards, reduce anxiety, and build a healthier, more balanced mindset to"
-image: "https://images.pexels.com/photos/8961409/pexels-photo-8961409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8961409.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "perfectionism"]
 slug: "therapy-for-perfectionism"

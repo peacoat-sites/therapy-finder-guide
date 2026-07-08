@@ -3,7 +3,7 @@ title: "The VA Is Testing MDMA-Assisted Therapy for Veteran PTSD"
 date: 2026-06-16T18:19:16.826231+00:00
 draft: false
 description: "Discover how the VA is exploring MDMA-assisted therapy as a groundbreaking treatment for veteran PTSD, offering new hope for those struggling with trauma and me"
-image: "https://images.pexels.com/photos/12908893/pexels-photo-12908893.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12908893.jpg"
 categories: ["trending"]
 tags: ["testing", "mdma-assisted", "therapy", "veteran", "ptsd"]
 author: "Alex Morgan"

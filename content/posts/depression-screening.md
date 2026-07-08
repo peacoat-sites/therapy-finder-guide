@@ -5,7 +5,7 @@ draft: false
 slug: "phq9-depression-screening"
 description: "Take the PHQ-9 depression screening questionnaire used by clinicians worldwide. Understand your score, what it means, and when to seek professional help."
 author: "Megan Strand"
-image: "https://images.pexels.com/photos/3807571/pexels-photo-3807571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3807571.jpg"
 categories: ["Mental Health Assessment"]
 tags: ["depression", "screening", "PHQ-9", "mental health assessment"]
 faqs:

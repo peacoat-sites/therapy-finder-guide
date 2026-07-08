@@ -3,7 +3,7 @@ title: "Therapy For Grief After Losing A Loved One"
 date: 2026-06-11T17:08:14.333047+00:00
 draft: false
 description: "Discover how therapy can help you heal after losing a loved one. Explore grief counseling options, coping strategies, and compassionate support to guide your jo"
-image: "https://images.pexels.com/photos/6255874/pexels-photo-6255874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6255874.jpg"
 categories: ["Life Events"]
 tags: ["therapy", "grief", "after", "losing", "loved"]
 slug: "therapy-for-grief-after-losing-a-loved-one"

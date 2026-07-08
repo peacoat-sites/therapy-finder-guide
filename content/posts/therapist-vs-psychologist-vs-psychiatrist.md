@@ -3,7 +3,7 @@ title: "Therapist Vs Psychologist Vs Psychiatrist"
 date: 2026-05-18T06:57:23.565941+00:00
 draft: false
 description: "Confused about therapist vs psychologist vs psychiatrist? Learn the key differences in training, treatment approaches, and when to see each mental health profes"
-image: "https://images.pexels.com/photos/23496502/pexels-photo-23496502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/23496502.jpg"
 categories: ["Finding Help"]
 tags: ["therapist", "psychologist", "psychiatrist"]
 slug: "therapist-vs-psychologist-vs-psychiatrist"

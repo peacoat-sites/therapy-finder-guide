@@ -3,7 +3,7 @@ title: "CBT Worksheets Explained"
 date: 2026-06-15T18:12:12.414937+00:00
 draft: false
 description: "Discover how CBT worksheets work, what they cover, and how they help you challenge negative thoughts and build healthier thinking patterns."
-image: "https://images.pexels.com/photos/6532528/pexels-photo-6532528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6532528.jpg"
 categories: ["Therapy Types"]
 tags: ["worksheets", "explained"]
 author: "Taylor Brooks"

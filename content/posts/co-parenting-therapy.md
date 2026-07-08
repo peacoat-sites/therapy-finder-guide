@@ -3,7 +3,7 @@ title: "Co-Parenting Therapy"
 date: 2026-06-13T15:21:04.942686+00:00
 draft: false
 description: "Discover how co-parenting therapy helps separated parents communicate better, reduce conflict, and prioritize their children's well-being with professional guid"
-image: "https://images.pexels.com/photos/5699421/pexels-photo-5699421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5699421.jpg"
 categories: ["Relationship"]
 tags: ["co-parenting", "therapy"]
 slug: "co-parenting-therapy"

@@ -3,7 +3,7 @@ title: "Medicaid Cuts Are Coming for Mental Health Care. Now What?"
 date: 2026-06-19T16:20:27.275415+00:00
 draft: false
 description: "Medicaid cuts threaten mental health care access for millions. Learn what these changes mean for patients, providers, and how to navigate your coverage options."
-image: "https://images.pexels.com/photos/7789610/pexels-photo-7789610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7789610.jpg"
 categories: ["trending"]
 tags: ["medicaid", "cuts", "coming", "mental", "health"]
 author: "Taylor Brooks"

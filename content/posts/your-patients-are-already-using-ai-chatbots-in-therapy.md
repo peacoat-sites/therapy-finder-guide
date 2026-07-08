@@ -3,7 +3,7 @@ title: "Your Patients Are Already Using AI Chatbots in Therapy"
 date: 2026-06-26T15:43:13.891603+00:00
 draft: false
 description: "Discover how patients are turning to AI chatbots for mental health support, what it means for therapists, and how to address it effectively in your practice."
-image: "https://images.pexels.com/photos/6964143/pexels-photo-6964143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6964143.jpg"
 categories: ["trending"]
 tags: ["your", "patients", "already", "using", "chatbots"]
 author: "Taylor Brooks"

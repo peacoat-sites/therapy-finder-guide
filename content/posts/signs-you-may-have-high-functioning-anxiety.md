@@ -3,7 +3,7 @@ title: "Signs You May Have High Functioning Anxiety"
 date: 2026-06-08T16:59:51.059991+00:00
 draft: false
 description: "Discover the subtle signs of high functioning anxiety, from overthinking and perfectionism to hidden stress, and learn how to recognise and manage this conditio"
-image: "https://images.pexels.com/photos/4458263/pexels-photo-4458263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4458263.jpg"
 categories: ["Conditions"]
 tags: ["signs", "have", "high", "functioning", "anxiety"]
 slug: "signs-you-may-have-high-functioning-anxiety"

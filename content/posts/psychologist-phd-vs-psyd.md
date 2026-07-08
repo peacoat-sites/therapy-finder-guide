@@ -3,7 +3,7 @@ title: "Psychologist Phd Vs Psyd"
 date: 2026-06-27T15:03:19.835119+00:00
 draft: false
 description: "Compare psychologist PhD vs PsyD degrees including training, career paths, salary, and which doctoral program fits your goals in psychology."
-image: "https://images.pexels.com/photos/7972966/pexels-photo-7972966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7972966.jpg"
 categories: ["Finding Help"]
 tags: ["psychologist", "psyd"]
 author: "Alex Morgan"

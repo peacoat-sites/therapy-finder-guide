@@ -3,7 +3,7 @@ title: "Telehealth Therapy Explained"
 date: 2026-05-28T21:16:32.997617+00:00
 draft: false
 description: "Telehealth therapy explained: Learn how online mental health counseling works, its benefits, effectiveness, and what to expect from virtual therapy sessions."
-image: "https://images.pexels.com/photos/7195319/pexels-photo-7195319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7195319.jpg"
 categories: ["Therapy Types"]
 tags: ["telehealth", "therapy", "explained"]
 slug: "telehealth-therapy-explained"

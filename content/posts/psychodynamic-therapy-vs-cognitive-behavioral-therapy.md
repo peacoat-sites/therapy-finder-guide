@@ -3,7 +3,7 @@ title: "Psychodynamic Therapy Vs Cognitive Behavioral Therapy"
 date: 2026-07-03T15:35:04.917620+00:00
 draft: false
 description: "Compare psychodynamic therapy and cognitive behavioral therapy: differences, effectiveness, costs, and which approach may work best for your mental health needs"
-image: "https://images.pexels.com/photos/7176318/pexels-photo-7176318.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7176318.jpg"
 categories: ["Therapy Types"]
 tags: ["psychodynamic", "therapy", "cognitive", "behavioral", "therapy"]
 author: "Jamie Sullivan"

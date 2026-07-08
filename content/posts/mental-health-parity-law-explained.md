@@ -3,7 +3,7 @@ title: "Mental Health Parity Law Explained"
 date: 2026-05-27T18:21:56.013277+00:00
 draft: false
 description: "Learn what mental health parity law means, how it protects your access to mental health care, and what to do if your insurance denies coverage unfairly."
-image: "https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/48148.jpg"
 categories: ["Cost & Access"]
 tags: ["mental", "health", "parity", "explained"]
 slug: "mental-health-parity-law-explained"

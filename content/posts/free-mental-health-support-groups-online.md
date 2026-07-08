@@ -3,7 +3,7 @@ title: "Free Mental Health Support Groups Online"
 date: 2026-06-18T16:46:32.362340+00:00
 draft: false
 description: "Discover free mental health support groups online to connect with others, share experiences, and find emotional support from the comfort of your home."
-image: "https://images.pexels.com/photos/8512131/pexels-photo-8512131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8512131.jpg"
 categories: ["Resources"]
 tags: ["free", "mental", "health", "support", "groups"]
 author: "Jamie Sullivan"

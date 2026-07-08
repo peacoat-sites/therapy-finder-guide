@@ -3,7 +3,7 @@ title: "Community Mental Health Center Access"
 date: 2026-05-18T04:07:32.239547+00:00
 draft: false
 description: "Discover how community mental health centers provide accessible, affordable care for all. Learn about services, eligibility, locations, and how to get the suppo"
-image: "https://images.pexels.com/photos/7176300/pexels-photo-7176300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7176300.jpg"
 categories: ["Cost & Access"]
 tags: ["community", "mental", "health", "center", "access"]
 slug: "community-mental-health-center-access"

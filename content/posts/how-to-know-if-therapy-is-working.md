@@ -3,7 +3,7 @@ title: "How To Know If Therapy Is Working"
 date: 2026-05-29T12:49:28.167265+00:00
 draft: false
 description: "Wondering if therapy is actually helping you? Learn the key signs that therapy is working, from improved mood to better relationships, and when to reassess your"
-image: "https://images.pexels.com/photos/23496501/pexels-photo-23496501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/23496501.jpg"
 categories: ["Getting Started"]
 tags: ["know", "therapy", "working"]
 slug: "how-to-know-if-therapy-is-working"

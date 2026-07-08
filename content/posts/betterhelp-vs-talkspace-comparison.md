@@ -3,7 +3,7 @@ title: "Betterhelp Vs Talkspace Comparison"
 date: 2026-05-28T19:51:58.693827+00:00
 draft: false
 description: "Comparing BetterHelp vs Talkspace? Discover pricing, therapist quality, features, and user experience to find the best online therapy platform for your needs."
-image: "https://images.pexels.com/photos/5217840/pexels-photo-5217840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5217840.jpg"
 categories: ["Cost & Access"]
 tags: ["BetterHelp", "Talkspace", "comparison"]
 slug: "betterhelp-vs-talkspace-comparison"

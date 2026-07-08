@@ -3,7 +3,7 @@ title: "Therapy For Addiction"
 date: 2026-07-06T16:42:06.105144+00:00
 draft: false
 description: "Discover effective therapy options for addiction including CBT, group counseling, and holistic approaches to help you achieve lasting sobriety and recovery."
-image: "https://images.pexels.com/photos/9064384/pexels-photo-9064384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9064384.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "addiction"]
 author: "Taylor Brooks"

@@ -3,7 +3,7 @@ title: "Therapy For Blended Families"
 date: 2026-07-04T14:53:42.721509+00:00
 draft: false
 description: "Discover how therapy helps blended families build trust, improve communication, and create harmony between stepparents, stepchildren, and siblings."
-image: "https://images.pexels.com/photos/7447261/pexels-photo-7447261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7447261.jpg"
 categories: ["Relationship"]
 tags: ["therapy", "blended", "families"]
 author: "Alex Morgan"

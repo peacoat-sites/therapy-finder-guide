@@ -3,7 +3,7 @@ title: "Therapy Sliding Scale Fees"
 date: 2026-05-26T02:06:27.632049+00:00
 draft: false
 description: "Learn how therapy sliding scale fees work, who qualifies, and how to find affordable mental health care that fits your budget and financial situation."
-image: "https://images.pexels.com/photos/5699482/pexels-photo-5699482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5699482.jpg"
 categories: ["Cost & Access"]
 tags: ["therapy", "sliding", "scale", "fees"]
 slug: "therapy-sliding-scale-fees"

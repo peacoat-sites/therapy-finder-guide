@@ -3,7 +3,7 @@ title: "Couples Therapy How It Works"
 date: 2026-05-28T06:49:18.222849+00:00
 draft: false
 description: "Discover how couples therapy works, what to expect in sessions, and how it can help you and your partner improve communication, resolve conflict, and strengthen"
-image: "https://images.pexels.com/photos/9064805/pexels-photo-9064805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9064805.jpg"
 categories: ["Relationship"]
 tags: ["couples", "therapy", "works"]
 slug: "couples-therapy-how-it-works"

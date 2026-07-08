@@ -3,7 +3,7 @@ title: "Emotionally Focused Therapy Eft"
 date: 2026-07-05T15:00:03.524137+00:00
 draft: false
 description: "Discover how Emotionally Focused Therapy strengthens relationships by reshaping emotional bonds. Learn what EFT involves and how it can help couples and individ"
-image: "https://images.pexels.com/photos/7176218/pexels-photo-7176218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7176218.jpg"
 categories: ["Relationship"]
 tags: ["emotionally", "focused", "therapy"]
 author: "Dr. Chris Peterson"

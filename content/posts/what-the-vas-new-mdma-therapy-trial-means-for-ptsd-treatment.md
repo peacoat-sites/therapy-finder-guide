@@ -3,7 +3,7 @@ title: "What the VA's New MDMA Therapy Trial Means for PTSD Treatment"
 date: 2026-06-22T18:05:56.727763+00:00
 draft: false
 description: "Discover what the VA's groundbreaking MDMA therapy trial means for veterans with PTSD and how this landmark study could reshape future mental health treatment o"
-image: "https://images.pexels.com/photos/7467871/pexels-photo-7467871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7467871.jpg"
 categories: ["trending"]
 tags: ["what", "va's", "mdma", "therapy", "trial"]
 author: "Alex Morgan"

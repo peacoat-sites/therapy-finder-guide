@@ -3,7 +3,7 @@ title: "Therapy For Depression And Anxiety Together"
 date: 2026-06-03T14:09:57.887566+00:00
 draft: false
 description: "Discover effective therapy options for treating depression and anxiety together. Learn how combined approaches can help you manage symptoms and improve your men"
-image: "https://images.pexels.com/photos/7699423/pexels-photo-7699423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7699423.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "depression", "anxiety", "together"]
 slug: "therapy-for-depression-and-anxiety-together"

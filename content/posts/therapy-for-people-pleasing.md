@@ -3,7 +3,7 @@ title: "Therapy For People Pleasing"
 date: 2026-07-07T16:06:42.080666+00:00
 draft: false
 description: "Discover how therapy helps you overcome people pleasing patterns, set healthy boundaries, and build authentic relationships rooted in self-worth and confidence."
-image: "https://images.pexels.com/photos/7699526/pexels-photo-7699526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7699526.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "people", "pleasing"]
 author: "Dr. Chris Peterson"

@@ -3,7 +3,7 @@ title: "Returning To Therapy"
 date: 2026-06-13T15:19:00.198411+00:00
 draft: false
 description: "Thinking about returning to therapy? Discover helpful tips on how to reconnect with a therapist, what to expect, and how to make the most of your sessions."
-image: "https://images.pexels.com/photos/5699435/pexels-photo-5699435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5699435.jpg"
 categories: ["Getting Started"]
 tags: ["returning", "therapy"]
 slug: "returning-to-therapy"

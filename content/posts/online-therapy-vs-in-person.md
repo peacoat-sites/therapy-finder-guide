@@ -3,7 +3,7 @@ title: "Online Therapy Vs In-Person"
 date: 2026-05-22T04:57:50.458519+00:00
 draft: false
 description: "Discover the key differences between online therapy and in-person therapy to help you choose the best option for your mental health needs and lifestyle."
-image: "https://images.pexels.com/photos/5905961/pexels-photo-5905961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5905961.jpg"
 categories: ["Therapy Types"]
 tags: ["online", "therapy", "in-person"]
 slug: "online-therapy-vs-in-person"

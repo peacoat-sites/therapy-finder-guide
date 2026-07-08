@@ -3,7 +3,7 @@ title: "Difference Between Psychologist Psychiatrist And Therapist"
 date: 2026-06-09T16:19:55.542905+00:00
 draft: false
 description: "Confused about psychologists, psychiatrists, and therapists? Discover the key differences in their training, roles, and treatments to find the right mental heal"
-image: "https://images.pexels.com/photos/9064360/pexels-photo-9064360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9064360.jpg"
 categories: ["General Info"]
 tags: ["difference", "between", "psychologist", "psychiatrist", "therapist"]
 slug: "difference-between-psychologist-psychiatrist-and-therapist"

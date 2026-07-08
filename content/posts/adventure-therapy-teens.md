@@ -3,7 +3,7 @@ title: "Adventure Therapy Teens"
 date: 2026-06-23T16:11:14.213874+00:00
 draft: false
 description: "Discover how adventure therapy helps teens build confidence, resilience, and emotional skills through outdoor challenges, group activities, and hands-on experie"
-image: "https://images.pexels.com/photos/9292798/pexels-photo-9292798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9292798.jpg"
 categories: ["Specialized"]
 tags: ["adventure", "therapy", "teens"]
 author: "Jamie Sullivan"

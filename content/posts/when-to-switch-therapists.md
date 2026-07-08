@@ -3,7 +3,7 @@ title: "When To Switch Therapists"
 date: 2026-05-22T04:28:25.616035+00:00
 draft: false
 description: "Sessions feel like just going through the motions? Learn the real signs it is time to switch therapists and how to make the change without guilt."
-image: "https://images.pexels.com/photos/8560047/pexels-photo-8560047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8560047.jpg"
 categories: ["Getting Started"]
 tags: ["when", "switch", "therapists"]
 slug: "when-to-switch-therapists"

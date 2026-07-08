@@ -3,7 +3,7 @@ title: "Art Therapy Explained"
 date: 2026-07-02T15:43:19.697439+00:00
 draft: false
 description: "Discover how art therapy works, who it helps, and what to expect in a session. Explore the mental health benefits of creative expression through guided art."
-image: "https://images.pexels.com/photos/7283256/pexels-photo-7283256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7283256.jpg"
 categories: ["Therapy Types"]
 tags: ["therapy", "explained"]
 author: "Alex Morgan"

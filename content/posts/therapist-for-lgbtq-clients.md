@@ -3,7 +3,7 @@ title: "Therapist For Lgbtq Clients"
 date: 2026-07-01T16:10:21.721035+00:00
 draft: false
 description: "Find an affirming LGBTQ therapist who understands your unique experiences. Learn what to look for and how to start your mental health journey today."
-image: "https://images.pexels.com/photos/5699431/pexels-photo-5699431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5699431.jpg"
 categories: ["Finding Help"]
 tags: ["therapist", "lgbtq", "clients"]
 author: "Taylor Brooks"

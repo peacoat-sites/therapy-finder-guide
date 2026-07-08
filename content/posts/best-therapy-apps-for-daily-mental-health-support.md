@@ -3,7 +3,7 @@ title: "Best Therapy Apps For Daily Mental Health Support"
 date: 2026-06-07T15:13:07.108103+00:00
 draft: false
 description: "Discover the best therapy apps for daily mental health support. Compare top-rated options for anxiety, depression, and stress relief to find your perfect mental"
-image: "https://images.pexels.com/photos/36729380/pexels-photo-36729380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36729380.jpg"
 categories: ["Resources"]
 tags: ["best", "therapy", "apps", "daily", "mental"]
 slug: "best-therapy-apps-for-daily-mental-health-support"

@@ -3,7 +3,7 @@ title: "Best Online Therapy Platforms"
 date: 2026-06-06T14:59:55.763821+00:00
 draft: false
 description: "Discover the best online therapy platforms of 2026. Compare top-rated services by cost, features, and therapist quality to find the right mental health support "
-image: "https://images.pexels.com/photos/17485350/pexels-photo-17485350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17485350.jpg"
 categories: ["Finding Help"]
 tags: ["best", "online", "therapy", "platforms", "2026"]
 slug: "best-online-therapy-platforms"

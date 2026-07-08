@@ -5,7 +5,7 @@ draft: false
 description: "Here is a meta description within the 140-155 character range:
 
 The VA is actively testing MDMA-assisted therapy to treat PTSD in veterans. Learn how this groun"
-image: "https://images.pexels.com/photos/7467846/pexels-photo-7467846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7467846.jpg"
 categories: ["trending"]
 tags: ["testing", "mdma-assisted", "therapy", "ptsd", "right"]
 author: "Jamie Sullivan"

@@ -3,7 +3,7 @@ title: "Equine Therapy Explained"
 date: 2026-06-24T15:52:55.288947+00:00
 draft: false
 description: "Discover how equine therapy uses horses to support mental and physical health, who it helps, what a session looks like, and how to find a program near you."
-image: "https://images.pexels.com/photos/26745345/pexels-photo-26745345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/26745345.jpg"
 categories: ["Therapy Types"]
 tags: ["equine", "therapy", "explained"]
 author: "Taylor Brooks"

@@ -3,7 +3,7 @@ title: "Therapy For Postpartum Depression New Moms"
 date: 2026-06-22T18:08:17.616881+00:00
 draft: false
 description: "Discover effective therapy options for postpartum depression to help new moms heal, regain balance, and bond with their baby during this challenging time."
-image: "https://images.pexels.com/photos/7176029/pexels-photo-7176029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7176029.jpg"
 categories: ["Life Events"]
 tags: ["therapy", "postpartum", "depression", "moms"]
 author: "Dr. Chris Peterson"

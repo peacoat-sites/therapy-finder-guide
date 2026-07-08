@@ -3,7 +3,7 @@ title: "988 Mental Health Hotline Guide"
 date: 2026-06-25T16:06:26.833751+00:00
 draft: false
 description: "Learn how the 988 mental health hotline works, who to call, what to expect, and how it connects you to free crisis support anytime."
-image: "https://images.pexels.com/photos/7841805/pexels-photo-7841805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7841805.jpg"
 categories: ["Crisis"]
 tags: ["mental", "health", "hotline", "guide"]
 author: "Jamie Sullivan"

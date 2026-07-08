@@ -3,7 +3,7 @@ title: "EMDR Therapy Explained"
 date: 2026-05-27T16:47:26.090195+00:00
 draft: false
 description: "Discover how EMDR therapy works, what to expect in sessions, and how this evidence-based treatment helps people process trauma and overcome distressing memories"
-image: "https://images.pexels.com/photos/36697319/pexels-photo-36697319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36697319.jpg"
 categories: ["Therapy Types"]
 tags: ["EMDR", "therapy", "explained"]
 slug: "emdr-therapy-explained"

@@ -3,7 +3,7 @@ title: "PTSD Therapy Options"
 date: 2026-05-19T19:24:52.332574+00:00
 draft: false
 description: "Explore effective PTSD therapy options including CBT, EMDR, and exposure therapy. Learn how professional treatment can help manage symptoms and improve your qua"
-image: "https://images.pexels.com/photos/7467842/pexels-photo-7467842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7467842.jpg"
 categories: ["Conditions"]
 tags: ["PTSD", "therapy", "options"]
 slug: "ptsd-therapy-options"

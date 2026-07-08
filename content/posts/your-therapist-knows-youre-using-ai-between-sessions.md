@@ -3,7 +3,7 @@ title: "Your Therapist Knows You're Using AI Between Sessions"
 date: 2026-07-05T15:02:20.893472+00:00
 draft: false
 description: "Discover how therapists are responding to clients using AI for mental health support between sessions and what it means for your care and treatment progress."
-image: "https://images.pexels.com/photos/31466991/pexels-photo-31466991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31466991.jpg"
 categories: ["trending"]
 tags: ["your", "therapist", "knows", "you're", "using"]
 author: "Jamie Sullivan"

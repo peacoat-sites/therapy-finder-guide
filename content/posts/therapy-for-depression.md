@@ -3,7 +3,7 @@ title: "Therapy For Depression"
 date: 2026-05-25T10:41:52.016680+00:00
 draft: false
 description: "Discover effective therapy options for depression, including CBT, talk therapy, and more. Learn how professional treatment can help you reclaim your well-being "
-image: "https://images.pexels.com/photos/8560213/pexels-photo-8560213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8560213.jpg"
 categories: ["Conditions"]
 tags: ["therapy", "depression"]
 slug: "therapy-for-depression"

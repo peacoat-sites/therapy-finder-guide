@@ -3,7 +3,7 @@ title: "The VA Is Now Trialing MDMA Therapy for Veterans With PTSD"
 date: 2026-06-17T16:50:24.353542+00:00
 draft: false
 description: "The VA is trialing MDMA-assisted therapy for veterans with PTSD, offering new hope where traditional treatments have failed. Learn what the research shows."
-image: "https://images.pexels.com/photos/7467908/pexels-photo-7467908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7467908.jpg"
 categories: ["trending"]
 tags: ["trialing", "mdma", "therapy", "veterans", "with"]
 author: "Kim Davis"

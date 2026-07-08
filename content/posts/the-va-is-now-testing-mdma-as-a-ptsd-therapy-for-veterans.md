@@ -3,7 +3,7 @@ title: "The VA Is Now Testing MDMA as a PTSD Therapy for Veterans"
 date: 2026-06-25T16:04:12.853557+00:00
 draft: false
 description: "Discover how the VA is now testing MDMA-assisted therapy to treat PTSD in veterans, offering new hope for those struggling with trauma and mental health challen"
-image: "https://images.pexels.com/photos/7468225/pexels-photo-7468225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7468225.jpg"
 categories: ["trending"]
 tags: ["testing", "mdma", "ptsd", "therapy", "veterans"]
 author: "Dr. Chris Peterson"

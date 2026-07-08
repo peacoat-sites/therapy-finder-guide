@@ -3,7 +3,7 @@ title: "Does Marriage Counseling Actually Work"
 date: 2026-06-10T16:51:20.178339+00:00
 draft: false
 description: "Wondering if marriage counseling actually works? Discover success rates, what factors influence outcomes, and how couples therapy can help save or strengthen yo"
-image: "https://images.pexels.com/photos/4098223/pexels-photo-4098223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4098223.jpg"
 categories: ["Relationship"]
 tags: ["does", "marriage", "counseling", "actually", "work"]
 slug: "does-marriage-counseling-actually-work"

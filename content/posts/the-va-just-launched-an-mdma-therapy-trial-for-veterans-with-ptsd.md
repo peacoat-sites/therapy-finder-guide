@@ -3,7 +3,7 @@ title: "The VA Just Launched an MDMA Therapy Trial for Veterans With PTSD"
 date: 2026-06-28T15:05:40.762259+00:00
 draft: false
 description: "Learn how the VA's groundbreaking MDMA therapy trial aims to help veterans with PTSD find relief through an innovative psychedelic-assisted treatment approach."
-image: "https://images.pexels.com/photos/7467927/pexels-photo-7467927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7467927.jpg"
 categories: ["trending"]
 tags: ["just", "launched", "mdma", "therapy", "trial"]
 author: "Jamie Sullivan"

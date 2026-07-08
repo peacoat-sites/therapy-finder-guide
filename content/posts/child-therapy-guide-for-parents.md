@@ -3,7 +3,7 @@ title: "Child Therapy Guide For Parents"
 date: 2026-05-23T22:56:42.793692+00:00
 draft: false
 description: "Discover how child therapy works, what to expect, and how to support your child's mental health journey with this practical guide for parents."
-image: "https://images.pexels.com/photos/23495765/pexels-photo-23495765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/23495765.jpg"
 categories: ["Specialized"]
 tags: ["child", "therapy", "guide", "parents"]
 slug: "child-therapy-guide-for-parents"

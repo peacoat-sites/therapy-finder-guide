@@ -3,7 +3,7 @@ title: "How To Find A Trauma Informed Therapist"
 date: 2026-06-05T12:21:36.164696+00:00
 draft: false
 description: "Find a trauma-informed therapist who truly understands your needs. Learn what to look for, questions to ask, and where to search for the right specialist."
-image: "https://images.pexels.com/photos/5699500/pexels-photo-5699500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5699500.jpg"
 categories: ["Specialized"]
 tags: ["find", "trauma", "informed", "therapist"]
 slug: "how-to-find-a-trauma-informed-therapist"

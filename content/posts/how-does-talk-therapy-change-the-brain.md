@@ -3,7 +3,7 @@ title: "How Does Talk Therapy Change The Brain"
 date: 2026-06-24T15:54:38.803222+00:00
 draft: false
 description: "Discover how talk therapy physically rewires neural pathways, reduces stress hormones, and creates lasting brain changes that improve mental health."
-image: "https://images.pexels.com/photos/8560049/pexels-photo-8560049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8560049.jpg"
 categories: ["General Info"]
 tags: ["does", "talk", "therapy", "change", "brain"]
 author: "Alex Morgan"
