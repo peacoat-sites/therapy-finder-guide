@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-
+lastmod: 2026-07-07
 ---
 You've told your trauma story so many times you could recite it like a grocery list. Yet every time you do, your chest tightens, your hands go cold, and you're right back in that moment. Talk therapy has helped you understand what happened. You can explain the psychology of it, name the cognitive distortions, identify your triggers. But the body hasn't gotten the memo. That gap between knowing something intellectually and feeling it in your bones is exactly where EMDR therapy lives.
 
@@ -49,7 +49,7 @@ When something triggers that frozen memory, your brain and body respond as if th
 
 Bilateral stimulation, eye movements, tapping, or auditory tones alternating between ears, is thought to mimic what happens during REM sleep, the phase where your brain processes and consolidates the day's experiences. By activating this processing mechanism while you hold a distressing memory in mind, EMDR appears to help your brain finish the job it couldn't complete at the time of the trauma. The memory doesn't disappear. It gets integrated. It becomes something that happened rather than something still happening.
 
-This differs from exposure therapy, where the goal is habituation through repeated contact with the feared stimulus. EMDR isn't asking you to sit with discomfort until it fades. It's attempting to change how the memory is stored.
+This differs from [exposure therapy](/cognitive-behavioral-therapy-explained/), where the goal is habituation through repeated contact with the feared stimulus. EMDR isn't asking you to sit with discomfort until it fades. It's attempting to change how the memory is stored.
 
 ---
 
@@ -59,13 +59,13 @@ What distinguishes EMDR is that it follows a clear protocol. A trained EMDR ther
 
 **Phase 1: History-Taking and Treatment Planning.** The therapist learns about your history, identifies target memories, and assesses your readiness. This isn't a quick intake form. It can take multiple sessions.
 
-**Phase 2: Preparation.** Before any trauma processing begins, your therapist helps you build stabilization skills. This might include a "calm place" visualization, container exercises where you mentally box up distress for later, or grounding techniques. The goal is ensuring you have the internal resources to handle what comes next.
+**Phase 2: Preparation.** Before any trauma processing begins, your therapist helps you build [stabilization skills](/mindfulness-based-therapy/). This might include a "calm place" visualization, container exercises where you mentally box up distress for later, or grounding techniques. The goal is ensuring you have the internal resources to handle what comes next.
 
 **Phase 3: Assessment.** Together, you identify a specific target memory, the image that best represents it, a negative belief connected to it ("I am powerless," "I am worthless"), and a preferred positive belief ("I did the best I could," "I am safe now"). You also rate the emotional distress on a 0-10 Subjective Units of Disturbance scale, and the believability of the positive belief on a 1-7 Validity of Cognition scale.
 
 **Phase 4: Desensitization.** Bilateral stimulation begins. You hold the target memory in mind while the therapist guides your eye movements, taps your knees alternately, or uses auditory tones. After each short set, you report what came up. Associations shift, emotions surface and change, new thoughts emerge. You follow where your mind goes rather than staying rigidly fixed on the original memory.
 
-**Phase 5: Installation.** The positive belief from Phase 3 gets strengthened and linked to the now-processed memory using additional bilateral stimulation.
+**Phase 5: Installation.** The positive belief from Phase 3 gets strengthened and linked to the now-processed memory using additional [bilateral stimulation](/somatic-therapy-explained/).
 
 **Phase 6: Body Scan.** You mentally scan from head to toe, noticing any residual tension or discomfort. If anything remains, more processing happens.
 

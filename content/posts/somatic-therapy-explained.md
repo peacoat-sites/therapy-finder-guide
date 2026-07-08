@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 You've talked about the same painful memory in therapy for months. You understand it intellectually. You can describe what happened, who was involved, why it hurt. But something still feels off, like your body didn't get the memo. Your shoulders tense up without warning. Your chest tightens in certain rooms. You startle easily, sleep poorly, and can't quite explain why.
 
@@ -33,7 +33,7 @@ If that sounds familiar, you're probably experiencing what researchers call a "b
 
 Somatic therapy is an umbrella term for therapeutic approaches that treat the body as an active participant in healing, not just a vehicle the brain rides around in. The word "somatic" comes from the Greek *soma*, meaning body. The central idea is straightforward: trauma, stress, and emotional pain don't just live in your memories or thoughts. They live in your nervous system, your muscles, your breath, your posture.
 
-This differs sharply from traditional talk therapies, which work primarily "top-down," meaning from the thinking brain downward. Somatic approaches work "bottom-up," starting with physical sensation and moving toward cognitive understanding. Neither is universally better. They're often most powerful when combined.
+This differs sharply from [traditional talk therapies](/cognitive-behavioral-therapy-explained/), which work primarily "top-down," meaning from the thinking brain downward. Somatic approaches work "bottom-up," starting with physical sensation and moving toward cognitive understanding. Neither is universally better. They're often most powerful when combined.
 
 The umbrella covers several distinct modalities. Somatic Experiencing (SE), developed by Dr. Peter Levine, focuses on tracking bodily sensations and completing interrupted stress responses. Sensorimotor Psychotherapy integrates sensory and motor processing with psychological insight. The Hakomi Method uses mindfulness and gentle physical experiments to access unconscious material. EMDR, while sometimes categorized separately, shares significant overlap by engaging the body during trauma processing. If you want to understand how EMDR specifically works, [this explanation of EMDR therapy](/emdr-therapy-explained/) lays it out clearly.
 

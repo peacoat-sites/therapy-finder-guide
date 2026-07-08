@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-
+lastmod: 2026-07-07
 ---
 You finally sit down to pay your bills. Twenty minutes later, you're reorganizing your bookshelf, watching a YouTube video about the history of staplers, and vaguely aware that the bills are still unpaid. Sound familiar? For the estimated 8 to 10 million adults in the United States living with ADHD, this kind of moment isn't laziness or lack of willpower. It's a neurological reality. And yet, most adults with ADHD spent decades being told they just needed to "try harder." Therapy can't erase ADHD, but it can genuinely change how you live with it.
 
@@ -33,7 +33,7 @@ Medication gets most of the attention in ADHD treatment, and for good reason. St
 
 Therapy addresses what medication can't: the behavioral patterns, emotional wounds, and skill deficits that build up over a lifetime of untreated or under-treated ADHD. I've seen clients who started medication in their 30s or 40s and found that the medication cleared the fog, but they still had no idea how to actually organize their day. That's where structured, evidence-based therapy comes in.
 
-A meaningful percentage of adults with ADHD also have at least one co-occurring condition: anxiety, depression, sleep disorders. In many cases, therapy is the primary tool for addressing those layers even when medication handles core ADHD symptoms.
+A meaningful percentage of adults with ADHD also have at least one co-occurring condition: [anxiety, depression, sleep disorders](/therapy-for-depression-and-anxiety-together/). In many cases, therapy is the primary tool for addressing those layers even when medication handles core ADHD symptoms.
 
 ## The Most Effective Therapy Types for ADHD Adults
 
@@ -68,7 +68,7 @@ Here's what a 12-session CBT program for adult ADHD might actually cover:
 | 1-2 | Assessment, psychoeducation about ADHD brain function |
 | 3-4 | Organizational systems: calendars, task lists, environment design |
 | 5-6 | Time management and procrastination patterns |
-| 7-8 | Cognitive restructuring: tackling shame, perfectionism, self-criticism |
+| 7-8 | Cognitive restructuring: tackling [shame, perfectionism, self-criticism](/therapy-for-perfectionism/) |
 | 9-10 | Emotional regulation and impulsivity |
 | 11-12 | Relapse prevention, maintaining gains, building on skills |
 

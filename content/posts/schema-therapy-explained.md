@@ -23,6 +23,7 @@ faqs:
    a: "In some depth, yes. Schema therapy will look at where your patterns came from, which often means exploring childhood experiences. The therapist isn't just asking you to recount painful memories clinically; the experiential techniques are designed to process those memories rather than just analyze them. It can be uncomfortable, but a good schema therapist will pace it carefully and won't push you somewhere you're not ready to go."
  - q: "What's the difference between schemas and cognitive distortions?"
    a: "Cognitive distortions (from classic CBT) are thinking errors: catastrophizing, all-or-nothing thinking, etc. Schemas are more foundational. They're deep-seated beliefs and emotional patterns about yourself and the world that generate those distortions in the first place. Addressing a cognitive distortion without addressing the underlying schema is a bit like fixing a symptom without the cause: the distortion keeps coming back because the schema is still running underneath it."
+lastmod: 2026-07-07
 ---
 
 Most people who've tried regular talk therapy and felt like it "didn't quite work" weren't doing anything wrong. They just may have needed something that goes deeper than coping strategies and cognitive reframing. Schema therapy is that something, and I've seen it change people's lives in ways that surprised even them.
@@ -40,6 +41,15 @@ Here's the part that trips people up at first: schemas feel true. They don't fee
 Schema therapy also introduced the concept of "schema modes," which are emotional states or coping patterns that get activated under stress. You might shift into a Vulnerable Child mode (feeling small, scared, helpless), a Detached Protector mode (shutting down emotionally to avoid pain), or an Inner Critic mode (the relentless self-attack). Identifying your own modes is often one of the most clarifying things a person can do.
 
 ## How It Actually Works in Practice
+
+| Therapy Type | Typical Duration | Primary Focus | Key Techniques |
+| --- | --- | --- | --- |
+| Schema Therapy | 50-100+ sessions (2-4 years for complex cases) | Early maladaptive schemas and modes | Imagery rescripting, chairwork, cognitive reframing, behavioral pattern-breaking |
+| CBT | Typically shorter than schema therapy | Cognitive distortions and coping strategies | Thought records, cognitive reframing, behavioral experiments |
+| Psychodynamic Therapy | Variable, often longer-term | Unconscious patterns and childhood origins | Free association, interpretation, exploration of past |
+| DBT | 12+ months typical | Emotion regulation and behavioral change | Skills training, individual therapy, phone coaching, therapist consultation |
+| EMDR | 6-12 sessions typical | Traumatic memories and processing | Bilateral stimulation, memory processing |
+| Somatic Therapy | Variable | Mind-body connection and trauma | Body awareness, movement, somatic techniques |
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -63,7 +73,7 @@ A session-by-session look at how this progresses:
 
 **Healthy adult development:** The long-term goal of schema therapy isn't just insight. It's building what Young called the "healthy adult mode," an internal capacity to meet your own emotional needs, set limits with yourself and others, and engage with life from a less defended place.
 
-The typical treatment length is longer than CBT. Realistically, schema therapy often runs 50 to 100+ sessions for complex presentations. For people with borderline personality disorder or significant childhood trauma, two to four years isn't unusual. That's a real commitment of time and money, and I'd rather be straight with you about that than have you feel blindsided at session twelve.
+The typical treatment length is longer than CBT. Realistically, schema therapy often runs 50 to 100+ sessions for complex presentations. For people with borderline personality disorder or significant [childhood trauma](/emdr-therapy-explained/), two to four years isn't unusual. That's a real commitment of time and money, and I'd rather be straight with you about that than have you feel blindsided at session twelve.
 
 ## Who It's Designed For (and Who It Might Not Suit)
 

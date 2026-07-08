@@ -12,6 +12,7 @@ author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
 slug: "the-va-is-now-trialing-mdma-therapy-for-veterans-with-ptsd"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been following veterans' mental health news, or you're a vet who's struggled with conventional PTSD treatments, something real happened last month. On May 28, 2026, the Department of Veterans Affairs opened enrollment for its first-ever MDMA-assisted therapy trial. Not a proposal. Not a conversation. Actual veterans are being recruited right now at VA Providence Healthcare System and VA Connecticut Healthcare System in West Haven, CT, with enrollment that started May 18. This is a shift worth understanding clearly, both what it is and what it isn't.
 
@@ -41,11 +42,19 @@ The VA's new trial, with its active placebo design, partly responds to the metho
 
 ## What This Means for Veterans Seeking Help Today
 
+| Treatment Approach | Evidence Status | Availability at VA | Notes |
+| --- | --- | --- | --- |
+| Prolonged Exposure (PE) | Established, evidence-based | Core offering | Conventional first-line treatment |
+| Cognitive Processing Therapy (CPT) | Established, evidence-based | Core offering | Conventional first-line treatment |
+| SSRIs/Medication-assisted | Established, evidence-based | Core offering | Conventional pharmacological approach |
+| MDMA-assisted therapy | Breakthrough designation (2017); FDA rejected full approval (2024) | Trial phase (80 veterans, 2 sites) | Under investigation; active placebo-controlled design |
+| Deep TMS | Under investigation | Trial phase | Emerging treatment option |
+
 Stars and Stripes reported on June 2, 2026, that the VA's move sparked real hope among lawmakers and advocates, including in Missouri, where legislators have been pushing for expanded psychedelic research access for veterans. That momentum matters and worth following.
 
 But if you're a veteran with PTSD reading this and wondering if this trial is your answer, here's what I'd say honestly: maybe, and it depends. If you're near Providence or West Haven, you have a PTSD diagnosis with co-occurring alcohol use disorder, and you meet the eligibility criteria, call your VA provider and ask about the trial directly. Clinical trials aren't for everyone, and informed consent means understanding both the potential benefits and the unknowns.
 
-Not near those sites or don't match the criteria? The trial happening doesn't change your options today. The VA still offers solid, evidence-based PTSD treatments. Prolonged Exposure therapy, Cognitive Processing Therapy, medication-assisted approaches, these remain the core of VA mental health care. If those haven't worked for you, asking your provider specifically about treatment-resistant pathways and other active trials is a legitimate and important conversation.
+Not near those sites or don't match the criteria? The trial happening doesn't change your options today. The VA still offers solid, evidence-based PTSD treatments. Prolonged Exposure therapy, [Cognitive Processing Therapy](/deep-tms-for-ptsd-and-depression-what-the-new-data-show/), medication-assisted approaches, these remain the core of VA mental health care. If those haven't worked for you, asking your provider specifically about treatment-resistant pathways and other active trials is a legitimate and important conversation.
 
 The Veterans Crisis Line is available 24/7 at 988 (then press 1), or text 838255. If you're in crisis, start there.
 

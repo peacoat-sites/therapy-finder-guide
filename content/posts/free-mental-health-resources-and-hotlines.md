@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 Most people figure getting mental health support means dropping money on a therapist, waiting weeks (or months) for an opening, and crossing your fingers that your insurance actually pays. I'll be straight with you: that assumption stops a lot of people from reaching out at all. But when I started actually researching this, what jumped out was how many real, free, or nearly-free mental health resources exist right now. Not someday. Today. Available to almost anyone in the U.S. regardless of income, insurance, or where you live. The resources are there. The problem is nobody knows about them.
 
@@ -47,7 +47,7 @@ The [988 Suicide and Crisis Lifeline](https://988lifeline.org/) is the single mo
 A few other lines worth saving to your phone:
 
 - **Crisis Text Line:** Text HOME to 741741. Perfect if you're in a situation where a call feels too risky, like when you're not alone and can't talk out loud.
-- **The Trevor Project:** 1-866-488-7386 or text START to 678-678. Built for LGBTQ+ youth under 25, staffed by people who actually understand the specific pressure that community deals with.
+- **The Trevor Project:** 1-866-488-7386 or text START to 678-678. Built for [LGBTQ+ youth under 25](/therapist-for-lgbtq-clients/), staffed by people who actually understand the specific pressure that community deals with.
 - **Veterans Crisis Line:** Call 988 and press 1, or text 838255. You'll reach VA-trained counselors who specialize in military trauma.
 - **SAMHSA National Helpline:** 1-800-662-4357. Less of a crisis line, more of a treatment referral service, but it's free, confidential, and runs 24/7 for substance use or mental health stuff.
 
@@ -61,7 +61,7 @@ Here's what you actually need to know: you don't have to give your name. They wo
 
 Beyond crisis support, there's a whole tier of actual therapy options that most people have no idea exists.
 
-**Community Mental Health Centers** might be the single most underused resource in America. These are state-funded clinics that have to provide services whether you can pay or not. They use sliding scale fees, meaning you pay based on your income. If you're at or below the poverty line, it genuinely costs zero. Find your local center at findtreatment.gov using SAMHSA's locator tool.
+**[Community Mental Health Centers](/how-to-find-an-affordable-therapist-near-me/)** might be the single most underused resource in America. These are state-funded clinics that have to provide services whether you can pay or not. They use sliding scale fees, meaning you pay based on your income. If you're at or below the poverty line, it genuinely costs zero. Find your local center at findtreatment.gov using SAMHSA's locator tool.
 
 **Federally Qualified Health Centers (FQHCs)** work similarly. They get federal funding and are legally required to serve everyone on a sliding scale. Many have mental health staff integrated with primary care, so you can see a therapist alongside your regular doctor. Search by zip code at findahealthcenter.hrsa.gov.
 
@@ -75,7 +75,7 @@ Beyond crisis support, there's a whole tier of actual therapy options that most 
 
 The research on apps replacing therapy is mixed. But as a stopgap while waiting for an appointment, or as something to use alongside other support, a few have actual evidence backing them.
 
-**Woebot** is a free AI chatbot built on Cognitive Behavioral Therapy principles. It won't replace a human therapist. A trained clinician would catch things it misses. But if you're stuck at 11pm with spinning negative thoughts and every therapist's office is closed, it's something real.
+**Woebot** is a free AI chatbot built on [Cognitive Behavioral Therapy principles](/best-online-therapy-platforms-2026/). It won't replace a human therapist. A trained clinician would catch things it misses. But if you're stuck at 11pm with spinning negative thoughts and every therapist's office is closed, it's something real.
 
 **Wysa** works the same way: free at the basic level, and research actually backs it up. A 2018 study in JMIR mHealth showed statistically significant mood improvements in people using it consistently.
 

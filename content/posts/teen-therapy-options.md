@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-07
 ---
 Your 15-year-old hasn't left their room in three weeks. They're sleeping until noon, their grades have tanked, they snap at everyone, and when you ask what's wrong you get a shrug or a slammed door. Something's clearly off. You just have no idea what to do about it.
 
@@ -51,9 +51,9 @@ Teen therapy isn't one thing. A handful of distinct approaches have strong resea
 
 **Acceptance and Commitment Therapy (ACT)** is picking up steam with adolescents, especially those dealing with anxiety or chronic illness. Instead of fighting difficult thoughts, ACT teaches teens to notice them without letting them control what happens next. For teens who've tried CBT and gotten frustrated that "positive thinking" doesn't stick, ACT can land differently.
 
-**Family Therapy** brings the whole household (or at least a parent) into sessions. This doesn't mean your teen gets off easy. It means the relationships themselves are part of the problem and part of the solution. Teens usually have individual sessions running alongside the family work.
+**[Family Therapy](/parent-child-interaction-therapy/)** brings the whole household (or at least a parent) into sessions. This doesn't mean your teen gets off easy. It means the relationships themselves are part of the problem and part of the solution. Teens usually have individual sessions running alongside the family work.
 
-**Trauma-Focused CBT (TF-CBT)** is built specifically for kids and teens who've been through trauma. It's a structured protocol, not just a vibe, and it actively involves caregivers. If there's any history of abuse, significant loss, community violence, or major trauma, a trauma-informed approach isn't optional. It's necessary.
+**[Trauma-Focused CBT (TF-CBT)](/how-to-find-a-trauma-informed-therapist/)** is built specifically for kids and teens who've been through trauma. It's a structured protocol, not just a vibe, and it actively involves caregivers. If there's any history of abuse, significant loss, community violence, or major trauma, a trauma-informed approach isn't optional. It's necessary.
 
 Art therapy, somatic work, and equine therapy exist for teens who push back against talking. The research is thinner than CBT or DBT, but they have supporters.
 

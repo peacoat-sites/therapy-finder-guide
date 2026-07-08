@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-07
 ---
 You found the right therapist. She specializes in exactly what you're dealing with, her reviews are solid, and she has an opening next week. Then you check her insurance status: out-of-network. Most people close the tab.
 
@@ -32,6 +32,12 @@ That's a mistake.
 Out-of-network therapy reimbursement is real, it's dramatically underused, and for most people it cuts the actual cost by half or more. You'll still pay upfront. But you're getting money back.
 
 ## What "Out-of-Network" Actually Means (and What It Doesn't)
+
+| Plan Type | Out-of-Network Mental Health Coverage | Typical Reimbursement | Prior Authorization Required |
+| --- | --- | --- | --- |
+| PPO | Yes | 50-80% of allowable amount | Varies by plan |
+| POS | Sometimes | 50-80% of allowable amount | Varies by plan |
+| HMO | No (except emergencies) | Not applicable | Not applicable |
 
 Insurance companies have contracts with certain providers. Those are in-network. Everyone else is out-of-network. When you see an out-of-network therapist, you pay the full fee at the session, then submit a claim to your insurer for partial reimbursement.
 
@@ -45,7 +51,7 @@ Here's the thing that actually matters: the therapists you most want to see, spe
 
 Before your first appointment, call the member services number on the back of your insurance card. Ask these questions. Write down the answers, the rep's name, and the call reference number.
 
-1. **Does my plan include out-of-network mental health benefits?**
+1. **Does my plan include [out-of-network mental health benefits](/does-insurance-cover-therapy/)?**
 2. **What is my out-of-network deductible, and how much have I met this year?**
 3. **After the deductible, what percentage does the plan reimburse?**
 4. **What is the allowable amount for CPT code 90837?** (That's the code for a standard 53-minute therapy session.)

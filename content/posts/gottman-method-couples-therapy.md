@@ -23,13 +23,14 @@ faqs:
     a: "Six to eight sessions is diagnostic; you'll know if the method is clicking. Real change (less frequent Four Horsemen patterns, better repair attempts when conflict happens) usually takes 12 to 16 sessions over three to four months. Some couples need 20+."
   - q: "What if I can't afford Gottman therapy at full price?"
     a: "Ask the therapist about sliding scale (many offer it). Look for therapists in training (supervised but less expensive). Some therapists offer group workshops on Gottman principles, which cost much less. If access is genuinely impossible, reading a Gottman book and practicing the techniques yourself is better than nothing, though a therapist's in-the-moment feedback accelerates everything."
+lastmod: 2026-07-07
 ---
 
-Most couples therapy articles act like every approach is roughly the same: two people, one therapist, talk it out. Gottman method is nothing like that. It's research-backed, highly specific about what you're looking for, and honestly, it works or it doesn't pretty fast. You'll know within six to eight sessions whether your therapist is doing real Gottman work or just calling it that.
+Most [couples therapy articles](/couples-therapy-how-it-works/) act like every approach is roughly the same: two people, one therapist, talk it out. Gottman method is nothing like that. It's research-backed, highly specific about what you're looking for, and honestly, it works or it doesn't pretty fast. You'll know within six to eight sessions whether your therapist is doing real Gottman work or just calling it that.
 
 Here's what I mean by "specific." John and Julie Gottman spent decades in their lab at the University of Washington filming couples, measuring their heart rates, analyzing their language patterns down to individual words. They didn't guess. They watched what actually predicts divorce and what keeps relationships stable, then built a method around that data. The approach isn't "express your feelings more" or "listen better." It's "here are the four patterns destroying your marriage, here's how we measure them, and here's exactly how we interrupt them."
 
-When I started working with couples who'd tried other therapies first, the ones who'd done Gottman before almost always said the same thing: "It felt less like therapy and more like someone diagnosing what was actually broken." That matters. A lot of people spend months in therapy feeling like something's happening without knowing if anything real is shifting. Gottman makes the diagnosis visible.
+When I started working with couples who'd tried [other therapies first](/emotionally-focused-therapy-eft/), the ones who'd done Gottman before almost always said the same thing: "It felt less like therapy and more like someone diagnosing what was actually broken." That matters. A lot of people spend months in therapy feeling like something's happening without knowing if anything real is shifting. Gottman makes the diagnosis visible.
 
 ## The Four Horsemen, and Why They Matter
 
@@ -65,7 +66,7 @@ None of this is mystical. It's mechanical. You learn the pattern, you practice t
 
 ## When Gottman Works, and When It Doesn't
 
-I've seen Gottman method create real change. A couple in their mid-40s, married 18 years, were heading toward divorce. He was contemptuous about her career choices. She'd gone defensive and was threatening to leave. Eight weeks in, the therapist helped him see that his contempt came from his own anxiety about money, not actual judgment of her. Once he articulated that anxiety instead of contempt, she stopped defending. Within four months, they reported genuinely liking each other again. That's not magic. That's the method working.
+I've seen [Gottman method create real change](/does-marriage-counseling-actually-work/). A couple in their mid-40s, married 18 years, were heading toward divorce. He was contemptuous about her career choices. She'd gone defensive and was threatening to leave. Eight weeks in, the therapist helped him see that his contempt came from his own anxiety about money, not actual judgment of her. Once he articulated that anxiety instead of contempt, she stopped defending. Within four months, they reported genuinely liking each other again. That's not magic. That's the method working.
 
 But it doesn't work for everyone. Gottman research is honest about this. If there's active infidelity and the unfaithful partner isn't genuinely remorseful, the method will surface that fact quickly but won't fix it. If one person is actively abusive, Gottman method isn't the answer; safety comes first. If one partner has checked out entirely and doesn't want to be there, the techniques won't resurrect motivation that isn't present.
 

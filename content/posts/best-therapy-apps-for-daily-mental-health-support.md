@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-07
 ---
 Most people download a therapy app at 11pm on a Tuesday, when calling anyone feels impossible and the waiting room of a therapist's office feels like a different planet. If that's where you are right now, this article is for you.
 
@@ -68,7 +68,7 @@ For *daily* use, the second one tends to be most practical. You're not schedulin
 
 **Woebot** is my honest first pick here. It's a free AI chatbot that delivers CBT techniques through conversation. The research is more solid than most competitors: a 2017 randomized controlled trial in *JMIR Mental Health* found that Woebot reduced depression and anxiety symptoms significantly among college students over two weeks. Small sample, short timeframe, but for a free app that's more than most can claim. It doesn't pretend to be a therapist. It asks you how you're doing, walks you through a thought record, points out cognitive distortions gently. Like having a very patient, very consistent friend who's done a lot of reading.
 
-**Sanvello** (formerly Pacifica) is another one I recommend constantly. About $8.99 per month after a free tier, it combines mood tracking, guided journeys based on CBT and mindfulness, and a community forum. The community piece is genuinely valuable for people who feel isolated, though I'd caution against relying on peer forums for anything crisis-related.
+**Sanvello** (formerly Pacifica) is another one I recommend constantly. About $8.99 per month after a free tier, it combines mood tracking, guided journeys based on CBT and mindfulness, and a community forum. The community piece is genuinely valuable for people who feel isolated, though I'd caution against relying on peer forums for [anything crisis-related](/samhsa-mental-health-resources/).
 
 **Daylio** is strictly a mood and habit journal. No therapy content, no AI. Just a fast, frictionless way to log how you're feeling with a note and some activities. I've seen people get extraordinary insight from six months of Daylio data: patterns they'd never noticed. Their worst days reliably followed poor sleep. Bad moods clustered around a specific relationship. Costs $3.99 per month for premium and honestly represents one of the best values in this space.
 

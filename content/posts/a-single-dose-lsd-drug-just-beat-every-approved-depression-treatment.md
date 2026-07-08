@@ -12,6 +12,7 @@ author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 slug: "a-single-dose-lsd-drug-just-beat-every-approved-depression-treatment"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 If you've been cycling through antidepressants for months or years, adjusting doses, managing side effects, and quietly wondering whether anything is ever going to actually work, the news out of late June 2026 is worth sitting with. On June 22, Definium Therapeutics announced that a single oral dose of their LSD-derived compound DT120 outperformed every currently approved treatment for major depressive disorder in a Phase 3 clinical trial. Not by a little. By a margin that analysts are calling, without hedging, "profound."
@@ -19,6 +20,14 @@ If you've been cycling through antidepressants for months or years, adjusting do
 That word gets thrown around a lot in pharmaceutical press releases. This time, there's data behind it.
 
 ## What the Trial Actually Found
+
+| Aspect | DT120 (Emerge Trial) | Standard Antidepressants | Esketamine (Spravato) |
+| --- | --- | --- | --- |
+| Administration | Single oral dose (100 µg) | Daily pill | Multiple in-clinic infusions |
+| MADRS improvement at week 6 | 8.1-point placebo-adjusted | Typically 3-5 points | Comparable to DT120 |
+| Durability at week 12 | 7.3-point improvement sustained | Often decreases over time | Requires ongoing sessions |
+| Clinical setting required | Standard medical practice | Home/outpatient | Certified clinic with monitoring |
+| Access barriers | Lower (oral tablet) | Low but daily adherence | High (logistical, cost, availability) |
 
 The Emerge study enrolled 149 adults between 18 and 74 years old with DSM-5-confirmed major depressive disorder across 20 clinical sites. Participants received a single 100 microgram dose of DT120, an orally disintegrating tablet formulation of lysergide (that's LSD, precisely dosed and stabilized). At week six, the DT120 group showed an 8.1-point placebo-adjusted improvement on the Montgomery-Åsberg Depression Rating Scale, or MADRS, a standard clinical measure that psychiatrists and researchers use to quantify how severe someone's depression is. The result hit statistical significance at p less than 0.0001, and the trial met every key secondary endpoint as well.
 
@@ -46,7 +55,7 @@ Definium, which trades on Nasdaq as DFTX and was formerly known as MindMed, has 
 
 Here's what I tell people who come to me after reading news like this: don't stop your current medication. I want to be very clear about that. Nothing in the Emerge data changes what you should be doing today, and stopping an antidepressant abruptly, or even gradually without medical supervision, carries real risks. Any decision about your current treatment belongs between you and your prescribing physician.
 
-What this news does change is the shape of the conversation you can have with that physician. If you've tried multiple antidepressants and haven't found adequate relief, that's called treatment-resistant depression, and it affects roughly 30% of people with MDD. For that population especially, the arrival of a treatment option with this kind of efficacy profile is significant. You don't have to wait passively. You can ask your psychiatrist or primary care provider what they know about the DT120 pipeline, whether you might be a candidate for clinical trials while FDA review is pending, and what your options look like given your specific history.
+What this news does change is the shape of the conversation you can have with that physician. If you've tried multiple antidepressants and haven't found adequate relief, that's called [treatment-resistant depression](/deep-tms-for-ptsd-and-depression-what-the-new-data-show/), and it affects roughly 30% of people with MDD. For that population especially, the arrival of a treatment option with this kind of efficacy profile is significant. You don't have to wait passively. You can ask your psychiatrist or primary care provider what they know about the DT120 pipeline, whether you might be a candidate for clinical trials while FDA review is pending, and what your options look like given your specific history.
 
 Psychiatry Advisor's coverage of the trial emphasized the "rapid" onset alongside the durability, which matters clinically. Depression doesn't take a break while you wait six weeks for a medication to start working. Speed of response is its own quality-of-life issue.
 

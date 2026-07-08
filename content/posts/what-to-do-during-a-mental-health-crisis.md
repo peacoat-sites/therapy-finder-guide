@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-
+lastmod: 2026-07-07
 ---
 Most crisis advice online reads like it was written for a legal department. "Seek help immediately." "Contact a mental health professional." Cool, thanks. What does that actually mean at 2 a.m. when your hands are shaking and you can't remember how to breathe?
 
@@ -49,17 +49,17 @@ One concrete thing: breathing. Specifically, making your exhale longer than your
 
 Cold water helps too. Splashing it on your face, or holding ice, triggers what's called the dive reflex, which slows heart rate. Blunt, physical, and it actually works.
 
-If you're supporting someone else in crisis, the instinct to fix or reason them out of it is almost always wrong in the first few minutes. Presence and a calm voice matter more than words. "I'm here, I'm not going anywhere" is more useful than any explanation.
+If you're [supporting someone else in crisis](/how-to-help-someone-having-a-panic-attack/), the instinct to fix or reason them out of it is almost always wrong in the first few minutes. Presence and a calm voice matter more than words. "I'm here, I'm not going anywhere" is more useful than any explanation.
 
 ## Who to Call (and When to Call Them)
 
 This is where most crisis guides fall apart, because they list resources without telling you what each one is actually for.
 
-**988 Suicide and Crisis Lifeline:** Call or text 988. This is the most underused resource in the U.S. It's not just for active suicide attempts. Trained counselors staff it 24/7 and can help with a wide range of acute mental distress. If you're in a spiral and don't know what to do next, this is your first call, not a last resort.
+**[988 Suicide and Crisis Lifeline](/988-suicide-and-crisis-lifeline-how-it-works/):** Call or text 988. This is the most underused resource in the U.S. It's not just for active suicide attempts. Trained counselors staff it 24/7 and can help with a wide range of acute mental distress. If you're in a spiral and don't know what to do next, this is your first call, not a last resort.
 
 **Crisis Text Line:** Text HOME to 741741. Good option if speaking out loud feels impossible, or if you're in a place where you can't talk privately. Response times vary, but trained crisis counselors are on the other end.
 
-**Mobile Crisis Teams:** Many cities now have these. They're mental health professionals who respond to crises in the community, without police involvement, which matters for a lot of people. You can find out if your county has one by calling 988 and asking, or searching "[your county] mobile crisis team."
+**[Mobile Crisis Teams](/mental-health-crisis-resources/):** Many cities now have these. They're mental health professionals who respond to crises in the community, without police involvement, which matters for a lot of people. You can find out if your county has one by calling 988 and asking, or searching "[your county] mobile crisis team."
 
 **Emergency Room:** Use this for psychiatric emergencies you genuinely can't manage otherwise: active psychosis, a suicide attempt, inability to keep yourself safe. ERs aren't ideal mental health environments, and waiting times can be brutal, but they're equipped for medical stabilization. If you or someone you know has ingested something harmful or injured themselves, go immediately.
 

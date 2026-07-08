@@ -12,11 +12,12 @@ author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
 slug: "psychodynamic-therapy-vs-cognitive-behavioral-therapy"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 I'll be honest: most people pick therapy based on vibes or whatever they found on Google, then get surprised when it doesn't feel like what they expected. The real difference between psychodynamic and CBT isn't about one being "better", it's about how they actually work, what you're signing up for, and whether that matches what you actually need right now.
 
-I started paying close attention to this question after a friend spent six months in CBT working through anxiety, felt like she was checking boxes on homework assignments, then switched to psychodynamic therapy and said, "Oh, *this* is why I have anxiety", totally different experience. That gap got me curious about what was actually happening in those rooms.
+I started paying close attention to this question after a friend spent six months in CBT working through anxiety, felt like she was checking boxes on homework assignments, then switched to [psychodynamic therapy](/psychodynamic-therapy-vs-cbt/) and said, "Oh, *this* is why I have anxiety", totally different experience. That gap got me curious about what was actually happening in those rooms.
 
 ## What's really going on in CBT
 
@@ -45,6 +46,16 @@ The therapist isn't directive. They won't say, "Here's what you should think." T
 When I tested this distinction by talking to people who'd tried both (totally informal, but still useful), the pattern was consistent. CBT people said things like, "My therapist gave me tools." Psychodynamic people said, "I finally understood why I do this thing."
 
 ## The actual research: what works, for whom
+
+| Aspect | CBT | Psychodynamic Therapy |
+| --- | --- | --- |
+| **Typical Duration** | 12-20 sessions average | 6 months to several years |
+| **Session Frequency** | Varies | 1-2 sessions per week |
+| **Primary Focus** | Thoughts, feelings, behaviors connection | Unconscious patterns and historical origins |
+| **Homework/Assignments** | Yes, structured (thought records, exposure exercises) | No, exploratory conversation |
+| **Therapist Role** | Directive, teaches tools | Non-directive, asks questions and identifies patterns |
+| **Measurement** | Built-in (anxiety scores, symptom tracking) | Longer-term outcomes (meaning, self-understanding, relational capacity) |
+| **Research Strength** | Anxiety disorders, depression, specific phobias | Complex issues, personality patterns, chronic conditions with identity components |
 
 Here's where I need to be straight with you: the research is genuinely mixed, and anyone claiming one is clearly better is selling something.
 

@@ -23,11 +23,16 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-
+lastmod: 2026-07-07
 ---
 If you've finally decided to start therapy and then looked at the cost, you know that specific sinking feeling. Maybe your insurance has a high deductible you haven't met yet, or your plan barely covers mental health visits, or you're paying entirely out of pocket. Here's the part nobody mentions: you may already have a tax-advantaged account sitting in your benefits portal that can make therapy significantly more affordable. FSAs and HSAs don't get nearly enough attention in conversations about mental health access, and that's a real shame.
 
 ## What FSAs and HSAs Actually Are (And Why the Difference Matters)
+
+| Account Type | Contribution Limit (2024) | Rollover | Requires HDHP | Employer-Tied |
+| --- | --- | --- | --- | --- |
+| FSA | $3,200 | Limited (plan-dependent) | No | Yes |
+| HSA | $4,150 individual / $8,300 family | Indefinite | Yes | No |
 
 You might be wondering if these are the same thing with different names. They're not.
 

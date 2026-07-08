@@ -12,6 +12,7 @@ author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 slug: "deep-tms-for-ptsd-and-depression-what-the-new-data-show"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Something unusual happened in the world of psychiatric treatment at the end of June 2026, and I think it deserves more attention than it's getting outside of clinical circles. BrainsWay, the company behind Deep Transcranial Magnetic Stimulation technology, released results from what they're calling the largest real-world study ever conducted on Deep TMS in patients dealing with both PTSD and major depressive disorder at the same time. The numbers were striking. But here's the catch that most headlines glossed over: Deep TMS still isn't FDA-cleared for PTSD. So what do patients and clinicians actually do with this information? That question is genuinely complicated, and I want to try to answer it honestly.
@@ -25,6 +26,12 @@ The PTSD response rate was 83.5%, meaning that proportion of patients showed at 
 What surprised me, digging into this, was how little attention the comorbidity angle usually gets in public conversations about PTSD treatment. Roughly 48% of people with PTSD will also meet criteria for major depressive disorder at some point in their lives. That's not a niche overlap. That's nearly half. When you're treating one condition and ignoring the other, you're often not getting very far, which is why a treatment that appears to move both simultaneously is genuinely interesting to researchers.
 
 ## Why the FDA Status Matters More Than You'd Think
+
+| Treatment | FDA Status for PTSD | Response Rate (PTSD) | Response Rate (Depression) | Mechanism |
+| --- | --- | --- | --- | --- |
+| Deep TMS | Not cleared | 83.5% | 66.6% | H-coil design penetrates deeper brain tissue, targets subcortical structures |
+| Standard TMS | Not cleared | Not specified in study | Established efficacy | Figure-eight coil, targets cortical regions |
+| MDMA-Assisted Therapy | Under VA trial | Under investigation | Under investigation | Psychopharmacological + psychotherapeutic approach |
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

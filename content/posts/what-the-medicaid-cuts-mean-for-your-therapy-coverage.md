@@ -12,6 +12,7 @@ author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
 slug: "what-the-medicaid-cuts-mean-for-your-therapy-coverage"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most people assume that if they're already enrolled in Medicaid and actively seeing a therapist, they're fine. The coverage is there, the appointments are happening, and whatever is going on in Washington feels abstract. I want to be honest with you: that assumption is now genuinely dangerous. The policy landscape shifted dramatically when the One Big Beautiful Bill Act became law, and the first real consequences are landing this year, not sometime in the future.
 
@@ -26,6 +27,13 @@ Starting this year, Medicaid recipients must prove their eligibility every six m
 Then there's the work requirement. By January 2027, most adults on Medicaid will need to document 80 hours per month of employment, job training, or qualifying community activity to maintain coverage. The research on work requirements is actually quite mixed on whether they help people gain employment. What the data is clearer on is that they do reduce enrollment, including among people who are already working but can't prove it through the required documentation systems.
 
 ## What Happens to Mental Health Services First
+
+| Policy Change | Timeline | Impact Mechanism |
+| --- | --- | --- |
+| Eligibility redetermination frequency | Every 6 months (starting 2026) | Administrative disenrollment among people with unstable housing, mail access, or paperwork management challenges |
+| Work requirement documentation | 80 hours/month by January 2027 | Enrollment reduction among working adults unable to prove employment through required systems |
+| Mental health parity enforcement | Ended May 2025 | Erosion of coverage quality and provider network accessibility for those retaining Medicaid |
+| Idaho mobile mental health program cut | Late 2025 | Crisis center visits up 34% (December 2025), 43% (January 2026); 2 reported deaths by February 2026 |
 
 > **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -43,7 +51,7 @@ If Medicaid is your insurance and you're seeing a therapist, the most important 
 
 Concretely: check when your next eligibility redetermination is due. This isn't your therapy renewal, it's your Medicaid enrollment renewal. If you're not sure, call your state Medicaid office directly or ask your therapist's billing department, since they often know these timelines better than patients do. The six-month cycle means your next review could come up faster than you expect.
 
-Talk to your therapist openly about your coverage situation. I'll be honest, this is a conversation a lot of people avoid because it feels embarrassing or administrative rather than clinical. But a good therapist can help you plan around potential disruptions, whether that means spacing sessions, exploring sliding-scale fees, or connecting you to community mental health centers that operate on different funding models. Community mental health centers, federally qualified health centers, and university training clinics often serve people regardless of insurance status and charge on a sliding scale tied to income. They're not perfect substitutes, but they're real options.
+Talk to your therapist openly about your coverage situation. I'll be honest, this is a conversation a lot of people avoid because it feels embarrassing or administrative rather than clinical. But a good therapist can help you plan around potential disruptions, whether that means spacing sessions, exploring [sliding-scale fees](/medicaid-cuts-are-coming-for-mental-health-care-now-what/), or connecting you to community mental health centers that operate on different funding models. Community mental health centers, federally qualified health centers, and university training clinics often serve people regardless of insurance status and charge on a sliding scale tied to income. They're not perfect substitutes, but they're real options.
 
 If you're someone who helps others navigate these systems, whether as a social worker, a family member, or a peer support specialist, the six-month redetermination cycle is now a care coordination task. Helping someone stay enrolled is now part of helping someone stay in treatment.
 

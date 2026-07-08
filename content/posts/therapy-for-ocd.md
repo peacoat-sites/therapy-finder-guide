@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-
+lastmod: 2026-07-07
 ---
 You've checked the stove four times. You know it's off. You watched yourself turn the knob. And yet the thought is already creeping back in, louder this time, more insistent. So you check again. This is the exhausting loop that millions of people live inside every day, and if it sounds familiar, you should know something important: effective treatment exists, and it works better than most people realize.
 
@@ -33,7 +33,7 @@ Obsessive-Compulsive Disorder affects approximately 1 in 100 adults in the Unite
 
 Before talking about treatment, it helps to get clear on what OCD actually involves, because the popular image of it is badly distorted.
 
-OCD is not a quirky personality trait. It's not being "a little OCD" because you like a tidy desk. Clinically, OCD has two core components: obsessions and compulsions. Obsessions are unwanted, intrusive thoughts, images, or urges that feel impossible to dismiss. Compulsions are the behaviors or mental rituals a person performs to neutralize the anxiety those thoughts produce.
+OCD is not a quirky personality trait. It's not being "a little OCD" because you like a tidy desk. Clinically, OCD has two core components: obsessions and compulsions. Obsessions are unwanted, [intrusive thoughts](/signs-you-may-have-high-functioning-anxiety/), images, or urges that feel impossible to dismiss. Compulsions are the behaviors or mental rituals a person performs to neutralize the anxiety those thoughts produce.
 
 The relief from a compulsion is real. It's brief. And critically, it makes the obsession stronger over time, not weaker. The brain learns: "When this thought appears, perform the ritual to feel safe." The cycle deepens. That's the trap.
 

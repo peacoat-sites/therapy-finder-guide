@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-07
 ---
 You've probably heard EMDR mentioned in the same breath as trauma therapy, maybe in a podcast, a therapist's office waiting room, or a Reddit thread about PTSD. What most coverage does next is where it goes wrong: it describes the eye movements, calls it "unconventional," and moves on. That leaves the actual question unanswered. What does EMDR *do*, who is it actually for, and is it worth pursuing? Those are the questions worth answering.
 
@@ -35,7 +35,7 @@ EMDR stands for Eye Movement Desensitization and Reprocessing. Psychologist Fran
 
 Here's the core idea: when a traumatic or deeply distressing experience happens, the brain sometimes fails to process it the way it handles ordinary memories. The event gets stored in a raw, unintegrated form, complete with the original sensory details, emotions, and physical sensations. Years later, something triggers that stored memory, and the nervous system reacts as though the event is happening right now. EMDR's job is to help the brain reprocess that stuck memory so it becomes something more like a normal autobiographical memory: something that happened, rather than something still happening.
 
-It's not hypnosis. You're awake, aware, and in control throughout. You don't have to narrate every detail of a traumatic event out loud, which is one reason people who can't tolerate traditional exposure-based approaches sometimes do better with EMDR.
+It's not hypnosis. You're awake, aware, and in control throughout. You don't have to narrate every detail of a traumatic event out loud, which is one reason people who can't tolerate traditional [exposure-based approaches](/cbt-vs-dbt-therapy-what-is-the-difference/) sometimes do better with EMDR.
 
 ---
 

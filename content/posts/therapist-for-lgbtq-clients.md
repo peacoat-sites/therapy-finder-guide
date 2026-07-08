@@ -23,6 +23,7 @@ faqs:
    a: "Yes, completely. You're not obligated to educate your therapist on basic aspects of your identity, and doing so consistently during paid sessions is a real cost, both financially and emotionally. A good therapist won't take it personally; they'll want you to find the right fit."
  - q: "What questions should I ask a potential therapist about their LGBTQ experience specifically?"
    a: "Try: 'Have you worked with clients who've experienced family rejection related to identity?' or 'What's your approach when a client's religious beliefs and sexual or gender identity are in conflict?' The specificity of their answer, and whether they treat these as routine clinical terrain or unusual challenges, tells you a lot."
+lastmod: 2026-07-07
 ---
 
 Most advice about finding an LGBTQ-affirming therapist stops at "look for someone who checks the box." That's not enough, and honestly, it can leave you worse off than before if you end up with someone who's technically "affirming" but still treats your queerness as a complication to manage rather than a normal part of who you are.
@@ -73,7 +74,7 @@ She was right.
 
 ## Telehealth, Cost, and Practical Access
 
-Session rates vary significantly by location and provider type. In major metro areas, private-pay therapy commonly runs $150 to $250 per session. Some affirming therapists who work with LGBTQ clients are specifically committed to sliding scale fees, partly because they understand that income precarity disproportionately affects trans and queer clients. Ask directly about sliding scale before assuming it's not available.
+Session rates vary significantly by location and provider type. In major metro areas, private-pay therapy commonly runs $150 to $250 per session. Some affirming therapists who work with LGBTQ clients are specifically committed to [sliding scale fees](/how-to-find-an-affordable-therapist-near-me/), partly because they understand that income precarity disproportionately affects trans and queer clients. Ask directly about sliding scale before assuming it's not available.
 
 Telehealth has genuinely expanded access here in ways that matter. If you're in a rural area, a small town, or a state with an actively hostile political climate toward LGBTQ people, telehealth means you can access affirming therapists licensed in your state without being visible in a waiting room. That's not a small thing for a lot of people.
 

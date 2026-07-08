@@ -12,6 +12,7 @@ author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 slug: "equine-therapy-explained"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you're reading this, you've probably already Googled "equine therapy" at least once and ended up more confused than when you started. Maybe you saw a feel-good news segment, or a friend mentioned it helped their kid, or your therapist brought it up as something worth considering. And now you're sitting here wondering: is this actually legitimate, or is it just an expensive way to pet horses?
 
@@ -43,13 +44,22 @@ For people who have learned to intellectualize their feelings, or who have spent
 
 The research base is strongest for a few specific populations, and I think it's worth being honest about that rather than claiming equine therapy fixes everything.
 
-Trauma survivors, especially those with complex PTSD, tend to respond well. A 2018 paper in the Journal of Trauma & Dissociation found significant reductions in PTSD symptom severity in veterans following equine-assisted psychotherapy, and this lines up with what clinicians report anecdotally. The non-verbal, body-based nature of EAP fits with what we know about trauma: it's stored somatically, and talk therapy alone sometimes can't reach it.
+Trauma survivors, especially those with complex PTSD, tend to respond well. A 2018 paper in the Journal of Trauma & Dissociation found significant reductions in PTSD symptom severity in veterans following equine-assisted psychotherapy, and this lines up with what clinicians report anecdotally. The non-verbal, [body-based nature of EAP](/somatic-therapy-explained/) fits with what we know about trauma: it's stored somatically, and talk therapy alone sometimes can't reach it.
 
 Adolescents with behavioral issues, people in addiction recovery, and individuals on the autism spectrum are also populations where there's meaningful clinical evidence. [NAMI](https://www.nami.org/) acknowledges animal-assisted therapy as a complementary intervention for several mental health conditions, though they're appropriately careful about calling it a standalone treatment.
 
 I want to be direct about something that sometimes gets pushback: equine therapy works best as part of a broader treatment plan, not as a replacement for it. If someone is managing severe depression or a serious mood disorder, EAP alongside medication management and individual therapy is a reasonable combination. EAP instead of everything else is not something I'd recommend.
 
 ## What a Session Actually Looks Like
+
+| Aspect | Details |
+| --- | --- |
+| Session Duration | 50 to 90 minutes |
+| Cost Range | $75 to $200+ per session |
+| Setting | Typically outdoors |
+| Key Credentials | PATH Intl. or EAGALA certification + therapist licensure |
+| Primary Modality | Equine-Assisted Psychotherapy (EAP) with groundwork |
+| Role Structure | Licensed mental health professional + certified equine specialist (separate roles) |
 
 First session anxiety is real. People imagine they're going to be asked to ride a giant animal they've never met, in front of strangers, while crying. That's almost never what happens.
 

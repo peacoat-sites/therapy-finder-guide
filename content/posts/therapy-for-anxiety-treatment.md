@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-07
 ---
 Your heart's racing in a work meeting. You've got no idea why. Your palms are damp, you're half-listening to whoever's talking, and you're half-convinced something is seriously wrong even though nothing is. You make it through, drive home, spend the evening replaying the whole thing. It happens three times, four times, five times a week. You've Googled your symptoms, reassured yourself it's probably nothing, then Googled again. If that sounds like you, first thing: you're not alone. Second thing: you're not stuck. Anxiety is one of the most treatable mental health conditions out there, and therapy (the right kind, matched to what you're actually dealing with) can change things in ways that feel almost impossible to believe until you experience them.
 
@@ -51,7 +51,7 @@ Not all therapy is created equal. Sitting on a couch talking about your childhoo
 
 **EMDR (Eye Movement Desensitization and Reprocessing)** started out treating trauma, but now it's increasingly used when anxiety stems from past experiences. You recall distressing memories while engaging in bilateral stimulation (like following a therapist's finger with your eyes), which appears to help your brain reprocess that stored distress.
 
-**Mindfulness-Based Cognitive Therapy (MBCT)** combines CBT with mindfulness. It works particularly well for people with recurring anxiety or anxiety alongside depression.
+**Mindfulness-Based Cognitive Therapy (MBCT)** combines CBT with mindfulness. It works particularly well for people with recurring anxiety or [anxiety alongside depression](/therapy-for-depression-and-anxiety-together/).
 
 If you want to supplement your therapy with tools at home, [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1606236253?tag=contentportfo-20) or a dedicated [CBT journal](https://www.amazon.com/s?k=CBT+journal+anxiety&tag=contentportfo-20) can reinforce what you're working on between sessions. *(This site may earn a commission from qualifying purchases.)*
 

@@ -14,8 +14,9 @@ author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
 slug: "the-va-is-testing-mdma-assisted-therapy-for-ptsd-right-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
-Picture a veteran you know. Maybe it's someone in your family, or a neighbor who came back from deployment quieter than they left. They've probably tried the standard routes: SSRIs, talk therapy, maybe a residential program. And maybe it helped a little, or maybe it didn't touch what they were actually carrying. That's not a failure of the veteran, and it's not a failure of their therapist. It's a reflection of how stubbornly difficult treatment-resistant PTSD can be. What's happening right now at the VA, though, is genuinely different from anything we've seen before.
+Picture a veteran you know. Maybe it's someone in your family, or a neighbor who came back from deployment quieter than they left. They've probably tried the standard routes: SSRIs, talk therapy, maybe a residential program. And maybe it helped a little, or maybe it didn't touch what they were actually carrying. That's not a failure of the veteran, and it's not a failure of their therapist. It's a reflection of how stubbornly difficult [treatment-resistant PTSD](/deep-tms-for-ptsd-and-depression-what-the-new-data-show/) can be. What's happening right now at the VA, though, is genuinely different from anything we've seen before.
 
 On May 18, 2026, the Department of Veterans Affairs began enrolling participants in its first-ever federal clinical trial of MDMA-assisted therapy. That sentence deserves a moment. The VA, a federal healthcare system operating under a government where MDMA is still a DEA Schedule I controlled substance, is now actively recruiting veterans to participate in a randomized, placebo-controlled trial pairing pharmaceutical-grade MDMA with psychotherapy. This is not a small university pilot. This is a direct, government-funded signal that the conversation about psychedelic medicine in mainstream mental health care has shifted.
 
@@ -28,6 +29,14 @@ What most people don't realize when they hear "MDMA therapy" is how structured a
 Enrollment is expected to complete by late 2026, with preliminary results potentially available in 2027, according to the trial's listing on ClinicalTrials.gov (NCT07118839).
 
 ## The Political and Regulatory Context You Need to Understand
+
+| Event | Date | Context |
+| --- | --- | --- |
+| FDA declines MDMA-assisted therapy approval | August 2024 | Cited concerns about trial design and safety data from MAPS PBC research |
+| Executive order signed | April 2026 | "Accelerating Medical Treatment for Serious Mental Illness" directed FDA/HHS to fast-track psychedelic therapy evaluation |
+| VA trial enrollment begins | May 18, 2026 | First federal clinical trial of MDMA-assisted therapy for PTSD and alcohol use disorder |
+| Expected enrollment completion | Late 2026 | ~80 participants targeted |
+| Preliminary results expected | 2027 | Timeline for initial outcome data |
 
 > **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -43,7 +52,7 @@ I've seen a lot of policy announcements in mental health that amount to little m
 
 If you work in behavioral health or you've followed the psychedelic therapy space, you've probably heard the argument that MDMA-assisted therapy could be cost-effective at scale. A 2024 study from the University of California, Berkeley put some numbers behind that: researchers estimated that MDMA-assisted therapy could generate potential societal savings of $5.6 billion compared to current PTSD treatment costs, when factoring in outcomes like reduced disability, fewer hospitalizations, and lower long-term care needs.
 
-That figure has started showing up in policy conversations in a way it wasn't before. Policymakers who might have been skeptical of psychedelic therapy on ideological grounds are paying attention when the economic case is this stark, especially against a backdrop of ongoing concern about veteran care costs and the human cost of treatment-resistant PTSD. This is one reason Behavioral Health Business noted in late May 2026 that the VA trial signals something significant not just for veterans but for how providers across the system might eventually think about psychedelic-assisted modalities.
+That figure has started showing up in policy conversations in a way it wasn't before. Policymakers who might have been skeptical of psychedelic therapy on ideological grounds are paying attention when the economic case is this stark, especially against a backdrop of ongoing concern about veteran care costs and the human cost of treatment-resistant PTSD. This is one reason Behavioral Health Business noted in late May 2026 that the VA trial signals something significant not just for veterans but for how providers across the system might eventually think about [psychedelic-assisted modalities](/a-single-dose-lsd-drug-just-beat-every-approved-depression-treatment/).
 
 ## What This Means If You're Not a Veteran
 

@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 You're sitting in your car in the parking lot, hands gripping the steering wheel, replaying the argument you just had with your partner for the twentieth time. The rage has faded into something worse: shame. You know you said things you didn't mean. You know this keeps happening. And somewhere between the anger and the regret, you're wondering if something is actually wrong with you, or if there's a way to change this pattern. There isn't anything wrong with you, exactly. But there is something you can learn. Anger management therapy is real, it works, and it's far more nuanced than the court-ordered stereotype most people picture.
 
@@ -58,7 +58,7 @@ I've sat with therapists who specialize in this work, and I've noticed something
 
 Anger management therapy isn't one-size-fits-all. Depending on your specific patterns, whether you've experienced trauma, and what else might be going on clinically, a therapist will pull from different toolkits.
 
-**Cognitive Behavioral Therapy (CBT)** has the most research behind it. The basic move: identify the automatic thoughts and twisted beliefs driving your anger. A lot of people who struggle with anger are running beliefs like "I have to retaliate for any disrespect" or "Not fighting back means I'm weak." CBT helps you actually examine these beliefs and ask whether they're helping you or hurting you.
+**[Cognitive Behavioral Therapy (CBT)](/cognitive-behavioral-therapy-explained/)** has the most research behind it. The basic move: identify the automatic thoughts and twisted beliefs driving your anger. A lot of people who struggle with anger are running beliefs like "I have to retaliate for any disrespect" or "Not fighting back means I'm weak." CBT helps you actually examine these beliefs and ask whether they're helping you or hurting you.
 
 **Dialectical Behavior Therapy (DBT)** stacks skills training on top of that framework. It's particularly good if your anger escalates fast and hard. DBT means a lot of practice with distress tolerance, emotional regulation, and communicating clearly in tense moments. Our [DBT therapy overview](/dbt-therapy-what-is-it/) breaks down the full skill set.
 

@@ -17,6 +17,7 @@ faqs:
    answer: "A sliding scale fee means the therapist charges based on your income and ability to pay rather than a fixed rate. Many therapists offer this option. You can specifically search for sliding scale therapists on directories like Psychology Today or Open Path Collective, and the therapist will typically ask about your income to determine your fee."
  - question: "Is online therapy cheaper than in-person therapy?"
    answer: "Online therapy platforms like BetterHelp and Talkspace typically charge $60 to $100 per week for unlimited messaging plus one video session, which can be more affordable than weekly in-person therapy. Some insurance plans now cover telehealth sessions at the same rate as in-person visits."
+lastmod: 2026-07-07
 ---
 Cost is the number one reason people put off therapy. It's a legitimate worry. But here's what most people don't realize: therapy costs swing wildly depending on your insurance, where you live, and who you see. Figure out what you'll actually pay before you start, and suddenly committing to treatment becomes doable.
 
@@ -36,11 +37,18 @@ Plug in your insurance details, how often you'd go, and how long you think you'l
 
 ## Making Therapy Affordable: What You Need to Know
 
-Those numbers sting? There are concrete ways to get quality therapy without paying therapist-in-a-high-rise prices. Most people miss the biggest one: your **Employee Assistance Program (EAP)**. If your employer has more than a few dozen people, it almost certainly offers this. You get six to twelve free therapy sessions per year. It's completely separate from your health insurance and costs you nothing. Call HR or log into your benefits portal. It's there.
+| Therapy Access Option | Typical Cost Per Session | Best For | Notes |
+| --- | --- | --- | --- |
+| Employee Assistance Program (EAP) | $0 (6-12 free sessions/year) | Employed individuals with benefits | Separate from health insurance |
+| Open Path Collective | $30-$80 | Income-qualified individuals | Licensed therapists at reduced rates |
+| Community Mental Health Centers | $0-sliding scale | Low-to-moderate income | Publicly funded, income-based pricing |
+| University Training Clinics | $0-$20 | Budget-conscious, patient with trainees | Graduate student therapists with supervisor oversight |
+
+Those numbers sting? There are concrete ways to get quality therapy without paying therapist-in-a-high-rise prices. Most people miss the biggest one: your **[Employee Assistance Program (EAP)](/best-online-therapy-platforms-2026/)**. If your employer has more than a few dozen people, it almost certainly offers this. You get six to twelve free therapy sessions per year. It's completely separate from your health insurance and costs you nothing. Call HR or log into your benefits portal. It's there.
 
 **Open Path Collective** deserves real attention. Licensed therapists in this network charge $30 to $80 per session for people who qualify by income. Same training, same credentials, same care. They're doing it at reduced rates because they believe mental health shouldn't be gatekept by money.
 
-**Community mental health centers** (CMHCs) are publicly funded. They serve anyone, sliding scale based on income. Earn $25,000 a year? You might pay $5 per session or nothing. Earn $80,000? You'll pay more, but it's still reasonable. Quality varies by location. Some are genuinely excellent.
+**[Community mental health centers](/community-mental-health-center-access/)** (CMHCs) are publicly funded. They serve anyone, sliding scale based on income. Earn $25,000 a year? You might pay $5 per session or nothing. Earn $80,000? You'll pay more, but it's still reasonable. Quality varies by location. Some are genuinely excellent.
 
 **University training clinics** offer therapy from graduate students in clinical psychology, social work, or counseling for $0 to $20 per session. Supervisors review every case. The therapist is still training, but the oversight is real, the work is clinically sound, and there's zero pressure to spend money you don't have. Most universities have waiting lists, but it's worth checking.
 

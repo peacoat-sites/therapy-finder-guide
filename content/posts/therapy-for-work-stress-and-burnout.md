@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-
+lastmod: 2026-07-07
 ---
 Maybe you've started dreading Sunday evenings. Not in a vague, "weekends go too fast" kind of way, but in a chest-tightening, stomach-dropping way that you can't quite explain to the people around you. You're getting your work done. You're showing up. From the outside, things probably look fine. But something has shifted, and you know it. You're more irritable than you used to be, you can't seem to recover on weekends the way you once could, and the things that used to feel meaningful at work now feel like a performance you're barely keeping up. If any of that lands, you're not weak, you're not broken, and you're not alone. You might be burned out. And therapy might be exactly what you need.
 
@@ -41,7 +41,7 @@ What makes burnout particularly tricky is that it mimics other things. Depressio
 
 You might be wondering what you'd even talk about in therapy for work stress. The answer is: more than you think, and probably different than you're imagining.
 
-Therapy for burnout isn't about lying on a couch describing your childhood. It's often quite active and skills-based. The most well-researched approach for work stress and burnout is Cognitive Behavioral Therapy, or CBT. CBT works by examining the relationship between thoughts, feelings, and behaviors. For someone who's burned out, that often means looking at patterns like perfectionism, difficulty delegating, fear of disappointing others, or the belief that your worth is tied entirely to your productivity. Those aren't personal flaws. They're learned patterns that many high-functioning people carry, and they respond well to structured work.
+Therapy for burnout isn't about lying on a couch describing your childhood. It's often quite active and skills-based. The most well-researched approach for work stress and burnout is Cognitive Behavioral Therapy, or CBT. CBT works by examining the relationship between thoughts, feelings, and behaviors. For someone who's burned out, that often means looking at patterns like perfectionism, difficulty delegating, [fear of disappointing others](/therapy-for-people-pleasing/), or the belief that your worth is tied entirely to your productivity. Those aren't personal flaws. They're learned patterns that many high-functioning people carry, and they respond well to structured work.
 
 Here's what the main therapy types look like and how they apply to burnout:
 

@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-07
 ---
 You're reading about Federally Qualified Health Centers because you need help and you want to know if you can afford it. The answer is almost certainly yes. Here's how.
 
@@ -31,7 +31,7 @@ You're reading about Federally Qualified Health Centers because you need help an
 
 An FQHC is a community health clinic that gets federal funding through the Health Center Program, run by the Health Resources and Services Administration (HRSA). There are roughly 1,400 FQHCs running more than 14,000 service sites across the U.S., specifically built for people the standard healthcare system leaves behind: uninsured patients, underinsured patients, people on Medicaid, rural residents, people experiencing homelessness.
 
-The thing that actually matters is the sliding fee scale. Federal law requires FQHCs to charge you based on your income and family size, tied to the Federal Poverty Level. Nobody gets turned away for not being able to pay full price. For some patients, that means a few dollars per visit. For others, it's nothing.
+The thing that actually matters is the [sliding fee scale](/therapy-sliding-scale-fees/). Federal law requires FQHCs to charge you based on your income and family size, tied to the Federal Poverty Level. Nobody gets turned away for not being able to pay full price. For some patients, that means a few dollars per visit. For others, it's nothing.
 
 Mental health services, including individual therapy, are something FQHCs have to offer. Not every location has every specialty, but integrated behavioral health is standard now. You might see a licensed clinical social worker, a licensed professional counselor, or a psychologist depending on the site.
 
@@ -83,11 +83,19 @@ If you're in crisis before an appointment opens up, the [988 Suicide and Crisis 
 | Open Path Collective | $30-$80 per session flat | Varies by therapist | No |
 | Telehealth platforms (e.g., BetterHelp) | Subscription, financial aid available | Often fast | No |
 
+| Option | Cost Structure | Wait Time | Insurance Required |
+|---|---|---|---|
+| FQHC | Sliding scale, $0 to full cost | Days to weeks | No |
+| Community Mental Health Center | Similar sliding scale | Often weeks | No |
+| University training clinic | Very low flat fee | Variable | Rarely |
+| Open Path Collective | $30-$80 per session flat | Varies by therapist | No |
+| Telehealth platforms (e.g., BetterHelp) | Subscription, financial aid available | Often fast | No |
+
 FQHCs have one real advantage: they're integrated medical clinics. If your depression might have a physical component, or if you need medication and therapy in one place, you're more likely to get coordinated care at an FQHC than anywhere else in that table.
 
 ---
 
-The system isn't built for people who need affordable mental health care, and lying about that helps nobody. FQHCs work because they're legally required to serve you no matter what you can pay. The only thing standing between "I should probably talk to someone" and actually sitting across from a therapist is logistics. You've got those now.
+The system isn't built for people who need [affordable mental health care](/how-much-does-therapy-cost/), and lying about that helps nobody. FQHCs work because they're legally required to serve you no matter what you can pay. The only thing standing between "I should probably talk to someone" and actually sitting across from a therapist is logistics. You've got those now.
 
 ## Helpful Resources
 
@@ -99,7 +107,7 @@ The system isn't built for people who need affordable mental health care, and ly
 
 ---
 
-*This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
+*This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the [988 Suicide and Crisis Lifeline](/how-to-find-affordable-therapy-near-me/) (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
 

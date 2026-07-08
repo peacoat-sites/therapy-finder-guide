@@ -23,6 +23,7 @@ faqs:
    a: "It frequently co-occurs with both, and sometimes it's more of a symptom pattern within a broader anxiety or depressive picture than a standalone thing. A thorough assessment at the start of therapy should sort this out. Treating the imposter pattern in isolation when there's also a clinical anxiety disorder underneath it is going to produce limited results."
  - q: "Can imposter syndrome come back after therapy?"
    a: "Honestly, yes. High-stakes transitions, new roles, public recognition, criticism from respected peers, these can all trigger a recurrence. The goal of therapy isn't to eliminate the thought permanently. It's to change your relationship with it enough that when it does come back, it doesn't derail you."
+lastmod: 2026-07-07
 ---
 
 Most people who land on an article about imposter syndrome therapy are already skeptical that it'll help. They're thinking: "My problem isn't that I *feel* like a fraud. My problem is that I actually *am* less qualified than everyone around me thinks." That's exactly the thought pattern that makes imposter syndrome so hard to treat. And I'll be honest, it took me longer than I should admit to understand why that distinction matters so much clinically.
@@ -49,7 +50,7 @@ The research here is genuinely mixed, and I'd rather tell you that than pretend 
 
 **Acceptance and Commitment Therapy (ACT)** takes a different angle, and honestly, for some people I think it works better than pure CBT. Rather than challenging whether the imposter thought is true, ACT teaches you to notice the thought without being governed by it. "I'm having the thought that I don't belong here" is a different relationship with that thought than "I don't belong here." For high-achieving people who've already tried to logic their way out of these feelings and failed, ACT's defusion techniques can feel genuinely new.
 
-**Schema therapy** is less commonly discussed in this context but worth knowing about. It's designed for deeply entrenched belief systems, often rooted in childhood experiences around achievement, worth, and conditional acceptance. If your imposter pattern feels less like a cognitive habit and more like something baked into your bones, schema work might be where you need to go.
+**Schema therapy** is less commonly discussed in this context but worth knowing about. It's designed for deeply entrenched belief systems, often rooted in childhood experiences around achievement, worth, and [conditional acceptance](/therapy-for-perfectionism/). If your imposter pattern feels less like a cognitive habit and more like something baked into your bones, schema work might be where you need to go.
 
 The evidence for group therapy specifically for imposter syndrome is thin but promising. There's something powerful about hearing a genuinely accomplished person describe feeling exactly as fraudulent as you do. It disrupts the belief in a way that one-on-one work sometimes can't.
 

@@ -12,6 +12,7 @@ author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
 slug: "how-the-medicaid-cuts-are-shrinking-your-therapy-options"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture this: you've finally made the appointment. Maybe it took months to work up to it, or your doctor referred you, or things got bad enough that you stopped putting it off. You show up, you start to trust your therapist, and then one day you get a letter. Your Medicaid coverage has changed. The clinic is no longer in-network, or your provider stopped accepting Medicaid entirely, or your hours of covered care just got slashed. That letter is landing in real mailboxes right now, and if you're on Medicaid or know someone who is, the situation is more urgent than most news coverage is making it sound.
 
@@ -24,6 +25,13 @@ The One Big Beautiful Bill Act was signed on July 4, 2025, and it cut federal Me
 The timing matters. The enhanced Federal Medical Assistance Percentage that helped states fund Medicaid expansion ended January 1, 2026. That means states are already absorbing reduced federal dollars. And beginning January 2027, most recipients will need to document 80 hours per month of work, job training, or community service to keep their coverage. That requirement sounds manageable until you consider that many people receiving mental health services are the exact population for whom maintaining consistent employment is hardest.
 
 ## "Optional" Is a Dangerous Word
+
+| Service Category | Federal Classification | Priority in Budget Cuts | Coverage Status |
+| --- | --- | --- | --- |
+| Inpatient hospital care | Mandatory | Protected | Federally required |
+| Physician services | Mandatory | Protected | Federally required |
+| Outpatient therapy | Optional | First to cut | State-dependent |
+| Substance use treatment | Optional | First to cut | State-dependent |
 
 > **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -49,7 +57,7 @@ If you're currently on Medicaid, contact your state Medicaid office or your case
 
 If you're in therapy, talk to your provider now about your coverage status, not when a crisis hits. Ask them directly: are you still accepting Medicaid? Is that likely to change? Some therapists who love their Medicaid clients are being forced to limit how many they can see because the reimbursement rates no longer cover their costs. It's a painful conversation, but having it now gives you options.
 
-If you're not currently in crisis but you rely on Medicaid for mental health care, start building a backup plan. This might mean looking into Federally Qualified Health Centers, which provide sliding-scale behavioral health services regardless of coverage status, or open-enrollment periods for marketplace insurance if your state's Medicaid expansion is affected. SAMHSA's National Helpline (1-800-662-4357) is free, confidential, and can connect you with local resources that aren't Medicaid-dependent.
+If you're not currently in crisis but you rely on Medicaid for mental health care, [start building a backup plan](/what-the-medicaid-cuts-mean-for-your-therapy-coverage/). This might mean looking into Federally Qualified Health Centers, which provide sliding-scale behavioral health services regardless of coverage status, or open-enrollment periods for marketplace insurance if your state's Medicaid expansion is affected. SAMHSA's National Helpline (1-800-662-4357) is free, confidential, and can connect you with local resources that aren't Medicaid-dependent.
 
 And if you're approaching the 2027 work-requirement deadline with anxiety about whether you'll be able to document 80 hours per month, find out now whether your state's implementation includes exemptions for people with documented disabilities or mental health conditions. Many do, but you typically have to apply for that exemption proactively.
 

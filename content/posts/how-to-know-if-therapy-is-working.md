@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 Maybe you've been going to therapy for six weeks, or six months, and you're sitting in the parking lot before a session wondering: *Is this actually doing anything?* You're not sure if what you're feeling is progress or just… talking. You don't want to seem ungrateful, and you're not ready to quit, but the question is sitting there, quietly, and it won't leave.
 
@@ -53,7 +53,7 @@ None of these are dramatic. That's the point.
 
 Here's a harder truth: sometimes therapy really isn't working, and not because therapy itself is broken. The fit, the approach, or the timing might be off.
 
-There's a difference between the discomfort of doing real work and the stagnation of spinning your wheels. Therapy should sometimes feel uncomfortable. But after a reasonable amount of time, typically three to six months for many people, though this varies widely depending on what you're addressing, you should be able to point to *something* that's shifted.
+There's a difference between the discomfort of doing real work and the stagnation of spinning your wheels. Therapy should sometimes feel uncomfortable. But after a reasonable amount of time, typically [three to six months](/how-long-does-therapy-take/) for many people, though this varies widely depending on what you're addressing, you should be able to point to *something* that's shifted.
 
 Watch for these signs that something needs to change:
 
@@ -68,6 +68,13 @@ Watch for these signs that something needs to change:
 **You're performing wellness rather than experiencing it.** This one is subtle. Some people get good at saying the right things in therapy without actually letting it in. If you notice you're managing your therapist's perception of your progress more than engaging honestly, that's worth naming directly in session.
 
 ## How Different Therapy Types Show Progress Differently
+
+| Therapy Type | Timeline | Progress Indicators | When to Reassess |
+| --- | --- | --- | --- |
+| Cognitive Behavioral Therapy (CBT) | Goal-oriented, time-limited | Measurable behavioral change, symptom score trends (e.g., PHQ-9), completed thought records, practice of exposures | 8-12 sessions with no behavioral change |
+| Psychodynamic/Insight-oriented | Longer timeline | Understanding patterns, connecting current fears to earlier experiences, gradual insight into relationship choices | Varies; typically months of engagement |
+| EMDR | Trauma-focused | Traumatic memory becomes distant or neutral, memory shifts from "wound" to "fact" | After targeted memory processing sessions |
+| DBT | Skills-focused | Demonstrable use of skills in real situations (distress tolerance, emotional regulation, interpersonal effectiveness) | Ongoing skill application tracking |
 
 The *timeline* and *texture* of progress look genuinely different depending on what kind of therapy you're in.
 

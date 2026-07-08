@@ -23,11 +23,12 @@ faqs:
     a: "Ask directly about their training path. Legitimate EFT training through ICEEFT involves a core skills training, an externship (usually a four-day intensive), and ongoing supervision. Completing one workshop does not make someone an EFT therapist. Certified therapists can be searched through the ICEEFT directory at iceeft.com."
   - q: "Is EFT appropriate if my partner refuses to come to sessions?"
     a: "The couples model requires both partners, so if your partner won't participate, EFT as designed for couples isn't an option. That said, EFIT, the individual version, can still address your own attachment patterns and how you show up in relationships. Working on your side of the dynamic can sometimes shift things even without your partner in the room, though I'd be cautious about overstating how much."
+lastmod: 2026-07-07
 ---
 
 Most people think Emotionally Focused Therapy is just "talking about your feelings." I used to assume the same thing, honestly, until I spent time watching it actually work in practice and dug into the research behind it. What I found was a lot more precise and a lot more interesting than that description suggests.
 
-EFT was developed in the 1980s by Dr. Sue Johnson and Les Greenberg, and it's built on attachment theory, the idea that humans are hardwired to need secure emotional bonds and that a huge proportion of our suffering comes from when those bonds feel threatened or broken. Johnson went on to focus the approach specifically on couples; Greenberg took it in a more individual direction. Both streams are genuinely useful, but they've evolved into somewhat different practices. I'll focus primarily on the couples model here, because that's where the bulk of the clinical research exists and where EFT has become particularly well-established.
+EFT was developed in the 1980s by Dr. Sue Johnson and Les Greenberg, and it's built on [attachment theory](/therapy-for-relationship-issues/), the idea that humans are hardwired to need secure emotional bonds and that a huge proportion of our suffering comes from when those bonds feel threatened or broken. Johnson went on to focus the approach specifically on couples; Greenberg took it in a more individual direction. Both streams are genuinely useful, but they've evolved into somewhat different practices. I'll focus primarily on the couples model here, because that's where the bulk of the clinical research exists and where EFT has become particularly well-established.
 
 Here's what surprised me when I first got into this: EFT is one of the most rigorously studied approaches in couples therapy. A 2019 meta-analysis published in *Journal of Marital and Family Therapy* found that roughly 70-75% of couples who completed EFT moved from distress to recovery, with about 90% showing significant improvement. Those numbers are, frankly, unusual for any psychotherapy outcome study. Most therapy modalities, when you look at the hard data, show more modest effects. EFT is something of an outlier.
 
@@ -51,7 +52,7 @@ The individual version, officially called Emotionally Focused Individual Therapy
 
 The research base for EFIT is thinner than for EFT couples work. I don't want to overstate it. There are promising studies, particularly around depression and trauma, but this is an area where more controlled trials are still needed. If you're drawn to attachment-based individual work, ask any prospective therapist directly about their training and what the evidence currently shows. A good therapist won't be defensive about that question.
 
-Emotionally Focused Family Therapy (EFFT) extends the model to parent-child relationships. It's particularly used when adolescents are struggling and family communication has broken down. The same principles apply: find the cycle, access the underlying attachment needs, create new bonding moments.
+Emotionally Focused Family Therapy (EFFT) extends the model to [parent-child relationships](/family-therapy-benefits/). It's particularly used when adolescents are struggling and family communication has broken down. The same principles apply: find the cycle, access the underlying attachment needs, create new bonding moments.
 
 ## What EFT Is Not Good For
 

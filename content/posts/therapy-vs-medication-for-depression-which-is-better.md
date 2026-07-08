@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-
+lastmod: 2026-07-07
 ---
 The honest answer nobody wants to hear is: you probably can't know which one is right for you without trying. And that uncertainty is genuinely hard to sit with when you're depressed and barely have the energy to make coffee in the morning, let alone research treatment options.
 
@@ -32,6 +32,11 @@ But here's what I've seen, working alongside psychiatrists, therapists, and the 
 That said, you came here for actual information.
 
 ## What the research actually says
+
+| Treatment | Timeline to Effect | Typical Cost (Out-of-Pocket) | Primary Mechanism | Long-term Durability |
+| --- | --- | --- | --- | --- |
+| Therapy (CBT) | Varies; depends on engagement | $150-$300/week (major cities); $30-$80 with platforms like Open Path Collective | Skills-building, thought/behavior restructuring | Effects tend to persist after treatment ends |
+| Antidepressants (SSRIs) | 4-6 weeks to assess effectiveness | Varies by insurance; typically lower with coverage | Chemical/neurological | Effects typically taper when discontinued |
 
 A 2016 study in *World Psychiatry* summarized decades of data on this, and the finding was pretty consistent: for mild to moderate depression, psychotherapy (particularly cognitive behavioral therapy, or CBT) and antidepressants produce roughly comparable outcomes. Neither crushes the other. For severe depression, the evidence tilts toward medication, often in combination with therapy, because severe depression can impair the concentration and emotional processing that therapy requires.
 

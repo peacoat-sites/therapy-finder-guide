@@ -23,6 +23,7 @@ faqs:
    a: "The standard protocol is designed for children 2 to 7 years old. A toddler adaptation (PCIT-T) exists for children 12 to 24 months. Some clinicians use modified versions with older children up to about age 12, particularly in cases involving trauma or developmental delays, though the research base for those adaptations is thinner."
  - q: "What if my child refuses to participate in sessions?"
    a: "This comes up more than people expect, and it's not a disqualifier. PCIT therapists are trained to help parents use their CDI skills to draw reluctant children into play. The early sessions often focus heavily on making the play environment appealing enough that participation becomes self-reinforcing. If a child is genuinely too dysregulated to engage, the therapist will adjust the approach rather than force a session that won't help anyone."
+lastmod: 2026-07-07
 ---
 
 Most parents I've worked with arrive at the idea of Parent-Child Interaction Therapy the same way: exhausted, a little ashamed, and quietly terrified that something is permanently broken. Their child is melting down constantly, defying every instruction, maybe hitting or biting or screaming in a way that clears grocery stores. The parents have tried everything the internet suggested. Nothing stuck. And now someone is recommending "therapy" -- which, depending on your background, can feel like being told you've failed.
@@ -43,9 +44,9 @@ I want to be honest about something I got wrong early in my career: I assumed CD
 
 
 
-PCIT is designed for children between roughly 2 and 7 years old (some programs extend to age 12 with modifications) who are showing disruptive behavior, defiance, aggression, or emotional dysregulation. It's also been adapted for families where there are concerns about attachment disruptions, trauma exposure, or where child welfare has been involved. As of June 2026, PCIT-T (the Toddler adaptation for children 12 to 24 months) is gaining traction in early intervention programs, which is exciting given how early the window for attachment intervention really is.
+PCIT is designed for children between roughly 2 and 7 years old (some programs extend to age 12 with modifications) who are showing disruptive behavior, defiance, aggression, or emotional dysregulation. It's also been adapted for families where there are concerns about attachment disruptions, [trauma exposure](/how-to-find-a-trauma-informed-therapist/), or where child welfare has been involved. As of June 2026, PCIT-T (the Toddler adaptation for children 12 to 24 months) is gaining traction in early intervention programs, which is exciting given how early the window for attachment intervention really is.
 
-It's not a fit for every situation. If a child's primary presenting concern is anxiety, inattention, or autism spectrum disorder without significant behavioral dysregulation, a different evidence-based approach may serve them better. A good clinician will tell you this honestly at assessment rather than fitting you into whatever they happen to offer.
+It's not a fit for every situation. If a child's primary presenting concern is anxiety, inattention, or autism spectrum disorder without significant behavioral dysregulation, a different [evidence-based approach](/child-therapy-guide-for-parents/) may serve them better. A good clinician will tell you this honestly at assessment rather than fitting you into whatever they happen to offer.
 
 ## What the Research Actually Shows
 

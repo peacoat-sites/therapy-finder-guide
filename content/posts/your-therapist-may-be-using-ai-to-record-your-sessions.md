@@ -12,12 +12,19 @@ author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
 slug: "your-therapist-may-be-using-ai-to-record-your-sessions"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 When Molly Quinn realized her therapist had been using an AI tool to record her sessions, she didn't just feel surprised. She left. After two years of building trust with that therapist, the disclosure came mid-session rather than upfront, and that was enough. NPR's Morning Edition covered her story on May 26, 2026, and the response was immediate: therapy forums lit up, mental health Twitter argued in circles, and a lot of patients started quietly wondering what was happening inside their own sessions.
 
 This is the conversation the mental health field has been putting off, and it's now unavoidable.
 
 ## What's Actually Happening in the Room
+
+| AI Use in Therapy Practice | Percentage | Source |
+| --- | --- | --- |
+| Psychologists who have used AI at least once | 56% | APA 2025 Practitioner Pulse Survey (March 2026) |
+| Psychologists who use AI monthly | 29% | APA 2025 Practitioner Pulse Survey (March 2026) |
+| Psychologists concerned about privacy implications | 67% | APA 2025 Practitioner Pulse Survey (March 2026) |
 
 AI scribing tools, designed to record, transcribe, and auto-generate clinical notes, have moved from novelty to common practice faster than most patients realize. According to the APA's 2025 Practitioner Pulse Survey, released in March 2026, 56% of psychologists have used AI in their practice at least once, and 29% use it monthly. Those numbers jumped significantly from 2024. The APA responded by releasing specific guidelines for evaluating AI scribing technologies in March 2026, which tells you something: this escalated fast enough to require formal professional guidance within a single year.
 

@@ -23,6 +23,7 @@ faqs:
     a: "Yes, genuinely. Some formats work better in person, particularly play therapy with younger children. But couple therapy and family talk therapy via video have shown outcomes comparable to in-person in several studies. As of July 2026, most states allow therapists to provide telehealth services across state lines under certain conditions, so geographic flexibility has improved considerably."
   - q: "How do I know if a therapist is actually trained in stepfamily dynamics versus just listing it as a specialty?"
     a: "Ask them directly what training they've done. Names to listen for: Papernow's work, the National Stepfamily Resource Center's training, or Ron Deal's Smart Stepfamily programs. A therapist who mentions first-family concepts without acknowledging that stepfamilies operate differently is a sign to look elsewhere. It's not rude to ask. It's how you protect your time and your family."
+lastmod: 2026-07-07
 ---
 
 Most people who call me about blended family therapy start the same way: "We're not in crisis or anything, we're just... struggling." And then, usually within the first three minutes, they describe something that absolutely is a crisis. A teenager who refuses to eat dinner with her stepfather. A dad who's quietly fueling his kids' resentment of their stepmom. Two adults who love each other deeply and are watching that love get sandpapered away, week by week, by a family structure nobody prepared them for.
@@ -67,7 +68,7 @@ Therapy for blended families rarely looks like one thing. Here's how I'd think a
 
 **Family therapy with select members** is worth considering when there's a specific relationship that needs direct attention. Maybe it's a stepparent and one particular stepchild. Maybe it's two stepsiblings who are in open conflict. You don't always need the whole household in one session.
 
-**Individual therapy for the stepparent** often gets overlooked. Stepparents carry an enormous amount of unspoken grief and resentment, partly because they feel like they're not allowed to complain. They signed up for this, right? The truth is, stepparenting is one of the most emotionally demanding roles in family life, and having your own space to process it, without worrying about how it lands with your partner, can be genuinely protective.
+**[Individual therapy for the stepparent](/therapy-for-relationship-issues/)** often gets overlooked. Stepparents carry an enormous amount of unspoken grief and resentment, partly because they feel like they're not allowed to complain. They signed up for this, right? The truth is, stepparenting is one of the most emotionally demanding roles in family life, and having your own space to process it, without worrying about how it lands with your partner, can be genuinely protective.
 
 **Child therapy** becomes important if a child is showing behavioral changes, school problems, or significant withdrawal. Younger children especially may not have the language to express loyalty conflicts or grief about their parents' divorce, and play therapy can reach places that talk therapy can't.
 

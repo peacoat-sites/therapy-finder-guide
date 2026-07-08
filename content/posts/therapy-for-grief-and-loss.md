@@ -23,6 +23,7 @@ faqs:
     a: "Grief tends to come in waves, often triggered by reminders, and typically preserves the capacity for positive emotion at least intermittently. Depression is more pervasive and tends to flatten mood more consistently. They overlap and co-occur, but a therapist who treats pure depression without addressing the loss itself will often miss the most important work."
   - q: "Should I try medication alongside grief therapy?"
     a: "That's a question for a psychiatrist or your prescribing physician, not me. What the research does show is that antidepressants alone are less effective for complicated grief than for standard depression, and they work best when combined with grief-specific therapy rather than used as a standalone treatment. Worth a direct conversation with your doctor."
+lastmod: 2026-07-07
 ---
 
 Grief doesn't follow a schedule. And if you're here reading this, you're probably somewhere in that disorienting middle space where you know something is very wrong, you've heard that "therapy helps," but you have no idea what that actually looks like or whether it would even work for you.
@@ -57,7 +58,7 @@ But CBT isn't always the right tool first.
 
 **EMDR (Eye Movement Desensitization and Reprocessing)** often surprises people in grief work. It's better known for trauma, but many losses carry a traumatic component, sudden death, witnessing suffering, accidents, and EMDR can help process intrusive images or memories that keep the nervous system in a state of alarm. It's not a good starting place for everyone, and the research specifically on grief is thinner than for PTSD, but for clients where loss and trauma are intertwined? In my experience, it can move things when talk therapy feels like it's spinning wheels.
 
-**Grief support groups** deserve a mention that isn't dismissive. They're not therapy, but the research on peer support in grief is genuinely strong. An 8-week grief support group for bereaved parents at a hospital where I consulted reduced scores on the Prolonged Grief Disorder scale by an average of 22% at the 3-month follow-up. That's not nothing. For many people, being witnessed by others who've lost similarly is the piece individual therapy can't provide.
+**[Grief support groups](/grief-counseling-guide/)** deserve a mention that isn't dismissive. They're not therapy, but the research on peer support in grief is genuinely strong. An 8-week grief support group for bereaved parents at a hospital where I consulted reduced scores on the Prolonged Grief Disorder scale by an average of 22% at the 3-month follow-up. That's not nothing. For many people, being witnessed by others who've lost similarly is the piece individual therapy can't provide.
 
 ---
 
@@ -67,7 +68,7 @@ This is where I see people go wrong most often. They search "therapist near me,"
 
 - Have you worked with clients experiencing prolonged or complicated grief, not just acute loss?
 - Are you familiar with Complicated Grief Treatment (CGT) or Prolonged Grief Disorder treatment protocols?
-- How do you think about the difference between grief and depression?
+- How do you think about the difference between [grief and depression](/therapy-for-depression-and-anxiety-together/)?
 
 That last question is genuinely diagnostic of a therapist's sophistication on this topic. Grief and depression overlap, but they're different, and treatment differs accordingly. A therapist who blurs them together without nuance is going to treat the wrong thing.
 

@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-07
 ---
 You've finally decided to try therapy. You search online, find a list of credentials that reads like a foreign language (CBT, DBT, EMDR, psychodynamic, somatic, ACT, IFS), and close the tab. A few days later you try again, get overwhelmed, and quietly talk yourself out of the whole thing. This happens to more people than anyone admits, and it breaks my heart because that moment of confusion is usually the only thing standing between someone and real help.
 
@@ -47,9 +47,9 @@ A practical starting point is [Psychology Today's therapist directory](https://w
 
 These three approaches dominate modern mental health care for good reason. They're backed by solid research, widely practiced, and effective for a broad range of concerns.
 
-**Cognitive Behavioral Therapy (CBT)** is probably the most well-known. The core idea: your thoughts, feelings, and behaviors are connected, so changing unhelpful thought patterns can shift how you feel and act. CBT is structured and goal-oriented. You'll do homework between sessions, like tracking thought patterns or gradually facing feared situations. It typically runs 12 to 20 sessions, which appeals to people who want a time-limited commitment. Strong evidence backs CBT for depression, generalized anxiety, panic disorder, OCD, and phobias.
+**[Cognitive Behavioral Therapy (CBT)](/cognitive-behavioral-therapy-explained/)** is probably the most well-known. The core idea: your thoughts, feelings, and behaviors are connected, so changing unhelpful thought patterns can shift how you feel and act. CBT is structured and goal-oriented. You'll do homework between sessions, like tracking thought patterns or gradually facing feared situations. It typically runs 12 to 20 sessions, which appeals to people who want a time-limited commitment. Strong evidence backs CBT for depression, generalized anxiety, panic disorder, OCD, and phobias.
 
-**Dialectical Behavior Therapy (DBT)** was developed by psychologist Marsha Linehan for people with borderline personality disorder, then expanded significantly. It's built around four skill modules: mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness. It's particularly suited for people who experience intense emotional swings, have self-harm behaviors, or struggle with unstable relationships. Traditional DBT includes individual therapy and a weekly skills group, though many clinicians now offer DBT-informed individual therapy alone.
+**[Dialectical Behavior Therapy (DBT)](/dbt-therapy-what-is-it/)** was developed by psychologist Marsha Linehan for people with borderline personality disorder, then expanded significantly. It's built around four skill modules: mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness. It's particularly suited for people who experience intense emotional swings, have self-harm behaviors, or struggle with unstable relationships. Traditional DBT includes individual therapy and a weekly skills group, though many clinicians now offer DBT-informed individual therapy alone.
 
 **Acceptance and Commitment Therapy (ACT)** takes a different angle entirely. Rather than trying to eliminate painful thoughts, ACT teaches you to notice them without letting them control your behavior. The goal is identifying your core values and committing to actions that align with them, even when difficult feelings show up. ACT works well for chronic pain, anxiety, depression, and anyone who feels stuck despite trying other approaches.
 

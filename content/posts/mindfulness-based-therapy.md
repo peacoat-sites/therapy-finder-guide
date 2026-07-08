@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 Your heart's pounding in the waiting room. Anxiety about the anxiety itself, spiraling, and nothing you tell yourself breaks the loop. Mindfulness-based therapy was built for exactly this. Not to make it disappear, but to change what it means to you. Sounds simple. It's not.
 
@@ -60,7 +60,7 @@ Strongest evidence for:
 
 Grief often responds well to mindfulness-based work. It helps you sit with pain instead of constantly running from it. Our [grief counseling guide](/grief-counseling-guide/) covers how different therapy types, including mindfulness ones, support loss.
 
-Where it's less effective alone: acute crises, active psychosis, or serious trauma without a trauma-informed therapist. Trauma needs special care. Unguided mindfulness can sometimes intensify flashbacks or dissociation. This is why a licensed professional matters, not just a meditation app.
+Where it's less effective alone: acute crises, active psychosis, or serious trauma without a [trauma-informed therapist](/types-of-therapy-explained/). Trauma needs special care. Unguided mindfulness can sometimes intensify flashbacks or dissociation. This is why a licensed professional matters, not just a meditation app.
 
 ## What to Expect in an Actual Session
 
@@ -83,6 +83,13 @@ Here's what unfolds:
 Many people use workbooks between sessions. The [Full Catastrophe Living workbook by Jon Kabat-Zinn](https://www.amazon.com/Full-Catastrophe-Living-Revised-Illness/dp/0345536932?tag=contentportfo-20) is one of the most widely used companions to MBSR programs. *(Disclosure: this site may earn a small commission on qualifying purchases.)*
 
 ## How Mindfulness-Based Therapy Compares to Other Approaches
+
+| Therapy Type | Core Focus | Mindfulness Component | Best Studied For |
+|---|---|---|---|
+| MBCT | Thought observation + cognitive skills | Central | Recurrent depression |
+| DBT | Emotion regulation + distress tolerance | One of four core modules | Borderline personality disorder |
+| ACT | Acceptance + values-aligned action | Central | Anxiety, chronic pain |
+| Standard CBT | Challenging and restructuring thoughts | Minimal to none | Anxiety, depression |
 
 Understanding where mindfulness-based therapy fits relative to other approaches helps.
 

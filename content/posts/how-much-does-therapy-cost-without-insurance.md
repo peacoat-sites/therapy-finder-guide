@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 You've just looked up a therapist. The reviews sound real, the specialties match what you're dealing with, and then you scroll down: $175 per session. Weekly therapy. That's $700 a month before you've even booked an appointment. A lot of people close the tab right there.
 
@@ -39,7 +39,7 @@ Those are standard private-pay rates. They're not what everyone pays.
 
 A few things drive the price differences. Therapist credentials matter: a psychiatrist (medical doctor, can prescribe medication) charges significantly more than a licensed clinical social worker or licensed professional counselor. Years of experience, specialization (trauma-informed EMDR or eating disorder treatment tends to run higher than general talk therapy), and practice overhead all factor in.
 
-Online therapy platforms have genuinely changed this market. BetterHelp and Talkspace charge subscription fees often lower than in-person private-pay rates, though they work differently from traditional weekly sessions and come with their own tradeoffs. Worth knowing about, but not automatically right for everyone.
+Online therapy platforms have genuinely changed this market. [BetterHelp and Talkspace](/betterhelp-vs-talkspace-comparison/) charge subscription fees often lower than in-person private-pay rates, though they work differently from traditional weekly sessions and come with their own tradeoffs. Worth knowing about, but not automatically right for everyone.
 
 The point: "the cost of therapy" isn't fixed. It's a variable, and a lot of it is within your control.
 
@@ -65,7 +65,7 @@ Open Path Collective specifically lists therapists committed to reduced-fee rate
 
 Beyond individual private-pay therapists exists an entire tier of services most people overlook because they don't know it exists.
 
-**Community mental health centers** are nonprofit or government-funded organizations providing mental health services on an income-based fee scale. Often dramatically less expensive than private practice, sometimes free for people who qualify. Quality varies, but many employ licensed clinicians. Search through SAMHSA's treatment locator at findtreatment.gov, filtering by location, service type, and payment options including sliding scale.
+**[Community mental health centers](/community-mental-health-center-access/)** are nonprofit or government-funded organizations providing mental health services on an income-based fee scale. Often dramatically less expensive than private practice, sometimes free for people who qualify. Quality varies, but many employ licensed clinicians. Search through SAMHSA's treatment locator at findtreatment.gov, filtering by location, service type, and payment options including sliding scale.
 
 **University and graduate training clinics** are another underused resource. Graduate students in psychology, counseling, and social work programs need supervised clinical hours. They provide therapy under a licensed clinician's supervision, often free or very low cost. The stigma around seeing a "student therapist" is unfounded. These clinicians work under close supervision and are often highly motivated, thoroughly trained in evidence-based approaches. If there's a university with a psychology or counseling program nearby, call them.
 
@@ -88,7 +88,18 @@ Beyond individual private-pay therapists exists an entire tier of services most 
 | Online therapy platforms | Varies by plan | Often $60 to $100/week; subscription model |
 | EAP (through employer) | Free (3 to 8 sessions) | Check with HR; often overlooked |
 
-One honest note about online therapy platforms: the research on their effectiveness is still developing, and they work better for some conditions and some people than others. They're particularly useful for mild to moderate anxiety and depression, for people in areas with limited local options, and for people whose schedules don't allow in-person appointments. They're generally not the right fit for people in acute crisis, those dealing with severe mental illness, or anyone needing medication management.
+| Option | Typical Cost Per Session | Notes |
+|---|---|---|
+| Private practice, major city | $150 to $300 | Standard rate, no insurance |
+| Private practice, smaller market | $75 to $180 | Rates vary significantly |
+| Sliding scale therapist | $30 to $100 | Must ask; limited slots available |
+| Open Path Collective | $30 to $80 | Vetted directory of reduced-fee therapists |
+| Community mental health center | $0 to $60 | Income-based; use findtreatment.gov to search |
+| University training clinic | $0 to $40 | Supervised graduate students |
+| Online therapy platforms | Varies by plan | Often $60 to $100/week; subscription model |
+| EAP (through employer) | Free (3 to 8 sessions) | Check with HR; often overlooked |
+
+One honest note about [online therapy platforms](/best-online-therapy-platforms-2026/): the research on their effectiveness is still developing, and they work better for some conditions and some people than others. They're particularly useful for mild to moderate anxiety and depression, for people in areas with limited local options, and for people whose schedules don't allow in-person appointments. They're generally not the right fit for people in acute crisis, those dealing with severe mental illness, or anyone needing medication management.
 
 ---
 

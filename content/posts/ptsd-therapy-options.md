@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-
+lastmod: 2026-07-07
 ---
 3 a.m. strikes again. Heart hammering. The smell is back, the sound is back, and you're absolutely certain you're there, in that moment from years ago, even though your eyes tell you otherwise. That's PTSD. It doesn't leave memories. It leaves wounds that keep tearing open.
 
@@ -39,7 +39,7 @@ PTSD shows up in four main symptom categories:
 
 - **Re-experiencing:** Flashbacks, nightmares, intrusive memories
 - **Avoidance:** Staying away from people, places, or thoughts tied to the trauma
-- **Negative changes in mood and thinking:** Persistent guilt, shame, emotional numbness, feeling disconnected
+- **Negative changes in mood and thinking:** Persistent guilt, shame, [emotional numbness, feeling disconnected](/therapy-for-depression-and-anxiety-together/)
 - **Hyperarousal:** Insomnia, irritability, constant edge, exaggerated startle response
 
 For a diagnosis to stick, symptoms have to last more than a month and actually wreck your daily life. Only a qualified mental health professional can determine that, so if you're wondering whether you have PTSD, get evaluated. Don't diagnose yourself.

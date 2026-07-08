@@ -17,6 +17,7 @@ faqs:
    answer: "A score of 10 falls in the moderate anxiety range. Most clinical guidelines recommend that patients with scores of 10 or above be evaluated further by a healthcare provider. It does not mean you have an anxiety disorder, but it does indicate symptoms worth discussing with a professional."
  - question: "What types of anxiety does GAD-7 detect?"
    answer: "The GAD-7 was developed to screen for generalized anxiety disorder but has also been validated for panic disorder, social anxiety disorder, and post-traumatic stress disorder (PTSD). It measures the frequency of core anxiety symptoms over the past two weeks."
+lastmod: 2026-07-07
 ---
 **If you are in crisis or having thoughts of self-harm, call or text 988 (Suicide & Crisis Lifeline) immediately. For emergencies, call 911.**
 
@@ -24,7 +25,7 @@ Anxiety is the most common mental health challenge in the United States, affecti
 
 ## About the GAD-7 Screening Questionnaire
 
-Dr. Robert Spitzer and colleagues created the GAD-7 and published it in 2006 in the Archives of Internal Medicine. Think of it as the anxiety equivalent of the PHQ-9 for depression, designed to help overworked primary care doctors quickly spot patients who need a closer look. It's now used globally in clinics, research, and public health programs.
+Dr. Robert Spitzer and colleagues created the GAD-7 and published it in 2006 in the Archives of Internal Medicine. Think of it as the anxiety equivalent of the [PHQ-9 for depression](/depression-screening/), designed to help overworked primary care doctors quickly spot patients who need a closer look. It's now used globally in clinics, research, and public health programs.
 
 The seven questions assess what generalized anxiety disorder actually looks like: excessive worrying, trouble shutting your brain off, restlessness, fatigue, concentration problems, irritability, and physical tension. You rate how often you've felt each symptom over the past two weeks. Scores range from 0 to 21, broken into mild (5-9), moderate (10-14), and severe (15-21).
 
@@ -37,6 +38,13 @@ Answer each of the seven questions below as honestly as you can, reflecting on h
 {{< gad7 >}}
 
 ## What Your Score Means
+
+| Score Range | Severity Level | Symptom Impact | Recommended Action |
+| --- | --- | --- | --- |
+| 0-4 | Minimal | Little to no interference with daily function | Self-monitoring; optional relaxation techniques |
+| 5-9 | Mild | Manageable with self-care | Lifestyle changes; consult provider if persistent |
+| 10-14 | Moderate | Noticeable impact on functioning | Seek professional treatment (CBT recommended) |
+| 15-21 | Severe | Significant interference with work, relationships, daily life | Urgent professional evaluation; crisis support if needed |
 
 Your GAD-7 score gives you and your healthcare provider a shared language for talking about anxiety. Here's what the ranges mean:
 

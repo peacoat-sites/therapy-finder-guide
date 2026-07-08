@@ -23,6 +23,7 @@ faqs:
    a: "Generally, yes, particularly at freestanding professional schools. APA-accredited PhD clinical programs at research universities can have acceptance rates under 5%. Many PsyD programs are less selective and admit larger cohorts. This is partly why the debt load tends to be higher for PsyD graduates: more students means less institutional funding to go around."
  - q: "Does it matter which degree my therapist has if I'm just looking for someone to help me?"
    a: "For most therapeutic work, the degree matters far less than the clinician's training quality, experience with your specific concerns, and whether the two of you can build a working alliance. Both PhDs and PsyDs are licensed, accountable, and trained to doctoral standards. Ask about their clinical approach and experience rather than spending too much energy on the letters."
+lastmod: 2026-07-07
 ---
 
 Most people assume a psychologist is a psychologist, and that the letters after the name are basically interchangeable administrative trivia. I held that assumption for an embarrassingly long time. Then I spent a few months talking with clinicians on both sides of the credential divide, sitting in on graduate admissions panels, and reading more program outcome data than anyone should voluntarily absorb, and I'll be honest: the difference is real, it matters for some people, and it's almost never explained clearly.
@@ -30,6 +31,16 @@ Most people assume a psychologist is a psychologist, and that the letters after 
 So let me try to actually explain it.
 
 ## The Fork in the Road: What These Degrees Actually Mean
+
+| Aspect | PhD | PsyD |
+| --- | --- | --- |
+| Primary Focus | Research-focused with clinical training | Clinical-focused with research consumption |
+| Duration | 5-7 years | 4-5 years |
+| Funding Model | Full tuition remission + stipend ($18,000-$28,000/year) | Typically unfunded; tuition $40,000-$60,000+/year |
+| Research Requirement | Original research, dissertation advancing field knowledge | Dissertation often literature synthesis or program evaluation |
+| Typical Setting | University psychology departments | Freestanding professional schools or universities |
+| Licensure Outcome | Licensed psychologist (same as PsyD) | Licensed psychologist (same as PhD) |
+| Career Path Alignment | Academia, research universities, clinical trials | Hospital systems, group practices, community mental health centers |
 
 PhD stands for Doctor of Philosophy. In psychology, it means you completed a research-focused doctoral program, typically five to seven years, where a significant chunk of your time was spent producing original research, writing a dissertation that advances the field's knowledge base, and training for clinical work simultaneously. The assumption baked into the PhD model is that you'll either contribute to research yourself or, at minimum, think like a researcher when you're with clients.
 
@@ -53,7 +64,7 @@ This is the single most consequential practical difference, and it's buried in f
 
 ## Licensure, Scope of Practice, and Whether Patients Notice
 
-Both degrees lead to the same license: psychologist. Both allow independent practice, psychological testing, diagnosis, and psychotherapy. In virtually every U.S. state, the title "licensed psychologist" is available to graduates of accredited PhD and PsyD programs who complete supervised hours and pass the EPPP (Examination for Professional Practice in Psychology).
+Both degrees lead to the same license: psychologist. Both allow independent practice, psychological testing, diagnosis, and psychotherapy. In virtually every U.S. state, the title "[licensed psychologist](/therapist-vs-psychologist-vs-psychiatrist/)" is available to graduates of accredited PhD and PsyD programs who complete supervised hours and pass the EPPP (Examination for Professional Practice in Psychology).
 
 Patients, in my experience asking them directly, rarely know which degree their psychologist holds. They care about whether the person helps. That's not a dismissal of the credential difference. It's just an honest acknowledgment that the letters don't automatically predict the quality of the therapeutic relationship, which is still the best predictor of clinical outcomes we have.
 

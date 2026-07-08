@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-07
 ---
 You finally worked up the nerve to tell your doctor you've been struggling. She nods, scribbles something on her notepad, and says, "You might want to try a support group or therapy." You leave the office no clearer than when you walked in. Are those the same thing? Is one better than the other? Can you even afford therapy right now?
 
@@ -37,7 +37,7 @@ The confusion is understandable. Both involve talking about hard things, often i
 
 A support group is a gathering of people who share a common experience. Grief. Addiction recovery. Chronic illness. Anxiety. Postpartum struggles. The loss of a child. Most support groups are peer-led, meaning there's no licensed clinician running the room. Some are facilitated by a trained volunteer or a social worker, but the emphasis is on shared experience rather than clinical treatment. You hear someone say exactly what you've been feeling but couldn't articulate, and something loosens in your chest. That's real. That's not nothing.
 
-Therapy is different. It's a clinical relationship with a licensed professional: a psychologist, licensed clinical social worker (LCSW), licensed professional counselor (LPC), or psychiatrist. The therapist is trained to assess what's happening with you specifically, apply evidence-based techniques, and help you change patterns of thought or behavior over time. It's not venting to a caring person. There are actual methods. Cognitive behavioral therapy (CBT). Dialectical behavior therapy (DBT). EMDR for trauma. Acceptance and commitment therapy (ACT). The clinician chooses tools based on your situation.
+Therapy is different. It's a clinical relationship with a licensed professional: a psychologist, licensed clinical social worker (LCSW), licensed professional counselor (LPC), or psychiatrist. The therapist is trained to assess what's happening with you specifically, apply evidence-based techniques, and help you change patterns of thought or behavior over time. It's not venting to a caring person. There are actual methods. [Cognitive behavioral therapy (CBT)](/cognitive-behavioral-therapy-explained/). Dialectical behavior therapy (DBT). EMDR for trauma. Acceptance and commitment therapy (ACT). The clinician chooses tools based on your situation.
 
 Here's what most people don't realize: these two things aren't competing options. They're often most powerful when used together.
 

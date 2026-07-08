@@ -23,6 +23,7 @@ faqs:
    a: "No well-run group will pressure you to share anything. Facilitators in reputable programs are specifically trained to make participation voluntary and to protect members from feeling cornered. You can attend several sessions before saying a word, and that's considered completely normal."
  - q: "How do I know if a group is legitimate and safe?"
    a: "Look for groups run by established organizations (NAMI, DBSA, SMART Recovery, MHA) rather than groups formed through random Facebook communities or Reddit threads. Established organizations train their facilitators, have conduct policies, and have reporting mechanisms if something goes wrong. That infrastructure matters more than people realize until something goes sideways."
+lastmod: 2026-07-07
 ---
 Maybe you've been sitting with something heavy for a few weeks, or maybe it's been years. You know you probably need to talk to someone, but the idea of finding a therapist, scheduling an appointment, and paying $150 to $250 a session feels like a whole other problem on top of the one you already have. So you've been Googling, half-hoping something free exists, half-suspecting it doesn't really.
 
@@ -50,7 +51,7 @@ Here's what I tell people who are starting from scratch: don't just search "free
 
 **Mental Health America (MHA)** runs an online peer support community called MHA Screening's peer support section, and they offer a wide network of affiliate programs in different states that host virtual groups. Worth checking their site to see what's available in your state specifically.
 
-**The Depression and Bipolar Support Alliance (DBSA)** operates free online support groups multiple times a week through their HealthUnlocked platform. They're specifically peer-led, specifically focused on mood disorders, and I've consistently heard good things about the quality of facilitation. If depression or bipolar disorder is what's bringing you here, start here.
+**The Depression and Bipolar Support Alliance (DBSA)** operates [free online support groups](/samhsa-mental-health-resources/) multiple times a week through their HealthUnlocked platform. They're specifically peer-led, specifically focused on mood disorders, and I've consistently heard good things about the quality of facilitation. If depression or bipolar disorder is what's bringing you here, start here.
 
 For addiction and recovery, **SMART Recovery** holds hundreds of free online meetings weekly. It's secular and science-based, which makes it a better fit than AA or NA for a lot of people, though I'll acknowledge that's a slightly contrarian take since the 12-step world has helped millions. SMART's approach uses CBT and rational emotive behavior therapy tools, so if you want to understand why you do what you do as part of recovery, it clicks differently.
 

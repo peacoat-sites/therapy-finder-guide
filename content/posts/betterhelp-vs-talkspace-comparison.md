@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-
+lastmod: 2026-07-07
 ---
 You've decided to try online therapy. Good. That's the hard part. Now you open a browser and immediately land in a marketing war between two platforms that both claim to be the most affordable, most flexible, most effective option available. BetterHelp says it has over 30,000 therapists. Talkspace counters with insurance coverage and a clinical pedigree. Neither ad tells you what actually matters when you're anxious at 11pm and need to know if someone will actually help you.
 
@@ -43,6 +43,16 @@ What both platforms can't do: prescribe medication (with limited exceptions on T
 
 ## Pricing: The Number Everyone Asks About First
 
+| Feature | BetterHelp | Talkspace |
+| --- | --- | --- |
+| Licensing Required | Yes (LPC, LCSW, LMFT, Psychologist) | Yes (LPC, LCSW, LMFT, Psychologist) |
+| Insurance Accepted | No | Yes (many commercial carriers, some state Medicaid) |
+| Pricing Model | Flat monthly subscription (~$60-$100/week billed monthly) | Tiered (messaging-only cheaper; video plans cost more) |
+| Messaging Feature | Unlimited messaging + 1 live session/week included | Varies by tier |
+| Therapist Switching | Allowed anytime without billing impact | Allowed |
+| Matching Timeline | Typically 24-48 hours | Similar structure |
+| Financial Aid Option | Available | N/A (insurance may cover) |
+
 > **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Here's where most comparisons mislead you. They quote a weekly rate and leave out that you're billed monthly, that the rate varies by location and therapist availability, and that promotions applied at signup often disappear at renewal.
@@ -51,9 +61,9 @@ Here's where most comparisons mislead you. They quote a weekly rate and leave ou
 
 **Talkspace** has a tiered structure. Messaging-only plans are cheaper; plans that include live video sessions cost more. The important differentiator: Talkspace accepts many insurance plans, including some major commercial carriers and, depending on your state, Medicaid. If you have coverage that includes mental health benefits, Talkspace could cost you far less out of pocket than BetterHelp. Some users pay only their copay.
 
-Check your insurance first. Log into your benefits portal or call the member services number on your card. Ask specifically whether Talkspace is in-network. If it is, the price comparison between the two platforms collapses. Talkspace wins on cost.
+[Check your insurance first](/does-insurance-cover-therapy/). Log into your benefits portal or call the member services number on your card. Ask specifically whether Talkspace is in-network. If it is, the price comparison between the two platforms collapses. Talkspace wins on cost.
 
-If you have no insurance or your plan doesn't cover telehealth, the gap between the two narrows and other factors matter more.
+If you have no insurance or [your plan doesn't cover telehealth](/finding-a-therapist-that-takes-insurance/), the gap between the two narrows and other factors matter more.
 
 ---
 

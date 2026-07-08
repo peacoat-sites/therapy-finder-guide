@@ -12,7 +12,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-
+lastmod: 2026-07-07
 ---
 Most people assume eating disorders are about vanity. That assumption does more damage than almost anything else in this space, and it's the reason so many people wait years before asking for help.
 
@@ -46,7 +46,7 @@ SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) is
 
 ## The Role of Medication (and Why It's Usually Not the Lead Treatment)
 
-Fluoxetine (Prozac) is the only FDA-approved medication for bulimia nervosa, and it works best when combined with therapy, not as a replacement for it. For BED, lisdexamfetamine (Vyvanse) received FDA approval in 2015 specifically for moderate to severe cases. For anorexia, the medication picture is genuinely murky. No drug has proven reliably effective at restoring weight or changing outcomes, though some are used to manage co-occurring anxiety or depression once weight is restored.
+Fluoxetine (Prozac) is the only FDA-approved medication for bulimia nervosa, and it works best when combined with therapy, not as a replacement for it. For BED, lisdexamfetamine (Vyvanse) received FDA approval in 2015 specifically for moderate to severe cases. For anorexia, the medication picture is genuinely murky. No drug has proven reliably effective at restoring weight or changing outcomes, though some are used to manage [co-occurring anxiety or depression](/therapy-for-depression-and-anxiety-together/) once weight is restored.
 
 You need a psychiatrist or physician here, not just a therapist. The medical components of eating disorder treatment are significant enough that solo outpatient therapy without any medical oversight can be inadequate or even dangerous depending on severity.
 

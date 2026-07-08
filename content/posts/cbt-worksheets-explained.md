@@ -23,12 +23,13 @@ faqs:
    a: "Most CBT-based treatments are structured around 12-20 sessions, and people often notice some shift in thinking patterns within a few weeks of consistent practice. But 'a difference' is highly individual. Some people feel a meaningful change within a month; for others it takes longer. Consistency matters more than speed."
  - q: "What's the difference between a CBT worksheet and a regular journal?"
    a: "A journal is open-ended. A CBT worksheet has a specific structure designed to prompt a particular cognitive process, like examining evidence for a belief or identifying a thinking error. The structure is the point. It keeps you from circling the thought indefinitely and asks you to actively test it instead."
+lastmod: 2026-07-07
 ---
 Most people who pick up a CBT worksheet for the first time stare at it for a solid thirty seconds, feel vaguely judged by a piece of paper, and set it down.
 
 That's not a motivation problem. It's a context problem. Nobody told them what the worksheet is actually for, or why filling in a box about "evidence against this thought" is supposed to help with anything. So let's fix that.
 
-Cognitive Behavioral Therapy worksheets are structured writing exercises built around one central idea: your thoughts, feelings, and behaviors are connected, and you can learn to interrupt unhelpful patterns by examining them on paper. That's the whole thing. Everything else flows from that.
+[Cognitive Behavioral Therapy worksheets](/cognitive-behavioral-therapy-explained/) are structured writing exercises built around one central idea: your thoughts, feelings, and behaviors are connected, and you can learn to interrupt unhelpful patterns by examining them on paper. That's the whole thing. Everything else flows from that.
 
 I've watched people turn that abstract idea into something genuinely useful for themselves, and I've also watched people spend months filling out worksheets mechanically without getting much out of them. The difference almost always comes down to whether they understood what they were doing and why.
 
@@ -62,7 +63,7 @@ CBT isn't one fixed technique. It's a family of approaches, and the worksheets r
 
 **Thought records** are the classic starting point. Start here if you're only going to use one tool.
 
-**Behavioral activation worksheets** get used a lot in CBT for depression. They track what you're doing each day alongside your mood, helping you spot which activities actually lift your energy and which ones drain it. Sounds simple. In practice, people are consistently surprised by what they find.
+**Behavioral activation worksheets** get used a lot in [CBT for depression](/cbt-vs-dbt-therapy-what-is-the-difference/). They track what you're doing each day alongside your mood, helping you spot which activities actually lift your energy and which ones drain it. Sounds simple. In practice, people are consistently surprised by what they find.
 
 **Worry logs and postponement worksheets** work well for anxiety. The idea is that you write down a worry, schedule a specific time to "worry about it," then return your attention to the present. The research on this technique is reasonably solid, particularly for generalized anxiety.
 

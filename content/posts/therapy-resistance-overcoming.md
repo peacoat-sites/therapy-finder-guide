@@ -23,6 +23,7 @@ faqs:
    a: "In the U.S., look for licensed credentials: LCSW, LMFT, LPC, PhD, or PsyD. You can verify licensure through your state's licensing board website. Certifications in specific modalities (like EMDR or CBT) are a plus but aren't a substitute for a valid license."
  - q: "What if I can't afford therapy right now?"
    a: "Sliding-scale fees are more widely available than people realize. Many therapists offer them but don't advertise them prominently. Community mental health centers, university training clinics, and open-enrollment platforms like Open Path Collective offer significantly reduced rates. It's worth asking directly rather than assuming cost rules it out."
+lastmod: 2026-07-07
 ---
 Something I've noticed over twenty years in this field: the people who say "therapy isn't for me" are almost always the ones who need it most. Not in a patronizing way. I mean that the survival skills that help someone endure genuinely hard circumstances, minimizing, pushing through, not wanting to burden others, are the exact same skills that make sitting down with a stranger to talk about your inner life feel completely absurd.
 
@@ -46,15 +47,15 @@ Here's the take that might make you push back: I think the way therapy is market
 
 If someone goes in expecting to feel better after session three and instead feels raw and irritable and can't sleep well, they conclude therapy doesn't work. They quit. And honestly, who could blame them? Nobody told them this was part of the process.
 
-I'd rather you know upfront: a temporary increase in distress early in therapy is usually a sign that something real is happening. That's not a guarantee it'll resolve, and it's absolutely worth mentioning to your therapist if it feels unmanageable. But it's not a reason to run.
+I'd rather you know upfront: a temporary increase in distress [early in therapy](/how-to-know-if-therapy-is-working/) is usually a sign that something real is happening. That's not a guarantee it'll resolve, and it's absolutely worth mentioning to your therapist if it feels unmanageable. But it's not a reason to run.
 
 ## Lowering the Stakes of the First Step
 
 One thing that helps enormously is reframing what you're actually committing to. You're not committing to years of excavating your childhood. You're not committing to crying in front of someone. You're committing to one conversation. That's it.
 
-Go to one session. Treat it like a consultation, not a contract. You can tell the therapist outright that you're skeptical, that you're only there to see how this feels. A good therapist won't be thrown by that. They'll appreciate the honesty.
+Go to [one session](/what-to-expect-first-therapy-session/). Treat it like a consultation, not a contract. You can tell the therapist outright that you're skeptical, that you're only there to see how this feels. A good therapist won't be thrown by that. They'll appreciate the honesty.
 
-Finding the right therapist matters more than most articles admit. The research on therapeutic outcomes consistently points to the "therapeutic alliance," which just means: do you feel basically safe and understood with this person? If you don't feel that after two or three sessions, it's not a failure. It's the wrong fit. Psychology Today's therapist directory lets you filter by specialty, insurance, and approach before you commit to a call.
+Finding the right therapist matters more than most articles admit. The research on therapeutic outcomes consistently points to the "therapeutic alliance," which just means: do you feel basically safe and understood with this person? If you don't feel that after two or three sessions, it's not a failure. It's the [wrong fit](/when-to-switch-therapists/). Psychology Today's therapist directory lets you filter by specialty, insurance, and approach before you commit to a call.
 
 ## What Type of Therapy Actually Helps Resistance?
 

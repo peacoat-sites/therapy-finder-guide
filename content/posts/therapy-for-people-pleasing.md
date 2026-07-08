@@ -23,6 +23,7 @@ faqs:
     a: "This is a real issue, not a hypothetical. Therapist countertransference is documented. If sessions feel consistently comfortable, like your therapist always agrees with your framing, that's worth raising directly, or seeking a consultation with a different provider. Good therapy for people pleasing should include some productive discomfort."
   - q: "Will therapy make me selfish or uncaring?"
     a: "This is the fear most people don't say out loud but clearly have. Clinically, no. People pleasers often become more genuinely kind after treatment because their helpfulness shifts from anxiety-driven to chosen. The research on assertiveness training consistently shows that appropriate boundary-setting improves relationship quality rather than damaging it. You stop being endlessly agreeable; you don't stop caring."
+lastmod: 2026-07-07
 ---
 
 Most writing about people pleasing treats it like a quirky personality trait you can fix with a few assertiveness tips. "Just say no more often!" That advice is about as useful as telling someone with a broken leg to walk it off.
@@ -43,6 +44,13 @@ I've watched this play out in practice. Someone comes in having read every book 
 
 ## Which Therapy Actually Works
 
+| Therapy Approach | Primary Focus | Typical Duration | Best For |
+| --- | --- | --- | --- |
+| Cognitive Behavioral Therapy (CBT) | Identifying and testing beliefs driving people-pleasing behavior | 12-20 sessions | Starting point; testing thought patterns against reality |
+| Schema Therapy | Core belief systems and early childhood dynamics | 6 months to 1+ year | Entrenched patterns across all relationships |
+| EMDR | Processing trauma memories tied to fawn response | Varies | Identifiable trauma; paired with relational work |
+| Acceptance and Commitment Therapy (ACT) | Values clarification and psychological flexibility | Varies | Clarifying personal values; reducing emotional reactivity |
+
 > **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -61,7 +69,7 @@ Not all approaches are equally useful here, and I'd rather just rank them than p
 
 Three worked examples, because abstract promises don't tell you much:
 
-**Client in her late 30s, primary care physician, chronic over-commitment at work:** Entered CBT after a burnout-driven medical leave. Identified core belief: "Saying no makes me a bad doctor." Over 16 sessions, worked through behavioral experiments (declining one non-urgent request per week, tracking outcomes). By session 12, she reported that 90% of her feared consequences ("colleagues will resent me") hadn't materialized. Six months post-treatment, her weekly overtime hours dropped from roughly 20 to 5.
+**Client in her late 30s, primary care physician, chronic over-commitment at work:** Entered CBT after a [burnout-driven medical leave](/therapy-for-work-stress-and-burnout/). Identified core belief: "Saying no makes me a bad doctor." Over 16 sessions, worked through behavioral experiments (declining one non-urgent request per week, tracking outcomes). By session 12, she reported that 90% of her feared consequences ("colleagues will resent me") hadn't materialized. Six months post-treatment, her weekly overtime hours dropped from roughly 20 to 5.
 
 **28-year-old in a long-term relationship where he'd never once voiced a preference about weekend plans, meals, or vacations:** Started schema therapy after his partner told him she didn't actually know who he was. Eighteen months of work on subjugation schema, paired with couples check-ins. He described his first experience of saying "I don't want to do that" without immediately apologizing as "genuinely terrifying, then weirdly fine." His partner's reported relationship satisfaction, on a 1-10 scale she tracked herself, went from a 5 to an 8 over that period.
 

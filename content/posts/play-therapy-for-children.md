@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-07
 ---
 Most parents who ask me about play therapy are expecting me to talk them into it. They've already Googled it, watched a few reassuring YouTube videos, and arrived at my inbox half-convinced but unsure if it's "real" therapy or just an expensive playdate. Here's what I actually tell them: it's one of the most evidence-backed approaches we have for children under twelve. The fact that it looks like playing? That's a feature, not a flaw.
 
@@ -40,6 +40,13 @@ There are two broad approaches. In non-directive (or child-centered) play therap
 What it isn't: babysitting. A real play therapist has at minimum a master's degree in counseling or social work, specialized training in play therapy techniques, and often a Registered Play Therapist (RPT) credential through the Association for Play Therapy (APT). If someone calls themselves a play therapist without that background, ask questions.
 
 ## Who It's Actually For
+
+| Age Range | Best Suited For | Session Duration | Typical Course Length |
+| --- | --- | --- | --- |
+| 3-12 years | Anxiety, ADHD, trauma, attachment issues, grief, adjustment (divorce, siblings) | 50 minutes | 16-30 sessions (weekly) |
+| 13+ years | May still benefit; effectiveness increases with talk therapy or DBT modalities | 50 minutes | Varies by modality |
+| Adolescents (mature 11-12) | Can work if child is comfortable; avoid if embarrassment is high | 50 minutes | Varies |
+| Trauma history (complex/developmental) | Trauma-Focused CBT with expressive activities recommended | 50 minutes | Longer course typical |
 
 Play therapy works for a wider range of kids than most parents realize.
 

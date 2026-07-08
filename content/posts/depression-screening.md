@@ -17,6 +17,7 @@ faqs:
    answer: "Yes. The PHQ-9 is in the public domain and widely available online. Our interactive version above calculates your score automatically. Remember that online tools are not a substitute for professional evaluation."
  - question: "What happens after a positive PHQ-9 screen?"
    answer: "If your score suggests moderate to severe depression, a clinician will typically conduct a more thorough clinical interview, discuss your history and symptoms in depth, and discuss treatment options including therapy, medication, or a combination of both."
+lastmod: 2026-07-07
 ---
 **If you are in crisis or having thoughts of self-harm, please call or text 988 (Suicide & Crisis Lifeline) right now. For emergencies, call 911.**
 
@@ -34,13 +35,21 @@ The nine questions map directly to the DSM criteria for major depressive disorde
 
 The interactive tool below works exactly like the real questionnaire. Read each question carefully. Select the response that matches how you've felt over the **last two weeks**. Be honest. There's no scoring trick here.
 
-Question 9 asks about thoughts of death or self-harm. Pay attention to it. If you pick anything other than "Not at all," crisis resources will appear immediately. Use them if you need to.
+Question 9 asks about [thoughts of death or self-harm](/anxiety-screening/). Pay attention to it. If you pick anything other than "Not at all," crisis resources will appear immediately. Use them if you need to.
 
 When you finish all nine questions, hit the button to see your score. You'll get your total, a severity category, and what comes next.
 
 {{< phq9 >}}
 
 ## Understanding Your PHQ-9 Score
+
+| PHQ-9 Score Range | Severity Level | Typical Recommendation |
+| --- | --- | --- |
+| 0-4 | Minimal | Watchful waiting; monitor symptoms |
+| 5-9 | Mild | Self-care and check-in with doctor |
+| 10-14 | Moderate | Active treatment (therapy, medication, or both) |
+| 15-19 | Moderately Severe | Professional evaluation and treatment |
+| 20-27 | Severe | Urgent professional evaluation and treatment |
 
 Your score is a conversation starter, not a final answer. Here's what each range typically means:
 

@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 Most perfectionists don't think they have a problem. They think they have standards.
 
@@ -35,7 +35,7 @@ The good news is that therapy works for this. Really works. But what kind of the
 
 ## What You're Actually Treating
 
-Perfectionism isn't a diagnosis in the DSM-5, which trips people up. You won't get a "perfectionism disorder" code on your insurance paperwork. What you will get are diagnoses like generalized anxiety disorder, OCD, major depression, or an eating disorder, because perfectionism is almost always interwoven with at least one of those.
+Perfectionism isn't a diagnosis in the DSM-5, which trips people up. You won't get a "perfectionism disorder" code on your insurance paperwork. What you will get are diagnoses like generalized anxiety disorder, OCD, major depression, or an [eating disorder](/therapy-for-eating-disorders/), because perfectionism is almost always interwoven with at least one of those.
 
 This matters because it shapes treatment. The perfectionism isn't usually the root; it's a strategy. A way of managing fear. Fear of judgment, of failure, of being seen as inadequate. A good therapist will spend time understanding what the perfectionism is protecting you from before they try to dismantle any of it.
 

@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-07
 ---
 Most couples wait six years after serious problems start before they seek therapy. Six years. That comes straight from Dr. John Gottman's research, which is about as rigorous as relationship science gets. By the time people finally sit across from a therapist together, resentment has hardened, communication patterns have become almost ritualistic, and at least one person is already checked out emotionally. I'm telling you this not to scare you, but because if you're reading this right now, you're already ahead of the curve. The fact that you're searching for a couples therapist at all matters.
 
@@ -47,9 +47,9 @@ The real upside of telehealth: it expands your geographic pool. Instead of filte
 
 Most articles gloss over this part, and that's a mistake. Not all couples therapy is the same. The approach your therapist uses is one of the most significant variables in whether therapy actually helps.
 
-**Emotionally Focused Therapy (EFT):** Developed by Dr. Sue Johnson, EFT is the most extensively researched couples therapy approach out there. It works from attachment theory, the idea that most relationship conflict is really about fears of abandonment, disconnection, and not being enough. Studies consistently show meaningful improvement, particularly for couples dealing with distress, affairs, or chronic conflict. If your fights follow the same loop repeatedly, EFT is worth specifically seeking out.
+**[Emotionally Focused Therapy (EFT)](/emotionally-focused-therapy-eft/):** Developed by Dr. Sue Johnson, EFT is the most extensively researched couples therapy approach out there. It works from attachment theory, the idea that most relationship conflict is really about fears of abandonment, disconnection, and not being enough. Studies consistently show meaningful improvement, particularly for couples dealing with distress, affairs, or chronic conflict. If your fights follow the same loop repeatedly, EFT is worth specifically seeking out.
 
-**The Gottman Method:** Based on that same John Gottman whose six-year statistic opened this piece. Gottman-trained therapists tend to be structured, skill-focused, and data-informed. The approach teaches concrete tools: how to make repair attempts after arguments, how to recognize "Four Horsemen" communication patterns (criticism, contempt, defensiveness, stonewalling), how to build friendship and trust systematically. If one or both partners likes having tangible homework and frameworks, this approach often lands well.
+**[The Gottman Method](/gottman-method-couples-therapy/):** Based on that same John Gottman whose six-year statistic opened this piece. Gottman-trained therapists tend to be structured, skill-focused, and data-informed. The approach teaches concrete tools: how to make repair attempts after arguments, how to recognize "Four Horsemen" communication patterns (criticism, contempt, defensiveness, stonewalling), how to build friendship and trust systematically. If one or both partners likes having tangible homework and frameworks, this approach often lands well.
 
 **Cognitive Behavioral Couples Therapy (CBCT):** A more structured, thought-pattern-focused approach useful when distorted thinking drives conflict. If your partner "never" does anything right or you "always" feel dismissed, CBCT can help interrupt those patterns.
 

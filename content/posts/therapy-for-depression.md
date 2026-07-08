@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 It's 2 p.m. on a Tuesday and you haven't left your bedroom in three days. The dishes are piling up. Your phone has seventeen unread texts. The thought of doing literally anything feels like trying to lift a car with your bare hands. You're not lazy. You're not broken. You might be living with depression, and here's the hard truth: therapy can help, but only if you can get yourself through the door, figuratively or literally. That's what this article is about. Not the glossy version where someone nods thoughtfully while you talk about childhood, but the actual, practical side of finding help when depression has already stolen most of your energy.
 
@@ -36,6 +36,14 @@ I've worked alongside clinical teams long enough to see this pattern repeat cons
 This matters because it changes what advice actually makes sense. Telling someone with depression to "just book an appointment" misses the point entirely. The barrier isn't information. It's the illness itself. So before we talk about types of therapy, let's agree on something: if you're reading this and you're in that 2 p.m. Tuesday state, any step forward counts as progress. Even reading one more paragraph. If you're in crisis right now, the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) is available 24/7 by call or text. That's where to start if the ground feels unstable.
 
 ## The Main Types of Therapy for Depression (And How They Actually Differ)
+
+| Therapy Type | Core Approach | Session Structure | Best For |
+| --- | --- | --- | --- |
+| Cognitive Behavioral Therapy (CBT) | Change thoughts, feelings, and behaviors through identifying and challenging distorted thinking | Structured, time-limited (12-20 sessions), goal-oriented with homework | Mild to moderate depression |
+| Behavioral Activation (BA) | Break avoidance cycle through scheduled, intentional engagement with activities | Gradual, activity-based, progressive | Complete withdrawal from life |
+| Interpersonal Therapy (IPT) | Address depression in context of relationships, grief, role transitions, or conflict | Focused on specific life circumstances | Depression tied to relationships or life events |
+| Psychodynamic Therapy | Explore past experiences, unconscious patterns, and early attachments | Longer-term, less structured, exploratory | Depression rooted in deep patterns and history |
+| Acceptance and Commitment Therapy (ACT) | Change relationship with difficult thoughts and emotions through acceptance and values-based action | Mindfulness-based, skill-building | Depression requiring emotional flexibility and values alignment |
 
 > **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

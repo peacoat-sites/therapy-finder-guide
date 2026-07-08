@@ -10,7 +10,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-07
 ---
 Finding a therapist involves more than scrolling through your insurance directory. The right person, someone whose approach, communication style, and specialty actually align with what you need, matters far more than convenience or availability.
 
@@ -28,6 +28,16 @@ Before you search anything, answer these five questions:
 This cuts your search from thousands down to dozens. That's the whole point.
 
 ## Where to Actually Search
+
+| Resource | Cost | Best For |
+| --- | --- | --- |
+| Psychology Today Therapist Finder | Varies by therapist | Comprehensive search by insurance, specialty, location |
+| Open Path Collective | $30-$80 sliding scale | Uninsured or out-of-pocket clients |
+| SAMHSA Treatment Locator | Free | Substance use and co-occurring conditions |
+| Community Mental Health Centers | Sliding scale based on income | Low-income clients |
+| University Training Clinics | Reduced cost | Affordable therapy with clinical supervision |
+| Employee Assistance Programs (EAPs) | Free (3-8 sessions) | Employed individuals with benefits |
+| Primary Care Referral | Varies by therapist | Personalized local recommendations |
 
 **Psychology Today's therapist finder** (psychologytoday.com) is genuinely the best starting place. Filter by insurance, specialty, location. It's comprehensive enough that if they're in your area, they're probably listed.
 
@@ -64,7 +74,7 @@ Community mental health centers often use sliding-scale fees based on income. Ca
 
 Universities run training clinics where graduate students provide therapy under supervision. It's cheaper. The supervision actually means you're getting quality oversight.
 
-Many employers offer Employee Assistance Programs (EAPs) that cover 3–8 free sessions. Check your benefits. Most people don't realize they have this.
+Many employers offer [Employee Assistance Programs (EAPs)](/free-mental-health-resources-and-hotlines/) that cover 3–8 free sessions. Check your benefits. Most people don't realize they have this.
 
 Open Path Collective again, or platforms like it, if you need something quick and affordable.
 

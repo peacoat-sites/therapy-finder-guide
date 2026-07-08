@@ -12,7 +12,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-
+lastmod: 2026-07-07
 ---
 Most people who come to me with depression and anxiety don't even realize they have both. They describe feeling exhausted and unmotivated, then mention in the same breath that they can't stop worrying, that they lie awake running disaster scenarios, that dread follows them from room to room. They think it's all one thing. Often, it is, in the sense that the two conditions are so frequently tangled together that treating one without acknowledging the other tends to backfire.
 
@@ -34,11 +34,11 @@ What actually works is a therapist who holds both conditions in mind simultaneou
 
 There's endless noise online about therapy types. I'll be direct about what has the strongest research base for this specific combination.
 
-**Cognitive Behavioral Therapy (CBT)** is the most well-studied treatment for depression and anxiety together. It works by identifying the thought patterns that sustain both conditions, catastrophizing, black-and-white thinking, relentless self-blame, and then systematically testing whether those thoughts hold up. The 2013 edition of David Burns's *Feeling Good* remains one of the best-written explanations of CBT for a general reader, and his follow-up *When Panic Attacks* handles the anxiety piece specifically. I often recommend both to people who want to understand what they're walking into before their first appointment.
+**Cognitive Behavioral Therapy (CBT)** is the most well-studied treatment for [depression and anxiety together](/therapy-for-anxiety-treatment/). It works by identifying the thought patterns that sustain both conditions, catastrophizing, black-and-white thinking, relentless self-blame, and then systematically testing whether those thoughts hold up. The 2013 edition of David Burns's *Feeling Good* remains one of the best-written explanations of CBT for a general reader, and his follow-up *When Panic Attacks* handles the anxiety piece specifically. I often recommend both to people who want to understand what they're walking into before their first appointment.
 
 **Acceptance and Commitment Therapy (ACT)** has gained serious traction over the past decade, and for people whose depression and anxiety both root in relentless self-criticism and psychological rigidity, I think ACT sometimes outperforms traditional CBT. It doesn't ask you to challenge your thoughts so much as change your relationship with them. Notice the thought. Don't let it drive. *The Happiness Trap* by Russ Harris is a solid self-help workbook for this, available on Amazon, and gives you foundation before or alongside working with a therapist.
 
-**Behavioral Activation**, used within CBT or standalone, specifically targets the withdrawal and inertia of depression. Recent meta-analyses suggest it also reduces anxiety, particularly social anxiety. It's less about "doing more" in some vague sense and more about strategically reintroducing meaningful activity in small, graded steps.
+**Behavioral Activation**, used within CBT or standalone, specifically targets the withdrawal and inertia of depression. Recent meta-analyses suggest it also reduces anxiety, particularly [social anxiety](/therapy-for-social-anxiety/). It's less about "doing more" in some vague sense and more about strategically reintroducing meaningful activity in small, graded steps.
 
 **Mindfulness-Based Cognitive Therapy (MBCT)** is worth knowing about if you've experienced multiple depressive episodes. Oxford developed it in the 1990s specifically for preventing recurrence, and there's solid evidence it reduces anxiety symptoms alongside depressive relapse. Jon Kabat-Zinn's *Full Catastrophe Living* is the foundational text, though it's a genuine time commitment.
 

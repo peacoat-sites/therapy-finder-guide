@@ -23,6 +23,7 @@ faqs:
    a: "For first responders specifically, online therapy has some real advantages: shift workers can schedule sessions at 10pm, there's no worry about a coworker seeing your car in a parking lot, and you can access specialists who aren't local to you. The research on teletherapy for PTSD is genuinely strong, particularly for CPT delivered via video. It's not second-best across the board. For someone who needs significant stabilization or is in acute crisis, in-person is usually better, but for ongoing therapy, video sessions work."
  - q: "When should a first responder call a crisis line instead of waiting for a therapy appointment?"
    a: "If you're having thoughts of suicide or self-harm, if you're using substances in ways that are scaring you, or if you feel like you can't get through the next few hours, don't wait for an appointment. Call the 988 Suicide and Crisis Lifeline or Safe Call Now at 1-206-459-3020. These lines exist specifically because the therapy system has gaps and delays, and no one should fall through those gaps alone."
+lastmod: 2026-07-07
 ---
 
 Most firefighters will tell you they've pulled a colleague out of a burning building before they've ever suggested that same colleague see a therapist. That tells you everything about the culture.
@@ -59,7 +60,7 @@ Not all therapy modalities are equal for trauma, and the research on this is pre
 
 **EMDR (Eye Movement Desensitization and Reprocessing)** consistently shows up as one of the most effective treatments for first responder PTSD. A 2021 meta-analysis published in the *Journal of Anxiety Disorders* reviewed 26 randomized controlled trials and found EMDR produced significant reductions in PTSD symptom severity, often in fewer sessions than traditional talk therapy. For someone who can't take six months off the job to do deep therapeutic work, that matters.
 
-**CPT (Cognitive Processing Therapy)** was originally developed for combat veterans and sexual assault survivors, but the research on its effectiveness with law enforcement and firefighters is solid. Dr. Patricia Resick, who developed CPT at the University of Missouri, has described the therapy's core goal as helping people "get unstuck" from thoughts like "I should have done more" or "I'm broken." That particular thought pattern is epidemic among first responders, especially after line-of-duty deaths or pediatric calls.
+**CPT (Cognitive Processing Therapy)** was originally developed for [combat veterans](/therapy-for-veterans/) and sexual assault survivors, but the research on its effectiveness with law enforcement and firefighters is solid. Dr. Patricia Resick, who developed CPT at the University of Missouri, has described the therapy's core goal as helping people "get unstuck" from thoughts like "I should have done more" or "I'm broken." That particular thought pattern is epidemic among first responders, especially after line-of-duty deaths or pediatric calls.
 
 **Prolonged Exposure (PE)** is another well-supported option, though it tends to feel more intense in the short term because it involves deliberately revisiting traumatic memories in a controlled setting. Some first responders find it the most effective precisely because it doesn't feel like "just talking." Others find it too much while still on active duty. Honest answer: it depends on the person and the timing.
 
@@ -67,7 +68,7 @@ What about medication? It can help, especially for acute symptoms like hyperarou
 
 **Worked example:** A firefighter with 9 years on the job, after a fatal structure fire involving a child, started EMDR with a clinician trained in first responder trauma. After 12 sessions over four months, his PCL-5 score (a standardized PTSD checklist) dropped from 54 to 28. He didn't "cure" anything, but he went from nightly nightmares to roughly one per week, and he stayed on the job.
 
-Learn more about trauma-focused therapy types from your department's Employee Assistance Program, or ask a potential therapist directly which modalities they use and why.
+Learn more about [trauma-focused therapy types](/how-to-find-a-trauma-informed-therapist/) from your department's Employee Assistance Program, or ask a potential therapist directly which modalities they use and why.
 
 ---
 

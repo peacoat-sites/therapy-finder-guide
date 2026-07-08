@@ -12,6 +12,7 @@ author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
 slug: "the-va-is-now-testing-mdma-as-a-ptsd-therapy-for-veterans"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something most people still assume is that psychedelic therapy is a fringe idea, the kind of thing debated at research conferences and quietly shelved. What happened on May 27, 2026 challenges that assumption pretty directly. The Department of Veterans Affairs announced it had launched its first federally sponsored MDMA-assisted therapy trial, with enrollment already underway at the Providence VA Healthcare System in Rhode Island. This isn't a university pilot or a private clinic experiment. It's the federal government, using federal funding infrastructure, testing MDMA as medicine for veterans carrying some of the heaviest trauma loads in the country. That's a line that just got crossed, and it matters whether or not you ever plan to set foot in a VA clinic.
 
@@ -29,13 +30,20 @@ The structure matters here. This isn't people taking MDMA and hoping for the bes
 
 
 
-The executive order is the engine behind this trial's timing. On April 18, 2026, President Trump signed an order titled "Accelerating Medical Treatments for Serious Mental Illness," directing the FDA and HHS to fast-track psychedelic drug clinical trials. The order specifically cited the veteran suicide rate as a key driver. Veterans die by suicide at a rate more than 1.5 times higher than the general adult population. That's not a new statistic, but it's one that carries real political weight, and in this case it translated into actual policy movement.
+The executive order is the engine behind this trial's timing. On April 18, 2026, President Trump signed an order titled "Accelerating Medical Treatments for Serious Mental Illness," directing the FDA and HHS to fast-track [psychedelic drug clinical trials](/a-single-dose-lsd-drug-just-beat-every-approved-depression-treatment/). The order specifically cited the veteran suicide rate as a key driver. Veterans die by suicide at a rate more than 1.5 times higher than the general adult population. That's not a new statistic, but it's one that carries real political weight, and in this case it translated into actual policy movement.
 
 The VA is currently involved in 19 active psychedelic therapy clinical trials backed by more than $23 million in external funding, according to the May 27 VA Newsroom release. That's a system that has been quietly building capacity for a moment like this. The executive order appears to have provided the institutional permission to go public and go bigger.
 
 I want to be careful here not to oversell the politics as a clean story. Fast-tracking isn't the same as approving. There are researchers who worry that accelerated timelines create pressure to move before the evidence base is solid enough. The preliminary results from this trial aren't expected until 2027. That's actually a relatively short window for a study of this complexity, and how those results land will shape a lot of what comes next.
 
 ## What the Research Actually Shows (and Doesn't)
+
+| Treatment | PTSD Remission Rate | Study Type | Notes |
+| --- | --- | --- | --- |
+| MDMA-assisted therapy (MAPS Phase 3) | 71% | Active clinical trial | Participants no longer meeting PTSD diagnostic criteria |
+| Placebo (MAPS Phase 3) | 48% | Active clinical trial | Control group for comparison |
+| Prolonged Exposure therapy | Established efficacy | Standard of care | Evidence-based, current VA standard |
+| Cognitive Processing Therapy | Established efficacy | Standard of care | Evidence-based, current VA standard |
 
 The research picture for MDMA-assisted therapy in PTSD is genuinely promising but not settled. Phase 3 trials run by MAPS (the Multidisciplinary Association for Psychedelic Studies) showed significant reductions in PTSD severity. In 2023, 71% of participants in one of those trials no longer met diagnostic criteria for PTSD after treatment, compared to 48% in the placebo group. Those numbers drew serious attention.
 

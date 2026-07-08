@@ -23,6 +23,7 @@ faqs:
    a: "Yes. Texting 988 connects you to a crisis counselor through the same network. It's a legitimate option, not a lesser one, and some people find it easier to communicate in writing during high-stress moments."
  - q: "What if I call and the wait is too long or I can't get through?"
    a: "If you're in immediate danger and can't reach 988, call 911 and ask for a mental health crisis team if your area has one. The Crisis Text Line (text HOME to 741741) is another option with typically fast response times."
+lastmod: 2026-07-07
 ---
 
 Most people who share the 988 number don't explain what actually happens when you call it. They post it with a heart emoji and move on. That leaves a lot of people wondering whether to dial, what they'll hear, and whether it's really for them. Let's fix that.
@@ -43,7 +44,7 @@ Texting 988 works too, and it's become genuinely popular among people who find v
 
 Here's the take that surprises people: you don't have to be suicidal to call 988.
 
-The line is designed for anyone experiencing a mental health or substance use crisis. That includes panic attacks that won't stop, dissociative episodes, unbearable grief, psychotic symptoms, a relapse, or a situation where you're worried about someone else. The counselors are trained for emotional crisis support, not just suicide intervention. If you're shaking and can't think straight at 2 a.m. because of anxiety that's been building for weeks, 988 is appropriate. You're not taking a spot from someone "more deserving."
+The line is designed for anyone experiencing a mental health or substance use crisis. That includes [panic attacks that won't stop](/how-to-help-someone-having-a-panic-attack/), dissociative episodes, unbearable grief, psychotic symptoms, a relapse, or a situation where you're worried about someone else. The counselors are trained for emotional crisis support, not just suicide intervention. If you're shaking and can't think straight at 2 a.m. because of anxiety that's been building for weeks, 988 is appropriate. You're not taking a spot from someone "more deserving."
 
 I've had clients who felt embarrassed calling because they weren't sure they were "bad enough." Almost every one of them said the call helped. One described it as "having permission to be a mess for twenty minutes with someone who could handle it." That's not a small thing.
 

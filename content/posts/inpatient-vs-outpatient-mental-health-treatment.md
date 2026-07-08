@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-
+lastmod: 2026-07-07
 ---
 Most people don't learn the difference between inpatient and outpatient mental health treatment while they're calm and researching. They learn it in crisis, or watching someone they love go through one, while a doctor or ER nurse is asking them to make a decision they've never had to think about before. That moment hits different.
 
@@ -43,15 +43,22 @@ Insurance coverage for inpatient psychiatric care got better after the Mental He
 
 ## The Outpatient Spectrum Is Way Bigger Than Most People Think
 
+| Treatment Level | Frequency | Duration | Setting | Best For |
+| --- | --- | --- | --- | --- |
+| Standard Outpatient Therapy | Weekly or biweekly | 1 hour per session | Therapist/psychiatrist office | Moderate anxiety, depression affecting daily functioning |
+| Intensive Outpatient Program (IOP) | 3 days per week | 3 hours per session | Clinical facility, home each night | Step-down from inpatient, need for more than weekly sessions |
+| Partial Hospitalization Program (PHP) | 5 days per week | 5-6 hours daily | Day program facility, home each night | Substantial support needed, stable home environment |
+| Inpatient Psychiatric Care | 24/7 supervision | Typically 3-7 days | Hospital or psychiatric facility | Active suicidality with plan, severe psychosis, dangerous withdrawal |
+
 "Outpatient" sounds like it means weekly therapy. And weekly therapy is outpatient. But so is spending six hours a day, five days a week, in structured clinical treatment. The spectrum here is vast enough that two people in "outpatient care" could have almost nothing in common in terms of how intensive their treatment actually is.
 
 Here's how it breaks down:
 
 **Standard outpatient therapy** is what most people picture: individual therapy once a week or every two weeks, maybe a psychiatry appointment monthly for medication management. This works for a wide range of issues, from moderate anxiety to depression affecting daily functioning but not acutely dangerous. Cost varies drastically. Out-of-pocket therapy runs $100 to $300 per session depending on location and credentials; with insurance your copay might be $20 or $80. Anyone giving you a single "average" is oversimplifying.
 
-**Intensive Outpatient Programs (IOP)** meet multiple times weekly, usually three days a week for three hours. You're home every night, keeping your regular life and responsibilities where possible, but getting significantly more support than weekly therapy. IOPs are common for people stepping down from inpatient, or people needing more than weekly sessions but not 24-hour supervision.
+**[Intensive Outpatient Programs (IOP)](/intensive-outpatient-program-explained/)** meet multiple times weekly, usually three days a week for three hours. You're home every night, keeping your regular life and responsibilities where possible, but getting significantly more support than weekly therapy. IOPs are common for people stepping down from inpatient, or people needing more than weekly sessions but not 24-hour supervision.
 
-**Partial Hospitalization Programs (PHP)**, sometimes called day programs, represent the most intensive outpatient level. Usually five days a week, five to six hours daily. You attend a full-day structured treatment program and then go home. PHPs typically include individual therapy, group therapy, psychiatric medication management, and skills training (DBT and CBT are both common). For someone needing substantial support but with a stable, safe home, PHP can actually be more therapeutically rich than a short inpatient stay. The programming is the entire point rather than a side feature of stabilization.
+**[Partial Hospitalization Programs (PHP)](/partial-hospitalization-program-explained/)**, sometimes called day programs, represent the most intensive outpatient level. Usually five days a week, five to six hours daily. You attend a full-day structured treatment program and then go home. PHPs typically include individual therapy, group therapy, psychiatric medication management, and skills training (DBT and CBT are both common). For someone needing substantial support but with a stable, safe home, PHP can actually be more therapeutically rich than a short inpatient stay. The programming is the entire point rather than a side feature of stabilization.
 
 The step-down progression is useful to understand: inpatient to PHP to IOP to standard outpatient is a fairly standard path after a serious episode. Insurance companies push this trajectory too, which helps people stay in treatment but sometimes means they get pushed out of higher levels before they're ready.
 

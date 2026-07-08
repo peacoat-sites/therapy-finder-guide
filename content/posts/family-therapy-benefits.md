@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-07
 ---
 Picture this: a family sits around a dinner table in complete silence. Mom stares at her phone. Dad pushes food around his plate. Their teenage daughter disappeared to her room the moment the meal started, and their twelve-year-old son is watching the whole thing, not sure whether to laugh or cry. No one is screaming. No one is throwing dishes. But something is very, very wrong. This scene, quiet and ordinary as it looks, is exactly the kind of thing that brings families into therapy. And it's exactly the kind of thing that therapy can actually fix.
 
@@ -60,7 +60,7 @@ Let's get specific about what family therapy can actually do, because "it helps 
 
 **It helps kids and teens who're acting out.** Children and adolescents often express family stress through behavior, not words. A child suddenly failing at school, or a teenager who's become hostile and withdrawn, may be responding to tension in the household that nobody has named out loud. Family therapy addresses the whole environment, not just the child's symptoms. This is often far more effective than individual child therapy alone.
 
-**It supports families through major life shifts.** Divorce. Remarriage. A parent's serious illness. Death. A cross-country move. A new baby. These events restructure families, and not always smoothly. Therapy gives everyone a space to process change together rather than in isolation.
+**It supports [families through major life shifts](/therapy-for-blended-families/).** Divorce. Remarriage. A parent's serious illness. Death. A cross-country move. A new baby. These events restructure families, and not always smoothly. Therapy gives everyone a space to process change together rather than in isolation.
 
 **It takes the pressure off one person.** When one family member's dealing with depression, addiction, or an eating disorder, the rest of the family is affected too. Loved ones often develop their own patterns, like walking on eggshells or pulling away, that end up enabling the problem rather than helping. Family therapy addresses this directly.
 

@@ -12,6 +12,7 @@ author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 slug: "the-va-is-testing-mdma-assisted-therapy-for-veteran-ptsd"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 You probably know at least one veteran who's cycled through antidepressants, talk therapy, maybe an inpatient stay, and still describes their PTSD as something they've learned to "manage" rather than anything close to resolved. That gap between surviving and healing is what makes the VA's announcement this spring feel different from the usual press releases.
 
@@ -39,7 +40,7 @@ Skepticism exists for real reasons. MDMA's path toward FDA approval hit serious 
 
 Veteran-specific concerns matter too. Cardiovascular risks. The potential for dissociation or distress. Questions about long-term follow-up. Any veteran considering enrollment should read the trial details carefully and ask hard questions of their providers. Clinical trial participation should be voluntary, fully informed, and discussed with existing treatment providers.
 
-I've seen people on both sides get overconfident. The advocates treating MDMA therapy as a cure for treatment-resistant PTSD are running ahead of evidence. The critics dismissing it as reckless are ignoring a genuine treatment gap that leaves many veterans with few options. The honest answer is that this trial exists to find out what's actually true.
+I've seen people on both sides get overconfident. The advocates treating MDMA therapy as a cure for [treatment-resistant PTSD](/what-the-vas-new-mdma-therapy-trial-means-for-ptsd-treatment/) are running ahead of evidence. The critics dismissing it as reckless are ignoring a genuine treatment gap that leaves many veterans with few options. The honest answer is that this trial exists to find out what's actually true.
 
 ## What This Means If You're Not Enrolled in the Trial
 

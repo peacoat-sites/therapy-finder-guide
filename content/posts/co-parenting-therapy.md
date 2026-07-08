@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-07
 ---
 Most parents don't plan to end up in co-parenting therapy. They land there after something breaks. A judge recommends it. A school pickup turns into a shouting match. Your kid suddenly refuses to go to the other parent's house. You show up because you need this fixed, not because you want to work on yourself. That context shapes everything about how the therapy actually works.
 
@@ -41,11 +41,11 @@ Most parents don't plan to end up in co-parenting therapy. They land there after
 
 Co-parenting therapy is not couples therapy with kids as the topic. It's not a place to process your grief about the relationship ending, and it's definitely not where you finally get your ex to admit what they did wrong. Therapists who specialize in this will redirect you firmly if you go there. That's intentional.
 
-Here's what it actually is: a structured process where two parents learn to function as a parenting team even though they're no longer together. The therapist's real client is the parenting relationship itself, not either parent individually. Most good co-parenting therapists borrow from conflict resolution frameworks and use tools from emotionally focused therapy or CBT to help parents interrupt their reactive patterns.
+Here's what it actually is: a structured process where two parents learn to function as a parenting team even though they're no longer together. The therapist's real client is the parenting relationship itself, not either parent individually. Most good co-parenting therapists borrow from conflict resolution frameworks and use tools from [emotionally focused therapy or CBT](/emotionally-focused-therapy-eft/) to help parents interrupt their reactive patterns.
 
 The scope is narrow on purpose. You won't be asked to forgive your ex, become friends, or pretend the past didn't happen. You will be asked to agree on bedtimes, communicate without triggering each other, and keep your seven-year-old out of disputes about tuition.
 
-One thing most people don't know: co-parenting therapy can also involve a "parenting coordinator," which is a legally recognized role in some states. These are mental health professionals or attorneys with court authority to make binding decisions when parents can't agree on something. That's different from standard therapy and worth understanding if your situation has legal layers.
+One thing most people don't know: co-parenting therapy can also involve a "[parenting coordinator](/therapy-for-blended-families/)," which is a legally recognized role in some states. These are mental health professionals or attorneys with court authority to make binding decisions when parents can't agree on something. That's different from standard therapy and worth understanding if your situation has legal layers.
 
 ## Finding the Right Therapist for This
 

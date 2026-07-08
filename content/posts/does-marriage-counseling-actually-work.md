@@ -23,9 +23,9 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
-The honest answer is: sometimes. That's not the hedge you'll find in most articles about marriage counseling, which tend to land somewhere between cautious optimism and outright cheerleading. But vague encouragement doesn't help you decide whether to spend $150 per session on couples therapy or have a harder conversation about whether your relationship is actually salvageable.
+The honest answer is: sometimes. That's not the hedge you'll find in most articles about marriage counseling, which tend to land somewhere between cautious optimism and outright cheerleading. But vague encouragement doesn't help you decide whether to spend $150 per session on [couples therapy](/couples-therapy-how-it-works/) or have a harder conversation about whether your relationship is actually salvageable.
 
 So let's be specific about what the research says, where counseling tends to fail, and what actually predicts whether it'll work for you.
 
@@ -42,9 +42,9 @@ So let's be specific about what the research says, where counseling tends to fai
 
 ## The Research Is Good, With Caveats
 
-Emotionally Focused Therapy (EFT), one of the most studied approaches to couples work, shows about a 70-75% success rate in terms of significant improvement, with roughly 90% of couples reporting some positive change after treatment. Those numbers come from research largely developed by Sue Johnson, whose work on attachment theory in couples has been published extensively since the 1980s. That's genuinely impressive for any psychological intervention.
+[Emotionally Focused Therapy (EFT)](/emotionally-focused-therapy-eft/), one of the most studied approaches to couples work, shows about a 70-75% success rate in terms of significant improvement, with roughly 90% of couples reporting some positive change after treatment. Those numbers come from research largely developed by Sue Johnson, whose work on attachment theory in couples has been published extensively since the 1980s. That's genuinely impressive for any psychological intervention.
 
-The Gottman Method, the other major player in couples therapy, has decades of longitudinal research behind it. John Gottman's lab at the University of Washington spent years literally watching couples argue in a research apartment and measuring physiological stress responses. His ability to predict divorce with over 90% accuracy (based on patterns like contempt, stonewalling, defensiveness, and criticism) became famous after it was covered in Malcolm Gladwell's *Blink*. The therapeutic method built on that research has solid evidence backing it.
+[The Gottman Method](/gottman-method-couples-therapy/), the other major player in couples therapy, has decades of longitudinal research behind it. John Gottman's lab at the University of Washington spent years literally watching couples argue in a research apartment and measuring physiological stress responses. His ability to predict divorce with over 90% accuracy (based on patterns like contempt, stonewalling, defensiveness, and criticism) became famous after it was covered in Malcolm Gladwell's *Blink*. The therapeutic method built on that research has solid evidence backing it.
 
 So yes, couples therapy works. The catch: most studies track outcomes at 3-6 months post-treatment. Long-term follow-up data is thinner. A 2018 review in *Family Process* noted that while short-term gains are well-documented, relapse rates are real, especially when the underlying attachment injuries or communication patterns weren't fully resolved. Couples who do well in therapy and then never practice what they learned tend to slide back.
 

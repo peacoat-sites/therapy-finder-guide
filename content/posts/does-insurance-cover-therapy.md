@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-
+lastmod: 2026-07-07
 ---
 You call your insurance company on a Tuesday morning, ready to finally book that first therapy appointment. Forty-five minutes later, you hang up more confused than when you started. Deductibles, out-of-pocket maximums, "in-network" versus "out-of-network," prior authorization, mental health parity. The words blur together. And somewhere in that blur, the idea of actually *going* to therapy quietly gets shelved. I've watched this happen to people more times than I can count, and it's one of the most frustrating obstacles between someone and the help they need. The good news is that most insurance plans do cover therapy to some meaningful degree, but understanding exactly what you're entitled to takes a little unpacking.
 
@@ -63,7 +63,7 @@ The **out-of-pocket maximum** is your ceiling. Once your cumulative spending hit
 
 **In-network versus out-of-network** is probably the single most important distinction to understand. In-network therapists have contracted with your insurance company at agreed-upon rates. Out-of-network therapists haven't, so your insurer may cover less of the cost, or nothing at all. If you have a PPO plan, you likely have some out-of-network benefits. HMO plans typically don't cover out-of-network care except in emergencies.
 
-When a therapist offers a **superbill**, they're giving you an itemized receipt that you can submit directly to your insurance for partial reimbursement. This is the most common way to see an out-of-network therapist while still using your benefits. Many people don't know this option exists.
+When a therapist offers a **[superbill](/out-of-network-therapy-reimbursement/)**, they're giving you an itemized receipt that you can submit directly to your insurance for partial reimbursement. This is the most common way to see an out-of-network therapist while still using your benefits. Many people don't know this option exists.
 
 ## How to Actually Verify Your Therapy Benefits: Step by Step
 

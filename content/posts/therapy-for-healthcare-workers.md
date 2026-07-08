@@ -23,6 +23,7 @@ faqs:
    a: "For most people dealing with burnout, anxiety, and occupational stress (rather than severe psychiatric conditions), the research suggests telehealth CBT and ACT are comparably effective to in-person formats. The bigger clinical caveat is that severe depression or PTSD may benefit from in-person care, particularly if safety is a concern."
  - q: "What if I can't afford therapy or my insurance coverage is limited?"
    a: "Open Path Collective offers sessions at reduced rates (often $30 to $80) for people who don't qualify for free services but can't afford standard fees. Community mental health centers, teaching clinics at psychology graduate programs, and some hospital employee assistance programs also offer low-cost or free sessions. SAMHSA's locator at findtreatment.gov can help you find sliding-scale options by zip code."
+lastmod: 2026-07-07
 ---
 
 Most people assume that being surrounded by medical knowledge makes it easier to ask for help. I believed that too, for a long time. The reality is almost the opposite.
@@ -37,7 +38,7 @@ I'll be honest: when clinicians tell me they're scared therapy will affect their
 
 Most states do not require therapists to report mental health treatment to licensing boards. Therapy is protected by the same confidentiality rules that apply to any client. But the specifics vary by state, and some healthcare employment contracts include mental health disclosure clauses that employees don't fully read. A hospitalist I spoke with last year had turned down an EAP (Employee Assistance Program) referral because she was convinced her employer would see the records. They couldn't. But she didn't know that, and no one had taken five minutes to explain it.
 
-If you're a healthcare worker nervous about this, the practical move is to call a therapist before booking an appointment and ask directly: "How do you handle confidentiality, and what circumstances would require you to disclose anything?" A good therapist will walk you through it clearly. You can also seek a private-pay therapist completely outside your employer or insurance network. It costs more, yes, but for some people the peace of mind is worth it.
+If you're a healthcare worker nervous about this, the practical move is to call a therapist before booking an appointment and ask directly: "[How do you handle confidentiality](/how-to-find-a-trauma-informed-therapist/), and what circumstances would require you to disclose anything?" A good therapist will walk you through it clearly. You can also seek a private-pay therapist completely outside your employer or insurance network. It costs more, yes, but for some people the peace of mind is worth it.
 
 What I'd genuinely recommend: check your state's medical board requirements yourself, not through a colleague's secondhand information. The specifics matter, and the rumor mill in hospitals is notoriously unreliable on this one.
 

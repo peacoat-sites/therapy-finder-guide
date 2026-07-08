@@ -23,6 +23,7 @@ faqs:
    a: "Most people attend for two to four weeks, though programs vary and insurance utilization review plays a role. Clinical need drives the decision, and some people step down to an IOP after two weeks while others continue in PHP longer."
  - q: "What happens after I finish a PHP?"
    a: "Most programs have a discharge plan built in. You'll typically transition to either an IOP, a standard outpatient therapy schedule with a community therapist, or both. The goal is to avoid a cliff-drop back to weekly (or less frequent) care."
+lastmod: 2026-07-07
 ---
 Most people don't hear about partial hospitalization programs until they're already in crisis. You're sitting across from a psychiatrist who just told you that you're "too stable for inpatient but too unwell for weekly outpatient." That gap is real. PHPs fill it.
 
@@ -60,7 +61,7 @@ Psychiatry is usually included, which actually matters. Medication adjustments h
 
 PHPs are expensive. Understanding your benefits before committing matters. Most commercial insurance covers PHP under behavioral health, but coverage varies significantly. You'll run into utilization reviews (the insurance company checking if the level of care is still necessary) and some programs require pre-authorization. Call your insurance first and assume nothing.
 
-For uninsured people or those with high out-of-pocket costs, some facilities offer sliding-scale fees or state-funded options. Community mental health centers sometimes run their own PHPs or intensive outpatient programs at lower costs than private facilities.
+For uninsured people or those with high out-of-pocket costs, some facilities offer sliding-scale fees or state-funded options. Community mental health centers sometimes run their own PHPs or [intensive outpatient programs](/intensive-outpatient-program-explained/) at lower costs than private facilities.
 
 [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) has a facility search including PHPs and intensive outpatient programs. It's not exhaustive, but reasonable as a starting point. Your psychiatrist or primary care doctor can also give direct referrals.
 

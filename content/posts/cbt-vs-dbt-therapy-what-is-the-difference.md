@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 Most people searching "CBT vs DBT" are trying to figure out which one they need. That's the wrong question, and I'll explain why in a minute. But first, let me challenge something almost every explainer on this topic gets wrong: CBT and DBT are not competing therapies sitting on opposite ends of a spectrum. DBT *is* CBT, technically. It was built on the CBT framework and then radically restructured for a specific reason. Understanding that reason changes everything about how you'd choose between them.
 
@@ -55,7 +55,7 @@ This history isn't just academic trivia. It tells you something practical: DBT w
 
 > **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Cognitive Behavioral Therapy operates on a fairly elegant premise: your thoughts, feelings, and behaviors are connected. If you can identify and restructure distorted thought patterns, your emotional state and behavior will follow. That's the whole model.
+[Cognitive Behavioral Therapy](/cognitive-behavioral-therapy-explained/) operates on a fairly elegant premise: your thoughts, feelings, and behaviors are connected. If you can identify and restructure distorted thought patterns, your emotional state and behavior will follow. That's the whole model.
 
 A typical CBT course runs 12 to 20 sessions, though it varies. It's structured. You'll have homework. Your therapist will help you notice thoughts like "I always fail" or "nobody likes me," examine the evidence against them, and replace them with something more grounded. It's not about thinking happy thoughts. It's about thinking *accurate* ones.
 
@@ -67,7 +67,7 @@ What surprised me, honestly, was how many people describe CBT as cold or mechani
 
 DBT teaches skills explicitly and systematically, usually in four modules. It's the thing that separates it from standard CBT.
 
-Mindfulness comes first and anchors everything else. Then distress tolerance, getting through a crisis without making it worse. Emotional regulation for understanding and managing intense feelings. And interpersonal effectiveness, which covers keeping relationships intact while maintaining your self-respect.
+[Mindfulness comes first](/mindfulness-based-therapy/) and anchors everything else. Then distress tolerance, getting through a crisis without making it worse. Emotional regulation for understanding and managing intense feelings. And interpersonal effectiveness, which covers keeping relationships intact while maintaining your self-respect.
 
 In a full DBT program (what clinicians call "standard DBT"), you attend individual therapy once a week, a skills training group once a week, and you get phone coaching for real-world crisis moments. That's intensive. It's also expensive and not widely available. Many clinicians offer "DBT-informed" therapy or individual DBT without the group piece, and research suggests that's less effective for severe presentations, though still useful.
 

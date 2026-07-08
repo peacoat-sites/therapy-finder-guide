@@ -23,11 +23,11 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-07
 ---
 Most people who start therapy for body image issues don't think they're "sick enough" to be there. That's the first thing worth saying out loud, because it keeps a lot of people out of the room who genuinely need to be in it.
 
-Body image distress exists on a spectrum. At one end: someone who winces at photos but moves on with their day. At the other: clinical eating disorders, body dysmorphic disorder (BDD), conditions that make leaving the house feel impossible. Therapy works across almost the entire range. Not just at the severe end. I was surprised by this when I first started working alongside clinical teams. The cultural story I'd absorbed said therapy was for "serious" cases. What I actually saw was people who came in early, before things had calcified into rigid rituals or medical crises, often moved faster and felt better in fewer sessions.
+Body image distress exists on a spectrum. At one end: someone who winces at photos but moves on with their day. At the other: clinical eating disorders, [body dysmorphic disorder (BDD)](/therapy-for-ocd/), conditions that make leaving the house feel impossible. Therapy works across almost the entire range. Not just at the severe end. I was surprised by this when I first started working alongside clinical teams. The cultural story I'd absorbed said therapy was for "serious" cases. What I actually saw was people who came in early, before things had calcified into rigid rituals or medical crises, often moved faster and felt better in fewer sessions.
 
 So if you've been quietly wondering whether your relationship with your body is bad enough to warrant professional help, I'd say: yes, probably.
 
@@ -45,11 +45,11 @@ Some approaches do use "mirror exposure" or body checking exercises, but these a
 
 I'll be direct: not all therapy modalities have equivalent research support for body image work, and a lot of therapists use terms loosely in their bios. Here's what I'd actually look for.
 
-**Cognitive Behavioral Therapy (CBT)** has the strongest, most consistent evidence base for both body dysmorphic disorder and body image disturbance tied to eating disorders. A 2017 Cochrane review of psychological treatments for BDD found CBT significantly more effective than waitlist controls, and it remains the first-line recommendation from most clinical bodies. CBT for body image targets the cognitive distortions (the mental shortcuts telling you everyone is staring at your skin) and the avoidance behaviors that reinforce them.
+**Cognitive Behavioral Therapy (CBT)** has the strongest, most consistent evidence base for both body dysmorphic disorder and body image disturbance tied to [eating disorders](/therapy-for-eating-disorders/). A 2017 Cochrane review of psychological treatments for BDD found CBT significantly more effective than waitlist controls, and it remains the first-line recommendation from most clinical bodies. CBT for body image targets the cognitive distortions (the mental shortcuts telling you everyone is staring at your skin) and the avoidance behaviors that reinforce them.
 
 **Acceptance and Commitment Therapy (ACT)** takes a different angle. Rather than directly challenging whether your negative thoughts about your body are accurate, ACT works on reducing how much those thoughts control your behavior. I've seen this click especially well for people who've already done CBT and feel like they've "done the work" cognitively but still feel hijacked. ACT's focus on values, rather than symptom reduction, can feel more sustainable for some people.
 
-**Dialectical Behavior Therapy (DBT)** comes up most often with eating disorders involving emotional dysregulation, but its skills around distress tolerance and emotion regulation are useful for body image distress more broadly. If your harshest self-critical moments happen during emotional spirals, not calm mornings, DBT skills are worth knowing about.
+**Dialectical Behavior Therapy (DBT)** comes up most often with eating disorders involving emotional dysregulation, but its skills around distress tolerance and [emotion regulation](/therapy-for-anxiety-treatment/) are useful for body image distress more broadly. If your harshest self-critical moments happen during emotional spirals, not calm mornings, DBT skills are worth knowing about.
 
 **HAES-aligned therapy** (Health at Every Size) deserves its own mention because it's a values framework, not a technique. Therapists identifying as HAES-informed are explicitly working from a non-diet, weight-neutral stance. This matters enormously for some clients and actively alienates others. It's worth knowing it exists so you can seek it out or not, based on what you need.
 

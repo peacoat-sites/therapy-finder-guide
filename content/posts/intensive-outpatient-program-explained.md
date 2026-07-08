@@ -23,13 +23,21 @@ faqs:
    a: "Probably sometimes, and it cuts both ways. Most programs group by level of care rather than specific diagnosis. Exposure to other people's struggles rarely makes things worse and often creates perspective that individual therapy can't replicate. It's more normalizing than distressing for most people."
  - q: "What happens if I'm not improving or the program isn't working?"
    a: "A good program will do regular clinical check-ins and adjust the plan. If symptoms are worsening, the right call might be a step up to PHP or inpatient. If the modality isn't fitting, that's worth raising directly with your treatment team. 'This isn't clicking' is valid clinical information, not a complaint."
+lastmod: 2026-07-07
 ---
 
 Most articles about intensive outpatient programs describe what the acronym stands for and then pad the rest with reassurances. That's not useful. Here's what you actually need to know.
 
-An IOP sits between two other levels of care: full inpatient hospitalization (where you sleep at the facility) and standard weekly outpatient therapy (one 50-minute session, see you next Tuesday). It's structured treatment, multiple times a week, for several hours at a stretch, but you go home at night. That's the whole structural difference. What matters more is when it fits and when it doesn't.
+An IOP sits between two other levels of care: full [inpatient hospitalization](/inpatient-vs-outpatient-mental-health-treatment/) (where you sleep at the facility) and standard weekly outpatient therapy (one 50-minute session, see you next Tuesday). It's structured treatment, multiple times a week, for several hours at a stretch, but you go home at night. That's the whole structural difference. What matters more is when it fits and when it doesn't.
 
 ## Who Actually Belongs in an IOP
+
+| Factor | Inpatient | IOP | Standard Outpatient |
+| --- | --- | --- | --- |
+| Sleep location | At facility | Home | Home |
+| Frequency | 24/7 | 3-5 days/week | ~1 session/week |
+| Session duration | Continuous | 3-4 hours | ~50 minutes |
+| Best for | Acute crisis, unsafe, medically unstable | Functional impairment, post-discharge bridge, daily structure needed | Stable, managing with minimal support |
 
 The honest answer is: more people than get referred there, and also some people who get referred there unnecessarily.
 

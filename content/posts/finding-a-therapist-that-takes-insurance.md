@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-
+lastmod: 2026-07-07
 ---
 You've finally decided to make the call. Maybe it took months of convincing yourself you were "fine," or maybe something happened last Tuesday that made it undeniable: you need to talk to someone. You open your insurance app, squint at the mental health benefits page, and within about four minutes you're staring at a list of 47 providers, half of whom aren't accepting new patients, three of whom share a single office phone number, and one who retired in 2019. Welcome to the mental health insurance maze. It's genuinely frustrating, and you're not doing anything wrong. The system is just harder than it should be.
 
@@ -42,6 +42,13 @@ The good news: that pool is real, and there are better ways to find the people i
 ---
 
 ## Start With Your Insurance Card, Not the Insurance Website
+
+| Plan Type | Referral Required | In-Network Only | Out-of-Network Coverage |
+| --- | --- | --- | --- |
+| HMO | Yes | Yes | No |
+| PPO | No | No | Yes (higher cost share) |
+| EPO | No | Yes | No |
+| POS | Yes | No | Yes (higher cost share) |
 
 Before you open any directory, gather three specific pieces of information from your insurance card or member portal:
 
@@ -63,7 +70,7 @@ Once you know your plan details, you have several concrete search options beyond
 
 **Open Path Collective** at openpathcollective.org isn't an insurance tool, but it's worth knowing about: it connects people with therapists who offer reduced-rate sessions between $30 and $80 for those who don't have or can't use insurance. That's a real alternative if your insurance search stalls.
 
-**Your employer's EAP (Employee Assistance Program)**, if you have one, is frequently overlooked. EAPs typically offer three to eight free sessions with a therapist at no cost and no deductible, completely separate from your health insurance. This is often the fastest way to get in front of someone qualified while you continue searching for a longer-term therapist.
+**Your employer's EAP ([Employee Assistance Program](/how-to-find-affordable-therapy-near-me/))**, if you have one, is frequently overlooked. EAPs typically offer three to eight free sessions with a therapist at no cost and no deductible, completely separate from your health insurance. This is often the fastest way to get in front of someone qualified while you continue searching for a longer-term therapist.
 
 ## How to Vet a Therapist Once You Find One
 

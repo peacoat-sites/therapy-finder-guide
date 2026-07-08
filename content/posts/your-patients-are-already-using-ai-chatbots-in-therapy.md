@@ -12,6 +12,7 @@ author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 slug: "your-patients-are-already-using-ai-chatbots-in-therapy"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture this: your therapist asks how your week went, and you talk about the journaling you did, the breathing exercises, maybe a tough conversation at work. What you don't mention is the two hours you spent on Sunday night talking to an AI chatbot about your anxiety spiral. It felt helpful in the moment. You're not sure your therapist would get it. So you just... don't bring it up.
 
@@ -21,9 +22,18 @@ That silence is the thing worth paying attention to right now.
 
 ## The Scale of This Is Bigger Than Most People Realize
 
+| AI Chatbot Use Category | Percentage of Patients | Clinical Concern Level |
+| --- | --- | --- |
+| Using AI as additional mental health professional | 35% | High |
+| Using AI for self-diagnosis | 39% | High |
+| Using AI to assist with therapy or treatment decisions | 33% | High |
+| Using AI for self-discipline, affirmations, or behavioral reminders | 34% | Lower |
+| Psychologists expressing concern about patient chatbot use | 94% | N/A |
+| Psychologists with patients using AI chatbots for mental health | 77% | N/A |
+
 The APA survey numbers deserve a slow read because they're genuinely striking. It's not just that people are occasionally venting to a chatbot when they can't sleep. Thirty-five percent of psychologists report their patients are using AI as an *additional mental health professional*, essentially treating it like a second clinician. Another 39% have had patients who used AI to self-diagnose. And 33% of patients are using AI to assist directly with their therapy or treatment, which means real decisions about their mental health care are being shaped by tools that, as the APA noted in a simultaneous health advisory, lack clinical validation, formal regulatory approval, and FDA clearance.
 
-I've seen the appeal up close. Therapy appointments are weekly at best, often every other week, and a lot of living happens in between. The gap between sessions is real, and the 3 a.m. anxiety spiral doesn't wait for Tuesday at noon. AI chatbots are available, infinitely patient, and they don't make you feel like you're burdening anyone. For someone who struggled to access care at all, any supportive presence can feel like a lifeline.
+I've seen the appeal up close. Therapy appointments are weekly at best, often every other week, and a lot of living happens in between. The gap between sessions is real, and the 3 a.m. anxiety spiral doesn't wait for Tuesday at noon. AI chatbots are available, infinitely patient, and they don't make you feel like you're burdening anyone. For someone who struggled to [access care at all](/how-the-medicaid-cuts-are-shrinking-your-therapy-options/), any supportive presence can feel like a lifeline.
 
 The problem isn't that people are finding comfort in these tools. The problem is what happens when comfort quietly becomes substitution, and nobody in the clinical relationship knows it's happening.
 

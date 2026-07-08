@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-
+lastmod: 2026-07-07
 ---
 Most people spend more time picking a Netflix show than figuring out if their therapist is actually in-network. Then the bill arrives for $250 a session and suddenly everything makes sense. I've watched this play out enough times that it's basically the origin story for half the "I tried therapy and it was too expensive" conversations I hear.
 
@@ -71,7 +71,7 @@ Try: "Hi, I'm looking for a therapist and I have [insurance name, plan name]. I 
 
 If they're out-of-network but offer a sliding scale, that's worth understanding before you hang up. Some out-of-network therapists charge $80 to $100 a session on a sliding scale, which might actually be less than your in-network copay plus deductible hit. Quick mental math check.
 
-If you have an out-of-network benefit (some PPO plans include this), you might be able to see an out-of-network therapist and get partially reimbursed. Your insurance call from step one should've clarified this. The process usually involves the therapist giving you a "superbill," which is a detailed receipt you submit to your insurer for reimbursement.
+If you have an [out-of-network benefit](/how-to-find-an-affordable-therapist-near-me/) (some PPO plans include this), you might be able to see an out-of-network therapist and get partially reimbursed. Your insurance call from step one should've clarified this. The process usually involves the therapist giving you a "superbill," which is a detailed receipt you submit to your insurer for reimbursement.
 
 ## When There Are No In-Network Therapists Available
 

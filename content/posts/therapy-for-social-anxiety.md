@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-
+lastmod: 2026-07-07
 ---
 You rehearsed the coffee order three times in your head before walking up to the counter. And then the barista asked a follow-up question you didn't expect, your face went hot, and you spent the next two hours replaying that 45-second interaction wondering if you'd seemed weird. If that sounds familiar, you're not dramatic and you're not broken. You're dealing with social anxiety, and it's more treatable than most people think.
 
@@ -49,7 +49,7 @@ Not all therapy is the same. When it comes to social anxiety specifically, the r
 
 **Exposure and Response Prevention (ERP)** is technically part of CBT but worth its own mention. In the context of social anxiety, exposure means deliberately entering feared situations in a gradual, planned way, starting with lower-stakes scenarios and working up. This isn't about throwing yourself into your worst nightmare and hoping for the best. A skilled therapist will build an "exposure hierarchy" with you, and you'll move through it at a pace that's challenging but not overwhelming.
 
-**Acceptance and Commitment Therapy (ACT)** works if traditional CBT feels too clinical. ACT doesn't try to eliminate anxious thoughts; it helps you change your relationship to them. You learn to notice the thought "everyone thinks I'm awkward," hold it loosely, and move toward what matters to you anyway. Some people find this framing genuinely liberating, especially those who've already done rounds of CBT with partial results.
+**[Acceptance and Commitment Therapy (ACT)](/therapy-for-depression-and-anxiety-together/)** works if traditional CBT feels too clinical. ACT doesn't try to eliminate anxious thoughts; it helps you change your relationship to them. You learn to notice the thought "everyone thinks I'm awkward," hold it loosely, and move toward what matters to you anyway. Some people find this framing genuinely liberating, especially those who've already done rounds of CBT with partial results.
 
 **Group therapy** is underutilized for social anxiety, and honestly, brilliant for it. The idea of sharing your fears with a room full of strangers sounds terrifying, I know. But for social anxiety specifically, the group setting becomes an exposure opportunity built right into the treatment. I've seen clients make breakthroughs in group therapy that months of individual sessions hadn't produced, simply because the real-time social interaction is where the real work happens.
 

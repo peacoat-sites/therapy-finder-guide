@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-
+lastmod: 2026-07-07
 ---
 Most people don't call a therapist until about six years after problems start. Six years. I'm not judging, I've watched this happen enough times to understand why. You think things will improve on their own. You worry that suggesting therapy means admitting the relationship is broken. Or you both feel something's off but can't quite articulate it, so you keep replaying the same fights, the same uncomfortable silences, the same slow distance. What struck me when I dug into the research is this: the couples who benefit most from therapy aren't usually the ones in crisis. They're the ones who walked in while they still had something to work with.
 
@@ -31,7 +31,7 @@ That's the counterintuitive part. Relationship therapy works best as a growth to
 
 ## What Relationship Therapy Actually Is (And What It Isn't)
 
-People constantly confuse two things. They think relationship therapy automatically means couples therapy, and couples therapy means sitting across from someone who keeps score of who's wrong. That's not it at all.
+People constantly confuse two things. They think relationship therapy automatically means [couples therapy](/couples-therapy-how-it-works/), and couples therapy means sitting across from someone who keeps score of who's wrong. That's not it at all.
 
 Relationship therapy covers a lot of ground. You might work one-on-one with a therapist to understand your patterns, your attachment style, why you keep having the same conflicts. You might do couples therapy, sure, but also family therapy, premarital counseling, or sessions focused strictly on co-parenting after a split.
 
@@ -45,9 +45,9 @@ Individual therapy for relationship issues is genuinely underrated. A lot of peo
 
 The research here is genuinely interesting, more nuanced than most articles make it sound.
 
-**Emotionally Focused Therapy (EFT)**, developed by Dr. Sue Johnson, is probably the most well-researched couples therapy approach out there. Studies show that around 70-75% of couples report significant improvement after EFT, with follow-up research suggesting those gains stick. It's based on attachment theory: most relationship conflict is really about deeper needs for emotional connection that aren't being heard. The fights about dishes or money or parenting almost never actually are about those things.
+**[Emotionally Focused Therapy (EFT)](/emotionally-focused-therapy-eft/)**, developed by Dr. Sue Johnson, is probably the most well-researched couples therapy approach out there. Studies show that around 70-75% of couples report significant improvement after EFT, with follow-up research suggesting those gains stick. It's based on attachment theory: most relationship conflict is really about deeper needs for emotional connection that aren't being heard. The fights about dishes or money or parenting almost never actually are about those things.
 
-**The Gottman Method** takes a different angle. Developed by Drs. John and Julie Gottman from decades of observation, it's more behavioral and skills-focused. Gottman identified what he called the "Four Horsemen" of relationship breakdown: criticism, contempt, defensiveness, stonewalling. His method targets those patterns directly and swaps in concrete communication tools. Some people prefer this because it gives them something practical to work on.
+**[The Gottman Method](/gottman-method-couples-therapy/)** takes a different angle. Developed by Drs. John and Julie Gottman from decades of observation, it's more behavioral and skills-focused. Gottman identified what he called the "Four Horsemen" of relationship breakdown: criticism, contempt, defensiveness, stonewalling. His method targets those patterns directly and swaps in concrete communication tools. Some people prefer this because it gives them something practical to work on.
 
 **Cognitive Behavioral Therapy (CBT)** adapted for couples focuses on thought patterns and core beliefs that drive relationship behaviors. If one partner automatically assumes a forgotten anniversary means they're not valued, CBT-informed work can interrupt that thought chain before it spirals.
 

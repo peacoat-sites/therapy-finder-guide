@@ -23,6 +23,7 @@ faqs:
    a: "Most programs are designed for adolescents ages 13 to 17 or 18, though some serve young adults into their mid-20s. Programming, clinical approach, and group dynamics are usually calibrated to developmental stage, so it's worth asking specifically how a program structures its age groupings."
  - q: "Can a teenager refuse to participate, and what happens then?"
    a: "Refusal and resistance are common, especially early in a program, and good programs are built to handle it clinically rather than punitively. Teens who enter involuntarily (brought by parents) often do eventually engage. That said, programs that use physical force to compel participation are a red flag. A teenager's willingness to try, even reluctantly, is different from being coerced."
+lastmod: 2026-07-07
 ---
 
 Most parents I talk to assume that if their teenager refuses to sit still in a therapist's office, therapy itself isn't going to work. I'll be honest: I used to think something similar. The image of a sullen 16-year-old staring at the ceiling while a counselor asks "and how does that make you feel?" is burned into cultural memory for a reason. But adventure therapy challenges that premise in ways that the research, messily and imperfectly, seems to back up.
@@ -55,7 +56,7 @@ Programs vary, but a credible adventure therapy setup for teens will look someth
 
 The field work, carrying a pack, setting up camp, navigating, is interwoven with the therapy rather than being separate from it. A breakdown during a difficult river crossing becomes material for the afternoon processing session. A moment of genuine teamwork gets examined: what did it feel like, when did you want to give up, what story were you telling yourself?
 
-That last part is where cognitive behavioral therapy principles tend to show up most explicitly. Many programs are drawing on CBT, DBT, and motivational interviewing, just delivered in an environment where the usual resistance strategies teenagers rely on are harder to maintain. You can't disengage from a rock face the way you can disengage from a therapist's office.
+That last part is where [cognitive behavioral therapy principles](/child-therapy-guide-for-parents/) tend to show up most explicitly. Many programs are drawing on CBT, DBT, and motivational interviewing, just delivered in an environment where the usual resistance strategies teenagers rely on are harder to maintain. You can't disengage from a rock face the way you can disengage from a therapist's office.
 
 If you want to support the work teenagers are doing in these settings, or if you're a parent preparing a teenager before enrollment, workbooks grounded in CBT can be genuinely useful preparation. [*The Anxiety and Worry Workbook* by Clark and Beck](https://www.amazon.com/s?k=anxiety+worry+workbook+clark+beck) is accessible for older teens and helps build the kind of cognitive awareness programs build on. (The site may earn a commission on purchases like this.)
 

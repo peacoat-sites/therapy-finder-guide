@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-
+lastmod: 2026-07-07
 ---
 You're staring at a therapist's profile that lists "psychodynamic therapy, CBT, mindfulness-based approaches" and a dozen other terms you've never heard. You close the tab. It felt easier not to know.
 
@@ -54,6 +54,17 @@ CBT has a massive research base. Hundreds of randomized controlled trials, consi
 The tradeoff? CBT works best when you have a clear, identifiable problem. If your distress is diffuse, if you can't quite put your finger on what's wrong, just that something feels fundamentally off, CBT can feel like fixing a house's plumbing when the foundation needs attention.
 
 ## Key Differences: A Direct Comparison
+
+| Feature | Psychodynamic Therapy | CBT |
+|---|---|---|
+| **Primary focus** | Unconscious patterns, past relationships | Current thoughts and behaviors |
+| **Session structure** | Open-ended, exploratory | Structured, agenda-based |
+| **Typical length** | Months to years | 12 to 20 sessions (often) |
+| **Therapist role** | Reflective, interpretive | Active, teaching-focused |
+| **Homework** | Rarely assigned | Usually assigned |
+| **Evidence base** | Strong, especially for depression and personality patterns | Extensive, especially for anxiety and depression |
+| **Best suited for** | Deep-rooted patterns, relationship issues, identity | Specific symptoms, anxiety, phobias, OCD |
+| **Goal** | Self-understanding, internal change | Symptom reduction, skill-building |
 
 | Feature | Psychodynamic Therapy | CBT |
 |---|---|---|
