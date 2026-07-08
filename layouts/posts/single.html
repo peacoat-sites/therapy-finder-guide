@@ -98,15 +98,15 @@
       {{- range $i, $part := $parts -}}
         {{- $part | safeHTML -}}
         {{- if lt $i $last -}}</h2>{{- end -}}
+        {{- if eq $i 0 -}}{{- partial "related-tool.html" $ -}}{{- end -}}
         {{- if eq $i 1 -}}{{- partial "amazon-product-inline.html" $ -}}{{- end -}}
         {{- if eq $i 3 -}}{{- partial "ad-inarticle.html" $ -}}{{- end -}}
       {{- end -}}
     {{- else -}}
       {{- $content -}}
+      {{ partial "related-tool.html" . }}
     {{- end -}}
     </div>
-
-    {{ partial "related-tool.html" . }}
 
     {{ with .Site.Params.disclaimer }}
     <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
