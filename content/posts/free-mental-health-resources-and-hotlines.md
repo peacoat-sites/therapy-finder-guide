@@ -1,5 +1,5 @@
 ---
-title: "Free Mental Health Resources And Hotlines"
+title: "Finding Mental Health Help When You Need It Most"
 date: 2026-06-01T15:34:55.702270+00:00
 draft: false
 description: "Find free mental health resources, crisis hotlines, and support services available 24/7. Get help for anxiety, depression, and more without the cost barrier."
