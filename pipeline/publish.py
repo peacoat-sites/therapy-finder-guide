@@ -25,6 +25,7 @@ import requests
 import base64
 import csv
 import io
+import hashlib
 import anthropic
 from datetime import datetime, timezone
 
@@ -1086,6 +1087,33 @@ def commit_to_github(repo: str, filename: str, content: str, message: str) -> bo
     r = requests.put(url, headers=GH_HEADERS, json=payload, timeout=30)
     return r.status_code in [200, 201]
 
+
+def selfhost_image(repo: str, url: str) -> str | None:
+    """Download a hero image and commit it into the repo's static/img/heroes/, returning
+    the local /img/heroes/<name>.jpg path. Keeps images self-hosted instead of hotlinking."""
+    if not url or not url.startswith("http"):
+        return None
+    try:
+        ua = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0 Safari/537.36"}
+        resp = requests.get(url, headers=ua, timeout=30)
+        if resp.status_code != 200 or "image" not in resp.headers.get("content-type", ""):
+            return None
+        m = re.search(r"/photos/(\d+)/", url)
+        name = (m.group(1) if m else hashlib.md5(url.encode()).hexdigest()[:12]) + ".jpg"
+        path = f"static/img/heroes/{name}"
+        gh_url = f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/{path}"
+        if requests.get(gh_url, headers=GH_HEADERS, timeout=15).status_code == 200:
+            return f"/img/heroes/{name}"
+        payload = {"message": f"Self-host hero image {name}",
+                   "content": base64.b64encode(resp.content).decode()}
+        pr = requests.put(gh_url, headers=GH_HEADERS, json=payload, timeout=30)
+        if pr.status_code in (200, 201):
+            return f"/img/heroes/{name}"
+    except Exception as e:
+        print(f"    Self-host image failed: {e}")
+    return None
+
+
 # ── SITEMAP SUBMISSION ────────────────────────────────────────────────────────
 
 def submit_sitemap(domain: str):
@@ -1447,6 +1475,10 @@ def publish_site(site_name: str, count: int):
 
             # Fetch image
             image = fetch_image(img_query, used_img_ids)
+            if image and image.get("url", "").startswith("http"):
+                local = selfhost_image(repo, image["url"])
+                if local:
+                    image["url"] = local
             print(f"    Image: {'ok' if image else 'none'}")
 
             # Build markdown
