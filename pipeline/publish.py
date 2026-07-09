@@ -766,7 +766,7 @@ def keyword_to_slug(keyword: str) -> str:
 
 # ── ARTICLE GENERATION ────────────────────────────────────────────────────────
 
-def generate_article(keyword: str, site_config: dict, persona: dict, priority: str, voice_style: str = "") -> dict:
+def generate_article(keyword: str, site_config: dict, persona: dict, priority: str, voice_style: str = "", stats_mode: bool = False) -> dict:
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
     _now          = datetime.now(timezone.utc)
@@ -801,6 +801,20 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
 
     voice_instruction = f"\n## Your writing voice for this article:\n{voice_style}\n" if voice_style else ""
 
+    if stats_mode:
+        stats_instruction = (
+            "**This is a DATA-LED article.** Open with the single most surprising number on the topic. Build it "
+            "around 5-10 specific statistics from named sources (government data, industry surveys, academic "
+            "studies), each attributed inline where it is used. Include one comparison table AND one chart block. "
+            "Interpret every figure: what it means for the reader's decision, never a bare stat dump.\n\n"
+            + _CHART_SPEC + "\n"
+        )
+    else:
+        stats_instruction = (
+            "If, and only if, the topic naturally involves 3 or more comparable figures, you may include one "
+            "chart block:\n\n" + _CHART_SPEC + "\n"
+        )
+
     system_prompt = f"""{tone}
 
 You are writing an article for a {niche} website in the voice of {persona['name']}. Do NOT include a byline, author name, or any "By ..." line anywhere in the article body — the byline is added automatically by the site template.
@@ -815,10 +829,10 @@ Temporal context (critical):
 
 Writing rules (follow every one):
 - Write like a specific human with opinions, not a neutral summarizer. Where the topic allows, take a clear stance ("honestly, I'd skip the pricey version", "most advice on this is wrong"). Readers trust a writer who commits.
-- Vary your rhythm hard. Mix short, punchy sentences (fragments are fine) with longer ones. Let some paragraphs be a single sentence. Do not make every section the same length.
+- Vary your rhythm hard. Some sentences under 8 words. Occasionally let one run past 30. Fragments are fine. Never write three sentences in a row of roughly the same length, and let some paragraphs be a single sentence. Do not make every section the same length.
 - Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
 - Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
-- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"). Include at least 1-2 "I tested", "in my experience", or "when I [verb]" moments per article. These signal authentic expertise and are the highest-trust differentiator from generic AI writing. Do not overdo it—2-3 natural moments per article is perfect, not contrived.
+- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"). Include at least 1-2 "I tested", "in my experience", or "when I [verb]" moments per article. These signal authentic expertise and are the highest-trust differentiator from generic AI writing. Do not overdo it—2-3 natural moments per article is perfect, not contrived. Separately, work one small detail into each major section that only someone who has actually done this would know: the smell, the wait time, the form number, the question the clerk asks.
 - Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
@@ -828,7 +842,7 @@ Writing rules (follow every one):
 - Include 1-2 moments where you or the reader would get it wrong at first, then reveal the actual answer. Example: "I thought Y for years until I realized X. Here's what changed my mind." Vulnerability signals authenticity.
 - Use specific timestamps, dates, and named references (not generic "recently"). "In March 2024, when X happened..." or "Sarah, a reader from Denver, told me..." makes it feel real, not templated.
 
-NEVER use these words/phrases (dead giveaways of AI writing): delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, furthermore, firstly, secondly, in today's fast-paced world.
+NEVER use these words/phrases (dead giveaways of AI writing): {_BANNED_WORDS}. Exception: proper nouns and product names that happen to contain one of these words (an "FHA Streamline refinance") are fine when the subject requires them.
 
 Avoid these structural tells:
 - The rule of three in every sentence ("X, Y, and Z"). Sometimes list two things, sometimes five.
@@ -840,6 +854,10 @@ Avoid these structural tells:
 - Feeling overly polished or templated. Good writing has rough edges: an unfinished thought that resolves, a tangent that circles back, a parenthetical aside that reveals personality.
 - Making every section the exact same tone. Vary: passionate in one section, matter-of-fact in another, skeptical in a third.
 - Anticipating reader skepticism and addressing it directly. If you're making a bold claim, imagine what a reader would think ("you're probably thinking 'that can't be right'") and show why it is. This conversational pushback feels human.
+- Starting consecutive sentences or paragraphs with the same word, and "Not only X but also Y" constructions.
+- Colon-formula headings everywhere ("X: Why It Matters"). Vary heading shapes: a plain statement, a question, sometimes just two or three words.
+- Ending every section with a tidy one-line takeaway. Some sections should just stop.
+- Suspiciously round numbers. "$1,847" reads as real; "$1,800" reads as invented. When citing a source, keep its exact figure.
 {ymyl_instruction}
 {ref_instruction}
 {affiliate_note}
@@ -858,6 +876,7 @@ Loose structure (vary it -- do not make every article identical):
 - Weave in 2-3 worked examples with concrete outcomes. Format: "[Scenario] → [Action taken] → [Result with numbers]". Example: "When we tested this approach on 50 projects, completion time dropped 28%, from 45 days to 32 days." Use real numbers even if estimated from industry experience.
 - Close naturally -- no "Conclusion" or "Summary" heading, and do not restate everything.
 
+{stats_instruction}
 **Currency & authenticity signal:** Include an explicit "as of {_current_year}" or "current as of {_current_date}" statement where it fits naturally. This signals freshness and expert confidence, not a stale regurgitation. Examples: "As of June 2026, solar installations...", "Current rates (June 2026)...", "This year's market shows..."
 
 Write it in the author's specific voice, with the opinions and concrete detail only someone who knows this topic firsthand would include.
@@ -884,12 +903,20 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
     )
     content = msg.content[0].text
 
+    title_hint = ""
+    if stats_mode:
+        _nums = re.findall(r"(?<![\w.])\$?\d[\d,]*(?:\.\d+)?%?", content)
+        _nums = [n for n in dict.fromkeys(_nums) if not re.fullmatch(r"(?:19|20)\d\d", n) and len(n.strip("$%")) > 1][:5]
+        if _nums:
+            title_hint = ("These real figures appear in the article: " + ", ".join(_nums) +
+                          ". Leading the title with one of these exact figures is encouraged when it reads naturally. ")
+
     # Meta description + subject-accurate hero image query (single call)
     meta = client.messages.create(
         model="claude-sonnet-4-6",
         max_tokens=240,
         messages=[{"role": "user", "content": (
-            f"For an article about: {keyword}\n\n"
+            f"For an article about: {keyword}\n{title_hint}\n"
             "Output ONLY a JSON object (no preamble, no code fence) with these keys:\n"
             '{"title": "A specific, compelling headline in Title Case, 45-65 characters, that a real person '
             "would actually want to click. Keep the core search topic recognizable for SEO, but make it "
@@ -931,6 +958,96 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
         image_query = _derive_image_query(keyword)
 
     return {"content": content, "title": title, "description": description, "image_query": image_query}
+
+_BANNED_WORDS = (
+    "delve, dive into, navigate, navigating, realm, landscape, tapestry, journey, embark, robust, "
+    "leverage, seamless, elevate, unlock, harness, foster, cultivate, crucial, essential, vital, pivotal, "
+    "holistic, myriad, plethora, testament, underscore, game-changer, in conclusion, in summary, "
+    "it's worth noting, it is important to note, that said, ultimately, at the end of the day, ever-evolving, "
+    "when it comes to, rest assured, look no further, the bottom line, first and foremost, moreover, "
+    "furthermore, firstly, secondly, in today's fast-paced world, utilize, streamline, empower, boasting, "
+    "meticulous, meticulously, notably, subsequently, consequently, additionally, cutting-edge, ecosystem, "
+    "synergy, whopping, treasure trove, comprehensive, in a nutshell, needless to say, without further ado, "
+    "buckle up, let's unpack, spoiler alert"
+)
+
+_CHART_SPEC = (
+    'To show a comparison visually, you may include ONE chart block in this exact fenced format '
+    '(it renders as a bar chart on the page):\n'
+    '```chart\n'
+    '{"title": "Average annual cost by state", "unit": "$", "source": "USDA 2026 survey", '
+    '"data": [["Texas", 1450], ["Ohio", 980], ["Florida", 2100]]}\n'
+    '```\n'
+    'Chart rules: 3-7 rows, plain numeric values (no ranges), short labels, name the real source, '
+    'and only chart figures that also appear in the article text. Never invent chart data.'
+)
+
+# ── CONTENT POST-PROCESSING (deterministic de-slop + chart rendering) ─────────
+
+_CHART_FENCE_RE = re.compile(r"```chart[^\n]*\n(.*?)```", re.S)
+_CHART_CSS = (
+    '<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);'
+    'border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}'
+    '.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}'
+    '.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}'
+    '.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}'
+    '.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}'
+    '.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}'
+    '.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}'
+    '.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}'
+    '@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style>'
+)
+
+def _scrub_slop(content: str) -> str:
+    c = content.replace("\u2014", ", ")
+    c = re.sub(r"(?<=\w) -- (?=\w)", ", ", c)
+    c = re.sub(r"\n#{2,3}[ \t]*(?:In Conclusion|Conclusion|Final Thoughts|Wrapping Up|The Bottom Line|Summary)[ \t]*\n",
+               "\n", c, flags=re.I)
+    c = re.sub(r"(^|(?<=[.!?])\s+)[Ii]t(?:'|\u2019)s worth noting that\s+(\w)",
+               lambda m: m.group(1) + m.group(2).upper(), c, flags=re.M)
+    c = re.sub(r"(^|(?<=[.!?])\s+)[Ii]t is (?:also )?important to note that\s+(\w)",
+               lambda m: m.group(1) + m.group(2).upper(), c, flags=re.M)
+    c = re.sub(r"(?m)^(?:In conclusion|In summary|Ultimately|At the end of the day),\s+(\w)",
+               lambda m: m.group(1).upper(), c)
+    return c
+
+def _render_charts(content: str) -> str:
+    made = [0]
+    def esc(s):
+        return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
+    def one(m):
+        try:
+            spec = json.loads(m.group(1).strip())
+            rows = [(str(r[0]).strip()[:48], float(r[1])) for r in spec.get("data", [])]
+        except Exception:
+            return ""
+        rows = [r for r in rows if r[1] >= 0]
+        if not 2 <= len(rows) <= 8:
+            return ""
+        mx = max(v for _, v in rows)
+        if mx <= 0:
+            return ""
+        title = str(spec.get("title", "")).strip()[:90]
+        unit = str(spec.get("unit", "")).strip()[:8]
+        source = str(spec.get("source", "")).strip()[:140]
+        def fmt(v):
+            s = f"{v:,.1f}".rstrip("0").rstrip(".")
+            if unit in ("$", "\u00a3", "\u20ac"):
+                return unit + s
+            if unit == "%":
+                return s + "%"
+            return s + (" " + unit if unit else "")
+        bars = "".join(
+            f'<div class="sc-row"><span class="sc-label">{esc(l)}</span>'
+            f'<span class="sc-track"><span class="sc-bar" style="width:{max(4, round(v * 100 / mx))}%"></span></span>'
+            f'<span class="sc-val">{esc(fmt(v))}</span></div>'
+            for l, v in rows)
+        src_html = f'<div class="sc-src">Source: {esc(source)}</div>' if source else ""
+        made[0] += 1
+        css = _CHART_CSS if made[0] == 1 else ""
+        head = f'<div class="sc-title">{esc(title)}</div>' if title else ""
+        return f'\n{css}<div class="stat-chart">{head}{bars}{src_html}</div>\n'
+    return _CHART_FENCE_RE.sub(one, content)
 
 # ── MARKDOWN BUILDER ──────────────────────────────────────────────────────────
 
@@ -1228,9 +1345,11 @@ NICHE_COMMUNITIES = {
 }
 
 _TOPICAL_RULES = (
-    "Writing rules: natural human voice; vary sentence length; NEVER use em dashes (use commas, colons, or a new sentence); "
-    "avoid AI cliches (In conclusion, It's worth noting, Delve into, Navigating, Moreover, Furthermore); use contractions; "
-    "be specific with the real numbers, names, and dates from the research; occasional first person is fine."
+    "Writing rules: natural human voice; vary sentence length hard (some under 8 words, an occasional 30+ one); "
+    "NEVER use em dashes (use commas, colons, or a new sentence); use contractions; "
+    "be specific with the real numbers, names, and dates from the research; occasional first person is fine. "
+    "NEVER use these AI-tell words/phrases: " + _BANNED_WORDS + ". "
+    "(Proper product names containing one of these words are fine.)"
 )
 
 def _parse_json_block(text):
@@ -1333,7 +1452,8 @@ SOURCES (weave 2-3 inline as evidence, then list ALL in a Sources section):
 
 Structure:
 1. Open with the timely hook: what's happening now and why the reader should care. No heading.
-2. 3-5 H2 sections of analysis and practical takeaways. Explainer/analysis, NOT a numbered how-to. Where the research above includes figures, costs, or side-by-side options, present one of them as a Markdown table (header row, a | --- | --- | separator, then data rows) rather than only prose.
+2. 3-5 H2 sections of analysis and practical takeaways. Explainer/analysis, NOT a numbered how-to. Where the research above includes figures, costs, or side-by-side options, present one of them as a Markdown table (header row, a | --- | --- | separator, then data rows) rather than only prose. If the research includes 3 or more comparable figures, you may also include one chart block.
+{_CHART_SPEC}
 3. Weave 2-3 sources inline naturally.
 4. A short closing paragraph (no heading).
 5. A final section titled exactly "## Sources" listing every source as: - [title](url) (published date)."""
@@ -1437,9 +1557,11 @@ def publish_site(site_name: str, count: int):
         else:
             persona  = {"name": voice["name"], "bio": voice["bio"]}
 
-        # ── Track B: every 3rd article is topical (trend-aware, web-researched) ──
+        # ── Track rotation (round-robin): topical / stats-led / evergreen ──
+        _slot = (voice_offset + i) % 3
+        stats_mode = _slot == 1
         topical = None
-        if (voice_offset + i) % 3 == 0:
+        if _slot == 0:
             try:
                 _recent = [s.replace('-', ' ') for s in list(published)[:40]]
                 topical = generate_topical_article(site, persona, voice_style=voice["style"], recent_topics=_recent)
@@ -1457,7 +1579,8 @@ def publish_site(site_name: str, count: int):
             print(f"\n  [{i}/{count}] TOPICAL: {keyword} (author: {persona['name']})")
         else:
             img_query = None  # set after generation, from the article's own image_query
-            print(f"\n  [{i}/{count}] {keyword} (priority: {priority}, author: {persona['name']})")
+            _mode = "STATS: " if stats_mode else ""
+            print(f"\n  [{i}/{count}] {_mode}{keyword} (priority: {priority}, author: {persona['name']})")
 
         try:
             check_api_budget()
@@ -1466,14 +1589,16 @@ def publish_site(site_name: str, count: int):
                 article = {"content": topical["content"], "description": topical["description"]}
             else:
                 # Generate article with portfolio voice style
-                article = generate_article(keyword, site, persona, priority, voice_style=voice["style"])
+                article = generate_article(keyword, site, persona, priority, voice_style=voice["style"], stats_mode=stats_mode)
             print(f"    Article: {len(article['content'])} chars")
 
             # Evergreen: use the article's subject-accurate image query (set post-generation)
             if not topical and not img_query:
                 img_query = article.get("image_query") or _derive_image_query(keyword)
 
-            # Inject affiliate links
+            # De-slop, render chart blocks, then inject affiliate links
+            article["content"] = _scrub_slop(article["content"])
+            article["content"] = _render_charts(article["content"])
             article["content"] = inject_affiliate_links(article["content"], niche)
 
             # Fetch image
