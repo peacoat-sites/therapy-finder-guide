@@ -30,7 +30,7 @@
       <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
       {{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }}<span style="color:#64748b;font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
       <span>{{ .ReadingTime }} min read</span>
-      <span>By <a href="/{{ .Params.author_slug | urlize }}/">{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}</a></span>
+      {{ $bAuthor := or .Params.author .Site.Params.author "" }}{{ $bSlug := .Params.author_slug | default (urlize $bAuthor) }}{{ if $bAuthor }}<span style="display:inline-flex;align-items:center;gap:6px">By <a href="/{{ $bSlug }}/" rel="author" style="display:inline-flex;align-items:center;gap:6px;color:inherit;text-decoration:none"><img src="/img/authors/{{ $bSlug }}.jpg" alt="{{ $bAuthor }}" style="width:22px;height:22px;border-radius:50%;object-fit:cover;flex-shrink:0" onerror="this.style.display='none'">{{ $bAuthor }}</a></span>{{ end }}
     </div>
 
     <!-- Featured Hero Image — same image shown on the article card -->
