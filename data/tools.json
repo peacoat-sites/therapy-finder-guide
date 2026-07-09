@@ -2,40 +2,44 @@
   {
     "label": "CBT Thought Record",
     "url": "/cbt-thought-record-worksheet/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "cbt",
       "thought",
       "record"
-    ]
+    ],
+    "desc": "Work through a guided CBT thought record to reframe anxious thinking."
   },
   {
     "label": "First Therapy Session",
     "url": "/first-therapy-session-checklist/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "first",
       "therapy",
       "session"
-    ]
+    ],
+    "desc": "Know what to expect and what to ask in your first therapy session."
   },
   {
     "label": "Which Therapy Type",
     "url": "/which-therapy-type/",
-    "icon": "\ud83e\udded",
+    "icon": "🧭",
     "match": [
       "which",
       "therapy",
       "type"
-    ]
+    ],
+    "desc": "Answer a few questions to find the therapy approach that fits you."
   },
   {
     "label": "Types Therapy Compared",
     "url": "/types-of-therapy-compared/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "types",
       "therapy"
-    ]
+    ],
+    "desc": "Compare CBT, DBT, and other therapy types side by side."
   }
 ]

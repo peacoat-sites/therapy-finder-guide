@@ -222,7 +222,7 @@
             <div class="hte-main">
               <span class="hte-kicker">Free interactive tool</span>
               <div class="hte-title">{{ $tool.label }}</div>
-              <p class="hte-sub">A free interactive tool. Get results tailored to your situation in under a minute.</p>
+              <p class="hte-sub">{{ $tool.desc | default "A free interactive tool. Get results tailored to your situation in under a minute." }}</p>
             </div>
             <a href="{{ $tool.url }}" class="hte-cta">Open tool &rarr;</a>
           </div>

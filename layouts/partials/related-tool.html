@@ -16,7 +16,7 @@
     <div class="rt-main">
       <span class="rt-kicker">Free interactive tool</span>
       <div class="rt-title">{{ $best.label }}</div>
-      <p class="rt-sub">A free interactive tool. Get results tailored to your situation in under a minute.</p>
+      <p class="rt-sub">{{ $best.desc | default "A free interactive tool. Get results tailored to your situation in under a minute." }}</p>
     </div>
     <a href="{{ $best.url }}" class="rt-cta">Open tool &rarr;</a>
   </aside>
