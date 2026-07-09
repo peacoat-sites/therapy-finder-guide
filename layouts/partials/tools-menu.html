@@ -7,32 +7,33 @@
   </button>
   <div class="nav-tools-menu" role="menu">
     {{- with $quiz }}{{- with .url }}
-    <a href="{{ . }}" role="menuitem" class="nt-item nt-quiz" title="{{ $quiz.title }}"><span class="nt-ic">&#10067;</span><span>Take the Quiz</span></a>
+    <a href="{{ . }}" role="menuitem" class="nt-item nt-quiz" title="{{ $quiz.title }}"><span class="nt-ic">&#10067;</span><span class="nt-label">Take the Quiz</span></a>
     {{- end }}{{- end }}
     {{- range $tools }}
-    <a href="{{ .url }}" role="menuitem" class="nt-item"><span class="nt-ic">{{ .icon }}</span><span>{{ .label }}</span></a>
+    <a href="{{ .url }}" role="menuitem" class="nt-item"><span class="nt-ic">{{ .icon }}</span><span class="nt-label">{{ .label }}</span></a>
     {{- end }}
   </div>
 </div>
 <style>
-.nav-tools{position:relative;display:inline-block}
-.nav-tools-btn{display:inline-flex;align-items:center;gap:4px;background:none;border:0;cursor:pointer;font-size:11px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.7);padding:0 0 3px;font-family:inherit;transition:var(--trans)}
-.nav-tools-btn:hover{color:#fff}
-.nav-tools-caret{transition:transform .2s}
-.nav-tools:hover .nav-tools-caret,.nav-tools.open .nav-tools-caret{transform:rotate(180deg)}
-.nav-tools-menu{position:absolute;top:calc(100% + 12px);right:0;min-width:232px;background:#fff;border:1px solid rgba(0,0,0,.08);border-radius:12px;box-shadow:0 12px 36px rgba(0,0,0,.18);padding:6px;opacity:0;visibility:hidden;transform:translateY(-4px);transition:opacity .15s,transform .15s,visibility .15s;z-index:200}
+.site-nav .nav-tools{position:relative;display:inline-flex;align-items:center}
+.nav-tools-btn{display:inline-flex;align-items:center;gap:5px;background:none;border:0;cursor:pointer;font-size:11px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.7);padding:0;margin:0;font-family:inherit;line-height:1;transition:color .18s}
+.nav-tools-btn:hover,.nav-tools.open .nav-tools-btn{color:#fff}
+.nav-tools-caret{transition:transform .2s;flex-shrink:0}
+.nav-tools:hover .nav-tools-caret,.nav-tools.open .nav-tools-caret,.nav-tools:focus-within .nav-tools-caret{transform:rotate(180deg)}
+.site-nav .nav-tools-menu{position:absolute;top:calc(100% + 14px);left:0;min-width:236px;background:#fff;border:1px solid rgba(0,0,0,.08);border-radius:12px;box-shadow:0 14px 40px rgba(0,0,0,.2);padding:6px;opacity:0;visibility:hidden;transform:translateY(-6px);transition:opacity .16s,transform .16s,visibility .16s;z-index:300}
 .nav-tools:hover .nav-tools-menu,.nav-tools.open .nav-tools-menu,.nav-tools:focus-within .nav-tools-menu{opacity:1;visibility:visible;transform:none}
-.nt-item{display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:8px;color:#1e293b;text-decoration:none;font-size:.9rem;font-weight:600;letter-spacing:0;text-transform:none;white-space:nowrap}
-.nt-item::after{display:none}
-.nt-item:hover{background:#f1f5f9}
-.nt-ic{font-size:1.05rem;line-height:1;flex-shrink:0}
-.nt-quiz{border-bottom:1px solid rgba(0,0,0,.08);border-radius:8px 8px 0 0;margin-bottom:2px;padding-bottom:11px;color:var(--accent,#4338ca)}
+.site-nav .nav-tools-menu .nt-item{display:flex;align-items:center;gap:11px;padding:9px 12px;border-radius:8px;color:#1e293b;text-decoration:none;font-size:.9rem;font-weight:600;letter-spacing:0;text-transform:none;white-space:nowrap;transition:background .12s}
+.site-nav .nav-tools-menu .nt-item::after{display:none}
+.site-nav .nav-tools-menu .nt-item:hover{background:#f1f5f9;color:#0f172a}
+.nav-tools-menu .nt-ic{font-size:1.05rem;line-height:1;flex-shrink:0;width:1.2rem;text-align:center}
+.site-nav .nav-tools-menu .nt-quiz{color:var(--accent,#4338ca);border-bottom:1px solid rgba(0,0,0,.08);border-radius:8px 8px 0 0;margin-bottom:3px;padding-bottom:11px}
+.site-nav .nav-tools-menu .nt-quiz:hover{color:var(--accent,#4338ca)}
 @media (max-width:768px){
-  .nav-tools{display:block;width:100%}
-  .nav-tools-menu{position:static;opacity:1;visibility:visible;transform:none;box-shadow:none;border:0;background:transparent;padding:6px 0 0;min-width:0}
-  .nt-item{color:rgba(255,255,255,.85)}
-  .nt-item:hover{background:rgba(255,255,255,.08)}
-  .nt-quiz{color:#fff;border-bottom-color:rgba(255,255,255,.15)}
+  .site-nav .nav-tools{display:block;width:100%}
+  .site-nav .nav-tools-menu{position:static;opacity:1;visibility:visible;transform:none;box-shadow:none;border:0;background:transparent;padding:8px 0 0;min-width:0}
+  .site-nav .nav-tools-menu .nt-item{color:rgba(255,255,255,.85)}
+  .site-nav .nav-tools-menu .nt-item:hover{background:rgba(255,255,255,.1);color:#fff}
+  .site-nav .nav-tools-menu .nt-quiz{color:#fff;border-bottom-color:rgba(255,255,255,.16)}
 }
 </style>
 <script>
