@@ -166,12 +166,26 @@
           {{ $catList = $catList | append (dict "name" $name "display" $display "pages" $pages "count" (len $pages)) }}
         {{ end }}
         {{ $catList = sort $catList "count" "desc" }}
+        {{ $tools := .Site.Data.tools }}
+        {{ $renderable := slice }}
+        {{ range $catList }}{{ if ge (len .pages.Pages) 2 }}{{ $renderable = $renderable | append . }}{{ end }}{{ end }}
+        <style>
+        .hte-card{display:flex;align-items:center;gap:16px;margin:6px 0 30px;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}
+        .hte-ic{font-size:1.9rem;line-height:1;flex-shrink:0}
+        .hte-main{flex:1;min-width:0}
+        .hte-kicker{font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#4338ca)}
+        .hte-title{font-size:1.12rem;font-weight:700;margin:2px 0 3px;color:var(--heading,#1e293b)}
+        .hte-sub{font-size:.85rem;color:var(--muted,#64748b);margin:0;line-height:1.5}
+        .hte-card a.hte-cta{flex-shrink:0;display:inline-block;padding:10px 17px;border-radius:8px;background:var(--accent,#4338ca);color:#fff;font-size:.85rem;font-weight:600;text-decoration:none;white-space:nowrap}
+        .hte-card a.hte-cta:visited{color:#fff}
+        .hte-card a.hte-cta:hover{opacity:.92;color:#fff;text-decoration:none}
+        @media(max-width:560px){.hte-card{flex-wrap:wrap}.hte-card a.hte-cta{width:100%;text-align:center}}
+        </style>
         <div class="topic-groups">
-          {{ range $catList }}
-          {{ $catName := .name }}
-          {{ $catDisplay := .display }}
-          {{ $sorted := .pages.Pages.ByPublishDate.Reverse }}
-          {{ if ge (len $sorted) 2 }}
+          {{ range $ri, $cat := $renderable }}
+          {{ $catName := $cat.name }}
+          {{ $catDisplay := $cat.display }}
+          {{ $sorted := $cat.pages.Pages.ByPublishDate.Reverse }}
           <section class="topic-group">
             <div class="topic-group-header">
               <h2 class="topic-group-title">{{ $catDisplay }}</h2>
@@ -202,7 +216,17 @@
               {{ end }}
             </div>
           </section>
-          {{ end }}
+          {{ if and $tools (eq (mod $ri 2) 0) }}{{ $slot := div $ri 2 | int }}{{ if lt $slot (len $tools) }}{{ $tool := index $tools $slot }}
+          <div class="hte-card">
+            <div class="hte-ic" aria-hidden="true">{{ $tool.icon }}</div>
+            <div class="hte-main">
+              <span class="hte-kicker">Free interactive tool</span>
+              <div class="hte-title">{{ $tool.label }}</div>
+              <p class="hte-sub">A free interactive tool. Get results tailored to your situation in under a minute.</p>
+            </div>
+            <a href="{{ $tool.url }}" class="hte-cta">Open tool &rarr;</a>
+          </div>
+          {{ end }}{{ end }}
           {{ end }}
         </div>
       </div>
