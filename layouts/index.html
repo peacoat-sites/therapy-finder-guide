@@ -169,6 +169,7 @@
         {{ $tools := .Site.Data.tools }}
         {{ $renderable := slice }}
         {{ range $catList }}{{ if ge (len .pages.Pages) 2 }}{{ $renderable = $renderable | append . }}{{ end }}{{ end }}
+        {{ $placed := 0 }}{{ $G := len $renderable }}{{ $T := len $tools }}
         <style>
         .hte-card{display:flex;align-items:center;gap:16px;margin:6px 0 30px;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}
         .hte-ic{font-size:1.9rem;line-height:1;flex-shrink:0}
@@ -216,7 +217,7 @@
               {{ end }}
             </div>
           </section>
-          {{ if and $tools (eq (mod $ri 2) 0) }}{{ $slot := div $ri 2 | int }}{{ if lt $slot (len $tools) }}{{ $tool := index $tools $slot }}
+          {{ if and $tools (gt (sub $T $placed) 0) (or (eq (mod $ri 2) 0) (ge (sub $T $placed) (sub $G $ri))) }}{{ $tool := index $tools $placed }}
           <div class="hte-card">
             <div class="hte-ic" aria-hidden="true">{{ $tool.icon }}</div>
             <div class="hte-main">
@@ -226,7 +227,8 @@
             </div>
             <a href="{{ $tool.url }}" class="hte-cta">Open tool &rarr;</a>
           </div>
-          {{ end }}{{ end }}
+          {{ $placed = add $placed 1 }}
+          {{ end }}
           {{ end }}
         </div>
       </div>
