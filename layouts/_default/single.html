@@ -238,7 +238,7 @@
     {{ if .Params.categories }}<span class="post-cat">{{ partial "topic-label.html" (index .Params.categories 0) }}</span>{{ end }}
     <h1 class="post-title">{{ .Title }}</h1>
     {{ if .Description }}<p class="page-tool-desc">{{ .Description }}</p>{{ end }}
-    {{ if .Params.author }}<div class="post-meta"><span>By {{ .Params.author }}</span>{{ if .PublishDate }}<span>{{ .PublishDate.Format "January 2, 2006" }}</span>{{ end }}</div>{{ end }}
+    {{ if .Params.author }}{{ $tSlug := .Params.author_slug | default (urlize .Params.author) }}<div class="post-meta"><span style="display:inline-flex;align-items:center;gap:6px">By <a href="/{{ $tSlug }}/" rel="author" style="display:inline-flex;align-items:center;gap:6px;color:inherit;font-weight:600;text-decoration:none"><img src="/img/authors/{{ $tSlug }}.jpg" alt="{{ .Params.author }}" style="width:22px;height:22px;border-radius:50%;object-fit:cover;flex-shrink:0" onerror="this.style.display='none'">{{ .Params.author }}</a></span>{{ if .PublishDate }}<span>{{ .PublishDate.Format "January 2, 2006" }}</span>{{ end }}</div>{{ end }}
     {{ if .Params.image }}
     <div class="post-featured-image" style="margin:24px 0 32px">
       <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" fetchpriority="high"
