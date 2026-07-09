@@ -3,6 +3,9 @@ title: "Types of Therapy Compared: CBT, DBT, EMDR & More"
 date: 2026-01-01
 draft: false
 description: "A plain-English comparison of 10 common therapy types, what each helps with, how it works, and how long it typically takes, to help you find the right fit."
+author: "Jamie Sullivan"
+author_slug: "jamie-sullivan"
+author_title: "Therapy Navigator"
 ---
 
 One of the most confusing parts of starting therapy is the alphabet soup. CBT, DBT, EMDR, ACT, IPT. The names sound interchangeable, but the approaches behind them are genuinely different, and the right match depends on what you're working through. Someone processing a specific trauma needs something different from someone trying to understand a lifelong relationship pattern.

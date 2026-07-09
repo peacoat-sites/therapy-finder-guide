@@ -7,6 +7,9 @@
       {{ if .Params.subtitle }}<p class="page-subtitle">{{ .Params.subtitle }}</p>{{ end }}
     </header>
     {{ end }}
+    {{ if .Params.author }}{{ $pSlug := .Params.author_slug | default (urlize .Params.author) }}
+    <div class="post-meta" style="margin-bottom:18px"><span style="display:inline-flex;align-items:center;gap:6px">By <a href="/{{ $pSlug }}/" rel="author" style="display:inline-flex;align-items:center;gap:6px;color:inherit;font-weight:600;text-decoration:none"><img src="/img/authors/{{ $pSlug }}.jpg" alt="{{ .Params.author }}" style="width:22px;height:22px;border-radius:50%;object-fit:cover;flex-shrink:0" onerror="this.style.display='none'">{{ .Params.author }}</a></span>{{ if .PublishDate }}<span style="margin-left:12px;color:var(--muted,#64748b);font-size:.9rem">{{ .PublishDate.Format "January 2, 2006" }}</span>{{ end }}</div>
+    {{ end }}
     <div class="post-content page-content">
       {{ .Content }}
     </div>
