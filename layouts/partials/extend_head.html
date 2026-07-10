@@ -74,6 +74,14 @@
     "name": "{{ .Params.author | default .Site.Params.author | replaceRE "\"" "\\\"" }}",
     "url": "{{ .Site.BaseURL }}{{ with .Params.author_slug }}{{ . }}{{ else }}{{ .Params.author | urlize }}{{ end }}/"
   },
+{{- with .Site.Data.reviewer }}
+  "reviewedBy": {
+    "@type": "Person",
+    "name": "{{ .name }}",
+    "jobTitle": "{{ .title }}",
+    "url": "{{ $.Site.BaseURL }}{{ .slug }}/"
+  },
+{{- end }}
   "publisher": {
     "@type": "Organization",
     "name": "{{ .Site.Title | replaceRE "\"" "\\\"" }}"

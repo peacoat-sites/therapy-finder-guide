@@ -32,7 +32,7 @@
     <h1 class="post-title">{{ .Title }}</h1>
     <div class="post-meta" style="justify-content:space-between;align-items:center">
       <div class="post-meta-main" style="display:flex;align-items:center;flex-wrap:wrap;gap:10px">
-      {{ with .Params.author }}<span class="post-author" style="display:inline-flex;align-items:center;gap:6px">By <a href="/{{ $.Params.author_slug | default (urlize .) }}/" rel="author" style="display:inline-flex;align-items:center;gap:6px;color:inherit;font-weight:600;text-decoration:none"><img src="/img/authors/{{ $.Params.author_slug | default (urlize .) }}.jpg" alt="{{ . }}" style="width:22px;height:22px;border-radius:50%;object-fit:cover;flex-shrink:0">{{ . }}</a></span>{{ end }}
+      {{ with .Params.author }}<span class="post-author" style="display:inline-flex;align-items:center;gap:6px">By <a href="/{{ $.Params.author_slug | default (urlize .) }}/" rel="author" style="display:inline-flex;align-items:center;gap:6px;color:inherit;font-weight:600;text-decoration:none"><img src="/img/authors/{{ $.Params.author_slug | default (urlize .) }}.jpg" alt="{{ . }}" style="width:22px;height:22px;border-radius:50%;object-fit:cover;flex-shrink:0">{{ . }}</a></span>{{ end }} {{ partial "reviewed-by.html" . }}
       <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
       {{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }}<span style="color:#64748b;font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
       <span>{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
