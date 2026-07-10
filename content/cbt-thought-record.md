@@ -4,7 +4,8 @@ description: "Use this free CBT thought record worksheet to examine automatic ne
 date: 2026-06-10
 slug: "cbt-thought-record-worksheet"
 categories: ["Mental Health Tools"]
-author: "Megan Strand"
+author: "Alex Morgan"
+author_slug: "alex-morgan"
 image: "https://images.pexels.com/photos/36421444/pexels-photo-36421444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 

@@ -4,7 +4,8 @@ description: "Prepare for your first therapy appointment with our interactive ch
 date: 2026-06-10
 slug: "first-therapy-session-checklist"
 categories: ["Finding a Therapist"]
-author: "Megan Strand"
+author: "Dr. Chris Peterson"
+author_slug: "dr-chris-peterson"
 image: "https://images.pexels.com/photos/9562136/pexels-photo-9562136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 

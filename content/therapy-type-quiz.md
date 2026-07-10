@@ -4,7 +4,8 @@ hide_title: true
 date: 2026-06-10
 description: "Use our interactive therapy type matcher to explore which evidence-based therapy approach — CBT, EMDR, DBT, ACT, Psychodynamic, Somatic, or IFS — may fit your situation best."
 categories: ["Finding a Therapist"]
-author: "Megan Strand"
+author: "Kim Davis"
+author_slug: "kim-davis"
 slug: "which-therapy-type"
 image: "https://images.pexels.com/photos/10617672/pexels-photo-10617672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
