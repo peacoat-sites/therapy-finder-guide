@@ -1,0 +1,33 @@
+{{/* Was-this-helpful feedback widget */}}
+<div class="afb" data-afb>
+  <span class="afb-q">Was this helpful?</span>
+  <button type="button" class="afb-btn" data-afb-v="yes"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 10v12"/><path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2a3.13 3.13 0 0 1 3 3.88Z"/></svg>Yes</button>
+  <button type="button" class="afb-btn" data-afb-v="no"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="transform:rotate(180deg)"><path d="M7 10v12"/><path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2a3.13 3.13 0 0 1 3 3.88Z"/></svg>No</button>
+  <span class="afb-thanks" style="display:none"></span>
+</div>
+<style>
+.afb{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:30px 0;padding:15px 20px;border:1px solid var(--border,#e7e5e4);border-radius:10px;background:var(--surface2,#f8fafc)}
+.afb-q{font-weight:600;font-size:.95rem}
+.afb-btn{display:inline-flex;align-items:center;gap:6px;padding:7px 16px;border:1px solid var(--border,#d6d3d1);border-radius:8px;background:#fff;cursor:pointer;font-size:.88rem;font-weight:600;color:inherit}
+.afb-btn:hover{border-color:var(--accent,#4338ca);color:var(--accent,#4338ca)}
+.afb-thanks{font-size:.9rem;color:var(--muted,#64748b)}
+.afb-thanks a{color:var(--accent,#4338ca)}
+</style>
+<script>
+(function(){
+  var box=document.querySelector('[data-afb]');if(!box)return;
+  var k='afb:'+location.pathname;
+  function done(v){
+    box.querySelectorAll('.afb-btn').forEach(function(b){b.style.display='none'});
+    var t=box.querySelector('.afb-thanks');
+    if(v==='yes'){t.textContent='Thanks for the feedback!';}
+    else{t.innerHTML='Thanks. <a href="/contact/">Tell us what was missing</a> and we\'ll improve this guide.';}
+    t.style.display='inline';
+  }
+  try{var v=localStorage.getItem(k);if(v){done(v);return;}}catch(e){}
+  box.querySelectorAll('.afb-btn').forEach(function(b){b.addEventListener('click',function(){
+    try{localStorage.setItem(k,b.getAttribute('data-afb-v'))}catch(e){}
+    done(b.getAttribute('data-afb-v'));
+  })});
+})();
+</script>
