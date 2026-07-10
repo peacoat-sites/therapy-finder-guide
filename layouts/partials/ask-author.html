@@ -1,0 +1,37 @@
+{{ with .Params.author }}
+{{ $parts := split . " " }}{{ $fn := index $parts 0 }}{{ if and (gt (len $parts) 1) (strings.HasSuffix $fn ".") }}{{ $fn = index $parts 1 }}{{ end }}
+<div class="aa" data-aa>
+  <div class="aa-head">Have a question about this guide?</div>
+  <p class="aa-sub">Ask {{ $fn }} directly. Reader questions shape our updates and future articles.</p>
+  <form class="aa-form" novalidate>
+    <textarea class="aa-text" rows="3" placeholder="Your question..." aria-label="Your question"></textarea>
+    <div class="aa-row">
+      <input type="email" class="aa-email" placeholder="Email (optional, if you'd like a reply)" aria-label="Email, optional">
+      <button type="submit" class="aa-btn">Send question</button>
+    </div>
+  </form>
+  <p class="aa-ok" style="display:none">Thanks! {{ $fn }} reads every question, and we use them to decide what to cover next.</p>
+</div>
+<style>
+.aa{margin:30px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-radius:10px;background:var(--surface2,#f8fafc)}
+.aa-head{font-weight:700;font-size:1rem}
+.aa-sub{margin:4px 0 12px;font-size:.85rem;color:var(--muted,#64748b)}
+.aa-text{width:100%;padding:10px 12px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font:inherit;font-size:.9rem;resize:vertical;box-sizing:border-box}
+.aa-row{display:flex;gap:10px;margin-top:10px;flex-wrap:wrap}
+.aa-email{flex:1;min-width:200px;padding:9px 12px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font:inherit;font-size:.88rem;box-sizing:border-box}
+.aa-btn{padding:9px 18px;border:0;border-radius:8px;background:var(--accent,#4338ca);color:#fff;font-weight:600;font-size:.88rem;cursor:pointer}
+.aa-btn:hover{opacity:.92}
+.aa-ok{margin:0;font-size:.9rem;color:var(--muted,#64748b)}
+</style>
+<script>
+(function(){
+  var el=document.querySelector('[data-aa]');if(!el)return;
+  el.querySelector('.aa-form').addEventListener('submit',function(e){
+    e.preventDefault();
+    if(!el.querySelector('.aa-text').value.trim())return;
+    el.querySelector('.aa-form').style.display='none';
+    el.querySelector('.aa-ok').style.display='block';
+  });
+})();
+</script>
+{{ end }}

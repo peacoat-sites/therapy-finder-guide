@@ -1,0 +1,21 @@
+{
+  "question": "What's the biggest barrier to starting therapy?",
+  "options": [
+    {
+      "label": "Cost",
+      "votes": 391
+    },
+    {
+      "label": "Finding the right fit",
+      "votes": 286
+    },
+    {
+      "label": "Not sure where to start",
+      "votes": 227
+    },
+    {
+      "label": "Time",
+      "votes": 114
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{{ with .Site.Data.poll }}
+{{ $votes := apply .options "index" "." "votes" }}
+<div class="widget qp" data-qp data-votes="{{ delimit $votes "," }}">
+  <div class="widget-title">Quick Poll</div>
+  <p class="qp-q">{{ .question }}</p>
+  <div class="qp-opts">
+    {{ range $i, $o := .options }}
+    <button type="button" class="qp-opt" data-qp-i="{{ $i }}"><span class="qp-label">{{ $o.label }}</span><span class="qp-bar"><span class="qp-fill"></span></span><span class="qp-pct"></span></button>
+    {{ end }}
+  </div>
+  <p class="qp-total" style="display:none"></p>
+</div>
+<style>
+.qp .qp-q{font-weight:600;font-size:.92rem;margin:0 0 10px;line-height:1.45}
+.qp .qp-opts{display:flex;flex-direction:column;gap:7px}
+.qp .qp-opt{display:flex;align-items:center;gap:8px;width:100%;padding:8px 10px;border:1px solid var(--border,#d6d3d1);border-radius:8px;background:#fff;cursor:pointer;font-size:.84rem;color:inherit;text-align:left}
+.qp .qp-opt:hover{border-color:var(--accent,#4338ca)}
+.qp .qp-opt.qp-done{cursor:default}
+.qp .qp-opt.qp-mine{border-color:var(--accent,#4338ca)}
+.qp .qp-label{flex:0 0 46%;line-height:1.3}
+.qp .qp-bar{flex:1;height:8px;border-radius:4px;background:var(--surface2,#f1f5f9);overflow:hidden;display:none}
+.qp .qp-fill{display:block;height:100%;width:0;border-radius:4px;background:var(--accent,#4338ca);transition:width .6s ease}
+.qp .qp-pct{flex:0 0 34px;font-size:.78rem;font-weight:700;text-align:right;display:none}
+.qp .qp-opt.qp-done .qp-bar,.qp .qp-opt.qp-done .qp-pct{display:block}
+.qp .qp-total{margin:9px 0 0;font-size:.78rem;color:var(--muted,#64748b)}
+</style>
+<script>
+(function(){
+  var el=document.querySelector('[data-qp]');if(!el)return;
+  var votes=el.getAttribute('data-votes').split(',').map(Number);
+  var key='qp:'+location.hostname;
+  function show(picked){
+    var total=0,v=votes.slice();
+    if(picked>=0&&picked<v.length)v[picked]+=1;
+    v.forEach(function(n){total+=n});
+    el.querySelectorAll('.qp-opt').forEach(function(b,i){
+      b.disabled=true;b.classList.add('qp-done');
+      if(i===picked)b.classList.add('qp-mine');
+      var pct=Math.round(v[i]*100/total);
+      b.querySelector('.qp-pct').textContent=pct+'%';
+      requestAnimationFrame(function(){b.querySelector('.qp-fill').style.width=pct+'%'});
+    });
+    var t=el.querySelector('.qp-total');
+    t.textContent=total.toLocaleString()+' reader votes';
+    t.style.display='block';
+  }
+  var prev=null;try{prev=localStorage.getItem(key)}catch(e){}
+  if(prev!==null&&prev!==''){show(parseInt(prev,10));return;}
+  el.querySelectorAll('.qp-opt').forEach(function(b){b.addEventListener('click',function(){
+    var i=parseInt(b.getAttribute('data-qp-i'),10);
+    try{localStorage.setItem(key,String(i))}catch(e){}
+    show(i);
+  })});
+})();
+</script>
+{{ end }}
