@@ -1596,10 +1596,11 @@ def publish_site(site_name: str, count: int):
             if not topical and not img_query:
                 img_query = article.get("image_query") or _derive_image_query(keyword)
 
-            # De-slop, render chart blocks, then inject affiliate links
-            article["content"] = _scrub_slop(article["content"])
+            # Render charts, inject affiliate links, then de-slop LAST
+            # (affiliate blurbs carry em dashes; scrub must run after injection)
             article["content"] = _render_charts(article["content"])
             article["content"] = inject_affiliate_links(article["content"], niche)
+            article["content"] = _scrub_slop(article["content"])
 
             # Fetch image
             image = fetch_image(img_query, used_img_ids)
