@@ -100,6 +100,7 @@
         {{- if lt $i $last -}}</h2>{{- end -}}
         {{- if eq $i 0 -}}{{- partial "related-tool.html" $ -}}{{- end -}}
         {{- if eq $i 1 -}}{{- partial "amazon-product-inline.html" $ -}}{{- end -}}
+        {{- if eq $i 2 -}}{{- partial "related-video.html" $ -}}{{- end -}}
         {{- if eq $i 3 -}}{{- partial "ad-inarticle.html" $ -}}{{- end -}}
       {{- end -}}
     {{- else -}}
@@ -322,7 +323,6 @@
   </p>
 </div>
 
-  {{ partial "related-video.html" . }}
   {{ partial "article-feedback.html" . }}
   {{ partial "ask-author.html" . }}
   {{ partial "newsletter-strip.html" . }}
