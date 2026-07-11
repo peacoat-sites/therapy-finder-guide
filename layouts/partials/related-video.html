@@ -1,0 +1,48 @@
+{{/* Related external YouTube video — matched from data/videos.json, click-to-load facade
+     (no YouTube JS/iframe until the reader clicks; thumbnail only). */}}
+{{ $vids := .Site.Data.videos }}
+{{ if $vids }}
+  {{ $hay := lower (printf "%s %s %s" .Title (delimit (.Params.tags | default slice) " ") (delimit (.Params.categories | default slice) " ")) }}
+  {{ $best := false }}{{ $bestScore := 0 }}
+  {{ range $vids }}
+    {{ $score := 0 }}
+    {{ range .keywords }}{{ if in $hay . }}{{ $score = add $score 1 }}{{ end }}{{ end }}
+    {{ if gt $score $bestScore }}{{ $bestScore = $score }}{{ $best = . }}{{ end }}
+  {{ end }}
+  {{ if and $best (ge $bestScore 3) }}
+  <div class="rvid" data-rvid="{{ $best.id }}">
+    <span class="rvid-kicker">Related video</span>
+    <button type="button" class="rvid-face" aria-label="Play video: {{ $best.title | htmlUnescape }}">
+      <img src="https://i.ytimg.com/vi/{{ $best.id }}/hqdefault.jpg" alt="{{ $best.title | htmlUnescape }}" loading="lazy">
+      <span class="rvid-btn" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span>
+    </button>
+    <p class="rvid-cap">{{ $best.title | htmlUnescape }} <span class="rvid-ch">&middot; {{ $best.channel | htmlUnescape }} on YouTube</span></p>
+  </div>
+  <style>
+  .rvid{margin:34px 0}
+  .rvid-kicker{display:block;font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px}
+  .rvid-face{position:relative;display:block;width:100%;aspect-ratio:16/9;padding:0;border:0;cursor:pointer;border-radius:12px;overflow:hidden;background:#000}
+  .rvid-face img{width:100%;height:100%;object-fit:cover;opacity:.93;transition:opacity .2s}
+  .rvid-face:hover img{opacity:1}
+  .rvid-btn{position:absolute;inset:0;margin:auto;width:60px;height:60px;border-radius:50%;background:rgba(17,17,17,.78);color:#fff;display:flex;align-items:center;justify-content:center;pointer-events:none;transition:background .2s}
+  .rvid-face:hover .rvid-btn{background:var(--accent,#4338ca)}
+  .rvid-frame{width:100%;aspect-ratio:16/9;border:0;border-radius:12px}
+  .rvid-cap{margin:9px 0 0;font-size:.85rem;font-weight:600}
+  .rvid-ch{color:var(--muted,#64748b);font-weight:500}
+  </style>
+  <script>
+  (function(){
+    var box=document.querySelector('.rvid');if(!box)return;
+    var face=box.querySelector('.rvid-face');
+    face.addEventListener('click',function(){
+      var f=document.createElement('iframe');
+      f.src='https://www.youtube-nocookie.com/embed/'+box.getAttribute('data-rvid')+'?autoplay=1&rel=0';
+      f.setAttribute('allow','accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
+      f.setAttribute('allowfullscreen','');
+      f.className='rvid-frame';
+      face.replaceWith(f);
+    });
+  })();
+  </script>
+  {{ end }}
+{{ end }}
