@@ -913,7 +913,7 @@ Your job: Read the persona's tone/background and write in THAT voice. Not "profe
 
     # Meta description + subject-accurate hero image query (single call)
     meta = client.messages.create(
-        model="claude-sonnet-4-6",
+        model="claude-haiku-4-5-20251001",
         max_tokens=240,
         messages=[{"role": "user", "content": (
             f"For an article about: {keyword}\n{title_hint}\n"
@@ -1409,7 +1409,7 @@ When done researching, output ONLY a JSON object (no prose before or after):
     try:
         msg = client.messages.create(
             model="claude-sonnet-4-6", max_tokens=2500,
-            tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 5}],
+            tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 3}],
             messages=[{"role": "user", "content": radar_prompt}],
         )
     except Exception as e:
@@ -1475,7 +1475,7 @@ Structure:
 
     try:
         dmsg = client.messages.create(
-            model="claude-sonnet-4-6", max_tokens=80,
+            model="claude-haiku-4-5-20251001", max_tokens=80,
             messages=[{"role": "user", "content": f"Write a 140-155 character SEO meta description for an article titled '{title}'. Plain text, no quotes."}],
         )
         description = dmsg.content[0].text.strip().replace('"', "'")[:160]
