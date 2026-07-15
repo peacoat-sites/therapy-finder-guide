@@ -598,13 +598,8 @@ def inject_affiliate_links(content: str, niche: str) -> str:
                 injected = True
     content = "\n".join(new_lines)
 
-    # Product box at end (2-3 items, subtle)
-    rec = "\n\n## Helpful Resources\n\n"
-    rec += "*As an Amazon Associate this site earns from qualifying purchases.*\n\n"
-    for asin, name in products[:3]:
-        url = build_affiliate_url(asin)
-        rec += f"- **[{name}]({url})**\n"
-    content += rec
+    # End-of-article product box removed: the affiliate_links.py workflow step
+    # appends the single richer "Recommended Resources" section instead.
     return content
 
 # ── REFERENCE LINK INJECTION ──────────────────────────────────────────────────
