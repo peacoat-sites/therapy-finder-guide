@@ -83,24 +83,11 @@ Keep entries short enough that you'll actually write them. A paragraph is fine. 
 ---
 
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-- **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-
-
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -115,4 +102,3 @@ Keep entries short enough that you'll actually write them. A paragraph is fine. 
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

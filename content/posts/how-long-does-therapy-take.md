@@ -127,14 +127,6 @@ Ending therapy doesn't mean you can never go back. Many people do a course of th
 
 The honest truth is that asking "how long will therapy take" before you start is like asking how long it takes to get fit before you've seen a doctor about what you're working with. It's a reasonable question, but the answer depends on too many variables to give you a single number. What I can tell you is that showing up consistently, being honest with your therapist, and asking hard questions along the way will shorten the timeline more than almost anything else. The process doesn't have to be perfect to be working. It just has to keep moving.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [APA, Understanding psychotherapy and how it works](https://www.apa.org/topics/psychotherapy/understanding), Supports general therapy effectiveness and what to expect from treatment
@@ -148,10 +140,3 @@ The honest truth is that asking "how long will therapy take" before you start is
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

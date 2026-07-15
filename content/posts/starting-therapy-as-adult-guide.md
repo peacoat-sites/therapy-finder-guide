@@ -126,14 +126,6 @@ The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) maintain
 
 The 11-year wait is an average. You don't have to be part of that statistic. Making the first appointment is genuinely the hardest logistical step, and it takes about fifteen minutes. The version of you that's tired of white-knuckling it has already done harder things than picking up the phone.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-- **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SAMHSA, Mental Health Information](https://www.samhsa.gov/mental-health), supports mental health treatment access and seeking help
@@ -147,10 +139,3 @@ The 11-year wait is an average. You don't have to be part of that statistic. Mak
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

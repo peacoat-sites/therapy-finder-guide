@@ -134,14 +134,6 @@ People avoid starting therapy for reasons that feel embarrassing to say out loud
 
 The decision between online and in-person therapy matters less than the decision to actually start. I've seen people thrive in both settings. I've also seen people spend so long weighing the options that another year slips by. Pick the format that removes the most barriers for you right now. You can always adjust. What you can't get back is the time spent waiting for the perfect setup before taking care of yourself.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [APA, What is Telepsychology?](https://www.apa.org/topics/telepsychology), supports evidence-based approaches work via telehealth
@@ -154,11 +146,3 @@ The decision between online and in-person therapy matters less than the decision
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.

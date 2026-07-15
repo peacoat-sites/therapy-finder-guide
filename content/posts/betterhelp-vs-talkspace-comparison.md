@@ -129,14 +129,6 @@ Getting into therapy shouldn't require a project plan. Here's the shortest path:
 
 The gap between knowing you need support and actually having a therapist on the calendar is where most people lose momentum. Both of these platforms exist specifically to close that gap. Neither one is perfect, but perfect isn't the bar. The bar is: will this get you to consistent, qualified support faster than trying to navigate the traditional system alone? For most people, the answer is yes. Pick the one that fits your insurance and budget, set that four-week checkpoint, and begin.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-- **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Supports crisis resource info and mental health treatment access
@@ -149,10 +141,3 @@ The gap between knowing you need support and actually having a therapist on the 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

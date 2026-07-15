@@ -109,14 +109,6 @@ I've sat with enough people to know that hesitation around therapy is rarely abo
 
 Wherever you are right now, just starting to wonder if something's wrong or whether you've been running on empty for years, the fact that you're reading this means something. You're paying attention to yourself, which is more than a lot of people manage. Burnout doesn't get better by pushing through it harder. It gets better with the right kind of help, at the right time, from someone who actually knows how to help. You deserve that. Most people who take that first step tell me, later, that the hardest part was deciding to make it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [World Health Organization, Burn-out an occupational phenomenon](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases), WHO's 2019 ICD-11 burnout definition and three core features
@@ -130,10 +122,3 @@ Wherever you are right now, just starting to wonder if something's wrong or whet
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

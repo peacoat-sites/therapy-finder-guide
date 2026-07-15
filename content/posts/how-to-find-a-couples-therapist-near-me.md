@@ -123,14 +123,6 @@ Progress isn't linear. There are weeks of breakthrough and weeks of backsliding.
 
 The search for a couples therapist can feel like one more thing to fight about, or one more task to avoid. But you don't have to do it perfectly. Make a few calls this week. Ask the questions. See how it feels. The relationship you're in right now isn't necessarily the relationship you'll have in a year with the right support. That's not an empty promise, it's what the evidence shows.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [The Gottman Institute, Research](https://www.gottman.com/about/research/), Supports Gottman research on couples and relationship science
@@ -144,11 +136,3 @@ The search for a couples therapist can feel like one more thing to fight about, 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.

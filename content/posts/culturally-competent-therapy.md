@@ -97,8 +97,6 @@ For general CBT-based self-work alongside therapy, the *Mind Over Mood* workbook
 
 Finding a therapist who can actually hold the full complexity of who you are isn't a luxury. It's what makes therapy work. The search takes more effort than it should. The mental health system's demographics still don't reflect the population it serves. None of that is your fault. But the questions above will help you cut through the uncertainty faster and spend less time in rooms where you feel like a case study rather than a person.
 
-## Recommended Resources
-
 ## Sources
 
 - [findtreatment.gov](https://findtreatment.gov/)

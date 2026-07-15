@@ -89,23 +89,11 @@ Self-guided tools can complement the work you do with a therapist. Workbooks bui
 
 The process of finding the right therapist is imperfect and sometimes exhausting, especially when you're already dealing with the thing you're trying to get help with. But the difference between the right fit and the wrong one is real, and it's worth the extra effort.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-- **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
-
-*Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

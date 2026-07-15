@@ -118,14 +118,6 @@ Our longer guide on [how to find the right therapist](/how-to-find-the-right-the
 
 Most people who benefit from therapy don't do so because they picked the "right" theoretical model. They benefit because they found someone they trusted, showed up consistently, and stayed curious about themselves. Understanding the difference between psychodynamic therapy and CBT gives you a real advantage when you're trying to find that person. Use it. Don't let one more tab close before you make the call.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-- **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
@@ -139,11 +131,3 @@ Most people who benefit from therapy don't do so because they picked the "right"
 - [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Mental health treatment referral and information resource
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.

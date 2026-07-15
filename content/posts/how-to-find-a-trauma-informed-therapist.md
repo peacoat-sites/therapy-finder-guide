@@ -91,14 +91,6 @@ It helps to do some low-stakes preparation before you start. Journaling, even in
 
 Starting this process takes more out of you than it should. That's the unfair truth of it. But a therapist who actually knows how to work with trauma can change things in ways that compound over time, and the search, as frustrating as it is right now, is worth doing carefully.
 
-## Helpful Resources
-
-> *As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)**
-- **[The PTSD Workbook: Simple, Effective Techniques for Overcoming Traumatic Stress Symptoms](https://www.amazon.com/dp/1626255160/?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SAMHSA, Trauma-Informed Care](https://www.samhsa.gov/trauma-violence), Defines trauma-informed care framework and principles
@@ -130,11 +122,3 @@ Start with sliding scale providers, community mental health centers, university 
 Ask them directly. A trauma-informed therapist will be able to explain their approach, describe how they pace disclosure, and talk about safety and nervous system regulation. If they can't articulate this, they probably haven't received formal training.
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

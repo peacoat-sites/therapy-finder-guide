@@ -128,28 +128,8 @@ That's normal. People sometimes try CBT, feel like something's missing, then add
 
 The real take-home: you don't have to choose between them as abstract concepts. You're choosing a therapist, a timeline, and an approach that matches what you're trying to work through right now. Sometimes that's CBT's focused problem-solving. Sometimes it's psychodynamic therapy's deeper exploration. And sometimes it's finding out what actually helps once you start talking to someone who listens.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-- **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
-- **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
-
-
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25), Written by Aaron Beck (founder of CBT), the authoritative structured workbook for managing generalized anxiety disorder.
-

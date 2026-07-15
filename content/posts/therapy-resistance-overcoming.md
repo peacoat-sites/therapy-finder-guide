@@ -79,23 +79,11 @@ The hardest part isn't therapy itself. It's deciding you deserve the help enough
 
 That's enough.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-
-*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

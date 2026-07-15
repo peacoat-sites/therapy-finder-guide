@@ -101,21 +101,11 @@ If you're in crisis and cost is the barrier, don't wait on paperwork. The [988 S
 
 The insurance system wasn't designed to make this easy. But "not easy" and "not worth it" aren't the same thing. Make the call, get the superbill, submit the claim. A therapist who's a strong clinical fit is worth the paperwork.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-- **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -97,14 +97,6 @@ Mindfulness practices can help create distance from intrusive thoughts, though t
 
 Living with OCD is genuinely hard. The doubt, the rituals, the exhaustion of fighting your own mind every day are not small things. But this is also one of the areas in mental health where treatment science is unusually strong. ERP works. It works for a lot of people, including people who have been struggling for years. If you've been wondering whether it's worth trying, it is. Reach out to your doctor, search a therapist directory, or start with a single consultation call. That first step doesn't require certainty. It just requires one small act despite the doubt.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-- **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [NIMH, Obsessive-Compulsive Disorder](https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd), Prevalence stats and clinical definition of OCD
@@ -117,10 +109,3 @@ Living with OCD is genuinely hard. The doubt, the rituals, the exhaustion of fig
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

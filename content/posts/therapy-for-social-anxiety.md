@@ -118,23 +118,11 @@ Telehealth platforms have expanded access meaningfully for many people, though q
 
 The anxiety that makes you dread your own voice on a Zoom call, that narrows your world one avoided situation at a time, is genuinely treatable. Not managed-into-corners treatable. Meaningfully better, living-a-fuller-life treatable. The first step is usually the hardest one, not because the process is overwhelming, but because asking for help feels like the exact kind of thing social anxiety makes terrifying. You don't have to feel ready. You just have to start.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-- **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
-
-*Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

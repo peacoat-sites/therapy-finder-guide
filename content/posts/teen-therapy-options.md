@@ -113,14 +113,6 @@ If you're not sure whether your teen needs more than weekly therapy, a consultat
 
 Getting your teenager into solid therapy isn't always quick or painless. There's no perfect roadmap. But the families I've worked with who push through the friction of finding a real fit, who give it actual time, and who support without controlling, those families look back a year later and say it changed everything. Your teen doesn't need to be in crisis to deserve help. They just need to be struggling. And that's enough.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-- **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SAMHSA, Mental Health Services for Adolescents](https://www.samhsa.gov/mental-health), supports importance of age-appropriate mental health treatment approaches
@@ -134,11 +126,3 @@ Getting your teenager into solid therapy isn't always quick or painless. There's
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[Anti-Anxiety Journal](https://www.amazon.com/dp/B095WS28JL/?tag=contentportfo-20)** (~$9), Daily structured journal for tracking anxiety triggers, patterns, and progress, ideal between therapy sessions.

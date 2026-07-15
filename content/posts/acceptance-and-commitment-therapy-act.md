@@ -133,23 +133,11 @@ If you're in crisis right now with thoughts of suicide or self-harm, contact the
 
 ACT won't promise you a pain-free life. That's exactly why it's credible. What it offers instead is a way to build a life you actually care about, one that doesn't need the absence of anxiety or sadness as a price of entry. The discomfort comes along. You just stop letting it drive. If you've been waiting to live until you feel ready, ACT's argument is that waiting costs something, and the door to a meaningful life is already open, even on the hard days.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

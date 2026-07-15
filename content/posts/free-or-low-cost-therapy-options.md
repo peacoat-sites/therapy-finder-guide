@@ -121,29 +121,8 @@ And if you're managing anxiety or depression alongside therapy, or waiting for y
 
 If there's one thing I want you to take away from this: the cost of therapy is a real obstacle, but it's not as absolute as it feels at 2am when you're looking at private practice rates and quietly closing the tab. There are specific, legitimate paths to care at $0 to $80 a month. The work is in knowing where to look and making one phone call. Start with the EAP question, or with findtreatment.gov. That's enough for today.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
-- **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-
-
-*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10) — 8-week guided journal with trigger tracking and mood diary — mirrors the homework your therapist would assign between sessions.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
-

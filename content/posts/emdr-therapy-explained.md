@@ -123,14 +123,6 @@ This table is a simplification. A skilled clinician will tailor their approach t
 
 If you've been living with a trauma that talk therapy alone hasn't touched, EMDR is worth a serious conversation with a qualified professional. It's not magic, and it's not painless. But for a lot of people, it's the first intervention that actually moves the needle on memories that have been stuck for years, sometimes decades. Start by finding an EMDRIA-trained therapist, ask the right questions, and trust yourself to know whether the fit feels right. The research is solid, the protocol is structured, and the lived experience of people who've done this work suggests it's worth the effort.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-- **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [APA, PTSD Clinical Practice Guideline](https://www.apa.org/ptsd-guideline), APA recognition of EMDR as evidence-based PTSD treatment
@@ -144,10 +136,3 @@ If you've been living with a trauma that talk therapy alone hasn't touched, EMDR
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

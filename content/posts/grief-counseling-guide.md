@@ -110,14 +110,6 @@ Most people find meaningful relief in 8 to 16 sessions, though this varies enorm
 
 Grief is one of the most universal human experiences, and one of the loneliest. Asking for help doesn't mean the loss mattered less or that you're not strong enough to handle it on your own. It means you understand that some things are genuinely too heavy to carry without support, and that getting that support is an act of care for yourself and for everyone in your life who needs you. If you're not sure where to start, start small: one phone call, one email, one honest conversation with your doctor. That's enough.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-- **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
-- **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [APA, Grief: Coping with the loss of your loved one](https://www.apa.org/topics/grief), Supports counseling benefits and types of loss
@@ -128,10 +120,3 @@ Grief is one of the most universal human experiences, and one of the loneliest. 
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

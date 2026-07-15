@@ -75,21 +75,9 @@ For between-session support or self-guided work alongside a group, a structured 
 
 If none of this feels like enough right now, that's okay. Sometimes the right next step is just finding one group, checking the schedule, and writing down when it meets. You don't have to be ready. Just show up once.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-
-*Photo: [Artem Podrez](https://www.pexels.com/@artempodrez) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
-
-## Recommended Resources
 
 ## Sources
 

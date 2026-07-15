@@ -92,14 +92,6 @@ Once you're steadier, a few things help:
 
 Getting through a mental health crisis is hard enough without scrambling to figure out where to turn. Save even one phone number today, before you need it. It can matter enormously. And if you're reading this because you're struggling right now: please reach out. The support exists. You're allowed to use it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-- **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
@@ -113,10 +105,3 @@ Getting through a mental health crisis is hard enough without scrambling to figu
 - [NIMH, Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help), Federal guidance on recognizing crises and finding help
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

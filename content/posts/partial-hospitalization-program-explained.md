@@ -75,14 +75,6 @@ Some people find the group therapy format frustrating initially. Spending five h
 
 Building skills between sessions helps significantly. Workbooks designed for CBT or DBT practice, like [The DBT Skills Workbook by Matthew McKay](https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook/dp/1572245131?tag=contentportfo-20) (affiliate link, small commission if you buy), can extend what you're doing in groups into your evenings at home. Not required. Genuinely useful.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-- **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
-- **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SAMHSA, Levels of Care in Mental Health Treatment](https://www.samhsa.gov/find-help/national-helpline), supports existence of PHP as intermediate care level
@@ -96,10 +88,3 @@ Building skills between sessions helps significantly. Workbooks designed for CBT
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

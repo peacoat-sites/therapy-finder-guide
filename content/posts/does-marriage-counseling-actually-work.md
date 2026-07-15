@@ -108,14 +108,6 @@ The couples who make the most progress are usually the ones who treat the therap
 
 The research on couples therapy is solid enough that dismissing it out of hand would be wrong. But it's not magic, and it's not right for every situation or every stage of a relationship. Go in with a specific problem you want to work on, a therapist whose approach you've actually asked about, and the willingness to do something uncomfortable between sessions. That combination works better than hope alone.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-- **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [The Gottman Institute, Research on Couples](https://www.gottman.com/about/research/), Supports contempt as divorce predictor and therapy timing research
@@ -129,10 +121,3 @@ The research on couples therapy is solid enough that dismissing it out of hand w
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

@@ -85,14 +85,6 @@ Mindfulness practices also have a decent evidence base for anxiety and stress. A
 
 You don't need a perfect plan. You need a first step, one phone call, one email, one intake form. The search feels bigger than it is once you're actually in it, and most people who start looking do eventually find something that works. Give yourself more credit than the system usually offers.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SAMHSA, National Helpline and Treatment Locator](https://www.samhsa.gov/find-help/national-helpline), Free referrals to local sliding-scale and community mental health services
@@ -106,12 +98,3 @@ You don't need a perfect plan. You need a first step, one phone call, one email,
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

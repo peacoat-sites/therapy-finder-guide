@@ -106,8 +106,6 @@ If you're working through specific challenges between sessions or while waiting 
 
 The path from "I think I need therapy" to sitting in a session with someone qualified to help doesn't have to take months. Insurance coverage is more accessible than most people expect, and even when it's limited, alternatives almost always exist. If you've been putting this off because the insurance question felt too complicated, I hope this gives you enough of a map to take the next step. The paperwork and phone calls are temporary. The benefit of getting the right support can last a long time.
 
-## Recommended Resources
-
 ## Sources
 
 - [findtreatment.gov](https://findtreatment.gov/)

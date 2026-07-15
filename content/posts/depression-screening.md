@@ -73,8 +73,6 @@ If your results point toward professional support, you have more paths than you 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)

@@ -139,21 +139,11 @@ When you call a potential therapist, ask directly: "How do you work with anger, 
 
 That parking lot moment at the start. A lot of people know it. The shame after the anger. The exhaustion of knowing you'll probably be back there again. Here's what I want you to hold onto: that cycle isn't permanent. Anger management therapy gives you actual tools, backed by real science, to break patterns that can otherwise eat up decades of your life. Reaching out to a therapist isn't failure. It's the smartest move you can make.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-- **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
-- **[First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

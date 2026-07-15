@@ -113,27 +113,8 @@ These tools work best as adjuncts, not replacements. A workbook won't do what a 
 
 The real barrier to therapy usually isn't money, though that pressure is real. It's the combination of not knowing where to look, fear of what you'll find when you get there, and the low-grade belief that your problems aren't serious enough to warrant help. All three of those are worth pushing back on. Starting somewhere imperfect, a training clinic, an EAP session, a sliding-scale therapist with a two-week waitlist, is always better than waiting for the ideal conditions that never quite arrive. Take one step this week. The rest gets easier from there.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-- **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
-
 ## Sources & References
 
 - [SAMHSA, Behavioral Health Treatment Services Locator](https://findtreatment.gov/), Official tool to find local low-cost mental health services
 - [HRSA, Find a Health Center](https://findahealthcenter.hrsa.gov/), Federally qualified health centers offering sliding-scale fees
 - [APA, How to Find Help for Mental Health](https://www.apa.org/topics/mental-health), Professional guidance on accessing affordable therapy options
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[100 Questions Every First-Time Home Buyer Should Ask](https://www.amazon.com/dp/1400081971/?tag=contentportfo-20)** (~$17), Nearly a million copies sold, covers every question to ask your lender, agent, and inspector before signing anything.

@@ -100,14 +100,6 @@ There's also a middle ground: some therapists not taking insurance directly will
 
 The system isn't built for easy navigation. That's not pessimism, it's just how it is. But the path clears once you understand where the actual friction points lie. You're not doing anything wrong if this feels hard. You're navigating a process with real structural problems. The steps above won't fix those problems, but they'll get you through them faster and closer to actual care.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)**
-- **[Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)**
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
@@ -120,12 +112,3 @@ The system isn't built for easy navigation. That's not pessimism, it's just how 
 - [CMS, Mental Health Parity Information](https://www.cms.gov/cciio/programs-and-initiatives/other-insurance-protections/mhpaea_factsheet), supports insurance network requirements context
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

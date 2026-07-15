@@ -145,14 +145,6 @@ Some options worth exploring: trauma-focused workbooks like *The PTSD Workbook* 
 
 Getting into a car and driving to a therapist's office, or opening a telehealth app for the first time, can feel like climbing a mountain when you're carrying trauma. But that first step doesn't have to be perfect. It just has to happen. You deserve support from someone trained to help. You deserve a life where the grocery store is just a grocery store again. That's not a fantasy. For a lot of people, with the right help, it becomes reality.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [APA, Trauma](https://www.apa.org/topics/trauma), supports 70% trauma exposure statistic and trauma definitions
@@ -166,10 +158,3 @@ Getting into a car and driving to a therapist's office, or opening a telehealth 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

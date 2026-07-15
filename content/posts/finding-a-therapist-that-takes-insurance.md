@@ -117,23 +117,11 @@ If you're in a mental health crisis right now, don't wait for an insurance searc
 
 The process of finding a therapist who takes your insurance can feel designed to make you give up. I've watched people abandon the search after the third unanswered voicemail, convincing themselves they didn't really need help. That's the system failing you, not evidence that care isn't available. Call your insurance's behavioral health line first, contact several therapists at once, and use the tools above to widen your options. The right therapist is findable. Starting the search is the hardest part, and you've already done that.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
-- **[The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)**
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

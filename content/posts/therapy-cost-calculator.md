@@ -64,8 +64,6 @@ Therapy is one of the best investments you can make in your future. Once you act
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)

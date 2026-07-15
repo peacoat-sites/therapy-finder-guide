@@ -125,14 +125,6 @@ The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) also off
 
 Progress in therapy is real even when it's hard to see. The fact that you're asking whether it's working means you're paying attention, and that attention itself is part of the process. You don't have to wait for a revelation. You just have to keep looking at the small moments, keep the conversation honest with your therapist, and trust that growth rarely announces itself before it's already happened.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)**
-- **[Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)**
-- **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [APA, Understanding psychotherapy and how it works](https://www.apa.org/topics/psychotherapy/understanding), Supports how therapy works and what progress looks like
@@ -140,12 +132,3 @@ Progress in therapy is real even when it's hard to see. The fact that you're ask
 - [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Official resource for mental health treatment information
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
-
-## Recommended Resources
-
-*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-
-*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*

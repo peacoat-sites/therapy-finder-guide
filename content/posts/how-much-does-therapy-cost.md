@@ -121,14 +121,6 @@ If your therapist uses cognitive behavioral therapy approaches, a structured jou
 
 The cost of therapy is a real barrier. I'm not minimizing that. But it's often more solvable than it looks. Most people who move past the initial sticker shock find at least one option that fits: an EAP benefit they forgot about, a sliding-scale therapist with an opening, or a community clinic charging almost nothing. The point isn't to pick whatever's cheapest. It's to find care you can actually access, consistently, so you start doing the work that matters. You deserve support that doesn't disappear the moment the bill arrives.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-- **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
-- **[Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), free treatment referrals and sliding-scale therapy options
@@ -140,12 +132,3 @@ The cost of therapy is a real barrier. I'm not minimizing that. But it's often m
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

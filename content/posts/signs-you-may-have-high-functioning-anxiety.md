@@ -89,14 +89,6 @@ Mindfulness and breathwork are everywhere right now and that's made people appro
 
 There's something quietly costly about spending years being the person who has it together. It looks like strength from the outside. From the inside, it's just a very well-maintained performance of okayness, and eventually, most people get tired of maintaining it. That tiredness isn't weakness. It's information.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)**
-- **[Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20)**
-- **[DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [APA, Stress in America survey](https://www.apa.org/news/press/releases/stress), supports statistic on adults feeling too stressed to function
@@ -110,12 +102,3 @@ There's something quietly costly about spending years being the person who has i
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25), Written by Aaron Beck (founder of CBT), the authoritative structured workbook for managing generalized anxiety disorder.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
