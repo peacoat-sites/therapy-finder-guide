@@ -263,6 +263,122 @@ KEYWORD_EXTRAS = {
     'receivable':        ['1836649975'],
 }
 
+# Auto-generated: which site(s) each keyword applies to (prevents off-niche products)
+KEYWORD_SITES = {
+    'part d': ('medicare-starter',),
+    'drug': ('medicare-starter',),
+    'medigap': ('medicare-starter',),
+    'supplement': ('medicare-starter',),
+    'advantage': ('medicare-starter',),
+    'coverage': ('medicare-starter',),
+    'mental health': ('medicare-starter',),
+    'battery': ('solar-planner-guide', 'solar-home-planner'),
+    'storage': ('solar-planner-guide', 'solar-home-planner'),
+    'generator': ('solar-planner-guide', 'solar-home-planner'),
+    'cost': ('solar-planner-guide', 'solar-home-planner'),
+    'roi': ('solar-planner-guide', 'solar-home-planner'),
+    'savings': ('solar-planner-guide', 'solar-home-planner'),
+    'payback': ('solar-planner-guide', 'solar-home-planner'),
+    'diy': ('solar-planner-guide', 'solar-home-planner'),
+    'panels': ('solar-planner-guide', 'solar-home-planner'),
+    'flat roof': ('solar-planner-guide', 'solar-home-planner'),
+    'flexible': ('solar-planner-guide', 'solar-home-planner'),
+    'mobile home': ('solar-planner-guide', 'solar-home-planner'),
+    'tax credit': ('solar-planner-guide', 'solar-home-planner'),
+    'net metering': ('solar-planner-guide', 'solar-home-planner'),
+    'installer': ('solar-planner-guide', 'solar-home-planner'),
+    'company': ('solar-planner-guide', 'solar-home-planner'),
+    'document': ('injury-victim-guide',),
+    'settlement': ('injury-victim-guide',),
+    'accident': ('injury-victim-guide',),
+    'whiplash': ('injury-victim-guide',),
+    'back injury': ('injury-victim-guide',),
+    'brain injury': ('injury-victim-guide',),
+    'broken bone': ('injury-victim-guide',),
+    'soft tissue': ('injury-victim-guide',),
+    'pain and suffering': ('injury-victim-guide',),
+    'lawsuit': ('injury-victim-guide',),
+    'smoke': ('home-insurance-guide',),
+    'safety': ('home-insurance-guide',),
+    'security': ('home-insurance-guide',),
+    'lower': ('home-insurance-guide',),
+    'disaster': ('home-insurance-guide',),
+    'fire': ('home-insurance-guide',),
+    'first time buyer': ('home-insurance-guide',),
+    'renters': ('home-insurance-guide',),
+    'flood': ('home-insurance-guide',),
+    'deductible': ('home-insurance-guide',),
+    'quotes': ('home-insurance-guide',),
+    'cheap': ('home-insurance-guide',),
+    'liability': ('home-insurance-guide',),
+    'dwelling': ('home-insurance-guide',),
+    'first time': ('mortgage-advisor-guide',),
+    'fha': ('mortgage-advisor-guide',),
+    'va loan': ('mortgage-advisor-guide',),
+    'usda': ('mortgage-advisor-guide',),
+    'refinance': ('mortgage-advisor-guide',),
+    'pre-approval': ('mortgage-advisor-guide',),
+    'down payment': ('mortgage-advisor-guide',),
+    'afford': ('mortgage-advisor-guide',),
+    'pmi': ('mortgage-advisor-guide',),
+    'conventional': ('mortgage-advisor-guide',),
+    'qualify': ('mortgage-advisor-guide',),
+    'rate': ('mortgage-advisor-guide',),
+    '30 year': ('mortgage-advisor-guide',),
+    '15 year': ('mortgage-advisor-guide',),
+    'cbt': ('therapy-finder-guide',),
+    'cognitive': ('therapy-finder-guide',),
+    'anxiety': ('therapy-finder-guide',),
+    'depression': ('therapy-finder-guide',),
+    'dbt': ('therapy-finder-guide',),
+    'emdr': ('therapy-finder-guide',),
+    'couples': ('therapy-finder-guide',),
+    'child therapy': ('therapy-finder-guide',),
+    'teen': ('therapy-finder-guide',),
+    'online therapy': ('therapy-finder-guide',),
+    'find a therapist': ('therapy-finder-guide',),
+    'insurance cover': ('therapy-finder-guide',),
+    'first session': ('therapy-finder-guide',),
+    'types of': ('therapy-finder-guide',),
+    'family therapy': ('therapy-finder-guide',),
+    'first vet': ('pet-doctor-guide',),
+    'puppy': ('pet-doctor-guide',),
+    'kitten': ('pet-doctor-guide',),
+    'flea': ('pet-doctor-guide',),
+    'tick': ('pet-doctor-guide',),
+    'heartworm': ('pet-doctor-guide',),
+    'dental': ('pet-doctor-guide',),
+    'diarrhea': ('pet-doctor-guide',),
+    'vomit': ('pet-doctor-guide',),
+    'limping': ('pet-doctor-guide',),
+    'joint': ('pet-doctor-guide',),
+    'senior': ('pet-doctor-guide',),
+    'not eating': ('pet-doctor-guide',),
+    'hiding': ('pet-doctor-guide',),
+    'litter box': ('pet-doctor-guide',),
+    'teeth': ('pet-doctor-guide',),
+    'vaccin': ('pet-doctor-guide',),
+    'insurance': ('pet-doctor-guide',),
+    'annual': ('pet-doctor-guide',),
+    'how often': ('pet-doctor-guide',),
+    'bookkeeping': ('small-biz-finance-guide',),
+    'quickbooks': ('small-biz-finance-guide',),
+    'accounting': ('small-biz-finance-guide',),
+    'loan': ('small-biz-finance-guide',),
+    'sba': ('small-biz-finance-guide',),
+    'grant': ('small-biz-finance-guide',),
+    'llc': ('small-biz-finance-guide',),
+    'tax': ('small-biz-finance-guide',),
+    'invoice': ('small-biz-finance-guide',),
+    'bank account': ('small-biz-finance-guide',),
+    'credit score': ('small-biz-finance-guide',),
+    'cash flow': ('small-biz-finance-guide',),
+    'separate': ('small-biz-finance-guide',),
+    'payroll': ('small-biz-finance-guide',),
+    'receivable': ('small-biz-finance-guide',),
+}
+
+
 
 def build_section(asins: list) -> str:
     lines = ["\n---\n\n## Recommended Resources\n", DISCLOSURE, "\n"]
@@ -270,7 +386,9 @@ def build_section(asins: list) -> str:
         if asin not in PRODUCTS:
             continue
         name, desc, price = PRODUCTS[asin]
-        lines.append(f"- **[{name}]({amz(asin)})** ({price}) — {desc}\n")
+        name = name.replace(" \u2014 ", ", ")
+        desc = desc.replace(" \u2014 ", ", ").replace("\u2014", ",")
+        lines.append(f"- **[{name}]({amz(asin)})** ({price}), {desc}\n")
     return "".join(lines)
 
 
@@ -279,7 +397,7 @@ def pick_asins(slug: str, title: str) -> list:
     base = list(NICHE_BASE.get(slug, []))
     extras = []
     for kw, asins in KEYWORD_EXTRAS.items():
-        if kw in title_l:
+        if kw in title_l and slug in KEYWORD_SITES.get(kw, ()):
             for a in asins:
                 if a not in base and a not in extras:
                     extras.append(a)
