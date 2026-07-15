@@ -1,0 +1,10 @@
+<div id="pgb" style="position:fixed;top:0;left:0;height:3px;width:0;background:var(--accent,#4338ca);z-index:1000" aria-hidden="true"></div>
+<script>
+(function(){
+  var b=document.getElementById('pgb');if(!b)return;
+  var t=false;
+  function u(){var h=document.documentElement,m=h.scrollHeight-h.clientHeight;b.style.width=(m>0?(h.scrollTop/m)*100:0)+'%';t=false}
+  addEventListener('scroll',function(){if(!t){t=true;requestAnimationFrame(u)}},{passive:true});
+  u();
+})();
+</script>
