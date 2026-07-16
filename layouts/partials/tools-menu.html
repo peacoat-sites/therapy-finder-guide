@@ -30,10 +30,11 @@
 .site-nav .nav-tools-menu .nt-quiz:hover{color:var(--accent,#4338ca)}
 @media (max-width:768px){
   .site-nav .nav-tools{display:block;width:100%}
-  .site-nav .nav-tools-menu{position:static;opacity:1;visibility:visible;transform:none;box-shadow:none;border:0;background:transparent;padding:8px 0 0;min-width:0}
+  .site-nav .nav-tools-menu{position:static;opacity:1;visibility:visible;transform:none;box-shadow:none;border:0;background:transparent;padding:8px 0 0;min-width:0;display:none}
+  .site-nav .nav-tools.open .nav-tools-menu{display:block}
   .site-nav .nav-tools-menu .nt-item{color:rgba(255,255,255,.85)}
   .site-nav .nav-tools-menu .nt-item:hover{background:rgba(255,255,255,.1);color:#fff}
-  .site-nav .nav-tools-menu .nt-quiz{color:#fff;border-bottom-color:rgba(255,255,255,.16)}
+  .site-nav .nav-tools-menu .nt-quiz{color:#fff;border-bottom:0;margin-bottom:0;padding-bottom:9px}
 }
 </style>
 <script>

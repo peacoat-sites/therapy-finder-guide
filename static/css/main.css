@@ -181,7 +181,7 @@ a { color: inherit; text-decoration: none; }
   .post-wrap, .page-wrap { display: block; } .sidebar { display: flex; width: 100%; margin-top: 28px; }
   .articles-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
   .site-nav { display: none; }
-  .nav-toggle { display: block; }
+  .nav-toggle { display: block; order: -1; }
   .hero { padding: 48px 20px; }
   /* Collapse search on mobile — tap hamburger to open nav */
   .site-search { max-width: 160px; }
