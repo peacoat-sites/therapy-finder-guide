@@ -61,3 +61,13 @@ The VA's MDMA trial won't report results for some time. The fact that it launche
 - [VA Launches Clinical Trial Using Hallucinogen to Treat PTSD, Stars and Stripes](https://www.stripes.com/veterans/2026-06-02/ptsd-clinical-trial-mdma-va-21852986.html) (June 2, 2026)
 - [What the VA's New MDMA-Assisted Therapy Trial Signals for Providers, Behavioral Health Business](https://bhbusiness.com/2026/05/28/what-the-vas-new-mdma-assisted-therapy-trial-signals-for-providers/) (May 28, 2026)
 - [VA Launches First Federal MDMA-Assisted Therapy Trial for Veterans, Rainier Rehab](https://rainierrehab.org/blog/2026-05-27-va-mdma-therapy-trial-veterans) (May 27, 2026)
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+

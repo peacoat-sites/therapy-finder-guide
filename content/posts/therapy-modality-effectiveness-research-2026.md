@@ -64,3 +64,13 @@ Second: underestimating the cost of dropout. If someone can't afford $150 per se
 Third: assuming evidence equals fit. The strongest evidence doesn't mean the best choice for your client. A person with OCD and perfectionism might benefit from CBT's exposure protocols, but they might need the relational depth of psychodynamic work to address the underlying self-worth issues that fuel the OCD. Evidence informs; it doesn't dictate.
 
 ---
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
+
