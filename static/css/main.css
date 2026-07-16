@@ -174,11 +174,11 @@ a { color: inherit; text-decoration: none; }
 /* ── RESPONSIVE ── */
 @media (max-width: 900px) {
   .articles-wrap, .list-inner .articles-wrap { grid-template-columns: 1fr; }
-  .sidebar { display: none; }
+  .post-wrap, .page-wrap { display: block; } .sidebar { display: flex; width: 100%; margin-top: 28px; }
 }
 @media (max-width: 768px) {
   .post-wrap, .footer-grid { grid-template-columns: 1fr; }
-  .sidebar { display: none; }
+  .post-wrap, .page-wrap { display: block; } .sidebar { display: flex; width: 100%; margin-top: 28px; }
   .articles-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
   .site-nav { display: none; }
   .nav-toggle { display: block; }
