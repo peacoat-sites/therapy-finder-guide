@@ -1,10 +1,9 @@
+# VIDEO GENERATION PAUSED 2026-07: Shotstack/ElevenLabs cancelled. Cron removed;
+# re-enable by restoring the schedule block and re-subscribing the render services.
 # DISABLED 2026-07-05: Video generation paused (Shotstack/11Labs cancelled)
 name: Publish YouTube Videos
 
 on:
-  schedule:
-    # Wednesday at 10:00 UTC
-    - cron: '0 10 * * 3'
   workflow_dispatch:
     inputs:
       dry_run:
