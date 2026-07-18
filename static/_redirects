@@ -3,3 +3,7 @@
 
 # 2026-07-17 slug-change 301s (GSC 404 cleanup)
 /best-online-therapy-platforms-2026/ /best-online-therapy-platforms/ 301
+
+# 2026-07-18 structural cleanup 301s
+/author/ /about/ 301
+/dr.-chris-peterson/ /dr-chris-peterson/ 301
