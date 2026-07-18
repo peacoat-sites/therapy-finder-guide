@@ -1484,6 +1484,21 @@ When done researching, output ONLY a JSON object (no prose before or after):
         return None
 
     title = _fix_title_caps(brief["title"].replace("—", ", ").replace("  ", " ").strip())
+
+    # Deterministic same-story guard: the radar sometimes re-picks a story already
+    # covered under a reworded title (the prompt-side "do NOT pick" list is advisory
+    # only). Token-overlap against recent topics is the hard stop.
+    _TSTOP = {"the", "and", "for", "what", "now", "new", "you", "your", "how", "why",
+              "with", "that", "this", "are", "just", "into", "from", "2025", "2026"}
+    def _ttoks(s):
+        return {w for w in re.sub(r"[^a-z0-9 ]", " ", str(s).lower()).split()
+                if len(w) > 2 and w not in _TSTOP}
+    _new = _ttoks(title)
+    for _prev in recent_topics:
+        _old = _ttoks(_prev)
+        if _new and _old and len(_new & _old) / len(_new | _old) >= 0.55:
+            print(f"    [topical] near-duplicate of existing '{str(_prev)[:60]}'; skipping")
+            return None
     facts = "\n".join(f"- {f}" for f in brief.get("key_facts", []))
     srcs = brief.get("sources", []) or []
     src_lines = "\n".join(f"- {s.get('title','source')} | {s.get('url','')} | {s.get('published','')}" for s in srcs)
@@ -1624,7 +1639,7 @@ def publish_site(site_name: str, count: int):
         topical = None
         if _slot == 0:
             try:
-                _recent = [s.replace('-', ' ') for s in list(published)[:40]]
+                _recent = [s.replace('-', ' ') for s in published]
                 topical = generate_topical_article(site, persona, voice_style=voice["style"], recent_topics=_recent)
                 if topical and keyword_to_slug(topical["keyword"]) in published:
                     print("    Topical topic already covered; using evergreen")
