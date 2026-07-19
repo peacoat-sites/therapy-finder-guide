@@ -1,0 +1,339 @@
+{
+ "title": "Teletherapy Rules and Typical Session Costs by State (2026)",
+ "note": "PSYPACT status reflects psypact.gov as of July 2026 and covers licensed psychologists only; counselors and social workers have separate compacts still rolling out. Cost ranges are typical self-pay rates for a 45-60 minute individual session compiled from published therapist fee surveys and directory listings; insurance copays are usually far lower. Verify any clinician's license with your state board.",
+ "search_placeholder": "Search your state…",
+ "filters": [
+  {
+   "key": "psypact",
+   "label": "Teletherapy compact"
+  }
+ ],
+ "columns": [
+  {
+   "key": "state",
+   "label": "State",
+   "primary": true
+  },
+  {
+   "key": "psypact",
+   "label": "PSYPACT status"
+  },
+  {
+   "key": "detail",
+   "label": "What it means for you",
+   "wide": true
+  },
+  {
+   "key": "cost",
+   "label": "Typical self-pay session"
+  }
+ ],
+ "rows": [
+  {
+   "state": "Alabama",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Alaska",
+   "psypact": "Joining (2026 law)",
+   "detail": "PSYPACT law enacted in June 2026; cross-state telepsychology opens once participation takes effect. Until then, a psychologist generally needs a license here to treat you.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Arizona",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Arkansas",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$80-$150"
+  },
+  {
+   "state": "California",
+   "psypact": "Not a member",
+   "detail": "A psychologist must generally hold a license in this state to treat you here, even by video. If you move here, a PSYPACT-only psychologist usually cannot keep seeing you.",
+   "cost": "$150-$275"
+  },
+  {
+   "state": "Colorado",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$130-$220"
+  },
+  {
+   "state": "Connecticut",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$130-$220"
+  },
+  {
+   "state": "Delaware",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "District of Columbia",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$150-$250"
+  },
+  {
+   "state": "Florida",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Georgia",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Hawaii",
+   "psypact": "Not a member",
+   "detail": "A psychologist must generally hold a license in this state to treat you here, even by video. If you move here, a PSYPACT-only psychologist usually cannot keep seeing you.",
+   "cost": "$130-$220"
+  },
+  {
+   "state": "Idaho",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Illinois",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Indiana",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Iowa",
+   "psypact": "Joining (2026 law)",
+   "detail": "PSYPACT law enacted in July 2026; cross-state telepsychology opens once participation takes effect. Until then, a psychologist generally needs a license here to treat you.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Kansas",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Kentucky",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Louisiana",
+   "psypact": "Not a member",
+   "detail": "A psychologist must generally hold a license in this state to treat you here, even by video. If you move here, a PSYPACT-only psychologist usually cannot keep seeing you.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Maine",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Maryland",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$130-$220"
+  },
+  {
+   "state": "Massachusetts",
+   "psypact": "Not a member",
+   "detail": "A psychologist must generally hold a license in this state to treat you here, even by video. If you move here, a PSYPACT-only psychologist usually cannot keep seeing you.",
+   "cost": "$150-$250"
+  },
+  {
+   "state": "Michigan",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Minnesota",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Mississippi",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$80-$150"
+  },
+  {
+   "state": "Missouri",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Montana",
+   "psypact": "Not a member",
+   "detail": "A psychologist must generally hold a license in this state to treat you here, even by video. If you move here, a PSYPACT-only psychologist usually cannot keep seeing you.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Nebraska",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Nevada",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "New Hampshire",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "New Jersey",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$130-$220"
+  },
+  {
+   "state": "New Mexico",
+   "psypact": "Not a member",
+   "detail": "A psychologist must generally hold a license in this state to treat you here, even by video. If you move here, a PSYPACT-only psychologist usually cannot keep seeing you.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "New York",
+   "psypact": "Not a member",
+   "detail": "A psychologist must generally hold a license in this state to treat you here, even by video. If you move here, a PSYPACT-only psychologist usually cannot keep seeing you.",
+   "cost": "$150-$300"
+  },
+  {
+   "state": "North Carolina",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "North Dakota",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Ohio",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Oklahoma",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Oregon",
+   "psypact": "Not a member",
+   "detail": "A psychologist must generally hold a license in this state to treat you here, even by video. If you move here, a PSYPACT-only psychologist usually cannot keep seeing you.",
+   "cost": "$130-$220"
+  },
+  {
+   "state": "Pennsylvania",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Rhode Island",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "South Carolina",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "South Dakota",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Tennessee",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Texas",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Utah",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Vermont",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Virginia",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$110-$190"
+  },
+  {
+   "state": "Washington",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$130-$220"
+  },
+  {
+   "state": "West Virginia",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$80-$150"
+  },
+  {
+   "state": "Wisconsin",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  },
+  {
+   "state": "Wyoming",
+   "psypact": "Member",
+   "detail": "A PSYPACT psychologist based in any member state can legally see you by video, and if you move to another member state you can keep the same psychologist.",
+   "cost": "$90-$170"
+  }
+ ]
+}

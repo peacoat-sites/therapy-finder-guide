@@ -1,0 +1,79 @@
+{{/* Generic sortable / filterable / searchable data table + database.
+     Usage: {{< datatable "engines" >}}  where data/engines.json = {title?, note?, search?, filters?[{key,label}], columns[{key,label,primary?,wide?}], rows[{...}]}
+     Reusable across the portfolio (engine specs, carrier comparison, food-safety DBs, glossaries, by-state tables). */}}
+{{ $key := .Get 0 }}{{ $d := index site.Data $key }}
+{{ with $d }}
+<div class="dtbl" data-cfg='{{ . | jsonify }}'>
+  {{ with .title }}<div class="dtbl-head">{{ . }}</div>{{ end }}
+  <div class="dtbl-controls">
+    {{ if ne .search false }}<input class="dtbl-search" type="search" placeholder="{{ .search_placeholder | default "Search…" }}" aria-label="Search table">{{ end }}
+    <div class="dtbl-filters"></div>
+    <span class="dtbl-count" aria-live="polite"></span>
+  </div>
+  <div class="dtbl-scroll"><table class="dtbl-table"><thead></thead><tbody></tbody></table></div>
+  {{ with .note }}<p class="dtbl-note">{{ . }}</p>{{ end }}
+</div>
+<style>
+.dtbl{margin:28px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.dtbl-head{padding:14px 18px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.05rem}
+.dtbl-controls{display:flex;flex-wrap:wrap;align-items:center;gap:10px;padding:14px 16px 4px}
+.dtbl-search{flex:1;min-width:180px;padding:11px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:15px;background:var(--surface,#fff);color:var(--text,#1a1a18);box-sizing:border-box}
+.dtbl-search:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.dtbl-filters{display:flex;flex-wrap:wrap;gap:8px}
+.dtbl-filters select{padding:10px 12px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:14px;background:var(--surface,#fff);color:var(--text,#1a1a18)}
+.dtbl-count{font-size:12.5px;color:var(--muted,#6b6860);margin-left:auto}
+.dtbl-scroll{overflow-x:auto;margin-top:6px}
+.dtbl-table{width:100%;border-collapse:collapse;font-size:14px}
+.dtbl-table th,.dtbl-table td{padding:10px 13px;text-align:left;border-bottom:1px solid var(--border,rgba(0,0,0,.08));vertical-align:top;white-space:nowrap}
+.dtbl-table td.dtbl-wide,.dtbl-table th.dtbl-wide{white-space:normal;min-width:200px}
+.dtbl-table td.dtbl-primary{font-weight:700;white-space:normal}
+.dtbl-table thead th{position:sticky;top:0;background:var(--surface2,#f5f2ec);font-weight:700;cursor:pointer;user-select:none}
+.dtbl-table thead th:hover{color:var(--accent,#c2410c)}
+.dtbl-table thead th .dtbl-arrow{opacity:.4;font-size:10px;margin-left:4px}
+.dtbl-table thead th[aria-sort="ascending"] .dtbl-arrow,.dtbl-table thead th[aria-sort="descending"] .dtbl-arrow{opacity:1;color:var(--accent,#c2410c)}
+.dtbl-table tbody tr:nth-child(even){background:rgba(0,0,0,.018)}
+.dtbl-note{margin:10px 16px 14px;font-size:12px;color:var(--stone,#a09c94)}
+</style>
+<script>
+(function(){
+  var all=document.querySelectorAll('.dtbl'),root=null;
+  for(var i=all.length-1;i>=0;i--){if(!all[i].hasAttribute('data-init')){root=all[i];break;}}
+  if(!root)return; root.setAttribute('data-init','1');
+  var cfg={};try{cfg=JSON.parse(root.getAttribute('data-cfg'));}catch(e){return;}
+  var cols=cfg.columns||[], rows=cfg.rows||[], filters=cfg.filters||[];
+  var thead=root.querySelector('thead'), tbody=root.querySelector('tbody');
+  var search=root.querySelector('.dtbl-search'), fwrap=root.querySelector('.dtbl-filters'), count=root.querySelector('.dtbl-count');
+  var sortKey=null, sortDir=1, fstate={};
+  // header
+  var htr='<tr>';
+  cols.forEach(function(c){htr+='<th data-k="'+c.key+'" class="'+(c.wide?'dtbl-wide':'')+'">'+c.label+'<span class="dtbl-arrow">▲▼</span></th>';});
+  thead.innerHTML=htr+'</tr>';
+  // filters
+  filters.forEach(function(f){
+    var vals=[];rows.forEach(function(r){var v=r[f.key];if(v&&vals.indexOf(v)<0)vals.push(v);});vals.sort();
+    var sel=document.createElement('select');sel.innerHTML='<option value="">'+(f.label||f.key)+': All</option>'+vals.map(function(v){return '<option>'+v+'</option>';}).join('');
+    sel.addEventListener('change',function(){fstate[f.key]=sel.value;render();});
+    fwrap.appendChild(sel);
+  });
+  function num(v){var n=parseFloat(String(v).replace(/[^0-9.\-]/g,''));return isNaN(n)?null:n;}
+  function render(){
+    var q=(search&&search.value||'').toLowerCase().trim();
+    var out=rows.filter(function(r){
+      for(var k in fstate){if(fstate[k]&&String(r[k])!==fstate[k])return false;}
+      if(!q)return true;
+      return cols.some(function(c){return String(r[c.key]==null?'':r[c.key]).toLowerCase().indexOf(q)>=0;});
+    });
+    if(sortKey){out.sort(function(a,b){var av=a[sortKey],bv=b[sortKey],an=num(av),bn=num(bv);var c;if(an!==null&&bn!==null)c=an-bn;else c=String(av==null?'':av).localeCompare(String(bv==null?'':bv));return c*sortDir;});}
+    tbody.innerHTML=out.map(function(r){return '<tr>'+cols.map(function(c){var cl=(c.primary?'dtbl-primary':'')+(c.wide?' dtbl-wide':'');return '<td class="'+cl+'">'+(r[c.key]==null?'':r[c.key])+'</td>';}).join('')+'</tr>';}).join('');
+    if(count)count.textContent=out.length+' of '+rows.length;
+  }
+  thead.querySelectorAll('th').forEach(function(th){th.addEventListener('click',function(){
+    var k=th.getAttribute('data-k'); sortDir=(sortKey===k)?-sortDir:1; sortKey=k;
+    thead.querySelectorAll('th').forEach(function(x){x.removeAttribute('aria-sort');});
+    th.setAttribute('aria-sort',sortDir>0?'ascending':'descending'); render();
+  });});
+  if(search)search.addEventListener('input',render);
+  render();
+})();
+</script>
+{{ else }}<!-- datatable: no data/{{ $key }}.json -->{{ end }}
