@@ -4,7 +4,7 @@ date: 2026-06-24T15:54:38.803222+00:00
 draft: false
 description: "Discover how talk therapy physically rewires neural pathways, reduces stress hormones, and creates lasting brain changes that improve mental health."
 image: "/img/heroes/8560049.jpg"
-categories: ["General Info"]
+categories: ["Getting Started"]
 tags: ["does", "talk", "therapy", "change", "brain"]
 author: "Alex Morgan"
 author_slug: "alex-morgan"

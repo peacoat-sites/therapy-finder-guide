@@ -4,7 +4,7 @@ date: 2026-07-12T14:42:51.977686+00:00
 draft: false
 description: "Struggling to afford mental health care? Explore free and low cost therapy options including sliding scale clinics, apps, and community resources."
 image: "/img/heroes/7176026.jpg"
-categories: ["Cost and Access"]
+categories: ["Cost & Access"]
 tags: ["free", "cost", "therapy", "options"]
 author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"

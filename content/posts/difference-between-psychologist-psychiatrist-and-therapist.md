@@ -4,7 +4,7 @@ date: 2026-06-09T16:19:55.542905+00:00
 draft: false
 description: "Confused about psychologists, psychiatrists, and therapists? Discover the key differences in their training, roles, and treatments to find the right mental heal"
 image: "/img/heroes/9064360.jpg"
-categories: ["General Info"]
+categories: ["Getting Started"]
 tags: ["difference", "between", "psychologist", "psychiatrist", "therapist"]
 slug: "difference-between-psychologist-psychiatrist-and-therapist"
 affiliate_disclosure: true

@@ -4,7 +4,7 @@ date: 2026-07-18T14:36:17.845715+00:00
 draft: false
 description: "Learn the key differences between burnout and depression, including distinct symptoms, causes, and when to seek professional help for each condition."
 image: "/img/heroes/7034474.jpg"
-categories: ["Signs and Symptoms"]
+categories: ["Conditions"]
 tags: ["signs", "burnout", "depression"]
 author: "Kim Davis"
 author_slug: "kim-davis"

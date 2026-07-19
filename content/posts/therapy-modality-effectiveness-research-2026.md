@@ -5,7 +5,7 @@ lastmod: 2026-07-08
 draft: false
 description: "Compare CBT, DBT, EMDR, psychodynamic, and ACT therapy by effectiveness, cost, duration, and what each treats best. Evidence-based guide for clinicians."
 image: "/img/heroes/b310aaec5672.jpg"
-categories: ["Types of Therapy"]
+categories: ["Therapy Types"]
 tags: ["comparison", "2026", "costs", "data"]
 author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"

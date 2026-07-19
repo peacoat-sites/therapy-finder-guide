@@ -4,7 +4,7 @@ date: 2026-07-10T16:00:13.968140+00:00
 draft: false
 description: "Wondering if therapy is right for you? These 7 telling signs suggest it might be time to talk to a mental health professional."
 image: "/img/heroes/23496577.jpg"
-categories: ["Signs and Symptoms"]
+categories: ["Conditions"]
 tags: ["signs", "might", "need", "therapy"]
 author: "Kim Davis"
 author_slug: "kim-davis"

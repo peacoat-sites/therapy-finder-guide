@@ -4,7 +4,7 @@ date: 2026-07-15T15:09:39.864013+00:00
 draft: false
 description: "Discover effective journaling prompts designed to reduce stress, boost mood, and improve mental wellness. Start your daily practice today."
 image: "/img/heroes/6940362.jpg"
-categories: ["Self-Help"]
+categories: ["Getting Started"]
 tags: ["daily", "journaling", "prompts", "mental", "health"]
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"

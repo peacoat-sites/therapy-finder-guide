@@ -4,7 +4,7 @@ date: 2026-06-14T15:29:29.412809+00:00
 draft: false
 description: "Discover how combining antidepressants with therapy can boost treatment outcomes for depression, offering a powerful, evidence-based approach to lasting mental "
 image: "/img/heroes/6255882.jpg"
-categories: ["Treatment"]
+categories: ["Therapy Types"]
 tags: ["antidepressants", "therapy", "combined"]
 slug: "antidepressants-and-therapy-combined"
 affiliate_disclosure: true

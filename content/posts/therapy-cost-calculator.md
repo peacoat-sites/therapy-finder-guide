@@ -6,7 +6,7 @@ slug: "therapy-cost-calculator"
 description: "Use our therapy cost calculator to estimate your out-of-pocket expenses by insurance type. Includes affordable therapy options from $0 to $80 per session."
 author: "Megan Strand"
 image: "/img/heroes/4386370.jpg"
-categories: ["Finding a Therapist"]
+categories: ["Finding Help"]
 tags: ["therapy cost", "therapy affordability", "insurance", "mental health access"]
 faqs:
  - q: "How much does therapy cost without insurance?"

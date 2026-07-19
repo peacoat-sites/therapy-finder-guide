@@ -6,7 +6,7 @@ slug: "gad7-anxiety-screening"
 description: "Take the GAD-7 anxiety screening questionnaire used by clinicians. Get your score, understand severity levels, and learn when to seek professional support."
 author: "Megan Strand"
 image: "/img/heroes/897817.jpg"
-categories: ["Mental Health Assessment"]
+categories: ["Conditions"]
 tags: ["anxiety", "screening", "GAD-7", "mental health assessment"]
 faqs:
  - q: "What does GAD-7 stand for?"
