@@ -125,7 +125,7 @@
 {{ end }}
 
 <!-- FAQPage schema -->
-{{- if and (eq .Type "posts") .Params.faqs }}
+{{- if .Params.faqs }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
