@@ -44,7 +44,7 @@ jobs:
         run: |
           python pipeline/publish.py \
             --site ${{ vars.SITE_NAME }} \
-            --count ${{ github.event.inputs.count || '2' }}
+            --count ${{ github.event.inputs.count || '1' }}
         env:
           ANTHROPIC_API_KEY:        ${{ secrets.ANTHROPIC_API_KEY }}
           PIPELINE_TOKEN:           ${{ secrets.PIPELINE_TOKEN }}
