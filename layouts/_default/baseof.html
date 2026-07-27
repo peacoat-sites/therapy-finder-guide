@@ -8,7 +8,7 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="alternate icon" href="/favicon.svg">
-  {{- if or (eq .Kind "taxonomy") (eq .Kind "term") (and (eq .Kind "section") (not .IsHome)) }}
+  {{- if or (eq .Kind "taxonomy") (eq .Kind "term") (and (eq .Kind "section") (not .IsHome)) .Params.quiz_page }}
   <meta name="robots" content="noindex, follow">
   {{- end }}
 
