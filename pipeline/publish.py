@@ -565,6 +565,17 @@ def build_affiliate_url(asin: str) -> str:
     return f"https://www.amazon.com/dp/{asin}?tag={tag}"
 
 
+_AMZ_TAG_RE = re.compile(r'(https?://[^\s)"\'\]]*amazon\.[a-z.]+/[^\s)"\'\]]*?[?&]tag=)([A-Za-z0-9_-]+)')
+
+def normalize_amazon_tags(text: str) -> str:
+    """The model sometimes writes inline Amazon links with placeholder tags
+    (youraffiliatetag-20, example-20, ...) that earn nothing. Force every
+    Amazon URL tag to the real associate tag before commit."""
+    good = AMAZON_TRACKING_ID or "contentportfo-20"
+    return _AMZ_TAG_RE.sub(lambda m: m.group(1) + good, text)
+
+
+
 def inject_affiliate_links(content: str, niche: str) -> str:
     """
     Inject 1 inline recommendation after the 2nd H2, plus a
@@ -1701,6 +1712,7 @@ def publish_site(site_name: str, count: int):
             )
 
             # Commit
+            markdown  = normalize_amazon_tags(markdown)
             filename  = keyword_to_slug(keyword) + ".md"
             committed = commit_to_github(repo, filename, markdown, f"Add: {keyword}")
             print(f"    Commit: {'ok' if committed else 'FAILED'}")
