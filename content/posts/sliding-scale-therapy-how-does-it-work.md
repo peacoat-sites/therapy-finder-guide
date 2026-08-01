@@ -95,7 +95,7 @@ Bluntly: no, and the assumption that it does is one I'd push back on hard. A the
 
 The research on therapeutic outcomes consistently shows that the quality of the therapist relationship, not the type of therapy or the fee paid, is the strongest predictor of positive results. A 2021 meta-analysis published in Psychotherapy (the APA journal) found that the therapeutic alliance accounted for roughly 7.5% of therapy outcome variance. That's not a number that cares about what you paid per session.
 
-If you want to do some reading between sessions, a workbook like the [Cognitive Behavioral Therapy Workbook for Anxiety by William Knaus](https://www.amazon.com/Cognitive-Behavioral-Workbook-Anxiety-Step/dp/1684034582?tag=yoursiteid-20) can be a useful supplement. (Note: that's an affiliate link, meaning the site may earn a small commission if you purchase.) Self-directed tools don't replace therapy, but they can extend what you're working on.
+If you want to do some reading between sessions, a workbook like the [Cognitive Behavioral Therapy Workbook for Anxiety by William Knaus](https://www.amazon.com/Cognitive-Behavioral-Workbook-Anxiety-Step/dp/1684034582?tag=contentportfo-20) can be a useful supplement. (Note: that's an affiliate link, meaning the site may earn a small commission if you purchase.) Self-directed tools don't replace therapy, but they can extend what you're working on.
 
 ## Sources
 

@@ -90,7 +90,7 @@ The research here is genuinely mixed, and I won't pretend otherwise. Some meta-a
 
 If you do go telehealth, check that your therapist is licensed in your state of residence, not just the state where they're located. This trips people up more than you'd expect, and a licensing board complaint is not how anyone wants to end a therapeutic relationship. The BIPOC-focused directories above list licensure states on most profiles, but verify independently before your first session.
 
-If you're working through anxiety between sessions, a structured workbook can help fill the gap. The [CBT Workbook for Adults by Arlin Cuncic](https://www.amazon.com/dp/1647390052?tag=yourtag-20) is one I've recommended frequently (note: this site may earn a commission from Amazon links). It's practical, not preachy, and it doesn't require you to already understand therapy to use it effectively.
+If you're working through anxiety between sessions, a structured workbook can help fill the gap. The [CBT Workbook for Adults by Arlin Cuncic](https://www.amazon.com/dp/1647390052?tag=contentportfo-20) is one I've recommended frequently (note: this site may earn a commission from Amazon links). It's practical, not preachy, and it doesn't require you to already understand therapy to use it effectively.
 
 ## Sources
 

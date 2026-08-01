@@ -89,7 +89,7 @@ Note that insurance, community mental health centers, and sliding-scale fees can
 
 ## The "I've Tried Everything Else" Threshold
 
-There's a version of this sign I wasn't expecting when I first started this work: people who have genuinely put in real effort to feel better and just... haven't gotten there. They've read the books (if you're in that camp, something like [The Cognitive Behavioral Workbook for Anxiety by William Knaus](https://www.amazon.com/dp/1572249447?tag=mentalhealthsite-20) is a solid starting point, though it works best alongside professional support, not instead of it). They've tried meditation apps. They exercise, eat well, maintain their social connections. And they still feel like something is off.
+There's a version of this sign I wasn't expecting when I first started this work: people who have genuinely put in real effort to feel better and just... haven't gotten there. They've read the books (if you're in that camp, something like [The Cognitive Behavioral Workbook for Anxiety by William Knaus](https://www.amazon.com/dp/1572249447?tag=contentportfo-20) is a solid starting point, though it works best alongside professional support, not instead of it). They've tried meditation apps. They exercise, eat well, maintain their social connections. And they still feel like something is off.
 
 I'll be honest: this used to make me assume the problem was more severe than average. What I've learned since is that "doing everything right and still struggling" is sometimes a sign of something very specific and very treatable, a particular anxiety pattern, a sleep disorder, an attachment wound that self-help tools simply aren't designed to reach. It's not a failure of effort. It's a signal that you need a different kind of tool.
 

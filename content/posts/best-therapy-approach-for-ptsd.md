@@ -96,7 +96,7 @@ Ask how many PTSD clients they've treated with this specific approach in the pas
 
 The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) maintains a helpline and can help with referrals if you're not sure where to start. If you're in acute distress, the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) is available 24/7 and can also help connect you with local mental health resources.
 
-One more thing: if you're doing your own preparatory work between or before sessions, CBT-based workbooks can be genuinely useful as a supplement. Claudia Zayfert and Carolyn Black Becker's *Cognitive-Behavioral Therapy for PTSD: A Case Formulation Approach* is written for clinicians but accessible to motivated readers. For something more self-directed, the [PTSD Workbook by Mary Beth Williams and Soili Poijula](https://www.amazon.com/PTSD-Workbook-Techniques-Overcoming-Traumatic/dp/1572242574?tag=mentalhealthsite-20) offers structured exercises drawn from evidence-based approaches. (Disclosure: the site may earn a commission on Amazon purchases.)
+One more thing: if you're doing your own preparatory work between or before sessions, CBT-based workbooks can be genuinely useful as a supplement. Claudia Zayfert and Carolyn Black Becker's *Cognitive-Behavioral Therapy for PTSD: A Case Formulation Approach* is written for clinicians but accessible to motivated readers. For something more self-directed, the [PTSD Workbook by Mary Beth Williams and Soili Poijula](https://www.amazon.com/PTSD-Workbook-Techniques-Overcoming-Traumatic/dp/1572242574?tag=contentportfo-20) offers structured exercises drawn from evidence-based approaches. (Disclosure: the site may earn a commission on Amazon purchases.)
 
 ## Sources
 
