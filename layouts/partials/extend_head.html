@@ -1,3 +1,4 @@
+{{/* ri-noindex-utility */}}{{ $ri := .RelPermalink }}{{ if or (in $ri "/tags/") (eq $ri "/search/") (in $ri "/page/") }}<meta name="robots" content="noindex, follow">{{ end }}
 {{ with .Site.Params.google_site_verification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
 {{ if .IsHome }}
 <script type="application/ld+json">
