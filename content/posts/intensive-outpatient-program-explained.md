@@ -51,13 +51,11 @@ The intake process at any reputable IOP should include a clinical assessment tha
 
 > **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Programs run anywhere from three to five days a week, usually three to four hours per session. Morning programs, evening programs, some weekend options. The structure matters because it's the point: repetition, consistency, group accountability.
 
 A standard session might include a check-in with the group, a skills-based group focused on something like cognitive behavioral techniques or distress tolerance, sometimes a psychoeducation component, and a brief close. Individual therapy happens separately, often once a week outside the group schedule or folded into the program depending on how it's structured.
 
-The group format catches people off guard. A lot of people assume IOP is just lots of individual therapy. It's mostly group work, with other people who are dealing with similar struggles. This freaks some people out initially. It shouldn't. Group therapy has solid research behind it for several conditions, and hearing someone describe your exact experience out loud, in a room full of people who nod, is genuinely therapeutic in a way that's hard to replicate one-on-one. I've seen people who were resistant to the format become the most vocal advocates for it by week three.
+The group format catches people off guard. A lot of people assume IOP is just lots of individual therapy. Most of the time is spent in group work with others facing similar challenges. This freaks some people out initially. It shouldn't. Group therapy has research support for several conditions. Hearing others describe similar experiences can feel therapeutic in ways that one-on-one sessions don't quite match. Many people who enter skeptical about group format find themselves appreciating it as the program progresses.
 
 Duration typically runs four to eight weeks, sometimes longer. You don't get to opt out of it when you feel better on a Tuesday. That's somewhat the point.
 
@@ -93,7 +91,6 @@ If you're looking for tools to supplement what you're working on in the program,
 
 ---
 
-
 ---
 
 The hard truth about IOPs is that their effectiveness depends heavily on the quality of the specific program and your engagement in it. Showing up and going through the motions won't do much. Showing up and actually practicing the skills outside of sessions will. That's less about the program and more about what you're willing to put in, which is uncomfortable to hear, and also true.
@@ -111,7 +108,6 @@ The hard truth about IOPs is that their effectiveness depends heavily on the qua
 - [NAMI](https://www.nami.org/)
 - [The DBT Skills Workbook](https://www.amazon.com/s?k=DBT+skills+workbook&tag=contentportfo-20)
 - [CBT thought record journal](https://www.amazon.com/s?k=CBT+thought+record+journal&tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

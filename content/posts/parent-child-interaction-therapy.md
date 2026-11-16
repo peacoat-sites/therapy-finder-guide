@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most parents I've worked with arrive at the idea of Parent-Child Interaction Therapy the same way: exhausted, a little ashamed, and quietly terrified that something is permanently broken. Their child is melting down constantly, defying every instruction, maybe hitting or biting or screaming in a way that clears grocery stores. The parents have tried everything the internet suggested. Nothing stuck. And now someone is recommending "therapy" -- which, depending on your background, can feel like being told you've failed.
+Parents often arrive at Parent-Child Interaction Therapy feeling exhausted, a little ashamed, and quietly terrified that something is permanently broken. Their child is melting down constantly, defying every instruction, maybe hitting or biting or screaming in a way that clears grocery stores. The parents have tried everything the internet suggested. Nothing stuck. And now someone is recommending "therapy" -- which, depending on your background, can feel like being told you've failed.
 
 You haven't failed. And here's what I tell people in that first conversation: PCIT is one of the most rigorously studied behavioral interventions we have for young children, with decades of randomized controlled trial data behind it. That's not typical in this field, where a lot of well-meaning approaches are built on clinical intuition more than hard evidence. PCIT is different, and it's worth understanding what you're actually signing up for before your first session.
 
@@ -41,8 +41,6 @@ I want to be honest about something I got wrong early in my career: I assumed CD
 ## Who It's Designed For
 
 > **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 PCIT is designed for children between roughly 2 and 7 years old (some programs extend to age 12 with modifications) who are showing disruptive behavior, defiance, aggression, or emotional dysregulation. It's also been adapted for families where there are concerns about attachment disruptions, [trauma exposure](/how-to-find-a-trauma-informed-therapist/), or where child welfare has been involved. As of June 2026, PCIT-T (the Toddler adaptation for children 12 to 24 months) is gaining traction in early intervention programs, which is exciting given how early the window for attachment intervention really is.
 
@@ -85,7 +83,6 @@ Also: if you're in crisis right now, not a "my child is difficult" crisis but a 
 - McNeil, C.B., & Hembree-Kigin, T.L. (2010): *Parent-Child Interaction Therapy*, 2nd ed., Springer. The primary clinical manual used in therapist training programs.
 
 ---
-
 
 ---
 

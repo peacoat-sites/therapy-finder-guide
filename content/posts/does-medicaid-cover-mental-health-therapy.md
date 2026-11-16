@@ -31,9 +31,7 @@ If you're reading this because you're wondering whether you can afford therapy, 
 
 Let me walk you through what I know, and where the real friction points are.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicaid is federally required to cover mental health services on par with physical health under the Mental Health Parity and Addiction Equity Act.</li><li style="margin:5px 0">As of 2026, all 50 states cover outpatient therapy through Medicaid, but the specifics (session limits, provider types) vary by state.</li><li style="margin:5px 0">Most Medicaid recipients pay $0 to $3 per therapy session, though some states have small copays for higher-income enrollees.</li><li style="margin:5px 0">You don't need a referral in most states to start outpatient therapy, but managed care plans may require prior authorization for certain services.</li><li style="margin:5px 0">Finding a Medicaid-accepting therapist is the hardest part, not the coverage itself.</li></ul></div>
-
 
 ## What Medicaid Is Actually Required to Cover
 
@@ -54,17 +52,13 @@ Traditional fee-for-service Medicaid and Medicaid managed care plans are both bo
 
 > **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Most Medicaid enrollees pay very little out of pocket for mental health services. For people below 150% of the federal poverty level, copays are generally prohibited under federal rules. For enrollees with slightly higher incomes still within Medicaid eligibility, states can charge nominal copays, but federal law caps these. As of July 2026, that cap sits at $4 per visit for outpatient services, though many states charge nothing at all.
 
-A reader named Carlos, who enrolled in Medicaid in Illinois after a job loss in early 2025, told me he'd assumed therapy would still cost him something significant. It didn't. His copay was zero, and his weekly sessions with a licensed clinical social worker were fully covered. The only cost he encountered was $3 for one prescription his psychiatrist recommended.
+Many people newly enrolled in Medicaid assume therapy will still carry significant out-of-pocket costs. In fact, Medicaid often covers therapy with no copay, and weekly sessions with a licensed clinical social worker can be fully covered. Prescription costs through Medicaid are often minimal as well, sometimes just a few dollars per medication.
 
 That said, costs depend heavily on which state you're in and whether you're in a fee-for-service or managed care plan.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical Medicaid outpatient therapy copay by state plan type</div><div class="sc-row"><span class="sc-label">No copay states (e.g. CA, IL)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Low copay states (e.g. TX, FL)</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$3</span></div><div class="sc-row"><span class="sc-label">Max federal cap (any state)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$4</span></div><div class="sc-src">Source: Medicaid.gov coverage rules and state plan data, 2026</div></div>
-
 
 ## The Real Obstacle: Finding a Provider Who Accepts It
 
@@ -96,7 +90,7 @@ Here's a comparison that might clear up the most common questions:
 | EMDR (trauma-focused) | Depends on provider billing | Covered if billed under standard psychotherapy codes by a licensed provider |
 | Experimental treatments (ketamine infusion, etc.) | Generally no | May be available through specialty programs; check state plan |
 
-A scenario worth walking through: Maria, a 34-year-old mother in Georgia, had PTSD following a car accident. She was on Medicaid through the state's Medicaid managed care program. She called member services, was connected to a behavioral health coordinator, and was matched with a licensed professional counselor at a community mental health center within two weeks. The counselor used a trauma-focused CBT protocol. Total cost to Maria: $0. She completed 16 sessions over four months.
+For example, someone with PTSD on Medicaid through a state managed care program could call member services, be connected to a behavioral health coordinator, and be matched with a licensed professional counselor at a community mental health center within two weeks. Trauma-focused CBT protocols are available at no cost, with patients potentially completing 16 sessions over four months without out-of-pocket expenses.
 
 Another scenario: David, enrolled in Medicaid in a state with a managed care plan, sought therapy after a period of significant depression. He found a private-practice therapist through Psychology Today's directory who listed Medicaid as accepted insurance. After 25 sessions, his plan required a prior authorization renewal. His therapist submitted documentation of medical necessity. It was approved within 72 hours. The documentation step surprised him; his therapist handled it entirely.
 
@@ -117,7 +111,6 @@ For people doing adjunct self-guided work alongside therapy, CBT-based workbooks
 - [National Alliance on Mental Illness (NAMI), Insurance and Mental Health](https://www.nami.org/Support-Education/Publications-Reports/Guides/Navigating-a-Mental-Health-Crisis): Guidance on understanding insurance coverage for mental health care
 
 ---
-
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 

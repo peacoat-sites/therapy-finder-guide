@@ -38,7 +38,7 @@ Let me walk you through exactly how 988 works, what actually happens when you re
 
 988 is the Suicide and Crisis Lifeline, a federally designated three-digit dialing code that went live in July 2022. Before that, the same network operated as a ten-digit number, and call volume was frankly low because almost nobody could remember it. The switch to 988 changed that. The network handled millions of contacts in its first full year, and that number has grown steadily since.
 
-Here's the thing people often misunderstand: 988 isn't a single call center. It's a network of over 200 locally operated crisis centers across the country, all connected through a national infrastructure managed by SAMHSA (the Substance Abuse and Mental Health Services Administration). When you call or text 988, you're typically routed to a center near you, staffed by trained crisis counselors. Your call stays local when possible.
+A common misconception is that 988 is a single call center. It's a network of over 200 locally operated crisis centers across the country, all connected through a national infrastructure managed by SAMHSA (the Substance Abuse and Mental Health Services Administration). When you call or text 988, you're typically routed to a center near you, staffed by trained crisis counselors. Your call stays local when possible.
 
 That localization matters more than it sounds. A counselor in your region is more likely to know local resources, local hospitals, local follow-up programs. They're not reading from a generic national script.
 
@@ -47,8 +47,6 @@ That localization matters more than it sounds. A counselor in your region is mor
 ## What Happens When You Call, Text, or Chat
 
 > **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A lot of people don't call because they don't know what to expect. That uncertainty is a real barrier. So here's the honest walkthrough.
 
@@ -98,7 +96,6 @@ Calling 988 once doesn't obligate you to anything. It doesn't open a file on you
 
 ---
 
-
 ---
 
 The number is 988. You can call it right now, or save it for later, or share it with someone who might need it. That's enough for today.
@@ -116,7 +113,6 @@ The number is 988. You can call it right now, or save it for later, or share it 
 - [Dialectical Behavior Therapy Skills Workbook](https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook/dp/1572245131/?tag=contentportfo-20)
 - [SAMHSA's treatment locator](https://findtreatment.gov/)
 - [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

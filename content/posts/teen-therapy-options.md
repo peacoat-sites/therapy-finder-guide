@@ -35,7 +35,7 @@ Teenagers aren't small adults. That's not just something therapists say to justi
 
 A therapist who specializes in adolescents structures sessions completely differently. They spend weeks building rapport before pushing into hard conversations. They adapt techniques for where a 14-year-old actually is developmentally, not just for the diagnosis. Some use art, movement, or games because sitting across from an adult answering questions about your feelings is genuinely awful for most teenagers.
 
-I've watched families try to save money by booking their teen with a general therapist who wasn't trained in adolescent work. The kid went twice, said it was pointless, refused to go back, and months passed before they'd try again. Specialization actually matters.
+A common mistake is booking a teen with a general therapist who isn't trained in adolescent work. Teens often disengage quickly from a poor fit and then resist trying again for months. Specialization actually matters.
 
 Confidentiality works differently with minors too. In most states, therapists have to tell parents about serious safety risks like imminent suicide plans. But they keep everything else private, because your teen needs to believe that venting about a fight with you won't get reported straight back. A solid adolescent therapist explains these boundaries clearly to both of you in session one.
 
@@ -111,7 +111,7 @@ If you're not sure whether your teen needs more than weekly therapy, a consultat
 
 ---
 
-Getting your teenager into solid therapy isn't always quick or painless. There's no perfect roadmap. But the families I've worked with who push through the friction of finding a real fit, who give it actual time, and who support without controlling, those families look back a year later and say it changed everything. Your teen doesn't need to be in crisis to deserve help. They just need to be struggling. And that's enough.
+Getting your teenager into solid therapy isn't always quick or painless. There's no perfect roadmap. Families who push through the friction of finding a real fit, who give it actual time, and who support without controlling often find the work worthwhile. Your teen doesn't need to be in crisis to deserve help. They just need to be struggling. And that's enough.
 
 ## Sources & References
 

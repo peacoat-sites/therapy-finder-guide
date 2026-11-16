@@ -35,8 +35,6 @@ The timing matters. The enhanced Federal Medical Assistance Percentage that help
 
 > **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 What most people don't realize is how Medicaid services are categorized. Federal law divides them into mandatory services and optional ones. Inpatient hospital care and physician services are mandatory. Behavioral health services, including outpatient therapy and many substance use treatment programs, are classified as optional. That single word carries enormous consequences when states face budget shortfalls.
 
 When federal dollars shrink, states have to find cuts somewhere. Optional services go first. They're legally easier to reduce, they serve populations with less political power, and the harm is diffuse enough that it takes time to show up in headlines. The APA has been tracking this closely, and their [2026 analysis of new policies affecting mental health access](https://updates.apaservices.org/new-policies-affecting-access-to-mental-health-care) documents exactly this pattern playing out across states already.
@@ -63,7 +61,7 @@ And if you're approaching the 2027 work-requirement deadline with anxiety about 
 
 ## The Bigger Picture Isn't Going Away
 
-I've seen what happens when people lose continuity of care. The research is unambiguous: interrupted mental health treatment leads to worse outcomes, higher rates of crisis, more emergency department visits, and in the worst cases, the kind of tragedies Idaho experienced. The people most likely to lose coverage under these cuts are the people who can least afford a gap in care.
+Losing continuity of care has serious consequences. Interrupted mental health treatment leads to worse outcomes, higher rates of crisis, more emergency department visits, and in the worst cases, serious tragedies. The people most likely to lose coverage under these cuts are the people who can least afford a gap in care.
 
 None of this means you should give up on accessing help. It means you should act sooner rather than later, ask more questions than feels comfortable, and know your rights. The system is genuinely harder to navigate right now, and that's not a personal failing. It's a policy outcome. If you're struggling to find care or you're worried about losing coverage, please reach out to a professional who can assess your specific situation and help you figure out your options. You shouldn't have to do this alone, even when the systems meant to help you are being pulled out from under you.
 

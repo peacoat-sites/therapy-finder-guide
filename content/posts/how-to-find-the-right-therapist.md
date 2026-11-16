@@ -60,7 +60,7 @@ Ask real questions:
 
 Listen to how they answer. Are they rushing? Do they deflect or actually engage? Do you feel like a person or like you're being processed?
 
-Honestly, this call tells you more than their website ever will.
+This call tells you more than their website ever will.
 
 ## Don't Settle on the First Try
 

@@ -29,7 +29,7 @@ You've been seeing your therapist for eight months. You don't dread the appointm
 
 ## The Difference Between a Rough Patch and a Real Problem
 
-Therapy isn't supposed to feel good all the time. I want to be direct about that upfront, because one of the most common mistakes I've seen is people leaving a therapist right when the work was about to get real. Discomfort is often a sign you're getting somewhere. Crying, feeling frustrated, sitting with something hard between sessions: all of that is normal, even productive.
+Therapy isn't supposed to feel good all the time. I want to be direct about that upfront, because A common mistake is leaving a therapist right when the work is about to get real. Discomfort is often a sign you're getting somewhere. Crying, feeling frustrated, sitting with something hard between sessions: all of that is normal, even productive.
 
 What's different is a persistent, weeks-long sense that you're not moving. Or a feeling that your therapist doesn't quite see you. Or moments where you leave the session feeling genuinely worse with no sense of why that's useful.
 
@@ -97,7 +97,7 @@ If you want to do some grounding work between sessions while you're in transitio
 
 ## A Note on Guilt, and Why You Should Let It Go
 
-I've seen so many people stay in a therapeutic relationship that wasn't working because they didn't want to hurt the therapist's feelings. Let me say this plainly: your therapist is a licensed professional. Clients come and go. A well-adjusted therapist understands this, and a truly good one will want you to find the right fit, even if that's not them.
+Many people stay in a therapeutic relationship that isn't working because they don't want to hurt the therapist's feelings. Let me say this plainly: your therapist is a licensed professional. Clients come and go. A well-adjusted therapist understands this, and a truly good one will want you to find the right fit, even if that's not them.
 
 Guilt can also show up as second-guessing. "What if I'm just being avoidant?" Maybe. But avoidance usually looks like quitting therapy altogether, not actively seeking a better match. The fact that you're still invested enough to look for someone new says something good about where you are.
 

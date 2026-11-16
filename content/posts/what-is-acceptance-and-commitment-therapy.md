@@ -31,13 +31,11 @@ Acceptance and Commitment Therapy (usually pronounced like the word "act," not t
 
 That distinction matters more than it might sound.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">ACT is an evidence-based therapy that teaches psychological flexibility, not positive thinking or thought elimination.</li><li style="margin:5px 0">Six core processes (defusion, acceptance, present-moment awareness, self-as-context, values, committed action) form its foundation.</li><li style="margin:5px 0">A 2012 meta-analysis of 39 randomized controlled trials found ACT outperformed control conditions across anxiety, depression, chronic pain, and addiction.</li><li style="margin:5px 0">Sessions typically run 8-16 weeks, though chronic pain and trauma presentations often run longer.</li><li style="margin:5px 0">ACT works alongside medication and is commonly used when other therapies have plateaued.</li></ul></div>
-
 
 ## The Six Processes (And Why They're Not What You Think)
 
-ACT is built around what Hayes calls the "psychological flexibility model." There are six interlocking processes, and I want to be honest with you: when I first encountered them listed out, my eyes glazed over a little. They sounded abstract. But in practice, in an actual session, they click into place in a way that can feel surprisingly confrontational.
+ACT is built around what Hayes calls the "psychological flexibility model." There are six interlocking processes. They can sound abstract when listed out, but in practice they often click into place during an actual session in a way that feels surprisingly confrontational.
 
 **Cognitive defusion.** This is the one that surprises people most. Standard CBT asks you to challenge a thought: "Is there evidence for this belief?" ACT asks you to notice that you're having a thought. Instead of "I'm a failure," you practice saying "I'm having the thought that I'm a failure." It sounds small. Research suggests it's not. A study published in *Behaviour Research and Therapy* (2006, Masuda et al.) found that defusion techniques reduced the believability and distress associated with negative self-statements more effectively than thought distraction or thought restructuring, in some conditions.
 
@@ -55,9 +53,7 @@ ACT is built around what Hayes calls the "psychological flexibility model." Ther
 
 > **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-A reader named Marcus (he gave me permission to share this in general terms) came into ACT after two years of on-and-off CBT for health anxiety. He'd gotten decent at identifying cognitive distortions but kept relapsing whenever a new physical symptom appeared. His therapist started doing something different with him: instead of disputing the thought "this headache might be serious," she had him hold the thought loosely, observe it like a cloud passing, and then ask: "What would someone who values being present with his kids do [right now](/the-va-is-testing-mdma-assisted-therapy-for-ptsd-right-now/)?"
+For example, someone might come into ACT after months of CBT for health anxiety. They may have gotten decent at identifying cognitive distortions but keep relapsing whenever a new physical symptom appears. A therapist might try something different: instead of disputing the thought "this headache might be serious," they have the person hold the thought loosely, observe it like a cloud passing, and then ask: "What would someone who values being present with their kids do [right now](/the-va-is-testing-mdma-assisted-therapy-for-ptsd-right-now/)?"
 
 That reframe took about six sessions to feel natural to him. By week ten, he was reporting that he still had the health-related thoughts, but they had less grip. He wasn't spending three hours on symptom-checker websites anymore.
 
@@ -85,8 +81,6 @@ If you're trying to find an ACT therapist, SAMHSA's treatment locator at [findtr
 
 ## The Things ACT Gets Wrong (Or At Least Oversells)
 
-I want to be fair here because I've seen ACT presented as a near-universal solution, and that's not quite honest.
-
 Values clarification sounds elegant in theory. In practice, some people, especially those with histories of trauma, dissociation, or severe depression, struggle enormously to connect with what they value. Asking someone in a depressive episode "what matters to you?" can feel almost cruel. Good ACT therapists know this and pace accordingly. Less skilled practitioners can rush it.
 
 The mindfulness components also aren't right for everyone. People with certain trauma backgrounds, particularly those prone to dissociation, can find formal mindfulness exercises destabilizing. If that's you, tell your therapist. There are adapted versions.
@@ -110,7 +104,6 @@ For mild-to-moderate anxiety or a kind of low-grade "I'm fine but not thriving" 
 - [SAMHSA's treatment locator](https://findtreatment.gov/): Official U.S. resource for finding licensed mental health and substance use providers.
 
 ---
-
 
 *Photo: [Lucas Pezeta](https://www.pexels.com/@lucaspezeta) via Pexels*
 

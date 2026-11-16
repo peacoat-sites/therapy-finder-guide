@@ -73,7 +73,7 @@ SAMHSA doesn't treat everyone the same way, and that's actually helpful. The res
 
 ## Low-Cost and Free Mental Health Support Through SAMHSA's Network
 
-Cost stops people from getting help. I've seen it happen to people who really needed care. SAMHSA-funded Community Mental Health Centers (CMHCs) are required to offer services on a sliding-fee scale based on income. Some provide care at no cost for individuals below a certain income threshold.
+Cost stops people from getting help. SAMHSA-funded Community Mental Health Centers (CMHCs) are required to offer services on a sliding-fee scale based on income. Some provide care at no cost for individuals below a certain income threshold.
 
 Federally Qualified Health Centers (FQHCs), many of which receive SAMHSA block grant funding, integrate behavioral health into primary care and also use sliding-scale fees. Find them through the Health Resources and Services Administration's finder at findahealthcenter.hrsa.gov.
 

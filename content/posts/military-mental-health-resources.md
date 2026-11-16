@@ -25,15 +25,13 @@ faqs:
     a: "Plan for 60 to 90 minutes. You'll complete paperwork, provide basic history, and usually meet with a social worker or psychologist for an initial assessment. Bring your DD-214 if you have it, though it's not always required on the first visit. After that appointment, wait times for ongoing therapy vary significantly by facility."
 ---
 
-Most people assume military [mental health care](/medicaid-cuts-are-coming-for-mental-health-care-now-what/) is either unavailable or buried under so much red tape it's not worth pursuing. I've spent years working alongside VA clinical teams and veteran peer support programs, and I'll be honest: that assumption is partially earned. The system is genuinely complicated. But what surprised me, the deeper I got into this work, was how many solid, often free resources exist right now that servicemembers and veterans simply don't know about, or have written off based on outdated information.
+Most people assume military [mental health care](/medicaid-cuts-are-coming-for-mental-health-care-now-what/) is either unavailable or buried under so much red tape it's not worth pursuing. That assumption is partially earned. The system is genuinely complicated. Many solid, often free resources exist right now that servicemembers and veterans simply don't know about, or have written off based on outdated information.
 
 The landscape has shifted meaningfully in the past few years. Stigma inside military culture around [mental health](/community-mental-health-center-access/) help-seeking hasn't evaporated, but it has softened, particularly among younger cohorts. Access gaps remain real, especially in rural areas and for National Guard and Reserve members who aren't on active installations. And the bureaucratic friction at the VA is genuine. But the resources themselves? Considerably better than most people in uniform believe.
 
 Let me walk through what actually exists, what works, and a few things I'd tell a servicemember or veteran before they make their first call.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Veterans can access free mental health care through VA facilities with no copay for most mental health services.</li><li style="margin:5px 0">The 988 Suicide and Crisis Lifeline (press 1) connects veterans to specialized crisis counselors 24/7.</li><li style="margin:5px 0">TRICARE covers mental health for active duty, dependents, and many reservists, often with no referral needed.</li><li style="margin:5px 0">Military OneSource offers up to 12 free counseling sessions per issue for non-medical concerns.</li><li style="margin:5px 0">The research on peer support programs is strong: veteran-to-veteran models show measurably better engagement than clinician-only models.</li></ul></div>
-
 
 ## What's Actually Available (and Who Qualifies for What)
 
@@ -60,17 +58,15 @@ One resource I'd add that doesn't get enough attention: the Vet Center Program. 
 
 > **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-I'm not going to pretend it isn't. I've had veterans tell me they'd rather white-knuckle through insomnia and hypervigilance for years than have anything in their service record that might affect a security clearance. That fear is not irrational. Command culture still varies wildly. And the concern about career impact, though overstated in many cases, deserves honest acknowledgment.
+I'm not going to pretend it isn't. Some veterans prefer to white-knuckle through insomnia and hypervigilance for years rather than have anything in their service record that might affect a security clearance. That fear is not irrational. Command culture still varies wildly. And the concern about career impact, though overstated in many cases, deserves honest acknowledgment.
 
 Here's what I can say with some confidence: seeking care through Military OneSource, the Veterans Crisis Line, or community-based Vet Centers involves records that are, in most cases, handled separately from military personnel files. The VA's mental health records are not automatically shared with employers or security clearance investigators. The research here is more reassuring than most veterans assume, but I'd encourage anyone with a specific clearance concern to consult the security clearance attorneys or JAG officers who specialize in this, because the details genuinely matter.
 
-What I'll say plainly: untreated PTSD, depression, and alcohol use disorder are far more likely to end a career or a marriage than seeking help. That's not a platitude. I've watched it happen in both directions.
+What I'll say plainly: untreated PTSD, depression, and alcohol use disorder are far more likely to end a career or a marriage than seeking help. That's not a platitude.
 
 ## Peer Support: Underrated, Evidence-Backed
 
-This one surprised me when I first dug into the data seriously. Peer support specialists, veterans who've been through mental health treatment themselves and are trained to support others, show measurably better engagement outcomes than clinician-only models for many veteran populations. A 2021 study published in *Psychiatric Services* found that veteran peer support programs were associated with significantly higher rates of treatment initiation and session attendance compared to standard referral processes.
+Peer support specialists, veterans who've been through mental health treatment themselves and are trained to support others, show measurably better engagement outcomes than clinician-only models for many veteran populations. A 2021 study published in *Psychiatric Services* found that veteran peer support programs were associated with significantly higher rates of treatment initiation and session attendance compared to standard referral processes.
 
 The VA now employs thousands of peer support specialists across the country. They're not replacing therapists. But for a veteran who's on the fence, a peer who can say "here's exactly what my first VA intake appointment looked like, here's what the waiting room smells like, here's what they asked me" is sometimes more effective than any brochure.
 
@@ -84,9 +80,7 @@ The Veterans Crisis Line also has a chat option at VeteransCrisisLine.net, which
 
 For active duty members, installation Military Family Life Counselors (MFLCs) provide confidential support without generating medical records. They're not able to provide ongoing therapy, but for a servicemember who's in a rough patch and wants to talk to someone without any documentation, MFLCs are specifically designed for that.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">VA Mental Health Patients Seen (millions)</div><div class="sc-row"><span class="sc-label">2021</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">1.9 million </span></div><div class="sc-row"><span class="sc-label">2022</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">1.9 million </span></div><div class="sc-row"><span class="sc-label">2023</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">2 million </span></div><div class="sc-row"><span class="sc-label">2024</span><span class="sc-track"><span class="sc-bar" style="width:98%"></span></span><span class="sc-val">2.1 million </span></div><div class="sc-row"><span class="sc-label">2025</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">2.1 million </span></div><div class="sc-src">Source: VA Mental Health Report, 2025</div></div>
-
 
 ## Finding a Therapist Outside the VA
 
@@ -105,7 +99,6 @@ A few workbooks I've seen used effectively in clinical settings alongside therap
 - VA Office of Mental Health and Suicide Prevention Annual Report (2025): Data on VA mental health patient volumes and program reach
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

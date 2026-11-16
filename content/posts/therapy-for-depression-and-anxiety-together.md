@@ -56,7 +56,7 @@ You also want someone trained in at least one evidence-based modality mentioned 
 
 Start with [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists), which lets you filter by specialty, insurance, and location. Most listings include a statement from the therapist that tells you quickly how they work. If cost or access is an issue, [SAMHSA's treatment locator](https://findtreatment.gov/) can help you find sliding-scale and community options.
 
-On cost: therapy for depression and anxiety typically runs $100 to $250 per session out of pocket depending on your city and the therapist's background. With insurance, your copay might be $20 to $60. Telehealth has genuinely expanded access. Platforms like Alma or Headway specialize in connecting people with insurance-paneled therapists. I'm not affiliated with any of these, but I've seen them work well for people who assumed they couldn't afford care.
+On cost: therapy for depression and anxiety typically runs $100 to $250 per session out of pocket depending on your city and the therapist's background. With insurance, your copay might be $20 to $60. Telehealth has genuinely expanded access. Platforms like Alma or Headway specialize in connecting people with insurance-paneled therapists. These platforms can be useful for people who assume they can't afford care.
 
 ## What the First Few Months Actually Look Like
 

@@ -70,7 +70,7 @@ For *daily* use, the second one tends to be most practical. You're not schedulin
 
 **Sanvello** (formerly Pacifica) is another one I recommend constantly. About $8.99 per month after a free tier, it combines mood tracking, guided journeys based on CBT and mindfulness, and a community forum. The community piece is genuinely valuable for people who feel isolated, though I'd caution against relying on peer forums for [anything crisis-related](/samhsa-mental-health-resources/).
 
-**Daylio** is strictly a mood and habit journal. No therapy content, no AI. Just a fast, frictionless way to log how you're feeling with a note and some activities. I've seen people get extraordinary insight from six months of Daylio data: patterns they'd never noticed. Their worst days reliably followed poor sleep. Bad moods clustered around a specific relationship. Costs $3.99 per month for premium and honestly represents one of the best values in this space.
+**Daylio** is strictly a mood and habit journal. No therapy content, no AI. Just a fast, frictionless way to log how you're feeling with a note and some activities. Many people gain valuable insight from six months of Daylio data, spotting patterns like worst days following poor sleep or bad moods clustering around specific relationships. Premium costs $3.99 per month.
 
 ---
 

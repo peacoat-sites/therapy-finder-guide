@@ -25,7 +25,7 @@ author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 lastmod: 2026-07-08
 ---
-You're on hour three of sitting with something that feels too heavy to carry alone, and you don't know if what you're feeling counts as a "real" emergency. You're not sure if you should call someone, and you don't want to overreact. I've seen this exact moment play out more times than I can count, and the thing I want to say first is: if you're wondering whether you need help, that question itself is worth taking seriously.
+You're on hour three of sitting with something that feels too heavy to carry alone, and you don't know if what you're feeling counts as a "real" emergency. You're not sure if you should call someone, and you don't want to overreact. If you're wondering whether you need help, that question itself is worth taking seriously.
 
 Mental health crises don't always look like what we see in movies. Sometimes they're quiet. Sometimes they're weeks of slow erosion that suddenly tips over. Knowing where to turn before you're in that moment, or right in the middle of it, can genuinely change what happens next.
 
@@ -76,7 +76,7 @@ Hospitalization is a last resort, not a first response. The goal is stabilizatio
 
 ## Beyond the Immediate Crisis: What Comes Next
 
-Getting through a crisis night is one thing. The days and weeks afterward matter enormously. I've watched people survive a really hard night and then drift without structure, making another episode more likely.
+Getting through a crisis night is one thing. The days and weeks afterward matter enormously. The days after a hard night matter enormously. Without structure, another episode becomes more likely.
 
 Once you're steadier, a few things help:
 

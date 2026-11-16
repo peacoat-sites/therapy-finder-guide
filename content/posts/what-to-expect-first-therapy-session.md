@@ -39,7 +39,7 @@ That reframe matters a lot. People walk in expecting to immediately unpack their
 
 In most settings, your therapist will ask about what brought you in, a brief history of your mental health (previous treatment, hospitalizations, diagnoses), your current life, your relationships, your physical health, and what you're hoping to get out of treatment. That's a lot for 45 to 55 minutes, so conversations stay broad rather than deep. Don't expect to scratch the surface of your main concern.
 
-I've seen clients leave their first session feeling almost disappointed it wasn't more intense. That's completely normal. Depth comes with time.
+Many people leave their first session feeling almost disappointed it wasn't more intense. That's completely normal. Depth comes with time.
 
 ---
 
@@ -120,7 +120,7 @@ If after your first session you decide the therapist isn't the right fit, or if 
 
 ---
 
-Therapy can change your life. That's not a marketing line. It's something I've watched happen, slowly and unglamourously, in real people sitting in ordinary office chairs. But it starts with one session, and that session starts with walking through the door, or clicking a link, or calling a number. The first session doesn't have to go perfectly. It just has to happen.
+Therapy can change your life. Change happens slowly and unglamourously, not in dramatic breakthroughs but in gradual shifts. But it starts with one session, and that session starts with walking through the door, or clicking a link, or calling a number. The first session doesn't have to go perfectly. It just has to happen.
 
 ## Sources & References
 

@@ -30,8 +30,6 @@ The July 2026 APA journal batch actually published a companion paper alongside t
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where things got genuinely important in the last several months. For a long time, PDTs existed in a reimbursement dead zone: FDA-cleared, clinically validated, and completely uncovered by insurance, which meant the cost fell entirely on patients. That's been changing fast.
 
 In September 2025, Cigna Healthcare announced it would begin covering FDA-approved prescription digital therapeutics, becoming one of the first major commercial insurers to open that door. Then in November 2025, CMS expanded its digital mental health treatment billing codes to include FDA-authorized digital therapeutics for ADHD, with those codes taking effect in 2026. For Medicare patients especially, this is a real shift.
@@ -57,7 +55,7 @@ The third thing to know is that PDTs are not designed to replace therapy or medi
 
 ## The Wellness App Problem Isn't Going Away
 
-I've seen people spend real money on apps promising to "rewire" their anxiety or "optimize" their depression, and then feel ashamed when the app didn't work, as if they'd failed the algorithm. What most people don't realize is that those apps were never held to a standard that would require them to actually work.
+Many people spend money on apps promising to "rewire" anxiety or "optimize" depression, then feel ashamed when the app doesn't work, as if they've failed the algorithm. Those apps were never held to a standard that would require them to actually work.
 
 The FDA clearance requirement for PDTs exists precisely to protect against that. But it also means the PDT market is still small. The number of FDA-cleared mental health PDTs you can actually be prescribed today is limited, and the conditions they address are still fairly narrow. ADHD, insomnia, substance use disorders, and some anxiety applications have the most traction right now.
 

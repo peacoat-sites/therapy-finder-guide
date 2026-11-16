@@ -93,7 +93,7 @@ Research generally suggests meaningful change in couples therapy requires at lea
 
 **One partner doesn't want to go.**
 
-This is extremely common. I've seen couples where one person spent three months in individual therapy working up courage to propose couples therapy, only to have their partner flatly refuse. If this is you, don't give up. Sometimes a reframe helps: rather than "we need couples therapy because we have problems," try "I'd love for us to invest in our relationship together." Some therapists will do an initial individual session with the reluctant partner to lower the stakes.
+This is extremely common. One partner may spend weeks or months in individual therapy working up courage to propose couples therapy, only to have the other flatly refuse. If this is you, don't give up. Sometimes a reframe helps: rather than "we need couples therapy because we have problems," try "I'd love for us to invest in our relationship together." Some therapists will do an initial individual session with the reluctant partner to lower the stakes.
 
 **You live somewhere with limited options.**
 
@@ -121,7 +121,7 @@ Progress isn't linear. There are weeks of breakthrough and weeks of backsliding.
 
 ---
 
-The search for a couples therapist can feel like one more thing to fight about, or one more task to avoid. But you don't have to do it perfectly. Make a few calls this week. Ask the questions. See how it feels. The relationship you're in right now isn't necessarily the relationship you'll have in a year with the right support. That's not an empty promise, it's what the evidence shows.
+Finding a couples therapist can feel like one more thing to fight about, or one more task to avoid. But you don't have to do it perfectly. Make a few calls this week. Ask the questions. See how it feels. The relationship you're in right now can shift significantly with the right support.
 
 ## Sources & References
 

@@ -25,7 +25,7 @@ author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 lastmod: 2026-07-08
 ---
-Most people spend more time picking a Netflix show than figuring out if their therapist is actually in-network. Then the bill arrives for $250 a session and suddenly everything makes sense. I've watched this play out enough times that it's basically the origin story for half the "I tried therapy and it was too expensive" conversations I hear.
+Most people spend more time picking a Netflix show than figuring out if their therapist is actually in-network. Then the bill arrives for $250 a session and suddenly everything makes sense. This pattern is behind many "I tried therapy and it was too expensive" complaints.
 
 Finding a therapist who takes your specific insurance plan is genuinely annoying. But it's also learnable, and once you know the actual steps, it stops feeling like deciphering ancient runes.
 

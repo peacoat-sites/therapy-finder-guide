@@ -25,7 +25,7 @@ faqs:
     a: "Start with brief, structured modalities (CBT, EMDR, ACT). If the presenting problem resolves but deeper patterns emerge, or if gains plateau, that signals a need for longer-term psychodynamic or DBT work. Trust the data, then trust the clinical feedback."
 ---
 
-I've spent twenty years in clinical settings watching people choose therapy modalities based on what they've heard rather than what actually works for their specific condition. The good news is that we have solid research now. The better news is that these five major approaches each excel at different problems, and understanding those differences can mean the difference between six months of progress and three years of spinning wheels.
+People often choose therapy modalities based on what they've heard rather than what actually works for their specific condition. The good news is that we have solid research now. The better news is that these five major approaches each excel at different problems, and understanding those differences can mean the difference between six months of progress and three years of spinning wheels.
 
 {{< therapy-effectiveness >}}
 
@@ -47,7 +47,7 @@ Cost differences reflect credential requirements and session structure. DBT sess
 
 I tell my clinical team: if someone has depression or generalized anxiety and they want relief in three to six months, CBT is your first-line choice. The data here is unambiguous. Twelve to twenty sessions, structured homework, and strong evidence. Cost-effective. Clients know what to expect.
 
-If someone has PTSD from a specific incident, a car accident, assault, combat deployment, EMDR belongs in your conversation. Six to twelve sessions is dramatically faster than open-ended work, and the evidence for PTSD is genuinely strong. I've seen people who've carried trauma for fifteen years make meaningful shifts in three months with EMDR.
+If someone has PTSD from a specific incident, a car accident, assault, combat deployment, EMDR belongs in your conversation. Six to twelve sessions is dramatically faster than open-ended work, and the evidence for PTSD is genuinely strong. Research shows EMDR can produce meaningful shifts in trauma symptoms within three months.
 
 Borderline personality disorder and chronic self-harm require DBT. This is non-negotiable in my clinic. The evidence is strongest here, and the structured combination of skills training and individual therapy addresses both the emotion dysregulation and the behavioral crises. It demands time and commitment, six to twelve months, but it works when other approaches have failed.
 

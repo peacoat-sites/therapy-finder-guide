@@ -35,7 +35,7 @@ The person you're talking to has credentials: a licensed clinical social worker 
 
 Video is most common and mirrors in-person therapy most closely. Phone sessions work for people without solid internet or those who just prefer it. Some platforms offer text-based therapy where you message back and forth with your therapist over days. Clinicians debate this last one because real-time connection drops off, but it works for certain people pursuing specific goals.
 
-I've watched skeptical clients become video therapy's biggest fans after a few sessions. The doubt is usually whether anything real happens through a screen. It does. The therapeutic relationship, one of the strongest predictors of whether therapy actually works, forms just as meaningfully on video. A 2018 meta-analysis in the *Journal of Affective Disorders* found telehealth cognitive behavioral therapy produced outcomes matching in-person CBT for depression and anxiety. That's a significant finding.
+Many people skeptical about video therapy become convinced after a few sessions. The main concern is usually whether anything real happens through a screen, but research suggests the answer is yes. The therapeutic relationship, one of the strongest predictors of whether therapy actually works, forms just as meaningfully on video. A 2018 meta-analysis in the *Journal of Affective Disorders* found telehealth cognitive behavioral therapy produced outcomes matching in-person CBT for depression and anxiety.
 
 ## Who Telehealth Therapy Works Best For
 

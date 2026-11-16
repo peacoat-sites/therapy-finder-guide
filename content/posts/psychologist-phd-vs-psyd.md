@@ -52,8 +52,6 @@ What surprised me was how defensive people on both sides can get about this. PhD
 
 > **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 A PhD student in a clinical psychology program at, say, the University of Minnesota or Penn is spending meaningful time in a research lab, possibly running studies, contributing to grant applications, and taking statistics and methodology courses that go well beyond what most clinicians ever use. The clinical training is still thorough, often excellent. But the program is explicitly training scientist-practitioners.
 
 A PsyD student at a program like Rutgers or the Chicago School of Professional Psychology arrives on day one understanding that their primary output is going to be clinical service. They'll log more supervised clinical hours on average before graduation. The dissertation exists, but it often looks different, more like a program evaluation or a literature synthesis than a new empirical study.
@@ -66,7 +64,7 @@ This is the single most consequential practical difference, and it's buried in f
 
 Both degrees lead to the same license: psychologist. Both allow independent practice, psychological testing, diagnosis, and psychotherapy. In virtually every U.S. state, the title "[licensed psychologist](/therapist-vs-psychologist-vs-psychiatrist/)" is available to graduates of accredited PhD and PsyD programs who complete supervised hours and pass the EPPP (Examination for Professional Practice in Psychology).
 
-Patients, in my experience asking them directly, rarely know which degree their psychologist holds. They care about whether the person helps. That's not a dismissal of the credential difference. It's just an honest acknowledgment that the letters don't automatically predict the quality of the therapeutic relationship, which is still the best predictor of clinical outcomes we have.
+Many patients rarely know which degree their psychologist holds. They care about whether the person helps. The credential letters don't automatically predict the quality of the therapeutic relationship, which remains the best predictor of clinical outcomes.
 
 What does matter in practice: if you want to work in academia, teach at a research university, or run clinical trials, a PhD from an APA-accredited program at a research institution is the path. The expectation in those settings is that you can read and produce empirical work at a high level. A PsyD signals clinical depth, which is what hospital systems, group practices, and community mental health centers are actually hiring for.
 
@@ -92,7 +90,6 @@ For anyone in or approaching this field who wants to think more rigorously about
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
@@ -106,7 +103,6 @@ For anyone in or approaching this field who wants to think more rigorously about
 - [NAMI](https://www.nami.org/)
 - [CBT workbook or clinical skills journal](https://www.amazon.com/s?k=CBT+workbook+therapist)
 - [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

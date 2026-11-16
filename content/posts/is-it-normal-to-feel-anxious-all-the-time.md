@@ -31,13 +31,11 @@ That's the question I get more than almost any other, and the honest answer is m
 
 Let me try to actually answer it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Occasional anxiety is normal; anxiety present most days for 6+ months warrants clinical evaluation</li><li style="margin:5px 0">Generalized Anxiety Disorder (GAD) affects roughly 6.8 million U.S. adults, but many go undiagnosed for years</li><li style="margin:5px 0">Persistent anxiety has measurable physical effects: elevated cortisol, disrupted sleep, heightened cardiovascular risk over time</li><li style="margin:5px 0">Therapy (particularly CBT) shows about a 60% response rate for GAD; medication adds meaningful benefit for roughly half of non-responders</li><li style="margin:5px 0">Feeling anxious constantly is not a character flaw, a weakness, or something you should just push through</li></ul></div>
-
 
 ## When "Normal" Stops Meaning Anything Useful
 
-Here's a thing I used to get wrong: I spent years telling people that anxiety was "normal" as a kind of reassurance, without asking what they meant by it. Then a client (I'll call her Diane, a 34-year-old teacher from Columbus) described waking up every morning with dread before she even remembered what day it was. For two years. Nothing had happened. There was no identifiable threat. Her body had just decided this was the default setting.
+A common mistake is telling people that anxiety is "normal" as a kind of reassurance, without asking what they mean by it. Some people wake up every morning with dread before they even remember what day it is. For months or years. Nothing happened to trigger it. There's no identifiable threat. Their body has just adopted this as the default setting.
 
 That's not garden-variety stress response. That's a nervous system stuck in a loop.
 
@@ -48,8 +46,6 @@ Temporary anxiety spikes, sharp and specific, are your threat-detection system d
 ## What's Actually Happening in Your Body
 
 > **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Anxiety isn't just a feeling. Chronic activation of the stress response means your hypothalamic-pituitary-adrenal (HPA) axis is running hot. Cortisol stays elevated. Your cardiovascular system is under consistent low-level strain. Sleep architecture degrades (specifically the deep, restorative Stage 3 NREM sleep, which is where your brain files the day's memories and your immune system does repair work). A 2013 study published in *JAMA Internal Medicine* found that persistent anxiety was associated with a 26% increased risk of fatal coronary heart disease in adults over 65, even after controlling for other risk factors.
 
@@ -105,7 +101,6 @@ A worked example worth knowing: Marcus, a 28-year-old software engineer, came to
 - [Psychology Today Therapist Directory](https://www.psychologytoday.com/us/therapists): Searchable database with insurance filter and sliding-scale options, current as of July 2026
 
 ---
-
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 

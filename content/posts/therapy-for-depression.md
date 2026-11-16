@@ -31,7 +31,7 @@ It's 2 p.m. on a Tuesday and you haven't left your bedroom in three days. The di
 
 This is the cruelest part. Depression, almost by design, attacks the exact resources you need to fight it. Motivation? Gone. Concentration? Scattered. The ability to believe things could get better? Severely compromised. Researchers call this "motivational impairment," and it's one of the core reasons people with depression wait an average of 11 years between the onset of symptoms and actually receiving treatment, according to data frequently cited by mental health advocacy organizations.
 
-I've worked alongside clinical teams long enough to see this pattern repeat constantly. Someone will say, "I've known I needed help for years." They weren't in denial. They were exhausted in a way that made making a phone call feel genuinely impossible.
+People often say, "I've known I needed help for years." This isn't denial. Sometimes the exhaustion is so profound that making a phone call feels genuinely impossible.
 
 This matters because it changes what advice actually makes sense. Telling someone with depression to "just book an appointment" misses the point entirely. The barrier isn't information. It's the illness itself. So before we talk about types of therapy, let's agree on something: if you're reading this and you're in that 2 p.m. Tuesday state, any step forward counts as progress. Even reading one more paragraph. If you're in crisis right now, the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) is available 24/7 by call or text. That's where to start if the ground feels unstable.
 

@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 Most parents don't plan to end up in co-parenting therapy. They land there after something breaks. A judge recommends it. A school pickup turns into a shouting match. Your kid suddenly refuses to go to the other parent's house. You show up because you need this fixed, not because you want to work on yourself. That context shapes everything about how the therapy actually works.
 
-
 <div class="value-module">
  <div class="vm-head">Session Red Flags vs. Progress Signs</div>
  <div class="vm-body">
@@ -73,7 +72,7 @@ Meaningful change usually takes 12 to 24 sessions, though some families keep mon
 
 Sometimes a co-parenting therapist will bring the child into a session. Not to mediate or give opinions, but to observe how both parents interact with them present, or to understand how the child is processing the transition. That's different from individual child therapy, and a good clinician will be clear about the distinction.
 
-If your child is showing real distress, anxiety, regression, behavioral changes, they need their own separate therapist. Co-parenting therapy doesn't replace that. I've seen families try to do everything with one provider to save money. It doesn't work. The child needs their own neutral space.
+If your child is showing real distress, anxiety, regression, behavioral changes, they need their own separate therapist. Co-parenting therapy doesn't replace that. Trying to do everything with one provider to save money typically backfires. The child needs their own neutral space.
 
 If a child is expressing hopelessness or mentioning self-harm, that's beyond what co-parenting therapy handles. Call or text [988](https://988lifeline.org/) to reach the Suicide and Crisis Lifeline. They handle people of all ages.
 

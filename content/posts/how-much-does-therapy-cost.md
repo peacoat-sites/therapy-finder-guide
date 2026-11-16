@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You've finally decided to make that call. Weeks of thinking about it, and now you're on a therapist's website, ready to book. Then you see it: "Session fee: $200." Your stomach drops. You close the tab.
 
-I've watched this exact moment stop people cold, and it genuinely bothers me, because most of them had no idea how many options were actually out there.
+This moment often stops people in their tracks, usually because they don't realize how many options are actually available.
 
 Therapy costs are confusing as hell. The range is massive, the variables pile up, and insurance rules seem designed to discourage you. But once you understand what actually drives the price, you can find something that works for your budget. Here are the real numbers.
 

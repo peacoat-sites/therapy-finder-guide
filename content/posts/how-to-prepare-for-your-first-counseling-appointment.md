@@ -25,15 +25,13 @@ faqs:
     a: "If you're in immediate distress, call or text 988 (the Suicide and Crisis Lifeline, available 24/7 in the US). Don't wait for your scheduled appointment. Your first therapy session is not the right venue for an acute crisis, and reaching out to a crisis line is not a sign you've 'escalated' beyond help. It's using the right resource at the right time."
 ---
 
-Most people sit down for their [first therapy session](/what-to-expect-first-therapy-session/) without having prepared a single thing. And honestly? That's fine. You don't have to arrive polished. But here's what I've watched happen dozens of times across my career working with clinical intake teams: people walk out of that first session feeling like they didn't say what they actually came to say. Not because the therapist was bad. Because they hadn't spent ten minutes thinking through what they needed the other person to know.
+Most people sit down for their [first therapy session](/what-to-expect-first-therapy-session/) without having prepared a single thing. And honestly? That's fine. You don't have to arrive polished. A common pattern: people walk out of their first session feeling like they didn't say what they actually came to say. Not because the therapist was bad. Because they hadn't spent ten minutes thinking through what they needed the other person to know.
 
 That's what this is for.
 
 You might be wondering whether "preparing" for therapy sounds weirdly clinical, like you're prepping for a job interview. I get that. But what I mean is much simpler: knowing what to bring, what to expect, and how to show up without burning half the session on logistics and paperwork anxiety. According to the American Psychological Association, nearly 50% of people who seek therapy report feeling nervous or uncertain before their very [first session](/questions-to-ask-a-therapist-before-first-session/). That's not a character flaw. That's just a very human response to doing something new and vulnerable with a stranger.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Write down 2-3 specific things you want your therapist to know before the first session, not a full history.</li><li style="margin:5px 0">First sessions typically run 45-55 minutes and are mostly intake and goal-setting, not deep emotional work.</li><li style="margin:5px 0">Bring your insurance card and any medication list; some practices charge a $25-$50 no-show fee if you cancel late.</li><li style="margin:5px 0">It's normal to feel underwhelmed after session one. That's not a sign of a bad fit.</li><li style="margin:5px 0">You are allowed to ask about the therapist's approach before committing to ongoing sessions.</li></ul></div>
-
 
 ## What to Actually Bring (and What You Don't Need)
 
@@ -41,7 +39,7 @@ Let's do the practical stuff first, because almost no one talks about it and the
 
 Your insurance card, if you're using insurance. A photo ID. Any intake forms the practice sent you (most will email these ahead of time now; if you haven't gotten them by two days before your appointment, call the office, because the administrative delay is often where things break down). If you're on any psychiatric medications, or even medications that affect your mood or sleep, write them down with dosages. Your therapist isn't your prescriber, but that information matters for the full picture.
 
-Here's the thing I didn't know my first time sitting through an intake process with a client: many practices have you fill out a PHQ-9 (a standardized nine-question [depression screening](/depression-screening/)) and a GAD-7 (anxiety screening) right there in the waiting room before you've even met anyone. Your scores go in your chart. It sounds clinical and cold, but knowing this ahead of time means you won't be blindsided by a clipboard full of questions about suicidal ideation before you've had a chance to sit down. It's routine. It doesn't mean they already think something is wrong with you.
+Many practices have you fill out a PHQ-9 (a standardized nine-question [depression screening](/depression-screening/)) and a GAD-7 (anxiety screening) right there in the waiting room before you've even met anyone. Your scores go in your chart. It sounds clinical and cold, but knowing this ahead of time means you won't be blindsided by a clipboard full of questions about suicidal ideation before you've had a chance to sit down. It's routine. It doesn't mean they already think something is wrong with you.
 
 You don't need a diagnosis. You don't need a clear reason. You don't need notes, a symptom timeline, or a prepared speech.
 
@@ -49,15 +47,13 @@ You don't need a diagnosis. You don't need a clear reason. You don't need notes,
 
 > **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Write down three things. Not a full history. Not a crisis timeline. Just three sentences or phrases that answer this question: "What do I most want this person to understand about why I'm here?"
 
-It sounds almost too simple. But I've seen people spend 40 minutes of a 50-minute first session circling around something they never quite said, and then leave feeling like the therapist didn't "get" them. The therapist was doing their job. The client just hadn't given themselves permission to say the hard part out loud first.
+It sounds almost too simple, but it's common for people to spend 40 minutes of a 50-minute first session circling around something they never quite name, then leave feeling like the therapist didn't "get" them. The therapist was doing their job. The client just hadn't given themselves permission to say the hard part out loud first.
 
 Here's what this might look like in practice:
 
-"Client Maria, 34, came in saying she was there for 'work stress.' After writing her three things the night before, she realized the actual sentence was: 'I've been having panic attacks in the car before I get to the office and I haven't told anyone.' She led with that in session one. Her therapist was able to start building a CBT-based plan around panic response by week three, instead of still assessing root causes at week six."
+For example, someone might come in saying they're there for "work stress," but after thinking it through beforehand, realize the core issue is: "I've been having panic attacks in the car before I get to the office and I haven't told anyone." Leading with that in session one means the therapist can start building a CBT-based plan around panic response by week three, instead of still assessing root causes at week six.
 
 That's not a small difference. That's potentially three weeks of progress.
 
@@ -84,15 +80,13 @@ You might be wondering what type of therapy you're even signing up for. Here's a
 
 Prices vary significantly by location, provider licensure (a licensed psychologist charges more than a licensed counselor), and whether you're using insurance. As of July 2026, many insurance plans cover 20-52 outpatient mental health visits per year at the same copay rate as primary care, depending on your plan. That change came from the Mental Health Parity and Addiction Equity Act being more consistently enforced, though enforcement still varies by state. If you're searching for an in-network provider, [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by insurance, specialty, and distance, which saves a lot of phone calls.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average out-of-pocket cost per therapy session by type (US, 2026)</div><div class="sc-row"><span class="sc-label">CBT</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">$150</span></div><div class="sc-row"><span class="sc-label">Psychodynamic</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">$185</span></div><div class="sc-row"><span class="sc-label">EMDR</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">$190</span></div><div class="sc-row"><span class="sc-label">ACT</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">$150</span></div><div class="sc-row"><span class="sc-label">DBT</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$210</span></div><div class="sc-row"><span class="sc-label">Person-Centered</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">$135</span></div><div class="sc-src">Source: Open Path Collective &amp; GoodTherapy 2025-2026 data</div></div>
-
 
 ## Managing the Emotions Before You Walk In
 
 Some people feel relief driving to their first appointment. Others feel dread, or a bizarre urge to cancel that comes out of nowhere at 9 PM the night before. Both are normal. I'd actually say the urge-to-cancel response is more common than most people admit.
 
-What I've started telling people is this: the goal for session one is just to show up and tell the truth. That's it. You don't have to feel better afterward. You're not supposed to be "cured" by hour one. First sessions, in my experience, often feel more draining than relieving because you've just introduced yourself to someone new while talking about hard things. That emotional flatness after a first session is not a sign you chose the wrong therapist.
+The goal for session one is just to show up and tell the truth. That's it. You don't have to feel better afterward. You're not supposed to be "cured" by hour one. First sessions often feel more draining than relieving because you've just introduced yourself to someone new while talking about hard things. That emotional flatness after a first session is not a sign you chose the wrong therapist.
 
 If you want to do something genuinely useful in the days before your appointment, consider keeping a short mood journal. Nothing elaborate. Even something like the [Therapy Notebook's CBT Journal](https://www.amazon.com/dp/B09XYZ1234) (Amazon affiliate link; the site may earn a small commission) can help you capture patterns before your first session that would otherwise feel impossible to explain verbally. What you notice between sessions is often the most honest data you have.
 
@@ -115,7 +109,6 @@ It wasn't. And it isn't for you either.
 - Open Path Collective & GoodTherapy (2025-2026): Session cost range data by therapy modality, used in the comparison table above.
 
 ---
-
 
 *Photo: [Alexsandro Rosa de Mello](https://www.pexels.com/@alexrosamello) via Pexels*
 

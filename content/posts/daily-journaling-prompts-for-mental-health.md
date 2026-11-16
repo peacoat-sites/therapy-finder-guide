@@ -35,7 +35,7 @@ But here's what that study also showed, and what almost nobody mentions: vague e
 
 I've handed clients (and workshop participants) those generic prompt lists. "What are you grateful for?" "What's one positive thing that happened today?" And I watch people's faces. Polite nod. Slight eye-roll they try to suppress.
 
-The problem isn't gratitude. Gratitude practice has real evidence behind it. The problem is that vague prompts let anxious minds slide off the surface of the actual issue. You write "I'm grateful for my dog and my coffee" and close the notebook having done absolutely nothing therapeutic.
+Gratitude practice has real evidence behind it, but vague prompts can be ineffective. Gratitude practice has real evidence behind it. You write "I'm grateful for my dog and my coffee" and close the notebook having done absolutely nothing therapeutic.
 
 A prompt earns its place when it creates a little friction. Not pain, friction. It should make you think, "Hm, I don't know the answer to that immediately." That pause is where the useful stuff lives.
 
@@ -81,7 +81,7 @@ People argue about this more than warranted. The honest answer: it depends on wh
 
 When someone is in acute distress, freewriting can quickly become rumination in disguise. You think you're processing; you're actually rehearsing the bad story. Structured prompts with specific questions force a shift in perspective that raw venting doesn't.
 
-When someone is relatively stable and wants deeper self-knowledge, freewriting is often more revealing. You can follow a thread somewhere unexpected. I've seen people write their way into insights in freewriting that no prompt would have found.
+When someone is relatively stable and wants deeper self-knowledge, freewriting is often more revealing. Without a prompt, you can follow a thread somewhere unexpected and discover unexpected insights.
 
 My actual advice: start with structured prompts for the first 10-15 minutes. If something catches, set the prompt aside and follow it.
 
@@ -95,9 +95,9 @@ Three concrete outcomes I've seen in the referral and education work I do:
 
 Mia, a 34-year-old teacher in Phoenix who came to me after a panic attack at work, started using the "what's the worst realistic vs. most likely outcome" prompt every morning before school. After six weeks, she tracked that her pre-work anxiety rating dropped from an average of 7/10 to about 4/10 on her own scale. She still started therapy. Journaling prepared her to articulate what was actually happening.
 
-A reader emailed me in early 2026 after reading something I wrote about CBT self-help. He'd been using daily structured prompts for three months and said he finally understood, for the first time, what his therapist meant by "cognitive distortions." The journaling made the therapy make sense.
+Structured prompts can make concepts from therapy clearer. Daily prompts that focus on thoughts and patterns may help readers understand what therapists mean by terms like "cognitive distortions" and connect the practice to their therapy work.
 
-And my own experience: I thought for years that I was journaling "right" because I wrote a lot. Long entries. Daily. Then I started actually reviewing what I'd written and realized I was writing the same paragraph, slightly reworded, about the same three problems, over and over. No movement. That's when I switched to prompt-based structure, specifically the relationship and self-awareness prompts above. The repetition stopped almost immediately.
+A common pitfall is writing long entries without reviewing them. It's easy to circle through the same thoughts without forward movement. Switching to prompt-based structure, especially relationship and self-awareness prompts, can break that pattern and create space for new insights.
 
 ## How This Fits (And Doesn't Replace) Professional Support
 

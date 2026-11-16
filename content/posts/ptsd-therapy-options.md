@@ -33,7 +33,7 @@ If this sounds like your nights, or if you're watching someone you care about li
 
 Post-Traumatic Stress Disorder is a psychiatric condition that can develop after experiencing or witnessing a traumatic event. Combat, sexual assault, accidents, childhood abuse, natural disasters, sudden loss. The trigger list is long, and so is the variation in how people experience it.
 
-What's happening in your brain isn't weakness. It's not "not getting over it." Research shows that trauma physically rewires how the brain processes threat and memory. Your amygdala, the brain's alarm system, gets stuck in overdrive. Your prefrontal cortex, the part that reasons and regulates emotion, quiets down. It's neurology, not character.
+What's happening in your brain isn't weakness or a failure to move past what occurred. Trauma physically rewires how the brain processes threat and memory. Your amygdala, the brain's alarm system, gets stuck in overdrive. Your prefrontal cortex, the part that reasons and regulates emotion, quiets down. It's neurology, not character.
 
 PTSD shows up in four main symptom categories:
 
@@ -48,7 +48,7 @@ For a diagnosis to stick, symptoms have to last more than a month and actually w
 
 > **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Here's the thing: not all therapy works equally well for PTSD. Generic talk therapy where you just describe what happened can sometimes re-traumatize you instead of healing you. The therapies with real research backing them are designed specifically to process traumatic memories safely and change how your brain stores them.
+Not all therapy works equally well for PTSD. Generic talk therapy where you just describe what happened can sometimes re-traumatize you instead of healing you. The therapies with real research backing them are designed specifically to process traumatic memories safely and change how your brain stores them.
 
 **Cognitive Processing Therapy (CPT)**
 

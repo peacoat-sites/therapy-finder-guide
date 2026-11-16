@@ -27,13 +27,11 @@ faqs:
 
 Most people assume therapy for chronic pain is a last resort, something doctors suggest when they've run out of real options. I used to think that too.
 
-Here's the number that changed my mind: according to the American Psychological Association, psychological interventions for chronic pain produce effect sizes comparable to pharmacological treatments, roughly 0.4 to 0.5 on standardized pain scales, without the dependency risks or GI side effects. That's not a footnote. That's a headline that never quite made it out of the research literature and into mainstream pain management conversations. I'll be honest, when I first read through the clinical trial data, I expected to find polite evidence for a polite intervention. What I found instead was a body of research that's been quietly accumulating since the early 1980s and is, as of July 2026, finally getting traction in integrated pain clinics across the country.
+According to the American Psychological Association, psychological interventions for chronic pain produce effect sizes comparable to pharmacological treatments, roughly 0.4 to 0.5 on standardized pain scales, without the dependency risks or GI side effects. This represents substantial evidence that has been accumulating since the early 1980s and is increasingly integrated into pain management clinics.
 
 The idea that "it's all in your head" has poisoned this whole area. Chronic pain is real, physiological, and often devastating. Therapy doesn't work because it convinces you the pain isn't happening. It works because the brain's pain-processing architecture is genuinely modifiable, and certain therapeutic approaches are specifically designed to change how the nervous system interprets and amplifies pain signals. That distinction matters enormously.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CBT for chronic pain reduces pain interference by roughly 30-40% in multiple RCTs, not just pain intensity.</li><li style="margin:5px 0">ACT (Acceptance and Commitment Therapy) shows strong results for pain-related disability even when pain intensity doesn't fully decrease.</li><li style="margin:5px 0">A typical course of pain-focused therapy runs 8-12 sessions; some protocols show benefits in as few as 4.</li><li style="margin:5px 0">Therapy doesn't replace medical care; the strongest outcomes come from integrated approaches combining both.</li><li style="margin:5px 0">Telehealth has dramatically expanded access, many pain-focused therapists now see patients remotely.</li></ul></div>
-
 
 ## Why the Brain Is Actually the Right Target
 
@@ -45,21 +43,17 @@ What surprised me was how rarely this gets explained to patients. I've talked wi
 
 > **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where the research gets genuinely interesting, and where I'd push back against treating "therapy" as one undifferentiated thing. The approaches most studied for chronic pain are quite different from each other.
 
 **Cognitive Behavioral Therapy (CBT)** has the deepest evidence base. A 2019 Cochrane review of 75 trials found that CBT produced small-to-moderate reductions in pain intensity, and more meaningfully, moderate reductions in disability and improvements in mood and quality of life. The disability finding is important. For many people with chronic pain, the goal can't realistically be zero pain. It can be a life that functions despite pain. CBT directly targets the thought patterns and avoidance behaviors that turn acute pain into a condition that restructures someone's entire life.
 
-**Acceptance and Commitment Therapy (ACT)** works differently. It doesn't try to change or challenge pain-related thoughts; it aims to reduce the struggle against them. The target is "psychological flexibility," the ability to pursue what matters to you even while pain is present. I've seen this framework click for people who found CBT felt like they were being told to "think positive," which is a misreading of CBT but a real perception barrier. A 2020 meta-analysis in PAIN journal found ACT produced significant improvements in pain interference, depression, and quality of life, with effect sizes that matched or exceeded CBT in some domains.
+**Acceptance and Commitment Therapy (ACT)** works differently. It doesn't try to change or challenge pain-related thoughts; it aims to reduce the struggle against them. The target is "psychological flexibility," the ability to pursue what matters to you even while pain is present. Some people perceive CBT as asking them to "think positive," which is a misreading of CBT but can present a real barrier to engagement. A 2020 meta-analysis in PAIN journal found ACT produced significant improvements in pain interference, depression, and quality of life, with effect sizes that matched or exceeded CBT in some domains.
 
 **Pain Neuroscience Education (PNE)**, as I mentioned above, is less a standalone treatment than a preparation for treatment. A short structured course, sometimes as few as 2-3 sessions, can shift patients' conceptual model of pain from "tissue damage = pain signal" to "pain = brain output shaped by many factors," which dramatically improves engagement with subsequent interventions.
 
 **Mindfulness-Based Stress Reduction (MBSR)** developed by Jon Kabat-Zinn at UMass Medical School has a solid evidence base for chronic pain, particularly for conditions involving high emotional distress. The research is mixed on pure pain intensity reductions, I'll say that plainly, but quality of life, mood, and sleep improvements are consistent. For someone whose pain has ground down their sense of self over years, that's not a small thing.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average pain-related disability reduction by therapy type</div><div class="sc-row"><span class="sc-label">CBT</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">32%</span></div><div class="sc-row"><span class="sc-label">ACT</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">34%</span></div><div class="sc-row"><span class="sc-label">MBSR</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">PNE alone</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">Integrated (CBT + medical)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">41%</span></div><div class="sc-src">Source: Cochrane Reviews &amp; PAIN Journal meta-analyses, 2019-2021</div></div>
-
 
 ## What to Actually Expect from Treatment
 
@@ -104,7 +98,6 @@ On the self-directed side, some people find CBT-based workbooks genuinely useful
 - [Vowles, K.E., et al. (2020) in PAIN: ACT meta-analysis, pain interference and quality of life outcomes](https://journals.lww.com/pain/)
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

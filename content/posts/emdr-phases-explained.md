@@ -31,25 +31,21 @@ EMDR, which stands for Eye Movement Desensitization and Reprocessing, gets descr
 
 Here's what I tell people when they're sitting across from me trying to decide whether to try it: the phases aren't just procedural checkboxes. Each one exists because there's a real clinical reason it comes before the next. Understanding the shape of the process helps enormously with the anxiety of not knowing what's coming.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">EMDR has 8 distinct phases; most clients spend multiple sessions in phases 3-6 before completing treatment.</li><li style="margin:5px 0">Bilateral stimulation (eye movements, tapping, or audio tones) is used only in phases 4-6, not the entire process.</li><li style="margin:5px 0">Trauma processing doesn't begin until the therapist confirms the client has adequate coping skills, usually in phase 2.</li><li style="margin:5px 0">A single EMDR course can range from 3 sessions for a single-incident trauma to 2+ years for complex trauma histories.</li><li style="margin:5px 0">EMDR is recognized by the WHO, VA, and APA as an evidence-based treatment for PTSD.</li></ul></div>
-
 
 ## Before the Eye Movements Even Start
 
-I want to address the thing I got wrong when I first started working alongside EMDR clinicians: I assumed the bilateral stimulation (the back-and-forth eye movements, or the tapping, or the audio tones) was basically the whole treatment. A lot of people assume this. It isn't. The first two phases can take several sessions, and skipping them is how you end up with a client who destabilizes between appointments.
+A common misconception about EMDR is that the bilateral stimulation (the back-and-forth eye movements, or the tapping, or the audio tones) is basically the whole treatment. It isn't. The first two phases can take several sessions, and skipping them is how you end up with a client who destabilizes between appointments.
 
 **Phase 1: History and Treatment Planning.** Your therapist is doing a lot of work here that isn't immediately visible. They're asking about your history, your current symptoms, your relationships, your physical health. But underneath that, they're assessing what clinicians call your "window of tolerance." That's the range within which you can process difficult emotional material without either shutting down completely or flooding. They're also identifying what EMDR calls "targets," the specific memories or experiences that will become the focus of processing. Not every distressing memory is a target, and a good EMDR therapist will prioritize carefully.
 
 One thing only someone inside this process would notice: the [first session](/questions-to-ask-a-therapist-before-first-session/) often ends and you think, "we didn't do anything yet." That feeling is normal and it's actually a good sign. It means your therapist isn't rushing.
 
-**Phase 2: Preparation.** This is where your therapist teaches you stabilization skills, things like the "Safe Place" exercise (building a mental image of somewhere you feel completely at ease), container techniques for tucking difficult material away between sessions, and whatever grounding methods work for your nervous system. The rule I've seen good EMDR therapists follow is that they won't move to active processing until they're confident you can tolerate distress without falling apart in the parking lot afterward. That confidence has to be earned, not assumed.
+**Phase 2: Preparation.** This is where your therapist teaches you stabilization skills, things like the "Safe Place" exercise (building a mental image of somewhere you feel completely at ease), container techniques for tucking difficult material away between sessions, and whatever grounding methods work for your nervous system. Good EMDR therapists won't move to active processing until they're confident you can tolerate distress without falling apart afterward. That confidence has to be earned, not assumed.
 
 ## The Assessment Phase (Phase 3)
 
 > **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This one is short in clock time but precise in what it does. The therapist helps you bring a specific target memory into focus and identifies several things with clinical exactness:
 
@@ -102,9 +98,7 @@ For finding a trained EMDR therapist, the EMDR International Association's direc
 
 If you're doing EMDR work and your therapist has recommended [journaling between](/journaling-between-therapy-sessions/) sessions, something like *The PTSD Workbook* by Mary Beth Williams and Soili Poijula can be genuinely useful as a companion (affiliate link; the site may earn a small commission if you purchase through it). I'd be cautious about using it as a substitute for therapy, but as a supplement to structured EMDR work, it holds up.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated EMDR session ranges by trauma type</div><div class="sc-row"><span class="sc-label">Single-incident adult</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">8 sessions</span></div><div class="sc-row"><span class="sc-label">Single-incident childhood</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">14 sessions</span></div><div class="sc-row"><span class="sc-label">Combat PTSD</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">30 sessions</span></div><div class="sc-row"><span class="sc-label">Complex/developmental</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">75 sessions</span></div><div class="sc-row"><span class="sc-label">Phobia only</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">4 sessions</span></div><div class="sc-src">Source: EMDR International Association clinical guidelines, 2024</div></div>
-
 
 ## Sources
 
@@ -115,7 +109,6 @@ If you're doing EMDR work and your therapist has recommended [journaling between
 - [VA/DoD Clinical Practice Guideline for PTSD (2023)](https://www.healthquality.va.gov/guidelines/mh/ptsd/): Lists EMDR among strongly recommended treatments for PTSD
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

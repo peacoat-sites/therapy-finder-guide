@@ -30,8 +30,6 @@ What most people don't realize is that therapists themselves have been stuck. Ad
 
 > **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 IPT is a structured, time-limited therapy focused on improving interpersonal relationships as a way to relieve depression. The core idea is that depression doesn't happen in a vacuum, it's connected to grief, life transitions, role conflicts, and social isolation. A 2026 meta-analysis published in the *Annual Review of Clinical Psychology* confirmed IPT shows "moderate to large effects" in treating depression across both adults and adolescents, which makes it a strong candidate for adaptation rather than something to replace wholesale.
 
 The new framework, published in [*American Journal of Psychotherapy* Volume 79, Issue 2](https://psychiatryonline.org/doi/10.1176/appi.psychotherapy.20240069), targets autistic individuals with verbal skills suitable for brief psychotherapy. That qualifier matters. This isn't a one-size-fits-all solution for every autistic person, it's a carefully scoped starting point for a specific subgroup who previously had very few options.
@@ -58,7 +56,7 @@ You don't need a therapist who has read the exact June 2026 paper. You need one 
 
 The [APA's July 2026 journal releases](https://www.eurekalert.org/news-releases/1134466) specifically spotlighted the IPT-autism framework as one of the field's notable recent publications. That kind of professional signal matters because it shapes continuing education priorities, training program content, and what therapists actually learn in the coming years. It's a slow process, but the direction is right.
 
-I've seen what happens when autistic adults finally find therapy that accounts for how they actually think and relate. The change isn't always dramatic or fast. But there's a qualitative difference between sitting in a session that treats your neurology as the obstacle versus one that starts from where you actually are. The research is slowly catching up to what autistic adults and their advocates have been saying for years.
+Autistic adults often report a qualitative difference between therapy that treats neurology as the obstacle versus therapy that starts from where they actually are. The change isn't always dramatic or fast, but it can be meaningful. The research is slowly catching up to what autistic adults and their advocates have been saying for years.
 
 ## How to Find Support Now
 

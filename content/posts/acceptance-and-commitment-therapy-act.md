@@ -76,7 +76,7 @@ This is where it becomes real. Once you're clear on your values, ACT asks you to
 
 The research on ACT is solid. A 2021 meta-analysis in *Psychiatric Research* found it was significantly effective for depression, anxiety, chronic pain, substance use, and OCD, along with several other conditions.
 
-In my experience watching clinical teams work, ACT resonates strongest with people who've "done therapy before" without things sticking. A lot of them say it's the first approach that didn't feel like gaslighting them into forced positivity.
+ACT tends to resonate with people who've tried therapy before without lasting results. Many find it appeals because it doesn't push forced positivity or dismiss their difficult emotions.
 
 Some of the most studied uses:
 
@@ -146,7 +146,6 @@ ACT won't promise you a pain-free life. That's exactly why it's credible. What i
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
 - [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)
 - [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

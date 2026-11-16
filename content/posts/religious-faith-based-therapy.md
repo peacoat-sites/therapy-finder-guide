@@ -31,21 +31,17 @@ Faith-based therapy takes spirituality seriously as a clinical tool, not just a 
 
 ## What the Numbers Actually Show
 
-Here's the statistic that stopped me cold when I first saw it: a meta-analysis published in *Psychotherapy* (2018) by Hook, Captari, and colleagues found that religiously and spiritually integrated treatments produced effect sizes statistically equivalent to standard secular therapies, with a combined effect size of approximately d = 0.50 across 47 studies. That's not "a little helpful for religious people." That's genuinely comparable to the mainstream approaches the field spent decades validating.
+Consider this statistic: a meta-analysis published in *Psychotherapy* (2018) by Hook, Captari, and colleagues found that religiously and spiritually integrated treatments produced effect sizes statistically equivalent to standard secular therapies, with a combined effect size of approximately d = 0.50 across 47 studies. That's not "a little helpful for religious people." That's genuinely comparable to the mainstream approaches the field spent decades validating.
 
 The American Psychological Association formally recognized spiritually integrated psychotherapy as a legitimate clinical approach in its multicultural guidelines. A 2023 Gallup survey found that 81% of Americans say religion is at least somewhat important in their lives. And according to a study from Baylor University's Institute for Studies of Religion, patients who reported high religious salience were significantly more likely to seek therapy from a provider who shared or respected their faith. Unmet preference here isn't minor. It predicts dropout.
 
 That last point matters more than people realize. Therapeutic alliance (how connected a client feels to their therapist) is one of the strongest predictors of outcome, often outperforming the specific technique used. If someone spends the first three sessions quietly wondering whether their therapist thinks prayer is delusional, that alliance is already cracked.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">% Reporting Faith Is Important, by Religious Group (Gallup 2023)</div><div class="sc-row"><span class="sc-label">Evangelical Christians</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">97%</span></div><div class="sc-row"><span class="sc-label">Catholics</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">76%</span></div><div class="sc-row"><span class="sc-label">Mainline Protestants</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">71%</span></div><div class="sc-row"><span class="sc-label">Jewish Americans</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">55%</span></div><div class="sc-row"><span class="sc-label">Unaffiliated (any faith)</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">28%</span></div><div class="sc-src">Source: Gallup 2023 Values and Beliefs Survey</div></div>
-
 
 ## What "Faith-Based Therapy" Actually Means
 
 > **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The term covers a wider range than most people assume, and conflating the categories gets people into mismatched situations.
 
@@ -55,7 +51,7 @@ In the middle sit **spiritually sensitive therapies**: standard evidence-based m
 
 At the other end, you have **pastoral care**: support from clergy, deacons, spiritual directors. This is often deeply valuable, but it's not clinical therapy and shouldn't be mistaken for it, especially when someone is dealing with clinical depression, trauma, or a personality disorder that requires professional treatment.
 
-Getting this distinction wrong is the most common mistake I see. A reader emailed me last fall describing how she'd spent two years in pastoral care for what turned out to be treatment-resistant OCD. Her pastor was kind and faithful. He was not equipped for OCD. She needed a licensed therapist who could use ERP (Exposure and Response Prevention), ideally one who didn't require her to bracket out the religious obsessions that were core to her symptom pattern.
+A common mistake is conflating spiritual care with clinical treatment. For example, someone might spend years in pastoral care for what turns out to be treatment-resistant OCD. While pastoral support has value, it cannot substitute for a licensed therapist trained in ERP (Exposure and Response Prevention), ideally one who doesn't require bracketing out the religious obsessions that are core to the symptom pattern.
 
 ## The Main Approaches, Side by Side
 
@@ -106,7 +102,6 @@ If you want to do some reading while you figure out next steps, a few books are 
 - [Psychology Today Therapist Directory](https://www.psychologytoday.com/us/therapists): Self-reported clinician profiles filterable by faith orientation and specialty
 
 ---
-
 
 ---
 

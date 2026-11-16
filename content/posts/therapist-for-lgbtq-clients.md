@@ -44,8 +44,6 @@ The difference in outcomes is measurable. A landmark study published in the *Jou
 
 > **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Start with filters, not word-of-mouth. Word-of-mouth is unreliable unless the person recommending has the same identity intersections you do. A bisexual therapist who's great for a cisgender gay man may not have the training to support a trans woman of color dealing with workplace discrimination, and vice versa.
 
 Here's a practical hierarchy for your search, in order of reliability:
@@ -58,7 +56,7 @@ Here's a practical hierarchy for your search, in order of reliability:
 
 Once you have a short list, the interview matters more than the directory listing. You're allowed to ask a potential therapist direct questions before committing. Ask: "How do you approach working with trans clients who are mid-transition?" or "What's your experience with clients navigating religious family conflict around identity?" Their answer will tell you more than their bio.
 
-**A real pattern I've seen work:** Client identifies 3-4 therapists from a filtered directory, sends each a brief email or uses their intake form to ask one specific question about their experience. Eliminates 2 immediately based on vague or deflecting answers. Books consults with remaining 2. Chooses one by end of month. This approach cuts the average search time roughly in half compared to just booking and hoping.
+**An effective approach:** Identify 3-4 therapists from a filtered directory and send each a brief email or use their intake form to ask one specific question about their experience. You can eliminate candidates whose answers are vague or deflecting. Book consults with the remaining 2 and choose one by end of month. This structured process can cut search time roughly in half compared to booking appointments without screening first.
 
 ## The Question of Specialization vs. Generalist
 
@@ -97,7 +95,6 @@ If you want tools to supplement your work between sessions, CBT-based workbooks 
 - [Open Path Collective](https://openpathcollective.org/): Reduced-cost therapy network including vetted affirming providers.
 
 ---
-
 
 ---
 

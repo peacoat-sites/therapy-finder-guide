@@ -25,7 +25,7 @@ faqs:
     a: "Tell your therapist. 'This doesn't feel useful to me' is exactly the kind of feedback a good clinician needs. Homework that feels irrelevant has about a zero percent completion rate, and your time and money deserve better than that."
 ---
 
-Only about 30% of therapy clients actually complete their between-session assignments. Think about what that means: most people are paying $150 to $250 per session (sometimes more, here in 2026), sitting with a trained clinician for 50 minutes a week, and then leaving the other 167 hours almost entirely untouched. I've watched this pattern repeat itself in clinical settings for years, and it used to genuinely frustrate me. Now it mostly makes me want to explain things better, because I think the real problem is that nobody ever takes the time to tell people what therapy homework actually is, why it matters, and how to not feel like a failure when you skip it three weeks in a row.
+Only about 30% of therapy clients actually complete their between-session assignments. Think about what that means: most people are paying $150 to $250 per session (sometimes more, here in 2026), sitting with a trained clinician for 50 minutes a week, and then leaving the other 167 hours almost entirely untouched. The real problem is that most people never get a clear explanation of what therapy homework actually is, why it matters, and how to handle it when you miss assignments.
 
 So let's fix that.
 
@@ -60,7 +60,7 @@ That last row is the one I hear the most complaints about. Exposure-based homewo
 
 ## The Part Nobody Talks About: Not Doing It
 
-A reader emailed me last month, genuinely ashamed that she'd missed three weeks of homework assignments and was dreading telling her therapist. She'd started making excuses and was considering canceling her next session entirely. I've seen this so many times. The homework becomes a source of shame, the shame becomes avoidance, and suddenly therapy itself is the thing someone's avoiding.
+When people miss assignments, shame often sets in, leading to avoidance of therapy itself rather than a simple conversation with their clinician about what's getting in the way.
 
 Here's my honest take: skipping homework is information. It might mean the assignment was too big, too vague, too emotionally charged, or just poorly timed in your life. A good therapist will want to know that, not to judge you, but because it tells them something real about what's happening for you. Research published in *Cognitive Therapy and Research* found that therapist flexibility in modifying homework based on client feedback was actually associated with better outcomes than rigid adherence to the original task. In other words, the conversation about why you didn't do it is sometimes more valuable than doing it would have been.
 
@@ -76,7 +76,7 @@ That said, some people need the friction removed entirely. Apps like Woebot (fre
 
 For structured CBT workbooks, the *Mind Over Mood* workbook by Greenberger and Padesky is the one I've seen recommended most consistently by clinicians over the past decade. It's around $23 on Amazon and walks clients through thought records with much more scaffolding than a blank journal. (Disclosure: if you purchase through links on this site, we may earn a small commission.) The *DBT Skills Training Handouts and Worksheets* by Marsha Linehan is the actual clinical text, not a watered-down adaptation, and it runs about $37. Worth it if your therapist is doing DBT work with you and you want to actually understand the model.
 
-If mindfulness is part of your homework, the Insight Timer app is free and has guided practices ranging from 3 to 45 minutes. I've tested probably a dozen of these apps at this point, and Insight Timer consistently offers the best depth without a paywall.
+If mindfulness is part of your homework, the Insight Timer app is free and has guided practices ranging from 3 to 45 minutes. Insight Timer consistently offers the best depth without a paywall.
 
 ## When to Push Back
 

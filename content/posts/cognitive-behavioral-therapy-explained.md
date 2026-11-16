@@ -87,7 +87,7 @@ Before or during therapy, workbooks can genuinely help. *Mind Over Mood* by Denn
 
 ## How to Find a CBT Therapist (And What to Look For)
 
-Finding the right therapist is often where people get stuck. I've seen folks give up at this exact step more than any other.
+Finding the right therapist is often where people get stuck. Many people give up at this exact step.
 
 Start with SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/), a free confidential tool to find mental health and substance use services nearby. You can filter by service type and location. Psychology Today's therapist directory lets you search specifically for CBT-trained clinicians and filter by insurance.
 
@@ -101,7 +101,7 @@ Your first therapist might not be the right fit, and that's okay. The quality of
 
 CBT is powerful. It's not magic and it's not right for everything.
 
-It works best when there's a specific, identifiable problem pattern driving distress. Anxiety disorders, depression, OCD, PTSD, and eating disorders have the strongest evidence. I've seen panic disorder shift dramatically in eight to ten sessions. For others, progress is slower, messier.
+It works best when there's a specific, identifiable problem pattern driving distress. Anxiety disorders, depression, OCD, PTSD, and eating disorders have the strongest evidence. Panic disorder often shifts noticeably in eight to ten sessions. For others, progress is slower, messier.
 
 CBT demands active participation. If you're in acute crisis, severely dissociating, or experiencing psychosis, other interventions (possibly medication) might need to come first before CBT can work. A proper clinical assessment before starting treatment is why that matters. Your therapist or prescriber can figure out what combination makes sense for you.
 

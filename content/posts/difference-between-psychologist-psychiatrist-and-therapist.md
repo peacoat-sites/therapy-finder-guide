@@ -31,7 +31,6 @@ If you've typed something like "do I need a therapist or a psychiatrist" into a 
 
 So let me just lay it out plainly.
 
-
 <div class="value-module">
  <div class="vm-head">Which Provider for Which Concern</div>
  <div class="vm-body">
@@ -75,7 +74,7 @@ One thing that trips people up: the title "psychologist" is legally protected in
 
 ## The Therapist Umbrella: Who's Under It and Why It's Not a Downgrade
 
-I want to address something directly because I've seen it cause real damage. There's a quiet belief that a therapist is somehow less than a psychologist or psychiatrist, a backup option when you can't access the "real" professionals. That belief is wrong.
+This deserves to be addressed directly because it causes real damage. There's a quiet belief that a therapist is somehow less than a psychologist or psychiatrist, a backup option when you can't access the "real" professionals. That belief is wrong.
 
 LCSWs, LPCs, and LMFTs do the majority of outpatient talk therapy in the United States. They're trained specifically for clinical work. A skilled LCSW with 15 years treating anxiety is not a lesser choice than a fresh-out psychologist. For most people dealing with depression, anxiety, relationship stress, grief, life transitions, trauma, or burnout, a licensed therapist is exactly the right level of care.
 

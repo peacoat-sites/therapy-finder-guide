@@ -36,7 +36,7 @@ The research here is messier than most people realize. A lot of the strongest ev
 
 > **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-One thing that genuinely frustrated me when I started researching this: nobody explains the continuum of care. A lot of people assume "getting help" means finding a therapist and meeting once a week. Sometimes that's appropriate. Often, for eating disorders, it isn't.
+A common frustration: the continuum of care often goes unexplained. A lot of people assume "getting help" means finding a therapist and meeting once a week. Sometimes that's appropriate. Often, for eating disorders, it isn't.
 
 The levels go like this: outpatient therapy (once a week or so), intensive outpatient programs (IOP, typically three or more hours a day several days a week), partial hospitalization programs (PHP, which is a full day program but you go home at night), residential treatment, and inpatient hospitalization for medical stabilization.
 

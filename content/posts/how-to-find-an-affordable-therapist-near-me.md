@@ -33,7 +33,7 @@ The sticker price is real. A standard therapy session with a licensed private-pr
 
 What most coverage misses: the mental health care system is layered. Community mental health centers operate on [sliding-scale fees](/how-to-find-a-therapist-that-takes-my-insurance/). University training clinics charge $0 to $30 per session. Employer assistance programs cover sessions most employees never touch. Online platforms undercut traditional costs significantly. None of these are secret. They're just not marketed the way private therapists are.
 
-I've seen clients assume they couldn't afford therapy, do a little digging, and land a weekly appointment for $15 a session. I've also seen people end up paying $200 a session when they could have found comparable care for a fraction of that. The difference was almost always information, not income.
+Many people assume they can't afford therapy without researching options, while others end up paying premium rates when comparable care is available at a fraction of the cost. The difference was almost always information, not income.
 
 ## Start Here: The Fastest Ways to Find Low-Cost Therapy
 

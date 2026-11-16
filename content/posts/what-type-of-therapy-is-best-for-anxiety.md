@@ -29,7 +29,7 @@ Most articles about anxiety therapy do one of two things: they list every therap
 
 So let's do this properly.
 
-Anxiety isn't a single thing, and treatment isn't one-size-fits-all, even though the research landscape narrows it down considerably. There are genuinely better and worse starting points, and I've watched too many people spend months in the wrong type of therapy because nobody told them that upfront.
+Anxiety isn't a single thing, and treatment isn't one-size-fits-all, even though the research landscape narrows it down considerably. There are genuinely better and worse starting points. Many people spend months in the wrong type of therapy because they weren't told upfront what approach fits their specific anxiety.
 
 ## The Short Answer (Before We Get Into It)
 
@@ -40,8 +40,6 @@ That said, "most people" isn't you. And there's a real argument for starting som
 ## CBT: What It Actually Does (Not What People Think)
 
 > **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The popular summary of CBT is "change your thoughts, feel better." That's reductive to the point of being misleading. What CBT really does is teach you to identify the relationship between thoughts, physical sensations, and behaviors, then systematically test whether your catastrophic predictions actually come true.
 
@@ -55,7 +53,7 @@ Here's where a lot of standard advice quietly drops the ball.
 
 If your anxiety is rooted in trauma, specifically if you've noticed that your anxiety spikes in response to triggers linked to a past experience, starting with traditional CBT can sometimes feel like building on sand. You're trying to restructure thoughts while an unprocessed trauma response keeps flooding the system.
 
-For trauma-driven anxiety, EMDR (Eye Movement Desensitization and Reprocessing) has strong evidence, and in my experience working alongside clinical teams, it often unlocks progress that talk-based approaches hadn't touched. A reader I'll call Mara (name changed, details shared with permission) had spent two years in CBT for what her previous therapist called generalized anxiety. When she finally saw a clinician who identified complex PTSD underlying that anxiety, eight sessions of EMDR produced more change than the preceding two years. Not everyone's story goes that way, but it happens often enough that the question is worth asking.
+For trauma-driven anxiety, EMDR (Eye Movement Desensitization and Reprocessing) has strong evidence and often produces progress that talk-based approaches miss. When generalized anxiety turns out to stem from complex PTSD, switching to EMDR can produce measurable change relatively quickly. The question is worth asking upfront: could there be underlying trauma here?
 
 Similarly, if you have OCD, please don't let anyone give you generic CBT. You need a specific variant: ERP, or Exposure and Response Prevention. Standard CBT's cognitive restructuring component can actually backfire in OCD by feeding the very reassurance-seeking that keeps the disorder alive. ERP is different. It's harder, more deliberate, and when delivered by someone trained in it, it works. The International OCD Foundation maintains a therapist directory specifically for this.
 
@@ -95,7 +93,7 @@ If in-person therapy isn't accessible, telehealth has expanded enormously. The e
 
 This is where I'll put in a practical word for self-directed tools, not as a replacement for therapy, but as a legitimate complement.
 
-A good CBT workbook can meaningfully accelerate your progress if you're already in therapy. I've seen it make a real difference. *The Anxiety and Worry Workbook* by Clark and Beck is one I'd recommend to anyone starting CBT. For ACT, *The Happiness Trap* by Russ Harris is accessible and practical. Both are available on Amazon (disclosure: this site may earn a commission on purchases made through affiliate links). Mindfulness tools like the Insight Timer app or a simple guided meditation practice have decent evidence behind them for reducing baseline anxiety, even if they're not a substitute for structured treatment.
+A good CBT workbook can meaningfully accelerate your progress if you're already in therapy. *The Anxiety and Worry Workbook* by Clark and Beck is one I'd recommend to anyone starting CBT. For ACT, *The Happiness Trap* by Russ Harris is accessible and practical. Both are available on Amazon (disclosure: this site may earn a commission on purchases made through affiliate links). Mindfulness tools like the Insight Timer app or a simple guided meditation practice have decent evidence behind them for reducing baseline anxiety, even if they're not a substitute for structured treatment.
 
 One thing I'd skip: most anxiety apps that aren't built on CBT or ACT principles. They're often dressed-up mood trackers with no therapeutic engine underneath.
 
@@ -108,7 +106,6 @@ One thing I'd skip: most anxiety apps that aren't built on CBT or ACT principles
 - International OCD Foundation (IOCDF): Clinician training standards and directory for ERP-trained therapists
 
 ---
-
 
 ---
 

@@ -44,9 +44,7 @@ The theoretical underpinnings draw from psychodynamic theory, attachment theory,
 
 > **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-You might be wondering if art therapy is only for people who are "artistic." It's not, and I'd push back hard on that assumption. The clients I've seen benefit most from art therapy are often people who have *never* considered themselves creative. That's not coincidental. If you're someone who has spent decades leading with language, with rationality, with the perfectly composed sentence, being asked to make a mark on a page without judgment can be genuinely disorienting. And that disruption is often where the therapy happens.
+You might be wondering if art therapy is only for people who are "artistic." It's not, and I'd push back hard on that assumption. Many people who benefit most from art therapy have never considered themselves creative. This makes sense. People who rely heavily on language and rational thought may find the experience of making marks without judgment genuinely disorienting. That disruption is often where the therapeutic work occurs.
 
 Art therapy is used clinically with:
 
@@ -57,7 +55,7 @@ Art therapy is used clinically with:
 - Oncology patients managing fear, identity disruption, and grief during treatment
 - Individuals with eating disorders working on body image and self-perception
 
-One thing I want to be specific about: art therapy is not a replacement for psychiatric medication when medication is indicated. It's often most effective as part of a broader treatment plan. I've seen the best outcomes when a client has a prescribing psychiatrist, a talk therapist, and an art therapist working in loose coordination. That's not always possible logistically or financially, but it's the ideal.
+One thing I want to be specific about: art therapy is not a replacement for psychiatric medication when medication is indicated. It's often most effective as part of a broader treatment plan. Best outcomes typically occur when a prescribing psychiatrist, a talk therapist, and an art therapist work in loose coordination. That's not always possible logistically or financially, but it's the ideal.
 
 ## What a Session Actually Looks Like
 
@@ -106,7 +104,6 @@ If you're in a moment of crisis, please don't try to self-therapize through art.
 - Stuckey, H.L. & Nobel, J. (2010): "The connection between art, healing, and public health." *American Journal of Public Health*, 100(2), 254-263. Foundational review of creative arts and health outcomes.
 
 ---
-
 
 ---
 

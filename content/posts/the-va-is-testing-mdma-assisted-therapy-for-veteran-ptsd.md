@@ -40,7 +40,7 @@ Skepticism exists for real reasons. MDMA's path toward FDA approval hit serious 
 
 Veteran-specific concerns matter too. Cardiovascular risks. The potential for dissociation or distress. Questions about long-term follow-up. Any veteran considering enrollment should read the trial details carefully and ask hard questions of their providers. Clinical trial participation should be voluntary, fully informed, and discussed with existing treatment providers.
 
-I've seen people on both sides get overconfident. The advocates treating MDMA therapy as a cure for [treatment-resistant PTSD](/what-the-vas-new-mdma-therapy-trial-means-for-ptsd-treatment/) are running ahead of evidence. The critics dismissing it as reckless are ignoring a genuine treatment gap that leaves many veterans with few options. The honest answer is that this trial exists to find out what's actually true.
+People on both sides tend to get overconfident. The advocates treating MDMA therapy as a cure for [treatment-resistant PTSD](/what-the-vas-new-mdma-therapy-trial-means-for-ptsd-treatment/) are running ahead of evidence. The critics dismissing it as reckless are ignoring a genuine treatment gap that leaves many veterans with few options. The honest answer is that this trial exists to find out what's actually true.
 
 ## What This Means If You're Not Enrolled in the Trial
 

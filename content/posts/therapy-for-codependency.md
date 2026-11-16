@@ -53,9 +53,9 @@ That said, here's what the available evidence and clinical experience actually s
 
 **Schema Therapy** goes deeper. Developed by Jeffrey Young in the 1990s, it targets the core beliefs and emotional patterns ("schemas") formed in childhood. For someone whose codependency is rooted in a schema like "I'm only valuable when I'm caretaking" or "expressing my needs will drive people away," schema work can reach places CBT doesn't. It's less widely available, and therapists trained in it are genuinely harder to find.
 
-**Internal Family Systems (IFS)** has gotten a lot of attention lately, and in my experience working alongside clinicians using it, it tends to click for people who intellectually understand their patterns but can't seem to change them emotionally. The model treats codependent behavior as a protective "part" doing a job it learned to do. When that part feels heard instead of fought, change becomes possible. The research base is smaller than CBT, but the clinical reports are compelling.
+**Internal Family Systems (IFS)** has gotten a lot of attention lately, and It often works well for people who intellectually understand their patterns but can't seem to change them emotionally. The model treats codependent behavior as a protective "part" doing a job it learned to do. When that part feels heard instead of fought, change becomes possible. The research base is smaller than CBT, but the clinical reports are compelling.
 
-**Group therapy** is underused and undervalued. Codependency is a relational pattern, and you often can't fully address it outside of an actual relational context. A well-facilitated group offers real-time feedback ("did you notice you apologized three times for speaking?") that individual therapy can't replicate. I've seen people make more progress in six months of group than two years of one-on-one work. The catch: you have to find a skilled facilitator, and the group has to be the right fit.
+**Group therapy** is underused and undervalued. Codependency is a relational pattern, and you often can't fully address it outside of an actual relational context. A well-facilitated group offers real-time feedback ("did you notice you apologized three times for speaking?") that individual therapy can't replicate. People often make significant progress in group therapy more quickly than in individual sessions. The catch: you have to find a skilled facilitator, and the group has to be the right fit.
 
 ## The Cost Reality, As of 2026
 
@@ -72,7 +72,7 @@ Out-of-pocket therapy is expensive. That's just true. But the range is wider tha
 
 That last row is the piece that trips people up. Because codependency isn't a DSM diagnosis, a therapist can't bill for it directly. In practice, they'll code for something that is billable and that genuinely applies: generalized anxiety, dysthymia, adjustment disorder, or if relevant, PTSD. This is normal and ethical, not a workaround to feel nervous about.
 
-When I was helping a client named Marcus find a therapist two years ago, he spent three weeks assuming he couldn't afford it, then discovered his therapist offered a sliding scale of $65 a session that she'd never listed on her Psychology Today profile. The lesson: always ask. The [Psychology Today therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by "sliding scale" now, which helps, but calling directly still surfaces options the directory doesn't show.
+Many people assume they can't afford therapy without asking about sliding scales. Therapists often offer rates not listed in online directories. Always ask directly about affordability options. The [Psychology Today therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by "sliding scale" now, which helps, but calling directly still surfaces options the directory doesn't show.
 
 ## What the First Few Months Actually Feel Like
 
@@ -80,7 +80,7 @@ Most people walk into codependency therapy expecting to feel better quickly. Wha
 
 Here's the mechanism: therapy starts asking you to do things that violate the rules your nervous system has been running for years. Saying no. Asking for something you need. Tolerating someone else's disappointment without immediately fixing it. Each of those acts feels genuinely threatening at first, not because you're broken but because your system learned that those things led to relational rupture or emotional danger.
 
-A reader emailed me last spring describing her third week of therapy as "feeling like I'm somehow both more anxious and more myself at the same time." That's exactly it. The anxiety is the old pattern defending itself. The "more myself" part is the actual change starting.
+The anxiety is the old pattern defending itself. The "more myself" part is the actual change starting.
 
 Concrete timelines, based on clinical patterns I've observed working alongside therapists:
 

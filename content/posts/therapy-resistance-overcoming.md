@@ -33,7 +33,7 @@ Therapy resistance is real. It's not weakness or stubbornness in the bad sense, 
 
 ## The Resistance Isn't What You Think It Is
 
-Most people assume they're resistant to therapy because they're private, skeptical, or just "not the therapy type." Sometimes that's true. But what I've seen far more often is resistance that's actually protecting something.
+Most people assume they're resistant to therapy because they're private, skeptical, or just "not the therapy type." Sometimes that's true. But often, resistance that seems like personality or conviction is actually protecting something.
 
 You might be afraid that if you start talking, you won't be able to stop. Or that a therapist will confirm your worst fear about yourself. Or that opening up means losing control in a way that isn't safe. Those aren't irrational fears. For a lot of people, especially those who grew up in environments where expressing emotion had real consequences, keeping the lid on has been genuinely adaptive. Your nervous system learned: stay closed, stay safe.
 
@@ -65,7 +65,7 @@ Cognitive Behavioral Therapy (CBT) tends to work well for people who like a stru
 
 Acceptance and Commitment Therapy (ACT) is worth knowing about, especially if the CBT framing of "fix your thoughts" feels too clinical. ACT is less about changing what you think and more about changing your relationship to those thoughts. A lot of people find it less confrontational.
 
-For people whose resistance is rooted in a sense that talking doesn't access the real problem, somatic approaches like somatic experiencing or EMDR work through the body rather than primarily through words and insight. I've seen people who'd never engaged meaningfully with talk therapy have real breakthroughs this way.
+For people whose resistance is rooted in a sense that talking doesn't access the real problem, somatic approaches like somatic experiencing or EMDR work through the body rather than primarily through words and insight. Somatic approaches can produce real breakthroughs for people who haven't connected with talk therapy.
 
 If 50-minute weekly sessions are financially or logistically prohibitive, there are now text-based and asynchronous options. They're not equivalent to in-person therapy for more serious concerns, but for someone just starting out, they can be a real entry point.
 
@@ -92,7 +92,6 @@ That's enough.
 - [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)
 - [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)
 - [Pixabay](https://www.pexels.com/@pixabay)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -25,7 +25,7 @@ author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
 lastmod: 2026-07-08
 ---
-Imagine you've finally decided to try therapy. You've done the hard part, the part most people spend months or years avoiding, you've admitted you could use some help. Then you open a browser tab and immediately hit a wall. Do you find someone local? Use one of those apps? What's actually the difference? I've watched so many people stall right here, not because they don't want help, but because the logistics feel like a second obstacle course after the emotional hurdle they just cleared. So let's cut through it.
+Deciding to try therapy is hard. Then comes the logistical question: do you find someone local? Use one of those apps? What's actually the difference? Many people stall right here, not because they don't want help, but because the logistics feel like a second obstacle course after the emotional hurdle of deciding to seek help. So let's cut through it.
 
 ## What Online and In-Person Therapy Actually Look Like Day to Day
 
@@ -39,7 +39,7 @@ Neither format means you're getting watered-down care. Both can involve the same
 
 > **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Access is the biggest one. I've worked with people who live 90 minutes from the nearest therapist who takes their insurance. For them, online therapy isn't a convenience feature. It's the only realistic option. Same goes for people with physical disabilities, chronic illness, social anxiety that makes leaving the house genuinely difficult, or schedules that make a weekly midday appointment logistically impossible.
+Access is the biggest one. For someone living 90 minutes from the nearest therapist who takes their insurance, online therapy isn't a convenience feature. It's the only realistic option. The same applies to people with physical disabilities, chronic illness, social anxiety that makes leaving the house genuinely difficult, or schedules that make a weekly midday appointment logistically impossible.
 
 There's also something to be said about comfort. Some people open up faster when they're in their own space. I've heard clients say they feel less "on display" during a video call than sitting in a stranger's office. That sense of safety can accelerate the work, particularly in early sessions when trust is still being built.
 
@@ -132,7 +132,7 @@ People avoid starting therapy for reasons that feel embarrassing to say out loud
 
 ---
 
-The decision between online and in-person therapy matters less than the decision to actually start. I've seen people thrive in both settings. I've also seen people spend so long weighing the options that another year slips by. Pick the format that removes the most barriers for you right now. You can always adjust. What you can't get back is the time spent waiting for the perfect setup before taking care of yourself.
+The decision between online and in-person therapy matters less than the decision to actually start. People thrive in both settings. The risk is spending so long weighing the options that another year slips by. Pick the format that removes the most barriers for you right now. You can always adjust. What you can't get back is the time spent waiting for the perfect setup before taking care of yourself.
 
 ## Sources & References
 

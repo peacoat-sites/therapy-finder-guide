@@ -14,7 +14,7 @@ slug: "medicaid-cuts-are-coming-for-mental-health-care-now-what"
 affiliate_disclosure: true
 lastmod: 2026-07-07
 ---
-If you get mental health care through Medicaid, or you know someone who does, the next few years are going to be harder than most people realize. And I'll be honest: when I started looking into exactly what's happening right now, I didn't expect the picture to be this concrete, this fast-moving, or this unevenly distributed across states.
+If you get mental health care through Medicaid, or you know someone who does, the next few years are going to be harder than most people realize. The situation is more concrete, fast-moving, and unevenly distributed across states than many people expect.
 
 The One Big Beautiful Bill Act, which passed the House in May 2026, cuts federal Medicaid funding by roughly 15 percent, amounting to approximately $1 trillion over ten years. The Congressional Budget Office estimates that 11.8 million people will lose Medicaid coverage as a direct result. That's not a projection buried in a think-tank footnote. That's the official federal scorekeeper saying more than eleven million people lose their coverage. For mental health care specifically, this matters in a way that goes beyond the headline number, because Medicaid isn't just one payer among many. It's the single largest payer of behavioral health services in the United States, funding more than a quarter of all behavioral health care nationally and covering roughly 29 percent of the estimated 52 million nonelderly adults living with mental illness. We're talking about approximately 15 million people whose mental health coverage runs through this one program.
 
@@ -27,8 +27,6 @@ This isn't a hypothetical mechanism. The Milbank Memorial Fund laid out the casc
 ## Idaho Showed Us What Happens When You Actually Cut
 
 > **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 If you want to know what this looks like on the ground before the federal bill even fully kicks in, look at Idaho. In December 2025, a Medicaid contractor eliminated [mobile mental health crisis services](/what-the-medicaid-cuts-mean-for-your-therapy-coverage/). This wasn't a massive programmatic overhaul. It was one service, in one state. The results were swift and measurable: crisis center visits jumped 34 percent in December and 43 percent in January compared to the same months the prior year. Two patients died. The Idaho Capital Sun documented this in February 2026, and it's the clearest before-and-after we have right now of what service elimination actually produces. Not reduced access in the abstract. A statistically visible surge in crisis presentations and two deaths.
 

@@ -27,7 +27,7 @@ faqs:
 
 Nearly 60% of people who start therapy drop out before completing even eight sessions, according to research published in *Psychotherapy*. The most common reason isn't cost, scheduling, or a bad therapist match. It's that people couldn't figure out how to actually talk about what was going on.
 
-I'll be honest: when I first started working alongside clinical teams helping people access care, I assumed the hard part was finding a therapist. It took years of conversations with real clients before I understood that getting into the room is only half the battle. The other half is learning to speak once you're there.
+Getting into the room with a therapist is only half the battle. The other half is learning to speak once you're there.
 
 What surprised me was how rarely anyone addresses this directly. There's plenty written about choosing the right therapy type, understanding your insurance, finding an in-network provider through SAMHSA's treatment locator at findtreatment.gov. Almost nothing is written about the moment when the therapist says, "So, what brings you in?" and your mind goes completely blank.
 
@@ -51,7 +51,7 @@ Most clients I've spoken with carry an unspoken assumption into that first sessi
 
 What they're watching for is much smaller. Are you showing up? Are you willing to sit in the discomfort for fifty minutes? Can we find even one thing that you're willing to say out loud?
 
-A reader named Marcus, a software engineer from Minneapolis, told me he spent his first three sessions talking almost exclusively about his work schedule and his commute. Not exactly depths-of-the-soul territory. But he kept coming back, and by session five he was talking about his father's death. His therapist later told him those early sessions were exactly what he needed: time to establish that the room was safe before he put anything fragile in it.
+For example, someone might spend early sessions discussing practical matters like work or daily logistics before feeling safe enough to address deeper concerns. Those early sessions serve a purpose: they establish trust in the space before more vulnerable material emerges.
 
 Session 1: Marcus discusses surface-level logistics, says nothing emotionally significant. Action taken: therapist reflects without probing, builds rapport. Result: Marcus returns for session 2, then 3. By session 8, he's discussing core grief material for the first time in four years.
 
@@ -84,11 +84,11 @@ This is worth a quick look, because different therapy modalities ask different t
 | Person-centered | Non-directive, reflective | Anything you bring | Varies widely |
 | ACT (Acceptance & Commitment) | Values-focused | Avoidance patterns, core values | 4-8 sessions |
 
-What surprised me when I first went deep on this: CBT actually asks you to talk less about your feelings and more about your thought patterns and behaviors. For people who struggle to access or name emotions, this can feel like a relief. Starting there doesn't mean you're avoiding your feelings; it's a valid entry point. If you're not sure which type fits, a good intake therapist will help you figure it out.
+CBT focuses on thought patterns and behaviors rather than directly discussing feelings. For people who struggle to access or name emotions, this can feel like a relief. Starting there doesn't mean you're avoiding your feelings; it's a valid entry point. If you're not sure which type fits, a good intake therapist will help you figure it out.
 
 ## The Numbers on How Long It Takes
 
-As of July 2026, the average therapy client sees meaningful symptom improvement around session 8 to 16, based on outcome data from the APA's practice guideline research. But "meaningful improvement" and "fully opened up" aren't the same thing. In my experience, clients who describe genuinely feeling comfortable in therapy land somewhere around session 6 to 10, though that varies significantly based on trauma history, prior therapy experience, and the strength of the therapeutic alliance.
+As of July 2026, the average therapy client sees meaningful symptom improvement around session 8 to 16, based on outcome data from the APA's practice guideline research. But "meaningful improvement" and "fully opened up" aren't the same thing. Clients often report feeling comfortable around session 6 to 10, though this varies based on trauma history, prior therapy experience, and the therapeutic relationship.
 
 These aren't guarantees. Someone with a history of relational trauma might hit that comfort point at session 15; someone who's been introspective for years might get there in session 2. The range is the point.
 
@@ -98,7 +98,7 @@ If you reach session 10 and still feel completely unable to say anything real, t
 
 Some clients find it easier to process between sessions using structured prompts. A good CBT-based journal, like the *Cognitive Behavioral Therapy Workbook for Anxiety* by William Knaus (affiliate link, the site may earn a small commission), can help you build the habit of putting feelings into words before you're expected to do it on the spot. Not a replacement for therapy. More like training wheels for self-disclosure.
 
-Same with mindfulness apps: I've seen Headspace help clients develop basic body awareness that makes it easier to say "I feel this in my chest" rather than nothing at all. It doesn't have to be fancy.
+Mindfulness apps like Headspace can help develop basic body awareness, making it easier to identify and name physical sensations. It doesn't have to be fancy.
 
 Scenario: A client with severe social anxiety completes a mindfulness-based body scan for 10 minutes daily for three weeks before her first therapy session. Action taken: she arrives able to describe physical sensations of anxiety (tight throat, shallow breathing) even when she can't name her emotions. Result: therapist uses somatic language as an entry point, and by session 4 the client is discussing a childhood memory she had never told anyone.
 

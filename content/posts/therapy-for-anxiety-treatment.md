@@ -103,7 +103,7 @@ These are ballpark figures. Your actual timeline depends on how severe things ar
 
 ---
 
-Anxiety has a particular cruelty: it convinces you treatment won't work, that you're too far gone, or that you're not struggling enough to deserve help. None of that's true. The people I've seen make real progress weren't people with easy cases. They were people who showed up, stayed curious about their patterns, and gave themselves permission to get help. You don't have to wait until everything falls apart. The right therapist, the right approach, and time can get you somewhere genuinely different from where you are now.
+Anxiety often convinces people that treatment won't work, that they're too far gone, or that they're not struggling enough to deserve help. None of that's true. Recovery isn't reserved for people with mild cases. Showing up consistently, staying curious about your patterns, and giving yourself permission to seek help are what matter. You don't have to wait until everything falls apart. The right therapist, the right approach, and time can create genuine change.
 
 ## Sources & References
 

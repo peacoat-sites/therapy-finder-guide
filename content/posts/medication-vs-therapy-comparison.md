@@ -27,13 +27,11 @@ faqs:
 
 Most coverage of this topic presents a false choice. You'll see charts comparing "medication vs. therapy" like they're competing products, and the framing implies you pick one, get better, done. That's not how [mental health treatment](/inpatient-vs-outpatient-mental-health-treatment/) actually works for most people, and the gap between what gets written and what clinicians actually know is frustrating to watch.
 
-Here's what I've seen consistently, working alongside psychiatrists and therapists for years: the real question isn't which one "wins." It's which one fits this person, this diagnosis, this moment in their life. And sometimes the answer is both. Sometimes it's neither and you need to stabilize housing first. The treatment decision is messier than any comparison chart suggests.
+The real question isn't which one "wins." It's which one fits this person, this diagnosis, this moment in their life. And sometimes the answer is both. Sometimes it's neither and you need to stabilize housing first. The treatment decision is messier than any comparison chart suggests.
 
 That said, the comparison is still worth making carefully. Because when you walk into a primary care office at your wit's end, you'll often be handed a prescription within 15 minutes. Whether that's the right call depends on things nobody asked you about.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medication typically shows symptom relief in 2-8 weeks; therapy results often take 12-20 sessions to solidify.</li><li style="margin:5px 0">For moderate-to-severe depression, combination treatment outperforms either alone by roughly 20-30% on symptom reduction.</li><li style="margin:5px 0">CBT has roughly equivalent long-term outcomes to antidepressants for mild-to-moderate depression, with lower relapse rates after stopping.</li><li style="margin:5px 0">Therapy costs $100-$300 per session without insurance; SSRIs average $10-$45/month generic, but add psychiatry visits on top.</li><li style="margin:5px 0">Anxiety disorders, in particular, respond very well to therapy alone; medication without therapy often requires indefinite continuation.</li></ul></div>
-
 
 ## What Each One Actually Does
 
@@ -46,8 +44,6 @@ Therapy, by contrast, is skill acquisition and pattern recognition under guided 
 ## The Numbers Behind the Decision
 
 > **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me put some real figures on the table, because vague cost comparisons are useless.
 
@@ -68,13 +64,13 @@ This is where I push back hardest on generic comparisons. The "medication vs. th
 
 For **schizophrenia and bipolar I disorder**: antipsychotics and mood stabilizers aren't optional for most people. Therapy is a powerful adjunct but it's not a substitute. Someone mid-manic episode doesn't need a thought record.
 
-For **OCD**: Exposure and Response Prevention (ERP) therapy has the strongest evidence base. SSRIs help, and combination often works better, but if you try medication without ERP you're likely undertreating. I've seen this mistake made repeatedly, including by well-meaning general practitioners who just don't know the OCD literature.
+For **OCD**: Exposure and Response Prevention (ERP) therapy has the strongest evidence base. SSRIs help, and combination often works better, but if you try medication without ERP you're likely undertreating. This mistake happens often, even among general practitioners who lack deep familiarity with OCD literature.
 
 For **PTSD**: Trauma-focused therapies like Prolonged Exposure and CPT have robust evidence. Medication can help manage symptoms, especially sleep and hyperarousal, but it doesn't process trauma. It manages the noise around it.
 
 For **mild-to-moderate depression or generalized anxiety**: this is where the evidence most clearly supports therapy as a first-line option with comparable or better long-term outcomes. A 2023 meta-analysis in *World Psychiatry* (Cuijpers et al.) found CBT produced similar remission rates to antidepressants for depression, with lower relapse rates at 12-month follow-up.
 
-Here's three worked examples that reflect patterns I've seen in practice:
+Here are three examples that reflect common patterns:
 
 **Person with moderate depression, no prior treatment → tried 12 weeks of weekly CBT first → 60% reduction in PHQ-9 score; no medication needed.** This is actually more common than people expect.
 
@@ -94,9 +90,7 @@ Where therapy-first is the wrong call: psychosis, active suicidality requiring i
 
 If you're not sure what level of care you need, SAMHSA's treatment locator at findtreatment.gov can help identify local resources by level of intensity, including crisis services, outpatient, and intensive outpatient programs.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Relapse rates after stopping treatment (depression, 12-month follow-up)</div><div class="sc-row"><span class="sc-label">Medication alone</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">50%</span></div><div class="sc-row"><span class="sc-label">Therapy (CBT) alone</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">27%</span></div><div class="sc-row"><span class="sc-label">Combined treatment</span><span class="sc-track"><span class="sc-bar" style="width:36%"></span></span><span class="sc-val">18%</span></div><div class="sc-src">Source: Cuijpers et al., World Psychiatry 2023 &amp; NICE Guidelines 2022</div></div>
-
 
 ## Sources
 
@@ -107,7 +101,6 @@ If you're not sure what level of care you need, SAMHSA's treatment locator at fi
 - [SAMHSA Treatment Locator](https://findtreatment.gov/): Free, government-maintained directory for mental health and substance use services by location.
 
 ---
-
 
 ---
 

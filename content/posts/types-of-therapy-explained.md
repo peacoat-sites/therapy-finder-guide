@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You've finally decided to try therapy. You search online, find a list of credentials that reads like a foreign language (CBT, DBT, EMDR, psychodynamic, somatic, ACT, IFS), and close the tab. A few days later you try again, get overwhelmed, and quietly talk yourself out of the whole thing. This happens to more people than anyone admits, and it breaks my heart because that moment of confusion is usually the only thing standing between someone and real help.
 
-Here's the thing: you don't need a psychology degree to understand therapy types. You just need plain language that respects your intelligence without drowning you in jargon.
+You don't need a psychology degree to understand therapy types. You just need plain language that respects your intelligence without drowning you in jargon.
 
 ---
 

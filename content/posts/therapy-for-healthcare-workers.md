@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people assume that being surrounded by medical knowledge makes it easier to ask for help. I believed that too, for a long time. The reality is almost the opposite.
+Most people assume that being surrounded by medical knowledge makes it easier to ask for help. Often, though, the opposite is true.
 
 Healthcare workers are, statistically, one of the groups *least* likely to seek mental health treatment, despite being one of the groups most likely to need it. A 2021 survey published in JAMA Network Open found that 49% of physicians reported burnout, 38% reported anxiety, and 15% reported symptoms consistent with PTSD. Those numbers almost certainly got worse during the pandemic years, and as of June 2026, they haven't bounced back anywhere close to baseline. I've talked to enough nurses, residents, and hospital social workers over the years to know that what the data shows is conservative. The real numbers are higher.
 
@@ -45,8 +45,6 @@ What I'd genuinely recommend: check your state's medical board requirements your
 ## What Kind of Therapy Actually Helps
 
 > **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The research here is somewhat mixed, but a few things stand out.
 
@@ -91,7 +89,6 @@ If you're in crisis or supporting someone who is, the [988 Suicide and Crisis Li
 - [American Foundation for Suicide Prevention (AFSP) Physician Data](https://afsp.org): Research on elevated suicide risk among physicians and healthcare workers
 
 ---
-
 
 ---
 

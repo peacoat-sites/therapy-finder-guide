@@ -37,7 +37,7 @@ Most people start therapy with a specific picture in their head. They imagine th
 
 You might notice that you had a difficult conversation at work and didn't replay it for three days afterward. Or that you caught yourself mid-spiral and thought, "Oh, this is that pattern my therapist mentioned." That moment of recognition, even without resolution, is real progress. It means the work is building self-awareness, which is foundational to almost every therapeutic approach.
 
-I've seen clients go six to eight weeks feeling like nothing was shifting, then describe a week where they handled three different stressors "the way I wish I used to." That's not a coincidence. It's the lag between insight and integration.
+People often report a lag between intellectual understanding and behavioral change. You might feel stuck for several weeks, then notice a week where you handle multiple stressors differently than before. This isn't sudden - it's the gap between insight and integration catching up.
 
 Progress in therapy often looks like:
 

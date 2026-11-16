@@ -40,7 +40,7 @@ Fawn response, a term popularized by trauma therapist Pete Walker, describes an 
 
 Research published in *Clinical Psychology Review* found that chronic people pleasing is closely linked to anxious attachment styles and, in more pronounced cases, to features of complex PTSD. That matters for treatment, because a different origin story requires a different clinical approach. Generic assertiveness training won't touch the nervous system dysregulation underneath. It might even backfire, adding a new layer of shame when someone "knows" they should set a boundary and still can't make themselves do it.
 
-I've watched this play out in practice. Someone comes in having read every book on boundaries, can articulate the problem perfectly, and still collapses into agreement the moment they feel even mild disapproval from someone they care about. Knowledge isn't the lever. The nervous system is the lever.
+Many people can articulate boundary problems perfectly after extensive reading, yet still collapse into agreement the moment they feel even mild disapproval from someone they care about. Knowledge alone doesn't create change. The nervous system determines whether someone can actually hold a boundary.
 
 ## Which Therapy Actually Works
 
@@ -52,8 +52,6 @@ I've watched this play out in practice. Someone comes in having read every book 
 | Acceptance and Commitment Therapy (ACT) | Values clarification and psychological flexibility | Varies | Clarifying personal values; reducing emotional reactivity |
 
 > **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Not all approaches are equally useful here, and I'd rather just rank them than pretend they're all equivalent.
 
@@ -96,7 +94,6 @@ One honest caveat: I don't have strong data on digital-only therapy platforms fo
 - Shapiro, F. (2018): *Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures*, primary clinical reference for EMDR practice and indications.
 
 ---
-
 
 ---
 

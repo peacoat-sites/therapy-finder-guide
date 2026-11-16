@@ -27,13 +27,13 @@ lastmod: 2026-07-08
 ---
 Finding an LGBTQ-affirming therapist should not be this hard. And yet, for a lot of people, it is.
 
-I'll be honest: when I first started helping people connect with mental health care, I assumed that "affirming" was a pretty low bar. Be respectful, don't pathologize someone's identity, move on. What I found, after years of sitting with this work and talking to dozens of LGBTQ clients who'd been through the system, is that the gap between a therapist who is *tolerant* and a therapist who is genuinely *affirming* is much wider than most mental health directories will tell you.
+Many people assume that "affirming" is a pretty low bar: be respectful, don't pathologize someone's identity, move on. But the gap between a therapist who is *tolerant* and a therapist who is genuinely *affirming* is much wider than most mental health directories will tell you.
 
 That gap can be the difference between real progress and quietly quitting therapy after three sessions.
 
 ## What "Affirming" Actually Means (and What It Doesn't)
 
-Here's something that surprised me when I started digging into this: being affirming isn't a certification. There's no single governing body that awards a "queer-affirming" credential and then monitors whether the therapist is actually living up to it. A therapist can check the "LGBTQ+" box on their Psychology Today profile and still operate from frameworks that center heterosexuality or cisgender experience as the default.
+Being affirming isn't a certification. There's no single governing body that awards a "queer-affirming" credential and then monitors whether the therapist is actually living up to it. A therapist can check the "LGBTQ+" box on their Psychology Today profile and still operate from frameworks that center heterosexuality or cisgender experience as the default.
 
 What affirming practice *should* look like, according to guidelines from the American Psychological Association (updated most recently in 2021 for transgender and gender diverse people), includes actively working to understand a client's identity rather than treating it as incidental. An affirming therapist doesn't just avoid saying harmful things. They understand concepts like minority stress, the psychological weight of living in a world that routinely questions your legitimacy. They've done their own reading on the specific stressors facing bisexual people (who experience higher rates of anxiety and depression than both straight and gay people, per a 2013 study in the *Journal of Bisexuality*), trans and nonbinary individuals, queer people of color, and others whose identities intersect in ways that demand a more careful clinical approach.
 
@@ -102,7 +102,6 @@ The process of finding the right therapist is imperfect and sometimes exhausting
 - [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
 - [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)
 - [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

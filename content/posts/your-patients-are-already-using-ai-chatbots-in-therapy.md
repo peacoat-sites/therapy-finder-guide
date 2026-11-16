@@ -33,15 +33,13 @@ That silence is the thing worth paying attention to right now.
 
 The APA survey numbers deserve a slow read because they're genuinely striking. It's not just that people are occasionally venting to a chatbot when they can't sleep. Thirty-five percent of psychologists report their patients are using AI as an *additional mental health professional*, essentially treating it like a second clinician. Another 39% have had patients who used AI to self-diagnose. And 33% of patients are using AI to assist directly with their therapy or treatment, which means real decisions about their mental health care are being shaped by tools that, as the APA noted in a simultaneous health advisory, lack clinical validation, formal regulatory approval, and FDA clearance.
 
-I've seen the appeal up close. Therapy appointments are weekly at best, often every other week, and a lot of living happens in between. The gap between sessions is real, and the 3 a.m. anxiety spiral doesn't wait for Tuesday at noon. AI chatbots are available, infinitely patient, and they don't make you feel like you're burdening anyone. For someone who struggled to [access care at all](/how-the-medicaid-cuts-are-shrinking-your-therapy-options/), any supportive presence can feel like a lifeline.
+The appeal is clear. Therapy appointments are weekly at best, often every other week, and a lot of living happens in between. The gap between sessions is real, and the 3 a.m. anxiety spiral doesn't wait for Tuesday at noon. AI chatbots are available, infinitely patient, and they don't make you feel like you're burdening anyone. For someone who struggled to [access care at all](/how-the-medicaid-cuts-are-shrinking-your-therapy-options/), any supportive presence can feel like a lifeline.
 
 The problem isn't that people are finding comfort in these tools. The problem is what happens when comfort quietly becomes substitution, and nobody in the clinical relationship knows it's happening.
 
 ## What Therapists Are Actually Worried About
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Ninety-four percent of psychologists surveyed expressed concern about some of their patients' chatbot use. That's not a fringe reaction from a few technophobes. That's near-unanimous concern from working clinicians who are watching this play out in real time across their caseloads.
 
@@ -63,7 +61,7 @@ The reason so many patients aren't disclosing their chatbot use is probably the 
 
 A good therapist won't react that way. And honestly, given that 77% of psychologists are already seeing this across their caseloads, yours has almost certainly had this conversation before. The APA's own guidance for clinicians, published the same week as the survey, frames this as a collaborative conversation, not a confession.
 
-What helps is being specific. Not just "I've been using AI" but something like: "I've been using a chatbot when I'm anxious late at night, mostly to work through what I'm feeling before I can articulate it. I wanted you to know because I think it might be affecting what I bring into our sessions." That gives your therapist something to actually work with. They can help you figure out whether what you're doing is complementary or potentially getting in the way, and they can help you evaluate the tool itself, because most clinicians can at least help you ask the right questions even if they're not AI specialists.
+What helps is being specific. Not just "I've been using AI" but specifics like when you use it, what for, and whether you think it's affecting what you bring into sessions. That gives your therapist something to actually work with. They can help you figure out whether what you're doing is complementary or potentially getting in the way, and they can help you evaluate the tool itself, because most clinicians can at least help you ask the right questions even if they're not AI specialists.
 
 If you're using AI to manage something serious, a crisis, medication-adjacent questions, trauma processing, please don't let a chatbot be the main thing holding that. The APA advisory is clear that these tools aren't built or validated for that level of care, and the stakes of a gap in support are real.
 

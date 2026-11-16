@@ -41,19 +41,17 @@ You might be wondering whether you need counseling if the divorce was your choic
 
 > **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I'll be direct, because a lot of people pick a therapist without any framework and end up frustrated.
 
 For divorce and separation specifically, a few modalities have real evidence behind them:
 
 **Cognitive Behavioral Therapy (CBT)** is probably the most researched and the most commonly available. It's useful when divorce is generating thought patterns like "I'm unlovable" or "I ruined my children's lives." A 2019 meta-analysis in the *Journal of Consulting and Clinical Psychology* found CBT significantly reduced depression and anxiety in adults experiencing major life transitions, including relationship dissolution. The catch: it's skills-focused and present-oriented, so if you need to process deep history, it can feel a little surface-level. Worth knowing before you start.
 
-**Acceptance and Commitment Therapy (ACT)** works well for people who are stuck in a loop of fighting the reality of what's happened. It teaches you to hold painful feelings without being defined by them. I've seen it work especially well for people who intellectually accept the divorce but emotionally keep bracing for it to reverse.
+**Acceptance and Commitment Therapy (ACT)** works well for people who are stuck in a loop of fighting the reality of what's happened. It teaches you to hold painful feelings without being defined by them. ACT can be especially helpful for people who intellectually accept the divorce but emotionally keep bracing for it to reverse.
 
 **Grief-focused therapy** (sometimes called complicated grief treatment) is worth asking about specifically if the separation involves trauma, sudden loss, or a relationship that ended without closure.
 
-**Co-parenting counseling** is a separate thing entirely and often misunderstood. It's not about your relationship with your ex; it's about developing a functional framework for raising kids together. Some therapists specialize in exactly this. If children are involved, I'd honestly recommend pursuing co-parenting counseling as a parallel track, not a replacement for individual work.
+**Co-parenting counseling** is a separate thing entirely and often misunderstood. The focus is on developing a functional framework for raising kids together, separate from the relationship with your ex. Some therapists specialize in exactly this. If children are involved, I'd honestly recommend pursuing co-parenting counseling as a parallel track, not a replacement for individual work.
 
 A note on couples therapy post-separation: some former partners do engage in what's called "discernment counseling" or "divorce mediation therapy" to reach a more peaceful separation. This can be genuinely useful, but it requires both people to show up in good faith, which isn't always possible.
 
@@ -72,7 +70,7 @@ As of July 2026, individual therapy in the United States ranges considerably dep
 | University training clinic | $0-$40 | Rarely, but often very good quality |
 | Employee Assistance Program (EAP) | $0 (through employer) | Yes, typically 3-8 sessions free |
 
-The EAP option is genuinely underused. I've had colleagues tell me they forgot their employer offered it until they were already paying out-of-pocket for months. Check your HR portal before you spend anything.
+The EAP option is genuinely underused. Many people forget their employer offers it until they're already paying out-of-pocket for months. Check your HR portal before you spend anything.
 
 Psychology Today's therapist directory is one of the better starting points for finding someone in your area who lists "divorce" as a specialty, and you can filter by insurance, fee, and modality. It's not perfect (some listings are outdated), but it's practical.
 
@@ -96,7 +94,7 @@ Start with NAMI's resource page, which has a helpline (1-800-950-6264) and state
 
 When you call a prospective therapist, ask two things: "Do you have specific experience with divorce and separation?" and "What does your approach look like for someone in the early stages?" Their answers will tell you a lot. A good therapist will give you a real answer, not a brochure response. Someone who sounds confused by the question, or who pivots immediately to booking, isn't necessarily bad, but pay attention.
 
-Therapist-client fit matters more than most people expect. I made this mistake myself when I first sought support after a significant loss: I went with the first available appointment and spent six weeks with someone whose style felt clinical and flat when I needed warmth. When I switched, the difference was immediate. Don't treat the first session as a commitment. Treat it as a conversation.
+Therapist-client fit matters more than most people expect. For example, choosing the first available therapist without checking fit can mean weeks with someone whose style doesn't match your needs. Finding the right match typically makes a noticeable difference. Don't treat the first session as a commitment. Treat it as a conversation.
 
 ## A few resources worth having
 
@@ -111,7 +109,6 @@ If you're in between sessions or not yet in therapy, structured workbooks can pr
 - Emery, R.E. (2016). *Two Homes, One Childhood*: Research-based framework on co-parenting and child outcomes post-divorce
 
 ---
-
 
 ---
 

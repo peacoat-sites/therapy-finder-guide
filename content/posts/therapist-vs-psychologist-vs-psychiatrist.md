@@ -77,7 +77,7 @@ Here's a straightforward breakdown to help you think through your situation.
 | Limited access or budget | Community mental health center, telehealth therapist, or SAMHSA's locator |
 | Trauma (PTSD, childhood abuse, sexual assault) | Therapist trained in trauma-specific modalities like EMDR or CPT |
 
-One thing I always tell people: you don't have to have a perfect diagnosis to start therapy. You can walk in and say "I've been feeling off for months and I'm not sure why." A good therapist is trained to help you figure that out.
+You don't have to have a perfect diagnosis to start therapy. You can walk in and say "I've been feeling off for months and I'm not sure why." A good therapist is trained to help you figure that out.
 
 ## Common Fears About Starting (And What's Actually True)
 
@@ -85,7 +85,7 @@ Almost everyone walks into their first appointment carrying some version of the 
 
 **"Therapy is only for people in crisis."** This is one of the most persistent myths in mental health care. Therapy is used by people managing serious mental illness, yes, but also by people working through a career change, trying to be a better partner, or simply wanting to understand themselves more clearly. The National Alliance on Mental Illness ([NAMI](https://www.nami.org/)) estimates that roughly 1 in 5 U.S. adults experience a mental illness in any given year, and the range of need within that statistic is enormous.
 
-**"The therapist will judge me."** In my experience sitting alongside clinical teams, the things clients are most ashamed to say out loud are usually the things therapists have heard dozens of times. Therapists are trained to stay curious, not judgmental. The therapeutic relationship is actually one of the things most predictive of good outcomes, and it's built on trust.
+**"The therapist will judge me."** The things clients are most ashamed to say out loud are usually things therapists have heard many times before. Therapists are trained to stay curious, not judgmental. A strong therapeutic relationship built on trust is one of the most important factors in therapy outcomes.
 
 **"I'll be put on medication immediately."** Only a prescribing provider (a physician, psychiatrist, or psychiatric NP) can put you on medication. A therapist cannot. Many people see therapists for years and never take psychiatric medication, by choice, by preference, or because they don't need it.
 

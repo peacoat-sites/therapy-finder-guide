@@ -29,7 +29,7 @@ Maybe you've been sitting with something heavy for a few weeks, or maybe it's be
 
 It does. And some of it is genuinely good.
 
-Free online support groups aren't therapy, and I want to be honest with you about that from the start. They won't replace a skilled clinician if you're in a real crisis. But for the gap between "I'm struggling" and "I'm in a therapist's office," they can be an actual lifeline. I've watched people use these groups to get stable enough to start therapy, to maintain their progress between sessions, and sometimes to sustain themselves through periods when they simply couldn't afford anything else. That's real value.
+Free online support groups aren't therapy, and I want to be honest with you about that from the start. They won't replace a skilled clinician if you're in a real crisis. But for the gap between "I'm struggling" and "I'm in a therapist's office," they can be an actual lifeline. Many people use these groups to get stable enough to start therapy, to maintain their progress between sessions, and sometimes to sustain themselves through periods when they simply couldn't afford anything else. That's real value.
 
 ## What You're Actually Looking For (Even If You Don't Know It Yet)
 
@@ -47,7 +47,7 @@ Here's what I tell people who are starting from scratch: don't just search "free
 
 **NAMI's online programs** are a good starting point. NAMI Connection Recovery Support Groups are free, peer-led, and held multiple times a week on video. They're designed for adults living with mental health conditions (so not specifically caregiver-focused), and the group facilitators go through real training. You can find the schedule on NAMI's website. They also offer Family Support Groups for people supporting a loved one, which often goes completely unaddressed in the support world.
 
-**7 Cups** is interesting. It's a platform where trained volunteer "listeners" have text-based conversations with people who need to talk. It's not group therapy, but they do host community forums and group chat rooms organized by topic (anxiety, depression, grief, loneliness). Completely free for the basic service. I've had mixed reports from people who've used it: some found a listener who was genuinely compassionate, others got someone who felt scripted. Given that the listeners are volunteers, not professionals, the inconsistency isn't surprising. But the forums, particularly the longer-running community ones, often have real depth.
+**7 Cups** is interesting. It's a platform where trained volunteer "listeners" have text-based conversations with people who need to talk. They host community forums and group chat rooms organized by topic (anxiety, depression, grief, loneliness), though the one-on-one conversations aren't group therapy. Completely free for the basic service. User experiences vary: some find listeners who are genuinely compassionate, while others encounter responses that feel scripted. Given that the listeners are volunteers, not professionals, the inconsistency isn't surprising. But the forums, particularly the longer-running community ones, often have real depth.
 
 **Mental Health America (MHA)** runs an online peer support community called MHA Screening's peer support section, and they offer a wide network of affiliate programs in different states that host virtual groups. Worth checking their site to see what's available in your state specifically.
 
@@ -86,7 +86,6 @@ If none of this feels like enough right now, that's okay. Sometimes the right ne
 - [SAMHSA's treatment locator](https://findtreatment.gov/)
 - [The Cognitive Behavioral Workbook for Depression by William Knaus](https://www.amazon.com/Cognitive-Behavioral-Workbook-Depression-Step/dp/1572245999/?tag=contentportfo-20)
 - [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

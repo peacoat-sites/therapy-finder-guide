@@ -27,13 +27,11 @@ faqs:
 
 About 70% of adults in the U.S. will experience at least one traumatic event in their lifetime, according to the National Council for Behavioral Health. Most will eventually process it and move on. But roughly 20% of those people develop PTSD, and here's where almost every overview article fails them: they list "trauma therapy" as the answer, which is about as useful as telling someone with a broken leg to "see a doctor." The type of therapy matters enormously, and the evidence gap between the best and the rest is not small.
 
-I've spent years helping people find the right clinical match after a trauma diagnosis, and the mistake I see most often isn't people avoiding therapy. It's people trying the wrong therapy for months, deciding "therapy doesn't work," and giving up. That's a preventable tragedy.
+A common mistake after a trauma diagnosis isn't avoiding therapy. It's trying the wrong therapy for months, deciding "therapy doesn't work," and giving up. That's preventable.
 
 The current research picture, as of July 2026, is clearer than it's ever been. Two approaches sit at the top of every major clinical guideline: Prolonged Exposure (PE) and Cognitive Processing Therapy (CPT). Everything else is either adjunctive, less studied, or better suited to specific subtypes of trauma or specific populations. Let's get into what actually separates them.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Prolonged Exposure (PE) and Cognitive Processing Therapy (CPT) have the strongest evidence base for PTSD among all current approaches.</li><li style="margin:5px 0">A 2019 JAMA Psychiatry meta-analysis found PE reduced PTSD symptom severity by an average of 51% compared to control conditions.</li><li style="margin:5px 0">Most evidence-based PTSD protocols run 8-15 sessions; expecting results in 2-3 sessions is a common mismatch in expectations.</li><li style="margin:5px 0">EMDR has solid evidence for single-incident trauma but shows more variable results in complex, repeated-trauma cases.</li><li style="margin:5px 0">Cost ranges from $0 (VA programs, community mental health) to $300+ per session out-of-pocket; insurance and sliding-scale options exist across all income levels.</li></ul></div>
-
 
 ## The Two That Actually Work Best
 
@@ -41,13 +39,11 @@ Prolonged Exposure was developed by Dr. Edna Foa at the University of Pennsylvan
 
 CPT, developed by Dr. Patricia Resick, takes a slightly different angle. Less exposure to the raw memory, more examination of the beliefs the trauma created. "It was my fault." "The world is completely dangerous." "I can never trust anyone." Trauma doesn't just create fear; it creates false conclusions, and CPT targets those directly. A 2017 study in *JAMA Psychiatry* found CPT produced clinically significant improvement in 60% of veterans with combat-related PTSD after 12 sessions, a population notoriously hard to treat.
 
-Which one is better? Honestly, the research is close enough that your preference matters more than any head-to-head data. Some people find PE's direct memory-processing brutal but fast. Others find CPT's structured worksheets steadying. I've seen people drop out of PE because they weren't ready to confront the memory directly, then do incredibly well in CPT six months later. The answer is often "the one you'll actually complete."
+Which one is better? The research is close enough that your preference matters more than any head-to-head data. Some people find PE's direct memory-processing brutal but fast. Others find CPT's structured worksheets steadying. For example, someone might drop out of PE because they weren't ready to confront the memory directly, then do well in CPT six months later. The answer is often "the one you'll actually complete."
 
 ## Where EMDR Fits (And Where It Doesn't)
 
 > **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Eye Movement Desensitization and Reprocessing gets a lot of attention, some of it warranted and some not. EMDR is genuinely effective, particularly for single-incident trauma: a car accident, a specific assault, a one-time medical emergency. The World Health Organization currently recommends it as a first-line treatment alongside trauma-focused CBT, and I don't disagree for those cases.
 
@@ -70,9 +66,7 @@ Here's a honest side-by-side so you're not relying on brochure descriptions.
 
 The cost ranges above reflect out-of-pocket private pay rates current as of July 2026. VA services, [Federally Qualified Health](/federally-qualified-health-center-therapy/) Centers, and sliding-scale community clinics can bring per-session costs to zero or near zero for qualifying individuals.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. Symptom Reduction (%) Across Major PTSD Therapies</div><div class="sc-row"><span class="sc-label">Prolonged Exposure</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">51%</span></div><div class="sc-row"><span class="sc-label">CPT</span><span class="sc-track"><span class="sc-bar" style="width:84%"></span></span><span class="sc-val">49%</span></div><div class="sc-row"><span class="sc-label">EMDR</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">44%</span></div><div class="sc-row"><span class="sc-label">TF-CBT (youth)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">58%</span></div><div class="sc-row"><span class="sc-label">Waitlist/No Tx</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">9%</span></div><div class="sc-src">Source: JAMA Psychiatry meta-analyses and WHO clinical guidelines (2017-2022)</div></div>
-
 
 ## Real Cases, Real Outcomes
 
@@ -107,7 +101,6 @@ One more thing: if you're doing your own preparatory work between or before sess
 - Karatzias T et al., *European Journal of Psychotraumatology* (2021): Comparative review of EMDR and trauma-focused CBT in complex PTSD presentations
 
 ---
-
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

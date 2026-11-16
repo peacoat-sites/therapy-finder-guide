@@ -47,7 +47,7 @@ Here's what you bring:
 
 No credit check. No insurance requirement. No proof of citizenship at most sites, because FQHCs have to serve all patients regardless of immigration status.
 
-I've watched people put off care for months because they thought they "made too much" for reduced fees. The actual numbers often shock them. A single adult earning $30,000 a year might still qualify for a real discount at plenty of sites.
+A common mistake is putting off care for months based on an assumption about income limits for reduced fees. The actual numbers often shock them. A single adult earning $30,000 a year might still qualify for a real discount at plenty of sites.
 
 ## What to Expect from Therapy at an FQHC
 

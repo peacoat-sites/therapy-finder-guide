@@ -51,7 +51,7 @@ Not all therapy is the same. When it comes to social anxiety specifically, the r
 
 **[Acceptance and Commitment Therapy (ACT)](/therapy-for-depression-and-anxiety-together/)** works if traditional CBT feels too clinical. ACT doesn't try to eliminate anxious thoughts; it helps you change your relationship to them. You learn to notice the thought "everyone thinks I'm awkward," hold it loosely, and move toward what matters to you anyway. Some people find this framing genuinely liberating, especially those who've already done rounds of CBT with partial results.
 
-**Group therapy** is underutilized for social anxiety, and honestly, brilliant for it. The idea of sharing your fears with a room full of strangers sounds terrifying, I know. But for social anxiety specifically, the group setting becomes an exposure opportunity built right into the treatment. I've seen clients make breakthroughs in group therapy that months of individual sessions hadn't produced, simply because the real-time social interaction is where the real work happens.
+**Group therapy** is underutilized for social anxiety, and honestly, brilliant for it. The idea of sharing your fears with a room full of strangers can feel terrifying. But for social anxiety specifically, the group setting becomes an exposure opportunity built right into the treatment. Group therapy's real-time social interaction can produce breakthroughs that individual sessions may not, since the exposure happens in the moment.
 
 If you're looking for structured self-directed support while you're waiting to start therapy or between sessions, workbooks built around CBT principles can help. *The Shyness and Social Anxiety Workbook* by Martin Antony and Richard Swinson is one of the most clinically sound options out there. *(Disclosure: this site may earn a commission from Amazon purchases.)*
 
@@ -131,7 +131,6 @@ The anxiety that makes you dread your own voice on a Zoom call, that narrows you
 - [The National Alliance on Mental Illness (NAMI)](https://www.nami.org/)
 - [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
 - [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

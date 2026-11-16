@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You finally worked up the nerve to tell your doctor you've been struggling. She nods, scribbles something on her notepad, and says, "You might want to try a support group or therapy." You leave the office no clearer than when you walked in. Are those the same thing? Is one better than the other? Can you even afford therapy right now?
 
-That vague suggestion felt almost worse than no guidance at all. If that moment sounds familiar, you're not alone, I've seen this exact confusion derail people for months before they finally get help that actually fits them.
+That vague suggestion felt almost worse than no guidance at all. Vague guidance can leave people confused about what to do next, sometimes for months before they find help that actually fits.
 
 Let's sort this out properly.
 
@@ -45,7 +45,7 @@ Here's what most people don't realize: these two things aren't competing options
 
 There's a particular kind of loneliness that therapy can't always touch. It's the sense that no one in your life truly gets what you're going through. When you sit across from a therapist, even a brilliant one, some part of you knows they haven't buried a child or managed a bipolar diagnosis for 20 years. They know the research. They don't know the life.
 
-Support groups fill that gap in ways clinical training never can. I've seen people walk into a grief group after six months of solo therapy and describe it as "the first time I felt normal." The validation you receive from someone who has lived your exact experience carries a weight that clinical expertise simply can't replicate.
+Support groups fill a gap that clinical training alone may not address. The validation that comes from connection with others who share similar experiences can complement individual therapy.
 
 Support groups shine when:
 

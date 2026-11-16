@@ -75,7 +75,7 @@ Therapy once a week leaves 167 hours where you're on your own.
 
 The VA's **PTSD Coach app** is free, clinician-developed, and actually good. It includes symptom tracking, grounding exercises, and psychoeducation that reinforces what happens in session.
 
-For structured self-reflection work, the [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572244993?tag=contentportfo-20) by Forsyth and Eifert is solid ACT-based support that several therapists I've worked with recommend between sessions. (This is an affiliate link; the site may earn a small commission.)
+For structured self-reflection work, the [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572244993?tag=contentportfo-20) by Forsyth and Eifert offers ACT-based structured exercises for self-reflection work between sessions. (This is an affiliate link; the site may earn a small commission.)
 
 Sleep gets treated like a soft issue. It isn't. Trauma-related nightmares are one of the most debilitating PTSD symptoms and one of the most undertreated. If you're in therapy and nobody's addressed your sleep yet, bring it up directly. Image Rehearsal Therapy (IRT) is a specific protocol for trauma nightmares with good evidence. Not every therapist knows it, but it works.
 

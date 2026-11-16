@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 If you've [recently started therapy](/starting-therapy-as-adult-guide/), or you're thinking about it, there's a good chance you've wondered what to do with the six days between sessions. An hour a week is genuinely not a lot of time. You and your therapist can only get so far before the session ends and you're back in your car, half-processed, sitting with things that didn't quite get resolved. That gap is real, and it matters.
 
-Journaling between sessions is one of the most consistently useful things I've seen people do to get more out of therapy. Not because it's some mystical practice, but because it keeps the work going when your therapist isn't in the room.
+Journaling between sessions can extend therapy's benefits beyond the session. It keeps the work going when your therapist isn't in the room.
 
 Here's what I tell people who are skeptical: you don't have to be a writer. You don't need a beautiful notebook. You don't need to write every day, and you don't need to produce anything coherent. The point isn't the writing. The point is that the act of writing slows your thinking down enough to notice what's actually happening inside you.
 
@@ -46,11 +46,9 @@ The research on expressive writing is pretty compelling. James Pennebaker, a psy
 
 > **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where most people get stuck. They open a blank page, think "I should write about my feelings," and then feel nothing or everything simultaneously.
 
-Start with specifics, not abstractions. Instead of "I've been anxious this week," try: what happened Tuesday afternoon when you got that text from your mom? What did your chest feel like? What did you do right after? Specificity cracks things open in a way that general reflection almost never does.
+Start with specifics, not abstractions. Instead of "I've been anxious this week," try: what happened Tuesday afternoon when you got that text from your mom? What did your chest feel like? What did you do right after? Specificity reveals patterns and connections that general reflection misses.
 
 A few things that tend to work well:
 
@@ -82,7 +80,6 @@ Keep entries short enough that you'll actually write them. A paragraph is fine. 
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
@@ -96,7 +93,6 @@ Keep entries short enough that you'll actually write them. A paragraph is fine. 
 - [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
 - [NAMI (the National Alliance on Mental Illness)](https://www.nami.org/)
 - [mindfulness and self-reflection journal](https://www.amazon.com/s?k=mindfulness+self+reflection+therapy+journal)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

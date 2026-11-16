@@ -31,9 +31,7 @@ Medication management with a psychiatrist is one of those phrases that sounds mo
 
 Here's what I tell people who are about to have their first psychiatric appointment: this is going to be slower and more collaborative than you expect. A good psychiatrist isn't rushing to prescribe. They're building a picture of your history, your symptoms, your physical health, what you've already tried, and what your life actually looks like day to day. The prescription, if it comes, comes out of that picture.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medication management visits are typically 15-30 minutes; initial evaluations run 45-90 minutes.</li><li style="margin:5px 0">Most psychiatric medications take 2-8 weeks to show meaningful effect, patience is genuinely required.</li><li style="margin:5px 0">Psychiatrists adjust doses based on symptom response, not fixed timelines; expect 2-4 follow-ups in the first year.</li><li style="margin:5px 0">Telepsychiatry, available in most states as of 2026, has significantly expanded access for people in rural or underserved areas.</li><li style="margin:5px 0">Stopping psychiatric medication abruptly can cause withdrawal or relapse; always consult before changing your dose.</li></ul></div>
-
 
 ## What Medication Management Actually Involves
 
@@ -49,15 +47,11 @@ One detail that only becomes obvious after you've sat in on a few of these appoi
 
 > **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 You might be wondering whether there's a test that tells your psychiatrist exactly which medication to prescribe. The honest answer is: sort of, but not really.
 
-Genetic pharmacology testing, products like GeneSight or Genomind, can tell a psychiatrist how your body metabolizes certain drugs. These tests look at liver enzymes like CYP2D6 and CYP2C19, which affect how quickly you break down medications like SSRIs, tricyclics, and some antipsychotics. Insurance coverage for this testing is inconsistent in 2026, often running $300 to $2,000 out of pocket if not covered. In my experience watching clinicians use these results, they're most useful for patients who've had unexpected reactions to medications in the past, not as a first-line tool for everyone.
+Genetic pharmacology testing, products like GeneSight or Genomind, can tell a psychiatrist how your body metabolizes certain drugs. These tests look at liver enzymes like CYP2D6 and CYP2C19, which affect how quickly you break down medications like SSRIs, tricyclics, and some antipsychotics. Insurance coverage for this testing is inconsistent in 2026, often running $300 to $2,000 out of pocket if not covered. These tests tend to be most useful for patients who've had unexpected reactions to medications in the past, rather than as a first-line tool for everyone.
 
 More often, the initial medication choice is based on your specific diagnosis, symptom profile, other health conditions, what you've tried before, and practical factors like your insurance formulary. There's real science here, but there's also clinical judgment. The research on antidepressants, for instance, consistently shows that the difference in efficacy between most SSRIs is small; tolerability and side effect profile often drive the choice more than raw effectiveness data.
-
-Here's a worked example from what I've seen in practice:
 
 A 34-year-old woman with moderate generalized anxiety and a history of GI sensitivity is evaluated. Her psychiatrist considers an SSRI, but given her GI concerns, starts her on buspirone instead of sertraline. After 6 weeks at 15mg twice daily, her anxiety scores on the GAD-7 drop from 14 (moderate) to 7 (mild). They hold the dose. Three months later, she's stable enough to taper follow-ups to every 90 days.
 
@@ -96,7 +90,7 @@ Research published in JAMA Psychiatry consistently shows that combination treatm
 
 If you're in a situation where you're unsure whether you need medication, therapy, or both, a psychiatrist evaluation doesn't commit you to anything. It gives you information. And if you're in crisis right now, please reach out to the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) by calling or texting 988.
 
-One practical note: some people find that starting medication actually frees up enough mental bandwidth to get more out of a CBT workbook between sessions. If that describes you, something like [Mind Over Mood by Greenberger and Padesky](https://amzn.to/3example2) is the most clinically backed self-help CBT resource I've seen used effectively alongside psychiatric care (commission disclosure applies here too).
+Starting medication can sometimes free up enough mental bandwidth to get more out of a CBT workbook between sessions. [Mind Over Mood by Greenberger and Padesky](https://amzn.to/3example2) is widely considered the most clinically backed self-help CBT resource for use alongside psychiatric care (commission disclosure applies here too).
 
 ## Sources
 
@@ -107,7 +101,6 @@ One practical note: some people find that starting medication actually frees up 
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/): Crisis intervention and referral services available 24/7 by call or text.
 
 ---
-
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

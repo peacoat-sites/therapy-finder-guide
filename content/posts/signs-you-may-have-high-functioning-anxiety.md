@@ -31,7 +31,7 @@ That's exactly the problem with high-functioning anxiety. It doesn't look like a
 
 ## What "High Functioning Anxiety" Actually Means (And What It Doesn't)
 
-Here's the thing: "high-functioning anxiety" isn't a clinical diagnosis. You won't find it in the DSM-5. What it describes, practically speaking, is someone who meets enough criteria for an anxiety disorder (usually Generalized Anxiety Disorder, or GAD), but whose coping mechanisms are so externally effective that the anxiety stays hidden. Sometimes even from themselves.
+"High-functioning anxiety" isn't a clinical diagnosis. You won't find it in the DSM-5. What it describes, practically speaking, is someone who meets enough criteria for an anxiety disorder (usually Generalized Anxiety Disorder, or GAD), but whose coping mechanisms are so externally effective that the anxiety stays hidden. Sometimes even from themselves.
 
 This matters because it changes how people seek help, or more accurately, how long they avoid seeking it. When your anxiety is producing results, canceling it feels dangerous. The chronic over-preparation, the triple-checking, the inability to leave anything undone: those behaviors feel like personality traits, not symptoms. You've built a life around them.
 
@@ -75,7 +75,7 @@ Then there's the simple problem that high-functioning anxiety often doesn't feel
 
 ## What Actually Helps
 
-Cognitive Behavioral Therapy (CBT) has the most consistent evidence base for anxiety disorders. It's not venting to a professional, it's structured work on the thought patterns that are driving the behavior. A good CBT therapist will help you examine the catastrophizing loop, test whether your predictions actually come true, and gradually build tolerance for uncertainty. That last part is where most of the work is.
+Cognitive Behavioral Therapy (CBT) has the most consistent evidence base for anxiety disorders. CBT involves structured work on the thought patterns that drive anxiety. A good CBT therapist will help you examine the catastrophizing loop, test whether your predictions actually come true, and gradually build tolerance for uncertainty. That last part is where most of the work is.
 
 Finding a therapist can feel like a project, which is a particular kind of irony when you're too overwhelmed to start one. [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by specialty, insurance, and location. Most listings include a photo and description so it's less like cold-calling a stranger. It's not perfect, but it's reasonable.
 

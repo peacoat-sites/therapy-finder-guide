@@ -31,8 +31,7 @@ That's not a motivation problem. It's a context problem. Nobody told them what t
 
 [Cognitive Behavioral Therapy worksheets](/cognitive-behavioral-therapy-explained/) are structured writing exercises built around one central idea: your thoughts, feelings, and behaviors are connected, and you can learn to interrupt unhelpful patterns by examining them on paper. That's the whole thing. Everything else flows from that.
 
-I've watched people turn that abstract idea into something genuinely useful for themselves, and I've also watched people spend months filling out worksheets mechanically without getting much out of them. The difference almost always comes down to whether they understood what they were doing and why.
-
+Some people turn that abstract idea into something genuinely useful for themselves, while others spend months filling out worksheets mechanically without getting much out of them. The difference almost always comes down to whether they understood what they were doing and why.
 
 <div class="value-module">
  <div class="vm-head">Common CBT Worksheet Types Compared</div>
@@ -100,7 +99,6 @@ They're genuinely useful for people who are in therapy and want something to wor
 What they're not: a replacement for professional support if you're dealing with trauma, severe depression, active suicidal ideation, or anything that's significantly disrupting your daily functioning. In those situations, worksheets might still have a role, but that role should be decided with a therapist. Please don't try to CBT your way through a crisis alone.
 
 The research is also worth being honest about. CBT is one of the most well-studied psychological treatments we have, with strong evidence for anxiety disorders, depression, OCD, and several other conditions. But worksheets specifically are a delivery mechanism, not the active ingredient. The thinking skills they build are what help. Which means low-effort, box-ticking completion of a worksheet probably doesn't do much.
-
 
 ## Sources & References
 

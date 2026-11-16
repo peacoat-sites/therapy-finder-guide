@@ -50,8 +50,6 @@ A trained Gottman therapist watches for these four patterns, interrupts them in 
 
 > **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 If you walk into a Gottman-trained therapist's office expecting to sit on a couch while the therapist asks open-ended questions about your childhood, you'll be confused.
 
 A typical first session includes an assessment called the "Couples Therapy Intake," which is more structured questionnaire than conversation. The therapist wants to know your history, what's broken, what you've tried before. But they're also listening for which Horsemen appear in how you describe the problem. Do you blame each other? Where's the contempt in your language? Do you cut each other off? The assessment takes about 90 minutes.
@@ -66,7 +64,7 @@ None of this is mystical. It's mechanical. You learn the pattern, you practice t
 
 ## When Gottman Works, and When It Doesn't
 
-I've seen [Gottman method create real change](/does-marriage-counseling-actually-work/). A couple in their mid-40s, married 18 years, were heading toward divorce. He was contemptuous about her career choices. She'd gone defensive and was threatening to leave. Eight weeks in, the therapist helped him see that his contempt came from his own anxiety about money, not actual judgment of her. Once he articulated that anxiety instead of contempt, she stopped defending. Within four months, they reported genuinely liking each other again. That's not magic. That's the method working.
+[The Gottman method can create real change](/does-marriage-counseling-actually-work/). For example, when one partner's contempt is reframed as anxiety and expressed directly rather than as judgment, the other partner often stops defending and the dynamic shifts. Within months, couples frequently report renewed connection.
 
 But it doesn't work for everyone. Gottman research is honest about this. If there's active infidelity and the unfaithful partner isn't genuinely remorseful, the method will surface that fact quickly but won't fix it. If one person is actively abusive, Gottman method isn't the answer; safety comes first. If one partner has checked out entirely and doesn't want to be there, the techniques won't resurrect motivation that isn't present.
 
@@ -91,7 +89,6 @@ A couple from Portland worked with a Gottman therapist for 16 sessions over four
 - [Journal of Family Psychology studies on Gottman method efficacy](https://www.apa.org/pubs/journals/fam): Peer-reviewed research validating outcomes.
 - [Psychology Today Therapist Directory](https://www.psychologytoday.com/): Filters by approach (including Gottman) and location, though double-check credentials separately.
 - [SAMHSA's treatment locator](https://findtreatment.gov/): If you need broader mental health support resources, including couples therapy in your area.
-
 
 ---
 

@@ -30,7 +30,7 @@ Most people think Emotionally Focused Therapy is just "talking about your feelin
 
 EFT was developed in the 1980s by Dr. Sue Johnson and Les Greenberg, and it's built on [attachment theory](/therapy-for-relationship-issues/), the idea that humans are hardwired to need secure emotional bonds and that a huge proportion of our suffering comes from when those bonds feel threatened or broken. Johnson went on to focus the approach specifically on couples; Greenberg took it in a more individual direction. Both streams are genuinely useful, but they've evolved into somewhat different practices. I'll focus primarily on the couples model here, because that's where the bulk of the clinical research exists and where EFT has become particularly well-established.
 
-Here's what surprised me when I first got into this: EFT is one of the most rigorously studied approaches in couples therapy. A 2019 meta-analysis published in *Journal of Marital and Family Therapy* found that roughly 70-75% of couples who completed EFT moved from distress to recovery, with about 90% showing significant improvement. Those numbers are, frankly, unusual for any psychotherapy outcome study. Most therapy modalities, when you look at the hard data, show more modest effects. EFT is something of an outlier.
+EFT is one of the most rigorously studied approaches in couples therapy. A 2019 meta-analysis published in *Journal of Marital and Family Therapy* found that roughly 70-75% of couples who completed EFT moved from distress to recovery, with about 90% showing significant improvement. Those numbers are, frankly, unusual for any psychotherapy outcome study. Most therapy modalities, when you look at the hard data, show more modest effects. EFT is something of an outlier.
 
 ## What Actually Happens in EFT Sessions
 
@@ -45,8 +45,6 @@ The therapy typically runs 8-20 sessions depending on the level of distress, tho
 ## EFT for Individuals (EFIT) and for Families
 
 > **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The individual version, officially called Emotionally Focused Individual Therapy or EFIT, draws on the same attachment framework. It looks at how early relational experiences shaped your internal working model of relationships, and how that model may be driving current anxiety, depression, or relational patterns. If you've ever found yourself in therapy talking endlessly about your childhood without it seeming to change anything, EFIT would take a different approach: it's more experiential, focused on what's happening in the body and in the emotional experience in real time during the session.
 
@@ -101,7 +99,6 @@ If you're in EFT or considering it, some people find it helpful to work with str
 - [National Alliance on Mental Illness (NAMI)](https://www.nami.org): General mental health resources and crisis support, including guidance on safety planning.
 
 ---
-
 
 ---
 

@@ -33,9 +33,9 @@ Here's what I tell people in that situation: sliding scale therapy exists specif
 
 At its core, sliding scale therapy means the therapist charges you a fee based on your income and financial circumstances rather than a fixed rate. The "scale" part is literal: the lower your income, the lower your session fee. A therapist might set their standard rate at $175 per session but accept anywhere from $40 to $175 depending on what a client can genuinely afford.
 
-The therapist sets the range themselves. There's no federal regulation dictating what the scale looks like. Some use a simple tiered system (think: three income brackets, three prices). Others do a true calculation based on your monthly take-home pay, family size, and fixed expenses. When I first started connecting clients to sliding scale providers, I assumed the process was more standardized than it is. It isn't. Every practice, every community mental health center, every training clinic does it differently, which is both frustrating and kind of freeing once you understand it.
+The therapist sets the range themselves. There's no federal regulation dictating what the scale looks like. Some use a simple tiered system (think: three income brackets, three prices). Others do a true calculation based on your monthly take-home pay, family size, and fixed expenses. The process varies significantly across providers. Every practice, every community mental health center, and every training clinic handles sliding scales differently.
 
-One thing you might be wondering: do I have to prove my income? Sometimes, yes. Some providers ask for a pay stub or tax return. Others operate on an honor system and take your word for it. In my experience, the honor-system approach is far more common than people expect, especially in private practice settings where the therapist is genuinely motivated to help.
+One thing you might be wondering: do I have to prove my income? Sometimes, yes. Some providers ask for a pay stub or tax return. Others operate on an honor system and take your word for it. The honor-system approach is common, especially in private practice settings where the therapist is motivated to help.
 
 ## Who Offers Sliding Scale, and Where to Find Them
 
@@ -69,7 +69,7 @@ Federally Qualified Health Centers deserve more attention than they get. These a
 
 ## Three Real Scenarios
 
-A situation I've seen play out many times: A single parent in Phoenix earning $32,000 a year contacts a community mental health center. She's told the sliding fee scale puts her at $15 per session based on her income documentation. She waits six weeks for an opening, then sees a licensed social worker weekly for eight months. Total out-of-pocket cost: approximately $480 for 32 sessions, compared to $5,600 at standard private practice rates.
+For example, someone earning $32,000 a year might be placed at $15 per session based on income documentation at a community mental health center. Over eight months of weekly sessions (32 sessions), that totals approximately $480 out-of-pocket, compared to $5,600 at standard private practice rates.
 
 A different path: A recent college graduate in Chicago, employed part-time and uninsured, joins Open Path Collective for the $65 membership fee and finds a therapist offering sessions at $50. He's in his first appointment within nine days. That $65 upfront felt like a barrier to him; he almost didn't do it. I hear that a lot. It's worth it.
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 The honest answer nobody wants to hear is: you probably can't know which one is right for you without trying. And that uncertainty is genuinely hard to sit with when you're depressed and barely have the energy to make coffee in the morning, let alone research treatment options.
 
-But here's what I've seen, working alongside psychiatrists, therapists, and the people caught between them: the "therapy vs. medication" framing is itself part of the problem. It forces a competition where there doesn't need to be one. So before we get into the real differences (and there are meaningful ones), I want to say clearly: most of the people I've watched get genuinely better used both, at least for a period. That doesn't mean you have to. It just means the either/or question may be leading you somewhere less useful than you think.
+The "therapy vs. medication" framing is itself part of the problem. It forces a competition where there doesn't need to be one. Most people who improve use both therapy and medication, at least for a period. The either/or question may be less useful than considering both options.
 
 That said, you came here for actual information.
 
@@ -40,11 +40,11 @@ That said, you came here for actual information.
 
 A 2016 study in *World Psychiatry* summarized decades of data on this, and the finding was pretty consistent: for mild to moderate depression, psychotherapy (particularly cognitive behavioral therapy, or CBT) and antidepressants produce roughly comparable outcomes. Neither crushes the other. For severe depression, the evidence tilts toward medication, often in combination with therapy, because severe depression can impair the concentration and emotional processing that therapy requires.
 
-What most people don't realize is that response rates for antidepressants alone are humbling. The STAR*D trial, a massive NIMH-funded study from the early 2000s, found that only about a third of patients achieved remission on their first antidepressant. A third. Two-thirds of people had to try something different, either a different medication, a higher dose, or adding something else entirely. That's not a condemnation of medication. It's just the honest picture.
+Response rates for antidepressants alone are modest. The STAR*D trial, a massive NIMH-funded study from the early 2000s, found that only about a third of patients achieved remission on their first antidepressant. A third. Two-thirds of people had to try something different, either a different medication, a higher dose, or adding something else entirely.
 
 Therapy has its own complications. CBT works well for many people, but it requires engagement. You have to do the homework, challenge the thoughts, show up even when it feels pointless. For someone in a severe depressive episode, that cognitive load can be a real barrier. I've talked to people who dropped out of therapy not because it was wrong for them, but because they needed to be stabilized on medication first before they had enough mental bandwidth to actually benefit from sessions.
 
-Long-term outcomes get messier. Some studies suggest therapy has a more durable effect after treatment ends (because you've built skills you keep using), while medication effects tend to taper when you stop taking it. But this isn't universal, and it doesn't mean medication is just a band-aid. For some people, a course of antidepressants during a hard period is exactly what they needed. For others, long-term maintenance medication is the appropriate, well-supported choice.
+Long-term outcomes differ between approaches. Therapy may have a more durable effect after treatment ends, since the skills you've built continue to apply; medication effects often fade when you stop taking it. But this pattern doesn't hold for everyone, and medication can be far more than a temporary fix. A course of antidepressants during a difficult period may be the right choice. For others, long-term maintenance medication is well-supported and appropriate.
 
 ## What therapy actually does (and doesn't do)
 

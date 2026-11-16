@@ -39,7 +39,7 @@ That last part is where most therapists, however well-meaning, stumble.
 
 A therapist can have a PhD, can mean well, and can still assume that a first-generation Korean-American client's depression stems from family enmeshment. Or assume that a Black man minimizing his symptoms is "resistant" rather than reasonably cautious in a medical system with a well-documented history of dismissing Black pain. Cultural competence asks therapists to catch those assumptions before they land in the room.
 
-Here's what I think people get wrong: you don't need a therapist who shares your background. I've watched this assumption derail people's search for months. A white therapist with genuine multicultural training and consistent supervision can serve a Latinx client better than a Latinx therapist who's never examined their own internalized stigma around mental health. Background matters. It's one data point, not the whole answer.
+A common misconception is that you need a therapist who shares your background. This assumption can derail a person's search for months. A therapist with genuine multicultural training and consistent supervision may serve a client better than one without those qualifications, regardless of shared background. Background is one relevant factor among many.
 
 ---
 
@@ -104,7 +104,6 @@ Finding a therapist who can actually hold the full complexity of who you are isn
 - [Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)
 - [Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)
 - [Gustavo Fring](https://www.pexels.com/@gustavo-fring)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

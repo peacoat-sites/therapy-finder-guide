@@ -29,9 +29,7 @@ Most people who end up calling an LMFT for the first time spent at least six mon
 
 That's where it gets murky. Therapist licensing is genuinely confusing, and I'd be doing you a disservice if I pretended otherwise. There are LCSWs, LPCs, PhDs, PsyDs, and then there are LMFTs, which stands for Licensed Marriage and Family Therapist. They're not all the same, and for certain kinds of problems, the difference matters more than most people realize.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">LMFTs specialize in relational and systemic therapy, not just individual mental health treatment.</li><li style="margin:5px 0">They complete 3,000+ supervised clinical hours before licensure in most U.S. states.</li><li style="margin:5px 0">LMFTs can treat individuals, couples, families, and children, despite the name suggesting otherwise.</li><li style="margin:5px 0">Session costs range roughly $100-$250 out of pocket; many accept insurance as of 2026.</li><li style="margin:5px 0">An LMFT is often the better choice over a general therapist for relationship conflict, divorce, or family dynamics issues.</li></ul></div>
-
 
 ## What an LMFT Actually Does (and the Name Is Misleading)
 
@@ -45,11 +43,9 @@ The training pipeline is rigorous. A master's degree in marriage and [family the
 
 > **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I get this question more than almost any other: "What's the actual [difference between](/difference-between-psychologist-psychiatrist-and-therapist/) an LMFT and an LCSW or an LPC?"
 
-Honestly, in day-to-day practice there's more overlap than the licensing categories suggest. A skilled LCSW can absolutely do couples therapy. An LPC can work with family systems. But the *training emphasis* is different, and that matters when you're picking someone for a specific problem.
+In day-to-day practice there's more overlap than the licensing categories suggest. A skilled LCSW can absolutely do couples therapy. An LPC can work with family systems. But the *training emphasis* is different, and that matters when you're picking someone for a specific problem.
 
 | Credential | Full Title | Training Focus | Can Prescribe Meds? | Typical Specialty |
 |---|---|---|---|---|
@@ -65,7 +61,7 @@ The practical takeaway: if your primary concern involves your relationship, your
 
 As of August 2026, out-of-pocket rates for an LMFT session typically land somewhere between $100 and $250 per hour, depending on location, the therapist's experience level, and whether they're in private practice or a group setting. Therapists in major metro areas like New York, Los Angeles, or Seattle tend to be at the higher end of that band. Therapists in smaller markets or those offering telehealth-only practices often charge less.
 
-Insurance coverage exists, but it's uneven. Many LMFTs are paneled with major insurance networks including BlueCross BlueShield, Aetna, and Cigna, and "family therapy" and "individual psychotherapy" are covered services under most major plans. The catch is that your insurer typically requires a DSM-5 diagnosis code on the claim, which means if you're coming in for "we argue too much" rather than a diagnosable condition, some couples therapy sessions may not be covered. This surprises a lot of people. When I first learned this during a training session with an insurance specialist, I genuinely didn't believe her. Check your specific plan's mental health benefits before your first session.
+Insurance coverage exists, but it's uneven. Many LMFTs are paneled with major insurance networks including BlueCross BlueShield, Aetna, and Cigna, and "family therapy" and "individual psychotherapy" are covered services under most major plans. The catch is that your insurer typically requires a DSM-5 diagnosis code on the claim, which means if you're coming in for "we argue too much" rather than a diagnosable condition, some couples therapy sessions may not be covered. Check your specific plan's mental health benefits before your first session.
 
 Sliding scale fees are more common among LMFTs than most people realize. Asking doesn't hurt, and most therapists would rather see you at a reduced rate than not at all.
 
@@ -120,7 +116,6 @@ These aren't replacements for treatment. They're practice tools. There's a diffe
 - [American Association for Marriage and Family Therapy (AAMFT)](https://www.aamft.org/): Professional organization defining LMFT scope of practice and training standards.
 
 ---
-
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

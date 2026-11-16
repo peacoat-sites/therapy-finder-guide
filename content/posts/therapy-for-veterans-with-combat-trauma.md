@@ -31,9 +31,7 @@ Combat trauma is not the same as civilian PTSD, and treatment that ignores that 
 
 I'll be honest: this article took me into some uncomfortable territory. Because the research landscape here is less settled than the VA's official messaging sometimes implies, and veterans deserve to know that.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Trauma-focused therapies (CPT, PE, EMDR) outperform general talk therapy for combat PTSD, with 60-70% response rates vs. roughly 40%.</li><li style="margin:5px 0">VA care is free or very low-cost for eligible veterans; private therapy typically runs $120-$250 per session without insurance.</li><li style="margin:5px 0">EMDR now has strong VA/DoD clinical practice guideline support, equal to CPT and PE, as of 2023.</li><li style="margin:5px 0">Many veterans respond better starting with body-based stabilization before trauma processing; sequence matters.</li><li style="margin:5px 0">Peer support specialists (veterans who are trained counselors) measurably improve treatment retention rates.</li></ul></div>
-
 
 ## Why Combat Trauma Hits Differently
 
@@ -46,8 +44,6 @@ There's also the culture problem. And I say this with genuine respect for milita
 ## The Therapies That Actually Have Evidence
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me run through what the research actually supports, because there's a lot of noise out there.
 
@@ -77,15 +73,13 @@ A question I get constantly: "How do I actually access any of this?" The honest 
 
 A note on the VA intake process from personal experience: when a veteran I was helping first walked into their local VA mental health clinic, they were handed a PCL-5 (the 20-item PTSD checklist) and a PHQ-9 (depression screen) before they even met a human being. That's standard. Knowing that in advance takes away some of the "what is happening" feeling. The PCL-5 score gets used to track progress across sessions, which is actually useful.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">PTSD symptom reduction by therapy type (avg PCL-5 point drop)</div><div class="sc-row"><span class="sc-label">CPT</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">23 pts</span></div><div class="sc-row"><span class="sc-label">Prolonged Exposure</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">22 pts</span></div><div class="sc-row"><span class="sc-label">EMDR</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">20 pts</span></div><div class="sc-row"><span class="sc-label">Talk Therapy (supportive)</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">9 pts</span></div><div class="sc-row"><span class="sc-label">Medication only</span><span class="sc-track"><span class="sc-bar" style="width:48%"></span></span><span class="sc-val">11 pts</span></div><div class="sc-src">Source: VA/DoD CPG 2023 meta-analysis</div></div>
-
 
 ## The Sequence Question Nobody Talks About
 
 Here's something I wish more guides addressed: not every veteran should start with trauma processing. Some people walk in too dysregulated to sit with trauma content without re-traumatizing. A veteran who can't go five minutes without scanning exits, who's averaging three hours of sleep, who has significant substance use, may need stabilization first.
 
-In practice, this often looks like: 8-12 weeks of skills-based work (dialectical behavior therapy skills, grounding techniques, sleep hygiene, sometimes addressing substance use) before moving into CPT or PE. This isn't weakness or delay. It's clinical sense. I've watched therapists who skipped this step lose patients after the second session because the person flooded and didn't come back.
+In practice, this often looks like: 8-12 weeks of skills-based work (dialectical behavior therapy skills, grounding techniques, sleep hygiene, sometimes addressing substance use) before moving into CPT or PE. This isn't weakness or delay. It's clinical sense. Skipping stabilization often leads to dropout, because the person floods and doesn't return.
 
 The other sequencing note: peer support matters enormously as an *adjunct*. Research from the Rand Corporation found that veterans who had a peer support specialist alongside their formal treatment had 22% higher treatment completion rates. The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) maintains a resource page specifically for veterans that includes peer support program listings by state.
 
@@ -95,7 +89,7 @@ This is where I see people make the most expensive mistakes, both financially an
 
 [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by PTSD, military/veteran issues, and specific modalities, which saves time. But still ask the questions. The filters aren't verified.
 
-One useful self-guided supplement for veterans starting therapy or waiting for an appointment: the *PTSD Coach* app (free, built by the VA's National Center for PTSD) has solid evidence behind it as a between-session support tool. For structured workbook work, Claudia Zayfert and Carolyn Black Becker's [*Cognitive-Behavioral Treatment of PTSD: A Case Formulation Approach*](https://www.amazon.com/s?k=cognitive+behavioral+treatment+PTSD+veterans&tag=contentportfo-20) is what many CPT-trained therapists assign as supplementary reading (note: this site may earn a small commission on Amazon purchases). It's clinical, but veterans I've worked with who wanted to understand the "why" behind their therapy found it genuinely useful, not overwhelming.
+One useful self-guided supplement for veterans starting therapy or waiting for an appointment: the *PTSD Coach* app (free, built by the VA's National Center for PTSD) has solid evidence behind it as a between-session support tool. For structured workbook work, Claudia Zayfert and Carolyn Black Becker's [*Cognitive-Behavioral Treatment of PTSD: A Case Formulation Approach*](https://www.amazon.com/s?k=cognitive+behavioral+treatment+PTSD+veterans&tag=contentportfo-20) is what many CPT-trained therapists assign as supplementary reading (note: this site may earn a small commission on Amazon purchases).
 
 ## Sources
 
@@ -106,7 +100,6 @@ One useful self-guided supplement for veterans starting therapy or waiting for a
 - [National Center for PTSD, U.S. Department of Veterans Affairs](https://www.ptsd.va.gov/): Comprehensive resource for evidence-based treatment options and self-help tools, including the PTSD Coach app.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

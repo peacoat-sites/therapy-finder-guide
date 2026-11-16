@@ -29,11 +29,9 @@ Most people assume therapy is slow. Like, glacially slow. And I'll be honest: I 
 
 About 50% of therapy clients show clinically significant improvement within 8 sessions, according to research by Kenneth Howard and colleagues published in the *American Psychologist*. Eight sessions. That's roughly two months at the standard once-a-week pace. Not two years. Not "years of unpacking your childhood." Two months for half of people to feel meaningfully better.
 
-That number doesn't mean everyone hits that mark, and it absolutely doesn't mean you should panic if session eight comes and goes without a breakthrough. But it does mean the cultural story we tell about therapy, that it's this long, slow, indefinite process, is not the whole picture. The reality is more varied, more hopeful in some cases, and more complicated in others.
-
+That number doesn't mean everyone hits that mark, and it absolutely doesn't mean you should panic if session eight comes and goes without a breakthrough. But it does mean the cultural story we tell about therapy, that it's this long, slow, indefinite process, is not the whole picture. The picture is more varied, more hopeful in some cases, and more complicated in others.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">50% of clients show significant improvement within 8 sessions (Howard et al., American Psychologist)</li><li style="margin:5px 0">Most short-term therapy models run 12-20 sessions, roughly 3-5 months weekly</li><li style="margin:5px 0">Symptom type matters enormously: phobias may resolve in weeks; complex trauma often takes 1-2 years</li><li style="margin:5px 0">Therapist fit and therapy type affect speed as much as the presenting problem does</li><li style="margin:5px 0">Feeling worse in weeks 2-4 is common and does not mean therapy isn't working</li></ul></div>
-
 
 ## The Numbers Underneath the Timeline Question
 
@@ -49,8 +47,6 @@ Compare that to trauma processing. EMDR (Eye Movement Desensitization and Reproc
 
 > **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This table reflects typical treatment lengths across current clinical guidelines and published trial data. Individual variation is real, and these are ranges, not guarantees.
 
 | Therapy Type | Common Target | Typical Duration | Best-evidence for... |
@@ -65,9 +61,7 @@ This table reflects typical treatment lengths across current clinical guidelines
 
 What surprised me was how much the therapy modality shifts the expected timeline, sometimes more than the problem itself. Someone with severe depression using SFBT and someone with mild depression using [psychodynamic therapy](/psychodynamic-therapy-vs-cbt/) might be on completely opposite schedules, with the more severe case resolving faster if the modality is better matched.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical sessions to meaningful improvement by therapy type</div><div class="sc-row"><span class="sc-label">CBT (anxiety/depression)</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">14 sessions</span></div><div class="sc-row"><span class="sc-label">EMDR (single-incident trauma)</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">10 sessions</span></div><div class="sc-row"><span class="sc-label">Exposure/ERP (OCD)</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">15 sessions</span></div><div class="sc-row"><span class="sc-label">Solution-Focused Brief</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">5 sessions</span></div><div class="sc-row"><span class="sc-label">DBT (full program)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">52 sessions</span></div><div class="sc-src">Source: Published clinical trial averages and WHO guidelines</div></div>
-
 
 ## What Actually Slows Progress Down
 
@@ -87,7 +81,7 @@ Life instability. Active crisis (housing insecurity, ongoing relationship violen
 
 ## The "Am I Getting Better?" Problem
 
-Here's where I always see people go wrong. And I'll be honest, I did this too when I first started tracking client outcomes as part of an intake process. People expect to feel better in a smooth upward line. That's not how it works.
+A common expectation that doesn't match reality: People expect to feel better in a smooth upward line. That's not how it works.
 
 Weeks 2 through 6 are often rough. You're doing the work of naming things you've been avoiding, and that stirs stuff up before it settles. A 2018 study in *Psychotherapy Research* specifically documented a "sudden gains" pattern: many clients experience one or two large, rapid jumps in wellbeing (sometimes 50% of their total improvement happening in a single week) followed by plateaus. If you're in a plateau, it doesn't mean you've stopped improving. It often means a sudden gain is coming.
 
@@ -118,7 +112,6 @@ As of August 2026, the consensus in clinical research is clear enough that I fee
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/): National crisis support resource, available 24/7 by call or text.
 
 ---
-
 
 *Photo: [https://kaboompics.com/](https://www.pexels.com/@karola-g) via Pexels*
 

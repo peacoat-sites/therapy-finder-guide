@@ -37,7 +37,7 @@ What mindfulness-based therapy isn't: a spiritual belief system you have to adop
 
 ## The Research Behind It: Why Clinicians Take This Seriously
 
-I've watched psychiatrists and psychologists who dismissed mindfulness ten years ago become believers. The evidence got too solid to ignore.
+Mindfulness has gained acceptance among mental health professionals as research has accumulated supporting its effectiveness.
 
 MBCT reduced the risk of depression coming back by about 43% in people who'd had three or more depressive episodes, according to randomized controlled trials that convinced both UK and US clinical guidelines to include it. The National Alliance on Mental Illness ([NAMI](https://www.nami.org/)) lists mindfulness-based approaches as part of the toolkit for depression, anxiety, and PTSD.
 

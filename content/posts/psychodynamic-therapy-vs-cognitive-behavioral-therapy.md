@@ -33,8 +33,6 @@ What surprised me was how much CBT relies on the assumption that your thoughts a
 
 > **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Psychodynamic therapy is descended from psychoanalysis, but it's not lying on a couch for five years. Modern psychodynamic therapy is typically one or two sessions a week for anywhere from six months to a few years, depending on what you're working through.
 
 The core principle is different: your current struggles make sense because of patterns that formed earlier, often outside your conscious awareness. A psychodynamic therapist isn't trying to fix your thoughts. They're trying to help you understand why you think and feel the way you do, where those patterns came from, and what they're doing for you (even the painful ones).
@@ -43,7 +41,7 @@ So with that same social anxiety, a psychodynamic therapist might ask: when did 
 
 The therapist isn't directive. They won't say, "Here's what you should think." They'll ask questions and sometimes point out patterns they notice. The relationship itself is part of the work, how you show up in the room tells them something about how you show up in the world.
 
-When I tested this distinction by talking to people who'd tried both (totally informal, but still useful), the pattern was consistent. CBT people said things like, "My therapist gave me tools." Psychodynamic people said, "I finally understood why I do this thing."
+These two approaches tend to produce different reports. CBT clients often describe gaining specific tools; psychodynamic clients often describe insight into their patterns.
 
 ## The actual research: what works, for whom
 

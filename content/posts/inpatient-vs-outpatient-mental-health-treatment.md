@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most people don't learn the difference between inpatient and outpatient mental health treatment while they're calm and researching. They learn it in crisis, or watching someone they love go through one, while a doctor or ER nurse is asking them to make a decision they've never had to think about before. That moment hits different.
 
-I've watched it go wrong not because anyone was negligent, but because the person didn't understand what they were actually agreeing to, or even what other options existed. So this is the article I wish I could've sent to Marcus three years ago when he emailed me at midnight asking what "voluntary admission" meant and whether his insurance would cover it.
+A common source of distress around inpatient admission is not negligence but lack of clarity: people often don't fully understand what they're agreeing to or what alternatives exist. This article covers the basics of voluntary admission and insurance coverage.
 
 ## What Inpatient Treatment Actually Is (and Isn't)
 
@@ -68,7 +68,7 @@ I'm going to give you my actual opinion instead of a balanced both-sides rundown
 
 Inpatient is appropriate when safety is the immediate problem. If someone is actively suicidal with a specific plan, experiencing psychosis severe enough to destroy basic functioning, in alcohol or benzodiazepine withdrawal (medically dangerous), or otherwise in a situation where they can't be safely supported outside 24-hour supervision, inpatient is correct. That's what it exists for.
 
-What inpatient often *isn't* right for: everything else. I've seen people pushed toward inpatient admission for episodes that were serious and frightening but not acutely dangerous, often because the outpatient system is swamped and inpatient feels like "doing something." A few days on a locked unit can sometimes destabilize rather than help, especially for people with trauma histories or those dealing with chronic rather than acute illness.
+What inpatient often *isn't* right for: everything else. People are sometimes pushed toward inpatient admission for episodes that are serious and frightening but not acutely dangerous, often because the outpatient system is swamped and inpatient feels like "doing something." A few days on a locked unit can sometimes destabilize rather than help, especially for people with trauma histories or those dealing with chronic rather than acute illness.
 
 PHPs and IOPs are dramatically underused because they're less dramatic and because most people don't even know they exist. If inpatient admission is being recommended for you or someone you care about, it's completely reasonable to ask whether PHP would work instead. That's not refusing treatment. That's asking a clinically legitimate question.
 
@@ -78,7 +78,7 @@ Use this: [NAMI's website](https://www.nami.org/) has a helpline at 1-800-950-62
 
 I'm not going to pretend this is simple, because it isn't and anyone claiming otherwise is selling something.
 
-Inpatient psychiatric care can generate thousands to tens of thousands in bills depending on insurance, facility, and length of stay. I've seen itemized bills showing $1,200 daily for room and board alone, before any clinical services. With insurance, your actual costs depend on deductible, out-of-pocket max, and in-network status. Medicaid generally covers inpatient psychiatric care, though bed access varies by state.
+Inpatient psychiatric care can generate thousands to tens of thousands in bills depending on insurance, facility, and length of stay. Daily costs for room and board alone can run $1,200 or more, before any clinical services. With insurance, your actual costs depend on deductible, out-of-pocket max, and in-network status. Medicaid generally covers inpatient psychiatric care, though bed access varies by state.
 
 For outpatient care, cost differences between levels matter. A PHP program runs maybe $350 to $500 daily before insurance, which sounds bad until you realize it's often less than inpatient daily rates and insurance typically covers it similarly. IOPs cost less still.
 

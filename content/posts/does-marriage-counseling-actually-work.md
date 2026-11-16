@@ -84,11 +84,11 @@ Practically: ask any therapist you're considering what their primary modality is
 
 ## The Therapist Matters More Than the Method
 
-Here's what I've seen repeatedly: a skilled therapist using a decent-but-not-perfect method will outperform a mediocre therapist using the gold-standard approach almost every time. The therapeutic relationship, the degree to which both partners feel heard and not ganged-up-on, accounts for a substantial chunk of outcome variance.
+A skilled therapist using a decent-but-not-perfect method will typically outperform a mediocre therapist using the gold-standard approach. The therapeutic relationship, the degree to which both partners feel heard and not ganged-up-on, accounts for a substantial chunk of outcome variance.
 
 Bad couples therapists exist. The specific failure mode to watch for is the therapist who subtly takes sides. It usually looks like slightly more empathy toward whichever partner presents as the more sympathetic victim in session one. Both partners need to feel the therapist is genuinely neutral and curious about their perspective. If after three sessions one of you consistently feels like the defendant, find a different therapist.
 
-Also watch for a therapist who lets sessions turn into unstructured venting. Some conflict airing is necessary. But a skilled couples therapist is an active moderator, not a passive witness. If you're paying $150-$250 a session to just repeat your same fight in front of someone who nods, that's not therapy, that's expensive audience.
+Also watch for a therapist who lets sessions turn into unstructured venting. Some conflict airing is necessary. A skilled couples therapist should be an active moderator, not a passive witness. If you're paying $150-$250 a session to just repeat the same fight in front of someone who nods, the session isn't moving toward change.
 
 Credentials worth knowing: Licensed Marriage and Family Therapists (LMFTs) are specifically trained in relational work, which individual psychologists and social workers often aren't, even if they see couples. That doesn't mean an LMFT is automatically better than a skilled clinical social worker with specific couples training, but if someone's entire practice is couples work and they hold an LMFT license, that's a reasonable starting signal.
 

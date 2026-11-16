@@ -47,7 +47,7 @@ One more thing: the law doesn't require insurers to *cover* mental health benefi
 
 ## The Most Common Parity Violations You'll Actually Encounter
 
-I've seen people spend months fighting insurance denials without realizing they had a legal framework to lean on. Here's what shows up most often.
+Many people spend months fighting insurance denials without realizing they have a legal framework to draw on. The most common issues include:
 
 **Prior authorization requirements applied to outpatient mental health visits but not to comparable physical health visits.** If your cardiologist doesn't need pre-approval before seeing you for a follow-up, your therapist probably shouldn't either.
 
@@ -111,7 +111,6 @@ You didn't create the gap between how physical and mental health care are treate
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
 - [The Cognitive Behavioral Therapy Workbook](https://www.amazon.com/s?k=cognitive+behavioral+therapy+workbook&tag=contentportfo-20)
 - [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

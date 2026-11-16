@@ -31,7 +31,6 @@ The clinical picture here is actually pretty clear: combining antidepressants wi
 
 So why does half the country end up on SSRIs without a therapist in sight? Mostly access, cost, and the way primary care works. A GP with a 15-minute appointment slot is far more likely to write a prescription than to coordinate a therapy referral. That's not a criticism; it's just how the system is built.
 
-
 <div class="value-module">
  <div class="vm-head">Treatment Response: What to Expect When</div>
  <div class="vm-body">
@@ -67,7 +66,7 @@ I'd be skeptical of anyone who tells you there's one universal answer here. The 
 
 If you're looking for a therapist who works in CBT specifically, [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by modality, insurance, and specialty. It's not a perfect system, but it's the most functional public tool we have. For people who also need substance use support alongside depression treatment, [SAMHSA's treatment locator](https://findtreatment.gov/) is worth a look.
 
-A quick note on workbooks: if you're waiting on a therapy referral or supplementing between sessions, a structured CBT workbook can genuinely help. *Mind Over Mood* by Greenberger and Padesky is the one I've seen therapists recommend most consistently, available on [Amazon](https://www.amazon.com/Mind-Over-Mood-Second-Edition/dp/1462520421). It's not therapy. It's not a replacement. But it's not nothing, either.
+Structured CBT workbooks can help while waiting on a therapy referral or supplementing between sessions. *Mind Over Mood* by Greenberger and Padesky is widely recommended by therapists, available on [Amazon](https://www.amazon.com/Mind-Over-Mood-Second-Edition/dp/1462520421). It's a useful tool but not a substitute for therapy.
 
 ## What to Expect When You're Doing Both
 

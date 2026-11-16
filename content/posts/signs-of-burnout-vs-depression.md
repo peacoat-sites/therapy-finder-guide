@@ -25,15 +25,13 @@ faqs:
     a: "If it's disrupting your sleep, your relationships, your ability to function at work, or your sense of self, that's serious enough. You don't need to be in crisis to deserve support. A PHQ-9 score of 10 or above, or any thoughts of self-harm, moves it into 'get evaluated now' territory without question."
 ---
 
-Most people I've worked with wait way too long. They show up to our first conversation having spent six, eight, sometimes fourteen months telling themselves they're "just tired" -- and by the time they're sitting across from me (or in a Zoom square, these days), they're genuinely not sure if they need a vacation or a psychiatrist. That gap between "something's wrong" and "I know what's wrong" is where a lot of unnecessary suffering lives.
+Many people wait too long before seeking support. They spend months telling themselves they're "just tired" before recognizing that something may need professional attention, uncertain whether they need rest or clinical care. That gap between "something's wrong" and "I know what's wrong" is where a lot of unnecessary suffering lives.
 
-Burnout and depression can look almost identical from the outside. Flat affect. Low energy. Pulling away from people you used to love spending time with. Dreading Monday morning so much it ruins your Sunday afternoon. I've seen people get misdiagnosed in both directions, told they had clinical depression when a job change was what they actually needed, and told they were "just burned out" when they were quietly spiraling into something that required real clinical support. The stakes of getting it wrong are real.
+Burnout and depression can look almost identical from the outside. Flat affect. Low energy. Pulling away from people you used to love spending time with. Dreading Monday morning so much it ruins your Sunday afternoon. Misdiagnosis happens in both directions: people may be told they have clinical depression when a job change is what they need, or dismissed as "just burned out" when they're experiencing something requiring clinical support. The stakes of getting it wrong are real.
 
 So let's actually talk about how to tell the difference.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Burnout is typically tied to a specific source (work, caregiving), while depression is pervasive across all life areas.</li><li style="margin:5px 0">Burnout often improves with genuine rest; depression usually does not lift after a vacation or weekend away.</li><li style="margin:5px 0">Depression carries a higher risk of self-harm and suicidal ideation, always a reason to seek professional evaluation, not just self-assess.</li><li style="margin:5px 0">Both conditions can exist simultaneously; having one doesn't rule out the other.</li><li style="margin:5px 0">A PHQ-9 screening (free, takes 2 minutes) is a better starting point than Googling your symptoms alone.</li></ul></div>
-
 
 ## The Core Difference Nobody Explains Well
 
@@ -41,15 +39,13 @@ Here's what most people don't realize: burnout has a return address. It points s
 
 Depression doesn't care where you are. Take the burned-out nurse on a two-week trip to Portugal and she might actually recharge. Take someone in a depressive episode on that same trip and they'll tell you they felt hollow the whole time, couldn't enjoy the food, couldn't get excited about anything. The anhedonia, that word therapists use for the inability to feel pleasure, travels with them. That's the tell.
 
-I've seen this play out in my own life, honestly. In 2019, I hit a wall that I was absolutely certain was burnout. I'd been running training programs for a large hospital system, had been traveling every week for almost two years, and I was miserable. I took a month off. Felt genuinely better. Burnout. But a friend of mine went through something that looked almost identical on the surface around the same time, exhausted, withdrawn, not returning calls, and a beach vacation did absolutely nothing for her. She needed a medication evaluation, and eventually a diagnosis of major depressive disorder. We looked the same to casual observers. The internal experience was completely different.
+For example, two people might both feel exhausted and withdrawn, and one might recover with time off while the other finds a vacation changes nothing and eventually learns they need a medication evaluation and a diagnosis of major depressive disorder. The outward signs look identical, but the internal experience is completely different.
 
 ## Side-by-Side: What the Symptoms Actually Look Like
 
 > **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-This comparison matters because the overlap is real, and I don't want to oversimplify. But in my experience working with referral teams, these patterns hold up more often than not.
+The overlap between burnout and depression is real, and oversimplifying does harm. That said, certain patterns do distinguish them more often than not.
 
 | Feature | Burnout | Depression |
 |---|---|---|
@@ -104,7 +100,6 @@ Three worked examples from my referral work:
 - World Health Organization (ICD-11, current as of July 2026): Classification of burnout as an "occupational phenomenon," distinct from a medical condition.
 
 ---
-
 
 *Photo: [George Milton](https://www.pexels.com/@george-milton) via Pexels*
 

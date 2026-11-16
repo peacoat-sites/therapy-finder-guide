@@ -27,13 +27,11 @@ faqs:
 
 Most people who land on an article like this one have already tried everything they can think of. You've done the melatonin. You've tried cutting caffeine. You've downloaded the sleep apps. You've Googled "why can't I sleep" at 2 in the morning more times than you'd like to admit.
 
-Here's the thing: if chronic insomnia is what you're dealing with, those approaches aren't designed to fix it. They might take the edge off. But [Cognitive Behavioral Therapy](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) for Insomnia, CBT-I, is the intervention that actually targets the mechanism keeping you awake. And most people have never heard of it.
+If chronic insomnia is what you're dealing with, those approaches aren't designed to fix it. They might take the edge off. But [Cognitive Behavioral Therapy](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) for Insomnia, CBT-I, is the intervention that actually targets the mechanism keeping you awake. And most people have never heard of it.
 
 The number that stopped me cold the first time I saw it: a 2021 meta-analysis published in *Sleep Medicine Reviews* found that CBT-I produces lasting improvement in sleep onset and sleep efficiency in roughly 70-80% of patients who complete a full course. That's not "slightly better sleep." That's remission-level outcomes, in many cases comparable to what sleeping pills produce in the short term, but with effects that hold up one and two years later. Medication doesn't do that. This is why the American College of Physicians now recommends CBT-I as the *first-line* treatment for chronic insomnia, ahead of any medication.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CBT-I is the first-line recommended treatment for chronic insomnia, per American College of Physicians guidelines.</li><li style="margin:5px 0">70-80% of patients see meaningful, lasting improvement after completing a full course (Sleep Medicine Reviews, 2021).</li><li style="margin:5px 0">A full CBT-I course typically runs 6-8 weekly sessions; digital programs can cost $30-$150 total.</li><li style="margin:5px 0">Sleep restriction therapy, a core CBT-I technique, feels counterintuitive but is one of the most evidence-backed components.</li><li style="margin:5px 0">Sleeping pills treat symptoms; CBT-I targets the underlying patterns maintaining insomnia.</li></ul></div>
-
 
 ## What CBT-I Actually Is (And Why It's Not Just "Sleep Hygiene Tips")
 
@@ -43,7 +41,7 @@ CBT-I is a structured, time-limited intervention that targets two things at once
 
 The core components of a proper CBT-I program:
 
-**Sleep restriction therapy.** This is the one people resist most, and honestly, I did too when I first learned about it. The idea is that you temporarily compress your time in bed to match your actual sleep time, creating homeostatic sleep pressure. If you're sleeping five hours but spending eight in bed, your therapist will likely start you at a five-and-a-half-hour sleep window. It feels brutal. The first week often is. But the data behind it is some of the strongest in behavioral sleep medicine.
+**Sleep restriction therapy.** This is the one people resist most. The idea is that you temporarily compress your time in bed to match your actual sleep time, creating homeostatic sleep pressure. If you're sleeping five hours but spending eight in bed, your therapist will likely start you at a five-and-a-half-hour sleep window. It feels brutal. The first week often is. But the data behind it is some of the strongest in behavioral sleep medicine.
 
 **Stimulus control.** Retraining your association between bed and sleep. Practically, this means getting out of bed if you're awake for more than 20 minutes, using the bed only for sleep (and sex), and getting up at the same time every morning regardless of how the night went.
 
@@ -56,8 +54,6 @@ Here's what I tell people who are skeptical: the reason CBT-I works is that it's
 ## The Timeline and What to Actually Expect
 
 > **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A standard CBT-I course runs 6-8 weekly sessions, each about 50-60 minutes. Some therapists do a compressed version in four sessions; some programs run ten. The research tends to cluster around six sessions as the sweet spot for most people.
 
@@ -85,9 +81,7 @@ As of August 2026, Somryst (formerly SHUTi) holds FDA clearance as a [prescripti
 
 For people [without insurance](/how-much-does-therapy-cost-without-insurance/) or with high deductibles, a self-guided workbook is a genuinely reasonable starting point, not a consolation prize. Gregg Jacobs' book *Say Good Night to Insomnia* is the most research-grounded self-help option I know of; it was developed from his work at Harvard Medical School and follows the same protocol used in clinical trials. (Amazon link: the site may earn a small commission if you purchase through it.)
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">CBT-I responder rates vs. sleep medication at 12-month follow-up</div><div class="sc-row"><span class="sc-label">CBT-I (sleep efficiency)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">74%</span></div><div class="sc-row"><span class="sc-label">CBT-I (sleep onset)</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">71%</span></div><div class="sc-row"><span class="sc-label">Medication only (sleep efficiency)</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">42%</span></div><div class="sc-row"><span class="sc-label">Medication only (sleep onset)</span><span class="sc-track"><span class="sc-bar" style="width:51%"></span></span><span class="sc-val">38%</span></div><div class="sc-src">Source: Sleep Medicine Reviews meta-analysis, 2021</div></div>
-
 
 The gap at twelve months is the whole argument for CBT-I in one chart. Medication works while you take it. CBT-I changes the underlying pattern.
 
@@ -95,7 +89,7 @@ The gap at twelve months is the whole argument for CBT-I in one chart. Medicatio
 
 There's a specific moment in CBT-I, usually around session two or three, where patients call or message their therapist wondering if they've made things worse. They're tired. They're frustrated. They followed the sleep restriction protocol exactly and had the worst night in weeks.
 
-I've been in those calls. What I've learned is that this moment is almost always a sign the intervention is working, and that the next seven to ten days will bring a noticeable shift. The people who quit at this point are the ones who tell friends "CBT-I didn't work for me." The people who push through are the ones writing the 74% success rate into the meta-analyses.
+This moment is almost always a sign the intervention is working, and the next seven to ten days typically bring a noticeable shift. People who quit at this point often later say CBT-I didn't work for them. Those who continue through this difficult phase are the ones contributing to the 74% success rate found in meta-analyses.
 
 That's not a minor caveat. Dropout is a real issue in CBT-I research; some trials report dropout rates around 15-20%, and the people who discontinue early often do so because sleep restriction felt intolerable. If you're working with a therapist, be honest at this stage. A good CBT-I provider will adjust the sleep window slightly rather than lose you from treatment entirely.
 
@@ -118,7 +112,6 @@ SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) ca
 - [SAMHSA National Helpline and treatment locator (findtreatment.gov): Free, confidential referral service for mental health and behavioral health providers.](https://findtreatment.gov/)
 
 ---
-
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 

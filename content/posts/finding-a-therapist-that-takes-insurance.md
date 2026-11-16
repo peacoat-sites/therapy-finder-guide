@@ -115,7 +115,7 @@ If you're in a mental health crisis right now, don't wait for an insurance searc
 
 ---
 
-The process of finding a therapist who takes your insurance can feel designed to make you give up. I've watched people abandon the search after the third unanswered voicemail, convincing themselves they didn't really need help. That's the system failing you, not evidence that care isn't available. Call your insurance's behavioral health line first, contact several therapists at once, and use the tools above to widen your options. The right therapist is findable. Starting the search is the hardest part, and you've already done that.
+The process of finding a therapist who takes your insurance can feel designed to make you give up. Many people abandon the search after a few unanswered voicemails, convincing themselves they didn't really need help. That's the system failing you, not evidence that care isn't available. Call your insurance's behavioral health line first, contact several therapists at once, and use the tools above to widen your options. The right therapist is findable. Starting the search is the hardest part, and you've already done that.
 
 ---
 
@@ -130,7 +130,6 @@ The process of finding a therapist who takes your insurance can feel designed to
 - [Suicide and Crisis Lifeline](https://988lifeline.org/)
 - [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)
 - [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

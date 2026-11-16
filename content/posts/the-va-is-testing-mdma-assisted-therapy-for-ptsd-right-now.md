@@ -40,13 +40,11 @@ Enrollment is expected to complete by late 2026, with preliminary results potent
 
 > **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 To understand why this trial is happening now, you have to back up to August 2024. That's when the FDA declined to approve MDMA-assisted therapy for PTSD, citing concerns about trial design and safety data from MAPS PBC's earlier research. It was a significant setback for advocates who had hoped the treatment would be moving toward broad clinical availability.
 
 Fast forward to April 2026. President Trump signed an executive order titled "Accelerating Medical Treatment for Serious Mental Illness," directing the FDA and HHS to fast-track evaluation of psychedelic therapies. The order explicitly cited the veteran suicide rate, which runs more than 1.5 times higher than the rate among the general adult population. That context matters. The executive order didn't change the FDA's prior decision or reschedule MDMA, but it created political and institutional pressure for agencies to move. The VA trial, which began enrollment just weeks later, is the most concrete result of that pressure so far.
 
-I've seen a lot of policy announcements in mental health that amount to little more than press releases. This feels different, partly because there's now real federal money and a real protocol behind it, and partly because the VA enrolling participants means actual veterans are sitting in clinics in Rhode Island and Connecticut right now, beginning this process.
+Many policy announcements in mental health amount to little more than press releases. This feels different, partly because there's now real federal money and a real protocol behind it, and partly because the VA enrolling participants means actual veterans are sitting in clinics in Rhode Island and Connecticut right now, beginning this process.
 
 ## Why the Cost Argument Is Getting Louder
 

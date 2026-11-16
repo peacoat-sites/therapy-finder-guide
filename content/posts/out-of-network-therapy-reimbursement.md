@@ -45,7 +45,7 @@ The key word is *partial*. You won't recover 100%. But depending on your plan, y
 
 This isn't a loophole. It's a standard benefit on most PPO and some POS plans. HMO plans almost never cover out-of-network care except emergencies. If you have an HMO, check your documents before you get excited.
 
-Here's the thing that actually matters: the therapists you most want to see, specialists in trauma, eating disorders, OCD, EMDR, are disproportionately out-of-network. And usually by choice. In-network reimbursement rates are so low that accepting insurance becomes economically irrational. Add in the administrative work of dealing with insurance companies, and the best clinicians frequently just opt out of panels entirely. That's infuriating if you're trying to find someone. But it's also why the out-of-network benefit exists in the first place.
+Therapists who specialize in trauma, eating disorders, OCD, and EMDR are disproportionately out-of-network. And usually by choice. In-network reimbursement rates are often too low to make accepting insurance financially viable. Add in the administrative work of dealing with insurance companies, and the best clinicians frequently just opt out of panels entirely. That's infuriating if you're trying to find someone. But it's also why the out-of-network benefit exists in the first place.
 
 ## The First Call You Need to Make
 
@@ -114,7 +114,6 @@ The insurance system wasn't designed to make this easy. But "not easy" and "not 
 - [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20)
 - [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20)
 - [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most crisis advice online reads like it was written for a legal department. "Seek help immediately." "Contact a mental health professional." Cool, thanks. What does that actually mean at 2 a.m. when your hands are shaking and you can't remember how to breathe?
 
-Here's what I've seen work, having spent years sitting beside clinical teams and helping people find care when they desperately needed it. This is the practical version.
+When someone is in crisis, the practical approach matters most. This is the practical version.
 
 ## First: Know What You're Actually Dealing With
 
@@ -91,7 +91,7 @@ If you were supporting someone through the crisis, check in on yourself too. It'
 
 ---
 
-The worst moment of a crisis usually isn't the last moment. That's not false comfort; it's what the data and the people who've come out the other side consistently show. The goal right now is to get stable. Everything else, the therapy, the longer-term work, the understanding of what happened, comes after that.
+The worst moment of a crisis usually isn't the last moment. The goal right now is to get stable. Everything else, the therapy, the longer-term work, the understanding of what happened, comes after that.
 
 One step. Then the next.
 

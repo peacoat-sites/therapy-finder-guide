@@ -82,7 +82,7 @@ If your family is in crisis or you're worried about a child's safety, don't wait
 
 ## Supporting the Work at Home
 
-You don't have to stay out of it. Some of the most effective play therapy I've seen involves parents who do their own reading and make small changes at home that reinforce what's happening in sessions.
+You don't have to stay out of it. Parents who do their own reading and make small changes at home can reinforce what's happening in therapy sessions.
 
 If your child's therapist uses an expressive or feelings-based approach, a simple feelings journal or a workbook like *A Terrible Thing Happened* by Margaret M. Holmes can be genuinely helpful at home for kids processing scary events. For parents wanting to understand the theory better, *The Whole-Brain Child* by Daniel J. Siegel and Tina Payne Bryson is worth your time (affiliate link: the site may earn a small commission if you purchase through our links).
 

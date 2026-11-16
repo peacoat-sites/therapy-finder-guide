@@ -18,7 +18,7 @@ Something most people still assume is that psychedelic therapy is a fringe idea,
 
 ## What the Trial Actually Looks Like
 
-I'll be honest, when I first read the VA's announcement, I expected something narrow and symbolic. What surprised me was the scope and the specific population being targeted.
+What surprised me was the scope and the specific population being targeted.
 
 The trial, registered on ClinicalTrials.gov as NCT07118839, is enrolling approximately 80 veterans who have *both* PTSD and alcohol use disorder. That co-occurrence is significant. These are two conditions that tend to feed each other in brutal ways, and they've historically been treated in separate silos. The protocol involves three preparatory therapy sessions before anything psychedelic happens. Then come two day-long MDMA or placebo sessions, spaced weeks apart, followed by integration therapy sessions afterward. It's running across two sites: Providence VA in Rhode Island, where enrollment began May 18, and VA Connecticut Healthcare System in West Haven.
 
@@ -27,8 +27,6 @@ The structure matters here. This isn't people taking MDMA and hoping for the bes
 ## Why the Federal Government Is Moving on This Now
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The executive order is the engine behind this trial's timing. On April 18, 2026, President Trump signed an order titled "Accelerating Medical Treatments for Serious Mental Illness," directing the FDA and HHS to fast-track [psychedelic drug clinical trials](/a-single-dose-lsd-drug-just-beat-every-approved-depression-treatment/). The order specifically cited the veteran suicide rate as a key driver. Veterans die by suicide at a rate more than 1.5 times higher than the general adult population. That's not a new statistic, but it's one that carries real political weight, and in this case it translated into actual policy movement.
 

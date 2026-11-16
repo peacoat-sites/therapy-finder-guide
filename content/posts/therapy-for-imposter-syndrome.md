@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most people who land on an article about imposter syndrome therapy are already skeptical that it'll help. They're thinking: "My problem isn't that I *feel* like a fraud. My problem is that I actually *am* less qualified than everyone around me thinks." That's exactly the thought pattern that makes imposter syndrome so hard to treat. And I'll be honest, it took me longer than I should admit to understand why that distinction matters so much clinically.
 
-Imposter syndrome isn't a formal diagnosis in the DSM-5. It's a psychological pattern, first described by researchers Pauline Clance and Suzanne Imes in a 1978 study of high-achieving women, and it's since been documented across genders, industries, and career stages. What surprised me when I started really pulling apart the research was how poorly standard advice performs against it. Journaling your achievements, keeping a "wins folder," repeating affirmations. These tools aren't useless, but for people with persistent, entrenched imposter experiences, they often just don't move the needle. The belief is too defended. It's been reinforced by years of attributing successes to luck while treating every mistake as evidence of fundamental inadequacy.
+Imposter syndrome isn't a formal diagnosis in the DSM-5. It's a psychological pattern, first described by researchers Pauline Clance and Suzanne Imes in a 1978 study of high-achieving women, and it's since been documented across genders, industries, and career stages. Standard advice often performs poorly against persistent imposter feelings. Journaling your achievements, keeping a "wins folder," repeating affirmations. For people with persistent, entrenched imposter experiences, these tools often don't address the core pattern. The belief is too defended. It's been reinforced by years of attributing successes to luck while treating every mistake as evidence of fundamental inadequacy.
 
 Therapy does something those tools can't. It works at the level of the belief itself.
 
@@ -41,8 +41,6 @@ This matters clinically because generic confidence-building work can backfire. I
 ## What the Research Actually Supports
 
 > **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The research here is genuinely mixed, and I'd rather tell you that than pretend there's a clear winner. There's no large-scale RCT specifically studying "imposter syndrome therapy" because it's not a diagnosis. What we have is decent evidence that certain therapeutic modalities address the underlying mechanisms effectively.
 
@@ -72,7 +70,6 @@ Mindfulness practice matters too, particularly for ACT-style defusion work. A gu
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
@@ -86,7 +83,6 @@ Mindfulness practice matters too, particularly for ACT-style defusion work. A gu
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
 - [on Amazon](https://www.amazon.com/s?k=the+confidence+gap+russ+harris)
 - [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

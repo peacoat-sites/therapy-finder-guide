@@ -46,11 +46,9 @@ The modalities that actually perform well with chronic illness have one thing in
 
 > **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 **Cognitive Behavioral Therapy for chronic pain and illness** isn't the same as standard CBT, and the distinction is worth knowing. CBT-CP (the pain-specific adaptation) focuses on activity pacing, catastrophizing about symptoms, and the [fear-avoidance cycle](/ptsd-therapy-options/), where anticipating pain causes you to restrict activity in ways that actually increase sensitivity and disability over time. There's solid evidence behind it, including a 2021 meta-analysis in *JAMA Internal Medicine* covering over 9,000 patients with various chronic pain conditions, showing meaningful reductions in pain interference with daily life.
 
-**Acceptance and Commitment Therapy (ACT)** is probably the most useful framework I've seen for people with conditions that won't go away. The core move in ACT isn't to think more positively about your illness. It's to stop organizing your life around reducing illness-related discomfort and start organizing it around your actual values. That sounds abstract until you meet someone with lupus who has spent two years avoiding relationships because she doesn't want to "burden" anyone, and realize she's now isolated and in just as much pain. ACT addresses that directly. Steven Hayes' original work is available in workbook form ([*The Mindfulness and Acceptance Workbook for Anxiety*](https://www.amazon.com/dp/1572244992?tag=contentportfo-20) adapts well to illness contexts, though illness-specific editions exist, and the site may earn a commission on purchases).
+**Acceptance and Commitment Therapy (ACT)** is a useful framework for people with conditions that won't go away. The core move in ACT isn't to think more positively about your illness. It's to stop organizing your life around reducing illness-related discomfort and start organizing it around your actual values. For example, someone with a chronic illness might avoid relationships out of concern about burdening others, which can leave them isolated and in just as much pain. ACT addresses that directly. Steven Hayes' original work is available in workbook form ([*The Mindfulness and Acceptance Workbook for Anxiety*](https://www.amazon.com/dp/1572244992?tag=contentportfo-20) adapts well to illness contexts, though illness-specific editions exist, and the site may earn a commission on purchases).
 
 **MBSR, Mindfulness-Based Stress Reduction,** gets a lot of press, and some of it is earned. An 8-week structured MBSR program does reduce cortisol, improve sleep quality, and lower subjective pain ratings in studies on fibromyalgia, MS, and cancer populations. What it doesn't do well: it's not psychotherapy. It won't [process grief, change unhelpful patterns](/therapy-for-grief-and-loss/), or address relationship dynamics that have fractured under the strain of illness. Use it as a complement, not a replacement.
 
@@ -88,10 +86,9 @@ If you're not in crisis but you're noticing persistent hopelessness, that's also
 
 ---
 
-
 ---
 
-Getting therapy right when you have a chronic illness takes more legwork than it should. The right therapist, with the right training, using an approach built for your actual situation, makes a demonstrable difference. That's not inspirational filler. It's just what the evidence says, and what I've watched happen with people who found the right fit after a few false starts.
+Getting therapy right when you have a chronic illness takes more legwork than it should. The right therapist, with the right training, using an approach built for your actual situation, makes a demonstrable difference. The difference is measurable, not just motivational.
 
 ---
 
@@ -106,7 +103,6 @@ Getting therapy right when you have a chronic illness takes more legwork than it
 - [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
 - [*The Chronic Illness Workbook*](https://www.amazon.com/dp/1572243457?tag=contentportfo-20)
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -48,8 +48,6 @@ Contingency Management is the one most people haven't heard of, and honestly, th
 
 > **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I'll be blunt: the most common mistake I see people make when seeking addiction treatment is treating medication as optional or as "cheating." For opioid use disorder specifically, this framing costs lives.
 
 Buprenorphine (Suboxone), methadone, and naltrexone are FDA-approved medications that, when combined with therapy, significantly outperform therapy alone for opioid addiction. A landmark study from the National Institute on Drug Abuse found that patients on buprenorphine had retention rates in treatment nearly three times higher than those receiving only counseling. Three times. That's not a marginal difference.
@@ -67,8 +65,6 @@ Not every licensed therapist has meaningful training in addiction. A general pra
 [SAMHSA's treatment locator at findtreatment.gov](https://findtreatment.gov/) is genuinely the most efficient place to start for finding licensed programs and providers in your area. Filter by "outpatient," by substance type, and by whether they offer MAT. It's not perfect, some listings are outdated, but it's the most comprehensive database available in the U.S. and it's free.
 
 [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) is useful for finding individual therapists and lets you filter by "substance use" as a specialty. The profiles also show insurance accepted, which saves a lot of phone tag.
-
-A few worked examples from cases I've been close to:
 
 A 34-year-old man in Ohio with alcohol use disorder tried a general therapist for 6 months with minimal progress. He was referred to a CADC-certified counselor (Certified Alcohol and Drug Counselor) who added naltrexone in coordination with his prescriber. Within 4 months, his drinking days dropped from 25 per month to fewer than 5. The specific credential mattered.
 
@@ -101,7 +97,6 @@ For self-directed support between sessions, some people find structured CBT work
 - [American Society of Addiction Medicine (ASAM)](https://www.asam.org): Clinical practice guidelines on MAT and evidence-based treatment standards, current as of July 2026
 
 ---
-
 
 ---
 

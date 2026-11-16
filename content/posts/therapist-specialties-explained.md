@@ -31,9 +31,7 @@ Here's what I tell people who come to me overwhelmed by this: therapist specialt
 
 I made this mistake myself, early in my career, before I understood how distinct these worlds really are. I referred a client struggling with acute PTSD from a car accident to a wonderful therapist who practiced primarily [psychodynamic therapy](/psychodynamic-therapy-vs-cbt/). The therapist was skilled. The fit was wrong. It took my client eight months and a specialty switch to EMDR before she started sleeping through the night again. I think about that a lot.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Therapist specialties match specific treatment methods to specific problems, mismatches slow progress.</li><li style="margin:5px 0">CBT is the most research-backed approach for anxiety and depression; EMDR is the gold standard for trauma.</li><li style="margin:5px 0">Most therapists list 2-4 specialties; one primary specialty signals deeper training and experience.</li><li style="margin:5px 0">Telehealth has expanded access to specialty-trained therapists significantly as of 2026.</li><li style="margin:5px 0">You can (and should) ask a therapist about their specific training in any specialty before committing.</li></ul></div>
-
 
 ## What "Specialty" Actually Means (And What It Doesn't)
 
@@ -47,15 +45,13 @@ One thing only someone who's done a lot of referrals would know: most therapists
 
 > **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I want to be actually useful, not just give you a glossary.
 
 **Cognitive Behavioral Therapy (CBT)** is the most studied psychotherapy approach in the world. A 2023 meta-analysis in *Psychological Bulletin* looked at 522 studies and found CBT effective across anxiety disorders, depression, PTSD, eating disorders, and more. If you're dealing with anxiety, panic, or moderate depression, and you want a structured, skills-based approach with homework, CBT is often the right starting point. Sessions typically run 45-50 minutes and you'll leave with something concrete to practice.
 
 **Dialectical Behavior Therapy (DBT)** grew out of CBT but was specifically developed by Marsha Linehan for people who experience emotions very intensely, often diagnosed with borderline personality disorder but increasingly used for eating disorders, self-harm, and suicidal ideation. True DBT involves both individual therapy and a skills group. If someone offers "DBT-informed" therapy without a skills group component, that's a lighter version, not the full model. Both have value, just know what you're getting.
 
-**EMDR (Eye Movement Desensitization and Reprocessing)** sounds strange when you first hear it, and I'll admit I was skeptical the first time a colleague explained it to me in 2009. You follow a light or the therapist's hand while recalling a traumatic memory. That's the very simplified version. The research on it for PTSD is solid: the American Psychological Association includes it among recommended treatments for PTSD, and in my experience with referrals, trauma clients often see meaningful shifts within 8-12 sessions, faster than many other approaches.
+**EMDR (Eye Movement Desensitization and Reprocessing)** sounds strange at first. You follow a light or the therapist's hand while recalling a traumatic memory. That's the very simplified version. The research on it for PTSD is solid: the American Psychological Association includes it among recommended treatments for PTSD, and trauma clients often see meaningful shifts within 8-12 sessions, faster than many other approaches.
 
 **Psychodynamic therapy** operates on different assumptions. Less structured, more exploratory. The work is often about understanding how early relationships and unconscious patterns shape your current behavior and feelings. It tends to run longer, sometimes years, not months, and the research, while positive, is harder to pin down with controlled studies the way CBT is. I'd be honest with you: if you need to see progress on a measurable symptom within 12 weeks, psychodynamic therapy may frustrate you. If you're trying to understand yourself more deeply and you have the time and resources, it can be profound.
 
@@ -111,7 +107,6 @@ One practical thing I tell anyone starting this process: look for a therapist wh
 - [Psychology Today Therapist Directory](https://www.psychologytoday.com/us/therapists): Specialty and modality filters, insurance compatibility, telehealth listings.
 
 ---
-
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 

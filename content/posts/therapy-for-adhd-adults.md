@@ -31,7 +31,7 @@ You finally sit down to pay your bills. Twenty minutes later, you're reorganizin
 
 Medication gets most of the attention in ADHD treatment, and for good reason. Stimulant medications like methylphenidate and amphetamine salts have decades of research backing them and help a significant portion of people. But medication alone doesn't teach you how to build a system for your finances, repair relationships that got strained during years of missed deadlines, or work through the shame that can quietly accumulate when your brain works differently than most people expect.
 
-Therapy addresses what medication can't: the behavioral patterns, emotional wounds, and skill deficits that build up over a lifetime of untreated or under-treated ADHD. I've seen clients who started medication in their 30s or 40s and found that the medication cleared the fog, but they still had no idea how to actually organize their day. That's where structured, evidence-based therapy comes in.
+Therapy addresses what medication can't: the behavioral patterns, emotional wounds, and skill deficits that build up over a lifetime of untreated or under-treated ADHD. Many people start medication in their 30s or 40s and find that it clears the fog, but they still have no idea how to actually organize their day. That's where structured, evidence-based therapy comes in.
 
 A meaningful percentage of adults with ADHD also have at least one co-occurring condition: [anxiety, depression, sleep disorders](/therapy-for-depression-and-anxiety-together/). In many cases, therapy is the primary tool for addressing those layers even when medication handles core ADHD symptoms.
 
@@ -78,7 +78,7 @@ This isn't set in stone. Good therapists adapt. But having a rough map helps you
 
 If you were diagnosed with ADHD as an adult, you probably spent years being mislabeled: lazy, disorganized, irresponsible, a disappointment. Even if nobody said those words directly, the feedback accumulates. A lot of adults with ADHD carry a deep, often unexamined layer of shame about their struggles.
 
-Therapy is one of the few spaces where you can actually process that history. Not just manage symptoms, but make sense of why you developed certain coping strategies, why your relationships have followed certain patterns, why you've avoided certain careers or opportunities. I've worked with clients who discovered that their "procrastination" was really an avoidance pattern built around fear of failure that started in a third-grade classroom where they got publicly embarrassed for losing their assignment.
+Therapy is one of the few spaces where you can actually process that history. Not just manage symptoms, but make sense of why you developed certain coping strategies, why your relationships have followed certain patterns, why you've avoided certain careers or opportunities. For example, what looks like procrastination might be an avoidance pattern built around fear of failure, sometimes rooted in earlier experiences of embarrassment or shame.
 
 If there's a trauma component in your history, EMDR therapy is worth knowing about. Trauma and ADHD co-occur at higher-than-chance rates, and EMDR has strong evidence for processing traumatic memories in ways that talk therapy alone sometimes can't reach. Our article on [EMDR therapy explained](/emdr-therapy-explained/) covers the basics in plain language.
 

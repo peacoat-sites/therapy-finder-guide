@@ -103,7 +103,7 @@ I've sat with enough people to know that hesitation around therapy is rarely abo
 
 **"What if it means I can't handle my job?"** This fear is incredibly common, and it also has things exactly backward. Seeking help for burnout is what functional, self-aware people do. Continuing to white-knuckle through it until you crash is not resilience. It's a risk.
 
-**"What if talking about it makes it worse?"** In my experience, the opposite is usually true. Having a space to name what's happening often reduces its power, not increases it. You're not creating problems by acknowledging them. They're already there.
+**"What if talking about it makes it worse?"** The opposite is usually true. Having a space to name what's happening often reduces its power, not increases it. You're not creating problems by acknowledging them. They're already there.
 
 **"What if I don't even know how to describe what I feel?"** You don't need to arrive with an articulate narrative. "I feel drained and I can't figure out why" is a perfectly valid way to start.
 

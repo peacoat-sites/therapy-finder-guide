@@ -39,7 +39,7 @@ And if you stopped because the therapist wasn't a good fit? That's actually usef
 
 ## Going back to the same therapist vs. finding someone new
 
-This is the first real decision, and I have a clear opinion: if your previous therapist was genuinely helpful, reach out to them first. Don't overthink it. A simple "I've been away for a while and I'd like to come back" message through their portal or a quick call is all it takes. Most therapists have people return after gaps of a year, two years, even longer. It's not unusual. You won't have to start completely from scratch, which matters more than people realize, especially if you put real work into building that therapeutic relationship.
+If your previous therapist was genuinely helpful, reaching out to them first is worth considering. Don't overthink it. A simple "I've been away for a while and I'd like to come back" message through their portal or a quick call is all it takes. Therapists regularly work with returning clients after gaps of months or years. You'll have continuity in your care, which can be valuable if you built solid rapport before.
 
 If your previous therapist wasn't a good fit, or has retired, or moved practices, you're in a search. Psychology Today's therapist directory is genuinely one of the better places to start. You can filter by insurance, specialty, location, and therapy type all at once, which saves you a lot of phone tag.
 

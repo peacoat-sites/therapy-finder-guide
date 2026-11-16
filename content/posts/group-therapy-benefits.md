@@ -47,7 +47,7 @@ Another is altruism. When you help someone else in the group, you benefit too. A
 
 Then there's what Yalom called "corrective recapitulation of the primary family group." Dense phrase. Simple idea: our deepest wounds come from our original family, and a therapy group recreates a similar interpersonal structure. Working through conflict, expressing a need, tolerating someone's disapproval without crumbling, these things get practiced and processed in real time within the group.
 
-I've seen clients make more progress on interpersonal issues in twelve weeks of group work than in a year of individual therapy. That's not a knock against individual therapy. It's acknowledgment that some problems are fundamentally relational, and you need other people present to address them.
+Group work can accelerate progress on interpersonal issues compared to individual therapy alone. Some problems are fundamentally relational, and addressing them often requires other people present.
 
 > **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

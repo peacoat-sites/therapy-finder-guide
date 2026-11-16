@@ -55,9 +55,7 @@ That last column on online platforms deserves its own section, because the resea
 
 > **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-I've had readers swear by BetterHelp. I've also had a reader email me (Amy, a nurse from Columbus, Ohio) saying she cycled through three different therapists on the platform in six weeks and never once felt like anyone read her intake form. Both experiences are real.
+BetterHelp works well for some people. Others report cycling through multiple therapists without feeling heard, suggesting the platform's matching process isn't always effective.
 
 What the evidence actually shows is that text-based and video therapy can be effective for depression and anxiety in many cases, and the accessibility is genuinely meaningful for people with transportation barriers or demanding schedules. A 2021 review in World Psychiatry found video therapy outcomes comparable to in-person for common presentations. But the quality controls are weaker than a traditional practice, the matching algorithms are blunt instruments, and some platforms have faced valid criticism for prioritizing engagement over clinical appropriateness.
 
@@ -91,7 +89,7 @@ If you have a high-deductible plan, you may be paying full rate until that deduc
 
 ## The Fear Nobody Names
 
-I want to say this plainly because I've seen it stop people: the fear that asking for a lower rate is embarrassing, or that you'll get worse care because of it.
+A common concern is that asking for a lower rate feels embarrassing or might result in worse care. Neither is typically true.
 
 Therapists who offer sliding scale do so because they chose to. It's a clinical and ethical decision many make deliberately, not a charity they resent. I've never once heard a therapist say they put less effort into lower-fee clients. The stigma lives in your head, not in their practice.
 
@@ -108,7 +106,6 @@ If you want to do some self-exploration between sessions, or while you're waitin
 - [SAMHSA National Helpline](https://www.samhsa.gov/find-help/national-helpline): Free, confidential referral and information service for mental health and substance use treatment.
 
 ---
-
 
 ---
 

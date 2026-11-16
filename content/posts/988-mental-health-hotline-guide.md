@@ -40,13 +40,11 @@ Texting 988 works too, and it's become genuinely popular among people who find v
 
 > **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the take that surprises people: you don't have to be suicidal to call 988.
 
 The line is designed for anyone experiencing a mental health or substance use crisis. That includes [panic attacks that won't stop](/how-to-help-someone-having-a-panic-attack/), dissociative episodes, unbearable grief, psychotic symptoms, a relapse, or a situation where you're worried about someone else. The counselors are trained for emotional crisis support, not just suicide intervention. If you're shaking and can't think straight at 2 a.m. because of anxiety that's been building for weeks, 988 is appropriate. You're not taking a spot from someone "more deserving."
 
-I've had clients who felt embarrassed calling because they weren't sure they were "bad enough." Almost every one of them said the call helped. One described it as "having permission to be a mess for twenty minutes with someone who could handle it." That's not a small thing.
+Many people feel embarrassed calling a helpline because they worry they aren't "bad enough" to deserve support. A call can provide permission to be vulnerable with someone trained to listen without judgment. That's not a small thing.
 
 ## What Happens When You Call
 
@@ -76,7 +74,6 @@ If you want to build some baseline skills for supporting someone else, *The Dial
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
@@ -90,7 +87,6 @@ If you want to build some baseline skills for supporting someone else, *The Dial
 - [SAMHSA's treatment locator](https://findtreatment.gov/)
 - [on Amazon](https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook/dp/1572245131)
 - [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

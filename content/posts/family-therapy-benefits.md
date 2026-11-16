@@ -44,7 +44,7 @@ Family therapy doesn't require a dramatic crisis to be useful. That's one of the
 
 Family therapy is a structured, evidence-based form of psychotherapy that treats the family unit as its own system. Rather than pointing to one person as "the problem," it looks at patterns, roles, and communication cycles that play out between people. A trained family therapist, typically someone with credentials like LMFT (Licensed Marriage and Family Therapist) or LCSW (Licensed Clinical Social Worker), facilitates sessions where family members talk, listen, and often discover dynamics they didn't realize were happening.
 
-What it isn't: a courtroom. A lot of families avoid therapy because they're afraid it'll turn into a blame session with a referee. In my experience working alongside clinical teams, the best family therapists actively resist that frame. The goal isn't to decide who's wrong. It's to interrupt unhelpful patterns and build new ones.
+What it isn't: a courtroom. A lot of families avoid therapy because they're afraid it'll turn into a blame session with a referee. The best family therapists actively resist that frame. The goal isn't to decide who's wrong. It's to interrupt unhelpful patterns and build new ones.
 
 Common approaches include Structural Family Therapy, which focuses on reorganizing family roles and boundaries; Bowenian Therapy, which looks at how patterns repeat across generations; and Emotionally Focused Family Therapy (EFFT), which helps family members identify and communicate underlying emotions rather than reacting from the surface. Your therapist will usually explain their approach in the first or second session, and it's completely appropriate to ask.
 
@@ -113,7 +113,7 @@ For families dealing with a teen or child who struggles with emotional regulatio
 
 ---
 
-Families aren't supposed to be perfect. They're supposed to be real, which means messy, sometimes painful, and always changing. What family therapy offers isn't a transformation into something ideal. It's the tools to understand each other better, argue more honestly, and rebuild connection when things have frayed. I've seen families come in barely speaking and leave with something genuinely different between them. Not fixed. Not finished. But moving again. That's usually enough.
+Families aren't supposed to be perfect. They're supposed to be real, which means messy, sometimes painful, and always changing. What family therapy offers isn't a transformation into something ideal. It's the tools to understand each other better, argue more honestly, and rebuild connection when things have frayed. For example, a family might come in barely speaking and leave with something genuinely different between them. Not fixed. Not finished. But moving again. That's usually enough.
 
 ## Sources & References
 

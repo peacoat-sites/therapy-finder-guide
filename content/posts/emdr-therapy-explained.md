@@ -79,7 +79,7 @@ What distinguishes EMDR is that it follows a clear protocol. A trained EMDR ther
 
 PTSD is where most people have heard of EMDR, and the evidence there is strongest. But the application has expanded significantly over the past two decades.
 
-I've seen EMDR work with clients dealing with childhood abuse and neglect, grief, phobias, panic disorder, performance anxiety, and what's sometimes called "small t" trauma. Small-t traumas aren't headline-grabbing events. They're the chronic experiences that quietly shape someone's nervous system over years: a parent who was emotionally unavailable, relentless bullying, medical procedures in childhood, a relationship marked by subtle but consistent humiliation.
+EMDR is used to treat childhood abuse and neglect, grief, phobias, panic disorder, performance anxiety, and what's sometimes called "small t" trauma. Small-t traumas aren't headline-grabbing events. They're the chronic experiences that quietly shape someone's nervous system over years: a parent who was emotionally unavailable, relentless bullying, medical procedures in childhood, a relationship marked by subtle but consistent humiliation.
 
 EMDR isn't a universal fit though. It's not typically the starting point for someone actively suicidal, severely dissociating, or in the middle of an acute crisis. Stabilization comes first, always. If you're in immediate distress, please reach out to the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) before anything else.
 

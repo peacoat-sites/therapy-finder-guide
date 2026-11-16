@@ -29,11 +29,9 @@ Most people who land on an article like this one have already been sitting with 
 
 Here's what I tell people who come to me with those questions: trauma-informed therapy isn't a single technique or a specific school of thought. It's more like a set of principles that shape how a therapist understands and responds to you, principles that change everything about how the work feels, even when the actual interventions look similar to what you'd find in other types of care.
 
-I've worked alongside clinical teams for years, helping people find the [right therapist](/how-to-find-the-right-therapist/) and understand what they were walking into. I've seen people leave a first session feeling worse than before they arrived, not because the therapist was bad, but because the approach wasn't calibrated for someone carrying a trauma history. That mismatch matters. A lot.
-
+Finding the [right therapist](/how-to-find-the-right-therapist/) and understanding what to expect matters. People can leave a first session feeling worse than before they arrived, not because the therapist was bad, but because the approach wasn't calibrated for someone carrying a trauma history. That mismatch matters. A lot.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Trauma-informed therapy is a framework, not a single technique; it shapes how all care is delivered.</li><li style="margin:5px 0">"Big T" and "small t" trauma both qualify; you don't need a dramatic event to benefit.</li><li style="margin:5px 0">EMDR and Somatic Experiencing have strong research backing for trauma specifically.</li><li style="margin:5px 0">A good trauma-informed therapist will never push you to recount details before you're ready.</li><li style="margin:5px 0">SAMHSA's treatment locator can filter specifically for trauma-specialized providers near you.</li></ul></div>
-
 
 ## What "Trauma-Informed" Actually Means
 
@@ -47,8 +45,6 @@ What it doesn't mean: your therapist will let you avoid hard conversations indef
 
 > **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 There are several specific therapies that fall under the trauma-informed umbrella. They're not interchangeable, and choosing the wrong one for your situation is a real thing that happens. Here's an honest comparison:
 
 | Approach | Best for | Session structure | Evidence level | Typical cost range (US, 2026) |
@@ -59,7 +55,7 @@ There are several specific therapies that fall under the trauma-informed umbrell
 | Trauma-Focused CBT (TF-CBT) | Children and adolescents primarily | Includes caregiver involvement | Very strong for its population | $100-$180/session |
 | Internal Family Systems (IFS) | Complex/relational trauma, dissociation | Parts-based, flexible pacing | Promising, research growing | $140-$240/session |
 
-A few things to note about this table. First, costs vary a lot by city, and most therapists who take insurance will reduce your out-of-pocket significantly. Second, "evidence level" is a charged topic in the therapy world. Somatic Experiencing has fewer randomized controlled trials partly because it's harder to standardize for a study, not necessarily because it doesn't work. I've seen it be genuinely transformative for people who tried EMDR first and found the structured protocol too activating. Third, if cost is a barrier, SAMHSA's treatment locator at findtreatment.gov lets you filter by trauma specialty and sliding-scale availability.
+A few things to note about this table. First, costs vary a lot by city, and most therapists who take insurance will reduce your out-of-pocket significantly. Second, "evidence level" is a charged topic in the therapy world. Somatic Experiencing has fewer randomized controlled trials partly because it's harder to standardize for a study, not necessarily because it doesn't work. For some people, it can be more suitable than EMDR if the structured protocol feels too activating. Third, if cost is a barrier, SAMHSA's treatment locator at findtreatment.gov lets you filter by trauma specialty and sliding-scale availability.
 
 ## "Do I Actually Have Trauma?"
 
@@ -85,7 +81,7 @@ Psychology Today's therapist directory (psychologytoday.com/us/therapists) lets 
 
 ## When Trauma-Informed Therapy Gets Hard
 
-Real talk: this work can temporarily make things feel worse before they feel better. That's not a sign something is wrong. It's usually a sign that material that's been frozen for a long time is starting to move. But there's a meaningful difference between "uncomfortably activated in a way that's part of the process" and "destabilized in a way that needs slowing down."
+This work can temporarily make things feel worse before they feel better. That's not a sign something is wrong. It's usually a sign that material that's been frozen for a long time is starting to move. But there's a meaningful difference between "uncomfortably activated in a way that's part of the process" and "destabilized in a way that needs slowing down."
 
 A good trauma-informed therapist will check in on this explicitly. They'll adjust the pacing if your outside life is particularly stressful. They'll make sure you have stabilization skills before diving into processing. If yours isn't doing that, it's completely fair to say so directly.
 
@@ -112,7 +108,6 @@ The *The Complex PTSD Workbook* by Arielle Schwartz walks through CBT and somati
 - SAMHSA National Helpline and treatment locator: findtreatment.gov, free, confidential resource for finding trauma-specialized care.
 
 ---
-
 
 *Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 

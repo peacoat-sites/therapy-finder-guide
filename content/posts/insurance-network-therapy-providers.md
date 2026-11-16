@@ -67,7 +67,7 @@ Finding an in-network therapist is one thing. Finding one who actually specializ
 
 Insurance directories list therapists broadly. You'll see "anxiety" or "depression," but a therapist who treats general anxiety might not know EMDR for PTSD, or Exposure and Response Prevention (ERP) for OCD. Those are completely different skill sets. Research on whether general therapy works as well as specialized protocols for conditions like OCD is mixed, but most clinicians agree matching treatment to diagnosis matters.
 
-When you call, ask directly: "What approaches do you use for [your specific issue]?" A real therapist should name their modality: CBT, DBT, ACT, whatever it is. If they say something vague like "I use a holistic approach," that's not automatically a red flag, but it's worth digging deeper.
+When you call, ask directly: "What approaches do you use for [your specific issue]?" A real therapist should name their modality: CBT, DBT, ACT, whatever it is. If they say something vague like "I use a holistic approach," ask for specifics about what that means in practice.
 
 If you want to prep before your first session, *The Cognitive Behavioral Workbook for Anxiety* by William Knaus is a solid choice for understanding CBT before you walk in. *(Disclosure: this site may earn a commission from qualifying Amazon purchases.)*
 
@@ -98,7 +98,7 @@ There's also a middle ground: some therapists not taking insurance directly will
 
 ---
 
-The system isn't built for easy navigation. That's not pessimism, it's just how it is. But the path clears once you understand where the actual friction points lie. You're not doing anything wrong if this feels hard. You're navigating a process with real structural problems. The steps above won't fix those problems, but they'll get you through them faster and closer to actual care.
+The system has real structural obstacles to navigation. Understanding where the friction points lie can help you move through the process more efficiently. The steps above won't fix those problems, but they'll get you through them faster and closer to actual care.
 
 ---
 

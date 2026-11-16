@@ -75,7 +75,7 @@ You can also ask: Do you have experience with [your specific type of trauma]? Wh
 
 ## The Insurance and Cost Reality
 
-Let's be honest about this. Trauma-informed care, especially specialists with EMDR or somatic training, often costs more than general therapy. In major US cities, sessions can run $150 to $275 out of pocket. This is real, and it's a barrier for a lot of people.
+Trauma-informed care, especially specialists with EMDR or somatic training, often costs more than general therapy. In major US cities, sessions can run $150 to $275 out of pocket. This is real, and it's a barrier for a lot of people.
 
 Insurance coverage varies enormously. Even when a therapist accepts your insurance, you may face deductibles or limits on the number of covered sessions per year. It's worth calling your insurance company directly (the number is on the back of your card) and asking specifically: How many outpatient mental health sessions are covered per year? What's my copay? Do I need a referral?
 

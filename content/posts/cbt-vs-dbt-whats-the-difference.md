@@ -31,9 +31,7 @@ Here's what you actually need to know.
 
 Roughly 75% of people who complete a full course of [Cognitive Behavioral Therapy](/cognitive-behavioral-therapy-explained/) show clinically significant improvement, according to a meta-analysis published in *Cognitive Therapy and Research*. That's a headline number worth knowing. But DBT's outcomes in its target populations, particularly borderline personality disorder and chronic self-harm, run even higher for certain measures. A landmark study by DBT's developer Marsha Linehan found that DBT reduced suicide attempts by 50% compared to treatment-as-usual in the same period. These are not the same therapy with different branding.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CBT targets distorted thoughts; DBT adds emotional regulation and distress tolerance skills on top of that foundation.</li><li style="margin:5px 0">DBT was specifically designed for borderline personality disorder and chronic suicidality; CBT was not.</li><li style="margin:5px 0">Standard CBT runs 12-20 weekly sessions; comprehensive DBT programs typically run 6-12 months minimum.</li><li style="margin:5px 0">DBT requires more therapist time and structure, making it significantly more expensive on average.</li><li style="margin:5px 0">Either therapy can be effective for depression and anxiety; the diagnosis and severity should drive the choice.</li></ul></div>
-
 
 ## What CBT Actually Is (And What It Isn't)
 
@@ -41,13 +39,11 @@ CBT, [Cognitive Behavioral](/psychodynamic-therapy-vs-cognitive-behavioral-thera
 
 What CBT is not: a feelings diary, a venting session, or a generic "talk about your problems" format. A good CBT therapist will assign you homework. You'll log automatic thoughts, complete behavioral experiments, and track mood [between sessions](/your-patients-are-using-ai-between-sessions-now-what/). The first time I observed a CBT session in a clinical setting, I was struck by how much it resembled tutoring more than what most people picture as therapy. Structured, goal-directed, slightly uncomfortable for people who'd rather talk in circles.
 
-CBT is well-validated for depression, generalized anxiety disorder, panic disorder, OCD, PTSD, social anxiety, and insomnia (CBT-I for insomnia is, honestly, one of the most underrated interventions in mental health, with remission rates that beat sleep medication in long-term follow-up). For most common mental health presentations, it's a reasonable first-line choice.
+CBT is well-validated for depression, generalized anxiety disorder, panic disorder, OCD, PTSD, social anxiety, and insomnia (CBT-I for insomnia has remission rates that exceed those of sleep medication in long-term follow-up studies). For most common mental health presentations, it's a reasonable first-line choice.
 
 ## Where DBT Comes From, and Why It Exists
 
 > **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Dialectical Behavior Therapy was built because CBT wasn't working well enough for a specific population: people with borderline personality disorder, chronic suicidality, and intense emotional dysregulation. Marsha Linehan, who developed DBT at the University of Washington in the late 1980s, later disclosed that she herself had been diagnosed with BPD. That context matters. She wasn't theorizing from a distance.
 
@@ -79,9 +75,7 @@ The cost and time differences here are significant enough to warrant a real comp
 
 These are ranges, not guarantees, and insurance coverage changes the math dramatically. As of August 2026, most major insurers cover both under mental health parity laws, but coverage for DBT skills groups specifically is inconsistent and worth confirming before you commit.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Session count comparison: CBT vs DBT</div><div class="sc-row"><span class="sc-label">CBT (minimum)</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">12 sessions</span></div><div class="sc-row"><span class="sc-label">CBT (typical)</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">16 sessions</span></div><div class="sc-row"><span class="sc-label">DBT (6-month program)</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">48 sessions</span></div><div class="sc-row"><span class="sc-label">DBT (12-month program)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">96 sessions</span></div><div class="sc-src">Source: Clinical practice standards, multiple sources</div></div>
-
 
 That chart makes the commitment difference visceral in a way that prose doesn't. A 12-month DBT program means roughly 96 total sessions when you count group and individual combined. CBT at 16 sessions is a genuinely shorter course of treatment.
 
@@ -122,7 +116,6 @@ One practical note from having sat in on intake calls: when you contact a therap
 - Cuijpers, P. et al. (2021): "The effects of psychotherapies for depression: a meta-analytic review." *Psychological Medicine*, Cambridge University Press.
 
 ---
-
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 

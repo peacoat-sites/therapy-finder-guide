@@ -36,11 +36,11 @@ Postpartum depression (PPD) affects roughly 1 in 7 new mothers, and what most pe
 
 ## What Therapy for PPD Actually Looks Like
 
-A lot of new moms I've worked alongside assume that therapy means going somewhere and crying for fifty minutes while someone nods. That's not really what evidence-based postpartum therapy looks like.
+Many new moms assume that therapy means going somewhere and crying for fifty minutes while someone nods. That's not really what evidence-based postpartum therapy looks like.
 
 The gold standard, backed by solid research, is Cognitive Behavioral Therapy (CBT). A 2015 trial published in *The Lancet* found that CBT specifically adapted for PPD produced significant symptom reduction compared to usual care. What CBT does in practice: it helps you notice the thought patterns that are feeding your anxiety or depression ("I'm a terrible mother," "something is wrong with me," "I'll never feel normal again"), examine whether they're actually accurate, and gradually replace them with responses that are grounded in reality rather than postpartum-brain catastrophizing. Sessions are usually structured. There are often workbooks involved. If you like having something concrete to work on, CBT suits many new moms well. (If you want to start doing some of this work between sessions, a resource like [The Postpartum Stress Card](https://www.amazon.com/s?k=postpartum+depression+CBT+workbook) or a CBT-based journal can be a useful complement. The site may earn a small commission on purchases like those, which I mention only because it's the honest thing to do.)
 
-Interpersonal Therapy (IPT) is the other big one for PPD specifically. IPT focuses on role transitions, which is exactly what becoming a mother is: a massive, often jarring shift in identity, relationship dynamics, and daily life. I've seen women who did well in CBT and women who got far more out of IPT, and the difference often comes down to whether the core pain is "my thoughts are spiraling" versus "my entire sense of self just got upended and my relationship is suffering." Both things can be true at once, of course.
+Interpersonal Therapy (IPT) is the other big one for PPD specifically. IPT focuses on role transitions, which is exactly what becoming a mother is: a massive, often jarring shift in identity, relationship dynamics, and daily life. The choice between CBT and IPT often depends on whether the core pain is "my thoughts are spiraling" versus "my entire sense of self just got upended and my relationship is suffering." Both things can be true at once, of course.
 
 There's also a newer category worth knowing: psychotherapy delivered via telehealth. This isn't a compromise version. For new moms with a newborn, no childcare, and no reliable way to get somewhere, telehealth is often the option that actually gets used. Showing up to a video call in your nursing bra while the baby naps counts.
 
@@ -49,8 +49,6 @@ There's also a newer category worth knowing: psychotherapy delivered via telehea
 ## Finding a Therapist Who Actually Gets PPD
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the part that frustrates people most, and understandably. Not every therapist has specific training in perinatal mental health. A well-intentioned therapist without that background might give you generic coping strategies that feel hollow when you're three weeks into the worst experience of your life.
 
@@ -78,7 +76,6 @@ If you're having thoughts of harming yourself or your baby, please reach out now
 
 ---
 
-
 ---
 
 Getting help for PPD is not self-indulgent. Treating it is one of the most direct things you can do for your baby, because a mother who's received treatment is more present, more regulated, and more able to build the early attachment that shapes everything. You deserve to feel better. The help exists. Start with one phone call, or one search on the PSI directory. That's enough for today.
@@ -96,7 +93,6 @@ Getting help for PPD is not self-indulgent. Treating it is one of the most direc
 - [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
 - [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

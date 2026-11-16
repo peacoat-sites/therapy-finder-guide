@@ -35,13 +35,11 @@ I'll be honest: the phrase "culturally competent" has started to feel hollow to 
 
 What people are really looking for when they search for a BIPOC therapist directory is something more specific: a therapist who won't require them to spend the first six sessions explaining their lived experience before any actual therapeutic work can happen. A Black woman shouldn't have to defend why her hair is political. A Latinx client shouldn't have to translate the concept of familismo to someone who responds with a blank stare. A therapist who shares your racial or ethnic background isn't automatically a perfect fit, but the research consistently shows that racial and ethnic match between client and therapist is associated with longer treatment retention. A 2020 study published in JAMA Psychiatry found that Black and Latinx patients in matched therapeutic relationships were significantly less likely to drop out prematurely than those in unmatched pairings. That's not nothing. That's weeks or months of actual therapeutic progress.
 
-I thought for a long time that "finding someone who gets it" was a preference, almost a luxury. The data convinced me it's a clinical factor.
+Finding someone who gets it is sometimes framed as a preference or luxury. It's actually a clinical factor.
 
 ## The Directories Worth Knowing
 
 > **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 As of July 2026, there are several well-maintained BIPOC therapist directories, and they are not all built the same way. Here's a practical breakdown:
 
@@ -72,7 +70,7 @@ Check their "Issues" or "Specialties" list. Racial trauma, systemic oppression, 
 
 Then, and this is the step most people skip: send a brief email before booking a full intake. Something like, "I'm looking for a therapist who has specific experience with [your context]. Is that something you actively work with?" The answer, and the response time, tells you a lot.
 
-What surprised me was how many clients I've worked with who never asked a single question before booking, sat through an intake that felt off, and then concluded therapy "wasn't for them." It often wasn't that therapy was wrong. It was that they needed a different match.
+Many people book without asking questions, sit through an intake that feels off, and then conclude therapy isn't for them. Often the issue isn't therapy itself but a poor match.
 
 ## When You Can't Afford the First Session
 
@@ -101,7 +99,6 @@ If you're working through anxiety between sessions, a structured workbook can he
 - Asian Mental Health Collective: Community-sourced directory of Asian-identified therapists with sliding-scale filter.
 
 ---
-
 
 ---
 
