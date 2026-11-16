@@ -1005,11 +1005,11 @@ def _scrub_slop(content: str) -> str:
                lambda m: m.group(1) + m.group(2).upper(), c, flags=re.M)
     c = re.sub(r"(?m)^(?:In conclusion|In summary|Ultimately|At the end of the day),\s+(\w)",
                lambda m: m.group(1).upper(), c)
-    c = re.sub(r"(^|(?<=[.!?])[ \t]+)(?:Honestly|Look|Trust me|Truth be told|Make no mistake),\s+(\w)",
+    c = re.sub(r"(^|(?<=[.!?])[ \t]+)(?:Honestly|Look|Trust me|Truth be told|Make no mistake),[ \t]+(\w)",
                lambda m: m.group(1) + m.group(2).upper(), c, flags=re.M)
-    c = re.sub(r"(^|(?<=[.!?])[ \t]+)(?:Here(?:'|\u2019)s the thing|The reality is|Real talk):\s+(\w)",
+    c = re.sub(r"(^|(?<=[.!?])[ \t]+)(?:Here(?:'|\u2019)s the thing|The reality is|Real talk):[ \t]+(\w)",
                lambda m: m.group(1) + m.group(2).upper(), c, flags=re.M)
-    c = re.sub(r"(^|(?<=[.!?])[ \t]+)Let(?:'|\u2019)s (?:dive in|break (?:it|this) down)[.!:]\s*", r"\1", c, flags=re.M)
+    c = re.sub(r"(^|(?<=[.!?])[ \t]+)Let(?:'|\u2019)s (?:dive in|break (?:it|this) down)[.!:][ \t]*", r"\1", c, flags=re.M)
     return c
 
 def _render_charts(content: str) -> str:
