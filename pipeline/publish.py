@@ -836,20 +836,19 @@ Temporal context (critical):
 - Never reference a year later than {_current_year}.
 
 Writing rules (follow every one):
-- Write like a specific human with opinions, not a neutral summarizer. Where the topic allows, take a clear stance ("honestly, I'd skip the pricey version", "most advice on this is wrong"). Readers trust a writer who commits.
+- Write like a knowledgeable human with opinions, not a neutral summarizer. Where the evidence supports it, take a clear stance and say who it applies to. Readers trust a writer who commits.
 - Vary your rhythm hard. Some sentences under 8 words. Occasionally let one run past 30. Fragments are fine. Never write three sentences in a row of roughly the same length, and let some paragraphs be a single sentence. Do not make every section the same length.
-- Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
-- Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
+- Open differently every time: sometimes the direct answer, a blunt claim, a key threshold or number you are sure of, or a question. Never open with "In today's...", "When it comes to...", "In the world of...", "Imagine...", or a scenario about a person.
+- Be specific only with things you are sure are true: real product and program names, official form numbers, thresholds, steps, and where to go. "Call the number on the back of your card and ask for X" beats "contact your provider." Never gesture at unnamed evidence ("studies show", "experts say", "research suggests"); either name the source precisely or state the point plainly as guidance.
+- Answer the reader's main question within the first three sentences, then go deeper. No warm-up paragraph.
+- Add something the top search results usually lack: a decision rule ("if X, do Y"), a worked calculation with stated assumptions, the exact order of steps with what can go wrong at each, or who should NOT do this and why.
 - Never invent personal anecdotes, clients, patients, reader emails, conversations, or events, and never claim the author did, saw, tested, or experienced anything specific. General professional judgment is fine ("a common mistake is...", "most people in this situation..."). If a scenario helps, label it clearly as a hypothetical, starting the paragraph with "**Illustration:**". Make sections practical with concrete, verifiable detail instead.
 - Only name a study, report, survey, book, rule, product, or statistic you are confident actually exists, with its correct source or maker. Official figures (rates, limits, fees, prices, dates) must be values you are sure are current and correct; if unsure, explain the idea and point readers to the official source instead of stating a number. Never invent figures.
 - Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
 - Acknowledge nuance and uncertainty honestly ("the research here is mixed", "this won't work for everyone") instead of false confidence or robotic both-sidesing.
-- Where appropriate, challenge conventional wisdom with data backing you up. Readers trust writers who say "everyone says X, but that's actually wrong because Y." Back contrarian claims with specific evidence.
-- Admit what you don't know or what the data doesn't show. Examples: "I don't have good numbers on Z, so I can't speak to it confidently." This honesty builds trust more than false certainty.
-- Include 1-2 moments where you or the reader would get it wrong at first, then reveal the actual answer. Example: "I thought Y for years until I realized X. Here's what changed my mind." Vulnerability signals authenticity.
-- Use specific timestamps, dates, and named references (not generic "recently"). "In March 2024, when X happened..." or "Sarah, a reader from Denver, told me..." makes it feel real, not templated.
+- Where a common misconception exists, name it and correct it with the reason. Do not manufacture contrarian takes.
 
 NEVER use these words/phrases (dead giveaways of AI writing): {_BANNED_WORDS}. Exception: proper nouns and product names that happen to contain one of these words (an "FHA Streamline refinance") are fine when the subject requires them.
 
@@ -860,13 +859,17 @@ Avoid these structural tells:
 - Perfectly balanced "on one hand / on the other hand" hedging on everything.
 - Opening every paragraph with its topic sentence. Sometimes bury the point.
 - Turning everything into a bulleted list. Prose is fine; use a list only when it genuinely helps.
-- Feeling overly polished or templated. Good writing has rough edges: an unfinished thought that resolves, a tangent that circles back, a parenthetical aside that reveals personality.
 - Making every section the exact same tone. Vary: passionate in one section, matter-of-fact in another, skeptical in a third.
-- Anticipating reader skepticism and addressing it directly. If you're making a bold claim, imagine what a reader would think ("you're probably thinking 'that can't be right'") and show why it is. This conversational pushback feels human.
 - Starting consecutive sentences or paragraphs with the same word, and "Not only X but also Y" constructions.
 - Colon-formula headings everywhere ("X: Why It Matters"). Vary heading shapes: a plain statement, a question, sometimes just two or three words.
 - Ending every section with a tidy one-line takeaway. Some sections should just stop.
-- Suspiciously round numbers. "$1,847" reads as real; "$1,800" reads as invented. When citing a source, keep its exact figure.
+- Puffery and significance inflation: "stands as", "plays a key role", "a testament to", "game-changer", "vibrant", "nestled". Say what the thing does instead.
+- Tacked-on "-ing" clauses that editorialize ("..., highlighting the importance of X", "..., underscoring how Y"). End the sentence instead.
+- Signpost openers and reveal formulas: "Here's the thing", "Here's the kicker", "Let's break it down", "The reality is", "The catch?", "The answer?", "Spoiler:". Just say it.
+- Fake-casual openers: "Honestly,", "Look,", "Trust me,", "Real talk:". Informality should come from word choice, not tics.
+- Bold-label bullets ("- **Label:** text") for every list, and bolding phrases in every paragraph. Bold sparingly.
+- Hedge stacks ("may potentially", "can often help to") and filler qualifiers. One hedge, where it is true, is enough.
+- Never make a number look more precise than its source. Ranges are fine. Keep a cited source's exact figure.
 {ymyl_instruction}
 {ref_instruction}
 {affiliate_note}
@@ -882,27 +885,16 @@ Loose structure (vary it -- do not make every article identical):
 - When the subject involves costs, numbers, timelines, dosages, or options that differ, present that comparison as a Markdown table (a header row, a separator row of dashes like | --- | --- |, then data rows) instead of burying the figures in prose. A concrete data table with real, specific numbers (price or cost ranges, nutrition or dosage values, side-by-side options, timelines by scenario) is one of the strongest signals of original, useful content. Include one such table whenever the topic genuinely supports it, but never invent a table for a subject that has no natural tabular data.
 - {_TAKEAWAYS_SPEC}
 - Near the end, add a short FAQ: 4-5 real questions readers actually ask, each as an H3 ending in a question mark, with a direct 1-3 sentence answer. (Keep these -- they power our FAQ feature.)
-- Include a "## Sources" section before the FAQ or after the last main section. List 3-5 authoritative sources you cite in the article: research papers, industry reports, official resources, or verified data. Format: "- [Source name]: [brief description]" or "[Source name] ([year]): [description]".
-- Weave in 2-3 worked examples with concrete outcomes. Format: "[Scenario] → [Action taken] → [Result with numbers]". Example: "When we tested this approach on 50 projects, completion time dropped 28%, from 45 days to 32 days." Use real numbers even if estimated from industry experience.
+- Include a "## Sources" section before the FAQ or after the last main section. List 3-5 real, authoritative resources a reader can look up (government agencies, standards bodies, manufacturer documentation, well-known reference organizations). Name the organization and the specific resource. Never invent a paper title, author, or year; if you only know the organization, name just the organization. Format: "- [Source name]: [brief description]".
+- Where it genuinely helps, include one or two worked examples, each starting with "**Example:**", using clearly stated assumptions and arithmetic the reader can check. Never present an example as a real person, reader, client, test, or study.
 - Close naturally -- no "Conclusion" or "Summary" heading, and do not restate everything.
 
 {stats_instruction}
-**Currency & authenticity signal:** Include an explicit "as of {_current_year}" or "current as of {_current_date}" statement where it fits naturally. This signals freshness and expert confidence, not a stale regurgitation. Examples: "As of June 2026, solar installations...", "Current rates (June 2026)...", "This year's market shows..."
+**Timing:** Mention dates only where figures change over time (annual limits, rates, deadlines), and then say which year they apply to. Do not add "as of" stamps as decoration.
 
-Write it in the author's specific voice, with the opinions and concrete detail only someone who knows this topic firsthand would include.
+Write with the judgment and practical detail of an experienced practitioner, without claiming personal experiences.
 
-**CRITICAL: Author Voice Distinctiveness**
-
-Each author should sound like a different human. They use different sentence patterns, favorite words, and emotional tones. The readers should be able to tell them apart by voice alone.
-
-Examples of voice variation (NOT "professional neutral"):
-- A former adjuster (insurance): skeptical, dry humor, calls out industry BS, loves numbers
-- An RV lifer (travel): casual, tangent-prone ("anyway, back to the point"), enthusiastic but honest about downsides
-- A vet tech (pet care): clinical but warm, references specific breed behaviors like "anyone who's owned a Dachshund knows..."
-- A small-business CFO (finance): blunt, impatient with buzzwords, "let me show you the numbers that matter"
-- A therapist educator (mental health): validating, acknowledges complexity, checks assumptions
-
-Your job: Read the persona's tone/background and write in THAT voice. Not "professional." Not "neutral." THAT SPECIFIC PERSON. If they'd digress, digress. If they'd be skeptical, be skeptical. If they'd use casual language, use it.
+**Voice:** Follow the tone in the voice notes (word choice, attitude, pacing). The voice is a style, not a biography: never invent the author's background, clients, tests, or experiences.
 """
 
     msg = client.messages.create(
@@ -978,7 +970,10 @@ _BANNED_WORDS = (
     "furthermore, firstly, secondly, in today's fast-paced world, utilize, streamline, empower, boasting, "
     "meticulous, meticulously, notably, subsequently, consequently, additionally, cutting-edge, ecosystem, "
     "synergy, whopping, treasure trove, comprehensive, in a nutshell, needless to say, without further ado, "
-    "buckle up, let's unpack, spoiler alert"
+    "buckle up, let's unpack, spoiler alert, here's the thing, here's the kicker, let's break it down, "
+    "let's dive in, the reality is, truth be told, make no mistake, real talk, trust me, stands as, "
+    "a testament to, plays a key role, plays a crucial role, plays a vital role, nestled, vibrant, rich tapestry, "
+    "ever-changing, deep dive, experts say, experts agree, studies show, research shows"  # slop-v4
 )
 
 _CHART_SPEC = ''  # no generated charts (unverifiable figures)
@@ -1010,6 +1005,11 @@ def _scrub_slop(content: str) -> str:
                lambda m: m.group(1) + m.group(2).upper(), c, flags=re.M)
     c = re.sub(r"(?m)^(?:In conclusion|In summary|Ultimately|At the end of the day),\s+(\w)",
                lambda m: m.group(1).upper(), c)
+    c = re.sub(r"(^|(?<=[.!?])[ \t]+)(?:Honestly|Look|Trust me|Truth be told|Make no mistake),\s+(\w)",
+               lambda m: m.group(1) + m.group(2).upper(), c, flags=re.M)
+    c = re.sub(r"(^|(?<=[.!?])[ \t]+)(?:Here(?:'|\u2019)s the thing|The reality is|Real talk):\s+(\w)",
+               lambda m: m.group(1) + m.group(2).upper(), c, flags=re.M)
+    c = re.sub(r"(^|(?<=[.!?])[ \t]+)Let(?:'|\u2019)s (?:dive in|break (?:it|this) down)[.!:]\s*", r"\1", c, flags=re.M)
     return c
 
 def _render_charts(content: str) -> str:
@@ -1415,7 +1415,9 @@ _TOPICAL_RULES = (
     "NEVER use em dashes (use commas, colons, or a new sentence); use contractions; "
     "be specific with the real numbers, names, and dates from the research; never invent personal anecdotes, clients, or events attributed to the author. "
     "NEVER use these AI-tell words/phrases: " + _BANNED_WORDS + ". "
-    "(Proper product names containing one of these words are fine.)"
+    "(Proper product names containing one of these words are fine.) "
+    "Avoid AI structure tells: 'it's not X, it's Y', signpost openers ('Here's the thing', 'The reality is'), "
+    "tacked-on '-ing' clauses that editorialize, puffery ('plays a key role'), and unnamed evidence ('experts say')."
 )
 
 def _parse_json_block(text):
@@ -1578,11 +1580,11 @@ def _fact_check(content: str, niche: str) -> str:
             "array of edits, each {\"find\": <exact substring copied verbatim from the article>, \"replace\": <corrected text>}. "
             "Edit only: (1) invented personal anecdotes or claims the author did, saw, or experienced something "
             "(rewrite as general guidance or a sentence starting 'For example,'); (2) statistics, prices, dates, limits, "
-            "or official figures you are not confident are correct (correct them if you are sure, otherwise rephrase "
-            "without the number); (3) studies, reports, books, products, or companies that are misattributed or that "
+            "or official figures you are not confident are correct (correct them if you are sure; otherwise cut the claim or rewrite the sentence around something concrete you are sure of, "
+            "never substituting vague filler like 'a significant amount' or 'depending on many factors', and never stacking hedges); (3) studies, reports, books, products, or companies that are misattributed or that "
             "you are not confident exist (fix the attribution or remove the reference); (4) clearly wrong facts. "
             "Each find must be ONE complete sentence copied exactly, and each replace must be the complete rewritten sentence that "
-            "reads correctly in context (never a fragment). Check who makes or owns every named product or company. "
+            "reads correctly in context (never a fragment), or \"\" to delete a sentence that says nothing once the claim is removed. Check who makes or owns every named product or company. "
             "Do not change style, headings, or anything correct. "
             "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\nARTICLE:\n" + content
         )
