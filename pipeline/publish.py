@@ -807,7 +807,9 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
 
     voice_instruction = f"\n## Your writing voice for this article:\n{voice_style}\n" if voice_style else ""
 
-    if stats_mode:
+    if True:  # no stats-led mode or charts (no research step to verify figures)
+        stats_instruction = ""
+    elif stats_mode:
         stats_instruction = (
             "**This is a DATA-LED article.** Open with the single most surprising number on the topic. Build it "
             "around 5-10 specific statistics from named sources (government data, industry surveys, academic "
@@ -838,7 +840,8 @@ Writing rules (follow every one):
 - Vary your rhythm hard. Some sentences under 8 words. Occasionally let one run past 30. Fragments are fine. Never write three sentences in a row of roughly the same length, and let some paragraphs be a single sentence. Do not make every section the same length.
 - Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
 - Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
-- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"). Include at least 1-2 "I tested", "in my experience", or "when I [verb]" moments per article. These signal authentic expertise and are the highest-trust differentiator from generic AI writing. Do not overdo it—2-3 natural moments per article is perfect, not contrived. Separately, work one small detail into each major section that only someone who has actually done this would know: the smell, the wait time, the form number, the question the clerk asks.
+- Never invent personal anecdotes, clients, patients, reader emails, conversations, or events, and never claim the author did, saw, tested, or experienced anything specific. General professional judgment is fine ("a common mistake is...", "most people in this situation..."). If a scenario helps, label it clearly as a hypothetical, starting the paragraph with "**Illustration:**". Make sections practical with concrete, verifiable detail instead.
+- Only name a study, report, survey, book, rule, product, or statistic you are confident actually exists, with its correct source or maker. Official figures (rates, limits, fees, prices, dates) must be values you are sure are current and correct; if unsure, explain the idea and point readers to the official source instead of stating a number. Never invent figures.
 - Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
@@ -978,16 +981,7 @@ _BANNED_WORDS = (
     "buckle up, let's unpack, spoiler alert"
 )
 
-_CHART_SPEC = (
-    'To show a comparison visually, you may include ONE chart block in this exact fenced format '
-    '(it renders as a bar chart on the page):\n'
-    '```chart\n'
-    '{"title": "Average annual cost by state", "unit": "$", "source": "USDA 2026 survey", '
-    '"data": [["Texas", 1450], ["Ohio", 980], ["Florida", 2100]]}\n'
-    '```\n'
-    'Chart rules: 3-7 rows, plain numeric values (no ranges), short labels, name the real source, '
-    'and only chart figures that also appear in the article text. Never invent chart data.'
-)
+_CHART_SPEC = ''  # no generated charts (unverifiable figures)
 
 # ── CONTENT POST-PROCESSING (deterministic de-slop + chart rendering) ─────────
 
@@ -1419,7 +1413,7 @@ NICHE_COMMUNITIES = {
 _TOPICAL_RULES = (
     "Writing rules: natural human voice; vary sentence length hard (some under 8 words, an occasional 30+ one); "
     "NEVER use em dashes (use commas, colons, or a new sentence); use contractions; "
-    "be specific with the real numbers, names, and dates from the research; occasional first person is fine. "
+    "be specific with the real numbers, names, and dates from the research; never invent personal anecdotes, clients, or events attributed to the author. "
     "NEVER use these AI-tell words/phrases: " + _BANNED_WORDS + ". "
     "(Proper product names containing one of these words are fine.)"
 )
@@ -1574,6 +1568,40 @@ Structure:
             "image_query": brief.get("image_query") or title, "category": "trending"}
 
 
+
+def _fact_check(content: str, niche: str) -> str:
+    """Second pass: correct or soften unverifiable claims before publishing. Fails open."""
+    try:
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        prompt = (
+            f"You are a strict fact-checker for a {niche} website. Review the article below and return ONLY a JSON "
+            "array of edits, each {\"find\": <exact substring copied verbatim from the article>, \"replace\": <corrected text>}. "
+            "Edit only: (1) invented personal anecdotes or claims the author did, saw, or experienced something "
+            "(rewrite as general guidance or a sentence starting 'For example,'); (2) statistics, prices, dates, limits, "
+            "or official figures you are not confident are correct (correct them if you are sure, otherwise rephrase "
+            "without the number); (3) studies, reports, books, products, or companies that are misattributed or that "
+            "you are not confident exist (fix the attribution or remove the reference); (4) clearly wrong facts. "
+            "Each find must be ONE complete sentence copied exactly, and each replace must be the complete rewritten sentence that "
+            "reads correctly in context (never a fragment). Check who makes or owns every named product or company. "
+            "Do not change style, headings, or anything correct. "
+            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\nARTICLE:\n" + content
+        )
+        msg = client.messages.create(model="claude-sonnet-4-6", max_tokens=3000,
+                                     messages=[{"role": "user", "content": prompt}])
+        raw = msg.content[0].text
+        m = re.search(r"\[.*\]", raw, re.S)
+        edits = json.loads(m.group(0)) if m else []
+        applied = 0
+        for e in edits[:15]:
+            f, r = e.get("find", ""), e.get("replace", "")
+            if f and isinstance(r, str) and content.count(f) == 1:
+                content = content.replace(f, r)
+                applied += 1
+        print(f"    Fact-check: {applied}/{len(edits)} edits applied")
+    except Exception as ex:
+        print(f"    Fact-check skipped: {ex}")
+    return content
+
 def publish_site(site_name: str, count: int):
     if site_name not in SITES:
         print(f"Site '{site_name}' not in SITES_CONFIG")
@@ -1641,6 +1669,9 @@ def publish_site(site_name: str, count: int):
         voice    = PORTFOLIO_VOICES[(voice_offset + i - 1) % len(PORTFOLIO_VOICES)]
         if _site_authors:
             persona = _site_authors[(voice_offset + i - 1) % len(_site_authors)]
+            # no cross-site contributor voice layered on the site author
+            voice = {"name": persona["name"], "bio": persona.get("bio", ""),
+                     "style": "Write in a clear, practical voice. Do not invent personal anecdotes."}
         else:
             persona  = {"name": voice["name"], "bio": voice["bio"]}
 
@@ -1678,6 +1709,7 @@ def publish_site(site_name: str, count: int):
                 # Generate article with portfolio voice style
                 article = generate_article(keyword, site, persona, priority, voice_style=voice["style"], stats_mode=stats_mode)
             print(f"    Article: {len(article['content'])} chars")
+            article["content"] = _fact_check(article["content"], niche)
 
             # Evergreen: use the article's subject-accurate image query (set post-generation)
             if not topical and not img_query:
