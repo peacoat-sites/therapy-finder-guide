@@ -41,8 +41,6 @@ One thing you might be wondering: do I have to prove my income? Sometimes, yes. 
 
 > **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where people get stuck. "Sliding scale" isn't a directory category the same way "in-network" is. Here's a practical breakdown of where it actually exists:
 
 **Private practice therapists** often quietly offer sliding scale spots without advertising them. You have to ask. Directly, specifically: "Do you have any sliding scale openings?" Many therapists hold a handful of reduced-fee slots for clients who need them, but those spots go to people who ask.
@@ -54,10 +52,6 @@ This is where people get stuck. "Sliding scale" isn't a directory category the s
 **Open Path Collective** is a vetted network of licensed therapists who agree to charge $30 to $80 per session to members. You pay a one-time $65 membership fee to access the directory. I've referred a lot of people there and the quality is genuinely solid.
 
 **Psychology Today's therapist directory** has a "sliding scale" filter that works decently well, though listings vary in accuracy. You can also search the NAMI (National Alliance on Mental Illness) resource database at nami.org for local options by zip code.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical sliding scale session cost by provider type</div><div class="sc-row"><span class="sc-label">Training Clinics</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$15</span></div><div class="sc-row"><span class="sc-label">Community Health Centers</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">$20</span></div><div class="sc-row"><span class="sc-label">Open Path Collective</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">$55</span></div><div class="sc-row"><span class="sc-label">Private Practice (sliding scale)</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$80</span></div><div class="sc-row"><span class="sc-label">Standard Private Practice</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$160</span></div><div class="sc-src">Source: Alex Morgan, compiled from provider directories and SAMHSA 2023 data</div></div>
-
 
 ## What You'll Actually Pay: A Real Comparison
 
@@ -106,7 +100,6 @@ If you want to do some reading between sessions, a workbook like the [Cognitive 
 - [National Alliance on Mental Illness (NAMI) Resource Directory](https://www.nami.org/Support-Education/NAMI-HelpLine) -- Searchable database of local mental health resources including low-cost and sliding scale providers
 
 ---
-
 
 ---
 

@@ -29,9 +29,9 @@ Your therapist is not judging you. They have heard stories more difficult than y
 
 ## Giving Therapy a Fair Chance
 
-One session is rarely enough to know whether therapy or a specific therapist is the right fit. Research consistently shows that the **therapeutic alliance** — the quality of the relationship between client and therapist — is one of the strongest predictors of outcome, and that alliance takes time to develop.
+One session is rarely enough to know whether therapy or a specific therapist is the right fit. Research consistently shows that the **therapeutic alliance**, the quality of the relationship between client and therapist, is one of the strongest predictors of outcome, and that alliance takes time to develop.
 
-A good sign is that your therapist listens without interrupting, reflects back what you say accurately, and makes you feel heard even if they challenge your perspective gently. If something feels off — if you feel judged, dismissed, or unheard — those feelings are worth noting.
+A good sign is that your therapist listens without interrupting, reflects back what you say accurately, and makes you feel heard even if they challenge your perspective gently. If something feels off, if you feel judged, dismissed, or unheard, those feelings are worth noting.
 
 **It is completely acceptable to switch therapists.** You can tell your current therapist directly, or simply stop scheduling. A good therapist will not take it personally and may even help you find someone whose approach is a better match. What matters is that you keep going. If you are in crisis or experiencing thoughts of self-harm, please call or text **988** immediately.
 

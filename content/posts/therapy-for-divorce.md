@@ -31,9 +31,7 @@ Here's the number that actually matters: according to research published in the 
 
 Divorce therapy isn't a luxury add-on for people who have extra time and money. For a lot of people, it's the thing that determines whether they come out of this with some functional version of themselves intact, or spend the next three years making decisions driven by grief, rage, or fear.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">~40% of divorced adults meet criteria for major depression within the first year (Journal of Divorce &amp; Remarriage).</li><li style="margin:5px 0">CBT and emotionally focused therapy (EFT) have the strongest research backing for divorce-related distress.</li><li style="margin:5px 0">Co-parenting therapy is separate from individual therapy and often more immediately effective for reducing conflict.</li><li style="margin:5px 0">Therapist cost ranges from $0 (community mental health) to $300+ per session; insurance now covers more than most people realize.</li><li style="margin:5px 0">Starting therapy before the divorce is finalized produces better outcomes than waiting until after.</li></ul></div>
-
 
 ## The Biggest Mistake People Make (And I Made It Too)
 
@@ -46,8 +44,6 @@ The other common mistake: using a divorce attorney as a de facto therapist. I he
 ## What Kind of Therapy Actually Works
 
 > **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Not all approaches are equally supported by evidence for divorce-specific distress. Here's what the research actually says, without the usual hand-waving:
 
@@ -75,10 +71,6 @@ This is where most articles give you vague ranges. Here's a more honest breakdow
 | Co-parenting therapy | $150-$250/session | 60-90 min | 1-3 weeks | Divorcing parents with active custody disputes |
 
 A few things that table doesn't capture: EAP sessions are often more useful than people think for bridging the gap while you search for a longer-term therapist. And online platforms are genuinely mixed in quality. I've had clients do well on them and others who found the interface created emotional distance that worked against them. It's worth trying if access is your barrier, but it's not automatically equivalent to in-person.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average therapy session cost by setting (2026)</div><div class="sc-row"><span class="sc-label">Private (no insurance)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">Private (in-network)</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">$40</span></div><div class="sc-row"><span class="sc-label">Community health center</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">$20</span></div><div class="sc-row"><span class="sc-label">Online platform</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">$85</span></div><div class="sc-row"><span class="sc-label">EAP</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-src">Source: National Institute of Mental Health cost data and industry surveys, 2026</div></div>
-
 
 ## Finding Someone Who Knows This Territory
 
@@ -109,7 +101,6 @@ Three real scenarios from referral work I've done:
 If you're working through any of this, a structured workbook can help in between sessions. The [Divorce Recovery Workbook by Mark Rye and Crystal Peacock](https://www.amazon.com/s?k=divorce+recovery+workbook) is one of the more evidence-adjacent options out there, built around CBT principles. (Disclosure: this site may earn a small commission from qualifying Amazon purchases.)
 
 ---
-
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

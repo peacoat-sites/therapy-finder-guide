@@ -31,9 +31,7 @@ So let's fix that.
 
 Therapy homework, formally called "between-session assignments" in the clinical literature, is any structured activity your therapist asks you to do outside of your appointments. That could be journaling, tracking your mood in an app, practicing a breathing exercise, reading a chapter of a workbook, or something as simple as noticing when you feel a particular emotion without reacting to it. The assignments vary wildly depending on your therapist's approach, your diagnosis or presenting concern, and honestly, your personality. A good therapist customizes this stuff. A less experienced one might hand you the same anxiety worksheet they give everyone.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Clients who complete therapy homework show roughly 2x better symptom improvement compared to those who don't, per multiple CBT trials.</li><li style="margin:5px 0">Most homework takes 10-20 minutes per day, it's not a second job.</li><li style="margin:5px 0">Skipping assignments doesn't mean therapy is failing; it's data your therapist needs to hear.</li><li style="margin:5px 0">The type of homework varies by therapy modality: CBT, DBT, ACT, and psychodynamic therapy all assign differently.</li><li style="margin:5px 0">If homework consistently feels wrong, it probably is, say so. A good therapist will adapt.</li></ul></div>
-
 
 ## Why the Research Is More Compelling Than You'd Expect
 
@@ -47,8 +45,6 @@ I'll admit I used to underestimate this myself. Early in my work alongside clini
 
 > **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This varies more than most people expect. Different therapeutic approaches use homework in very different ways, and what sounds daunting in one modality is almost effortless in another.
 
 | Therapy Type | Typical Homework | Time Required | Example Assignment |
@@ -61,10 +57,6 @@ This varies more than most people expect. Different therapeutic approaches use h
 | Exposure Therapy (ERP for OCD) | Graduated exposure tasks | 30-60 min/day | Deliberately trigger the feared situation without performing the compulsion |
 
 That last row is the one I hear the most complaints about. Exposure-based homework is genuinely hard. Clients with OCD doing ERP can spend 45 minutes a day deliberately sitting in discomfort, and asking someone to do that consistently takes a different level of conversation than "here, try this breathing exercise." If your therapist is assigning exposure work and not spending time talking through the rationale, that's worth raising.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated daily homework time by therapy type</div><div class="sc-row"><span class="sc-label">CBT</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">15 minutes</span></div><div class="sc-row"><span class="sc-label">DBT</span><span class="sc-track"><span class="sc-bar" style="width:49%"></span></span><span class="sc-val">22 minutes</span></div><div class="sc-row"><span class="sc-label">ACT</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">12 minutes</span></div><div class="sc-row"><span class="sc-label">Psychodynamic</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">18 minutes</span></div><div class="sc-row"><span class="sc-label">EMDR</span><span class="sc-track"><span class="sc-bar" style="width:18%"></span></span><span class="sc-val">8 minutes</span></div><div class="sc-row"><span class="sc-label">Exposure/ERP</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">45 minutes</span></div><div class="sc-src">Source: Clinical practice estimates, Kazantzis et al. 2010 framework</div></div>
-
 
 ## The Part Nobody Talks About: Not Doing It
 
@@ -103,7 +95,6 @@ SAMHSA's treatment locator at findtreatment.gov can help you find therapists in 
 - [SAMHSA Treatment Locator](https://findtreatment.gov/): U.S. government resource for finding licensed mental health providers by location and modality.
 
 ---
-
 
 *Photo: [Polina Zimmerman](https://www.pexels.com/@polina-zimmerman) via Pexels*
 

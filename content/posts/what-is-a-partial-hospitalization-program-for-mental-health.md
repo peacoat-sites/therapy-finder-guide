@@ -31,9 +31,7 @@ I've seen this moment more times than I can count. Families frozen in confusion 
 
 Here's what I want you to understand before we go any further: a partial hospitalization program isn't a lesser version of inpatient treatment. For many people, it's exactly the right amount of structure. And knowing the [difference between](/difference-between-psychologist-psychiatrist-and-therapist/) PHP and your other options could save you months of struggling through the wrong level of care.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PHP typically runs 5-6 hours per day, 4-5 days per week, for 2-6 weeks on average.</li><li style="margin:5px 0">It's more intensive than outpatient therapy but lets you sleep at home each night.</li><li style="margin:5px 0">PHP costs roughly $300-$800 per day; most major insurers are required to cover it.</li><li style="margin:5px 0">It treats conditions like major depression, bipolar disorder, severe anxiety, and eating disorders.</li><li style="margin:5px 0">You don't need a hospitalization to qualify ,  a referral from a psychiatrist or therapist is usually enough.</li></ul></div>
-
 
 ## What Actually Happens in a PHP
 
@@ -48,8 +46,6 @@ Individual sessions happen too, though usually only two or three times per week 
 ## Who It's Actually Designed For
 
 > **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 PHP exists for people who need more support than weekly outpatient therapy but whose symptoms are stable enough that they don't require 24-hour monitoring. That's the clinical sweet spot it fills.
 
@@ -99,10 +95,6 @@ What most people don't realize is that not all PHP programs are the same in qual
 
 When I help someone find a PHP program, I ask these questions upfront: What's the staff-to-patient ratio during groups? Is there a psychiatrist on-site daily? What specific therapeutic modalities does the program use? What does the discharge and step-down plan look like? A program that can't answer those questions clearly is worth being skeptical about.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical PHP daily hours by program type</div><div class="sc-row"><span class="sc-label">General adult PHP</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">5.5 hrs/day</span></div><div class="sc-row"><span class="sc-label">Adolescent PHP</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">6 hrs/day</span></div><div class="sc-row"><span class="sc-label">DBT-focused PHP</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">6 hrs/day</span></div><div class="sc-row"><span class="sc-label">Eating disorder PHP</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">7 hrs/day</span></div><div class="sc-row"><span class="sc-label">Dual diagnosis PHP</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">5 hrs/day</span></div><div class="sc-src">Source: Taylor Brooks, based on industry program data 2026</div></div>
-
-
 ## What to Expect Your First Week
 
 The first day of PHP is disorienting in a specific way that nobody warns you about. You walk in, fill out paperwork (there's always more paperwork), and then you're suddenly sitting in a group room with eight or ten other people you've never met, talking about what brought you there. It's uncomfortable. Most people feel like outsiders until day three or four.
@@ -128,7 +120,6 @@ Scenario 3: Someone with severe panic disorder who couldn't leave the house cons
 - [Psychology Today Therapist Finder](https://www.psychologytoday.com/us/therapists): Searchable directory of PHP programs and treatment centers by location and specialty
 
 ---
-
 
 *Photo: [Alex Green](https://www.pexels.com/@alex-green) via Pexels*
 

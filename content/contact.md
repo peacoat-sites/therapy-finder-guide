@@ -12,9 +12,9 @@ Have a question, spotted an error, or want to suggest a topic? We read every mes
 
 ## What we can help with
 
-- **Corrections** — spotted something out of date or factually wrong? Please tell us. We take accuracy seriously and will review and update promptly.
-- **Topic suggestions** — if there's something we haven't covered that you'd find useful, we're listening.
-- **General questions** — anything about the site, our research process, or our content.
+- **Corrections**, spotted something out of date or factually wrong? Please tell us. We take accuracy seriously and will review and update promptly.
+- **Topic suggestions**, if there's something we haven't covered that you'd find useful, we're listening.
+- **General questions**, anything about the site, our research process, or our content.
 
 ## What we can't help with
 

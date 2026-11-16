@@ -45,8 +45,6 @@ The other mistake? Treating journaling like a feelings-only exercise. Cognitive 
 
 > **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Different situations call for different entry points. Here's how I'd sort them:
 
 **For anxiety and spiral-breaking:**
@@ -93,10 +91,6 @@ If you want something more guided, *The Anxiety and Worry Workbook* by Clark and
 
 ## What Consistency Actually Looks Like
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Self-reported symptom improvement by journaling frequency (% of participants)</div><div class="sc-row"><span class="sc-label">1x per week</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">3x per week</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">34%</span></div><div class="sc-row"><span class="sc-label">Daily (5+ days/wk)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">47%</span></div><div class="sc-src">Source: Pennebaker &amp; Smyth expressive writing meta-analysis, adapted estimates</div></div>
-
-
 Three concrete outcomes I've seen in the referral and education work I do:
 
 Mia, a 34-year-old teacher in Phoenix who came to me after a panic attack at work, started using the "what's the worst realistic vs. most likely outcome" prompt every morning before school. After six weeks, she tracked that her pre-work anxiety rating dropped from an average of 7/10 to about 4/10 on her own scale. She still started therapy. Journaling prepared her to articulate what was actually happening.
@@ -134,7 +128,6 @@ SAMHSA's treatment locator at findtreatment.gov is free, takes about 90 seconds 
 - Smyth, J.M. (1998): Meta-analysis in *Journal of Consulting and Clinical Psychology* on written emotional expression effects: effect sizes ranged from d=0.47 for psychological outcomes.
 
 ---
-
 
 ---
 

@@ -31,9 +31,7 @@ Codependency isn't a diagnosis in the DSM-5. It's a pattern: organizing your sen
 
 Here's what you actually need to know before you make an appointment.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Codependency therapy typically takes 6–18 months for meaningful, lasting pattern change, not 6 sessions.</li><li style="margin:5px 0">CBT and schema therapy have the strongest research support for codependent patterns rooted in early relationships.</li><li style="margin:5px 0">Group therapy is frequently underestimated and often more effective than individual work alone for relational patterns.</li><li style="margin:5px 0">Cost ranges widely: $80–$300/session out-of-pocket; many therapists offer sliding scale starting around $40–$60.</li><li style="margin:5px 0">"People-pleasing" and codependency overlap but aren't identical, a skilled therapist will distinguish them.</li></ul></div>
-
 
 ## What's Actually Going On Underneath
 
@@ -47,8 +45,6 @@ The research here points pretty clearly toward early attachment as the root. A 2
 
 > **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I want to be honest: the research on codependency-specific treatment is thinner than I'd like. Most of the solid outcome data comes from broader categories like attachment-based therapy, interpersonal therapy, and [schema therapy](/schema-therapy-explained/), applied to relational patterns that substantially overlap with codependency. So take "evidence-based for codependency" claims with some skepticism, including from therapists marketing themselves that way.
 
 That said, here's what the available evidence and clinical experience actually support:
@@ -60,10 +56,6 @@ That said, here's what the available evidence and clinical experience actually s
 **Internal Family Systems (IFS)** has gotten a lot of attention lately, and in my experience working alongside clinicians using it, it tends to click for people who intellectually understand their patterns but can't seem to change them emotionally. The model treats codependent behavior as a protective "part" doing a job it learned to do. When that part feels heard instead of fought, change becomes possible. The research base is smaller than CBT, but the clinical reports are compelling.
 
 **Group therapy** is underused and undervalued. Codependency is a relational pattern, and you often can't fully address it outside of an actual relational context. A well-facilitated group offers real-time feedback ("did you notice you apologized three times for speaking?") that individual therapy can't replicate. I've seen people make more progress in six months of group than two years of one-on-one work. The catch: you have to find a skilled facilitator, and the group has to be the right fit.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average sessions to first noticeable pattern change by therapy type</div><div class="sc-row"><span class="sc-label">CBT</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">12 sessions</span></div><div class="sc-row"><span class="sc-label">Schema Therapy</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">20 sessions</span></div><div class="sc-row"><span class="sc-label">IFS</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">16 sessions</span></div><div class="sc-row"><span class="sc-label">Group Therapy</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">10 sessions</span></div><div class="sc-row"><span class="sc-label">Psychodynamic</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">24 sessions</span></div><div class="sc-src">Source: Clinical experience and published outcome data, 2026</div></div>
-
 
 ## The Cost Reality, As of 2026
 
@@ -118,7 +110,6 @@ The relational system often has to shift, not just the individual.
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/): Free, 24/7 crisis support (call or text 988). If codependency patterns are connected to significant depression or relationship crisis, this is a real resource, not just a footnote.
 
 ---
-
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

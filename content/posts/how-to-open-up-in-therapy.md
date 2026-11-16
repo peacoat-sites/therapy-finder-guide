@@ -47,8 +47,6 @@ The research on self-disclosure in therapy is mixed, which I want to name direct
 
 > **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Most clients I've spoken with carry an unspoken assumption into that first session: that they're supposed to produce something. A coherent explanation. A clear diagnosis. A satisfying narrative about why they're there. Therapists generally aren't expecting any of that.
 
 What they're watching for is much smaller. Are you showing up? Are you willing to sit in the discomfort for fifty minutes? Can we find even one thing that you're willing to say out loud?
@@ -92,10 +90,6 @@ What surprised me when I first went deep on this: CBT actually asks you to talk 
 
 As of July 2026, the average therapy client sees meaningful symptom improvement around session 8 to 16, based on outcome data from the APA's practice guideline research. But "meaningful improvement" and "fully opened up" aren't the same thing. In my experience, clients who describe genuinely feeling comfortable in therapy land somewhere around session 6 to 10, though that varies significantly based on trauma history, prior therapy experience, and the strength of the therapeutic alliance.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">When clients first feel comfortable disclosing</div><div class="sc-row"><span class="sc-label">No prior trauma</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">4 sessions</span></div><div class="sc-row"><span class="sc-label">Mild anxiety/depression</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">6 sessions</span></div><div class="sc-row"><span class="sc-label">Significant life stressor</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">8 sessions</span></div><div class="sc-row"><span class="sc-label">Complex trauma history</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">12 sessions</span></div><div class="sc-row"><span class="sc-label">Prior negative therapy experience</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">10 sessions</span></div><div class="sc-src">Source: APA practice outcome data, clinical survey estimates</div></div>
-
-
 These aren't guarantees. Someone with a history of relational trauma might hit that comfort point at session 15; someone who's been introspective for years might get there in session 2. The range is the point.
 
 If you reach session 10 and still feel completely unable to say anything real, that's worth naming to your therapist directly. It might mean the modality isn't right, the fit isn't there, or there's a specific barrier worth addressing. The 988 Suicide and Crisis Lifeline (988lifeline.org) also has resources for people in more acute distress who need immediate support while getting connected to longer-term care.
@@ -119,7 +113,6 @@ Scenario: A client with severe social anxiety completes a mindfulness-based body
 - American Psychological Association Practice Guidelines: Outcome data on session counts and symptom improvement in outpatient therapy
 
 ---
-
 
 ---
 
