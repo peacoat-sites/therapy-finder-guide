@@ -1,0 +1,113 @@
+{{/* modern-layer v1 (2026-11-17): progressive enhancements shared by all sites. Every rule degrades to the existing design. */}}
+<style>
+@view-transition { navigation: auto; }
+.site-header { view-transition-name: site-header; }
+::view-transition-old(root), ::view-transition-new(root) { animation-duration: .22s; animation-timing-function: cubic-bezier(.2,.7,.2,1); }
+::view-transition-old(root) { animation-name: mdn-fade-out; }
+::view-transition-new(root) { animation-name: mdn-fade-in; }
+@keyframes mdn-fade-out { to { opacity: 0; transform: translateY(-6px); } }
+@keyframes mdn-fade-in { from { opacity: 0; transform: translateY(8px); } }
+
+@supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .site-header { background: color-mix(in srgb, var(--primary) 86%, transparent); -webkit-backdrop-filter: saturate(1.5) blur(12px); backdrop-filter: saturate(1.5) blur(12px); }
+}
+
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+h1, h2, h3, .post-title, .article-card h3 { text-wrap: balance; }
+.post-content p, .post-content li, .faq-answer { text-wrap: pretty; }
+::selection { background: color-mix(in srgb, var(--accent) 28%, transparent); }
+:where(a, button, input, select, textarea, summary, [tabindex]):focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 4px; }
+input, select, textarea, progress { accent-color: var(--accent); }
+
+.post-content a:not([class]) { text-decoration-thickness: 1.5px; text-underline-offset: .2em; text-decoration-color: color-mix(in srgb, currentColor 40%, transparent); transition: text-decoration-color .2s; }
+.post-content a:not([class]):hover { text-decoration-color: currentColor; }
+
+.post-content table { border: 1px solid var(--border); border-radius: var(--radius); border-collapse: separate; border-spacing: 0; font-variant-numeric: tabular-nums; }
+.post-content table td { transition: background-color .15s; }
+.post-content table tbody tr:hover td { background: color-mix(in srgb, var(--accent) 9%, transparent); }
+
+.post-content h2[id], .post-content h3[id] { position: relative; }
+.mdn-anchor { margin-left: .4em; font: 600 .8em/1 var(--sans, system-ui); color: var(--muted); text-decoration: none; opacity: 0; transition: opacity .15s, color .15s; border: 0; background: none; cursor: pointer; padding: .1em .2em; vertical-align: middle; }
+.post-content h2:hover .mdn-anchor, .post-content h3:hover .mdn-anchor, .mdn-anchor:focus-visible { opacity: 1; }
+.mdn-anchor:hover { color: var(--accent); }
+@media (hover: none) { .mdn-anchor { display: none; } }
+.mdn-toast { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom, 0px)); transform: translate(-50%, 12px); background: var(--text); color: var(--surface, #fff); font: 500 14px/1.2 var(--sans, system-ui); padding: 10px 16px; border-radius: 999px; box-shadow: 0 8px 24px rgba(0,0,0,.18); opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 1000; }
+.mdn-toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+details.faq-item { overflow: hidden; }
+details.faq-item > summary.faq-question { list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between; gap: 16px; margin: 0; }
+details.faq-item > summary.faq-question::-webkit-details-marker { display: none; }
+details.faq-item > summary.faq-question::after { content: ""; flex: none; width: .55em; height: .55em; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: translateY(-25%) rotate(45deg); transition: transform .25s; opacity: .6; }
+details.faq-item[open] > summary.faq-question::after { transform: translateY(15%) rotate(-135deg); }
+details.faq-item[open] { border-color: color-mix(in srgb, var(--accent) 45%, var(--border)); }
+@supports (interpolate-size: allow-keywords) {
+  :root { interpolate-size: allow-keywords; }
+  details.faq-item::details-content { height: 0; overflow: clip; transition: height .3s ease, content-visibility .3s allow-discrete; }
+  details.faq-item[open]::details-content { height: auto; }
+}
+
+.post-featured-image img, .post-content img { border-radius: var(--radius); }
+.post-content img { cursor: zoom-in; }
+dialog.mdn-lightbox { padding: 0; border: 0; background: transparent; max-width: min(96vw, 1400px); max-height: 92vh; }
+dialog.mdn-lightbox::backdrop { background: rgba(10,14,20,.82); -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); }
+dialog.mdn-lightbox img { display: block; max-width: 100%; max-height: 92vh; border-radius: 10px; cursor: zoom-out; }
+
+.site-footer { content-visibility: auto; contain-intrinsic-size: auto 480px; }
+
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+    .article-card, .post-content table, .kt, .faq-section, .post-featured-image, .post-content figure {
+      animation: mdn-rise linear both; animation-timeline: view(); animation-range: entry 0% entry 35%;
+    }
+    @keyframes mdn-rise { from { opacity: .25; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+  }
+}
+@media (prefers-reduced-motion: no-preference) { html:focus-within { scroll-behavior: smooth; } }
+@media (prefers-reduced-motion: reduce) {
+  @view-transition { navigation: none; }
+  details.faq-item::details-content { transition: none; }
+}
+</style>
+<script type="speculationrules">
+{"prefetch":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/search/*"}},{"not":{"selector_matches":"[rel~=nofollow],[target=_blank]"}}]},"eagerness":"moderate"}]}
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var content = document.querySelector('.post-content');
+  if (content) {
+    var toast;
+    function say(msg) {
+      if (!toast) { toast = document.createElement('div'); toast.className = 'mdn-toast'; toast.setAttribute('role', 'status'); document.body.appendChild(toast); }
+      toast.textContent = msg; toast.classList.add('show');
+      clearTimeout(say.t); say.t = setTimeout(function () { toast.classList.remove('show'); }, 1600);
+    }
+    content.querySelectorAll('h2[id], h3[id]').forEach(function (h) {
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'mdn-anchor'; b.textContent = '#';
+      b.setAttribute('aria-label', 'Copy link to this section');
+      b.addEventListener('click', function () {
+        var url = location.origin + location.pathname + '#' + h.id;
+        history.replaceState(null, '', '#' + h.id);
+        if (navigator.clipboard) { navigator.clipboard.writeText(url).then(function () { say('Link copied'); }, function () { say('Link added to address bar'); }); }
+        else { say('Link added to address bar'); }
+      });
+      h.appendChild(b);
+    });
+    if (typeof HTMLDialogElement === 'function') {
+      var dlg;
+      content.addEventListener('click', function (e) {
+        var img = e.target.closest('img');
+        if (!img || img.closest('a') || img.naturalWidth < 400) return;
+        if (!dlg) {
+          dlg = document.createElement('dialog'); dlg.className = 'mdn-lightbox';
+          dlg.innerHTML = '<img alt="">';
+          dlg.addEventListener('click', function () { dlg.close(); });
+          document.body.appendChild(dlg);
+        }
+        var big = dlg.querySelector('img'); big.src = img.currentSrc || img.src; big.alt = img.alt || '';
+        dlg.showModal();
+      });
+    }
+  }
+});
+</script>

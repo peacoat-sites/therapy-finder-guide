@@ -121,11 +121,11 @@
     {{- if .Params.faqs }}
     <div class="faq-section">
       <h2 class="faq-heading">Frequently Asked Questions</h2>
-      {{- range .Params.faqs }}
-      <div class="faq-item">
-        <h3 class="faq-question">{{ .q }}</h3>
-        <p class="faq-answer">{{ .a }}</p>
-      </div>
+      {{- range $i, $f := .Params.faqs }}
+        <details class="faq-item" name="faq"{{ if eq $i 0 }} open{{ end }}>
+          <summary class="faq-question">{{ $f.q }}</summary>
+          <p class="faq-answer">{{ $f.a }}</p>
+        </details>
       {{- end }}
     </div>
     {{- end }}
