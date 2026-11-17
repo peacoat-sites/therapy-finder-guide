@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You call your insurance company to ask about therapy coverage. The hold music plays for eleven minutes. When someone finally picks up, they tell you your plan covers "medically necessary" mental health services, but your therapist's claims keep getting denied. Meanwhile, your neighbor had knee surgery last month and sailed through the approval process without a single hiccup. That gap, that specific frustration, is exactly what mental health parity law was designed to close. And understanding it might be the most practical thing you do for your mental health care this year.
 

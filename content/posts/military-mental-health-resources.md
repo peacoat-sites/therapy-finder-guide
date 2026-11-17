@@ -1,6 +1,7 @@
 ---
 title: "Military Mental Health Resources: Where to Find Support"
 date: 2026-08-13T20:30:47.972896+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore mental health resources available to active duty and veteran military personnel, including counseling, crisis support, and treatment options."
 image: "/img/heroes/7468058.jpg"

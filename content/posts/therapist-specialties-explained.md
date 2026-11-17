@@ -1,6 +1,7 @@
 ---
 title: "Therapist Specialties Explained: Find Your Right Match"
 date: 2026-07-20T15:31:07.862982+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover different therapist specialties and approaches to mental health treatment. Learn which therapeutic focus suits your needs best."
 image: "/img/heroes/5699448.jpg"

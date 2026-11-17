@@ -23,7 +23,7 @@ faqs:
    a: "Most CBT-based treatments are structured around 12-20 sessions, and people often notice some shift in thinking patterns within a few weeks of consistent practice. But 'a difference' is highly individual. Some people feel a meaningful change within a month; for others it takes longer. Consistency matters more than speed."
  - q: "What's the difference between a CBT worksheet and a regular journal?"
    a: "A journal is open-ended. A CBT worksheet has a specific structure designed to prompt a particular cognitive process, like examining evidence for a belief or identifying a thinking error. The structure is the point. It keeps you from circling the thought indefinitely and asks you to actively test it instead."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who pick up a CBT worksheet for the first time stare at it for a solid thirty seconds, feel vaguely judged by a piece of paper, and set it down.
 

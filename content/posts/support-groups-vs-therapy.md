@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You finally worked up the nerve to tell your doctor you've been struggling. She nods, scribbles something on her notepad, and says, "You might want to try a support group or therapy." You leave the office no clearer than when you walked in. Are those the same thing? Is one better than the other? Can you even afford therapy right now?
 

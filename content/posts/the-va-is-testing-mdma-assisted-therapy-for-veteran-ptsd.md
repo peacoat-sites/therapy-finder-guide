@@ -12,7 +12,7 @@ author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
 slug: "the-va-is-testing-mdma-assisted-therapy-for-veteran-ptsd"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You probably know at least one veteran who's cycled through antidepressants, talk therapy, maybe an inpatient stay, and still describes their PTSD as something they've learned to "manage" rather than anything close to resolved. That gap between surviving and healing is what makes the VA's announcement this spring feel different from the usual press releases.
 

@@ -1,6 +1,7 @@
 ---
 title: "EMDR Phases Explained: 8 Steps to Trauma Recovery"
 date: 2026-08-08T14:08:25.244175+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the 8 phases of EMDR therapy, from history-taking to closure. Understand how each step helps process traumatic memories."
 image: "/img/heroes/4100433.jpg"

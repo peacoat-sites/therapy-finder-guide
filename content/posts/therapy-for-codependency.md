@@ -1,6 +1,7 @@
 ---
 title: "Codependency Therapy: Breaking Free From Unhealthy Relationships"
 date: 2026-07-21T15:26:02.305860+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how therapy helps codependent people recognize unhealthy patterns, set boundaries, and develop healthier relationships with practical evidence-based appro"
 image: "/img/heroes/6255633.jpg"

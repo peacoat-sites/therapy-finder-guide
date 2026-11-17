@@ -1,6 +1,7 @@
 ---
 title: "Becoming a Licensed Professional Counselor: Requirements and Career Path"
 date: 2026-08-02T14:48:57.308752+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what it takes to become an LPC, including education requirements, licensing steps, and career opportunities in mental health counseling."
 image: "/img/heroes/5336963.jpg"

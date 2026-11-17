@@ -1,6 +1,7 @@
 ---
 title: "Best Therapy Types for Anxiety: 5 Proven Options"
 date: 2026-07-09T16:14:15.232251+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover which therapy works best for anxiety, from CBT to exposure therapy. Learn what each approach involves and how to choose the right one for you."
 image: "/img/heroes/6255877.jpg"

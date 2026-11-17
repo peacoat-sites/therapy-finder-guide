@@ -1,6 +1,7 @@
 ---
 title: "Counseling for Divorce and Separation: Finding Support Through Transition"
 date: 2026-07-13T16:08:56.633039+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore how counseling helps during divorce and separation. Learn what to expect, types of therapy, and how professional support eases emotional transitions."
 image: "/img/heroes/3958379.jpg"

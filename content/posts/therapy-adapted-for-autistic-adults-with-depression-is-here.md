@@ -1,6 +1,7 @@
 ---
 title: "Therapy Adapted for Autistic Adults With Depression Is Here"
 date: 2026-07-14T15:10:21.547289+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover evidence-based therapy approaches specifically designed for autistic adults experiencing depression. Learn how adapted treatments address unique needs "
 image: "/img/heroes/7176305.jpg"

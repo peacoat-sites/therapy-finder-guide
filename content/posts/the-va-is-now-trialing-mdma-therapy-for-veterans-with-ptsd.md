@@ -12,7 +12,7 @@ author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
 slug: "the-va-is-now-trialing-mdma-therapy-for-veterans-with-ptsd"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've been following veterans' mental health news, or you're a vet who's struggled with conventional PTSD treatments, something real happened last month. On May 28, 2026, the Department of Veterans Affairs opened enrollment for its first-ever MDMA-assisted therapy trial. Not a proposal. Not a conversation. Actual veterans are being recruited right now at VA Providence Healthcare System and VA Connecticut Healthcare System in West Haven, CT, with enrollment that started May 18. This is a shift worth understanding clearly, both what it is and what it isn't.
 

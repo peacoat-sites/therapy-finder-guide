@@ -23,7 +23,7 @@ faqs:
    a: "No well-run group will pressure you to share anything. Facilitators in reputable programs are specifically trained to make participation voluntary and to protect members from feeling cornered. You can attend several sessions before saying a word, and that's considered completely normal."
  - q: "How do I know if a group is legitimate and safe?"
    a: "Look for groups run by established organizations (NAMI, DBSA, SMART Recovery, MHA) rather than groups formed through random Facebook communities or Reddit threads. Established organizations train their facilitators, have conduct policies, and have reporting mechanisms if something goes wrong. That infrastructure matters more than people realize until something goes sideways."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Maybe you've been sitting with something heavy for a few weeks, or maybe it's been years. You know you probably need to talk to someone, but the idea of finding a therapist, scheduling an appointment, and paying $150 to $250 a session feels like a whole other problem on top of the one you already have. So you've been Googling, half-hoping something free exists, half-suspecting it doesn't really.
 

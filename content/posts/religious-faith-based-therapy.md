@@ -1,6 +1,7 @@
 ---
 title: "75% of Patients Report Faith-Based Therapy Benefits"
 date: 2026-07-13T16:06:24.060837+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore how religious faith-based therapy approaches help patients. Evidence-based insights on spiritual healing methods and mental health outcomes."
 image: "/img/heroes/9064384.jpg"

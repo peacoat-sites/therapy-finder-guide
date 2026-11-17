@@ -23,7 +23,7 @@ faqs:
     a: "This is a real issue, not a hypothetical. Therapist countertransference is documented. If sessions feel consistently comfortable, like your therapist always agrees with your framing, that's worth raising directly, or seeking a consultation with a different provider. Good therapy for people pleasing should include some productive discomfort."
   - q: "Will therapy make me selfish or uncaring?"
     a: "This is the fear most people don't say out loud but clearly have. Clinically, no. People pleasers often become more genuinely kind after treatment because their helpfulness shifts from anxiety-driven to chosen. The research on assertiveness training consistently shows that appropriate boundary-setting improves relationship quality rather than damaging it. You stop being endlessly agreeable; you don't stop caring."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most writing about people pleasing treats it like a quirky personality trait you can fix with a few assertiveness tips. "Just say no more often!" That advice is about as useful as telling someone with a broken leg to walk it off.

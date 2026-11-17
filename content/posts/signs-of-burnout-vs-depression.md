@@ -1,6 +1,7 @@
 ---
 title: "Burnout vs Depression: How to Tell Them Apart"
 date: 2026-07-18T14:36:17.845715+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the key differences between burnout and depression, including distinct symptoms, causes, and when to seek professional help for each condition."
 image: "/img/heroes/7034474.jpg"

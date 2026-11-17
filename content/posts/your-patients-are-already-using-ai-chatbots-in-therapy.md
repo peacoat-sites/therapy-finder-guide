@@ -12,7 +12,7 @@ author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 slug: "your-patients-are-already-using-ai-chatbots-in-therapy"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: your therapist asks how your week went, and you talk about the journaling you did, the breathing exercises, maybe a tough conversation at work. What you don't mention is the two hours you spent on Sunday night talking to an AI chatbot about your anxiety spiral. It felt helpful in the moment. You're not sure your therapist would get it. So you just... don't bring it up.
 

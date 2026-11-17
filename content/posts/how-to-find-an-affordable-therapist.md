@@ -1,6 +1,7 @@
 ---
 title: "Find Affordable Therapy: 8 Ways to Cut Session Costs"
 date: 2026-07-08T15:53:52.456359+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Struggling to afford a therapist? Discover 8 proven ways to find low-cost mental health care, from sliding scale fees to community clinics."
 image: "/img/heroes/5699495.jpg"

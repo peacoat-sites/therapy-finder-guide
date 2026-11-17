@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've been waking up at 3 a.m. for six months. Same thoughts looping. Worst-case scenarios on repeat. You've tried journaling, meditation apps, cutting caffeine. Nothing works. Your doctor mentions CBT and you nod, but honestly? You have no idea what it actually involves or if it'd even help someone like you.
 

@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've been meaning to call a therapist for months. Finally, you do. The first three aren't taking new patients. The fourth is 45 minutes away with only Tuesday morning appointments. You work Tuesday mornings. Browser closes. You'll try again later. For most people, later never happens. Telehealth therapy exists because of exactly this gap, between deciding you need help and actually getting it.
 

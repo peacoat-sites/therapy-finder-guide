@@ -1,6 +1,7 @@
 ---
 title: "Why Men Avoid Therapy and How to Change That"
 date: 2026-08-05T15:41:20.605717+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Men face unique barriers to mental health treatment. Explore the stigma, misconceptions, and practical steps to build a healthier approach to therapy."
 image: "/img/heroes/7447247.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Psychiatrist Medication Management: Finding the Right Balance"
 date: 2026-07-22T15:21:47.207250+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how psychiatrists manage medications to treat mental health conditions, including monitoring, adjustments, and working with your care team."
 image: "/img/heroes/6627834.jpg"

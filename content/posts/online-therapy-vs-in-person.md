@@ -23,7 +23,7 @@ author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
 author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Deciding to try therapy is hard. Then comes the logistical question: do you find someone local? Use one of those apps? What's actually the difference? Many people stall right here, not because they don't want help, but because the logistics feel like a second obstacle course after the emotional hurdle of deciding to seek help. So let's cut through it.
 

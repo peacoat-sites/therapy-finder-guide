@@ -1,6 +1,7 @@
 ---
 title: "15 Questions to Ask Your Therapist Before the First Session"
 date: 2026-07-16T15:18:54.328262+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Prepare for your first therapy appointment with these essential questions. Learn what to ask about approach, cost, confidentiality, and more."
 image: "/img/heroes/36729378.jpg"

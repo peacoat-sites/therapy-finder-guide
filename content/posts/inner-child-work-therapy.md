@@ -1,6 +1,7 @@
 ---
 title: "Inner Child Work Therapy: Healing Childhood Wounds"
 date: 2026-07-24T15:17:02.234543+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how inner child work therapy helps adults process childhood trauma and emotional pain. Discover techniques and benefits for emotional healing."
 image: "/img/heroes/8307158.jpg"

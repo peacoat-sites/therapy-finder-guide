@@ -1,6 +1,7 @@
 ---
 title: "45 Ways to Prepare for Your First Counseling Appointment"
 date: 2026-07-24T15:14:54.254644+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Essential steps to prepare for your first therapy session. Learn what to expect, what to bring, and how to get the most from counseling."
 image: "/img/heroes/295480.jpg"

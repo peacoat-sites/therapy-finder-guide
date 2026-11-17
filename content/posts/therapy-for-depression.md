@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 It's 2 p.m. on a Tuesday and you haven't left your bedroom in three days. The dishes are piling up. Your phone has seventeen unread texts. The thought of doing literally anything feels like trying to lift a car with your bare hands. You're not lazy. You're not broken. You might be living with depression, and here's the hard truth: therapy can help, but only if you can get yourself through the door, figuratively or literally. That's what this article is about. Not the glossy version where someone nods thoughtfully while you talk about childhood, but the actual, practical side of finding help when depression has already stolen most of your energy.
 

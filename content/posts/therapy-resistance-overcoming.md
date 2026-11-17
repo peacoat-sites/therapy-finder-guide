@@ -23,7 +23,7 @@ faqs:
    a: "In the U.S., look for licensed credentials: LCSW, LMFT, LPC, PhD, or PsyD. You can verify licensure through your state's licensing board website. Certifications in specific modalities (like EMDR or CBT) are a plus but aren't a substitute for a valid license."
  - q: "What if I can't afford therapy right now?"
    a: "Sliding-scale fees are more widely available than people realize. Many therapists offer them but don't advertise them prominently. Community mental health centers, university training clinics, and open-enrollment platforms like Open Path Collective offer significantly reduced rates. It's worth asking directly rather than assuming cost rules it out."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Something I've noticed over twenty years in this field: the people who say "therapy isn't for me" are almost always the ones who need it most. Not in a patronizing way. I mean that the survival skills that help someone endure genuinely hard circumstances, minimizing, pushing through, not wanting to burden others, are the exact same skills that make sitting down with a stranger to talk about your inner life feel completely absurd.
 

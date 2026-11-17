@@ -1,6 +1,7 @@
 ---
 title: "$40 vs $175: How Sliding Scale Therapy Pricing Works"
 date: 2026-07-11T14:39:08.357223+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Sliding scale therapy lets you pay based on income, not a fixed rate. Learn how to qualify, what to expect, and how fees like $20 to $80 are set."
 image: "/img/heroes/5336957.jpg"

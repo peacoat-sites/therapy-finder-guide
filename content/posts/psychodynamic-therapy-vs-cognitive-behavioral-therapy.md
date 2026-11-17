@@ -12,7 +12,7 @@ author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
 slug: "psychodynamic-therapy-vs-cognitive-behavioral-therapy"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 I'll be honest: most people pick therapy based on vibes or whatever they found on Google, then get surprised when it doesn't feel like what they expected. The real difference between psychodynamic and CBT isn't about one being "better", it's about how they actually work, what you're signing up for, and whether that matches what you actually need right now.

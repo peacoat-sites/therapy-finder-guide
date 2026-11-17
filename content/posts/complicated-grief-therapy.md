@@ -1,6 +1,7 @@
 ---
 title: "70% of Complicated Grief Patients Find Relief With Therapy"
 date: 2026-08-15T13:54:21.748249+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how specialized complicated grief therapy helps people process intense loss. Discover evidence-based treatment approaches and recovery timelines."
 image: "/img/heroes/36729378.jpg"

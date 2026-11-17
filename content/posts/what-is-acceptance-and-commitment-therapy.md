@@ -1,6 +1,7 @@
 ---
 title: "Acceptance and Commitment Therapy: How ACT Works"
 date: 2026-07-20T15:34:11.544330+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how acceptance and commitment therapy helps you build psychological flexibility and live by your values despite difficult thoughts and emotions."
 image: "/img/heroes/2035102.jpg"

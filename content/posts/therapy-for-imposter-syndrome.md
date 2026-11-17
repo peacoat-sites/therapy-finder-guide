@@ -23,7 +23,7 @@ faqs:
    a: "It frequently co-occurs with both, and sometimes it's more of a symptom pattern within a broader anxiety or depressive picture than a standalone thing. A thorough assessment at the start of therapy should sort this out. Treating the imposter pattern in isolation when there's also a clinical anxiety disorder underneath it is going to produce limited results."
  - q: "Can imposter syndrome come back after therapy?"
    a: "Honestly, yes. High-stakes transitions, new roles, public recognition, criticism from respected peers, these can all trigger a recurrence. The goal of therapy isn't to eliminate the thought permanently. It's to change your relationship with it enough that when it does come back, it doesn't derail you."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people who land on an article about imposter syndrome therapy are already skeptical that it'll help. They're thinking: "My problem isn't that I *feel* like a fraud. My problem is that I actually *am* less qualified than everyone around me thinks." That's exactly the thought pattern that makes imposter syndrome so hard to treat. And I'll be honest, it took me longer than I should admit to understand why that distinction matters so much clinically.

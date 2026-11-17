@@ -1,6 +1,7 @@
 ---
 title: "41% of Anxious Adults Skip Help: How to Find a Therapist"
 date: 2026-07-10T15:58:08.233503+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Anxiety affects millions, but finding the right therapist feels overwhelming. Learn exactly how to find a therapist for anxiety and start feeling better."
 image: "/img/heroes/5699424.jpg"

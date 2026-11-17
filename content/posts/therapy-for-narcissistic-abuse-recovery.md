@@ -1,6 +1,7 @@
 ---
 title: "Healing From Narcissistic Abuse: Therapy Approaches That Work"
 date: 2026-07-16T15:21:02.633699+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover evidence-based therapy methods for narcissistic abuse recovery, including trauma-focused techniques and strategies to rebuild after emotional harm."
 image: "/img/heroes/23496574.jpg"

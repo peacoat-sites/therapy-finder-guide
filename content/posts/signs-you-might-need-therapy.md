@@ -1,6 +1,7 @@
 ---
 title: "7 Signs You Actually Need to See a Therapist"
 date: 2026-07-10T16:00:13.968140+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Wondering if therapy is right for you? These 7 telling signs suggest it might be time to talk to a mental health professional."
 image: "/img/heroes/23496577.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Does Medicaid Cover Mental Health Therapy in 2024"
 date: 2026-07-17T15:01:21.961584+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn if Medicaid covers mental health therapy, what services are included, state variations, and how to access benefits."
 image: "/img/heroes/5699476.jpg"

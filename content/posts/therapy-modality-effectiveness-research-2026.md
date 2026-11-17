@@ -1,7 +1,7 @@
 ---
 title: "Which Therapy Actually Works? Modality Effectiveness Compared"
 date: 2026-07-08T09:00:00+00:00
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare CBT, DBT, EMDR, psychodynamic, and ACT therapy by effectiveness, cost, duration, and what each treats best. Evidence-based guide for clinicians."
 image: "/img/heroes/b310aaec5672.jpg"

@@ -12,7 +12,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who come to me with depression and anxiety don't even realize they have both. They describe feeling exhausted and unmotivated, then mention in the same breath that they can't stop worrying, that they lie awake running disaster scenarios, that dread follows them from room to room. They think it's all one thing. Often, it is, in the sense that the two conditions are so frequently tangled together that treating one without acknowledging the other tends to backfire.
 

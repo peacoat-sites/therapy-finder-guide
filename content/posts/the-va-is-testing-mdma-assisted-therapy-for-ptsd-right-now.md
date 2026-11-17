@@ -14,7 +14,7 @@ author_title: "Therapy Navigator"
 author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
 slug: "the-va-is-testing-mdma-assisted-therapy-for-ptsd-right-now"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Picture a veteran you know. Maybe it's someone in your family, or a neighbor who came back from deployment quieter than they left. They've probably tried the standard routes: SSRIs, talk therapy, maybe a residential program. And maybe it helped a little, or maybe it didn't touch what they were actually carrying. That's not a failure of the veteran, and it's not a failure of their therapist. It's a reflection of how stubbornly difficult [treatment-resistant PTSD](/deep-tms-for-ptsd-and-depression-what-the-new-data-show/) can be. What's happening right now at the VA, though, is genuinely different from anything we've seen before.
 

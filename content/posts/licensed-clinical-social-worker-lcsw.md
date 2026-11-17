@@ -1,6 +1,7 @@
 ---
 title: "700,000 LCSWs: What Licensed Clinical Social Workers Do"
 date: 2026-07-29T15:32:13.426107+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what LCSWs are, their education requirements, licensure process, and career outlook. Discover if becoming a licensed clinical social worker is right for y"
 image: "/img/heroes/7176185.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "67% of Patients Report Better Sleep With Music Therapy"
 date: 2026-08-13T14:39:25.898131+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how music therapy improves sleep quality, reduces anxiety, and enhances mental health. Learn the science-backed benefits and costs."
 image: "https://images.pexels.com/photos/374888/pexels-photo-374888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

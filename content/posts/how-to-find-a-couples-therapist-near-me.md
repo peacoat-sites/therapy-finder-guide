@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most couples wait six years after serious problems start before they seek therapy. Six years. That comes straight from Dr. John Gottman's research, which is about as rigorous as relationship science gets. By the time people finally sit across from a therapist together, resentment has hardened, communication patterns have become almost ritualistic, and at least one person is already checked out emotionally. I'm telling you this not to scare you, but because if you're reading this right now, you're already ahead of the curve. The fact that you're searching for a couples therapist at all matters.
 

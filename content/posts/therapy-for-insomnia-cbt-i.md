@@ -1,6 +1,7 @@
 ---
 title: "80% of Insomnia Patients Improve With CBT-I Therapy"
 date: 2026-08-04T15:58:21.900342+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how cognitive behavioral therapy for insomnia (CBT-I) helps 80% of patients sleep better. Learn costs, effectiveness, and what to expect."
 image: "/img/heroes/7640997.jpg"

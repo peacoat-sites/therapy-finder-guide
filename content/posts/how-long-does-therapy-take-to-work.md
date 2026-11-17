@@ -1,6 +1,7 @@
 ---
 title: "50% of Patients See Results: How Long Therapy Actually Takes"
 date: 2026-08-10T14:38:58.525496+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover realistic timelines for therapy to work. Learn what research shows about treatment duration and when you can expect meaningful progress."
 image: "/img/heroes/6255882.jpg"

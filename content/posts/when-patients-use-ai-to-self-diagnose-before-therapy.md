@@ -1,6 +1,7 @@
 ---
 title: "When Patients Use AI to Self-Diagnose Before Therapy"
 date: 2026-07-19T14:40:16.859136+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore how patients use AI tools for self-diagnosis before seeking therapy, the benefits, risks, and impact on mental health treatment outcomes."
 image: "/img/heroes/30608379.jpg"

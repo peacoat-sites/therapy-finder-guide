@@ -1,6 +1,7 @@
 ---
 title: "Exposure Therapy Explained: How It Works and Why It Helps"
 date: 2026-07-25T14:49:04.223290+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how exposure therapy treats anxiety and phobias by gradually facing fears in a safe, controlled environment with professional guidance."
 image: "/img/heroes/7176322.jpg"

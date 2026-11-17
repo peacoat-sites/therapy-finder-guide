@@ -1,6 +1,7 @@
 ---
 title: "70% Success Rate: What Makes Evidence-Based PTSD Therapy Work"
 date: 2026-07-19T14:42:31.334087+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why 70% of PTSD patients respond to evidence-based therapy. Learn which approaches are most effective and what to expect from treatment."
 image: "/img/heroes/6255633.jpg"

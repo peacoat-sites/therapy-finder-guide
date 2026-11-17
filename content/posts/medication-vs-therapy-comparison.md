@@ -1,6 +1,7 @@
 ---
 title: "Medication vs Therapy: Which Works Better for Your Mental Health"
 date: 2026-08-11T14:38:18.029070+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare medication and therapy approaches for mental health treatment. Explore effectiveness, costs, and how to choose the right option for you."
 image: "/img/heroes/7176321.jpg"

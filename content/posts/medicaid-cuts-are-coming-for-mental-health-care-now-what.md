@@ -12,7 +12,7 @@ author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
 slug: "medicaid-cuts-are-coming-for-mental-health-care-now-what"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you get mental health care through Medicaid, or you know someone who does, the next few years are going to be harder than most people realize. The situation is more concrete, fast-moving, and unevenly distributed across states than many people expect.
 

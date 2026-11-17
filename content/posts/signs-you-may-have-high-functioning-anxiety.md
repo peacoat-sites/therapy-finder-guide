@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You probably don't think of yourself as an anxious person. You show up on time. You get things done. You're the one people call when they need something handled. The idea that you might have an anxiety disorder feels almost insulting, like a misdiagnosis meant for someone else.
 

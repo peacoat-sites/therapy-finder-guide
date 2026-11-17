@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your heart's pounding in the waiting room. Anxiety about the anxiety itself, spiraling, and nothing you tell yourself breaks the loop. Mindfulness-based therapy was built for exactly this. Not to make it disappear, but to change what it means to you. Sounds simple. It's not.
 

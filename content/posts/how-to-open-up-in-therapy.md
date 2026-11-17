@@ -1,6 +1,7 @@
 ---
 title: "60% of Therapy Patients Struggle to Open Up—Here's Why"
 date: 2026-07-14T15:12:56.456813+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why most therapy patients find it hard to be vulnerable and discover practical strategies to share more authentically with your therapist."
 image: "/img/heroes/3958431.jpg"

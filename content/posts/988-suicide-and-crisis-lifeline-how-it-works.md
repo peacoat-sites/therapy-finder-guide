@@ -23,7 +23,7 @@ faqs:
    a: "Texting 988 works the same way as calling in terms of the network you're reaching. Response times may be slightly longer via text, but many people strongly prefer it. Chat at 988lifeline.org is another fully text-based option."
  - q: "Does using 988 affect my insurance or medical records?"
    a: "Calling or texting 988 does not automatically create a medical record or affect your insurance. If emergency services are dispatched and you receive in-person care, that becomes a separate clinical encounter with its own documentation, but the 988 contact itself is not reported to insurers."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 You're probably reading this because something is wrong right now, or because someone you love is struggling and you're trying to figure out what to do. Maybe you've seen the number 988 somewhere and you're not sure if it applies to you. Maybe you're not even sure your situation is "bad enough" to call.

@@ -1,6 +1,7 @@
 ---
 title: "Partial Hospitalization Programs: Mental Health Care Without Overnight Stay"
 date: 2026-07-28T15:52:39.013676+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how partial hospitalization programs provide intensive mental health treatment during the day while allowing patients to return home at night."
 image: "/img/heroes/5699454.jpg"

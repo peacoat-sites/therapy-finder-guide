@@ -23,7 +23,7 @@ faqs:
     a: "Ask directly about their training path. Legitimate EFT training through ICEEFT involves a core skills training, an externship (usually a four-day intensive), and ongoing supervision. Completing one workshop does not make someone an EFT therapist. Certified therapists can be searched through the ICEEFT directory at iceeft.com."
   - q: "Is EFT appropriate if my partner refuses to come to sessions?"
     a: "The couples model requires both partners, so if your partner won't participate, EFT as designed for couples isn't an option. That said, EFIT, the individual version, can still address your own attachment patterns and how you show up in relationships. Working on your side of the dynamic can sometimes shift things even without your partner in the room, though I'd be cautious about overstating how much."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people think Emotionally Focused Therapy is just "talking about your feelings." I used to assume the same thing, honestly, until I spent time watching it actually work in practice and dug into the research behind it. What I found was a lot more precise and a lot more interesting than that description suggests.

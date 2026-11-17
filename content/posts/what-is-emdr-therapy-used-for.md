@@ -23,7 +23,7 @@ author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Advocate"
 author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've probably heard EMDR mentioned in the same breath as trauma therapy, maybe in a podcast, a therapist's office waiting room, or a Reddit thread about PTSD. What most coverage does next is where it goes wrong: it describes the eye movements, calls it "unconventional," and moves on. That leaves the actual question unanswered. What does EMDR *do*, who is it actually for, and is it worth pursuing? Those are the questions worth answering.
 

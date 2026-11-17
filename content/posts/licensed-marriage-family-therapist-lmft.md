@@ -1,6 +1,7 @@
 ---
 title: "What LMFTs Do: Skills You Need to Know"
 date: 2026-08-16T13:55:11.207112+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what licensed marriage and family therapists do, their qualifications, and how they help couples and families resolve conflicts and strengthen relationshi"
 image: "/img/heroes/7176286.jpg"

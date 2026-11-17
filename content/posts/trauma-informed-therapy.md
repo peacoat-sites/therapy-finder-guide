@@ -1,6 +1,7 @@
 ---
 title: "Trauma-Informed Therapy: How It Helps Healing Begin"
 date: 2026-07-27T16:00:35.590487+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how trauma-informed therapy creates safety and trust for healing. Discover key principles and what to expect in treatment."
 image: "/img/heroes/5217836.jpg"

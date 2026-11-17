@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You call your insurance company on a Tuesday morning, ready to finally book that first therapy appointment. Forty-five minutes later, you hang up more confused than when you started. Deductibles, out-of-pocket maximums, "in-network" versus "out-of-network," prior authorization, mental health parity. The words blur together. And somewhere in that blur, the idea of actually *going* to therapy quietly gets shelved. This confusion is one of the most frustrating obstacles between someone and the help they need. The good news is that most insurance plans do cover therapy to some meaningful degree, but understanding exactly what you're entitled to takes a little unpacking.
 

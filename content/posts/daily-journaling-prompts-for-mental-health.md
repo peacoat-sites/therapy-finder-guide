@@ -1,6 +1,7 @@
 ---
 title: "Daily Journaling Prompts for Mental Health: 30 Questions That Work"
 date: 2026-07-15T15:09:39.864013+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover effective journaling prompts designed to reduce stress, boost mood, and improve mental wellness. Start your daily practice today."
 image: "/img/heroes/6940362.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Chronic Pain Therapy: 40% Find Relief Without Surgery"
 date: 2026-07-21T15:24:04.182212+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore evidence-based chronic pain therapy options. Learn how many patients achieve significant relief and what treatment approaches work best."
 image: "/img/heroes/8313219.jpg"

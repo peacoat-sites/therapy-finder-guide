@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've finally decided to try therapy. You search online, find a list of credentials that reads like a foreign language (CBT, DBT, EMDR, psychodynamic, somatic, ACT, IFS), and close the tab. A few days later you try again, get overwhelmed, and quietly talk yourself out of the whole thing. This happens to more people than anyone admits, and it breaks my heart because that moment of confusion is usually the only thing standing between someone and real help.
 

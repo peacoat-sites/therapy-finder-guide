@@ -1,6 +1,7 @@
 ---
 title: "Constant Anxiety: When Worry Becomes the Norm and What It Means"
 date: 2026-07-30T15:34:03.748221+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore whether persistent anxiety is normal, what causes it, and when to seek help for managing constant worry and stress."
 image: "/img/heroes/7279110.jpg"

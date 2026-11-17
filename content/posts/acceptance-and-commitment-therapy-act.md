@@ -23,7 +23,7 @@ author: "Alex Morgan"
 author_slug: "alex-morgan"
 author_title: "Mental Health Educator"
 author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've tried the self-help thing. Journaled. Done the mirror affirmations. White-knuckled your way through anxious days telling yourself to think positive. And the worry's still there. The grief's still there. The self-doubt hasn't budged. What if the problem isn't that you haven't tried hard enough, but that the entire strategy is backwards? What if telling yourself you need to eliminate painful thoughts before you can live is the thing actually keeping you stuck? That's the central idea of Acceptance and Commitment Therapy, or ACT. For a lot of people, it changes everything.
 

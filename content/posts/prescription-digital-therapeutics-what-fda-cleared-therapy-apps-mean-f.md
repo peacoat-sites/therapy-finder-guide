@@ -1,6 +1,7 @@
 ---
 title: "Prescription Digital Therapeutics: What FDA-Cleared Therapy Apps Mean for You"
 date: 2026-07-08T15:51:58.509926+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how FDA-cleared prescription digital therapeutics are transforming treatment. Learn what therapy apps mean for your health, insurance coverage, and car"
 image: "/img/heroes/17514177.jpg"

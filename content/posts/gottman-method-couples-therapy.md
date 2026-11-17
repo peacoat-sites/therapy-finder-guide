@@ -23,7 +23,7 @@ faqs:
     a: "Six to eight sessions is diagnostic; you'll know if the method is clicking. Real change (less frequent Four Horsemen patterns, better repair attempts when conflict happens) usually takes 12 to 16 sessions over three to four months. Some couples need 20+."
   - q: "What if I can't afford Gottman therapy at full price?"
     a: "Ask the therapist about sliding scale (many offer it). Look for therapists in training (supervised but less expensive). Some therapists offer group workshops on Gottman principles, which cost much less. If access is genuinely impossible, reading a Gottman book and practicing the techniques yourself is better than nothing, though a therapist's in-the-moment feedback accelerates everything."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most [couples therapy articles](/couples-therapy-how-it-works/) act like every approach is roughly the same: two people, one therapist, talk it out. Gottman method is nothing like that. It's research-backed, highly specific about what you're looking for, and honestly, it works or it doesn't pretty fast. You'll know within six to eight sessions whether your therapist is doing real Gottman work or just calling it that.

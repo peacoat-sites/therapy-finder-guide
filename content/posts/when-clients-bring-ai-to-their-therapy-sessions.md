@@ -1,6 +1,7 @@
 ---
 title: "When Clients Bring AI to Their Therapy Sessions"
 date: 2026-08-09T14:08:45.024114+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how artificial intelligence is changing therapy dynamics as more clients bring AI tools to their sessions. Explore benefits, challenges, and ethical co"
 image: "/img/heroes/36764831.jpg"

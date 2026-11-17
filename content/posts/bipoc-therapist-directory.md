@@ -1,6 +1,7 @@
 ---
 title: "BIPOC Therapist Directories: Find Culturally Competent Care"
 date: 2026-07-12T14:45:50.679882+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the best BIPOC therapist directories to find a culturally competent mental health provider who truly understands your background and experience."
 image: "/img/heroes/5699500.jpg"

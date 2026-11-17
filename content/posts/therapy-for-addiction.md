@@ -23,7 +23,7 @@ faqs:
     a: "'Therapist' usually refers to someone with a master's or doctoral degree (LCSW, LPC, PhD/PsyD) trained in a clinical modality like CBT. 'Addiction counselor' often refers to someone with a CADC or LADC credential, which specifically covers substance use treatment. Both can be effective; the credential that matters most is whether they have specific, supervised training in addiction, not just general mental health."
   - q: "What if I'm not ready to stop completely?"
     a: "This is more common than programs acknowledge, and it's worth knowing that harm reduction therapy is a legitimate approach. Some people enter treatment with a goal of reducing use rather than full abstinence, and a skilled therapist can work with that. Motivational Interviewing, in particular, is designed for exactly this stage. You don't have to be 'ready' in the way people imagine to benefit from talking to someone."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people who finally call a treatment center do it on a Tuesday. I don't know why Tuesday specifically, but after years of working alongside clinical teams, I've noticed the pattern: it's never the rock-bottom Friday night or the awful Sunday morning. It's a few days later, when the dust has settled enough to make a phone call. And the first thing they say, almost without fail, is: "I don't even know what kind of help I need."

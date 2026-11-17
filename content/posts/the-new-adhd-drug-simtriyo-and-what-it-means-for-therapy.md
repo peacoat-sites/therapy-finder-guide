@@ -1,6 +1,7 @@
 ---
 title: "The New ADHD Drug Simtriyo and What It Means for Therapy"
 date: 2026-08-07T00:51:25.855320+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "The New ADHD Drug Simtriyo and What It Means for Therapy - Learn how this breakthrough medication is changing treatment approaches and improving patient outcome"
 image: "/img/heroes/10449256.jpg"

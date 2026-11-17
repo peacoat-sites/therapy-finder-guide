@@ -23,7 +23,7 @@ faqs:
     a: "Grief tends to come in waves, often triggered by reminders, and typically preserves the capacity for positive emotion at least intermittently. Depression is more pervasive and tends to flatten mood more consistently. They overlap and co-occur, but a therapist who treats pure depression without addressing the loss itself will often miss the most important work."
   - q: "Should I try medication alongside grief therapy?"
     a: "That's a question for a psychiatrist or your prescribing physician, not me. What the research does show is that antidepressants alone are less effective for complicated grief than for standard depression, and they work best when combined with grief-specific therapy rather than used as a standalone treatment. Worth a direct conversation with your doctor."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Grief doesn't follow a schedule. And if you're here reading this, you're probably somewhere in that disorienting middle space where you know something is very wrong, you've heard that "therapy helps," but you have no idea what that actually looks like or whether it would even work for you.

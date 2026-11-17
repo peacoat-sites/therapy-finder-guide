@@ -23,7 +23,7 @@ author: "Kim Davis"
 author_slug: "kim-davis"
 author_title: "Wellness Educator"
 author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people figure that once a therapist accepts their insurance, the hard part is done. I used to think that too. Then I kept running into the same problem: "in-network" isn't a guarantee. It's more like a starting point, and a frustrating one.
 

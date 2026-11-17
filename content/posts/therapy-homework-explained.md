@@ -1,6 +1,7 @@
 ---
 title: "Therapy Homework: Why 50% of Progress Happens Between Sessions"
 date: 2026-07-22T15:23:57.495755+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how therapy homework accelerates healing. Discover what therapists assign, why it matters, and how to get the most from your assignments."
 image: "/img/heroes/3958402.jpg"

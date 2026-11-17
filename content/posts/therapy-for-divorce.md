@@ -1,6 +1,7 @@
 ---
 title: "Divorce Therapy: Why 40% of Couples Benefit Most"
 date: 2026-07-26T14:50:20.591999+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how therapy helps during divorce. Learn costs, timelines, and what to expect from professional support through separation."
 image: "/img/heroes/7176226.jpg"

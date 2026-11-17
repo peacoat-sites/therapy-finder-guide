@@ -1,6 +1,7 @@
 ---
 title: "Combat Trauma Therapy: Proven Approaches That Help Veterans Heal"
 date: 2026-07-23T15:34:02.158520+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore effective therapeutic methods for veterans managing combat-related PTSD and trauma. Evidence-based treatments and recovery strategies."
 image: "/img/heroes/7467868.jpg"

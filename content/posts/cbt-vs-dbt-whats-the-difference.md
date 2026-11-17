@@ -1,6 +1,7 @@
 ---
 title: "CBT vs DBT: Which Therapy Works Better for Your Needs"
 date: 2026-08-07T14:34:36.704852+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare cognitive behavioral therapy and dialectical behavior therapy. Learn the key differences, effectiveness rates, and which treatment suits different menta"
 image: "/img/heroes/5699435.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "For first responders specifically, online therapy has some real advantages: shift workers can schedule sessions at 10pm, there's no worry about a coworker seeing your car in a parking lot, and you can access specialists who aren't local to you. The research on teletherapy for PTSD is genuinely strong, particularly for CPT delivered via video. It's not second-best across the board. For someone who needs significant stabilization or is in acute crisis, in-person is usually better, but for ongoing therapy, video sessions work."
  - q: "When should a first responder call a crisis line instead of waiting for a therapy appointment?"
    a: "If you're having thoughts of suicide or self-harm, if you're using substances in ways that are scaring you, or if you feel like you can't get through the next few hours, don't wait for an appointment. Call the 988 Suicide and Crisis Lifeline or Safe Call Now at 1-206-459-3020. These lines exist specifically because the therapy system has gaps and delays, and no one should fall through those gaps alone."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most firefighters will tell you they've pulled a colleague out of a burning building before they've ever suggested that same colleague see a therapist. That tells you everything about the culture.

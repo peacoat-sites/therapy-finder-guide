@@ -23,7 +23,7 @@ author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 author_title: "Clinical Reviewer"
 author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've finally decided to get help. Maybe it took months of convincing yourself, or maybe something happened last week that made the decision for you. You open your laptop, type "find a therapist," and immediately hit a wall of titles: licensed clinical social worker, psychologist, psychiatrist, therapist, counselor, psychotherapist. The words blur together. You close the tab. This happens more often than most people realize, and it's one of the quiet reasons people delay care that could genuinely change their lives.
 
