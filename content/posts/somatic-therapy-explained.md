@@ -47,8 +47,6 @@ Humans are different. We're socialized to suppress that process. We tell ourselv
 
 Neuroscience backs this up. The polyvagal theory developed by Dr. Stephen Porges helps explain the mechanism. The vagus nerve, the longest cranial nerve in the body, plays a central role in regulating our sense of safety, social connection, and stress response. When we're stuck in survival states (fight, flight, freeze), the social engagement system goes offline. Somatic therapy works partly by gradually restoring that sense of safety through the body itself, not just through reassurance or cognitive reframing.
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## What Happens in a Somatic Therapy Session
 
 Most people imagine somatic therapy involves intense physical catharsis: screaming into pillows, pounding things, dramatic releases. That does happen in some body-based traditions, but mainstream somatic therapy is quite gentle.

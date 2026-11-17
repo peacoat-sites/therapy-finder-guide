@@ -113,8 +113,6 @@ I know "just find a therapist" can feel like being told to "just apply for jobs.
 
 If you want to do some structured self-work in parallel while you're getting set up with professional care, CBT-based workbooks can be genuinely useful bridges. A book like *Mind Over Mood* by Greenberger and Padesky has solid evidence behind it.
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's no single right answer here, and the "best" option is simply the one you'll actually use. A support group you attend consistently will do more for you than a therapist you cancel on three times out of anxiety. Starting somewhere, even imperfectly, matters. You don't have to have it all figured out before you take the first step. Most people who eventually find real relief started by making one small, imperfect attempt to reach out. Yours can be today.
 
 ## Sources & References

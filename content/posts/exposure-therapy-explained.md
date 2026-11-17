@@ -43,8 +43,6 @@ The research here is genuinely strong. A meta-analysis published in *Clinical Ps
 
 ## The Fear Hierarchy: Where It Actually Starts
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I got wrong for a long time: I assumed exposure therapy began with exposure. It doesn't. The first two or three sessions are almost entirely assessment and construction of what clinicians call a fear hierarchy (or "SUDS hierarchy," referring to Subjective Units of Distress, rated 0-100).
 
 A therapist and client sit down and map out every fear-related situation, from mildly uncomfortable to intolerable. For someone with [social anxiety](/therapy-for-social-anxiety/), that might look like: imagining calling to make a restaurant reservation (SUDS: 30), actually making the call (55), attending a party where they know nobody (75), giving a toast at a wedding (95). Therapy then works through that hierarchy, usually from bottom to top, not jumping to the hardest items until lower ones are manageable.

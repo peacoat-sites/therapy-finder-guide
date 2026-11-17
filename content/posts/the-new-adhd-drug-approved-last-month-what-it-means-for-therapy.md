@@ -21,7 +21,7 @@ But you might be wondering: what does this actually mean for you, right now, thi
 According to Otsuka's official approval announcement, ADHD affects approximately 22.5 million children, adolescents, and adults in the U.S. That's a lot of people who've been managing with tools that work imperfectly, at best. What centanafadine brings to the table, at least on paper, is a legitimately different angle of attack.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Simtriyo (centanafadine) was FDA-approved July 24, 2026 ,  the first NDSRI approved for ADHD.</li><li style="margin:5px 0">It's approved for adults and children ages 6+ weighing at least 44 lbs, based on four Phase 3 trials.</li><li style="margin:5px 0">Simtriyo is NOT yet available at pharmacies; DEA scheduling could take up to three months.</li><li style="margin:5px 0">Phase 3b data from June 25, 2026 showed positive results in adults with ADHD and comorbid anxiety.</li><li style="margin:5px 0">Medication alone is still insufficient ,  behavioral therapy remains a necessary part of long-term treatment.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Simtriyo (centanafadine) was FDA-approved July 24, 2026, the first NDSRI approved for ADHD.</li><li style="margin:5px 0">It's approved for adults and children ages 6+ weighing at least 44 lbs, based on four Phase 3 trials.</li><li style="margin:5px 0">Simtriyo is NOT yet available at pharmacies; DEA scheduling could take up to three months.</li><li style="margin:5px 0">Phase 3b data from June 25, 2026 showed positive results in adults with ADHD and comorbid anxiety.</li><li style="margin:5px 0">Medication alone is still insufficient, behavioral therapy remains a necessary part of long-term treatment.</li></ul></div>
 
 
 ## What Makes Simtriyo Actually Different
@@ -33,10 +33,6 @@ Here's what that difference means in practice: for people whose ADHD comes bundl
 The four Phase 3 trials supporting Simtriyo's approval also showed symptom improvement as early as week one. Fast onset matters. People don't drop out of treatment if they see results quickly, and early engagement is often what allows behavioral work to take hold.
 
 ## The Scheduling Question Nobody's Talking About Enough
-
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You might be wondering why a drug approved by the FDA in late July still isn't available. The DEA has to schedule it separately, and that process can take up to three months. But here's the part that really matters: whether Simtriyo lands in Schedule II, alongside Adderall and Ritalin, or gets a lower classification could change everything about prescribing and access.
 

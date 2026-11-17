@@ -56,8 +56,6 @@ A well-designed thought record does in ten minutes what a good therapist convers
 
 ## The Different Types (and Which Ones Are Worth Your Time)
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 CBT isn't one fixed technique. It's a family of approaches, and the worksheets reflect that.
 
 **Thought records** are the classic starting point. Start here if you're only going to use one tool.

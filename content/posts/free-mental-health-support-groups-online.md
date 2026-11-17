@@ -41,8 +41,6 @@ Peer support, specifically, is something the [National Alliance on Mental Illnes
 
 ## The Groups Worth Your Time
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I tell people who are starting from scratch: don't just search "free support group" and click the first thing that comes up. The quality varies enormously, and a poorly moderated group can actually leave you feeling worse.
 
 **NAMI's online programs** are a good starting point. NAMI Connection Recovery Support Groups are free, peer-led, and held multiple times a week on video. They're designed for adults living with mental health conditions (so not specifically caregiver-focused), and the group facilitators go through real training. You can find the schedule on NAMI's website. They also offer Family Support Groups for people supporting a loved one, which often goes completely unaddressed in the support world.

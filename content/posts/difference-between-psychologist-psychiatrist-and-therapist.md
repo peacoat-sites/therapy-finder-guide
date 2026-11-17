@@ -52,8 +52,6 @@ Here's what I tell people just getting oriented: the word "therapist" describes 
 
 ## What Psychiatrists Actually Do (And When You Should See One)
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A lot of people picture a psychiatrist handing out prescriptions in 15-minute appointments. That's not wrong, exactly. It's just incomplete.
 
 Psychiatrists are who you want when something has a strong biological component. Schizophrenia, bipolar disorder, severe treatment-resistant depression, certain types of OCD, cases where someone's already tried therapy and it didn't work. They understand pharmacology. They know how medications interact. They can order labs, interpret results, and see mental health through a medical lens, which genuinely matters in ways that aren't always obvious.

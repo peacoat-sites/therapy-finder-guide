@@ -22,15 +22,15 @@ faqs:
   - q: "Does a higher credential mean better therapy?"
     a: "Not reliably. A PhD carries more years of training than an LPC, but therapy outcomes depend heavily on the therapeutic relationship, the clinician's specific training in your concern area, and their experience level. A skilled LCSW with ten years specializing in trauma will generally produce better outcomes for a trauma client than a newly licensed psychologist with limited trauma-specific training."
   - q: "What does 'pre-licensed' or 'associate' therapist mean?"
-    a: "It means the clinician has completed their degree but hasn't yet accumulated the supervised hours required for full licensure. They practice under a supervisor's license and are still building hours. Some titles vary by state: 'Associate LCSW' in California, 'Registered Intern' in Florida. Working with a pre-licensed therapist isn't inherently a problem , their work is supervised , but you should know their status and ask who their supervising clinician is."
+    a: "It means the clinician has completed their degree but hasn't yet accumulated the supervised hours required for full licensure. They practice under a supervisor's license and are still building hours. Some titles vary by state: 'Associate LCSW' in California, 'Registered Intern' in Florida. Working with a pre-licensed therapist isn't inherently a problem, their work is supervised, but you should know their status and ask who their supervising clinician is."
 ---
 
-Most people searching for a therapist have no idea what the letters after a clinician's name actually mean. That's not a personal failing ,  the credentialing system in the United States is genuinely fragmented, with licensing requirements that vary by state, overlapping scopes of practice, and a pile of acronyms that weren't designed with consumer clarity in mind. The good news: you don't need to become an expert in licensure law. You just need to understand a few key distinctions well enough to make a smart choice for your situation.
+Most people searching for a therapist have no idea what the letters after a clinician's name actually mean. That's not a personal failing, the credentialing system in the United States is genuinely fragmented, with licensing requirements that vary by state, overlapping scopes of practice, and a pile of acronyms that weren't designed with consumer clarity in mind. The good news: you don't need to become an expert in licensure law. You just need to understand a few key distinctions well enough to make a smart choice for your situation.
 
 The most important thing to know upfront is that **not all mental health credentials are equivalent**, and some titles are more protected (meaning legally restricted) than others. A "therapist" or "counselor" can mean almost anything depending on where you live. "Psychologist," "licensed clinical social worker," and "[licensed professional counselor](/licensed-professional-counselor-lpc/)" have specific legal definitions and training requirements. Knowing the difference helps you match the type of help you need to the person actually qualified to provide it.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">"Therapist" and "counselor" are unprotected titles in many states; always check the specific license.</li><li style="margin:5px 0">Psychiatrists are medical doctors who can prescribe medication; most other mental health providers cannot.</li><li style="margin:5px 0">A PhD or PsyD indicates doctoral-level psychology training; an LCSW or LPC indicates master's-level clinical training.</li><li style="margin:5px 0">"Supervised hours" matter: most licenses require 2,000–4,000 hours of supervised work after the degree.</li><li style="margin:5px 0">State licensing boards are the authoritative source for verifying any credential ,  not the therapist's website.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">"Therapist" and "counselor" are unprotected titles in many states; always check the specific license.</li><li style="margin:5px 0">Psychiatrists are medical doctors who can prescribe medication; most other mental health providers cannot.</li><li style="margin:5px 0">A PhD or PsyD indicates doctoral-level psychology training; an LCSW or LPC indicates master's-level clinical training.</li><li style="margin:5px 0">"Supervised hours" matter: most licenses require 2,000–4,000 hours of supervised work after the degree.</li><li style="margin:5px 0">State licensing boards are the authoritative source for verifying any credential, not the therapist's website.</li></ul></div>
 
 
 ## The Credential Hierarchy (and Why It Exists)
@@ -52,10 +52,6 @@ The supervised hours requirement is something most articles gloss over, and it m
 
 ## What Psychologists Actually Do
 
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The PhD versus PsyD distinction trips people up. Both are psychologists. A PhD (Doctor of Philosophy) in psychology traditionally emphasizes research alongside clinical training; someone with a PhD may split their time between research, teaching, and clinical work, or focus entirely on one. A PsyD (Doctor of Psychology) is explicitly designed as a practice-focused degree, skipping the heavy research dissertation in favor of more clinical hours during training.
 
 For most people seeking therapy, this distinction won't change your outcome. If you're looking for someone to administer psychological testing (neuropsychological evaluations, learning disability assessments, custody evaluations), a licensed psychologist at the doctoral level is what you want. That's one of the few areas where the specific credential type genuinely gates the service.
@@ -66,7 +62,7 @@ One more thing worth knowing: psychologists cannot prescribe medication in most 
 
 LCSWs, LPCs, LMFTs, and LMHCs make up the majority of practicing therapists in the United States. The credential differences between them are more about training emphasis than competence level.
 
-An LCSW (Licensed Clinical Social Worker) holds a Master of Social Work and brings a training framework that tends to pay close attention to environmental and systemic factors: how housing instability, family systems, poverty, and community context shape a person's mental health. That's not to say they can't treat depression or anxiety in the traditional clinical sense ,  they absolutely can and do ,  but the lens is broader.
+An LCSW (Licensed Clinical Social Worker) holds a Master of Social Work and brings a training framework that tends to pay close attention to environmental and systemic factors: how housing instability, family systems, poverty, and community context shape a person's mental health. That's not to say they can't treat depression or anxiety in the traditional clinical sense, they absolutely can and do, but the lens is broader.
 
 An LMFT (Licensed Marriage and Family Therapist) has graduate training that emphasizes relational dynamics and systems theory. If couples therapy or family therapy is your primary goal, an LMFT has the most targeted training for it. That said, many LCSWs and LPCs also do excellent couples work, particularly if they've pursued additional training.
 
@@ -78,7 +74,7 @@ An LPC (or its state variants: LPCC in California, LCPC in Maryland, LAC in some
 
 A few letters appear in therapist profiles that indicate *specialty training* rather than a base license. These are worth recognizing:
 
-**EMDR-certified** means the therapist completed EMDR International Association training in Eye Movement Desensitization and Reprocessing, a trauma-focused approach. It's not a license ,  it's a specialty certification.
+**EMDR-certified** means the therapist completed EMDR International Association training in Eye Movement Desensitization and Reprocessing, a trauma-focused approach. It's not a license, it's a specialty certification.
 
 **BC-TMH** (Board Certified-TeleMental Health Provider) indicates training in delivering therapy via telehealth platforms. Increasingly common since 2020.
 
@@ -90,7 +86,7 @@ A few letters appear in therapist profiles that indicate *specialty training* ra
 
 Don't take a therapist's website at face value. Every state has a licensing board, and virtually all of them have free public license verification databases. Search "[your state] [credential type] license verification" and you'll find it. The search takes about 30 seconds and tells you whether the license is current, whether there have been disciplinary actions, and when it expires.
 
-SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) is a useful starting point for finding providers, particularly if you're looking for substance use treatment or need to filter by insurance type. For general therapist searches, [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by credential type, specialty, and insurance ,  it's not exhaustive, but it's one of the more practical search tools available and lists the clinician's license number directly in most profiles.
+SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) is a useful starting point for finding providers, particularly if you're looking for substance use treatment or need to filter by insurance type. For general therapist searches, [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by credential type, specialty, and insurance, it's not exhaustive, but it's one of the more practical search tools available and lists the clinician's license number directly in most profiles.
 
 ## A Practical Decision Rule
 
@@ -102,7 +98,7 @@ If you're unsure which credential type to prioritize, here's a simple filter:
 - Need couples or family therapy? An LMFT is the most specifically trained, though many LCSWs and LPCs do this work effectively too.
 - Dealing with addiction as a primary concern? Look for an LCSW or LPC who also holds a CAC/CADC.
 
-The credential sets the floor. What you're really evaluating after that is experience with your specific concern, the therapeutic approach they use (cognitive behavioral therapy, psychodynamic, DBT, EMDR, etc.), and whether the relationship feels workable. Research on therapy outcomes consistently points to the therapeutic alliance ,  the working relationship between client and therapist ,  as a strong predictor of outcomes, regardless of credential type.
+The credential sets the floor. What you're really evaluating after that is experience with your specific concern, the therapeutic approach they use (cognitive behavioral therapy, psychodynamic, DBT, EMDR, etc.), and whether the relationship feels workable. Research on therapy outcomes consistently points to the therapeutic alliance, the working relationship between client and therapist, as a strong predictor of outcomes, regardless of credential type.
 
 If you're doing some early reading while working up to making an appointment, the workbook [*Mind Over Mood* by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Depression/dp/1462520421?tag=contentportfo-20) is a well-regarded CBT-based resource that complements (but doesn't replace) professional work. *(Disclosure: this site may earn a small commission on purchases made through that link.)*
 

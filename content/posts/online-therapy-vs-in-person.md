@@ -37,8 +37,6 @@ Neither format means you're getting watered-down care. Both can involve the same
 
 ## The Real Advantages of Online Therapy
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Access is the biggest one. For someone living 90 minutes from the nearest therapist who takes their insurance, online therapy isn't a convenience feature. It's the only realistic option. The same applies to people with physical disabilities, chronic illness, social anxiety that makes leaving the house genuinely difficult, or schedules that make a weekly midday appointment logistically impossible.
 
 There's also something to be said about comfort. Some people open up faster when they're in their own space. I've heard clients say they feel less "on display" during a video call than sitting in a stranger's office. That sense of safety can accelerate the work, particularly in early sessions when trust is still being built.

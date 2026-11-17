@@ -53,8 +53,6 @@ What both platforms can't do: prescribe medication (with limited exceptions on T
 | Matching Timeline | Typically 24-48 hours | Similar structure |
 | Financial Aid Option | Available | N/A (insurance may cover) |
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where most comparisons mislead you. They quote a weekly rate and leave out that you're billed monthly, that the rate varies by location and therapist availability, and that promotions applied at signup often disappear at renewal.
 
 **BetterHelp** charges a flat monthly subscription that covers one live session per week plus unlimited messaging with your therapist. The price range shifts based on your zip code and demand, but expect somewhere in the $60-$100 per week range when billed monthly. There's a financial aid option that can reduce this significantly, and it's worth applying even if you're unsure whether you qualify. BetterHelp does not accept insurance.

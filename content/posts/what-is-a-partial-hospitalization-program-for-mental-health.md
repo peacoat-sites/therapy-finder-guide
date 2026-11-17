@@ -31,7 +31,7 @@ Many families feel confused about care options, thinking they must choose betwee
 
 Here's what I want you to understand before we go any further: a partial hospitalization program isn't a lesser version of inpatient treatment. For many people, it's exactly the right amount of structure. And knowing the [difference between](/difference-between-psychologist-psychiatrist-and-therapist/) PHP and your other options could save you months of struggling through the wrong level of care.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PHP typically runs 5-6 hours per day, 4-5 days per week, for 2-6 weeks on average.</li><li style="margin:5px 0">It's more intensive than outpatient therapy but lets you sleep at home each night.</li><li style="margin:5px 0">PHP costs roughly $300-$800 per day; most major insurers are required to cover it.</li><li style="margin:5px 0">It treats conditions like major depression, bipolar disorder, severe anxiety, and eating disorders.</li><li style="margin:5px 0">You don't need a hospitalization to qualify ,  a referral from a psychiatrist or therapist is usually enough.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PHP typically runs 5-6 hours per day, 4-5 days per week, for 2-6 weeks on average.</li><li style="margin:5px 0">It's more intensive than outpatient therapy but lets you sleep at home each night.</li><li style="margin:5px 0">PHP costs roughly $300-$800 per day; most major insurers are required to cover it.</li><li style="margin:5px 0">It treats conditions like major depression, bipolar disorder, severe anxiety, and eating disorders.</li><li style="margin:5px 0">You don't need a hospitalization to qualify, a referral from a psychiatrist or therapist is usually enough.</li></ul></div>
 
 ## What Actually Happens in a PHP
 
@@ -44,8 +44,6 @@ Group therapy often produces significant breakthroughs, though many people resis
 Individual sessions happen too, though usually only two or three times per week rather than daily. Your psychiatrist will typically see you for 15-30 minutes a few times a week to monitor medications, adjust dosages, and check in on how you're responding to the program overall.
 
 ## Who It's Actually Designed For
-
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 PHP exists for people who need more support than weekly outpatient therapy but whose symptoms are stable enough that they don't require 24-hour monitoring. That's the clinical sweet spot it fills.
 

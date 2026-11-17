@@ -53,8 +53,6 @@ Many people assume they can't afford therapy without researching options, while 
 
 **Look into university training clinics.** If you live near a university with a graduate psychology or counseling program, that program almost certainly runs a training clinic. You'll work with a supervised graduate student. Sessions are inexpensive, sometimes free, and the quality is better than people expect because supervisors review cases closely. This works especially well for anxiety, relationship stress, and mild to moderate depression.
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Sliding Scale Fees: What They Are and How to Ask for One
 
 Sliding scale isn't charity. It's a standard pricing practice in mental health care, where a therapist sets their rate based on a client's income and sometimes household size. A therapist might charge $150 for a client earning $90,000 a year and $40 for someone earning $28,000. Same therapist, same quality of care.

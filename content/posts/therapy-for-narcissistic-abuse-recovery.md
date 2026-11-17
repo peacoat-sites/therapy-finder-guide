@@ -45,8 +45,6 @@ Survivors often spend the first several sessions almost exclusively discussing t
 
 ## The Therapy Types That Actually Help (and One That Often Doesn't)
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **What has solid evidence:**
 
 EMDR (Eye Movement Desensitization and Reprocessing) has become probably the most widely recommended approach for this work, and for good reason. A 2019 meta-analysis published in the *Journal of Anxiety Disorders* found EMDR significantly reduced PTSD symptoms compared to control conditions, with effects that held at follow-up. For relational trauma specifically, it addresses the way traumatic memories are stored dysregulatedly in the body and brain, not just the narrative of what happened. Sessions typically run 60-90 minutes. Expect 12-20 sessions for meaningful progress, though complex cases run longer.

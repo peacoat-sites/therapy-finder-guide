@@ -43,8 +43,6 @@ The other mistake? Treating journaling like a feelings-only exercise. Cognitive 
 
 ## Prompts Organized By What You're Actually Trying to Do
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Different situations call for different entry points. Here's how I'd sort them:
 
 **For anxiety and spiral-breaking:**

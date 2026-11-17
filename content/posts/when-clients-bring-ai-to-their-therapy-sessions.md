@@ -32,8 +32,6 @@ The APA survey found that 39% of psychologists have patients who used AI to self
 
 ## What the Numbers Actually Show
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The survey data, drawn from a sample of 1,242 psychologists pulled from a pool of over 22,000, is specific enough to be sobering. Consider how the concerning behaviors break down:
 
 | Behavior reported by psychologists | % of psychologists surveyed |
@@ -79,12 +77,12 @@ The field is catching up. Slowly, but it's moving. And in the meantime, the best
 
 ## Sources
 
-- [Patients are bringing AI to therapy ,  APA 2026 Chatbots and Mental Health Survey](https://www.apa.org/pubs/reports/chatbots-mental-health-2026) (June 29, 2026)
-- [Psychologists say patients are turning to chatbots as mental health professionals ,  APA Press Release](https://www.apa.org/news/press/releases/2026/06/patients-chatbots-mental-health) (June 16, 2026)
-- [Patients Are Bringing AI Into Therapy. Therapists Aren't Ready ,  Forbes](https://www.forbes.com/sites/johnsamuels/2026/07/09/patients-are-bringing-ai-into-therapy-therapists-arent-ready/) (July 9, 2026)
-- [American Psychological Association Warns Against AI Therapy ,  The Good Men Project](https://goodmenproject.com/featured-content/american-psychological-association-warns-against-ai-therapy/) (June 2026)
-- [Psychologists Say Patients Are Bringing AI Into Therapy Sessions ,  Decrypt](https://decrypt.co/371451/psychologists-patients-bringing-ai-therapy-sessions-survey) (June 17, 2026)
-- [Discussing AI use in therapy ,  APA](https://www.apa.org/topics/artificial-intelligence-machine-learning/discussing-ai-use-therapy) (June 16, 2026)
+- [Patients are bringing AI to therapy, APA 2026 Chatbots and Mental Health Survey](https://www.apa.org/pubs/reports/chatbots-mental-health-2026) (June 29, 2026)
+- [Psychologists say patients are turning to chatbots as mental health professionals, APA Press Release](https://www.apa.org/news/press/releases/2026/06/patients-chatbots-mental-health) (June 16, 2026)
+- [Patients Are Bringing AI Into Therapy. Therapists Aren't Ready, Forbes](https://www.forbes.com/sites/johnsamuels/2026/07/09/patients-are-bringing-ai-into-therapy-therapists-arent-ready/) (July 9, 2026)
+- [American Psychological Association Warns Against AI Therapy, The Good Men Project](https://goodmenproject.com/featured-content/american-psychological-association-warns-against-ai-therapy/) (June 2026)
+- [Psychologists Say Patients Are Bringing AI Into Therapy Sessions, Decrypt](https://decrypt.co/371451/psychologists-patients-bringing-ai-therapy-sessions-survey) (June 17, 2026)
+- [Discussing AI use in therapy, APA](https://www.apa.org/topics/artificial-intelligence-machine-learning/discussing-ai-use-therapy) (June 16, 2026)
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

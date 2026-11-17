@@ -40,8 +40,6 @@ What most people don't realize is that this isn't unique to one type of therapy.
 
 ## What the research actually shows
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A 2004 study out of the University of Toronto, led by Zindel Segal and colleagues, compared brain scans of patients with depression treated with CBT versus antidepressants. Both groups got better clinically. But the brain changes looked different. Medication worked more from the bottom up, calming overactivity in subcortical regions. CBT worked more from the top down, strengthening activity in the prefrontal cortex, the part of the brain responsible for rational thinking, impulse control, and perspective-taking.
 
 That top-down change matters. When the prefrontal cortex gets stronger, it's better able to regulate the amygdala, your brain's alarm system. People with anxiety and PTSD often have an amygdala that fires too fast and too loud, flooding the body with fear before the thinking brain can get a word in. Therapy, over time, helps the prefrontal cortex essentially learn to intervene earlier in that chain.

@@ -42,10 +42,6 @@ Therapy doesn't erase those patterns. It builds new circuitry alongside them.
 
 ## Why Generic Talk Therapy Isn't Always Enough
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's the contrarian take: for many ACAs, standard supportive counseling ("tell me about your week, how did that make you feel?") can extend the time it takes to actually get better. Not because the therapist is bad. Because the ACA skill set includes being exceptionally good at presenting fine, at managing the impression of others, at telling a coherent story that keeps the hard thing out of the frame.
 
 A therapist who doesn't know the ACA profile can spend months in perfectly warm, productive-seeming conversation that never touches the actual wound. I've heard from people who spent two or three years in therapy before anyone connected their patterns to their family history. That's not catastrophic, but it is avoidable.

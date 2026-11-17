@@ -41,8 +41,6 @@ MHPAEA applies to most employer-sponsored health plans with more than 50 employe
 
 The gaps matter though. Medicare fee-for-service (traditional Medicare, not Medicare Advantage) has separate rules and isn't fully subject to MHPAEA. Some grandfathered individual market plans, short-term health plans, and retiree-only plans may also fall outside its scope. If you're unsure, the Department of Labor's Employee Benefits Security Administration (EBSA) handles enforcement for employer plans and can tell you whether MHPAEA applies to your situation.
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 One more thing: the law doesn't require insurers to *cover* mental health benefits at all. It only requires that when they do offer those benefits, the coverage must be equal to medical/surgical coverage. Most plans do offer mental health services now, largely because of ACA requirements, but it's the *quality* and *accessibility* where parity problems actually surface.
 
 ## The Most Common Parity Violations You'll Actually Encounter

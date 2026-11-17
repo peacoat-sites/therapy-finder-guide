@@ -52,8 +52,6 @@ Common approaches include Structural Family Therapy, which focuses on reorganizi
 
 ## The Real Benefits, Broken Down Honestly
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's get specific about what family therapy can actually do, because "it helps with communication" is vague to the point of being useless.
 
 **It interrupts repetitive arguments.** Most families who're struggling aren't fighting about anything new. They're fighting about the same thing in the same way, over and over. A therapist can spot the loop: who escalates first, who withdraws, who plays peacekeeper, and how that dynamic keeps the conflict spinning. Once the loop is visible, it can be broken.

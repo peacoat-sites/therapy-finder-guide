@@ -115,8 +115,6 @@ Therapy works best when you're doing work outside sessions too. Several evidence
 
 If your therapist uses cognitive behavioral therapy approaches, a structured journal like the *Cognitive Behavioral Therapy Workbook* (available on Amazon) can help you track automatic thoughts and cognitive distortions between appointments. For mindfulness-based work, guided meditation apps or a physical mindfulness workbook extend your session benefits. These aren't substitutes for professional care, but they're useful complements, especially in weeks when you feel stuck.
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ---
 
 The cost of therapy is a real barrier. I'm not minimizing that. But it's often more solvable than it looks. Most people who move past the initial sticker shock find at least one option that fits: an EAP benefit they forgot about, a sliding-scale therapist with an opening, or a community clinic charging almost nothing. The point isn't to pick whatever's cheapest. It's to find care you can actually access, consistently, so you start doing the work that matters. You deserve support that doesn't disappear the moment the bill arrives.

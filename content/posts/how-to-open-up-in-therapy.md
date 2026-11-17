@@ -45,8 +45,6 @@ The research on self-disclosure in therapy is mixed, which I want to name direct
 
 ## What Actually Happens in Early Sessions
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most clients I've spoken with carry an unspoken assumption into that first session: that they're supposed to produce something. A coherent explanation. A clear diagnosis. A satisfying narrative about why they're there. Therapists generally aren't expecting any of that.
 
 What they're watching for is much smaller. Are you showing up? Are you willing to sit in the discomfort for fifty minutes? Can we find even one thing that you're willing to say out loud?

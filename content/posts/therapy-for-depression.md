@@ -45,8 +45,6 @@ This matters because it changes what advice actually makes sense. Telling someon
 | Psychodynamic Therapy | Explore past experiences, unconscious patterns, and early attachments | Longer-term, less structured, exploratory | Depression rooted in deep patterns and history |
 | Acceptance and Commitment Therapy (ACT) | Change relationship with difficult thoughts and emotions through acceptance and values-based action | Mindfulness-based, skill-building | Depression requiring emotional flexibility and values alignment |
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all therapy is the same, and pretending it is does people a disservice. Here are the approaches with the strongest evidence base for depression.
 
 **Cognitive Behavioral Therapy (CBT)** is probably the most studied psychological treatment for depression in the world. The core idea is straightforward: thoughts, feelings, and behaviors are interconnected, and you can change how you feel by learning to identify and challenge distorted thought patterns. A CBT therapist won't just listen; they'll assign homework, ask you to track your moods, and actively teach you skills. It's structured. Time-limited (usually 12 to 20 sessions). Goal-oriented. For many people, especially those with mild to moderate depression, it works remarkably well.

@@ -39,8 +39,6 @@ When you're unsure whether something's a medical emergency, call 911 or go to th
 
 ## The Fastest Resources to Reach Right Now
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Save these in your phone today, not after you need them.
 
 **988 Suicide and Crisis Lifeline:** Dial or text **988** in the United States. This replaced the old 10-digit number in 2022. Trained crisis counselors are available 24/7. There's also a chat option at 988lifeline.org if calling feels too hard. Veterans can press 1 after dialing to reach a specialized Veterans Crisis Line.

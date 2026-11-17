@@ -43,8 +43,6 @@ CBT is well-validated for depression, generalized anxiety disorder, panic disord
 
 ## Where DBT Comes From, and Why It Exists
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Dialectical Behavior Therapy was built because CBT wasn't working well enough for a specific population: people with borderline personality disorder, chronic suicidality, and intense emotional dysregulation. Marsha Linehan, who developed DBT at the University of Washington in the late 1980s, later disclosed that she herself had been diagnosed with BPD. That context matters. She wasn't theorizing from a distance.
 
 The "dialectical" part refers to holding two opposing truths simultaneously: "I am doing the best I can" and "I need to do better." This acceptance-and-change balance runs through the whole approach. DBT blends CBT's cognitive and behavioral tools with acceptance strategies drawn from Zen Buddhism, which sounds odd until you understand that pure confrontation of distorted thoughts was often retraumatizing for highly dysregulated clients.

@@ -56,8 +56,6 @@ One resource I'd add that doesn't get enough attention: the Vet Center Program. 
 
 ## The Stigma Problem Is Real, and Complicated
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'm not going to pretend it isn't. Some veterans prefer to white-knuckle through insomnia and hypervigilance for years rather than have anything in their service record that might affect a security clearance. That fear is not irrational. Command culture still varies wildly. And the concern about career impact, though overstated in many cases, deserves honest acknowledgment.
 
 Here's what I can say with some confidence: seeking care through Military OneSource, the Veterans Crisis Line, or community-based Vet Centers involves records that are, in most cases, handled separately from military personnel files. The VA's mental health records are not automatically shared with employers or security clearance investigators. The research here is more reassuring than most veterans assume, but I'd encourage anyone with a specific clearance concern to consult the security clearance attorneys or JAG officers who specialize in this, because the details genuinely matter.

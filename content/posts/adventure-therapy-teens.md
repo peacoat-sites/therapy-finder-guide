@@ -40,8 +40,6 @@ I want to be clear about something: adventure therapy is not the same as "boot c
 
 ## The Research: What It Shows and Where It Gets Murky
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll be honest with you in a way most articles won't. The evidence base for adventure therapy is promising but uneven. A meta-analysis published in the *Journal of Experiential Education* across dozens of studies found consistent positive effects on self-concept, behavioral outcomes, and interpersonal skills for adolescents. The effect sizes are real. They're not enormous, but they're consistent enough that most researchers in this space don't think it's placebo.
 
 What the research is murkier on: long-term outcomes. Most studies measure change at program completion or within a few months. The question of whether gains persist at 12 or 24 months, and under what family and community conditions, is one the field is still working on. Programs that include robust family therapy components and aftercare planning seem to show better durability. A child can have genuine progress in a wilderness program and then return to an unchanged home environment and regress significantly.

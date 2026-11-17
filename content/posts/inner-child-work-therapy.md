@@ -45,8 +45,6 @@ What most people don't realize is that you don't need a diagnosable condition to
 
 ## Who It's Actually For
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to be specific here because vague claims frustrate me.
 
 Inner child work tends to show up in treatment for people dealing with chronic people-pleasing or fawning responses, difficulties with emotional regulation (especially the "I know I'm overreacting, but I can't stop" experience), patterns of abandonment fear that sabotage relationships, persistent shame that doesn't respond to logic or reassurance, and adults who grew up in homes with emotional neglect, addiction, or unpredictability. It's also used with adults processing childhood trauma that wasn't "dramatic" enough to feel like "real" trauma to them. (Neglect, by the way, is real trauma. I've seen more healing happen around quiet absence than around overt abuse.)

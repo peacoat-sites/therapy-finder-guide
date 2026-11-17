@@ -25,10 +25,6 @@ It's also worth being clear about what MDMA-assisted therapy actually involves. 
 
 ## Why This Is Happening Now
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The timing here is specific and politically significant. President Trump signed an executive order on April 18, 2026, titled "Accelerating Medical Treatments for Serious Mental Illness," which directed the FDA to fast-track its review of psychedelic therapies including MDMA and psilocybin. The VA trial is the first concrete federal action to follow that order, according to coverage from [Stars and Stripes](https://www.stripes.com/veterans/2026-06-02/ptsd-clinical-trial-mdma-va-21852986.html) published June 2, 2026.
 
 Here's what I tell people who are skeptical about the political framing: the underlying need is real regardless of which administration is pushing the research. Veteran suicide rates are more than 1.5 times higher than in the general adult population. More than 20% of veterans struggle with alcohol or drug use disorders. Existing treatments, including prolonged exposure therapy and cognitive processing therapy, work well for many people but leave a significant portion without adequate relief. The FDA declined to approve MDMA-assisted therapy for PTSD in 2024, citing insufficient evidence. This trial is, in part, an attempt to generate exactly the kind of rigorous evidence the FDA said was missing.

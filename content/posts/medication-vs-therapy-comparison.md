@@ -43,8 +43,6 @@ Therapy, by contrast, is skill acquisition and pattern recognition under guided 
 
 ## The Numbers Behind the Decision
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me put some real figures on the table, because vague cost comparisons are useless.
 
 | Treatment | Typical Cost (No Insurance) | With Insurance | Timeline to Effect | Relapse Risk After Stopping |

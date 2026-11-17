@@ -41,8 +41,6 @@ Confidentiality works differently with minors too. In most states, therapists ha
 
 ## The Main Types of Therapy for Teenagers
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Teen therapy isn't one thing. A handful of distinct approaches have strong research backing them for adolescent mental health. Which one works best depends entirely on what your teen is actually dealing with.
 
 **Cognitive Behavioral Therapy (CBT)** is probably the most studied therapy for teen anxiety and depression. It's structured, skill-focused, and straightforward. Teens learn to spot distorted thinking patterns, challenge them, and practice different responses. Most people see results in 12 to 20 sessions, though that varies. It works especially well for teens who want a clear framework, some homework, and concrete tools they can use between appointments. If your kid likes understanding the "why," CBT usually clicks.

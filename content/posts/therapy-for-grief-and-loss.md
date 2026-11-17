@@ -44,8 +44,6 @@ I made the mistake early in my own work of treating grief as a mood management p
 
 ## The Types of Therapy That Actually Help (And When to Use Which)
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A lot of people assume there's one kind of grief therapy. There isn't. And honestly, not every approach is equally useful depending on where you are.
 
 **Grief-Focused Cognitive Behavioral Therapy (CBT)** is probably the most researched starting point. It works by helping you identify the thought patterns that complicate grief, things like "if I feel okay today, that means I didn't love them enough," or catastrophizing the future as permanently empty. CBT for grief isn't about positive thinking. It's about catching the distortions that turn normal grief into prolonged suffering. A 2021 meta-analysis published in *Clinical Psychology Review* found CBT-based interventions significantly reduced complicated grief symptoms compared to control conditions, with effect sizes ranging from moderate to large.

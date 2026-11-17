@@ -39,8 +39,6 @@ A 2022 survey by the American Psychological Association found that 27% of adults
 
 ## The Signs That Are Easy to Miss
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most articles fail you here: they list "excessive worry" and "trouble sleeping" and move on. That's not wrong, just useless. Those descriptions could apply to anyone having a rough week. The real signs of high-functioning anxiety are more specific, more behavioral, and often socially rewarded.
 
 **You catastrophize privately but perform confidence publicly.** Before any presentation, difficult conversation, or first date, your brain runs through every possible way it could go wrong. In meticulous detail. You've already scripted the apology for the failure that hasn't happened. Then you walk in and nail it, and everyone thinks you're effortlessly capable. The gap between how you look and how you feel is enormous. Exhausting.

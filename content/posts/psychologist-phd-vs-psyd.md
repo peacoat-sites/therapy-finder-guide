@@ -50,8 +50,6 @@ What surprised me was how defensive people on both sides can get about this. PhD
 
 ## What the Training Actually Looks Like Day to Day
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A PhD student in a clinical psychology program at, say, the University of Minnesota or Penn is spending meaningful time in a research lab, possibly running studies, contributing to grant applications, and taking statistics and methodology courses that go well beyond what most clinicians ever use. The clinical training is still thorough, often excellent. But the program is explicitly training scientist-practitioners.
 
 A PsyD student at a program like Rutgers or the Chicago School of Professional Psychology arrives on day one understanding that their primary output is going to be clinical service. They'll log more supervised clinical hours on average before graduation. The dissertation exists, but it often looks different, more like a program evaluation or a literature synthesis than a new empirical study.

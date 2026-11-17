@@ -39,8 +39,6 @@ That said, staying too long with the wrong fit is one of the most common reasons
 
 ## Signs It's Time to Find Someone New
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 These aren't vague "trust your gut" platitudes. These are concrete signals worth taking seriously.
 
 **You've addressed your original concerns and feel stuck at a ceiling.** If you came in for anxiety, and anxiety is genuinely better, but now you sense there are deeper patterns you want to explore, some therapists aren't trained for that next layer. A good match at one stage of your life isn't automatically the right match for the next.

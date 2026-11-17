@@ -43,8 +43,6 @@ The research here points pretty clearly toward early attachment as the root. A 2
 
 ## Which Therapy Actually Works
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to be honest: the research on codependency-specific treatment is thinner than I'd like. Most of the solid outcome data comes from broader categories like attachment-based therapy, interpersonal therapy, and [schema therapy](/schema-therapy-explained/), applied to relational patterns that substantially overlap with codependency. So take "evidence-based for codependency" claims with some skepticism, including from therapists marketing themselves that way.
 
 That said, here's what the available evidence and clinical experience actually support:

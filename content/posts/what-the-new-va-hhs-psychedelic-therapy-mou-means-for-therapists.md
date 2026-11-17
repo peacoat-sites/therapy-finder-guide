@@ -32,10 +32,6 @@ Therapists working in substance use treatment especially need to track this. Ibo
 
 ## What the VA's Current Trial Footprint Actually Looks Like
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Before this MOU, the VA wasn't standing still. The numbers are worth putting side by side, because the scale is larger than most people outside VA system know.
 
 | Metric | Current Figure |

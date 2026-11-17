@@ -45,10 +45,6 @@ Training history matters. A therapist who completed a single weekend diversity w
 
 ## Where to Actually Find These Therapists
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 General directories like Psychology Today are fine starting points, but their filters aren't granular enough for this search. Here's where I'd actually spend my time, current as of August 2026:
 
 **Therapy for Black Girls** (therapyforblackgirls.com): Focuses on Black women and girls. The directory includes licensed therapists who have completed specific training through the platform. Filters by state and insurance.

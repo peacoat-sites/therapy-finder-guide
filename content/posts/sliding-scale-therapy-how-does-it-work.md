@@ -39,8 +39,6 @@ One thing you might be wondering: do I have to prove my income? Sometimes, yes. 
 
 ## Who Offers Sliding Scale, and Where to Find Them
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where people get stuck. "Sliding scale" isn't a directory category the same way "in-network" is. Here's a practical breakdown of where it actually exists:
 
 **Private practice therapists** often quietly offer sliding scale spots without advertising them. You have to ask. Directly, specifically: "Do you have any sliding scale openings?" Many therapists hold a handful of reduced-fee slots for clients who need them, but those spots go to people who ask.

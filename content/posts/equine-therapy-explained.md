@@ -28,10 +28,6 @@ The most widely recognized credentialing framework in the U.S. is through the [P
 
 ## Why Horses, Though
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 I get this question constantly. Why not dogs? (And yes, animal-assisted therapy with dogs is also legitimate and well-studied.) The honest answer is that horses have specific qualities that create a particular kind of therapeutic dynamic.
 
 Horses are prey animals. They're wired to read emotional and physiological cues with remarkable precision because their survival historically depended on detecting threat quickly. They respond to your nervous system, not your words. You can tell yourself you're calm. The horse will know you're not.

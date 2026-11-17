@@ -26,8 +26,6 @@ The structure matters here. This isn't people taking MDMA and hoping for the bes
 
 ## Why the Federal Government Is Moving on This Now
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The executive order is the engine behind this trial's timing. On April 18, 2026, President Trump signed an order titled "Accelerating Medical Treatments for Serious Mental Illness," directing the FDA and HHS to fast-track [psychedelic drug clinical trials](/a-single-dose-lsd-drug-just-beat-every-approved-depression-treatment/). The order specifically cited the veteran suicide rate as a key driver. Veterans die by suicide at a rate more than 1.5 times higher than the general adult population. That's not a new statistic, but it's one that carries real political weight, and in this case it translated into actual policy movement.
 
 The VA is currently involved in 19 active psychedelic therapy clinical trials backed by more than $23 million in external funding, according to the May 27 VA Newsroom release. That's a system that has been quietly building capacity for a moment like this. The executive order appears to have provided the institutional permission to go public and go bigger.

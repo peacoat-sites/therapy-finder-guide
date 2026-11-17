@@ -44,8 +44,6 @@ The therapy typically runs 8-20 sessions depending on the level of distress, tho
 
 ## EFT for Individuals (EFIT) and for Families
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The individual version, officially called Emotionally Focused Individual Therapy or EFIT, draws on the same attachment framework. It looks at how early relational experiences shaped your internal working model of relationships, and how that model may be driving current anxiety, depression, or relational patterns. If you've ever found yourself in therapy talking endlessly about your childhood without it seeming to change anything, EFIT would take a different approach: it's more experiential, focused on what's happening in the body and in the emotional experience in real time during the session.
 
 The research base for EFIT is thinner than for EFT couples work. I don't want to overstate it. There are promising studies, particularly around depression and trauma, but this is an area where more controlled trials are still needed. If you're drawn to attachment-based individual work, ask any prospective therapist directly about their training and what the evidence currently shows. A good therapist won't be defensive about that question.

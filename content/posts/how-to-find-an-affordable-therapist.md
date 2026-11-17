@@ -53,8 +53,6 @@ That last column on online platforms deserves its own section, because the resea
 
 ## Online Therapy: Real Talk
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 BetterHelp works well for some people. Others report cycling through multiple therapists without feeling heard, suggesting the platform's matching process isn't always effective.
 
 What the evidence actually shows is that text-based and video therapy can be effective for depression and anxiety in many cases, and the accessibility is genuinely meaningful for people with transportation barriers or demanding schedules. A 2021 review in World Psychiatry found video therapy outcomes comparable to in-person for common presentations. But the quality controls are weaker than a traditional practice, the matching algorithms are blunt instruments, and some platforms have faced valid criticism for prioritizing engagement over clinical appropriateness.

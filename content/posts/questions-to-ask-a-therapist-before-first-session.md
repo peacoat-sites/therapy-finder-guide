@@ -45,8 +45,6 @@ For example, someone struggling with OCD might spend months with a therapist usi
 
 ## Questions About Their Therapeutic Approach
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 "What kind of therapy do you do?" sounds simple. It's actually the most useful question on this list.
 
 Some therapists practice one approach almost exclusively, CBT, psychodynamic, ACT, EMDR, DBT. Others blend several. Neither is wrong, but you should know what you're walking into, and a good therapist will be able to explain their approach in plain language without making you feel like you're back in Psych 101.

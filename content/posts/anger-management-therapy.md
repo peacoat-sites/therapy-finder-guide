@@ -54,8 +54,6 @@ I've sat with therapists who specialize in this work, and I've noticed something
 
 ## The Different Therapy Approaches Used for Anger
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Anger management therapy isn't one-size-fits-all. Depending on your specific patterns, whether you've experienced trauma, and what else might be going on clinically, a therapist will pull from different toolkits.
 
 **[Cognitive Behavioral Therapy (CBT)](/cognitive-behavioral-therapy-explained/)** has the most research behind it. The basic move: identify the automatic thoughts and twisted beliefs driving your anger. A lot of people who struggle with anger are running beliefs like "I have to retaliate for any disrespect" or "Not fighting back means I'm weak." CBT helps you actually examine these beliefs and ask whether they're helping you or hurting you.

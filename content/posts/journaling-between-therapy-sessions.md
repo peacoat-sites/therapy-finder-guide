@@ -44,8 +44,6 @@ The research on expressive writing is pretty compelling. James Pennebaker, a psy
 
 ## What to actually write about
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most people get stuck. They open a blank page, think "I should write about my feelings," and then feel nothing or everything simultaneously.
 
 Start with specifics, not abstractions. Instead of "I've been anxious this week," try: what happened Tuesday afternoon when you got that text from your mom? What did your chest feel like? What did you do right after? Specificity reveals patterns and connections that general reflection misses.

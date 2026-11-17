@@ -44,8 +44,6 @@ What I'd genuinely recommend: check your state's medical board requirements your
 
 ## What Kind of Therapy Actually Helps
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The research here is somewhat mixed, but a few things stand out.
 
 Cognitive Behavioral Therapy (CBT) has the strongest evidence base for burnout, anxiety, and occupational stress across professions, including healthcare. It's structured, time-limited, and focuses on changing thought patterns that feed distress. For someone with a demanding schedule and limited time, that structure is often a feature, not a limitation.

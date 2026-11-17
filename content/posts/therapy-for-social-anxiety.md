@@ -41,8 +41,6 @@ What makes it particularly tricky is that avoidance feels like relief. You skip 
 
 ## The Therapy Approaches That Actually Work
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all therapy is the same. When it comes to social anxiety specifically, the research is clear about what actually works.
 
 **Cognitive Behavioral Therapy (CBT)** is the gold standard. It's the most researched treatment for social anxiety, with consistent results across decades of studies. CBT works on two levels: the cognitive side targets the distorted thought patterns driving the anxiety ("everyone noticed I stumbled over my words"), and the behavioral side uses structured exposure to gradually reduce avoidance. You don't just talk about your anxiety in CBT. You work with it directly.

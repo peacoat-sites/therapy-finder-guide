@@ -39,8 +39,6 @@ According to the [National Alliance on Mental Illness (NAMI)](https://www.nami.o
 
 ## The Main Types of Therapy Used for Anxiety
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all therapy is created equal. Sitting on a couch talking about your childhood might help with some things, but for anxiety you need specific approaches with actual research behind them. Here's what actually works.
 
 **Cognitive Behavioral Therapy (CBT)** is the most extensively researched treatment for anxiety disorders. The premise is simple: your thoughts, feelings, and behaviors are interconnected. When you think catastrophically (assuming the worst will happen, or believing that anxiety itself means something bad is occurring), you fuel more anxiety. CBT teaches you to spot those patterns, examine them, and swap them for more accurate ones. It also uses behavioral techniques, especially exposure work, where you gradually face what you're afraid of instead of avoiding it.

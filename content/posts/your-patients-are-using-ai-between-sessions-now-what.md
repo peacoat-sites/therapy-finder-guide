@@ -34,10 +34,6 @@ Ninety-four percent of psychologists surveyed said today's chatbots cannot treat
 
 ## The Gap Between Using AI and Getting Help
 
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 You might be wondering: if people are using AI to talk about their mental health, isn't that still better than saying nothing at all? It's a fair question, and the honest answer is: sometimes yes, sometimes no, and the "no" cases are more concerning than we first assumed.
 
 A 2026 KFF survey found that 58% of people who asked AI about a mental health concern did not follow up with a human provider afterward, compared to 42% for physical health questions. That gap matters. For a physical symptom, someone might search online, feel reassured, and reasonably wait it out. Mental health care doesn't work the same way. The relief someone feels after venting to a chatbot can be real enough to reduce urgency, without addressing anything underneath.

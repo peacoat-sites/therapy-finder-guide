@@ -48,8 +48,6 @@ None of these in isolation proves anything. But taken together, and especially i
 
 ## The Grief and Loss Signs (Which Include Things We Don't Call Grief)
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people connect therapy with grief after a death. That's valid, but what surprised me during my time working alongside clinical teams is how often people carry unprocessed loss that they've never labeled as grief because it doesn't fit the recognized mold.
 
 Divorce, obviously. But also: a friendship that quietly collapsed, a career that didn't become what you expected, a health diagnosis that changed what your future looks like, estrangement from family, moving away from a place that felt like home. These losses are real. They create real psychological weight. And because they don't come with a funeral or a casserole from the neighbors, people tend to white-knuckle through them alone.

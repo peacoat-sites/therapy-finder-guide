@@ -28,8 +28,6 @@ The July 2026 APA journal batch actually published a companion paper alongside t
 
 ## The Coverage Situation, Right Now
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where things got genuinely important in the last several months. For a long time, PDTs existed in a reimbursement dead zone: FDA-cleared, clinically validated, and completely uncovered by insurance, which meant the cost fell entirely on patients. That's been changing fast.
 
 In September 2025, Cigna Healthcare announced it would begin covering FDA-approved prescription digital therapeutics, becoming one of the first major commercial insurers to open that door. Then in November 2025, CMS expanded its digital mental health treatment billing codes to include FDA-authorized digital therapeutics for ADHD, with those codes taking effect in 2026. For Medicare patients especially, this is a real shift.

@@ -43,8 +43,6 @@ For example, two people might both feel exhausted and withdrawn, and one might r
 
 ## Side-by-Side: What the Symptoms Actually Look Like
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The overlap between burnout and depression is real, and oversimplifying does harm. That said, certain patterns do distinguish them more often than not.
 
 | Feature | Burnout | Depression |

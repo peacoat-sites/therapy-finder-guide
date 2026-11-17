@@ -43,8 +43,6 @@ I'll admit I used to underestimate this myself. Early in my work alongside clini
 
 ## What Homework Actually Looks Like Across Different Therapy Types
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This varies more than most people expect. Different therapeutic approaches use homework in very different ways, and what sounds daunting in one modality is almost effortless in another.
 
 | Therapy Type | Typical Homework | Time Required | Example Assignment |

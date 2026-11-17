@@ -41,8 +41,6 @@ It's not hypnosis. You're awake, aware, and in control throughout. You don't hav
 
 ## The Conditions EMDR Is Used to Treat
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 PTSD is the flagship application. The American Psychological Association, the World Health Organization, and the Department of Veterans Affairs all recognize EMDR as an evidence-based treatment for post-traumatic stress disorder. That's not a small endorsement list.
 
 But PTSD is just the starting point.

@@ -47,8 +47,6 @@ The point: "the cost of therapy" isn't fixed. It's a variable, and a lot of it i
 
 ## Sliding Scale Therapy: The Option Most People Don't Ask About
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Put your energy here first if cost is the barrier.
 
 Sliding scale fees are exactly what they sound like: the therapist charges you based on your income and financial situation rather than a flat rate. A therapist who normally charges $160 per session might see you for $60 or $70 if your income qualifies. Some community-based therapists slide all the way down to $20 or $30.

@@ -41,8 +41,6 @@ This works well for chronic relationship difficulties, persistent emptiness or l
 
 ## What Is CBT, and Why Is It So Widely Used?
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Cognitive Behavioral Therapy operates on different assumptions. The basic model: how you think affects how you feel, which affects how you behave. Change the thinking, and you change the emotional experience and the behavior.
 
 CBT is structured, time-limited, and skill-focused. A typical course runs 12 to 20 sessions. You and your therapist identify specific thought patterns called cognitive distortions. Catastrophizing ("this will definitely end my career"). Black-and-white thinking. Mind reading ("I know they think I'm stupid"). You learn to spot those thoughts, examine the evidence for and against them, and replace them with more balanced ones.

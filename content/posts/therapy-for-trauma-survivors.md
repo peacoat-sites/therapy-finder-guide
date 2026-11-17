@@ -47,8 +47,6 @@ Understanding this changes everything about how you approach healing. You need a
 
 ## The Main Types of Trauma-Focused Therapy
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all therapy is equally effective for trauma. A skilled therapist won't just have you "talk about it" and hope for the best. Several evidence-based approaches have solid research backing them, and knowing the difference helps you ask better questions when you're looking for care.
 
 **Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)**

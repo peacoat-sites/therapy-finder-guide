@@ -41,8 +41,6 @@ That last point matters more than people realize. Therapeutic alliance (how conn
 
 ## What "Faith-Based Therapy" Actually Means
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The term covers a wider range than most people assume, and conflating the categories gets people into mismatched situations.
 
 At one end, you have **explicitly religious counseling**: pastoral counseling, Christian counseling from licensed therapists, Jewish healing practices, Islamic psychotherapy, spiritually integrated CBT. These actively incorporate scripture, prayer, religious frameworks, or clergy into the therapeutic process. They're not just therapy with a cross on the wall.

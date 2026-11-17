@@ -25,10 +25,6 @@ The VA's announcement describes a study enrolling roughly 80 veterans across two
 
 ## What the Trial Actually Involves
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 You might be wondering what MDMA-assisted therapy actually looks like, because it's not what most people picture. This isn't someone taking a pill and going home. The protocol in this trial includes three preparatory therapy sessions before any MDMA is administered, followed by two full-day sessions where participants receive either MDMA or a placebo alongside trained therapists, and then follow-up integration therapy afterward.
 
 That structure matters. In MDMA-assisted therapy, the drug is used as a tool within a therapeutic context, not as a standalone treatment. The current thinking, based on earlier phase 2 and 3 trials, is that MDMA may temporarily reduce the fear response and defensiveness that often make trauma processing so difficult, allowing patients to engage more openly with therapy. The therapist's role is central throughout.

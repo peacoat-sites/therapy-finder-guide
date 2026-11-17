@@ -46,8 +46,6 @@ For a diagnosis to stick, symptoms have to last more than a month and actually w
 
 ## The First-Line Treatments: Trauma-Focused Therapies
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all therapy works equally well for PTSD. Generic talk therapy where you just describe what happened can sometimes re-traumatize you instead of healing you. The therapies with real research backing them are designed specifically to process traumatic memories safely and change how your brain stores them.
 
 **Cognitive Processing Therapy (CPT)**

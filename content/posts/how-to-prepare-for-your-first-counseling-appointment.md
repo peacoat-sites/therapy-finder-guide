@@ -45,8 +45,6 @@ You don't need a diagnosis. You don't need a clear reason. You don't need notes,
 
 ## The One Thing I Tell Everyone to Do the Night Before
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Write down three things. Not a full history. Not a crisis timeline. Just three sentences or phrases that answer this question: "What do I most want this person to understand about why I'm here?"
 
 It sounds almost too simple, but it's common for people to spend 40 minutes of a 50-minute first session circling around something they never quite name, then leave feeling like the therapist didn't "get" them. The therapist was doing their job. The client just hadn't given themselves permission to say the hard part out loud first.

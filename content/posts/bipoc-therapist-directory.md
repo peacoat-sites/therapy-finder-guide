@@ -39,8 +39,6 @@ Finding someone who gets it is sometimes framed as a preference or luxury. It's 
 
 ## The Directories Worth Knowing
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, there are several well-maintained BIPOC therapist directories, and they are not all built the same way. Here's a practical breakdown:
 
 | Directory | Focus | Cost to Search | Notes |

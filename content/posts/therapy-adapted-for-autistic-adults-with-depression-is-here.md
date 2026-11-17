@@ -28,8 +28,6 @@ What most people don't realize is that therapists themselves have been stuck. Ad
 
 ## What the New IPT Adaptation Actually Does
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 IPT is a structured, time-limited therapy focused on improving interpersonal relationships as a way to relieve depression. The core idea is that depression doesn't happen in a vacuum, it's connected to grief, life transitions, role conflicts, and social isolation. A 2026 meta-analysis published in the *Annual Review of Clinical Psychology* confirmed IPT shows "moderate to large effects" in treating depression across both adults and adolescents, which makes it a strong candidate for adaptation rather than something to replace wholesale.
 
 The new framework, published in [*American Journal of Psychotherapy* Volume 79, Issue 2](https://psychiatryonline.org/doi/10.1176/appi.psychotherapy.20240069), targets autistic individuals with verbal skills suitable for brief psychotherapy. That qualifier matters. This isn't a one-size-fits-all solution for every autistic person, it's a carefully scoped starting point for a specific subgroup who previously had very few options.

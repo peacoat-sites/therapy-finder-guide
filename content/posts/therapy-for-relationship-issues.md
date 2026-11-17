@@ -41,8 +41,6 @@ Individual therapy for relationship issues is genuinely underrated. A lot of peo
 
 ## The Major Therapy Approaches Used for Relationship Work
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The research here is genuinely interesting, more nuanced than most articles make it sound.
 
 **[Emotionally Focused Therapy (EFT)](/emotionally-focused-therapy-eft/)**, developed by Dr. Sue Johnson, is probably the most well-researched couples therapy approach out there. Around 70-75% of couples report significant improvement after EFT, with follow-up research suggesting those gains stick. It's based on attachment theory: most relationship conflict is really about deeper needs for emotional connection that aren't being heard. The fights about dishes or money or parenting almost never actually are about those things.

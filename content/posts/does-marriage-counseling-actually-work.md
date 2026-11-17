@@ -52,8 +52,6 @@ So yes, couples therapy works. The catch: most studies track outcomes at 3-6 mon
 
 ## When Counseling Tends Not to Work
 
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is what nobody wants to say clearly, so I will.
 
 Marriage counseling doesn't work when one partner has already mentally left and hasn't told anyone, sometimes not even themselves. Therapists call this a "secret exit." The person shows up, sessions feel stuck or performative, and six months later someone files papers. If you're sitting in a therapist's office wondering whether your partner even wants to be there, that's worth naming out loud. Good therapists will ask directly.

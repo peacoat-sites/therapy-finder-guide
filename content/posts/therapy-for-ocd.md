@@ -43,8 +43,6 @@ One more thing worth saying clearly: having intrusive thoughts does not make som
 
 ## The Gold Standard: Exposure and Response Prevention
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you take one thing away from this article, make it this: **Exposure and Response Prevention (ERP)** is the most evidence-supported therapy for OCD available today. Every major clinical guideline names it as first-line psychological treatment.
 
 ERP is a specialized form of cognitive behavioral therapy. You can read more about CBT's broader applications in our [cognitive behavioral therapy explained](/cognitive-behavioral-therapy-explained/) guide, but ERP takes the principles in a specific direction. The basic idea: you gradually, deliberately expose yourself to the situations or thoughts that trigger obsessions, and then you resist performing the compulsion. You sit with the anxiety instead of escaping it.

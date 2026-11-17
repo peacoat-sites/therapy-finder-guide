@@ -38,8 +38,6 @@ Enrollment is expected to complete by late 2026, with preliminary results potent
 | Expected enrollment completion | Late 2026 | ~80 participants targeted |
 | Preliminary results expected | 2027 | Timeline for initial outcome data |
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 To understand why this trial is happening now, you have to back up to August 2024. That's when the FDA declined to approve MDMA-assisted therapy for PTSD, citing concerns about trial design and safety data from MAPS PBC's earlier research. It was a significant setback for advocates who had hoped the treatment would be moving toward broad clinical availability.
 
 Fast forward to April 2026. President Trump signed an executive order titled "Accelerating Medical Treatment for Serious Mental Illness," directing the FDA and HHS to fast-track evaluation of psychedelic therapies. The order explicitly cited the veteran suicide rate, which runs more than 1.5 times higher than the rate among the general adult population. That context matters. The executive order didn't change the FDA's prior decision or reschedule MDMA, but it created political and institutional pressure for agencies to move. The VA trial, which began enrollment just weeks later, is the most concrete result of that pressure so far.
@@ -70,10 +68,10 @@ This is still early. The research has to hold up. But I've followed enough treat
 
 ## Sources
 - [VA Launches MDMA-Assisted Mental Health Therapy Trial](https://news.va.gov/press-room/va-launches-mdma-assisted-mental-health-therapy-trial/) (June 15, 2026)
-- [VA Launches Clinical Trial Using Hallucinogen to Treat PTSD and Alcohol Addiction in Veterans , Stars and Stripes](https://www.stripes.com/veterans/2026-06-02/ptsd-clinical-trial-mdma-va-21852986.html) (June 2, 2026)
-- [What the VA's New MDMA-Assisted Therapy Trial Signals for Providers , Behavioral Health Business](https://bhbusiness.com/2026/05/28/what-the-vas-new-mdma-assisted-therapy-trial-signals-for-providers/) (May 28, 2026)
-- [VA First Federal MDMA-Assisted Therapy Trial for Veterans , Rainier Rehab](https://rainierrehab.org/blog/2026-05-27-va-mdma-therapy-trial-veterans) (May 27, 2026)
-- [ClinicalTrials.gov , NCT07118839: MDMA-Assisted Therapy for Veterans With PTSD and AUD](https://clinicaltrials.gov/study/NCT07118839) (May 2026)
+- [VA Launches Clinical Trial Using Hallucinogen to Treat PTSD and Alcohol Addiction in Veterans, Stars and Stripes](https://www.stripes.com/veterans/2026-06-02/ptsd-clinical-trial-mdma-va-21852986.html) (June 2, 2026)
+- [What the VA's New MDMA-Assisted Therapy Trial Signals for Providers, Behavioral Health Business](https://bhbusiness.com/2026/05/28/what-the-vas-new-mdma-assisted-therapy-trial-signals-for-providers/) (May 28, 2026)
+- [VA First Federal MDMA-Assisted Therapy Trial for Veterans, Rainier Rehab](https://rainierrehab.org/blog/2026-05-27-va-mdma-therapy-trial-veterans) (May 27, 2026)
+- [ClinicalTrials.gov, NCT07118839: MDMA-Assisted Therapy for Veterans With PTSD and AUD](https://clinicaltrials.gov/study/NCT07118839) (May 2026)
 
 ---
 

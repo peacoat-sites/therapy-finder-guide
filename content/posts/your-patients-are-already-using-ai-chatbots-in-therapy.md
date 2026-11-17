@@ -39,8 +39,6 @@ The problem isn't that people are finding comfort in these tools. The problem is
 
 ## What Therapists Are Actually Worried About
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Ninety-four percent of psychologists surveyed expressed concern about some of their patients' chatbot use. That's not a fringe reaction from a few technophobes. That's near-unanimous concern from working clinicians who are watching this play out in real time across their caseloads.
 
 The specific risks they flagged are worth understanding rather than dismissing. Dependency is one. AI chatbots are designed to be engaging and responsive, and some people find them easier to open up to than a human. That's not always a gateway to better human connection; sometimes it replaces the uncomfortable, productive friction of doing that work with an actual person. Distorted thinking is another risk. A chatbot that affirms everything you say, or that subtly reflects your existing beliefs back at you without challenge, isn't doing what good therapy does. And then there's the self-diagnosis problem: 39% of psychologists have seen patients arrive at clinical labels for themselves via AI, which can be anywhere from mildly inaccurate to genuinely harmful depending on what they do with that label next.

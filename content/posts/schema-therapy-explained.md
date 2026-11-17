@@ -51,8 +51,6 @@ Schema therapy also introduced the concept of "schema modes," which are emotiona
 | EMDR | 6-12 sessions typical | Traumatic memories and processing | Bilateral stimulation, memory processing |
 | Somatic Therapy | Variable | Mind-body connection and trauma | Body awareness, movement, somatic techniques |
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where schema therapy diverges most noticeably from other approaches, and honestly, it's where I think it earns its reputation.
 
 The therapy works on three levels simultaneously: cognitive (examining the beliefs), behavioral (changing the patterns), and experiential (actually *feeling* differently through techniques like imagery rescripting and chairwork). That last category is the one that surprises people.

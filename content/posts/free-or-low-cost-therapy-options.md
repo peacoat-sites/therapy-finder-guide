@@ -43,8 +43,6 @@ To find the center nearest you, SAMHSA's treatment locator at [findtreatment.gov
 
 ## University Training Clinics
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This one surprises people, and I understand the hesitation. A therapist-in-training? That sounds like a downgrade.
 
 Actually, the evidence on this is worth knowing. A 2008 meta-analysis published in the *Journal of Counseling Psychology* found that therapy outcomes for clients at training clinics were not significantly different from outcomes in standard outpatient settings. The students are closely supervised by licensed clinicians, often reviewing session recordings together weekly. In some ways you get more scrutiny of your care, not less. And the price is usually $0 to $30 per session on a sliding scale.

@@ -34,10 +34,6 @@ The APA's advisory was unambiguous: generative AI should not be used for psychot
 
 ## Why Self-Diagnosis via Chatbot Is a Specific Problem
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Chatbots are not designed to interpret psychological assessments or diagnose conditions. That sentence sounds obvious until you realize that the design limitations don't stop people from asking, and the models don't always decline clearly.
 
 A language model will generate a response that sounds authoritative because that's what it's built to do. It pattern-matches across enormous amounts of text and produces something coherent and confident. Coherent and confident, though, is not the same as clinically accurate, and it's especially unreliable when the input is a user describing their own symptoms in casual language.
@@ -81,9 +77,9 @@ The APA's advisory doesn't mean technology is the enemy of mental health care. I
 
 ## Sources
 
-- [APA 2026 Chatbots and Mental Health Survey ,  Patients Are Bringing AI to Therapy](https://www.apa.org/pubs/reports/chatbots-mental-health-2026) (Late June 2026)
-- [American Psychological Association Warns Against AI Therapy ,  Good Men Project](https://goodmenproject.com/featured-content/american-psychological-association-warns-against-ai-therapy/) (July 9, 2026)
-- [Many People Are Turning to AI Chatbots for Mental Health Support ,  Earth.com](https://www.earth.com/news/millions-of-people-are-turning-to-ai-chatbots-for-mental-health-support/) (Late June 2026)
+- [APA 2026 Chatbots and Mental Health Survey, Patients Are Bringing AI to Therapy](https://www.apa.org/pubs/reports/chatbots-mental-health-2026) (Late June 2026)
+- [American Psychological Association Warns Against AI Therapy, Good Men Project](https://goodmenproject.com/featured-content/american-psychological-association-warns-against-ai-therapy/) (July 9, 2026)
+- [Many People Are Turning to AI Chatbots for Mental Health Support, Earth.com](https://www.earth.com/news/millions-of-people-are-turning-to-ai-chatbots-for-mental-health-support/) (Late June 2026)
 
 ---
 

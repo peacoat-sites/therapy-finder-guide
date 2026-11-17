@@ -34,10 +34,6 @@ Compass Health Center expanded its Summer 2026 PHP and IOP programs specifically
 
 ## Who They're Actually Built For
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Grow Therapy's 2026 State of Mental Health Report found that anxiety and stress (34%), depression (15%), and trauma (9%) top the reasons people seek therapy. Those three categories map reasonably well onto intensive formats, but they don't map equally.
 
 Trauma and PTSD have the strongest research base for intensive treatment. Condensed EMDR programs in particular have published data showing equivalent or better outcomes versus weekly EMDR when trauma is the primary issue. OCD responds well to intensive Exposure and Response Prevention (ERP) for similar reasons: graduated exposure works better without week-long gaps that let avoidance patterns re-consolidate.

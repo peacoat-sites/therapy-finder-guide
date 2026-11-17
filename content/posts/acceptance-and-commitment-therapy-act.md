@@ -48,8 +48,6 @@ That's pretty different from Cognitive Behavioral Therapy, which zeroes in on fi
 
 ## The Six Core Processes of ACT
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ACT isn't just a grab bag of random techniques. It's built on six connected psychological skills. Therapists call it the ACT hexaflex, and they all point toward what ACT calls "psychological flexibility": the ability to stay present and act on what matters to you even when discomfort shows up.
 
 **1. Acceptance**

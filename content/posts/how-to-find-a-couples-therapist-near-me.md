@@ -43,8 +43,6 @@ The real upside of telehealth: it expands your geographic pool. Instead of filte
 
 ## The Different Types of Couples Therapy (And Why It Matters Who You Choose)
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most articles gloss over this part, and that's a mistake. Not all couples therapy is the same. The approach your therapist uses is one of the most significant variables in whether therapy actually helps.
 
 **[Emotionally Focused Therapy (EFT)](/emotionally-focused-therapy-eft/):** Developed by Dr. Sue Johnson, EFT is the most extensively researched couples therapy approach out there. It works from attachment theory, the idea that most relationship conflict is really about fears of abandonment, disconnection, and not being enough. Studies consistently show meaningful improvement, particularly for couples dealing with distress, affairs, or chronic conflict. If your fights follow the same loop repeatedly, EFT is worth specifically seeking out.

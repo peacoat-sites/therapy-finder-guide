@@ -49,8 +49,6 @@ Not all therapy is equal for combat trauma. "Just talking about it" with a gener
 
 One real caveat: therapy type matters less than therapist quality and your own commitment. A skilled therapist doing supportive counseling will often outperform a mediocre one running a structured manual.
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Finding a Therapist Outside the VA
 
 Going outside the VA system? [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by specialty, insurance, and treatment approach. Filter for "PTSD," "military," or "trauma" and look for clinicians who list CPT or PE as specific modalities. "Trauma-informed care" alone has become a catch-all phrase that means almost nothing.

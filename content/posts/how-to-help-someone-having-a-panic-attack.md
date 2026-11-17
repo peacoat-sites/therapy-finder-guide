@@ -41,8 +41,6 @@ Why does this matter for you? Because it explains why saying "calm down" or "you
 
 ## What to say (and what kills it)
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people rush to reassure. "You're okay! It's just anxiety! This will pass!" All true. Completely useless in the first 30 seconds. It signals that *you're* uncomfortable and want this to stop, which the panicking person reads immediately.
 
 What actually works is quieter. Get at or below their eye level. Steady voice. Slow your own breathing visibly, because humans unconsciously mirror each other.

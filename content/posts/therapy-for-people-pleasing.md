@@ -51,8 +51,6 @@ Many people can articulate boundary problems perfectly after extensive reading, 
 | EMDR | Processing trauma memories tied to fawn response | Varies | Identifiable trauma; paired with relational work |
 | Acceptance and Commitment Therapy (ACT) | Values clarification and psychological flexibility | Varies | Clarifying personal values; reducing emotional reactivity |
 
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all approaches are equally useful here, and I'd rather just rank them than pretend they're all equivalent.
 
 **Cognitive Behavioral Therapy (CBT)** is typically the starting point, and it earns that position. It's good at identifying the specific thoughts driving people-pleasing behavior: "If I disappoint them, they'll leave." "My needs are less important than theirs." "Conflict always ends badly." CBT helps you test those beliefs against reality and build new behavioral patterns. A 2017 meta-analysis in *Behaviour Research and Therapy* found CBT produced significant reductions in submissive behavior across social anxiety populations, which overlaps heavily with people pleasing. Timeframe is usually 12 to 20 sessions for measurable change.

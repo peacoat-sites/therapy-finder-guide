@@ -39,8 +39,6 @@ You might be wondering whether you need counseling if the divorce was your choic
 
 ## The types of therapy that actually help
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I'll be direct, because a lot of people pick a therapist without any framework and end up frustrated.
 
 For divorce and separation specifically, a few modalities have real evidence behind them:

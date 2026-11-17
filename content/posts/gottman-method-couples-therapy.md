@@ -48,8 +48,6 @@ A trained Gottman therapist watches for these four patterns, interrupts them in 
 
 ## How a Gottman Session Actually Works
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you walk into a Gottman-trained therapist's office expecting to sit on a couch while the therapist asks open-ended questions about your childhood, you'll be confused.
 
 A typical first session includes an assessment called the "Couples Therapy Intake," which is more structured questionnaire than conversation. The therapist wants to know your history, what's broken, what you've tried before. But they're also listening for which Horsemen appear in how you describe the problem. Do you blame each other? Where's the contempt in your language? Do you cut each other off? The assessment takes about 90 minutes.

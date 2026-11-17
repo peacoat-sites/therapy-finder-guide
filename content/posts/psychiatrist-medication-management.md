@@ -45,8 +45,6 @@ One detail that only becomes obvious after you've sat in on a few of these appoi
 
 ## How Psychiatric Medications Get Chosen
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering whether there's a test that tells your psychiatrist exactly which medication to prescribe. The honest answer is: sort of, but not really.
 
 Genetic pharmacology testing, products like GeneSight or Genomind, can tell a psychiatrist how your body metabolizes certain drugs. These tests look at liver enzymes like CYP2D6 and CYP2C19, which affect how quickly you break down medications like SSRIs, tricyclics, and some antipsychotics. Insurance coverage for this testing is inconsistent in 2026, often running $300 to $2,000 out of pocket if not covered. These tests tend to be most useful for patients who've had unexpected reactions to medications in the past, rather than as a first-line tool for everyone.

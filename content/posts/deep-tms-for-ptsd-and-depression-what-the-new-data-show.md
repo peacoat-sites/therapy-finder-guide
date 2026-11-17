@@ -33,10 +33,6 @@ What surprised me, digging into this, was how little attention the comorbidity a
 | Standard TMS | Not cleared | Not specified in study | Established efficacy | Figure-eight coil, targets cortical regions |
 | MDMA-Assisted Therapy | Under VA trial | Under investigation | Under investigation | Psychopharmacological + psychotherapeutic approach |
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's where I'll be honest about something that can feel frustrating to patients who are suffering right now. BrainsWay holds FDA clearance for major depressive disorder, anxiety symptoms associated with depression, OCD, and smoking addiction. PTSD is not on that list. That regulatory gap has real consequences.
 
 When a treatment isn't FDA-cleared for a specific condition, insurance coverage becomes a serious obstacle. Providers who want to use it off-label face higher liability exposure. And clinical guidelines, which shape how most psychiatrists and therapists practice, don't change until research clears a much higher bar than a conference poster presentation. These findings were presented as exactly that: a poster, not yet a peer-reviewed published trial. The BrainsWay press release itself was transparent about this being preliminary data, and that distinction matters. Preliminary doesn't mean wrong. It means the scientific community hasn't fully vetted it yet.
@@ -64,7 +60,7 @@ The next step for BrainsWay will likely involve submitting this data as part of 
 ## Sources
 
 - [New Positive Data From Largest Real-World Study of Deep TMS in Patients With Comorbid PTSD and MDD](https://www.psychiatrictimes.com/view/new-positive-data-from-largest-real-world-study-of-deep-tms-in-patients-with-comorbid-ptsd-and-mdd) (Psychiatric Times, June 29, 2026)
-- [BrainsWay Ltd. Current Report (Foreign Issuer) ,  Globe Newswire Press Release via StockTitan](https://www.stocktitan.net/sec-filings/BWAY/6-k-brainsway-ltd-current-report-foreign-issuer-4eb34296d65b.html) (BrainsWay/NASDAQ: BWAY, June 29, 2026)
+- [BrainsWay Ltd. Current Report (Foreign Issuer), Globe Newswire Press Release via StockTitan](https://www.stocktitan.net/sec-filings/BWAY/6-k-brainsway-ltd-current-report-foreign-issuer-4eb34296d65b.html) (BrainsWay/NASDAQ: BWAY, June 29, 2026)
 - [BrainsWay reports Deep TMS PTSD and depression data](https://grafa.com/en/news/united-states/brainsway-deep-tms-ptsd-depression-real-world-data) (Grafa, June 29, 2026)
 
 ---

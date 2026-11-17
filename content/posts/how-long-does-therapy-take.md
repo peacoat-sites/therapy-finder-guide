@@ -50,8 +50,6 @@ What the data does suggest: the first 8 to 12 sessions are often the most tellin
 | EMDR | 6-12 sessions (single-incident trauma) | Single-incident trauma (car accident, specific assault) | Longer for complex/repeated trauma | 
 | Psychodynamic Therapy | Varies, often years | Unconscious patterns, early relationship patterns | No predetermined timeline, deep exploratory work |
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where the picture gets genuinely interesting, because different therapeutic modalities are literally designed with different time horizons in mind.
 
 **Cognitive Behavioral Therapy (CBT)** is the most researched short-term approach. For conditions like panic disorder, specific phobias, or mild to moderate depression, structured CBT protocols typically run 12 to 20 sessions. The model is skills-based. You learn to identify distorted thought patterns, practice challenging them, and gradually change behaviors. It's structured enough that many CBT workbooks, like [The Cognitive Behavioral Workbook for Anxiety by William Knaus](https://www.amazon.com/s?k=cognitive+behavioral+workbook+anxiety&tag=contentportfo-20), can supplement your sessions meaningfully. (Heads up: this site may earn a small commission on purchases through links like that one.)

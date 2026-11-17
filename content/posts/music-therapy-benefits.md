@@ -43,8 +43,6 @@ Sessions involve active techniques: songwriting, lyric analysis, improvisation, 
 
 ## The Research Is Better Than Most People Realize
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I get a little opinionated: the evidence base for music therapy is genuinely solid in specific areas, and the general public doesn't know this because music therapy doesn't have a pharmaceutical company funding its PR.
 
 Take pain management. A Cochrane Review (that's the gold standard for evidence synthesis) found that music interventions reduced pain intensity in postoperative patients by 0.5 to 1.0 points on a 10-point scale. That's a modest effect on its own, but in practice it translated to meaningfully lower opioid consumption in several of the included trials. For [chronic pain](/therapy-for-chronic-pain/) populations, where opioid dependency is a real and present danger, that's not a small finding.

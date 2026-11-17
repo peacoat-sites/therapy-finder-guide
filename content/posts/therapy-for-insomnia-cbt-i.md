@@ -53,8 +53,6 @@ Here's what I tell people who are skeptical: the reason CBT-I works is that it's
 
 ## The Timeline and What to Actually Expect
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A standard CBT-I course runs 6-8 weekly sessions, each about 50-60 minutes. Some therapists do a compressed version in four sessions; some programs run ten. The research tends to cluster around six sessions as the sweet spot for most people.
 
 Week one is often the roughest. Sleep restriction, if you're doing it properly, means you may feel genuinely tired during the day for the first five to ten days. I always tell people: that daytime tiredness is the treatment working. It's building the biological drive to sleep that chronic insomnia has eroded. Most people start seeing meaningful improvement by weeks three or four, with continued gains through the end of the program and beyond.

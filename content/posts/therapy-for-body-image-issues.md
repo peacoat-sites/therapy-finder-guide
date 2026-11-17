@@ -75,8 +75,6 @@ A lot of therapists working on body image assign homework, and it's worth taking
 
 If you're in acute distress, the 988 Suicide and Crisis Lifeline (988lifeline.org) is available 24/7 by call or text, not only for suicidality but for any mental health crisis.
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Sources & References
 
 - [SAMHSA, Mental Health Information](https://www.samhsa.gov/mental-health), supports mental health treatment approaches and early intervention benefits

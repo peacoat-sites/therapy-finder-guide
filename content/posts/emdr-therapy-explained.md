@@ -39,8 +39,6 @@ That recognition matters because EMDR isn't a fringe modality or a wellness tren
 
 ## The Theory Behind Why It Works
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Why moving your eyes back and forth while recalling a painful memory would help anything, that's the part that confuses a lot of people, including some clinicians who haven't worked directly with it.
 
 The leading explanation comes from Shapiro's Adaptive Information Processing model. Traumatic memories don't get stored the way ordinary memories do. A normal memory gets processed, filed, contextualized. You remember your first day at a new job as something that happened, not something happening right now. Traumatic memories, especially ones laid down during overwhelming experiences, get "frozen" in an unprocessed state. They stay fragmented, emotionally raw, stored with all the original sensations, images, and beliefs intact.

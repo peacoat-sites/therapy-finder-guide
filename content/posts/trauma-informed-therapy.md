@@ -43,8 +43,6 @@ What it doesn't mean: your therapist will let you avoid hard conversations indef
 
 ## The Difference Between Approaches (and Why It Matters for You)
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are several specific therapies that fall under the trauma-informed umbrella. They're not interchangeable, and choosing the wrong one for your situation is a real thing that happens. Here's an honest comparison:
 
 | Approach | Best for | Session structure | Evidence level | Typical cost range (US, 2026) |

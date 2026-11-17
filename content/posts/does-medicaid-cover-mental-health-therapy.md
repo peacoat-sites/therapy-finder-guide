@@ -50,8 +50,6 @@ Traditional fee-for-service Medicaid and Medicaid managed care plans are both bo
 
 ## What You'll Actually Pay
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most Medicaid enrollees pay very little out of pocket for mental health services. For people below 150% of the federal poverty level, copays are generally prohibited under federal rules. For enrollees with slightly higher incomes still within Medicaid eligibility, states can charge nominal copays, but federal law caps these. As of July 2026, that cap sits at $4 per visit for outpatient services, though many states charge nothing at all.
 
 Many people newly enrolled in Medicaid assume therapy will still carry significant out-of-pocket costs. In fact, Medicaid often covers therapy with no copay, and weekly sessions with a licensed clinical social worker can be fully covered. Prescription costs through Medicaid are often minimal as well, sometimes just a few dollars per medication.

@@ -52,8 +52,6 @@ Get connected with a clinician who lists first responder experience specifically
 
 ## The Therapies That Actually Work (and the Evidence Behind Them)
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all therapy modalities are equal for trauma, and the research on this is pretty settled at this point.
 
 **EMDR (Eye Movement Desensitization and Reprocessing)** consistently shows up as one of the most effective treatments for first responder PTSD. A 2021 meta-analysis published in the *Journal of Anxiety Disorders* reviewed 26 randomized controlled trials and found EMDR produced significant reductions in PTSD symptom severity, often in fewer sessions than traditional talk therapy. For someone who can't take six months off the job to do deep therapeutic work, that matters.

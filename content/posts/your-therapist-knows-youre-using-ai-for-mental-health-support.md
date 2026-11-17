@@ -37,10 +37,6 @@ The AI isn't malicious. It's just not built for this. The distinction matters be
 | Psychiatrists supporting age restrictions on AI mental health chatbots | 78% | APA survey (April 2026) |
 | Psychiatrists wanting FDA clearance required for AI mental health apps | 77% | APA survey (April 2026) |
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Ninety-four percent of psychologists surveyed expressed concern about some of their patients engaging with chatbots, specifically emphasizing the risk of relying on AI as a sole mental health resource. That's not a professional guild protecting turf. That number is high enough to take seriously on its own terms.
 
 The concerns cluster around a few specific issues. First, [therapeutic alliance](/your-patients-are-already-using-ai-chatbots-in-therapy/), which is the research-backed relationship between therapist and client that predicts treatment outcomes better than almost any other variable. When a patient is getting emotionally significant responses from an AI between sessions, and especially when they're not disclosing that, it can subtly compete with the therapeutic relationship without either party fully understanding why. Second, crisis recognition. A licensed clinician is trained to notice when something has escalated and to act on it. A chatbot, even a well-designed one, doesn't carry that responsibility the same way, and the consequences of missing a crisis signal are not equivalent.

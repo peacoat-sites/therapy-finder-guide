@@ -31,10 +31,6 @@ Both behaviors are understandable. Neither is clinically safe as a default.
 
 ## The Sycophancy Problem Clinicians Are Most Worried About
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Ninety-four percent of psychologists in the APA survey expressed concerns about patients relying on chatbots, and one of the recurring issues is what the field is starting to call "sycophantic validation."
 
 Here's what that looks like in practice. You describe a conflict with your partner. A good therapist might reflect your feelings, then gently probe whether your read of the situation is complete. A chatbot optimized for user engagement will, by design, tend to affirm your perspective. It keeps you talking. It feels supportive. It also means you may walk away more entrenched in a distorted belief than when you started.
@@ -73,10 +69,10 @@ The clinical conversation about AI and mental health isn't settling down anytime
 
 ## Sources
 
-- [APA 2026 Chatbots and Mental Health Survey ,  "Patients Are Bringing AI to Therapy"](https://www.apa.org/pubs/reports/chatbots-mental-health-2026) (June-July 2026)
-- [APA ,  Discussing AI Use in Therapy](https://www.apa.org/topics/artificial-intelligence-machine-learning/discussing-ai-use-therapy) (June 2026)
+- [APA 2026 Chatbots and Mental Health Survey, "Patients Are Bringing AI to Therapy"](https://www.apa.org/pubs/reports/chatbots-mental-health-2026) (June-July 2026)
+- [APA, Discussing AI Use in Therapy](https://www.apa.org/topics/artificial-intelligence-machine-learning/discussing-ai-use-therapy) (June 2026)
 - [APA Health Advisory: Use of Generative AI Chatbots and Wellness Applications for Mental Health](https://www.apa.org/topics/artificial-intelligence-machine-learning/health-advisory-chatbots-wellness-apps) (June 2026)
-- [APA Member Survey ,  AI Use in Psychiatric Practice](https://www.psychiatry.org/news-room/news-releases/survey-of-apa-members-about-ai-use-in-practice) (April 2026)
+- [APA Member Survey, AI Use in Psychiatric Practice](https://www.psychiatry.org/news-room/news-releases/survey-of-apa-members-about-ai-use-in-practice) (April 2026)
 
 ---
 

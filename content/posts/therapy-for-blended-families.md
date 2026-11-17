@@ -48,8 +48,6 @@ The Stepfamily Foundation and the National Stepfamily Resource Center both train
 
 ## What the Research Actually Shows (And What It Doesn't)
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The research on blended families is honest about how hard this is. Stepfamily systems take, on average, four to seven years to stabilize, according to longitudinal data from family researchers including Patricia Papernow, whose work on stepfamily development is probably the most rigorous in the field. That's not four to seven years of misery. It's four to seven years of gradual integration, with a lot of variation depending on the ages of the children, the relationship with the other biological parent, and how the couple handles conflict.
 
 What the research also shows, somewhat counterintuitively, is that the couple relationship is the engine of the whole system. A 2015 study in the *Journal of Family Psychology* found that stepfamily cohesion was far more predicted by the quality of the couple's alliance than by any direct relationship between stepparent and stepchildren. Which means, practically speaking: couple therapy may matter more than family therapy, at least in the early years.

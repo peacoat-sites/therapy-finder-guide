@@ -43,8 +43,6 @@ The other common mistake: using a divorce attorney as a de facto therapist. I he
 
 ## What Kind of Therapy Actually Works
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all approaches are equally supported by evidence for divorce-specific distress. Here's what the research actually says, without the usual hand-waving:
 
 **Cognitive Behavioral Therapy (CBT)** is the most researched and the one I'd recommend starting with for most people. It's structured, typically 12-20 sessions, and it directly targets the thought distortions that run wild during divorce: catastrophizing, black-and-white thinking, rumination. A 2021 meta-analysis in *Clinical Psychology Review* found CBT reduced depression scores by an average of 46% in recently separated adults. That's a meaningful number.

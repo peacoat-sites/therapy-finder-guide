@@ -44,8 +44,6 @@ There's endless noise online about therapy types. I'll be direct about what has 
 
 The research across these approaches is solid. But here's what actually matters more: no therapy works for everyone, and the specific modality matters less than the therapist. A mediocre CBT practitioner will underperform a skilled ACT therapist, and vice versa.
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## What to Actually Look For in a Therapist
 
 Most advice here fails people. Everyone says "find someone you connect with," which is true but useless when you don't know what you're walking into.

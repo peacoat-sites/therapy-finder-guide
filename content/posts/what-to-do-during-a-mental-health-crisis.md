@@ -41,8 +41,6 @@ For everything else, read on.
 
 ## The First 10 Minutes
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Panic narrows your thinking. That's not a character flaw; it's neuroscience. When the brain floods with stress hormones, the prefrontal cortex, the part that makes plans, partially goes offline. So the goal in the first 10 minutes isn't to solve anything. It's to stop the spiral from accelerating.
 
 One concrete thing: breathing. Specifically, making your exhale longer than your inhale. Breathe in for four counts, out for six or eight. This activates the parasympathetic nervous system and can physically slow a panic response within minutes. A 2017 study published in *Frontiers in Psychology* found that slow-paced breathing significantly reduced self-reported anxiety and improved physiological markers of stress. It's not a cure, but it buys you enough ground to think.

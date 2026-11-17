@@ -48,8 +48,6 @@ There's also a newer category worth knowing: psychotherapy delivered via telehea
 
 ## Finding a Therapist Who Actually Gets PPD
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the part that frustrates people most, and understandably. Not every therapist has specific training in perinatal mental health. A well-intentioned therapist without that background might give you generic coping strategies that feel hollow when you're three weeks into the worst experience of your life.
 
 What you want is a therapist who either specializes in perinatal mental health or has significant experience with it. Postpartum Support International (PSI) maintains a provider directory at postpartum.net that filters specifically for perinatal specialists. This is the most targeted starting point I know of. [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) also lets you filter by "postpartum depression" as an issue, and it lists insurance accepted, which saves a lot of phone calls.

@@ -45,8 +45,6 @@ One thing only someone inside this process would notice: the [first session](/qu
 
 ## The Assessment Phase (Phase 3)
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This one is short in clock time but precise in what it does. The therapist helps you bring a specific target memory into focus and identifies several things with clinical exactness:
 
 - The **image** that represents the worst part of the memory

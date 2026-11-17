@@ -43,10 +43,6 @@ The same logic applies to parents. Many parents privately suspect that if the te
 
 ## What Actually Happens in Family Therapy
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 A common misconception is that family therapy means everyone sits in a circle and hashes it out from session one. That's not how good therapists run it. Most start with separate intakes: the parents meet with the therapist, then the teen does, before anyone is in the room together. This lets each party say what they're actually thinking without performing for the other side.
 
 The first joint sessions are usually assessment-focused. The therapist is watching how the family communicates, who holds power, who goes quiet, who escalates, and what topics produce the most heat. That information shapes everything that follows.

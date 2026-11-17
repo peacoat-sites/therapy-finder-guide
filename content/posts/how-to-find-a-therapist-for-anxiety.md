@@ -41,8 +41,6 @@ What most people don't realize is that the phrase "I treat anxiety" on a therapi
 
 ## The evidence behind the treatments
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'm going to be direct: Cognitive Behavioral Therapy (CBT) has by far the strongest research base for anxiety disorders. A 2021 meta-analysis published in *JAMA Psychiatry* looked at 41 randomized controlled trials and found CBT produced significant symptom reduction in 60 to 80 percent of patients with GAD, social anxiety, and panic disorder. That's a wide range, yes, but it's also a remarkably consistent signal across dozens of studies.
 
 Acceptance and Commitment Therapy (ACT) has strong evidence too, particularly for GAD and health anxiety. EMDR gets recommended a lot for anxiety, especially when there's trauma involved, and the research supports it specifically for PTSD-related anxiety, though the evidence for primary anxiety disorders is thinner. Exposure therapies (including ERP for OCD) are consistently rated by clinicians as among the most effective but also the most uncomfortable for patients, which is probably why they're underused.

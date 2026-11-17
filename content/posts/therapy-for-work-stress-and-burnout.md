@@ -37,8 +37,6 @@ What makes burnout particularly tricky is that it mimics other things. Depressio
 
 ## What Therapy for Burnout Actually Looks Like
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering what you'd even talk about in therapy for work stress. The answer is: more than you think, and probably different than you're imagining.
 
 Therapy for burnout isn't about lying on a couch describing your childhood. It's often quite active and skills-based. The most well-researched approach for work stress and burnout is Cognitive Behavioral Therapy, or CBT. CBT works by examining the relationship between thoughts, feelings, and behaviors. For someone who's burned out, that often means looking at patterns like perfectionism, difficulty delegating, [fear of disappointing others](/therapy-for-people-pleasing/), or the belief that your worth is tied entirely to your productivity. Those aren't personal flaws. They're learned patterns that many high-functioning people carry, and they respond well to structured work.

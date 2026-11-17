@@ -43,8 +43,6 @@ Which one is better? The research is close enough that your preference matters m
 
 ## Where EMDR Fits (And Where It Doesn't)
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Eye Movement Desensitization and Reprocessing gets a lot of attention, some of it warranted and some not. EMDR is genuinely effective, particularly for single-incident trauma: a car accident, a specific assault, a one-time medical emergency. The World Health Organization currently recommends it as a first-line treatment alongside trauma-focused CBT, and I don't disagree for those cases.
 
 But here's the thing most articles won't tell you: the evidence for EMDR in complex PTSD (C-PTSD), which often results from prolonged childhood abuse, domestic violence, or repeated institutional trauma, is noticeably thinner. A 2021 review in *European Journal of Psychotraumatology* found effect sizes for EMDR in complex presentations were smaller and less consistent than in single-incident populations. If your trauma is a pattern that lasted years, not a single event, EMDR might be part of a treatment plan, but it probably shouldn't be the whole plan.

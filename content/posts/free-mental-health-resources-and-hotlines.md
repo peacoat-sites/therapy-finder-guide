@@ -57,8 +57,6 @@ Here's what you actually need to know: you don't have to give your name. They wo
 
 ## Free Therapy and Counseling Options That Actually Exist
 
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Beyond crisis support, there's a whole tier of actual therapy options that most people have no idea exists.
 
 **[Community Mental Health Centers](/how-to-find-an-affordable-therapist-near-me/)** might be the single most underused resource in America. These are state-funded clinics that have to provide services whether you can pay or not. They use sliding scale fees, meaning you pay based on your income. If you're at or below the poverty line, it genuinely costs zero. Find your local center at findtreatment.gov using SAMHSA's locator tool.

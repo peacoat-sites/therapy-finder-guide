@@ -43,8 +43,6 @@ During that supervised phase, many LPCs carry a provisional title: LPC-Associate
 
 ## LPCs vs. Other Mental Health Providers
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 | Provider Type | Degree Required | Can Prescribe Meds? | Typical Focus |
 |---|---|---|---|
 | LPC (Licensed Professional Counselor) | Master's | No | Counseling, talk therapy, mental health |

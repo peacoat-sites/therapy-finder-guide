@@ -43,8 +43,6 @@ One thing only someone who's done a lot of referrals would know: most therapists
 
 ## The Major Approaches: A Practical Map
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I want to be actually useful, not just give you a glossary.
 
 **Cognitive Behavioral Therapy (CBT)** is the most studied psychotherapy approach in the world. A 2023 meta-analysis in *Psychological Bulletin* looked at 522 studies and found CBT effective across anxiety disorders, depression, PTSD, eating disorders, and more. If you're dealing with anxiety, panic, or moderate depression, and you want a structured, skills-based approach with homework, CBT is often the right starting point. Sessions typically run 45-50 minutes and you'll leave with something concrete to practice.

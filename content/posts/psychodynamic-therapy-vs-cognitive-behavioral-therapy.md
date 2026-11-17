@@ -31,8 +31,6 @@ What surprised me was how much CBT relies on the assumption that your thoughts a
 
 ## Psychodynamic therapy operates completely differently
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Psychodynamic therapy is descended from psychoanalysis, but it's not lying on a couch for five years. Modern psychodynamic therapy is typically one or two sessions a week for anywhere from six months to a few years, depending on what you're working through.
 
 The core principle is different: your current struggles make sense because of patterns that formed earlier, often outside your conscious awareness. A psychodynamic therapist isn't trying to fix your thoughts. They're trying to help you understand why you think and feel the way you do, where those patterns came from, and what they're doing for you (even the painful ones).

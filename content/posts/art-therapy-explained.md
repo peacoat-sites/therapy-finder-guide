@@ -42,8 +42,6 @@ The theoretical underpinnings draw from psychodynamic theory, attachment theory,
 
 ## Who It's Actually For
 
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering if art therapy is only for people who are "artistic." It's not, and I'd push back hard on that assumption. Many people who benefit most from art therapy have never considered themselves creative. This makes sense. People who rely heavily on language and rational thought may find the experience of making marks without judgment genuinely disorienting. That disruption is often where the therapeutic work occurs.
 
 Art therapy is used clinically with:

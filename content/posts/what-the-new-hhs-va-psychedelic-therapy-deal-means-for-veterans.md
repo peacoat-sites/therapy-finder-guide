@@ -40,10 +40,6 @@ MDMA's path is more complicated. The FDA rejected Lykos Therapeutics' applicatio
 
 ## Why Ibogaine Is Getting the Most Attention
 
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Ibogaine is a psychoactive compound derived from the West African iboga plant. It's been used for decades in unregulated clinics in Mexico and elsewhere, often by veterans who couldn't wait for U.S. regulatory processes. Stanford published a study in 2024 showing meaningful PTSD symptom reduction in Special Operations veterans who received ibogaine treatment in Mexico, which created significant political pressure to study it formally.
 
 The ARPA-H competition for ibogaine research funding, specifically targeting opioid use disorder, adds another dimension. Veterans face disproportionate rates of opioid addiction, often stemming from chronic pain treatment after injuries. If ibogaine can address both PTSD and opioid use disorder, the treatment economics change substantially. That's speculative for now, but it explains why federal investment is concentrating here rather than spreading evenly across all three substances.

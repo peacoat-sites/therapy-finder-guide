@@ -55,8 +55,6 @@ EMDR (Eye Movement Desensitization and Reprocessing) has gotten more mainstream 
 
 For people who want something in between sessions, especially while you're on a waitlist or getting started, there are solid CBT-based workbooks that can help. The Cognitive Behavioral Workbook for Depression by William Knaus (around $18-20 on Amazon) is one I've recommended many times over the years. It's not a replacement for therapy, but it can help you start identifying patterns before you even sit down with a therapist.
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## The practical stuff nobody talks about
 
 Insurance is confusing. The mental health parity laws that are supposed to make mental health coverage equivalent to medical coverage don't always play out that way in practice. Before you book anything, call your insurance company and ask: does my plan cover outpatient mental health, what's my copay, and do I have a deductible I need to meet first?

@@ -49,8 +49,6 @@ The intake process at any reputable IOP should include a clinical assessment tha
 
 ## What a Typical Week Looks Like
 
-> **Helpful resource:** [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Programs run anywhere from three to five days a week, usually three to four hours per session. Morning programs, evening programs, some weekend options. The structure matters because it's the point: repetition, consistency, group accountability.
 
 A standard session might include a check-in with the group, a skills-based group focused on something like cognitive behavioral techniques or distress tolerance, sometimes a psychoeducation component, and a brief close. Individual therapy happens separately, often once a week outside the group schedule or folded into the program depending on how it's structured.

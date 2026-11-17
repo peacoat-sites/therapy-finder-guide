@@ -58,8 +58,6 @@ If you want licensed teletherapy specifically, Talkspace is worth comparing dire
 
 ## What Daily Support Actually Looks Like
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where the confusion starts, because "therapy apps" is actually a catch-all that covers completely different things.
 
 Some apps connect you with human therapists (BetterHelp, Talkspace). Others deliver Cognitive Behavioral Therapy exercises, mood tracking, and psychoeducation with no human involved. There are meditation and mindfulness apps. And then there's AI companion apps, which are their own weird category.

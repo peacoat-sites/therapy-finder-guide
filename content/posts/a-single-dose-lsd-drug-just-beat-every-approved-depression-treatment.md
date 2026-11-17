@@ -39,10 +39,6 @@ Jefferies analysts reviewed the data and stated plainly that DT120 "beat the eff
 
 ## Why "One Dose" Changes the Conversation About Access
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 You might be wondering: what's so different about taking something once versus taking a pill every day? The answer isn't just convenience. It's about who can realistically access a treatment.
 
 One of the more discussed psychedelic-adjacent treatments currently available, esketamine (marketed as Spravato), requires patients to receive the medication in a certified clinical setting, stay for monitoring afterward, and return multiple times. It's expensive, logistically demanding, and not available in most communities. Millions of people with depression can't get to those clinics, can't take time off work, or don't have transportation.

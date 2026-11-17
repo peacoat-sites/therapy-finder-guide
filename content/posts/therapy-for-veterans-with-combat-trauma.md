@@ -43,8 +43,6 @@ There's also the culture problem. And I say this with genuine respect for milita
 
 ## The Therapies That Actually Have Evidence
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me run through what the research actually supports, because there's a lot of noise out there.
 
 **Cognitive Processing Therapy (CPT)** is currently one of the two most recommended treatments in the VA/DoD Clinical Practice Guidelines (updated in 2023). It's a structured 12-session protocol that helps veterans identify and challenge "stuck points," the distorted beliefs that form after trauma (things like "I should have known," or "The world is completely dangerous"). In multiple randomized trials, CPT reduced PTSD Checklist scores by an average of 20-25 points, which is clinically significant. The 12-session structure matters practically: it's finite, which appeals to veterans who hate open-ended commitments.

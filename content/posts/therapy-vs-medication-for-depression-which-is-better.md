@@ -58,8 +58,6 @@ Cost is real. A weekly therapy session in a major city runs $150 to $300 out of 
 
 If you want to start building some CBT skills on your own while you're figuring out next steps, *Mind Over Mood* by Christine Padesky is one of the best self-help resources grounded in actual clinical evidence. It won't replace a therapist, but for mild symptoms, some people find it genuinely useful as a starting point.
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## What medication actually does (and doesn't do)
 
 SSRIs (the class that includes fluoxetine/Prozac, sertraline/Zoloft, escitalopram/Lexapro) are the most commonly prescribed antidepressants, and for good reason: they're reasonably effective, generally well-tolerated, and have decades of safety data. They don't work instantly. Most people need four to six weeks to assess whether a medication is doing anything meaningful, which is its own particular agony when you're suffering now.

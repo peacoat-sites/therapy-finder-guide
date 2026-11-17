@@ -33,8 +33,6 @@ The timing matters. The enhanced Federal Medical Assistance Percentage that help
 | Outpatient therapy | Optional | First to cut | State-dependent |
 | Substance use treatment | Optional | First to cut | State-dependent |
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What most people don't realize is how Medicaid services are categorized. Federal law divides them into mandatory services and optional ones. Inpatient hospital care and physician services are mandatory. Behavioral health services, including outpatient therapy and many substance use treatment programs, are classified as optional. That single word carries enormous consequences when states face budget shortfalls.
 
 When federal dollars shrink, states have to find cuts somewhere. Optional services go first. They're legally easier to reduce, they serve populations with less political power, and the harm is diffuse enough that it takes time to show up in headlines. The APA has been tracking this closely, and their [2026 analysis of new policies affecting mental health access](https://updates.apaservices.org/new-policies-affecting-access-to-mental-health-care) documents exactly this pattern playing out across states already.

@@ -41,8 +41,6 @@ I'll be honest: if you go into this expecting a clean ranking where platform one
 
 ## What the Platforms Actually Offer (And Where They Fall Short)
 
-> **Helpful resource:** [The Mindfulness and Acceptance Workbook for Anxiety](https://www.amazon.com/dp/1572245018?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's roughly how the major players stack up in 2026.
 
 **BetterHelp** is still the largest platform by user count. Plans typically run $240 to $360 per month, billed weekly with subscriptions that include messaging plus live sessions. The therapist network is massive, which helps with wait times and rematching. But matching is algorithm-driven, and the quality variance among therapists is real. You might get someone exceptional; you might spend three weeks waiting to rematch. Their financial aid program exists and is worth applying for if cost is a barrier.

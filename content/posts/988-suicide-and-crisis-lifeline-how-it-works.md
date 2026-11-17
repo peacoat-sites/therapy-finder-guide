@@ -46,8 +46,6 @@ That localization matters more than it sounds. A counselor in your region is mor
 
 ## What Happens When You Call, Text, or Chat
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A lot of people don't call because they don't know what to expect. That uncertainty is a real barrier. So here's the honest walkthrough.
 
 **If you call:** You'll hear a brief recorded message, then be connected to a counselor, usually within a few minutes. The counselor will introduce themselves, ask how you're doing, and let you set the pace. You don't have to explain everything immediately. You don't have to be in acute danger to call. The conversation can be about something that happened today, something you've been carrying for months, a relationship that's collapsing, a feeling you can't name. Counselors are trained to meet you where you are.

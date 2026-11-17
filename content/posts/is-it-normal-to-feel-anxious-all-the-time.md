@@ -45,8 +45,6 @@ Temporary anxiety spikes, sharp and specific, are your threat-detection system d
 
 ## What's Actually Happening in Your Body
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Anxiety isn't just a feeling. Chronic activation of the stress response means your hypothalamic-pituitary-adrenal (HPA) axis is running hot. Cortisol stays elevated. Your cardiovascular system is under consistent low-level strain. Sleep architecture degrades (specifically the deep, restorative Stage 3 NREM sleep, which is where your brain files the day's memories and your immune system does repair work). A 2013 study published in *JAMA Internal Medicine* found that persistent anxiety was associated with a 26% increased risk of fatal coronary heart disease in adults over 65, even after controlling for other risk factors.
 
 That's not meant to scare you. It's meant to make clear that "I'll just live with it" carries a real cost, not a hypothetical one.

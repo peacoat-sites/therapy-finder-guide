@@ -91,8 +91,6 @@ Therapy works best when it extends into your week. If you're working through ide
 
 For general CBT-based self-work alongside therapy, the *Mind Over Mood* workbook by Greenberger and Padesky is one of the most clinically rigorous options in print, though it doesn't center cultural context. Pair it with culturally aware therapy, not instead of it.
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is solid for structured skills practice between sessions. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ---
 
 Finding a therapist who can actually hold the full complexity of who you are isn't a luxury. It's what makes therapy work. The search takes more effort than it should. The mental health system's demographics still don't reflect the population it serves. None of that is your fault. But the questions above will help you cut through the uncertainty faster and spend less time in rooms where you feel like a case study rather than a person.

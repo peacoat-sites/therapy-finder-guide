@@ -37,8 +37,6 @@ DBT isn't primarily a place to process your past. It's a place to learn skills. 
 
 ## The Four Core Skill Modules
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 DBT breaks down into four distinct skill areas. Most comprehensive programs cycle through all four over six months to a year.
 
 **Mindfulness** comes first. Not the kind involving expensive apps or scented candles. In DBT, mindfulness means learning to observe your thoughts and feelings without immediately reacting to them. It's the foundation. You can't regulate an emotion you haven't noticed yet.

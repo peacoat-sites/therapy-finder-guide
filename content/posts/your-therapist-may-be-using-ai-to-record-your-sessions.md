@@ -32,10 +32,6 @@ The appeal for therapists is real and worth acknowledging. Documentation is a ge
 
 ## The Data Problem Is More Specific Than "Privacy Concerns"
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's what most coverage glosses over: when a HIPAA-compliant AI tool records a therapy session, the audio doesn't just stay between you and your therapist. It gets transmitted to a private tech company's servers, transcribed, and processed there. Your trauma history, your diagnoses, the thing you finally said out loud for the first time, all of it sits with a third party you've never heard of and almost certainly never consented to share with.
 
 "HIPAA-compliant" is doing a lot of work in those vendor marketing materials. HIPAA compliance means a company has agreed to certain data handling standards. It doesn't mean your data is invulnerable, it doesn't mean it can't be used for model training under certain contract terms, and it doesn't mean you have meaningful visibility into who at that company can access your file. Patients in online therapy communities, including Reddit, have been raising exactly these questions since at least 2025, often getting vague answers or none at all.

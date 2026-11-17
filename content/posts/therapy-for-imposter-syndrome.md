@@ -40,8 +40,6 @@ This matters clinically because generic confidence-building work can backfire. I
 
 ## What the Research Actually Supports
 
-> **Helpful resource:** [The Body Keeps the Score by Bessel van der Kolk](https://www.amazon.com/dp/1626258406?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The research here is genuinely mixed, and I'd rather tell you that than pretend there's a clear winner. There's no large-scale RCT specifically studying "imposter syndrome therapy" because it's not a diagnosis. What we have is decent evidence that certain therapeutic modalities address the underlying mechanisms effectively.
 
 **Cognitive Behavioral Therapy (CBT)** has the most accumulated evidence. It works on the attribution errors that drive imposter experiences: the habit of attributing success externally ("I just got lucky") while attributing failure internally ("I'm not smart enough"). A good CBT therapist will help you identify those specific automatic thoughts, examine the evidence for and against them, and build more accurate alternative narratives. Not rosier ones. More accurate ones. That distinction keeps patients engaged, because it doesn't feel like denial.

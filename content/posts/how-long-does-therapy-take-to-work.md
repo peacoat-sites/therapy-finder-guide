@@ -45,8 +45,6 @@ Compare that to trauma processing. EMDR (Eye Movement Desensitization and Reproc
 
 ## Therapy Type by Timeline
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This table reflects typical treatment lengths across current clinical guidelines and published trial data. Individual variation is real, and these are ranges, not guarantees.
 
 | Therapy Type | Common Target | Typical Duration | Best-evidence for... |

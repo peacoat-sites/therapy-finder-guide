@@ -51,8 +51,6 @@ ACT is built around what Hayes calls the "psychological flexibility model." Ther
 
 ## What ACT Actually Looks Like In A Session
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 For example, someone might come into ACT after months of CBT for health anxiety. They may have gotten decent at identifying cognitive distortions but keep relapsing whenever a new physical symptom appears. A therapist might try something different: instead of disputing the thought "this headache might be serious," they have the person hold the thought loosely, observe it like a cloud passing, and then ask: "What would someone who values being present with their kids do [right now](/the-va-is-testing-mdma-assisted-therapy-for-ptsd-right-now/)?"
 
 That reframe took about six sessions to feel natural to him. By week ten, he was reporting that he still had the health-related thoughts, but they had less grip. He wasn't spending three hours on symptom-checker websites anymore.

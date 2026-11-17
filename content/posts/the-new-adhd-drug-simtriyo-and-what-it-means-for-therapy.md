@@ -30,8 +30,6 @@ The approval covers adults and children aged 6 and older who weigh at least 20 k
 
 ## Where Therapy Still Belongs (And Why Medication Alone Isn't the Answer)
 
-> **Helpful resource:** [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What often gets lost in medication approval news cycles is that drugs change the brain's chemistry in the moment. They don't teach skills. Medication "gets you to the starting line," as one useful framing puts it. It reduces the static. It makes the brain more receptive. But it doesn't automatically install organizational habits, emotional regulation strategies, or the ability to recognize your own patterns.
 
 This is where [cognitive behavioral therapy](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) (CBT) and ADHD coaching do work that no pill can replicate. CBT for ADHD is specifically adapted to address things like time blindness, task initiation, and emotional dysregulation. These aren't character flaws. They're skill deficits that develop partly because an undertreated ADHD brain spends years avoiding or failing at certain kinds of tasks. The behaviors get ingrained. Medication can reduce the neurological interference, but someone still has to build new habits on top of that.

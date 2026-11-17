@@ -42,8 +42,6 @@ The difference in outcomes is measurable. A landmark study published in the *Jou
 
 ## How to Actually Find One
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Start with filters, not word-of-mouth. Word-of-mouth is unreliable unless the person recommending has the same identity intersections you do. A bisexual therapist who's great for a cisgender gay man may not have the training to support a trans woman of color dealing with workplace discrimination, and vice versa.
 
 Here's a practical hierarchy for your search, in order of reliability:

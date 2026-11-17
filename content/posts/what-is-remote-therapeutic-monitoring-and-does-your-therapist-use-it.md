@@ -34,10 +34,6 @@ The Summer 2026 issue of Behavioral Health News put it plainly: "therapy clients
 
 ## The New CPT Codes and Why the Thresholds Matter
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The 2026 rule introduced three CPT codes relevant to mental health RTM. Two are new (98984 and 98985); one (98979) is restructured specifically to lower the bar for shorter treatment episodes. Before this rule, a provider needed to collect patient data on at least 16 days in a 30-day period to bill for RTM. That made RTM impractical for clients doing six to eight weeks of focused CBT. The new threshold can be as few as 2 days.
 
 The management time floor dropped too. The original treatment management codes required at least 20 minutes of provider time per month. The new 98979 code requires only 10 minutes. For a private-practice therapist seeing 20 clients, that's a meaningful difference in what's actually achievable.

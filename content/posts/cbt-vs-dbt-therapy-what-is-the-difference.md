@@ -53,8 +53,6 @@ This history isn't just academic trivia. It tells you something practical: DBT w
 
 ## What CBT Actually Does
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 [Cognitive Behavioral Therapy](/cognitive-behavioral-therapy-explained/) operates on a fairly elegant premise: your thoughts, feelings, and behaviors are connected. If you can identify and restructure distorted thought patterns, your emotional state and behavior will follow. That's the whole model.
 
 A typical CBT course runs 12 to 20 sessions, though it varies. It's structured. You'll have homework. Your therapist will help you notice thoughts like "I always fail" or "nobody likes me," examine the evidence against them, and replace them with something more grounded. It's not about thinking happy thoughts. It's about thinking *accurate* ones.

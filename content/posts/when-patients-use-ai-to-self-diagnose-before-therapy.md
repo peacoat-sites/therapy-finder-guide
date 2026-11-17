@@ -28,8 +28,6 @@ The clinicians surveyed were candid about their concerns. Ninety-seven percent w
 
 ## The Diagnosis Problem Is More Specific Than You Think
 
-> **Helpful resource:** [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Consumer chatbots are not designed to interpret psychological assessments or [diagnose mental health](/what-happens-when-you-use-ai-to-self-diagnose-a-mental-health-conditio/) conditions. This isn't a limitation the companies are hiding. It's structural. Diagnosis in mental health requires ruling out medical causes, tracking symptom duration, assessing functional impairment across multiple life domains, and often consulting collateral information. A chatbot working from a text conversation has access to exactly one thing: what the person chose to type, in that moment, in the way they were able to articulate it.
 
 The risk isn't just inaccuracy. It's that a confident-sounding AI response can anchor a person's self-understanding in ways that are genuinely hard to dislodge. If someone comes into therapy convinced they have ADHD because three AI conversations pointed that direction, the therapist now has two jobs: the assessment itself, and the careful work of helping the patient hold their self-concept loosely enough to be open to a different answer. That's not impossible. But it takes time, and it changes the texture of early sessions in ways that can strain the therapeutic alliance before it's had a chance to form.

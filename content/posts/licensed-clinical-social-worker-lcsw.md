@@ -45,8 +45,6 @@ The "clinical" in LCSW is doing a lot of work that people overlook.
 
 ## How the Training and Licensing Actually Works
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me walk you through the typical path, because I've found that when people understand how rigorous it is, their skepticism softens a bit.
 
 A person who wants to become an LCSW starts with an undergraduate degree (typically in psychology, social work, or a related field), then completes a two-year MSW program accredited by the Council on Social Work Education (CSWE). During the MSW, they complete a clinical concentration and field practicum, which is usually around 900 hours of supervised direct practice. After graduating, they take the ASWB master's-level exam to become an LMSW (Licensed Master Social Worker).

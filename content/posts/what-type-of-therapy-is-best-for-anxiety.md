@@ -39,8 +39,6 @@ That said, "most people" isn't you. And there's a real argument for starting som
 
 ## CBT: What It Actually Does (Not What People Think)
 
-> **Helpful resource:** [DBT Skills Training Handouts and Worksheets](https://www.amazon.com/dp/1572244275?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The popular summary of CBT is "change your thoughts, feel better." That's reductive to the point of being misleading. What CBT really does is teach you to identify the relationship between thoughts, physical sensations, and behaviors, then systematically test whether your catastrophic predictions actually come true.
 
 In practice, that means structured homework. Thought records. Exposure hierarchies. It's not comfortable, and it's not meant to be. Early in a CBT course for panic disorder, your therapist might ask you to deliberately induce the sensations you fear, like spinning in a chair to trigger dizziness, as a way of proving to your nervous system that the sensation itself isn't dangerous. This is called interoceptive exposure, and the first time I reviewed a treatment manual that included it, I genuinely thought it sounded cruel. It isn't. The evidence behind it is strong.

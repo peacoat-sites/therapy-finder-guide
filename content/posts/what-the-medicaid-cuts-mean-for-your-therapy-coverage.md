@@ -35,10 +35,6 @@ Then there's the work requirement. By January 2027, most adults on Medicaid will
 | Mental health parity enforcement | Ended May 2025 | Erosion of coverage quality and provider network accessibility for those retaining Medicaid |
 | Idaho mobile mental health program cut | Late 2025 | Crisis center visits up 34% (December 2025), 43% (January 2026); 2 reported deaths by February 2026 |
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Behavioral health services are classified as "optional" under federal Medicaid law. That single word does a lot of damage. It means that when states face pressure to cut costs because federal matching funds shrink, therapy, psychiatric medication management, substance use treatment, and crisis services are legally the first things on the chopping block. Mandatory services, like hospital care, come off the table last.
 
 We're not speculating about what this looks like. In late 2025, Idaho cut a Medicaid-funded mobile mental health program. By December, crisis center visits were up 34% year-over-year. By January 2026, that number was 43%. The Idaho Capital Sun reported in February 2026 that two patients died in the aftermath of that single program cut. Idaho is one state. This is early in a ten-year funding reduction.

@@ -46,8 +46,6 @@ Contingency Management is the one most people haven't heard of, and honestly, th
 
 ## Medication-Assisted Treatment: The Part People Skip
 
-> **Helpful resource:** [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be blunt: the most common mistake I see people make when seeking addiction treatment is treating medication as optional or as "cheating." For opioid use disorder specifically, this framing costs lives.
 
 Buprenorphine (Suboxone), methadone, and naltrexone are FDA-approved medications that, when combined with therapy, significantly outperform therapy alone for opioid addiction. A landmark study from the National Institute on Drug Abuse found that patients on buprenorphine had retention rates in treatment nearly three times higher than those receiving only counseling. Three times. That's not a marginal difference.

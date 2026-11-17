@@ -39,8 +39,6 @@ Many people skeptical about video therapy become convinced after a few sessions.
 
 ## Who Telehealth Therapy Works Best For
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Telehealth isn't automatically better than in-person therapy, but it's genuinely right for a broad range of people.
 
 People with physical disabilities or chronic illness who can't easily travel. People in rural areas where a good therapist doesn't exist or lives an hour away. Parents of young kids who can't carve out travel time. People with social anxiety who dread waiting rooms. Shift workers with chaotic schedules. People who travel constantly for work. Telehealth becomes meaningfully more accessible for all of them.

@@ -49,8 +49,6 @@ Then there's what Yalom called "corrective recapitulation of the primary family 
 
 Group work can accelerate progress on interpersonal issues compared to individual therapy alone. Some problems are fundamentally relational, and addressing them often requires other people present.
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Who Benefits Most from Group Therapy
 
 Group therapy works across depression, generalized anxiety, social anxiety, grief, trauma, eating disorders, substance use, anger, relationship difficulties. The National Alliance on Mental Illness (NAMI) recognizes it as an effective evidence-based option for many of these, and their resources at [nami.org](https://www.nami.org/) are a solid starting point if you're trying to figure out whether group treatment fits your situation.

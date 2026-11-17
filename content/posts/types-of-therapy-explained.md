@@ -43,8 +43,6 @@ A practical starting point is [Psychology Today's therapist directory](https://w
 
 ## The Big Three: CBT, DBT, and ACT
 
-> **Helpful resource:** [The Anxiety and Worry Workbook by Clark and Beck](https://www.amazon.com/dp/1572246952?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 These three approaches dominate modern mental health care for good reason. They're backed by solid research, widely practiced, and effective for a broad range of concerns.
 
 **[Cognitive Behavioral Therapy (CBT)](/cognitive-behavioral-therapy-explained/)** is probably the most well-known. The core idea: your thoughts, feelings, and behaviors are connected, so changing unhelpful thought patterns can shift how you feel and act. CBT is structured and goal-oriented. You'll do homework between sessions, like tracking thought patterns or gradually facing feared situations. It typically runs 12 to 20 sessions, which appeals to people who want a time-limited commitment. Strong evidence backs CBT for depression, generalized anxiety, panic disorder, OCD, and phobias.

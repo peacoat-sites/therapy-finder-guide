@@ -41,8 +41,6 @@ What surprised me was how rarely this gets explained to patients. I've talked wi
 
 ## The Main Approaches (and What They're Actually Good At)
 
-> **Helpful resource:** [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where the research gets genuinely interesting, and where I'd push back against treating "therapy" as one undifferentiated thing. The approaches most studied for chronic pain are quite different from each other.
 
 **Cognitive Behavioral Therapy (CBT)** has the deepest evidence base. A 2019 Cochrane review of 75 trials found that CBT produced small-to-moderate reductions in pain intensity, and more meaningfully, moderate reductions in disability and improvements in mood and quality of life. The disability finding is important. For many people with chronic pain, the goal can't realistically be zero pain. It can be a life that functions despite pain. CBT directly targets the thought patterns and avoidance behaviors that turn acute pain into a condition that restructures someone's entire life.

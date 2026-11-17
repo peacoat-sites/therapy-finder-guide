@@ -34,10 +34,6 @@ The researchers position BLT as an adjunctive treatment, meaning it works alongs
 
 ## Who This Is For
 
-> **Helpful resource:** [Muse S Meditation and Sleep Headband](https://www.amazon.com/dp/B09X7TQRQK?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The population the meta-analysis focused on is adults with nonseasonal depressive disorders. That's a broad category that includes major depressive disorder and other depressive conditions that don't have a clear seasonal trigger. This is different from seasonal affective disorder (SAD), which follows a predictable fall/winter pattern and has had BLT recommendations behind it for years.
 
 The significance of this shift is real. SAD affects roughly 5% of U.S. adults according to the American Psychiatric Association, while major depression affects closer to 21% over a lifetime. Opening BLT as a formally supported adjunct for the larger nonseasonal group means far more people have evidence behind them when they consider adding it to their care plan.
@@ -76,10 +72,10 @@ If you're in a rough patch and not currently connected to care, the SAMHSA Natio
 
 ## Sources
 
-- [Psychiatric Times ,  Evaluating Bright Light Therapy for Nonseasonal Depression: A Systematic Review and Meta-Analysis](https://www.psychiatrictimes.com/view/evaluating-bright-light-therapy-for-nonseasonal-depression-a-systematic-review-and-meta-analysis) (November 13, 2026)
-- [JAMA Psychiatry ,  Bright Light Therapy for Nonseasonal Depressive Disorders: A Systematic Review and Meta-Analysis](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2824482) (November 2026)
-- [PsyPost ,  Bright Light Therapy Accelerates Treatment Response in Nonseasonal Depression](https://www.psypost.org/bright-light-therapy-accelerates-treatment-response-in-nonseasonal-depression/) (November 2026)
-- [KTVZ / Stacker ,  White-Knuckling the Holidays: Why So Many Americans Put Mental Health on Hold](https://ktvz.com/stacker-mental-health/2026/11/12/white-knuckling-the-holidays-why-so-many-americans-put-mental-health-on-hold-at-the-end-of-the-year) (November 12, 2026)
+- [Psychiatric Times, Evaluating Bright Light Therapy for Nonseasonal Depression: A Systematic Review and Meta-Analysis](https://www.psychiatrictimes.com/view/evaluating-bright-light-therapy-for-nonseasonal-depression-a-systematic-review-and-meta-analysis) (November 13, 2026)
+- [JAMA Psychiatry, Bright Light Therapy for Nonseasonal Depressive Disorders: A Systematic Review and Meta-Analysis](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2824482) (November 2026)
+- [PsyPost, Bright Light Therapy Accelerates Treatment Response in Nonseasonal Depression](https://www.psypost.org/bright-light-therapy-accelerates-treatment-response-in-nonseasonal-depression/) (November 2026)
+- [KTVZ / Stacker, White-Knuckling the Holidays: Why So Many Americans Put Mental Health on Hold](https://ktvz.com/stacker-mental-health/2026/11/12/white-knuckling-the-holidays-why-so-many-americans-put-mental-health-on-hold-at-the-end-of-the-year) (November 12, 2026)
 
 *Photo: [JESSICA TICOZZELLI](https://www.pexels.com/@jersy) via Pexels*
 
