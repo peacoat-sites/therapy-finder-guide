@@ -995,7 +995,8 @@ _CHART_CSS = (
 )
 
 def _scrub_slop(content: str) -> str:
-    c = content.replace("\u2014", ", ")
+    c = re.sub(r"[ \t]*\u2014[ \t]*", ", ", content)
+    c = re.sub(r" ,[ \t]+", ", ", c)
     c = re.sub(r"(?<=\w) -- (?=\w)", ", ", c)
     c = re.sub(r"\n#{2,3}[ \t]*(?:In Conclusion|Conclusion|Final Thoughts|Wrapping Up|The Bottom Line|Summary)[ \t]*\n",
                "\n", c, flags=re.I)
@@ -1490,7 +1491,7 @@ When done researching, output ONLY a JSON object (no prose before or after):
         print("    [topical] no usable brief; skipping")
         return None
 
-    title = _fix_title_caps(brief["title"].replace("—", ", ").replace("  ", " ").strip())
+    title = _fix_title_caps(re.sub(r"[ \t]*—[ \t]*", ", ", brief["title"]).strip())
 
     # Deterministic same-story guard: the radar sometimes re-picks a story already
     # covered under a reworded title (the prompt-side "do NOT pick" list is advisory
@@ -1551,7 +1552,7 @@ Structure:
         return None
 
     article_md = "".join(getattr(b, "text", "") for b in wmsg.content if getattr(b, "type", "") == "text")
-    article_md = article_md.replace("—", ", ").strip()
+    article_md = re.sub(r"[ \t]*—[ \t]*", ", ", article_md).strip()
     if len(article_md) < 600:
         print("    [topical] write too short; skipping")
         return None
@@ -1722,7 +1723,6 @@ def publish_site(site_name: str, count: int):
             article["content"] = _render_takeaways(article["content"])
             article["content"] = _render_charts(article["content"])
             article["content"] = _inject_internal_links(article["content"], published, _prefix)
-            article["content"] = inject_affiliate_links(article["content"], niche)
             article["content"] = _scrub_slop(article["content"])
 
             # Fetch image
