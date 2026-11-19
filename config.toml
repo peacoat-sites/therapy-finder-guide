@@ -20,6 +20,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  beams_url = "https://playgama.ai/play/tjefnosq46dadt"
   youtube_channel = "UCcEFub-Jmq9qDo1rSyRzAnQ"
   page_bg = "#faf5ff"
   nav_style = "light"

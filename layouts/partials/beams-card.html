@@ -1,0 +1,20 @@
+{{- with .Site.Params.beams_url -}}
+<style>
+.beams-card{display:flex;align-items:center;gap:16px;padding:16px 20px;margin-bottom:32px;border:1px solid rgba(255,255,255,.14);border-radius:10px;background:rgba(255,255,255,.04)}
+.beams-card svg{flex-shrink:0}
+.beams-card-body{flex:1;min-width:0}
+.beams-card-label{font-size:10px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,255,255,.4);margin:0 0 4px}
+.beams-card-text{font-size:14px;line-height:1.5;color:rgba(255,255,255,.75);margin:0}
+.beams-card-link{flex-shrink:0;display:inline-block;padding:9px 16px;border-radius:6px;background:#fff;color:#111827;font-size:13px;font-weight:600;text-decoration:none;white-space:nowrap}
+.beams-card-link:hover{background:rgba(255,255,255,.85)}
+@media (max-width:640px){.beams-card{flex-wrap:wrap}.beams-card-link{width:100%;text-align:center}}
+</style>
+<div class="beams-card">
+  <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true"><rect width="44" height="44" rx="8" fill="#0b1220"/><path d="M6 32 L18 14 L30 30 L38 12" fill="none" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M14 11 L22 17 M26 33 L34 27" stroke="#cbd5e1" stroke-width="2.5" stroke-linecap="round"/><circle cx="38" cy="12" r="3" fill="#f87171"/></svg>
+  <div class="beams-card-body">
+    <p class="beams-card-label">From Peacoat Games</p>
+    <p class="beams-card-text">New daily puzzle: bounce a beam off mirrors to hit every target.</p>
+  </div>
+  <a class="beams-card-link" href="{{ . }}" target="_blank" rel="noopener">Play today's Beams &rarr;</a>
+</div>
+{{- end -}}
