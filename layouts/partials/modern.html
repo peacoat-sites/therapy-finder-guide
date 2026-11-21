@@ -69,6 +69,131 @@ ins.adsbygoogle[data-ad-status="unfilled"] { display: none !important; }
   @view-transition { navigation: none; }
   details.faq-item::details-content { transition: none; }
 }
+
+/* modern-layer v2 (2026-11-21): bento hero, dark mode, compact mobile article header, editorial type, table scroll shadows */
+
+/* Hero: static bento of three featured articles instead of an auto-rotating carousel */
+.hero-arrow, .hero-carousel-dots { display: none !important; }
+.hero-carousel-track { transform: none !important; transition: none !important; }
+@media (min-width: 901px) {
+  .hero-authority { padding: 64px 24px 72px; }
+  .hero-authority-inner { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 56px; }
+  .hero-auth-text { text-align: left; }
+  .hero-auth-title { font-size: clamp(2.1rem, 3.3vw, 3.1rem); line-height: 1.06; letter-spacing: -0.025em; }
+  .hero-auth-title.hero-auth-title-long { font-size: clamp(1.8rem, 2.6vw, 2.5rem); line-height: 1.12; }
+  .hero-auth-sub { margin-left: 0; font-size: 1.06rem; }
+  .hero-auth-actions { flex-direction: row; align-items: center; justify-content: flex-start; }
+  .hero-tools, .hero-tools-label { text-align: left; }
+  .hero-tools-chips { justify-content: flex-start; }
+  .hero-carousel-viewport { overflow: visible; border-radius: 0; box-shadow: none; }
+  .hero-carousel-track { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); grid-template-rows: auto auto; gap: 16px; }
+  .hero-slide:nth-child(1) { grid-row: 1 / span 2; }
+  .hero-slide:nth-child(n+4) { display: none; }
+  .hero-slide .hero-feature-card { display: flex; flex-direction: column; height: 100%; border-radius: 16px; overflow: hidden; box-shadow: 0 18px 48px rgba(0,0,0,.28); transition: transform .25s ease, box-shadow .25s ease; }
+  .hero-slide .hero-feature-card:hover { transform: translateY(-4px); box-shadow: 0 26px 64px rgba(0,0,0,.36); }
+  .hero-slide .hero-feature-body { text-align: left; }
+  .hero-slide .hero-feature-labels { justify-content: flex-start; }
+  .hero-slide:nth-child(1) .hero-feature-img { aspect-ratio: auto; flex: 1 1 auto; min-height: 220px; }
+  .hero-slide:nth-child(1) .hero-feature-title { font-size: clamp(1.2rem, 1.6vw, 1.55rem); }
+  .hero-slide:nth-child(n+2) .hero-feature-img { aspect-ratio: 16 / 9; flex: none; }
+  .hero-slide:nth-child(n+2) .hero-feature-body { padding: 12px 16px 14px; }
+  .hero-slide:nth-child(n+2) .hero-feature-labels { margin-bottom: 6px; }
+  .hero-slide:nth-child(n+2) .hero-feature-badge, .hero-slide:nth-child(n+2) .hero-feature-label { display: none; }
+  .hero-slide:nth-child(n+2) .hero-feature-title { font-size: .98rem; line-height: 1.3; margin-bottom: 6px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .hero-slide:nth-child(n+2) .hero-feature-read { font-size: .78rem; }
+}
+@media (max-width: 900px) {
+  .hero-carousel-viewport { overflow-x: auto; scroll-snap-type: x mandatory; border-radius: 0; box-shadow: none; margin: 0 -24px; padding: 4px 24px 10px; scroll-padding-inline: 24px; scrollbar-width: none; }
+  .hero-carousel-viewport::-webkit-scrollbar { display: none; }
+  .hero-carousel-track { gap: 12px; }
+  .hero-slide { flex: 0 0 84%; scroll-snap-align: start; }
+  .hero-slide .hero-feature-card { border-radius: 14px; overflow: hidden; box-shadow: 0 10px 28px rgba(0,0,0,.25); }
+  .hero-slide .hero-feature-body { text-align: left; padding: 14px 16px 16px; }
+  .hero-slide .hero-feature-labels { justify-content: flex-start; }
+  .hero-slide .hero-feature-title { font-size: 1.08rem; line-height: 1.3; }
+}
+
+/* Editorial reading: larger body text, drop cap, Inter alternates */
+body { font-feature-settings: "cv11", "ss01"; }
+.post-content { font-size: 1.07rem; line-height: 1.78; }
+.post-content > p:first-child::first-letter { float: left; font-family: var(--serif, Georgia, serif); font-size: 3.5em; line-height: .82; font-weight: 700; padding: .08em .1em 0 0; color: var(--accent); }
+.post-content h2 { letter-spacing: -0.012em; scroll-margin-top: 88px; }
+.post-content h3 { scroll-margin-top: 88px; }
+
+/* Wide tables: scroll shadows show there is more to swipe */
+.post-content table {
+  background:
+    linear-gradient(to right, var(--surface, #fff) 30%, rgba(255,255,255,0)) left center / 32px 100% no-repeat local,
+    linear-gradient(to left, var(--surface, #fff) 30%, rgba(255,255,255,0)) right center / 32px 100% no-repeat local,
+    radial-gradient(farthest-side at 0 50%, rgba(0,0,0,.18), transparent) left center / 12px 100% no-repeat scroll,
+    radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.18), transparent) right center / 12px 100% no-repeat scroll;
+  background-color: var(--surface, #fff);
+}
+
+/* Text on accent-colored buttons and badges: dark or white, whichever contrasts with this site's accent (set by script) */
+:is(.btn-hero-primary, .hero-feature-label, .hero-feature-badge, .qc-cta, .amazon-btn, .quiz-submit, .cf-submit, .cf-submit-text, .hte-cta, .btn-primary, .cta-btn, .cta-box a.btn, .mdn-on-accent, [style*="background:var(--accent"], [style*="background: var(--accent"], [style*="background-color:var(--accent"]) { color: var(--on-accent, #fff) !important; }
+
+/* Light mode: accent-colored small text was below 3:1 on white; ink it darker. Gray meta text moves to the muted token */
+@media (prefers-color-scheme: light) {
+  :is(.article-cat, .topic-view-all, .hte-kicker, .section-label, .cat-view-all, .cat-lead-topic, .ap-title-label, .post-cat, .hero-feature-cat, .toc-label, .widget > button, .cat-tile-topic, .breadcrumb a, .breadcrumbs a) { color: color-mix(in srgb, var(--accent) 55%, #000) !important; }
+  :is(.article-meta span, .cat-lead-meta span, .cat-tile-meta, .card-meta) { color: var(--muted) !important; }
+}
+
+/* Footer fine print was 30% white; lift it to readable contrast */
+.footer-bottom p, .footer-bottom .disclaimer, .footer-bottom .affiliate-disclosure { color: rgba(255,255,255,.62); }
+.footer-col-title { color: rgba(255,255,255,.7); }
+.beams-card-label { color: rgba(255,255,255,.66) !important; }
+
+/* Sticky header gains depth once the page scrolls */
+@supports (animation-timeline: scroll()) {
+  .site-header { animation: mdn-hdr linear both; animation-timeline: scroll(root); animation-range: 0 140px; }
+  @keyframes mdn-hdr { from { box-shadow: 0 0 0 rgba(0,0,0,0); } to { box-shadow: 0 8px 28px rgba(0,0,0,.22); } }
+}
+
+/* Mobile article header: section links become a swipeable chip row, share collapses to one native button */
+@media (max-width: 900px) {
+  .toc:not(.toc-rail) { padding: 12px 0 10px 14px !important; background: transparent !important; }
+  .toc:not(.toc-rail) #TableOfContents > ul { display: flex; gap: 8px; margin: 8px 0 0; padding: 0 14px 6px 0; overflow-x: auto; scroll-snap-type: x proximity; scrollbar-width: none; list-style: none; }
+  .toc:not(.toc-rail) #TableOfContents > ul::-webkit-scrollbar { display: none; }
+  .toc:not(.toc-rail) #TableOfContents > ul > li { flex: none; margin: 0; padding: 0; scroll-snap-align: start; list-style: none; }
+  .toc:not(.toc-rail) #TableOfContents > ul > li::before { display: none; }
+  .toc:not(.toc-rail) #TableOfContents > ul > li > a { display: inline-block; white-space: nowrap; max-width: 78vw; overflow: hidden; text-overflow: ellipsis; padding: 7px 13px; border: 1px solid var(--border); border-radius: 999px; background: var(--surface, #fff); font-size: .86rem; line-height: 1.2; text-decoration: none; }
+  .toc:not(.toc-rail) #TableOfContents ul ul { display: none; }
+  .post-share.mdn-native > :not(.mdn-share) { display: none !important; }
+}
+.mdn-share { display: inline-flex; align-items: center; gap: 7px; padding: 8px 16px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface, #fff); color: var(--text); font: 600 .9rem/1 var(--sans, system-ui); cursor: pointer; }
+
+/* Dark mode, following the device setting */
+@media (prefers-color-scheme: dark) {
+  :root:root { color-scheme: dark; --bg: #0e1218; --surface: #161c25; --surface2: #1b2230; --text: #e7ecf3; --muted: #9eabbc; --border: rgba(255,255,255,.11); }
+  body { background: var(--bg); color: var(--text); }
+  /* Text: templates hard-code slate/primary text colors, so lift every text element to the dark palette */
+  :root body :is(h1, h2, h3, h4, h5, h6, label, legend, dt, strong, b, p, li, td, dd, figcaption, blockquote, summary) { color: var(--text); }
+  :root body :is(small, time, .post-meta, .post-meta span, .hero-feature-read, .card-meta, .read-time, [class*="meta"], [class$="-sub"], [class*="desc"]:not([class*="btn"])) { color: var(--muted); }
+  :root body :is(main, article, aside, section, .container) :is(span, div):not([class*="badge"]):not([class*="label"]):not([class*="btn"]):not([class*="chip"]):not([class*="pill"]):not([class*="tag"]) { color: inherit; }
+  :root body a:not([class*="btn"]):not([class*="cta"]):not([class*="chip"]):not(.hero-feature-card):not(.site-logo) { color: color-mix(in srgb, var(--accent) 62%, #fff); }
+  :root body :is(.post-content, .about-wrap, .ap-bio) a:not([class]) { color: color-mix(in srgb, var(--accent) 62%, #fff); }
+  :root body .site-header a:not([class*="btn"]), :root body .site-footer a:not(.beams-card-link) { color: rgba(255,255,255,.86) !important; }
+  :root body :is(h1, h2, h3, h4) a, :root body .article-card a, :root body [class*="title"] a, :root body a [class*="title"] { color: var(--text); }
+  /* Surfaces: white cards, quiz panels, buttons and light inline callouts move to dark surfaces */
+  .hero-feature-card, .article-card, .widget, .quiz, .quiz-opt, .afb-btn, .amazon-card, .amazon-inline, .cta-box, .next-read, .nr-card, .qc, .quiz-cta, .ap-hero, .author-bio, .faq-item, .toc, .kt, .cf-input, .cf-textarea { background-color: var(--surface) !important; border-color: var(--border) !important; }
+  :root body [style*="background:#fff"], :root body [style*="background: #fff"], :root body [style*="background:#FFF"], :root body [style*="background-color:#fff"], :root body [style*="background:white"], :root body [style*="background:#f"], :root body [style*="background: #f"], :root body [style*="background:#e"], :root body [style*="background: #e"] { background: var(--surface2) !important; }
+  :root body [style*="border:1px solid #e"], :root body [style*="border: 1px solid #e"], :root body [style*="border-color:#e"] { border-color: var(--border) !important; }
+  .author-name, .author-name a, .ap-name { color: var(--text) !important; }
+  :root body .hero-authority .hero-auth-sub { color: rgba(255,255,255,.8); }
+  :root body .hero-authority .hero-auth-title { color: #fff; }
+  :root body :is([style*="color:#64748b"], [style*="color: #64748b"], [style*="color:#475569"], [style*="color: #475569"], [style*="color:#94a3b8"], [style*="color:var(--muted"]) { color: var(--muted) !important; }
+  :root body :is([style*="color:#1e293b"], [style*="color: #1e293b"], [style*="color:#0f172a"], [style*="color: #0f172a"], [style*="color:#334155"], [style*="color:#111"], [style*="color:#000"]) { color: var(--text) !important; }
+  /* Result boxes tinted by calculator scripts keep their tint, with dark text */
+  :root body :is([style*="background: rgb(2"], [style*="background-color: rgb(2"]), :root body :is([style*="background: rgb(2"], [style*="background-color: rgb(2"]) * { color: #1c1917 !important; }
+  img { filter: brightness(.92); }
+  .site-logo svg, .brand-mark { filter: none; }
+  hr { border-color: var(--border); }
+  input, select, textarea { background: var(--surface2); color: var(--text); border-color: var(--border); }
+  .post-content table { background-color: var(--surface); }
+  .post-content table th { color: #fff; }
+  ::selection { background: color-mix(in srgb, var(--accent) 40%, transparent); }
+}
 </style>
 <script type="speculationrules">
 {"prefetch":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/search/*"}},{"not":{"selector_matches":"[rel~=nofollow],[target=_blank]"}}]},"eagerness":"moderate"}]}
@@ -110,6 +235,35 @@ document.addEventListener('DOMContentLoaded', function () {
         dlg.showModal();
       });
     }
+  }
+});
+</script>
+<script>
+(function () {
+  var a = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim(), m = a.match(/^#([0-9a-f]{3}|[0-9a-f]{6})$/i);
+  if (!m) return;
+  var h = m[1].length === 3 ? m[1].replace(/./g, '$&$&') : m[1];
+  var L = [0, 2, 4].map(function (i) { var v = parseInt(h.substr(i, 2), 16) / 255; return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4); });
+  L = 0.2126 * L[0] + 0.7152 * L[1] + 0.0722 * L[2];
+  if ((L + 0.05) / 0.05 > 1.05 / (L + 0.05)) document.documentElement.style.setProperty('--on-accent', '#15120a');
+})();
+document.addEventListener('DOMContentLoaded', function () {
+  var acc = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim();
+  if (acc) {
+    var probe = document.createElement('i'); probe.style.color = acc; document.body.appendChild(probe);
+    var accRgb = getComputedStyle(probe).color; probe.remove();
+    document.querySelectorAll('button, a, input[type=submit]').forEach(function (el) { if (getComputedStyle(el).backgroundColor === accRgb) el.classList.add('mdn-on-accent'); });
+  }
+  var hc = document.getElementById('hero-carousel');
+  if (hc) { hc.removeAttribute('aria-roledescription'); hc.setAttribute('aria-label', 'Featured articles'); }
+  var share = document.querySelector('.post-share');
+  if (share && navigator.share && window.matchMedia('(max-width: 900px)').matches) {
+    var b = document.createElement('button');
+    b.type = 'button'; b.className = 'mdn-share';
+    b.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>Share';
+    b.addEventListener('click', function () { navigator.share({ title: document.title, url: location.href }).catch(function () {}); });
+    share.appendChild(b);
+    share.classList.add('mdn-native');
   }
 });
 </script>
