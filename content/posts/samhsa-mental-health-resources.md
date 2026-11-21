@@ -21,8 +21,8 @@ faqs:
    a: "SAMHSA is the federal agency that funds and oversees crisis lines like 988, but calling SAMHSA's National Helpline is more of a resource and referral service than a crisis line. If you're in immediate distress, call or text 988. If you need help figuring out next steps for ongoing mental health care, the National Helpline is the right starting point."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Maybe you typed "free mental health help" into a search bar at 2am, or maybe a friend mentioned SAMHSA and you nodded like you knew what it was. Either way, you're here now, and that already takes something. What a lot of people don't realize is that SAMHSA, the Substance Abuse and Mental Health Services Administration, is one of the most underused resources in American mental health care. It's a federal agency operating within the U.S. Department of Health and Human Services, and it runs programs, hotlines, and funding streams that reach millions of people every year. Many of those people had no idea where to start before they found it.

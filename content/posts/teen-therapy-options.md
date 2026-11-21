@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and this is an underused resource. Pediatricians often know which local therapists work well with adolescents and can flag whether a psychiatric evaluation for medication makes sense. Many pediatric practices now screen for depression and anxiety at well visits. If your teen has a longstanding relationship with their pediatrician, that trusted voice recommending therapy can sometimes do more than a parent's suggestion."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your 15-year-old hasn't left their room in three weeks. They're sleeping until noon, their grades have tanked, they snap at everyone, and when you ask what's wrong you get a shrug or a slammed door. Something's clearly off. You just have no idea what to do about it.

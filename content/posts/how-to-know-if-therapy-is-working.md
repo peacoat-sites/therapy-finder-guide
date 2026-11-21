@@ -19,10 +19,10 @@ faqs:
    a: "Absolutely, and I'd encourage it. Journaling between sessions is one of the most consistent predictors of therapy outcomes. You don't have to write essays. Even brief notes about your mood, a reaction you had, or a pattern you noticed can give you and your therapist valuable data. A structured mindfulness or CBT workbook can provide prompts if blank pages feel daunting. (Disclosure: this site may earn a commission from qualifying purchases.)"
  - q: "Should I switch therapists if I'm not sure therapy is working?"
    a: "Not necessarily, and not immediately. The first step is a direct conversation with your current therapist. Switching too quickly can sometimes replicate an avoidance pattern rather than solve a real problem. But if you've had that honest conversation, given it a fair amount of time, and still see no movement and no explanation you find credible, then seeking a second opinion or a different provider is a legitimate and healthy choice. It's not betrayal. It's self-advocacy."
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Maybe you've been going to therapy for six weeks, or six months, and you're sitting in the parking lot before a session wondering: *Is this actually doing anything?* You're not sure if what you're feeling is progress or just… talking. You don't want to seem ungrateful, and you're not ready to quit, but the question is sitting there, quietly, and it won't leave.

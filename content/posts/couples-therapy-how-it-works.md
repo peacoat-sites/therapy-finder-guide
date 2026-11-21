@@ -21,8 +21,8 @@ faqs:
    a: "Costs vary significantly based on location, therapist credentials, and session length. Many insurance plans cover couples therapy when there's a mental health diagnosis associated with one partner, though coverage varies widely. It's worth calling your insurance company directly and asking specifically about outpatient mental health benefits for couples counseling. Many therapists also offer sliding scale fees. Don't assume it's out of reach without asking."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
-author_title: "Therapy Navigator"
-author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+author_title: "Finding a Therapist"
+author_bio: "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: two people who genuinely love each other sitting in silence on opposite ends of the couch, not because they're strangers, but because they've had the same argument so many times they've run out of words. Sound familiar? Research published in the *Journal of Marital and Family Therapy* found that couples wait an average of six years after serious problems begin before seeking therapy. Six years. That's a long time to white-knuckle something that a skilled therapist could help you actually work through.

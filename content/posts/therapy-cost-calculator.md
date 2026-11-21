@@ -4,7 +4,7 @@ date: 2026-06-10T11:00:00+00:00
 draft: false
 slug: "therapy-cost-calculator"
 description: "Use our therapy cost calculator to estimate your out-of-pocket expenses by insurance type. Includes affordable therapy options from $0 to $80 per session."
-author: "Megan Strand"
+author: "Alex Morgan"
 image: "/img/heroes/4386370.jpg"
 categories: ["Finding Help"]
 tags: ["therapy cost", "therapy affordability", "insurance", "mental health access"]
@@ -18,6 +18,9 @@ faqs:
  - q: "Is online therapy cheaper than in-person therapy?"
    a: "Online therapy platforms like BetterHelp and Talkspace typically charge $60 to $100 per week for unlimited messaging plus one video session, which can be more affordable than weekly in-person therapy. Some insurance plans now cover telehealth sessions at the same rate as in-person visits."
 lastmod: 2026-07-09
+author_slug: "alex-morgan"
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 ---
 Cost is the number one reason people put off therapy. It's a legitimate worry. But here's what most people don't realize: therapy costs swing wildly depending on your insurance, where you live, and who you see. Figure out what you'll actually pay before you start, and suddenly committing to treatment becomes doable.
 

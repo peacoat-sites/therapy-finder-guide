@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["your", "therapist", "using", "record", "your"]
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "your-therapist-may-be-using-ai-to-record-your-sessions"
 affiliate_disclosure: true
 lastmod: 2026-07-07

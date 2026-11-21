@@ -21,8 +21,8 @@ faqs:
    a: "That's a legitimate concern and worth taking seriously. CMHC experiences vary widely, and a poor fit with a provider or a frustrating intake process doesn't mean the system has nothing to offer. If you're willing to try again, ask specifically about which providers are taking new clients and whether you can request a particular modality or therapist background. You have more agency in the process than most people realize."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people think community mental health centers are a last resort, the bare-bones option you turn to when everything else falls through. I did too, until I started actually looking at what these places provide. What caught me off guard was how genuinely comprehensive many of them are, and how few people know how to access them effectively. The truth is, CMHCs serve millions of Americans every year. For a lot of those people, they're not a backup plan. They're the primary plan.

@@ -21,8 +21,8 @@ faqs:
    a: "Honestly, it depends on what you're missing. If you feel disconnected from your emotional patterns, start with a mood tracker like Daylio. If you want skill-building and psychoeducation, Woebot or Sanvello. If stress and sleep are your primary issues, Headspace. Give any app at least two weeks before deciding it doesn't work: the first few days are usually the awkward learning curve, not the real experience."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people download a therapy app at 11pm on a Tuesday, when calling anyone feels impossible and the waiting room of a therapist's office feels like a different planet. If that's where you are right now, this article is for you.

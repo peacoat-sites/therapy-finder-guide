@@ -2,36 +2,36 @@
   {
     "slug": "alex-morgan",
     "name": "Alex Morgan",
-    "title": "Mental Health Educator",
-    "specialty": "Therapy Access & Mental Health Advocacy",
-    "bio": "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+    "title": "Therapy Access",
+    "specialty": "Therapy Access",
+    "bio": "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
-    "slug": "dr-chris-peterson",
-    "name": "Dr. Chris Peterson",
-    "title": "Clinical Reviewer",
-    "specialty": "Clinical Psychology & Evidence-Based Therapy",
-    "bio": "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+    "slug": "chris-peterson",
+    "name": "Chris Peterson",
+    "title": "Therapy Research",
+    "specialty": "Therapy Research",
+    "bio": "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "jamie-sullivan",
     "name": "Jamie Sullivan",
-    "title": "Therapy Navigator",
-    "specialty": "Finding the Right Therapist & Starting Therapy",
-    "bio": "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+    "title": "Finding a Therapist",
+    "specialty": "Finding a Therapist",
+    "bio": "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "kim-davis",
     "name": "Kim Davis",
-    "title": "Wellness Educator",
-    "specialty": "Mindfulness, Stress Reduction & Self-Care",
-    "bio": "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+    "title": "Coping Skills",
+    "specialty": "Coping Skills",
+    "bio": "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "taylor-brooks",
     "name": "Taylor Brooks",
-    "title": "Community Advocate",
-    "specialty": "Peer Support & Community Mental Health",
-    "bio": "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+    "title": "Community Support",
+    "specialty": "Community Support",
+    "bio": "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   }
 ]

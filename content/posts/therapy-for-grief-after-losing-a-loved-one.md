@@ -21,8 +21,8 @@ faqs:
    a: "That's a real place to be, and it's okay to sit there for a while. Reading, journaling, peer support groups, and connecting with community can all help in the meantime. Just watch for signs that the grief is getting heavier rather than lighter over time. If it is, that's information worth acting on."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Grief doesn't follow a schedule. And if you're reading this, you're probably somewhere in the thick of it, maybe weeks out from a loss, maybe years, wondering why it still hits you sideways when you open a cabinet and see their coffee mug. You might be wondering whether what you're feeling is "normal," or whether it's finally time to talk to someone. Both questions deserve real consideration.

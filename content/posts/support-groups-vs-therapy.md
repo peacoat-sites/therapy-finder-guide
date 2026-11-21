@@ -21,8 +21,8 @@ faqs:
    a: "Absolutely, and for many people this is the most effective combination. A therapist helps you build specific skills and process root issues. A support group provides ongoing community and normalizes your experience. They work in parallel, not in competition. Some therapists actively encourage their clients to attend support groups as part of a broader care plan."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You finally worked up the nerve to tell your doctor you've been struggling. She nods, scribbles something on her notepad, and says, "You might want to try a support group or therapy." You leave the office no clearer than when you walked in. Are those the same thing? Is one better than the other? Can you even afford therapy right now?

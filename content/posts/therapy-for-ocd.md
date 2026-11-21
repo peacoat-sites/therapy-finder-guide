@@ -21,8 +21,8 @@ faqs:
    a: "Yes. Multiple studies have examined internet-delivered ERP and found outcomes comparable to in-person treatment. Telehealth has also meaningfully expanded access to OCD specialists for people in rural areas or regions where trained providers are scarce. The logistics are slightly different (doing exposures at home rather than in a clinic), but many therapists find this is actually an advantage since real-world contexts are built right into the sessions."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've checked the stove four times. You know it's off. You watched yourself turn the knob. And yet the thought is already creeping back in, louder this time, more insistent. So you check again. This is the exhausting loop that millions of people live inside every day, and if it sounds familiar, you should know something important: effective treatment exists, and it works better than most people realize.

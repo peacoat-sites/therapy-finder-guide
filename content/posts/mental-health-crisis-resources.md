@@ -21,8 +21,8 @@ faqs:
    a: "NAMI's HelpLine at 1-800-950-6264 is a good starting point. Community mental health centers often provide services on a sliding fee scale based on income. Federally Qualified Health Centers (FQHCs) are also required to offer mental health services regardless of ability to pay. You can find one near you at findahealthcenter.hrsa.gov."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're on hour three of sitting with something that feels too heavy to carry alone, and you don't know if what you're feeling counts as a "real" emergency. You're not sure if you should call someone, and you don't want to overreact. If you're wondering whether you need help, that question itself is worth taking seriously.

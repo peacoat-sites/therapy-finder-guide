@@ -3,41 +3,36 @@ title: "About Therapy Finder Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Therapy Finder Guide,  meet Alex Morgan and learn how we help people find and afford therapy."
+description: "What Therapy Finder Guide covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "alex-morgan"
-author_name: "Therapy Finder Guide"
-person_name: "Alex Morgan"
 ---
 
 ## About Therapy Finder Guide
 
-Therapy Finder Guide is an independent resource to help people navigate the process of finding mental health care,  understanding therapy types, finding providers, managing costs, and knowing what to expect.
+Therapy Finder Guide helps people find and afford mental health care: types of therapy, finding a provider, insurance and costs, and what to expect.
 
-## Meet the Editor
+## Who writes here
 
-**Alex Morgan** is the editor behind Therapy Finder Guide.
+Articles are published under pen names, each covering one part of the site:
 
-Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy.
+- **[Alex Morgan](/alex-morgan/)**: how to find and start therapy, from insurance to the first appointment
+- **[Chris Peterson](/chris-peterson/)**: the research on therapy types such as CBT, ACT and trauma-focused therapy
+- **[Jamie Sullivan](/jamie-sullivan/)**: finding a therapist who fits: directories, sliding-scale options and waitlists
+- **[Kim Davis](/kim-davis/)**: mindfulness and stress-reduction skills to use between sessions
+- **[Taylor Brooks](/taylor-brooks/)**: peer support and community-based mental health resources
 
-## What We Cover
+## How we work
 
-Therapy Finder Guide covers the full landscape of mental health care access,  CBT, DBT, and other therapy types explained plainly; how to find in-network therapists; sliding scale and low-cost options; teletherapy platforms compared; using HSA/FSA for therapy; and what to expect in a first session.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## Our Approach
+## Important limits
 
-We don’t refer to specific therapists or take referral fees. We don’t endorse specific platforms beyond explaining what they offer. Our goal is to give you accurate, useful information so you can make your own decision.
+This site is not therapy and cannot assess your situation. If you are thinking about suicide or are in crisis, call or text 988 to reach the Suicide and Crisis Lifeline in the US, or call 911 if you are in immediate danger. For a diagnosis or a treatment plan, see a licensed mental health professional.
 
-## Important Disclaimer
+## Affiliate disclosure
 
-Therapy Finder Guide provides general mental health information only. Alex Morgan is a writer and researcher,  not a licensed therapist, psychologist, or mental health professional. Nothing on this site is a substitute for professional mental health care.
-
-**If you are in crisis, please contact the 988 Suicide & Crisis Lifeline by calling or texting 988.**
-
-## Affiliate Disclosure
-
-Some links on this site are affiliate links for books and resources. Purchases may earn us a small commission at no extra cost to you.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
 ## Contact
 
-Questions or suggestions? [Reach out here](/contact/).
+Questions, corrections or topic requests: use the [contact page](/contact/).

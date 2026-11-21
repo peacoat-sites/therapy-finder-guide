@@ -21,8 +21,8 @@ faqs:
    a: "Apps like BetterHelp or Talkspace can provide access to licensed therapists and have lower barriers to entry. The evidence on their effectiveness compared to traditional therapy is still developing. I'd think of them as a reasonable starting point, especially if they get you talking to someone when you otherwise wouldn't, but for more severe body image distress or BDD, an in-person therapist with specific training is preferable if you can access one."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who start therapy for body image issues don't think they're "sick enough" to be there. That's the first thing worth saying out loud, because it keeps a lot of people out of the room who genuinely need to be in it.

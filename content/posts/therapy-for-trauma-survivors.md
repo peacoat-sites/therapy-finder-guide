@@ -21,8 +21,8 @@ faqs:
    a: "No. Some modalities, particularly somatic experiencing and certain EMDR protocols, work without requiring detailed verbal accounts of traumatic events. Even within talk-based approaches, a good trauma therapist will never pressure you to disclose more than you're ready for. The goal is always to work at the edge of your window of tolerance, not to push you over it. Your readiness and your pace matter."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in your car in a grocery store parking lot. The fluorescent lights pouring through the windows feel suffocating, they're the same ones from the hospital, from that day. You can't go inside. You're not being dramatic. You're not "crazy." This is a trauma response, and millions of people know exactly what this moment feels like.

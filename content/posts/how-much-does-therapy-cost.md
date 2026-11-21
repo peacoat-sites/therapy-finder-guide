@@ -21,8 +21,8 @@ faqs:
    a: "You still have options. NAMI operates a helpline (1-800-950-6264) staffed by trained volunteers who can help you find local resources. Crisis Text Line (text HOME to 741741) is free and available 24/7 for moments of acute distress. Many communities have peer support groups, which are free and can provide meaningful connection and coping support. And self-directed tools, like CBT workbooks or mindfulness practices, can offer real benefit while you work toward accessing professional care."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
-author_title: "Therapy Navigator"
-author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+author_title: "Finding a Therapist"
+author_bio: "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've finally decided to make that call. Weeks of thinking about it, and now you're on a therapist's website, ready to book. Then you see it: "Session fee: $200." Your stomach drops. You close the tab.

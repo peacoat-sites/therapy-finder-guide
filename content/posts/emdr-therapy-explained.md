@@ -21,8 +21,8 @@ faqs:
    a: "No. This surprises a lot of people. EMDR doesn't require you to narrate your trauma in detail the way some other trauma therapies do. You hold the memory internally and follow the bilateral stimulation while reporting what comes up. Your therapist doesn't need a blow-by-blow account. Some clients find this one of the most appealing aspects of EMDR, particularly when shame or difficulty verbalizing has been a barrier to other approaches."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
-author_title: "Therapy Navigator"
-author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+author_title: "Finding a Therapist"
+author_bio: "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've told your trauma story so many times you could recite it like a grocery list. Yet every time you do, your chest tightens, your hands go cold, and you're right back in that moment. Talk therapy has helped you understand what happened. You can explain the psychology of it, name the cognitive distortions, identify your triggers. But the body hasn't gotten the memo. That gap between knowing something intellectually and feeling it in your bones is exactly where EMDR therapy lives.

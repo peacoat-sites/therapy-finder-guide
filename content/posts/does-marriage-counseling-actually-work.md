@@ -19,10 +19,10 @@ faqs:
    a: "Mostly just terminology. In practice, the terms are used interchangeably. 'Marriage counseling' sometimes implies a shorter, more advice-oriented approach, while 'couples therapy' often suggests a deeper therapeutic process, but there's no standardized distinction. What matters is the therapist's training and approach, not what they call it on their website."
  - q: "Should we try marriage counseling before deciding to divorce?"
    a: "It depends on whether ambivalence is real on both sides. If it is, discernment counseling (mentioned above) is a better fit than jumping into process therapy. If one person has emotionally checked out, therapy can clarify that faster than more years of limping along. Either outcome is information."
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The honest answer is: sometimes. That's not the hedge you'll find in most articles about marriage counseling, which tend to land somewhere between cautious optimism and outright cheerleading. But vague encouragement doesn't help you decide whether to spend $150 per session on [couples therapy](/couples-therapy-how-it-works/) or have a harder conversation about whether your relationship is actually salvageable.

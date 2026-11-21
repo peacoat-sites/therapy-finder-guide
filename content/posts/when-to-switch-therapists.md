@@ -21,8 +21,8 @@ faqs:
    a: "You don't have to, but being honest helps. Your new therapist will want to understand what you've already worked on and what hasn't resonated. Saying 'I felt like I wasn't making progress' or 'I needed someone with more specific training in trauma' gives them useful context. They're not there to judge your previous therapist. They're there to help you move forward."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've been seeing your therapist for eight months. You don't dread the appointments exactly, but you don't look forward to them either. Sessions feel a little like going through the motions. You talk, they nod, they ask a clarifying question or two, you wrap up. You leave feeling... fine. Not worse. But not better, either. And somewhere underneath the politeness of it all, you're starting to wonder: is this just how therapy works, or is something off? That quiet question, the one most people push down because they feel guilty even thinking it, is exactly what we need to talk about.

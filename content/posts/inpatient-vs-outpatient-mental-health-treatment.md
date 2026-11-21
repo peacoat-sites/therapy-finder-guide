@@ -21,8 +21,8 @@ faqs:
    a: "Community mental health centers, FQHCs, and state-funded programs exist specifically for this. NAMI's helpline (1-800-950-6264) can help you identify local resources by state. Open Path Collective offers reduced-rate therapy sessions ($30 to $80) for people who don't qualify for Medicaid but can't afford standard rates."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
-author_title: "Therapy Navigator"
-author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+author_title: "Finding a Therapist"
+author_bio: "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people don't learn the difference between inpatient and outpatient mental health treatment while they're calm and researching. They learn it in crisis, or watching someone they love go through one, while a doctor or ER nurse is asking them to make a decision they've never had to think about before. That moment hits different.

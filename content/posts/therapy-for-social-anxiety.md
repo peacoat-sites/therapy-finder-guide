@@ -21,8 +21,8 @@ faqs:
    a: "This is worth unpacking rather than writing off. Was the previous therapy CBT-based and focused specifically on social anxiety? Many people have had experience with general talk therapy or supportive counseling that, while valuable in some ways, doesn't directly address the cognitive and behavioral mechanisms of social anxiety. If your previous therapy didn't include structured exposure work, you may not have actually tried what the evidence says works. It's worth giving a different approach or a different therapist a real chance."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You rehearsed the coffee order three times in your head before walking up to the counter. And then the barista asked a follow-up question you didn't expect, your face went hot, and you spent the next two hours replaying that 45-second interaction wondering if you'd seemed weird. If that sounds familiar, you're not dramatic and you're not broken. You're dealing with social anxiety, and it's more treatable than most people think.

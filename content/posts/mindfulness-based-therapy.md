@@ -19,10 +19,10 @@ faqs:
    a: "Adapted versions of MBCT and MBSR have been developed and studied for younger populations, with generally positive results for anxiety and attention issues. However, the delivery, language, and session length are modified significantly for children and adolescents. If you're a parent considering this for your child, our child therapy guide for parents covers what to look for in a clinically appropriate approach for younger clients."
  - q: "Do I have to have a specific diagnosis to benefit from mindfulness-based therapy?"
    a: "No. While the research is strongest for specific diagnoses like recurrent depression, many people seek mindfulness-based therapy for stress, life transitions, relationship difficulties, or simply wanting to function better emotionally. A diagnosis isn't a prerequisite for therapy of any kind. What matters is whether you're experiencing something that's affecting your quality of life and whether you're motivated to do the consistent work the approach requires."
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your heart's pounding in the waiting room. Anxiety about the anxiety itself, spiraling, and nothing you tell yourself breaks the loop. Mindfulness-based therapy was built for exactly this. Not to make it disappear, but to change what it means to you. Sounds simple. It's not.

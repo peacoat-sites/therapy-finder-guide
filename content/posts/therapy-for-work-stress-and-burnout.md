@@ -21,8 +21,8 @@ faqs:
    a: "It depends on the depth of what you're dealing with and the type of therapy. For someone whose burnout is relatively recent and situational, 8 to 12 sessions of CBT can produce real results. For someone with longer-standing patterns, deeper anxiety, or burnout that has developed over years, the work often takes longer. Your therapist should give you a working sense of the timeline after the first couple of sessions. If they can't speak to this at all, it's okay to ask directly."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Maybe you've started dreading Sunday evenings. Not in a vague, "weekends go too fast" kind of way, but in a chest-tightening, stomach-dropping way that you can't quite explain to the people around you. You're getting your work done. You're showing up. From the outside, things probably look fine. But something has shifted, and you know it. You're more irritable than you used to be, you can't seem to recover on weekends the way you once could, and the things that used to feel meaningful at work now feel like a performance you're barely keeping up. If any of that lands, you're not weak, you're not broken, and you're not alone. You might be burned out. And therapy might be exactly what you need.

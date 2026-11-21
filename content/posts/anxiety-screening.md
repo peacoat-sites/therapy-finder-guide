@@ -4,7 +4,7 @@ date: 2026-06-10T10:30:00+00:00
 draft: false
 slug: "gad7-anxiety-screening"
 description: "Take the GAD-7 anxiety screening questionnaire used by clinicians. Get your score, understand severity levels, and learn when to seek professional support."
-author: "Megan Strand"
+author: "Alex Morgan"
 image: "/img/heroes/897817.jpg"
 categories: ["Conditions"]
 tags: ["anxiety", "screening", "GAD-7", "mental health assessment"]
@@ -18,6 +18,9 @@ faqs:
  - q: "What types of anxiety does GAD-7 detect?"
    a: "The GAD-7 was developed to screen for generalized anxiety disorder but has also been validated for panic disorder, social anxiety disorder, and post-traumatic stress disorder (PTSD). It measures the frequency of core anxiety symptoms over the past two weeks."
 lastmod: 2026-07-09
+author_slug: "alex-morgan"
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 ---
 **If you are in crisis or having thoughts of self-harm, call or text 988 (Suicide & Crisis Lifeline) immediately. For emergencies, call 911.**
 

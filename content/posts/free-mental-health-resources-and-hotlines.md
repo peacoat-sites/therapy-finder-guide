@@ -19,10 +19,10 @@ faqs:
    a: "The honest answer is: for some things, in some contexts, yes. Apps built on CBT principles, like MindShift, have reasonable evidence behind them for mild to moderate anxiety and mood issues. They are not effective replacements for clinical care for serious mental health conditions. Think of them as a supplement or a bridge, not a ceiling."
  - q: "How do I support someone else who needs help but won't reach out?"
    a: "You can't force someone into care, and trying to tends to backfire. What you can do is reduce the friction. Offer to sit with them while they make a call. Look up the nearest community health center so they don't have to do that work alone. Remind them that 988 exists and you can text together if that feels easier. Being a consistent, non-pressuring presence matters more than any single resource."
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people figure getting mental health support means dropping money on a therapist, waiting weeks (or months) for an opening, and crossing your fingers that your insurance actually pays. I'll be straight with you: that assumption stops a lot of people from reaching out at all. But when I started actually researching this, what jumped out was how many real, free, or nearly-free mental health resources exist right now. Not someday. Today. Available to almost anyone in the U.S. regardless of income, insurance, or where you live. The resources are there. The problem is nobody knows about them.

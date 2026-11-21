@@ -21,8 +21,8 @@ faqs:
    a: "Absolutely. Grief, trauma, extreme stress, medical events, and substance interactions can all precipitate a crisis in someone who has never had a prior mental health diagnosis. History helps predict risk, but it doesn't gatekeep who can experience one."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most crisis advice online reads like it was written for a legal department. "Seek help immediately." "Contact a mental health professional." Cool, thanks. What does that actually mean at 2 a.m. when your hands are shaking and you can't remember how to breathe?

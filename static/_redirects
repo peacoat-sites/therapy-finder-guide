@@ -6,7 +6,7 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
-/dr.-chris-peterson/ /dr-chris-peterson/ 301
+/dr.-chris-peterson/ /chris-peterson/ 301
 
 # 2026-07-18 duplicate-topic merges
 /what-the-new-deep-tms-data-means-for-ptsd-and-depression/ /deep-tms-for-ptsd-and-depression-what-the-new-data-show/ 301
@@ -21,3 +21,5 @@
 /categories/signs-and-symptoms/ /categories/conditions/ 301
 /categories/treatment/ /categories/therapy-types/ 301
 /categories/types-of-therapy/ /categories/therapy-types/ 301
+/dr-chris-peterson/ /chris-peterson/ 301
+/megan-strand/ /about/ 301

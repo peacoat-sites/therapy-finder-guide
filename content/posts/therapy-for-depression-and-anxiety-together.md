@@ -10,8 +10,8 @@ slug: "therapy-for-depression-and-anxiety-together"
 affiliate_disclosure: true
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who come to me with depression and anxiety don't even realize they have both. They describe feeling exhausted and unmotivated, then mention in the same breath that they can't stop worrying, that they lie awake running disaster scenarios, that dread follows them from room to room. They think it's all one thing. Often, it is, in the sense that the two conditions are so frequently tangled together that treating one without acknowledging the other tends to backfire.

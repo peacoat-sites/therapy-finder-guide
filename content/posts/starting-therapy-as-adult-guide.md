@@ -21,8 +21,8 @@ faqs:
    a: "It depends on what you're working on, the approach being used, and how you respond. CBT for a specific phobia might wrap up in 12 sessions. Processing complex trauma might take years. Most people find that even a relatively short course of therapy (three to six months) produces meaningful change. Ongoing therapy for long-term support is also legitimate, this isn't a race to the exit."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
-author_title: "Therapy Navigator"
-author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+author_title: "Finding a Therapist"
+author_bio: "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people wait an average of 11 years between the onset of mental health symptoms and actually getting treatment. Eleven years. That's not buried in some footnote, it shows up repeatedly in mental health research, and every time I see it, I think about all the people white-knuckling through their twenties, their relationships, their careers, quietly wondering if something's broken in them. If you're reading this right now, you're probably not in year one of whatever you're carrying. And you're probably tired of carrying it alone.

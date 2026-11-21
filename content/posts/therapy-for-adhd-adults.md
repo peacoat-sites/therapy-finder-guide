@@ -21,8 +21,8 @@ faqs:
    a: "This comes up a lot. The most common reason therapy doesn't land for adults with ADHD is a mismatch between the therapy style and the ADHD brain. Open-ended, unstructured approaches can feel pointless or frustrating. If your previous therapist didn't use a structured, skills-based modality like CBT or DBT, it may be worth trying again with a provider specifically trained in those approaches. A bad fit isn't evidence that therapy can't work for you. Getting support for ADHD as an adult isn't about fixing a flaw. It's about finally having tools that match how your brain actually works. The right"
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
-author_title: "Therapy Navigator"
-author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+author_title: "Finding a Therapist"
+author_bio: "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You finally sit down to pay your bills. Twenty minutes later, you're reorganizing your bookshelf, watching a YouTube video about the history of staplers, and vaguely aware that the bills are still unpaid. Sound familiar? For the estimated 8 to 10 million adults in the United States living with ADHD, this kind of moment isn't laziness or lack of willpower. It's a neurological reality. And yet, most adults with ADHD spent decades being told they just needed to "try harder." Therapy can't erase ADHD, but it can genuinely change how you live with it.

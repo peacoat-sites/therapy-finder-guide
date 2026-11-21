@@ -4,7 +4,7 @@ date: 2026-06-10T10:00:00+00:00
 draft: false
 slug: "phq9-depression-screening"
 description: "Take the PHQ-9 depression screening questionnaire used by clinicians worldwide. Understand your score, what it means, and when to seek professional help."
-author: "Megan Strand"
+author: "Alex Morgan"
 image: "/img/heroes/3807571.jpg"
 categories: ["Conditions"]
 tags: ["depression", "screening", "PHQ-9", "mental health assessment"]
@@ -18,6 +18,9 @@ faqs:
  - q: "What happens after a positive PHQ-9 screen?"
    a: "If your score suggests moderate to severe depression, a clinician will typically conduct a more thorough clinical interview, discuss your history and symptoms in depth, and discuss treatment options including therapy, medication, or a combination of both."
 lastmod: 2026-07-09
+author_slug: "alex-morgan"
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 ---
 **If you are in crisis or having thoughts of self-harm, please call or text 988 (Suicide & Crisis Lifeline) right now. For emergencies, call 911.**
 

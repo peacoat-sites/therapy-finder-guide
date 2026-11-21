@@ -21,8 +21,8 @@ faqs:
    a: "A trained therapist will have a safety plan in place before this happens. During your intake, your therapist should ask for your address and an emergency contact so they can act if needed. If you're experiencing a mental health emergency outside of a session, contact the 988 Suicide and Crisis Lifeline by calling or texting 988, or go to your nearest emergency room."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've been meaning to call a therapist for months. Finally, you do. The first three aren't taking new patients. The fourth is 45 minutes away with only Tuesday morning appointments. You work Tuesday mornings. Browser closes. You'll try again later. For most people, later never happens. Telehealth therapy exists because of exactly this gap, between deciding you need help and actually getting it.

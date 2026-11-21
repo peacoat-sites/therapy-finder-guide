@@ -7,9 +7,9 @@ description: "Compare CBT, DBT, EMDR, psychodynamic, and ACT therapy by effectiv
 image: "/img/heroes/b310aaec5672.jpg"
 categories: ["Therapy Types"]
 tags: ["comparison", "2026", "costs", "data"]
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
 slug: "therapy-modality-effectiveness-research-2026"
 featured_depth: true
 faqs:
@@ -23,6 +23,7 @@ faqs:
     a: "Move to the next option. If CBT doesn't work for depression after 16-20 sessions, consider psychodynamic work, ACT, or checking for comorbid personality pathology that might need different approach. Treatment-resistant cases often need modality switching."
   - q: "How do I know if someone needs months versus years of therapy?"
     a: "Start with brief, structured modalities (CBT, EMDR, ACT). If the presenting problem resolves but deeper patterns emerge, or if gains plateau, that signals a need for longer-term psychodynamic or DBT work. Trust the data, then trust the clinical feedback."
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 ---
 
 People often choose therapy modalities based on what they've heard rather than what actually works for their specific condition. The good news is that we have solid research now. The better news is that these five major approaches each excel at different problems, and understanding those differences can mean the difference between six months of progress and three years of spinning wheels.

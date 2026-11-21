@@ -19,10 +19,10 @@ faqs:
    a: "Sometimes, yes. Early therapy can bring up painful material, and the process of confronting difficult emotions isn't always comfortable. But 'worse' should be temporary and should feel like productive discomfort rather than genuine deterioration. If you feel significantly worse after several sessions, tell your therapist directly. That feedback matters. Therapy that makes you consistently more distressed without any sense of progress may not be the right fit."
  - q: "How do I know if my therapist is actually qualified?"
    a: "Check their licensure. In the United States, therapists should hold credentials like LCSW (Licensed Clinical Social Worker), LPC (Licensed Professional Counselor), LMFT (Licensed Marriage and Family Therapist), or PhD/PsyD (psychologist). You can verify licenses through your state's licensing board website. Be cautious of anyone who can't clearly explain their credentials or their treatment approach, or who makes guarantees about outcomes."
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 It's 2 p.m. on a Tuesday and you haven't left your bedroom in three days. The dishes are piling up. Your phone has seventeen unread texts. The thought of doing literally anything feels like trying to lift a car with your bare hands. You're not lazy. You're not broken. You might be living with depression, and here's the hard truth: therapy can help, but only if you can get yourself through the door, figuratively or literally. That's what this article is about. Not the glossy version where someone nods thoughtfully while you talk about childhood, but the actual, practical side of finding help when depression has already stolen most of your energy.

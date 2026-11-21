@@ -21,8 +21,8 @@ faqs:
    a: "That's a fair question to ask upfront. ACT is well-researched but it's not the right fit for every person or every situation. If it doesn't resonate, that's useful information, not a failure. Other approaches like DBT (particularly useful for emotional dysregulation) or trauma-focused work might be better suited. Our overview of DBT therapy is a good next read if you're exploring options."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've tried the self-help thing. Journaled. Done the mirror affirmations. White-knuckled your way through anxious days telling yourself to think positive. And the worry's still there. The grief's still there. The self-doubt hasn't budged. What if the problem isn't that you haven't tried hard enough, but that the entire strategy is backwards? What if telling yourself you need to eliminate painful thoughts before you can live is the thing actually keeping you stuck? That's the central idea of Acceptance and Commitment Therapy, or ACT. For a lot of people, it changes everything.

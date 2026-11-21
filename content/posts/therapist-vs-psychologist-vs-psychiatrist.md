@@ -19,10 +19,10 @@ faqs:
    a: "A growing body of research suggests telehealth therapy is comparably effective to in-person therapy for many conditions, including anxiety, depression, and PTSD. It also removes barriers like transportation, scheduling, and geographic access to providers. That said, some people genuinely prefer the in-person environment, and for certain populations (like people in acute crisis or those who need hands-on skills training), in-person may be more appropriate. Both are legitimate options."
  - q: "How long will I need to be in therapy?"
    a: "This varies enormously depending on what you're working on, the type of therapy, and how you respond. Some structured approaches like Cognitive Behavioral Therapy (CBT) for a specific phobia might run 12 to 20 sessions. Longer-term work on relational patterns or trauma may take a year or more. A good therapist will discuss goals with you early on and revisit progress regularly. You always have the right to decide when therapy is no longer serving you."
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've finally decided to get help. Maybe it took months of convincing yourself, or maybe something happened last week that made the decision for you. You open your laptop, type "find a therapist," and immediately hit a wall of titles: licensed clinical social worker, psychologist, psychiatrist, therapist, counselor, psychotherapist. The words blur together. You close the tab. This happens more often than most people realize, and it's one of the quiet reasons people delay care that could genuinely change their lives.

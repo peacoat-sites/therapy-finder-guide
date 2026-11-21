@@ -7,10 +7,10 @@ description: "Explore whether persistent anxiety is normal, what causes it, and 
 image: "/img/heroes/7279110.jpg"
 categories: ["Signs and Symptoms"]
 tags: ["normal", "feel", "anxious", "time"]
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 slug: "is-it-normal-to-feel-anxious-all-the-time"
 affiliate_disclosure: true
 faqs:

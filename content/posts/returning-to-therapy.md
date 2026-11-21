@@ -21,8 +21,8 @@ faqs:
    a: "If you've been asking yourself this question for more than a couple of weeks, that's usually the answer. A hard week passes; a lingering sense that something needs attention doesn't resolve on its own the same way."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Maybe you've been in therapy before. Maybe it helped, maybe it didn't, or maybe life just got busy and you stopped going. Now it's months or years later and you're wondering if you should try again. That particular kind of wondering, the quiet "should I go back?" that surfaces at 11pm on a Tuesday, is something I've heard described more times than I can count. And the fact that you're asking at all usually means the answer is yes.

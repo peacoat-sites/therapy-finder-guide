@@ -6,10 +6,10 @@ description: "Learn how the 988 Suicide and Crisis Lifeline works, who answers y
 image: "/img/heroes/7128188.jpg"
 categories: ["Crisis"]
 tags: ["suicide", "crisis", "lifeline", "works"]
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 slug: "988-suicide-and-crisis-lifeline-how-it-works"
 affiliate_disclosure: true
 faqs:

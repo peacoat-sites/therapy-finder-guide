@@ -21,8 +21,8 @@ faqs:
    a: "Some resistance is normal, especially for kids who are anxious or have had bad experiences with doctors. A good play therapist has handled this before. Let the therapist know in advance, and ask about strategies for the first session. Forcing a child into the room isn't usually productive, but a warm, low-pressure introduction can change the dynamic quickly."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most parents who ask me about play therapy are expecting me to talk them into it. They've already Googled it, watched a few reassuring YouTube videos, and arrived at my inbox half-convinced but unsure if it's "real" therapy or just an expensive playdate. Here's what I actually tell them: it's one of the most evidence-backed approaches we have for children under twelve. The fact that it looks like playing? That's a feature, not a flaw.

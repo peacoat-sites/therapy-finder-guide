@@ -21,8 +21,8 @@ faqs:
    a: "It depends on your plan. HMO plans often require a referral from your primary care physician. PPO plans usually don't. When you call your insurance company, this is one of the direct questions to ask, because getting it wrong can mean a claim is denied after the fact."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people spend more time picking a Netflix show than figuring out if their therapist is actually in-network. Then the bill arrives for $250 a session and suddenly everything makes sense. This pattern is behind many "I tried therapy and it was too expensive" complaints.

@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and there's a specifically adapted version called DBT-A (DBT for Adolescents) that's been well-studied. DBT-A also involves family members as part of the treatment, which makes sense given how much teens' emotional experiences are embedded in family dynamics. If you're a parent looking for support for a teenager, look specifically for therapists who mention DBT-A training."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've tried therapy before, maybe even more than once, and it helped a little. But the part of you that floods with emotion, that reacts in ways you regret hours later, that part never quite got addressed. Willpower alone hasn't budged it. If that's you, DBT is probably the conversation you haven't had yet.

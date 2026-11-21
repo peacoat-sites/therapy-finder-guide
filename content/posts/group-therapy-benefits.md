@@ -21,8 +21,8 @@ faqs:
    a: "Group therapy is not an emergency resource. If you're in acute distress or having thoughts of harming yourself, please contact the 988 Suicide and Crisis Lifeline by calling or texting 988. That line is staffed 24 hours a day, seven days a week, and can help you access immediate support. Group therapy is a powerful tool for ongoing mental health, but crisis support needs to come first."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Sit in a circle with seven strangers, and nobody talks at first. Then someone admits something they've been too ashamed to say out loud, and your shoulders drop about two inches. That's group therapy. It's unglamorous, sometimes awkward, and wildly underrated in mental health care.

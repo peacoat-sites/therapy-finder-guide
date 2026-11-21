@@ -21,8 +21,8 @@ faqs:
    a: "The Mental Health Parity and Addiction Equity Act (MHPAEA) requires that insurers cover mental health services at parity with medical or surgical benefits. In plain terms, they can't impose stricter limits on mental health visits than they do on, say, physical therapy. If you believe your insurer is applying more restrictive rules to mental health care than to other medical care, you can file a complaint with your state insurance commissioner."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people figure that once a therapist accepts their insurance, the hard part is done. I used to think that too. Then I kept running into the same problem: "in-network" isn't a guarantee. It's more like a starting point, and a frustrating one.

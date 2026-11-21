@@ -19,10 +19,10 @@ faqs:
    a: "Absolutely. If you've tried CBT and feel you've hit a ceiling, exploring psychodynamic work is a legitimate next step. The reverse is also true. Some people spend time doing deeper exploratory work and then want practical skills to manage what they've uncovered. Your needs can change, and a good therapist will adapt or refer you if a different approach would serve you better."
  - q: "What if I can't afford long-term therapy?"
    a: "This is a real barrier, and it's worth approaching practically rather than just feeling stuck. Many therapists offer sliding-scale fees. Community mental health centers often provide lower-cost services. Some employers offer Employee Assistance Programs that include free short-term therapy. Online therapy platforms can also be more affordable than traditional in-person sessions. Our guide on how much therapy costs lays out the landscape clearly without making promises about what you'll pay."
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You're staring at a therapist's profile that lists "psychodynamic therapy, CBT, mindfulness-based approaches" and a dozen other terms you've never heard. You close the tab. It felt easier not to know.

@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and early treatment matters. Trauma-Focused Cognitive Behavioral Therapy (TF-CBT) is the gold standard for children and adolescents, typically involving both the child and a caregiver. Our child therapy guide for parents and teen therapy options article cover what to look for and how to access age-appropriate care."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
-author_title: "Therapy Navigator"
-author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+author_title: "Finding a Therapist"
+author_bio: "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 3 a.m. strikes again. Heart hammering. The smell is back, the sound is back, and you're absolutely certain you're there, in that moment from years ago, even though your eyes tell you otherwise. That's PTSD. It doesn't leave memories. It leaves wounds that keep tearing open.

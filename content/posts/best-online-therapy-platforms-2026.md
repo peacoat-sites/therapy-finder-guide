@@ -11,8 +11,8 @@ slug: "best-online-therapy-platforms"
 affiliate_disclosure: true
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 
 ---
 Most people picking an online therapy platform in 2026 filter by price or land on the most-advertised option, which often doesn't match what works best for individual needs. Online therapy platforms vary significantly in how they operate, their outcomes, and what users report about their experience. The picture is more complicated than any "best of" list will tell you.

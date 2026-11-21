@@ -21,8 +21,8 @@ faqs:
    a: "Probably not, unless you're very confident about the reimbursement math and have cash flow to bridge the gap between paying sessions and receiving reimbursement checks. In-network care at a manageable cost beats out-of-network care that creates financial stress. That said, sliding scale rates from out-of-network therapists sometimes end up cheaper than in-network copays. Compare actual numbers before deciding."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You found the right therapist. She specializes in exactly what you're dealing with, her reviews are solid, and she has an opening next week. Then you check her insurance status: out-of-network. Most people close the tab.

@@ -19,10 +19,10 @@ faqs:
    a: "Yes, and many practitioners have adapted their methods effectively for video sessions. Some body-based work, like gentle movement practices, is easy to do remotely. Other elements, like gentle touch used in some Hakomi or Sensorimotor work, require in-person contact. If you're weighing the tradeoffs of online versus in-person, there's a helpful comparison of online therapy and in-person therapy worth reading."
  - q: "Is somatic therapy the same as massage or bodywork?"
    a: "No, though the name sometimes confuses people. Somatic therapy is a licensed psychological treatment conducted by mental health professionals. It may sometimes involve mindful awareness of physical sensation or, in some modalities like Hakomi, gentle consensual touch, but it's not massage, chiropractic care, or physical therapy. The goal is psychological and nervous system regulation, not physical manipulation."
-author: "Dr. Chris Peterson"
-author_slug: "dr-chris-peterson"
-author_title: "Clinical Reviewer"
-author_bio: "Dr. Chris Peterson is a licensed psychologist who reviews mental health content for clinical accuracy and evidence-based grounding. With a background in CBT, ACT, and trauma-informed care, he brings rigor to a content space where misinformation can do real harm. At Therapy Finder Guide, he reviews and annotates content related to specific mental health conditions, therapy modalities, and treatment evidence."
+author: "Chris Peterson"
+author_slug: "chris-peterson"
+author_title: "Therapy Research"
+author_bio: "Chris Peterson is the byline used at Therapy Finder Guide for articles on the research on therapy types such as CBT, ACT and trauma-focused therapy. It is a pen name, not a psychologist or licensed clinician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've talked about the same painful memory in therapy for months. You understand it intellectually. You can describe what happened, who was involved, why it hurt. But something still feels off, like your body didn't get the memo. Your shoulders tense up without warning. Your chest tightens in certain rooms. You startle easily, sleep poorly, and can't quite explain why.

@@ -21,8 +21,8 @@ faqs:
    a: "This is one of the most frustrating and common experiences people report right now. A few moves that help: ask the therapist's voicemail to put you on a cancellation list, check Psychology Today's therapist finder with the 'sliding scale' filter enabled, and contact your county's mental health department directly to ask about intake. If you're in acute distress during the wait, NAMI's helpline (1-800-950-6264) can also help you find faster local options."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
-author_title: "Therapy Navigator"
-author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+author_title: "Finding a Therapist"
+author_bio: "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people spend three to six months trying to find affordable therapy before they actually get into a room with someone. The delay almost never comes from a shortage of options. It comes from not knowing which direction to look first, hitting a confusing insurance wall, and quietly assuming that therapy is just going to cost $200 a session and that's that.

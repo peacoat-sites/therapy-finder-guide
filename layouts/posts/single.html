@@ -37,7 +37,7 @@
       <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
       {{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }}<span style="color:#64748b;font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
       <span>{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
-      <span class="post-reviewed">&middot; <a href="/editorial-standards/" style="color:inherit;font-weight:600">Fact-checked &amp; reviewed</a></span>
+      <span class="post-reviewed">&middot; <a href="/editorial-standards/" style="color:inherit;font-weight:600">How we write</a></span>
       </div>
       <div class="post-share" aria-label="Share this article">
         <a class="share-btn sb-x" href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}" target="_blank" rel="noopener" aria-label="Share on X" title="Share on X"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
@@ -320,8 +320,7 @@
 
 <!-- AI Disclosure -->
 <div class="ai-disclosure">
-  <p>This article was produced with assistance from AI tools and reviewed by
-    {{ if .Params.author }}<a href="/authors/{{ .Params.author | urlize }}/">{{ .Params.author }}</a>{{ else }}our editorial team{{ end }}.
+  <p>This article was drafted with AI writing tools and checked by an automated accuracy pass before publishing.{{ with .Params.author }} {{ . }} is a pen name.{{ end }} <a href="/editorial-standards/">How we write and check articles</a>.
   </p>
 </div>
 

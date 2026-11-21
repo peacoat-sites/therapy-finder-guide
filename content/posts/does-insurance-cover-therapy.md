@@ -21,8 +21,8 @@ faqs:
    a: "This one is tricky. Many insurance plans do not cover couples therapy unless there's a diagnosable mental health condition being treated. Family therapy is more likely to be covered when a child or family member with a diagnosis is the identified patient. It's not a hard no across the board, but it requires careful verification. Some therapists handle this by billing for the individual with the diagnosis while conducting joint sessions."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You call your insurance company on a Tuesday morning, ready to finally book that first therapy appointment. Forty-five minutes later, you hang up more confused than when you started. Deductibles, out-of-pocket maximums, "in-network" versus "out-of-network," prior authorization, mental health parity. The words blur together. And somewhere in that blur, the idea of actually *going* to therapy quietly gets shelved. This confusion is one of the most frustrating obstacles between someone and the help they need. The good news is that most insurance plans do cover therapy to some meaningful degree, but understanding exactly what you're entitled to takes a little unpacking.

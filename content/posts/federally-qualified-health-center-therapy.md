@@ -21,8 +21,8 @@ faqs:
    a: "Yes. The same HIPAA protections that apply to any licensed clinical setting apply here. Your therapy records are kept separate from your general medical records in most systems, and sharing between providers within the same FQHC requires your consent except in specific clinical situations. Ask the intake coordinator about records practices if this is a concern."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
-author_title: "Community Advocate"
-author_bio: "Taylor Brooks facilitates peer support groups and advocates for community-based mental health access, particularly for people who face systemic barriers to traditional therapy. They bring a community organizing perspective to mental health conversations and believe that peer connection is an undervalued part of the mental health ecosystem. At Therapy Finder Guide, Taylor covers peer support resources, community mental health programs, and mental health advocacy."
+author_title: "Community Support"
+author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're reading about Federally Qualified Health Centers because you need help and you want to know if you can afford it. The answer is almost certainly yes. Here's how.

@@ -21,8 +21,8 @@ faqs:
    a: "There are real options. Community mental health centers often offer sliding-scale fees. Hospice organizations typically provide free bereavement support to the families of patients they've served. University training clinics offer lower-cost sessions with supervised graduate students. And peer-led grief groups, while not clinical therapy, can provide meaningful support at no cost. If you're struggling to find affordable options, SAMHSA's treatment locator can help you find services by zip code and filter by payment options."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Grief doesn't follow a schedule. You can be fine at the grocery store and completely fall apart in the car on the way home because a song came on. You can feel okay for three weeks and then get blindsided on a random Tuesday by a wave of sadness so heavy it's hard to breathe. One of the most disorienting things about grief is that it doesn't look the way people expect it to, and that gap between expectation and reality is exactly where a lot of people quietly suffer alone, wondering if something is wrong with them. Nothing is wrong with you. But grief counseling might be one of the most useful tools you haven't considered yet.

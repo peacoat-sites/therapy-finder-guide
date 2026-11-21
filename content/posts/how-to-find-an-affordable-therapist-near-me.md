@@ -21,8 +21,8 @@ faqs:
     a: "It depends on what you're working on and what you want. Short-term, structured approaches like CBT often produce meaningful results in 8 to 20 sessions for specific issues like phobias or mild depression. Deeper work on personality patterns, complex trauma, or relationship dynamics tends to take longer. A good therapist will set goals with you early and revisit them regularly. You should feel the work moving, not stalled."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people spend more time researching a new laptop than they spend researching how to find a therapist. Then they hit a wall, assume therapy is something only people with good insurance and disposable income can afford, and quietly drop the idea. That assumption is wrong, and it's costing people real help. Affordable therapy exists in more forms than most guides bother to explain. Here's the actual map.

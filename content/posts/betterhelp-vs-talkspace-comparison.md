@@ -21,8 +21,8 @@ faqs:
    a: "This happens, and recognizing it is a sign the process is working. If your therapist on either platform indicates they aren't the right level of care for your needs, take that seriously. Ask them for a referral, or use Psychology Today's directory to find in-person providers who specialize in your specific situation. Transitioning from online therapy to a higher level of care is normal and doesn't mean online therapy failed you."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've decided to try online therapy. Good. That's the hard part. Now you open a browser and immediately land in a marketing war between two platforms that both claim to be the most affordable, most flexible, most effective option available. BetterHelp says it has over 30,000 therapists. Talkspace counters with insurance coverage and a clinical pedigree. Neither ad tells you what actually matters when you're anxious at 11pm and need to know if someone will actually help you.

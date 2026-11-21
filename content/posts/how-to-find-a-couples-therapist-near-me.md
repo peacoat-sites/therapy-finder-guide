@@ -21,8 +21,8 @@ faqs:
    a: "This is more common than people admit, and a good therapist can work with it. The goal of couples therapy isn't always reconciliation. Sometimes the work is about separating with more clarity and less damage, especially when children are involved. Be honest with your therapist about where each of you is. Trying to hide a foot already out the door usually just prolongs pain."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most couples wait six years after serious problems start before they seek therapy. Six years. That comes straight from Dr. John Gottman's research, which is about as rigorous as relationship science gets. By the time people finally sit across from a therapist together, resentment has hardened, communication patterns have become almost ritualistic, and at least one person is already checked out emotionally. I'm telling you this not to scare you, but because if you're reading this right now, you're already ahead of the curve. The fact that you're searching for a couples therapist at all matters.

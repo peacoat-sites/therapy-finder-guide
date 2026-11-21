@@ -21,8 +21,8 @@ faqs:
    a: "Change therapists. Seriously. The research on therapeutic alliance, meaning the quality of the relationship between client and therapist, shows it's one of the strongest predictors of outcome. If your child dreads sessions, feels unheard, or isn't making any progress after two or three months, it's not giving up to look for someone else. It's advocating for your child. Most therapists understand this and won't take it personally. You can even ask your current therapist for a recommendation if the relationship has been respectful."
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
-author_title: "Therapy Navigator"
-author_bio: "Jamie Sullivan spent two years trying to find a therapist who was a good fit, navigating insurance directories, sliding scale options, and the discouraging experience of therapists who were not taking new clients. That experience became the foundation for practical guides on how to actually find care. At Therapy Finder Guide, Jamie covers the logistics of finding and starting therapy, including teletherapy options and what to do when the first therapist is not the right fit."
+author_title: "Finding a Therapist"
+author_bio: "Jamie Sullivan is the byline used at Therapy Finder Guide for articles on finding a therapist who fits: directories, sliding-scale options and waitlists. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your eight-year-old has been melting down every morning before school for three months. Earlier bedtimes, calmer routines, reward charts, nothing works. Then a teacher pulls you aside and gently suggests therapy, and your stomach drops. Not because you disagree, but because you have no idea where to start, whether your kid will refuse to go, or what actually happens in a therapy session with a second-grader. You're not alone. And you're not failing as a parent for being here.

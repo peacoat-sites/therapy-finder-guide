@@ -21,8 +21,8 @@ faqs:
    a: "This requires careful thought. Family therapy is generally not recommended as the primary intervention in situations involving active domestic violence or abuse. In those cases, safety comes first, and individual therapy or crisis services are typically more appropriate starting points. That said, after safety is established, some forms of family therapy can be part of a broader healing process. Always consult with a mental health professional about your specific situation before deciding."
 author: "Kim Davis"
 author_slug: "kim-davis"
-author_title: "Wellness Educator"
-author_bio: "Kim Davis is a certified mindfulness instructor who teaches evidence-based stress reduction techniques and helps people build self-care practices that support their mental health between therapy sessions. She approaches wellness with practicality and without toxic positivity, focusing on skills that are genuinely useful when life is hard. At Therapy Finder Guide, she covers mindfulness practices, coping strategies, and the self-care approaches that complement professional mental health support."
+author_title: "Coping Skills"
+author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: a family sits around a dinner table in complete silence. Mom stares at her phone. Dad pushes food around his plate. Their teenage daughter disappeared to her room the moment the meal started, and their twelve-year-old son is watching the whole thing, not sure whether to laugh or cry. No one is screaming. No one is throwing dishes. But something is very, very wrong. This scene, quiet and ordinary as it looks, is exactly the kind of thing that brings families into therapy. And it's exactly the kind of thing that therapy can actually fix.

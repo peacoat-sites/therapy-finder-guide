@@ -21,8 +21,8 @@ faqs:
    a: "After the acute phase, maybe. During it, usually not. 'This isn't dangerous' competes with every signal the person's body is sending, and their body is louder than you are right now. Save the psychoeducation for when they've had water and ten minutes to breathe."
 author: "Alex Morgan"
 author_slug: "alex-morgan"
-author_title: "Mental Health Educator"
-author_bio: "Alex Morgan has spent years helping people navigate the mental health system, from understanding therapy types to actually getting an appointment. Alex writes plainly about a process that is often needlessly confusing. At Therapy Finder Guide the focus is therapy access, insurance, and advocacy."
+author_title: "Therapy Access"
+author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most articles about panic attacks spend three paragraphs explaining what a panic attack *is* before they get to anything useful. You're already standing next to someone who's hyperventilating and gripping a table. You don't need a definition.
