@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most people spend more time researching a new laptop than figuring out who to actually call when they're struggling. That's not a criticism. It's just what happens when the system is this confusing and the stakes feel this high.
 
-If you've typed something like "do I need a therapist or a psychiatrist" into a search bar recently, you're in good company. That question comes up constantly, from people navigating the system for the first time, from readers who write in, from friends who quietly ask because they don't know who else to turn to. The titles sound interchangeable until you need to know the difference. Then it matters a lot.
+If you've typed something like "do I need a therapist or a psychiatrist" into a search bar recently, you're in good company. That question comes up constantly, from people navigating the system for the first time, from those who quietly ask because they don't know who else to turn to. The titles sound interchangeable until you need to know the difference. Then it matters a lot.
 
 So let me just lay it out plainly.
 
@@ -58,7 +58,7 @@ Psychiatrists are who you want when something has a strong biological component.
 
 Some psychiatrists do therapy. Not as many as you'd think. Many now focus almost entirely on medication management, partly because of insurance incentives and partly because there simply aren't enough providers to go around. If you see a psychiatrist for ongoing care, you'll often get referred to a separate therapist for the talk-therapy piece. That split model is extremely common and, when coordinated well, it works really effectively.
 
-Cost matters and I won't dodge it. Psychiatrist appointments typically run $200 to $500 or more without insurance, and a lot of them are out-of-network. If cost is a real problem for you, community mental health centers and federally qualified health centers (FQHCs) usually have psychiatrists on staff who see patients on a sliding scale.
+Cost matters and it is worth addressing directly. Psychiatrist appointments typically run $200 to $500 or more without insurance, and a lot of them are out-of-network. If cost is a real problem for you, community mental health centers and federally qualified health centers (FQHCs) usually have psychiatrists on staff who see patients on a sliding scale.
 
 ## What Psychologists Bring to the Table
 
@@ -74,7 +74,7 @@ One thing that trips people up: the title "psychologist" is legally protected in
 
 This deserves to be addressed directly because it causes real damage. There's a quiet belief that a therapist is somehow less than a psychologist or psychiatrist, a backup option when you can't access the "real" professionals. That belief is wrong.
 
-LCSWs, LPCs, and LMFTs do the majority of outpatient talk therapy in the United States. They're trained specifically for clinical work. A skilled LCSW with 15 years treating anxiety is not a lesser choice than a fresh-out psychologist. For most people dealing with depression, anxiety, relationship stress, grief, life transitions, trauma, or burnout, a licensed therapist is exactly the right level of care.
+LCSWs, LPCs, and LMFTs do the majority of outpatient talk therapy in the United States. They're trained specifically for clinical work. A skilled LCSW with extensive experience treating anxiety is not a lesser choice than a newly licensed psychologist. For most people dealing with depression, anxiety, relationship stress, grief, life transitions, trauma, or burnout, a licensed therapist is exactly the right level of care.
 
 Credential requirements vary by state, but generally these professionals have master's degrees, thousands of hours of supervised clinical experience, and have passed licensing exams. The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) has a really useful overview of provider types if you want specifics on licensing in your state.
 

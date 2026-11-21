@@ -40,7 +40,7 @@ Many clinicians won't say it directly: a lot of therapists are simply not equipp
 
 For example, a paramedic with 12 years on the job might sit across from a therapist who, in the second session, says something like "that must have been so scary for you." This can cause the person to shut down completely, skip follow-up sessions, and tell coworkers that therapy is useless.
 
-Dr. Ellen Kirschman, a police psychologist with over 40 years of experience working with law enforcement and author of "I Love a Cop," describes it plainly: "First responders are trained to suppress emotion on the job because it keeps them and their partners alive. When they walk into a therapy office and are asked to immediately emote, it violates everything they've been conditioned to do."
+As described in "I Love a Cop," first responders are trained to suppress emotion on the job because it keeps them and their partners alive, and when they walk into a therapy office and are asked to immediately emote, it violates everything they've been conditioned to do.
 
 That's not a character flaw. That's training doing exactly what it was designed to do.
 
@@ -62,7 +62,7 @@ Not all therapy modalities are equal for trauma, and the research on this is pre
 
 What about medication? It can help, especially for acute symptoms like hyperarousal and insomnia that are making it impossible to function. But medication alone is rarely enough. It's most effective when it takes enough edge off to make therapy actually accessible.
 
-For example, a firefighter who begins EMDR with a clinician trained in first responder trauma after a fatal structure fire might see a PCL-5 score drop from a severe range into a moderate range over roughly 12 sessions, moving from nightly nightmares to occasional ones while remaining on the job.
+For example, if a firefighter begins EMDR with a clinician trained in first responder trauma after a fatal structure fire, a PCL-5 score might drop from a severe range into a moderate range over roughly 12 sessions, with nightly nightmares becoming occasional ones while the person remains on the job.
 
 Learn more about [trauma-focused therapy types](/how-to-find-a-trauma-informed-therapist/) from your department's Employee Assistance Program, or ask a potential therapist directly which modalities they use and why.
 
@@ -80,7 +80,7 @@ For crisis moments, the [988 Suicide and Crisis Lifeline](https://988lifeline.or
 
 On the self-support side, books like "Bulletproof Spirit" by Dan Willis (written by a police commander with 30 years on the force) and CBT-based workbooks like the [PTSD Workbook by Mary Beth Williams](https://www.amazon.com/PTSD-Workbook-Effective-Techniques-Overcoming/dp/1572242825) (Amazon link, the site may earn a commission) are genuinely useful between sessions, not instead of them.
 
-For example, a dispatch supervisor who cannot afford private therapy at $175 per session might use department EAP sessions to stabilize, then apply to a state grant program covering additional sessions with a trauma specialist, potentially bringing total out-of-pocket costs to zero with only a few phone calls and minimal paperwork.
+For example, someone who cannot afford private therapy at $175 per session might use department EAP sessions to stabilize, then apply to a state grant program covering additional sessions with a trauma specialist, potentially bringing total out-of-pocket costs to zero with only a few phone calls and minimal paperwork.
 
 Save your department's EAP number and the Safe Call Now line in your phone today, even if you don't need it yet.
 
@@ -96,7 +96,7 @@ The International Association of Chiefs of Police and the National Fallen Firefi
 
 If your department has one, know who's on it. If it doesn't, the National Volunteer Fire Council has a free peer support training curriculum available to departments.
 
-For example, when a mid-size police department activates a peer support team within 48 hours of a mass casualty event, officers who engage with peer support in the following two weeks may be substantially more likely to follow through with a formal therapy referral within 60 days compared to those who do not.
+For example, when a department activates a peer support team within 48 hours of a mass casualty event, officers who engage with peer support in the following two weeks may be substantially more likely to follow through with a formal therapy referral within 60 days compared to those who do not.
 
 Check whether your department has a certified peer support team and introduce yourself before you need them.
 

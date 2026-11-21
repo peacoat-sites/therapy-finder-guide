@@ -83,7 +83,7 @@ This is real and it deserves a direct answer. Culturally specialized therapists 
 | Telehealth platform (e.g., Alma, Headway) | $30 - $150 per session | 1-2 weeks | Fastest access; growing BIPOC therapist networks |
 | University training clinic | $0 - $30 | 2-6 weeks | Supervised graduate students; quality varies |
 
-The sliding scale conversation is worth having explicitly. Many therapists who don't advertise sliding scale fees will offer them if you ask directly. For example, someone paying $200 per session might not realize their therapist would accept $110, simply because they never asked. The therapist's intake coordinator confirmed this later. Fees are frequently more negotiable than the profile suggests.
+The sliding scale conversation is worth having explicitly. Many therapists who don't advertise sliding scale fees will offer them if you ask directly. For example, someone paying $200 per session might not realize their therapist would accept $110, simply because they never asked.  Fees are frequently more negotiable than the profile suggests.
 
 Telehealth has genuinely changed the calculus here. If you're in a rural area or a state with few culturally matched providers, you can often see a licensed therapist in another state, as long as they hold a license in your state of residence. As of 2026, most states participate in interstate licensing compacts, which has expanded access meaningfully. This is not the workaround it used to feel like.
 
@@ -93,11 +93,11 @@ Psychologists sit at the lowest representation (8%), which matters practically: 
 
 ## Three Scenarios Worth Walking Through
 
-**Scenario 1:** For example, a first-generation Vietnamese American woman in Houston looking for a therapist familiar with intergenerational trauma and family loyalty dynamics might find a therapist through Inclusive Therapists who specializes in Asian diaspora clients, speaks conversational Vietnamese, and uses a narrative therapy approach, potentially reporting after a few sessions that she no longer has to do the exhausting "explaining" work she experienced in previous therapy relationships.
+**Scenario 1:** For example, a first-generation Vietnamese American woman in Houston looking for a therapist familiar with intergenerational trauma and family loyalty dynamics might find one through Inclusive Therapists who specializes in Asian diaspora clients, speaks conversational Vietnamese, and uses a narrative therapy approach, potentially no longer needing to do the exhausting background-explaining work that characterized earlier therapy relationships.
 
-**Scenario 2:** For example, a gay Black man in a smaller city in Mississippi finding very few BIPOC therapists in network within 50 miles might use the NAMI helpline to get a referral to a telehealth therapist licensed in his state but based in Atlanta, arranging sessions at a sliding scale rate and establishing a consistent therapeutic relationship with someone who has specific clinical experience with Black LGBTQ+ clients.
+**Scenario 2:** For example, a gay Black man in a smaller city in Mississippi finding very few BIPOC therapists in network within 50 miles might use the NAMI helpline to get a referral to a telehealth therapist licensed in his state but based in a larger city, arranging sessions at a sliding scale rate and establishing a consistent therapeutic relationship with someone who has specific clinical experience with Black LGBTQ+ clients.
 
-**Scenario 3:** For example, a Latina woman who tried two therapists from mainstream directories who both listed "multicultural" in their profiles might find that neither can name specific training when asked, while a third therapist found through Latinx Therapy speaks naturally about acculturation stress and religious identity conflicts during the intake call without being prompted, leaving her feeling understood in the first session for the first time. That's not magic. That's competence.
+**Scenario 3:** For example, a Latina woman who tried two therapists from mainstream directories who both listed "multicultural" in their profiles might find that neither can name specific training when asked, while a third therapist found through Latinx Therapy speaks naturally about acculturation stress and religious identity conflicts during the intake call without being prompted, creating a sense of being understood from the very first session. That's not magic. That's competence.
 
 ## Sources
 

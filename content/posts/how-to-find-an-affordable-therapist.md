@@ -58,7 +58,7 @@ BetterHelp works well for some people. Others report cycling through multiple th
 
 What the evidence actually shows is that text-based and video therapy can be effective for depression and anxiety in many cases, and the accessibility is genuinely meaningful for people with transportation barriers or demanding schedules. A 2021 review in World Psychiatry found video therapy outcomes comparable to in-person for common presentations. But the quality controls are weaker than a traditional practice, the matching algorithms are blunt instruments, and some platforms have faced valid criticism for prioritizing engagement over clinical appropriateness.
 
-My take: online platforms are a reasonable starting point if you're in a rural area, if your anxiety makes leaving the house genuinely hard right now, or if you want to test therapy before committing to an in-person relationship. But go in knowing you may need to switch therapists multiple times, and don't assume convenience equals fit.
+Online platforms are a reasonable starting point if you're in a rural area, if anxiety makes leaving the house genuinely hard, or if you want to test therapy before committing to an in-person relationship. But go in knowing you may need to switch therapists multiple times, and don't assume convenience equals fit.
 
 Also: if you're in crisis, please don't rely on a texting app. The [988 Suicide and Crisis Lifeline](https://988lifeline.org/) is available by call, text, or chat around the clock, and that's where to go when things are acute.
 
@@ -72,7 +72,7 @@ The following method consistently produces options faster than just Googling "ch
 
 **Check Open Path Collective.** This is a vetted directory of licensed therapists who specifically commit to charging $30-$80 per session for clients who qualify. There's a one-time $65 membership fee, which feels annoying, but it pays for itself within one or two sessions if you'd otherwise be paying full rate. For example, someone paying $170 per session who switches to an Open Path therapist at $50 per session would save roughly $3,120 over the course of a year.
 
-**Contact your local community mental health center.** Look up "[your county] community mental health" or contact your state's department of behavioral health. These centers are publicly funded and required to serve people regardless of ability to pay. Wait times can be frustrating, sometimes 6-10 weeks for a first appointment, but the care is real. A social worker I know in Pittsburgh always says: "Get on the waitlist the same week you decide you need help. Don't wait until the crisis point."
+**Contact your local community mental health center.** Look up "[your county] community mental health" or contact your state's department of behavioral health. These centers are publicly funded and required to serve people regardless of ability to pay. Wait times can be frustrating, sometimes 6-10 weeks for a first appointment, but the care is real. A common piece of advice from community mental health professionals is to get on the waitlist the same week you decide you need help, rather than waiting until a crisis point.
 
 **Ask about training clinics.** If there's a university with a psychology or counseling program within driving distance, they almost certainly have a training clinic where supervised graduate students see clients at very low or no cost. The supervision structure is actually intensive, meaning the person you see has multiple sets of more experienced eyes on their cases.
 
@@ -90,7 +90,7 @@ If you have a high-deductible plan, you may be paying full rate until that deduc
 
 A common concern is that asking for a lower rate feels embarrassing or might result in worse care. Neither is typically true.
 
-Therapists who offer sliding scale do so because they chose to. It's a clinical and ethical decision many make deliberately, not a charity they resent. Therapists who offer sliding scale fees report putting the same level of effort into every client regardless of fee. That stigma is not reflected in how therapists actually approach their work.
+Therapists who offer sliding scale do so because they chose to. It's a clinical and ethical decision many make deliberately, not a charity they resent. Therapists who offer sliding scale fees generally put the same level of effort into every client regardless of fee. That stigma is not reflected in how therapists actually approach their work.
 
 And if a therapist makes you feel bad for asking? That's useful information about fit.
 
