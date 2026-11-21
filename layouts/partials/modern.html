@@ -131,7 +131,7 @@ body { font-feature-settings: "cv11", "ss01"; }
 }
 
 /* Text on accent-colored buttons and badges: dark or white, whichever contrasts with this site's accent (set by script) */
-:is(.btn-hero-primary, .hero-feature-label, .hero-feature-badge, .qc-cta, .amazon-btn, .quiz-submit, .cf-submit, .cf-submit-text, .hte-cta, .btn-primary, .cta-btn, .cta-box a.btn, .mdn-on-accent, [style*="background:var(--accent"], [style*="background: var(--accent"], [style*="background-color:var(--accent"]) { color: var(--on-accent, #fff) !important; }
+:is(.btn-hero-primary, .hero-feature-label, .qc-cta, .amazon-btn, .quiz-submit, .cf-submit, .cf-submit-text, .hte-cta, .btn-primary, .cta-btn, .cta-box a.btn, .mdn-on-accent, [style*="background:var(--accent"], [style*="background: var(--accent"], [style*="background-color:var(--accent"]) { color: var(--on-accent, #fff) !important; }
 
 /* Light mode: accent-colored small text was below 3:1 on white; ink it darker. Gray meta text moves to the muted token */
 @media (prefers-color-scheme: light) {
@@ -139,7 +139,8 @@ body { font-feature-settings: "cv11", "ss01"; }
   :is(.article-meta span, .cat-lead-meta span, .cat-tile-meta, .card-meta) { color: var(--muted) !important; }
 }
 
-.hero-feature-badge-depth { color: #1c1917 !important; }
+.hero-feature-badge-depth, .hero-feature-badge { color: #1c1917 !important; }
+#cookie-accept { color: var(--on-accent, #fff) !important; }
 
 /* Footer fine print was 30% white; lift it to readable contrast */
 .footer-bottom p, .footer-bottom .disclaimer, .footer-bottom .affiliate-disclosure { color: rgba(255,255,255,.62); }
@@ -182,6 +183,7 @@ body { font-feature-settings: "cv11", "ss01"; }
   :root body [style*="background:#fff"], :root body [style*="background: #fff"], :root body [style*="background:#FFF"], :root body [style*="background-color:#fff"], :root body [style*="background:white"], :root body [style*="background:#f"], :root body [style*="background: #f"], :root body [style*="background:#e"], :root body [style*="background: #e"] { background: var(--surface2) !important; color: var(--text) !important; }
   :root body :is([style*="color:var(--primary"], [style*="color: var(--primary"]) { color: var(--text) !important; }
   .mdn-acc-text { color: color-mix(in srgb, var(--accent) 60%, #fff) !important; }
+  :root body [style*="color:#0074d9"] { color: #79b8ff !important; }
   :root body [style*="border:1px solid #e"], :root body [style*="border: 1px solid #e"], :root body [style*="border-color:#e"] { border-color: var(--border) !important; }
   .author-name, .author-name a, .ap-name { color: var(--text) !important; }
   :root body .hero-authority .hero-auth-sub { color: rgba(255,255,255,.8); }
@@ -260,7 +262,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var tag = function () {
       document.querySelectorAll('button, a, input[type=submit]').forEach(function (el) { if (getComputedStyle(el).backgroundColor === accRgb) el.classList.add('mdn-on-accent'); });
       if (dark.matches) document.querySelectorAll('button, a, span, strong, p').forEach(function (el) {
-        var cs = getComputedStyle(el); if (cs.color === accRgb && cs.backgroundColor === 'rgba(0, 0, 0, 0)') el.classList.add('mdn-acc-text');
+        var cs = getComputedStyle(el); if (cs.color === accRgb && cs.backgroundColor !== accRgb) el.classList.add('mdn-acc-text');
       });
     };
     tag(); window.addEventListener('load', function () { setTimeout(tag, 400); });
