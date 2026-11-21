@@ -74,7 +74,7 @@ The mental health care system has a hierarchy of intensity that most people have
 | Residential treatment | 24 hours | Yes (facility) | All day, every day | 30-90+ days |
 | Inpatient psychiatric | 24 hours | Yes (hospital) | All day, every day | 3-14 days typically |
 
-I made a mistake early in my career of assuming PHP was only for people who'd already been hospitalized. That's wrong, and it kept me from recommending it sooner for clients who clearly needed it. The referral pathway to PHP can come directly from an outpatient psychiatrist or therapist, from an emergency department, or even from a primary care physician who recognizes escalating symptoms. You don't have to hit a rock bottom to qualify.
+A common mistake is assuming PHP is only for people who have already been hospitalized. That's wrong, and it kept me from recommending it sooner for clients who clearly needed it. The referral pathway to PHP can come directly from an outpatient psychiatrist or therapist, from an emergency department, or even from a primary care physician who recognizes escalating symptoms. You don't have to hit a rock bottom to qualify.
 
 ## The Cost Question (Because It Matters)
 
@@ -92,7 +92,7 @@ Psychology Today's therapist directory has a filter specifically for treatment c
 
 What most people don't realize is that not all PHP programs are the same in quality or specialization. A general adult PHP program run by a hospital system is very different from a PHP designed specifically for adolescents, or one with a DBT specialization for borderline personality disorder, or a trauma-focused program using EMDR. Matching the program to the specific clinical need matters more than proximity, within reason.
 
-When I help someone find a PHP program, I ask these questions upfront: What's the staff-to-patient ratio during groups? Is there a psychiatrist on-site daily? What specific therapeutic modalities does the program use? What does the discharge and step-down plan look like? A program that can't answer those questions clearly is worth being skeptical about.
+When evaluating a PHP program, it is worth asking these questions upfront: What's the staff-to-patient ratio during groups? Is there a psychiatrist on-site daily? What specific therapeutic modalities does the program use? What does the discharge and step-down plan look like? A program that can't answer those questions clearly is worth being skeptical about.
 
 ## What to Expect Your First Week
 
@@ -104,11 +104,11 @@ If the program offers a DBT skills workbook or recommends supplementary reading,
 
 The research on PHP outcomes is actually pretty encouraging. A 2021 study published in *Psychiatric Services* found that patients who completed PHP programs showed significant symptom reduction, with depression scores improving by an average of 47% over a six-week program. That's not a cure, and it doesn't work for everyone, but those numbers are better than what you get from standard outpatient therapy for the same severity of symptoms.
 
-Scenario 1: A 34-year-old with treatment-resistant depression who'd been in weekly outpatient therapy for two years with minimal improvement → referred to a 4-week PHP with medication management → PHQ-9 score dropped from 21 (severe) to 11 (moderate) by week three, with her psychiatrist able to make more aggressive medication adjustments under daily monitoring.
+For example, someone with treatment-resistant depression who has been in weekly outpatient therapy for two years with minimal improvement might be referred to a four-week PHP with medication management, where daily monitoring allows a psychiatrist to make more targeted medication adjustments and PHQ-9 scores may drop significantly within weeks.
 
-Scenario 2: A 19-year-old discharged after a five-day inpatient stay following a suicide attempt → stepped down to PHP for three weeks before transitioning to IOP → successfully avoided readmission during the highest-risk 30-day window post-discharge.
+For example, a young adult discharged after a brief inpatient stay following a suicide attempt might step down to PHP for three weeks before transitioning to IOP, reducing the risk of readmission during the highest-risk 30-day window post-discharge.
 
-Scenario 3: Someone with severe panic disorder who couldn't leave the house consistently → started PHP through a telehealth-based program (yes, those exist) → completed six weeks of remote PHP, then transitioned to in-person IOP as anxiety levels stabilized.
+For example, someone with severe panic disorder who struggles to leave home consistently might start PHP through a telehealth-based program, complete six weeks of remote treatment, and then transition to in-person IOP as anxiety levels stabilize.
 
 ## Sources
 

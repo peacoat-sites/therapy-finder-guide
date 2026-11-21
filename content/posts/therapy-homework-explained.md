@@ -40,7 +40,7 @@ Here's the stat that stops most people: a 2010 meta-analysis by Kazantzis, Whitt
 
 What most people don't realize is that the mechanism isn't magic. It's repetition and transfer. Your therapist's office is a controlled environment. It's low-stakes, supportive, and frankly not much like your actual life. Homework is where the learning has to survive contact with reality. The Tuesday morning anxiety about your commute, the Sunday night spiral before the work week, the argument with your sister that happens in real time. Those are the moments therapy homework is designed for, and 50 minutes a week can't get there alone.
 
-I'll admit I used to underestimate this myself. Early in my work alongside clinical teams, I thought the "doing the work in the room" was the whole thing. It took watching client after client plateau, and then watching a subset of those same people accelerate when they started engaging with between-session work, to change my mind. The room is where you learn the skill. Homework is where the skill becomes yours.
+It is easy to underestimate this at first. The instinct is to assume that "doing the work in the room" is the whole thing, but clinicians consistently observe clients plateau until they start engaging with between-session work. The room is where you learn the skill. Homework is where the skill becomes yours.
 
 ## What Homework Actually Looks Like Across Different Therapy Types
 
@@ -63,9 +63,9 @@ When people miss assignments, shame often sets in, leading to avoidance of thera
 
 Here's my honest take: skipping homework is information. It might mean the assignment was too big, too vague, too emotionally charged, or just poorly timed in your life. A good therapist will want to know that, not to judge you, but because it tells them something real about what's happening for you. Research published in *Cognitive Therapy and Research* found that therapist flexibility in modifying homework based on client feedback was actually associated with better outcomes than rigid adherence to the original task. In other words, the conversation about why you didn't do it is sometimes more valuable than doing it would have been.
 
-What I'd tell my reader, and anyone in that position: go to the session. Say "I didn't do the homework." That's where the useful work happens.
+The best move, for anyone in that position, is to go to the session and say "I didn't do the homework." That is where the useful work happens.
 
-Scenario: A client with depression was assigned a 20-minute daily mood log, but consistently skipped it after day two. Action: Her therapist scaled it to a single-word check-in each morning via a sticky note on the bathroom mirror. Result: Completion rate went from roughly 15% to 85% over four weeks, and her PHQ-9 score dropped 6 points over that same period. Smaller ask, better data, better outcome.
+For example, if a client with depression is assigned a 20-minute daily mood log but consistently skips it after day two, a therapist might scale it down to a single-word check-in each morning via a sticky note on the bathroom mirror. That kind of adjustment can dramatically improve completion rates and still generate meaningful clinical data.
 
 ## Tools That Actually Help
 
@@ -73,7 +73,7 @@ Paper works. I know that sounds embarrassingly low-tech, but there's a decent bo
 
 That said, some people need the friction removed entirely. Apps like Woebot (free, CBT-based), Bearable (mood and symptom tracking, around $4/month as of this year), and Finch (a self-care app with habit tracking, free tier available) can lower the barrier enough to matter.
 
-For structured CBT workbooks, the *Mind Over Mood* workbook by Greenberger and Padesky is the one I've seen recommended most consistently by clinicians over the past decade. It's around $23 on Amazon and walks clients through thought records with much more scaffolding than a blank journal. (Disclosure: if you purchase through links on this site, we may earn a small commission.) The *DBT Skills Training Handouts and Worksheets* by Marsha Linehan is the actual clinical text, not a watered-down adaptation, and it runs about $37. Worth it if your therapist is doing DBT work with you and you want to actually understand the model.
+For structured CBT workbooks, the *Mind Over Mood* workbook by Greenberger and Padesky is recommended most consistently by clinicians. It's around $23 on Amazon and walks clients through thought records with much more scaffolding than a blank journal. (Disclosure: if you purchase through links on this site, we may earn a small commission.) The *DBT Skills Training Handouts and Worksheets* by Marsha Linehan is the actual clinical text, not a watered-down adaptation, and it runs about $37. Worth it if your therapist is doing DBT work with you and you want to actually understand the model.
 
 If mindfulness is part of your homework, the Insight Timer app is free and has guided practices ranging from 3 to 45 minutes. Insight Timer consistently offers the best depth without a paywall.
 

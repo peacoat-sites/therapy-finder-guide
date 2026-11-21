@@ -58,7 +58,7 @@ This matters for therapists, not because they're liable for what a chatbot said 
 
 The APA published guidance alongside the survey, specifically a resource on discussing AI use in therapy, also released June 16, 2026. The core recommendation is direct: ask. Make AI use a standard part of intake and ongoing assessment, the way you'd ask about medication or substance use. Not with alarm, with genuine clinical curiosity.
 
-A useful framing might be: "Some of my clients have been using AI tools [between sessions](/your-patients-are-using-ai-between-sessions-now-what/) or before starting therapy. Have you? I'm not judging it, I just want to understand your experience." That question can reveal information about the client's expectations, their self-concept, their attachment patterns, and what narratives they brought to therapy.
+A useful framing might be: "Some people have been using AI tools [between sessions](/your-patients-are-using-ai-between-sessions-now-what/) or before starting therapy. Have you? I'm not judging it, I just want to understand your experience." That question can reveal information about the client's expectations, their self-concept, their attachment patterns, and what narratives they brought to therapy.
 
 When a client has been using a chatbot heavily, the therapeutic work often includes some gentle deconstruction of the AI-generated narrative, not by dismissing the client's experience, but by helping them hold it more loosely. The chatbot's label isn't the truth. It's a starting point, and often an imprecise one.
 
@@ -66,7 +66,7 @@ For clients who seem dependent on AI contact between sessions, that itself becom
 
 ## The Clients Who Benefit Most From This Conversation
 
-I want to be careful not to frame all AI use as a problem, because that's not accurate and it's not fair to clients. For someone who was isolating completely, a chatbot that prompted them to reflect on their mood was a step toward engagement, not a step away from reality. For someone waiting six months for a psychiatry appointment, having a place to process acute distress had some value.
+It is important not to frame all AI use as a problem, because that is not accurate and it is not fair to clients. For someone who was isolating completely, a chatbot that prompted them to reflect on their mood was a step toward engagement, not a step away from reality. For someone waiting six months for a psychiatry appointment, having a place to process acute distress had some value.
 
 The real concern is when the tool stops being a bridge and becomes the destination. When a client's entire social-emotional world is mediated by an AI that never pushes back, never has limits, never reflects the complexity of a real relationship, the clinical picture changes. The 36% of psychologists who have noticed dependency signs are describing something that warrants the same gentle, non-shaming attention as any other coping strategy that's outlived its usefulness.
 

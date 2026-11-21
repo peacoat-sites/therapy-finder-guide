@@ -93,7 +93,7 @@ If you can access both, access both. A therapist helps you understand the mechan
 
 ## How to Actually Get Started (Practical Steps for Both Paths)
 
-I know "just find a therapist" can feel like being told to "just apply for jobs." Here's how to make it less overwhelming.
+Finding a therapist can feel like being told to "just apply for jobs." Here's how to make it less overwhelming.
 
 **For a support group:**
 

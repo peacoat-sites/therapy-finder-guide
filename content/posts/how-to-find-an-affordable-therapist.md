@@ -26,9 +26,9 @@ faqs:
     a: "Don't wait for a cost solution. Call or text 988 to reach the Suicide and Crisis Lifeline, available 24 hours a day. Community mental health centers are also required to provide crisis services regardless of ability to pay. Cost should never be the reason someone doesn't get help in an emergency."
 ---
 
-Most people I talk to assume finding an affordable therapist means settling for something. Worse care, longer waits, someone fresh out of grad school who's clearly never had a hard day. I'll be honest: I used to believe that too.
+Many people assume finding an affordable therapist means settling for something. Worse care, longer waits, someone fresh out of grad school who's clearly never had a hard day. 
 
-What changed my mind was sitting in on intake discussions at a community mental health center in 2022, watching a licensed clinical social worker with twenty years of experience take a sliding scale client at $15 a session. Same training. Same skill. Different paperwork. The "affordable" label had nothing to do with quality.
+Consider a licensed clinical social worker with twenty years of experience seeing a sliding scale client at $15 a session at a community mental health center. Same training. Same skill. Different paperwork. The "affordable" label had nothing to do with quality.
 
 The problem isn't that affordable therapy doesn't exist. It's that nobody tells you where to look, and the mental health system is genuinely not organized in a way that makes this easy. So let me give you the real picture.
 
@@ -64,13 +64,13 @@ Also: if you're in crisis, please don't rely on a texting app. The [988 Suicide 
 
 ## How to Actually Find Low-Cost Therapists (A Walkthrough That Works)
 
-Here's the method I walk people through, and it consistently produces options faster than just Googling "cheap therapy near me."
+The following method consistently produces options faster than just Googling "cheap therapy near me."
 
-**Start with [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists).** Filter by your zip code, then look for the "sliding scale" filter. It's not perfect (some therapists list it and don't actually offer it; some don't list it and do), but it's the fastest way to generate a shortlist. I'd suggest starting with 8-10 names.
+**Start with [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists).** Filter by your zip code, then look for the "sliding scale" filter. It's not perfect (some therapists list it and don't actually offer it; some don't list it and do), but it's the fastest way to generate a shortlist. Starting with 8-10 names is a reasonable approach.
 
 **Call or email directly and ask a specific question.** Don't ask "do you have lower rates?" Ask: "Do you have any sliding scale or reduced-fee spots available, and if so, what's the range?" Vague questions get vague answers. This phrasing signals that you know what you're asking for, which tends to get a more direct response.
 
-**Check Open Path Collective.** This is a vetted directory of licensed therapists who specifically commit to charging $30-$80 per session for clients who qualify. There's a one-time $65 membership fee, which feels annoying, but it pays for itself within one or two sessions if you'd otherwise be paying full rate. A reader scenario I tracked: someone in Austin paying $170/session for a year switched to Open Path, found a therapist at $50/session, and saved roughly $3,120 over the following year.
+**Check Open Path Collective.** This is a vetted directory of licensed therapists who specifically commit to charging $30-$80 per session for clients who qualify. There's a one-time $65 membership fee, which feels annoying, but it pays for itself within one or two sessions if you'd otherwise be paying full rate. For example, someone paying $170 per session who switches to an Open Path therapist at $50 per session would save roughly $3,120 over the course of a year.
 
 **Contact your local community mental health center.** Look up "[your county] community mental health" or contact your state's department of behavioral health. These centers are publicly funded and required to serve people regardless of ability to pay. Wait times can be frustrating, sometimes 6-10 weeks for a first appointment, but the care is real. A social worker I know in Pittsburgh always says: "Get on the waitlist the same week you decide you need help. Don't wait until the crisis point."
 
@@ -78,11 +78,11 @@ Here's the method I walk people through, and it consistently produces options fa
 
 ## Insurance Is More Complicated Than It Sounds
 
-I thought insurance would simplify this. It doesn't, exactly. What it does do is shift costs, sometimes significantly.
+It is easy to assume insurance will simplify this. It doesn't, exactly. What it does do is shift costs, sometimes significantly.
 
 The first thing to check: mental health parity. Under federal law (the Mental Health Parity and Addiction Equity Act), insurance plans that cover mental health must do so on terms comparable to physical health coverage. In practice, enforcement is inconsistent and finding an in-network therapist with availability can be genuinely hard in some markets. A 2023 report from the RAND Corporation found that people are much more likely to see out-of-network providers for mental health than for medical care, which often means unexpected costs.
 
-What I tell people: before assuming your insurance will cover therapy, do two things. First, call the member services number on your card and ask specifically what your mental health outpatient benefits are, what your deductible is, and how many sessions per year are covered. Second, ask any therapist you're considering whether they're in-network with your specific plan, not just "your insurer," because networks vary by plan tier.
+Before assuming your insurance will cover therapy, it is worth doing two things. First, call the member services number on your card and ask specifically what your mental health outpatient benefits are, what your deductible is, and how many sessions per year are covered. Second, ask any therapist you're considering whether they're in-network with your specific plan, not just "your insurer," because networks vary by plan tier.
 
 If you have a high-deductible plan, you may be paying full rate until that deductible's met anyway. In those cases, a sliding scale therapist might cost you less than going in-network.
 
@@ -90,7 +90,7 @@ If you have a high-deductible plan, you may be paying full rate until that deduc
 
 A common concern is that asking for a lower rate feels embarrassing or might result in worse care. Neither is typically true.
 
-Therapists who offer sliding scale do so because they chose to. It's a clinical and ethical decision many make deliberately, not a charity they resent. I've never once heard a therapist say they put less effort into lower-fee clients. The stigma lives in your head, not in their practice.
+Therapists who offer sliding scale do so because they chose to. It's a clinical and ethical decision many make deliberately, not a charity they resent. Therapists who offer sliding scale fees report putting the same level of effort into every client regardless of fee. That stigma is not reflected in how therapists actually approach their work.
 
 And if a therapist makes you feel bad for asking? That's useful information about fit.
 

@@ -25,13 +25,13 @@ author_title: "Coping Skills"
 author_bio: "Kim Davis is the byline used at Therapy Finder Guide for articles on mindfulness and stress-reduction skills to use between sessions. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Maybe you've been in therapy before. Maybe it helped, maybe it didn't, or maybe life just got busy and you stopped going. Now it's months or years later and you're wondering if you should try again. That particular kind of wondering, the quiet "should I go back?" that surfaces at 11pm on a Tuesday, is something I've heard described more times than I can count. And the fact that you're asking at all usually means the answer is yes.
+Maybe you've been in therapy before. Maybe it helped, maybe it didn't, or maybe life just got busy and you stopped going. Now it's months or years later and you're wondering if you should try again. That particular kind of wondering, the quiet "should I go back?" that surfaces at 11pm on a Tuesday, is something many people describe. And the fact that you're asking at all usually means the answer is yes.
 
 But let's actually talk about what returning to therapy looks like, because it's genuinely different from starting for the first time. Most advice treats them the same way. They're not.
 
 ## The guilt and the gap are normal
 
-Your therapist is not disappointed in you. That fear, the one that sounds like "I let things get bad again" or "I should have kept this up", is one of the most common things I hear from people considering a return. It's almost always unfounded.
+Your therapist is not disappointed in you. That fear, the one that sounds like "I let things get bad again" or "I should have kept this up", is one of the most common feelings people report when considering a return. It's almost always unfounded.
 
 Therapy isn't a gym membership where you're shamed for missing sessions. Life interrupts. Insurance runs out. Kids happen. Moves happen. Sometimes you felt better and decided you were done, which was reasonable at the time. None of that means you failed.
 
@@ -53,7 +53,7 @@ If you had CBT (Cognitive Behavioral Therapy) before and found it too structured
 
 EMDR (Eye Movement Desensitization and Reprocessing) has gotten more mainstream attention in the last few years. For people returning to therapy specifically to address trauma they didn't fully process before, it's worth asking a prospective therapist about. The research support has grown considerably since the early 2000s, and a 2020 meta-analysis in the Journal of Anxiety Disorders confirmed its effectiveness for PTSD across multiple population groups.
 
-For people who want something in between sessions, especially while you're on a waitlist or getting started, there are solid CBT-based workbooks that can help. The Cognitive Behavioral Workbook for Depression by William Knaus (around $18-20 on Amazon) is one I've recommended many times over the years. It's not a replacement for therapy, but it can help you start identifying patterns before you even sit down with a therapist.
+For people who want something in between sessions, especially while you're on a waitlist or getting started, there are solid CBT-based workbooks that can help. The Cognitive Behavioral Workbook for Depression by William Knaus (around $18-20 on Amazon) is widely recommended as a starting point for identifying patterns before therapy begins. It's not a replacement for therapy, but it can help you start identifying patterns before you even sit down with a therapist.
 
 ## The practical stuff nobody talks about
 

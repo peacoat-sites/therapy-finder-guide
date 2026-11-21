@@ -32,7 +32,7 @@ People often choose therapy modalities based on what they've heard rather than w
 
 ## How to Read This Data
 
-When I look at therapy outcome research, I focus on three things: specificity (what does this actually treat best?), evidence strength (how many rigorous studies support it?), and practical fit (can my client commit to this, and can they afford it?). The table above reflects current meta-analytic consensus from SAMHSA guidance and hundreds of published trials as of 2026.
+When evaluating therapy outcome research, three things matter most: specificity (what does this actually treat best?), evidence strength (how many rigorous studies support it?), and practical fit (can a client commit to this, and can they afford it?). The table above reflects current meta-analytic consensus from SAMHSA guidance and hundreds of published trials as of 2026.
 
 Notice that "evidence level" doesn't mean one therapy is universally better than another. CBT has the most RCT support overall, but that's partly because it's been studied more intensively and because depression and anxiety are common presenting problems. EMDR has fewer total studies but extraordinary specificity for PTSD. Psychodynamic therapy's evidence looks modest on paper, but follow-up data suggests benefits continue accumulating for years after treatment ends, something we measure poorly in short-term trial designs.
 
@@ -46,23 +46,23 @@ Cost differences reflect credential requirements and session structure. DBT sess
 
 ## Matching Client to Modality
 
-I tell my clinical team: if someone has depression or generalized anxiety and they want relief in three to six months, CBT is your first-line choice. The data here is unambiguous. Twelve to twenty sessions, structured homework, and strong evidence. Cost-effective. Clients know what to expect.
+For someone with depression or generalized anxiety who wants relief in three to six months, CBT is the first-line choice. The data here is unambiguous. Twelve to twenty sessions, structured homework, and strong evidence. Cost-effective. Clients know what to expect.
 
 If someone has PTSD from a specific incident, a car accident, assault, combat deployment, EMDR belongs in your conversation. Six to twelve sessions is dramatically faster than open-ended work, and the evidence for PTSD is genuinely strong. Research shows EMDR can produce meaningful shifts in trauma symptoms within three months.
 
-Borderline personality disorder and chronic self-harm require DBT. This is non-negotiable in my clinic. The evidence is strongest here, and the structured combination of skills training and individual therapy addresses both the emotion dysregulation and the behavioral crises. It demands time and commitment, six to twelve months, but it works when other approaches have failed.
+Borderline personality disorder and chronic self-harm require DBT. This is a consistent finding across the clinical literature. The evidence is strongest here, and the structured combination of skills training and individual therapy addresses both the emotion dysregulation and the behavioral crises. It demands time and commitment, six to twelve months, but it works when other approaches have failed.
 
 ACT fits beautifully with chronic pain, health anxiety, and people who intellectually "get" therapy but whose symptoms persist. The mindfulness-plus-values framework helps people stop struggling against unchangeable circumstances and instead move toward what matters. Eight to sixteen sessions. Good for people who want practical tools without the intensity of DBT or the open-endedness of psychodynamic work.
 
 Psychodynamic therapy serves people asking deeper "why" questions, not just "how do I fix this?" Recurring relationship failures, persistent shame, identity confusion. They need time. They need to tolerate some ambiguity. But if they fit and they stay committed, the changes often go deeper than skills-based work alone.
 
-## The Mistakes I See Clinicians Make
+## Common Mistakes Clinicians Make
 
-First: using modality as identity rather than tool. "I'm a CBT therapist" means you'll force-fit CBT into every presentation. A complex PTSD case with significant personality pathology might need psychodynamic work first, then DBT, then cognitive work. Sequencing matters.
+First is using modality as identity rather than tool. "I'm a CBT therapist" means you'll force-fit CBT into every presentation. A complex PTSD case with significant personality pathology might need psychodynamic work first, then DBT, then cognitive work. Sequencing matters.
 
-Second: underestimating the cost of dropout. If someone can't afford $150 per session, they won't show up consistently, and brief modalities like CBT and EMDR require consistency. Sometimes longer, cheaper psychodynamic work is more accessible, or you need to find sliding-scale options.
+Second is underestimating the cost of dropout. If someone can't afford $150 per session, they won't show up consistently, and brief modalities like CBT and EMDR require consistency. Sometimes longer, cheaper psychodynamic work is more accessible, or you need to find sliding-scale options.
 
-Third: assuming evidence equals fit. The strongest evidence doesn't mean the best choice for your client. A person with OCD and perfectionism might benefit from CBT's exposure protocols, but they might need the relational depth of psychodynamic work to address the underlying self-worth issues that fuel the OCD. Evidence informs; it doesn't dictate.
+Third is assuming evidence equals fit. The strongest evidence doesn't mean the best choice for your client. A person with OCD and perfectionism might benefit from CBT's exposure protocols, but they might need the relational depth of psychodynamic work to address the underlying self-worth issues that fuel the OCD. Evidence informs; it doesn't dictate.
 
 ---
 

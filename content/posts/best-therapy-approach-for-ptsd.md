@@ -44,11 +44,11 @@ Which one is better? The research is close enough that your preference matters m
 
 ## Where EMDR Fits (And Where It Doesn't)
 
-Eye Movement Desensitization and Reprocessing gets a lot of attention, some of it warranted and some not. EMDR is genuinely effective, particularly for single-incident trauma: a car accident, a specific assault, a one-time medical emergency. The World Health Organization currently recommends it as a first-line treatment alongside trauma-focused CBT, and I don't disagree for those cases.
+Eye Movement Desensitization and Reprocessing gets a lot of attention, some of it warranted and some not. EMDR is genuinely effective, particularly for single-incident trauma: a car accident, a specific assault, a one-time medical emergency. The World Health Organization currently recommends it as a first-line treatment alongside trauma-focused CBT, and that recommendation holds up well for those cases.
 
 But here's the thing most articles won't tell you: the evidence for EMDR in complex PTSD (C-PTSD), which often results from prolonged childhood abuse, domestic violence, or repeated institutional trauma, is noticeably thinner. A 2021 review in *European Journal of Psychotraumatology* found effect sizes for EMDR in complex presentations were smaller and less consistent than in single-incident populations. If your trauma is a pattern that lasted years, not a single event, EMDR might be part of a treatment plan, but it probably shouldn't be the whole plan.
 
-One detail that only comes up after you've actually sat in on EMDR sessions: the bilateral stimulation (the eye movements, or taps, or tones) doesn't feel like much from the outside, but clients consistently describe the processing as disorienting in a way that's hard to prepare for. Good EMDR therapists front-load stabilization skills before any memory work begins. If a provider wants to jump straight to memory processing in session one, that's a red flag.
+One detail that often surprises people: the bilateral stimulation (the eye movements, or taps, or tones) doesn't look like much from the outside, but clients consistently describe the processing as disorienting in a way that's hard to prepare for. Good EMDR therapists front-load stabilization skills before any memory work begins. If a provider wants to jump straight to memory processing in session one, that's a red flag.
 
 ## Comparing the Main Evidence-Based Options
 
@@ -69,17 +69,17 @@ The cost ranges above reflect out-of-pocket private pay rates current as of July
 
 ## Real Cases, Real Outcomes
 
-A 34-year-old ER nurse sought therapy 18 months after a mass casualty event at her hospital. She had tried four sessions of general supportive therapy, felt "heard" but unchanged, and was about to quit.
+For example, consider a hypothetical client: a 34-year-old ER nurse who seeks therapy 18 months after a mass casualty event at her hospital. She had tried four sessions of general supportive therapy, felt "heard" but unchanged, and was about to quit.
 
-Referral to a CPT specialist who recognized her dominant symptom cluster as self-blame and distorted responsibility beliefs → 12 structured CPT sessions → at follow-up, PCL-5 score dropped from 52 (severe) to 18 (below clinical threshold). She returned to full clinical hours within four months of completing treatment.
+In such a scenario, referral to a CPT specialist who recognizes the dominant symptom cluster as self-blame and distorted responsibility beliefs, followed by 12 structured CPT sessions, could produce a PCL-5 score drop from 52 (severe) to 18 (below clinical threshold). A return to full clinical hours within four months of completing treatment is a realistic outcome with this kind of matched approach.
 
-A 19-year-old college student with a single-incident sexual assault, no prior trauma history, presenting with classic avoidance and hyperarousal, minimal dissociation.
+As another hypothetical example, consider a 19-year-old college student with a single-incident sexual assault, no prior trauma history, presenting with classic avoidance and hyperarousal, and minimal dissociation.
 
-Matched to a PE-trained therapist who moved to imaginal exposure by session four → completed 10 sessions → CAPS-5 interview showed a 63% reduction in total symptom severity. She reported the homework was "the worst part and also why it worked."
+If matched to a PE-trained therapist who moves to imaginal exposure by session four and completes 10 sessions, a CAPS-5 interview might show a 63% reduction in total symptom severity. Clients who complete PE frequently report that the homework was the hardest part and also the reason treatment worked.
 
-A 42-year-old veteran with 14 years of service, multiple deployments, childhood abuse history, presenting with complex symptom picture including dissociation and emotional dysregulation.
+As a third hypothetical, consider a 42-year-old veteran with 14 years of service, multiple deployments, and a childhood abuse history, presenting with a complex symptom picture including dissociation and emotional dysregulation.
 
-Single-modality PE attempted first, discontinued at session five due to destabilization → referred to a therapist trained in Phase-Based Treatment (stabilization first, trauma processing second) using elements of IFS and Seeking Safety → three years of treatment, slower, less dramatic, but sustained functional improvement. This case is important because it's a reminder that the "gold standard" protocol can cause harm if applied to the wrong presentation.
+If single-modality PE is attempted first and discontinued at session five due to destabilization, referral to a therapist trained in Phase-Based Treatment using elements of IFS and Seeking Safety could lead to three years of treatment: slower and less dramatic, but with sustained functional improvement. This kind of scenario is important because it illustrates that a "gold standard" protocol can cause harm if applied to the wrong presentation.
 
 ## What to Actually Ask When Choosing a Therapist
 

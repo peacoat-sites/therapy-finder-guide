@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Parents often arrive at Parent-Child Interaction Therapy feeling exhausted, a little ashamed, and quietly terrified that something is permanently broken. Their child is melting down constantly, defying every instruction, maybe hitting or biting or screaming in a way that clears grocery stores. The parents have tried everything the internet suggested. Nothing stuck. And now someone is recommending "therapy" -- which, depending on your background, can feel like being told you've failed.
 
-You haven't failed. And here's what I tell people in that first conversation: PCIT is one of the most rigorously studied behavioral interventions we have for young children, with decades of randomized controlled trial data behind it. That's not typical in this field, where a lot of well-meaning approaches are built on clinical intuition more than hard evidence. PCIT is different, and it's worth understanding what you're actually signing up for before your first session.
+You haven't failed. PCIT is one of the most rigorously studied behavioral interventions available for young children, with decades of randomized controlled trial data behind it. That's not typical in this field, where a lot of well-meaning approaches are built on clinical intuition more than hard evidence. PCIT is different, and it's worth understanding what you're actually signing up for before your first session.
 
 ## What PCIT Actually Is (And What It Isn't)
 
@@ -36,7 +36,7 @@ Parent-Child Interaction Therapy was developed in the 1970s by Dr. Sheila Eyberg
 
 The two phases have specific names. Child-Directed Interaction (CDI) comes first, and it's essentially a relationship-rebuilding phase. Parents learn to follow their child's lead in play, describe what the child is doing, reflect their language, and offer specific labeled praise ("I love how gently you're putting those blocks together") while avoiding commands, questions, and criticism. Then comes Parent-Directed Interaction (PDI), where parents practice giving clear, direct commands and following through with a calm, consistent discipline sequence.
 
-I want to be honest about something I got wrong early in my career: I assumed CDI would feel easy for most parents and the real challenge would be discipline. That's backwards. Following a child's lead for five uninterrupted minutes without asking a single question or redirecting once is genuinely hard. I know because I've practiced it myself in training, and I fumbled it. "Oh, what are you making?" feels supportive. In PCIT, that question is actually pulling the child toward your agenda. The coaches will catch it every time.
+A common misconception is that CDI will feel easy for most parents and that the real challenge will be discipline. That's backwards. Following a child's lead for five uninterrupted minutes without asking a single question or redirecting once is genuinely hard, and even parents who go in confident tend to fumble it. "Oh, what are you making?" feels supportive. In PCIT, that question is actually pulling the child toward your agenda. The coaches will catch it every time.
 
 ## Who It's Designed For
 
@@ -54,7 +54,7 @@ A community mental health clinic in Sacramento tracked 40 families through PCIT 
 
 A school-based PCIT adaptation piloted in three Title I elementary schools in Atlanta found that parent-reported daily defiance episodes dropped from an average of 8.4 per day to 2.1 per day after treatment. (Those were estimated from published pilot data, not my personal caseload.)
 
-One family I worked alongside in a referral capacity: single mother, 4-year-old son, both exhausted and deeply disconnected. She described their relationship before PCIT as "just managing disasters all day." After 12 sessions, she told me the thing that changed wasn't just his behavior. It was that she started actually liking being around him again. That shift matters in ways outcome measures don't always capture.
+For example, consider a single mother and her 4-year-old son, both exhausted and deeply disconnected. She might describe their relationship before PCIT as "just managing disasters all day," and after 12 sessions report that the thing that changed wasn't just his behavior. It was that she started actually liking being around him again. That shift matters in ways outcome measures don't always capture.
 
 ## The Practical Reality: Time, Cost, and Access
 
@@ -66,7 +66,7 @@ One thing worth knowing: PCIT uses a mastery-based model, not a session-count mo
 
 ## Preparing Yourself for the Experience
 
-The coaching can feel vulnerable in ways parents don't always anticipate. Having someone in your ear while you're trying to manage your child, watching every interaction, gently correcting your phrasing in real time, is not comfortable at first. I've heard parents describe the first two sessions as mildly mortifying and deeply useful in equal measure.
+The coaching can feel vulnerable in ways parents don't always anticipate. Having someone in your ear while you're trying to manage your child, watching every interaction, gently correcting your phrasing in real time, is not comfortable at first. Parents commonly describe the first two sessions as mildly mortifying and deeply useful in equal measure.
 
 A few things that help: reading about PCIT before you start, so the concepts feel less foreign when the coach introduces them. Some parents find workbooks on positive parenting or behavioral skills useful as a primer. If you're looking for something along those lines, "The Kazdin Method for Parenting the Defiant Child" by Alan Kazdin (available on Amazon, and yes, the site may earn a small commission if you buy through a link here) covers related behavioral principles in accessible language. It won't replace PCIT, but it can make the framework feel less alien.
 

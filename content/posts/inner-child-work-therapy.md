@@ -46,15 +46,15 @@ What most people don't realize is that you don't need a diagnosable condition to
 
 ## Who It's Actually For
 
-I want to be specific here because vague claims frustrate me.
+It helps to be specific here, because vague claims about who benefits from this work are common.
 
-Inner child work tends to show up in treatment for people dealing with chronic people-pleasing or fawning responses, difficulties with emotional regulation (especially the "I know I'm overreacting, but I can't stop" experience), patterns of abandonment fear that sabotage relationships, persistent shame that doesn't respond to logic or reassurance, and adults who grew up in homes with emotional neglect, addiction, or unpredictability. It's also used with adults processing childhood trauma that wasn't "dramatic" enough to feel like "real" trauma to them. (Neglect, by the way, is real trauma. I've seen more healing happen around quiet absence than around overt abuse.)
+Inner child work tends to show up in treatment for people dealing with chronic people-pleasing or fawning responses, difficulties with emotional regulation (especially the "I know I'm overreacting, but I can't stop" experience), patterns of abandonment fear that sabotage relationships, persistent shame that doesn't respond to logic or reassurance, and adults who grew up in homes with emotional neglect, addiction, or unpredictability. It's also used with adults processing childhood trauma that wasn't "dramatic" enough to feel like "real" trauma to them. (Neglect, by the way, is real trauma. Clinically, significant healing often happens around quiet absence just as much as around overt abuse.)
 
 This work is not the right first stop if someone is in acute crisis, actively struggling with suicidal ideation, or dealing with unaddressed substance use. Stabilization comes first. Any therapist worth their license will tell you this, and if they don't, find another one.
 
 ## What Happens in a Session
 
-The first time I sat in on a demonstration session of IFS-based inner child work during a training in 2019 (I was helping a clinical team onboard new therapists at a community [health center](/community-mental-health-center-access/)), I expected it to feel theatrical. It didn't. It felt uncomfortably real.
+The first time I sat in on a demonstration session of IFS-based inner child work during a training in 2019 (I was helping a clinical team onboard new therapists at a community [health center](/community-mental-health-center-access/)), I expected it to feel theatrical. It rarely does.
 
 Typical inner child work in session isn't regression therapy in the old Freudian sense. A therapist isn't hypnotizing you or asking you to "become" your child self. What actually happens, depending on the modality, often looks like this:
 
@@ -66,7 +66,7 @@ Typical inner child work in session isn't regression therapy in the old Freudian
 
 4. **Meeting the younger part.** This often involves some form of visualization or imagery. You might be invited to picture yourself at the age when this pattern formed. What does that version of you need to hear? What did they never get to express?
 
-5. **Reparenting.** This is the part that sounds cheesy until you experience it. It involves the adult, present-day you offering the child part what they needed: protection, acknowledgment, permission to have existed. It can be quiet and small. I've watched people process thirty years of "I'm not enough" in one careful session around this step.
+5. **Reparenting.** This is the part that sounds cheesy until you experience it. It involves the adult, present-day you offering the child part what they needed: protection, acknowledgment, permission to have existed. It can be quiet and small. Therapists report that clients sometimes process decades of "I'm not enough" in one careful session around this step.
 
 A small but important logistical note: most therapists doing this work will ask you to come in with a recent, specific situation rather than a general theme. "I cried in the car after my sister's wedding" is more workable than "I have family issues." Specificity is the entry point.
 
@@ -86,7 +86,7 @@ When you're searching, [Psychology Today's therapist directory](https://www.psyc
 
 ## The Self-Help Question
 
-I get asked constantly whether someone can do inner child work on their own. A little, yes. Fully, no.
+A common question is whether someone can do inner child work on their own. A little, yes. Fully, no.
 
 [Journaling prompts](/daily-journaling-prompts-for-mental-health/), workbooks, and guided meditations can help you start noticing patterns. A workbook like *Homecoming* by John Bradshaw (still worth reading despite its age) or something like *The Inner Child Workbook* by Cathryn L. Taylor can be a useful companion to therapy. (Links below use Amazon affiliate links; the site may earn a small commission.) What they can't do is regulate your nervous system when you hit a grief pocket you didn't know was there, or keep you from spiraling if a visualization unexpectedly surfaces something intense.
 
@@ -98,7 +98,7 @@ If cost is the barrier (and it often is), SAMHSA's treatment locator at [findtre
 
 For example, someone in CBT for anxiety might feel "better on paper" but still experience freezing responses around certain people. Shifting to schema therapy with a child mode focus can help develop an "internal adult" response that feels both real and functional, even when progress isn't easily quantifiable.
 
-**A 38-year-old man referred through a community health center where I consulted:** He'd done talk therapy for a decade and knew his patterns intellectually backward and forward. His new therapist used IFS and within six sessions he accessed a part he described as "the seven-year-old who learned that needing anything was dangerous." After twelve sessions total, his self-reported anxiety scores on the GAD-7 dropped from a 16 (severe) to an 8 (moderate). Not cured. Meaningfully shifted.
+For example, consider someone who has done talk therapy for a decade and knows their patterns intellectually backward and forward. With a therapist using IFS, a client might access a part described as "the seven-year-old who learned that needing anything was dangerous" within just a few sessions. After twelve sessions total, self-reported anxiety scores on the GAD-7 might drop from a 16 (severe) to an 8 (moderate). Not cured. Meaningfully shifted.
 
 **Group schema therapy pilot (referenced in a 2022 paper in the *Journal of Behavior Therapy and Experimental Psychiatry*):** 47 participants with chronic emotional dysregulation completed a 30-session group protocol. By end of treatment, 64% showed reliable improvement on schema-related distress measures. That's not a clean 100%, but for this population, it's a real finding.
 

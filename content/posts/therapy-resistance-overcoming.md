@@ -25,11 +25,11 @@ faqs:
    a: "Sliding-scale fees are more widely available than people realize. Many therapists offer them but don't advertise them prominently. Community mental health centers, university training clinics, and open-enrollment platforms like Open Path Collective offer significantly reduced rates. It's worth asking directly rather than assuming cost rules it out."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Something I've noticed over twenty years in this field: the people who say "therapy isn't for me" are almost always the ones who need it most. Not in a patronizing way. I mean that the survival skills that help someone endure genuinely hard circumstances, minimizing, pushing through, not wanting to burden others, are the exact same skills that make sitting down with a stranger to talk about your inner life feel completely absurd.
+People who say "therapy isn't for me" are almost always the ones who need it most. Not in a patronizing way. I mean that the survival skills that help someone endure genuinely hard circumstances, minimizing, pushing through, not wanting to burden others, are the exact same skills that make sitting down with a stranger to talk about your inner life feel completely absurd.
 
 If that's where you are right now, this is for you.
 
-Therapy resistance is real. It's not weakness or stubbornness in the bad sense, and it doesn't mean you're broken in some extra way. But I've also seen it cost people years. Decades, sometimes. So let's be direct about what's actually happening and what you can realistically do about it.
+Therapy resistance is real. It's not weakness or stubbornness in the bad sense, and it doesn't mean you're broken in some extra way. But resistance can cost people years. Decades, sometimes. So let's be direct about what's actually happening and what you can realistically do about it.
 
 ## The Resistance Isn't What You Think It Is
 

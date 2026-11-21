@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most people spend more time researching a new laptop than figuring out who to actually call when they're struggling. That's not a criticism. It's just what happens when the system is this confusing and the stakes feel this high.
 
-If you've typed something like "do I need a therapist or a psychiatrist" into a search bar recently, you're in good company. I've heard some version of that question hundreds of times, from people sitting in my office, from readers who email me, from friends who pull me aside at parties because they don't know who else to ask. The titles sound interchangeable until you need to know the difference. Then it matters a lot.
+If you've typed something like "do I need a therapist or a psychiatrist" into a search bar recently, you're in good company. That question comes up constantly, from people navigating the system for the first time, from readers who write in, from friends who quietly ask because they don't know who else to turn to. The titles sound interchangeable until you need to know the difference. Then it matters a lot.
 
 So let me just lay it out plainly.
 
@@ -48,7 +48,7 @@ A **psychologist** typically has a doctoral degree (a PhD or PsyD) in psychology
 
 A **therapist** is a broader term covering licensed professionals like licensed clinical social workers (LCSWs), licensed professional counselors (LPCs), licensed marriage and family therapists (LMFTs). Psychologists and psychiatrists can also do therapy. What ties the "therapist" category together is the work itself: talk-based treatment, the kind that happens week after week in a room or on a video call.
 
-Here's what I tell people just getting oriented: the word "therapist" describes what someone does. The words "psychologist" and "psychiatrist" describe their training and credentials.
+Here's a useful framing for anyone just getting oriented: the word "therapist" describes what someone does. The words "psychologist" and "psychiatrist" describe their training and credentials.
 
 ## What Psychiatrists Actually Do (And When You Should See One)
 
@@ -78,11 +78,11 @@ LCSWs, LPCs, and LMFTs do the majority of outpatient talk therapy in the United 
 
 Credential requirements vary by state, but generally these professionals have master's degrees, thousands of hours of supervised clinical experience, and have passed licensing exams. The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) has a really useful overview of provider types if you want specifics on licensing in your state.
 
-Where I'd push back is anyone calling themselves a "therapist" or "life coach" without a license. In many states, those titles are unregulated. That's not automatically disqualifying, coaches can help in specific contexts, but if you're dealing with a diagnosable mental health condition, see someone who's licensed and carries liability insurance and follows an ethical code. The stakes are too high for ambiguity.
+A meaningful concern arises when someone calls themselves a "therapist" or "life coach" without a license. In many states, those titles are unregulated. That's not automatically disqualifying, coaches can help in specific contexts, but if you're dealing with a diagnosable mental health condition, see someone who's licensed and carries liability insurance and follows an ethical code. The stakes are too high for ambiguity.
 
 ## How to Actually Choose
 
-You might be wondering where to even start. Here's my honest answer: start with what's bothering you and whether medication is something you're open to or already know you need.
+A good starting point is to consider what's bothering you and whether medication is something you're open to or already know you need.
 
 If you're experiencing symptoms that feel biological, sleep is completely disrupted, mood cycles in ways outside your control, you're having thoughts that scare you, or previous therapy alone didn't work, a psychiatrist is probably your first call. Your primary care doctor can bridge this too. Many PCPs comfortably prescribe antidepressants for mild to moderate depression and anxiety, and they can refer you to a psychiatrist for anything more complicated.
 
@@ -92,7 +92,7 @@ If you're dealing with something needing careful psychological assessment, a new
 
 These categories overlap. That's fine. A lot of people end up with a therapist they see weekly and a psychiatrist they check in with every month or two for medication management. That combination isn't unusual. It's often actually the most effective setup.
 
-A couple books I point people to when they're starting to build their understanding before or alongside therapy: *The Anxiety and Worry Workbook* by Clark and Beck is one of the most practical CBT-based tools I've found, and *The DBT Skills Workbook* by McKay, Wood, and Brantley is excellent if emotional regulation is tough. Both are on Amazon, and the site may earn a small commission if you buy through the links here. These won't replace working with a professional, but they give you something concrete to do between sessions and help you show up to therapy with clarity about what you're actually working on.
+Two books worth considering when building understanding before or alongside therapy are *The Anxiety and Worry Workbook* by Clark and Beck, widely regarded as one of the most practical CBT-based tools available, and *The DBT Skills Workbook* by McKay, Wood, and Brantley, which is especially useful when emotional regulation is a challenge. Both are on Amazon, and the site may earn a small commission if you buy through the links here. These won't replace working with a professional, but they give you something concrete to do between sessions and help you show up to therapy with clarity about what you're actually working on.
 
 The system is genuinely confusing. You're not missing something. But here's the good news: you don't have to have it all figured out before you make the first call. Pick one door. The right person will help you find the next one.
 

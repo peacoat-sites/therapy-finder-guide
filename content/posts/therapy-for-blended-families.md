@@ -36,7 +36,7 @@ Let's talk about what therapy can actually do here, who you need in the room, an
 
 ## Why Generic Couples Therapy Often Falls Short
 
-Here's where I'll push back on the obvious advice: if you're in a blended family, please don't just Google "couples therapy near me" and book the first available person. I made a version of this mistake myself when advising a family early in my career. I referred them to an excellent therapist who specialized in attachment and had strong couples credentials. She was great. She was also completely out of her depth with stepfamily dynamics, particularly around loyalty binds (where kids feel like loving a stepparent means betraying their biological parent) and co-parenting conflict with an ex who was still very much in the picture.
+Here's where I'll push back on the obvious advice: if you're in a blended family, please don't just Google "couples therapy near me" and book the first available person. This is a common mistake blended families make. A family might be referred to an excellent therapist who specializes in attachment and has strong couples credentials. That therapist may be great. That therapist may still be completely out of her depth with stepfamily dynamics, particularly around loyalty binds (where kids feel like loving a stepparent means betraying their biological parent) and co-parenting conflict with an ex who was still very much in the picture.
 
 Blended families have structural features that don't show up in first-family dynamics at all. There's no shared history. The children didn't choose this. Stepparents often enter with wildly unrealistic expectations, set in part by the cultural mythology that love conquers all, and in part by a partner who said "my kids are great, you'll love them." (They are great. It's still hard.)
 
@@ -52,7 +52,7 @@ The research on blended families is honest about how hard this is. Stepfamily sy
 
 What the research also shows, somewhat counterintuitively, is that the couple relationship is the engine of the whole system. A 2015 study in the *Journal of Family Psychology* found that stepfamily cohesion was far more predicted by the quality of the couple's alliance than by any direct relationship between stepparent and stepchildren. Which means, practically speaking: couple therapy may matter more than family therapy, at least in the early years.
 
-I don't have clean numbers on exactly how many blended families use therapy versus how many would benefit from it, so I won't pretend to. What I can tell you is that every family therapist I've spoken with says blended family cases are among the most complex they see, and also among the most rewarding when the family commits to the process.
+I don't have clean numbers on exactly how many blended families use therapy versus how many would benefit from it, so I won't pretend to. Family therapists who work in this area consistently report that blended family cases are among the most complex they see, and also among the most rewarding when the family commits to the process.
 
 ---
 
@@ -60,7 +60,7 @@ I don't have clean numbers on exactly how many blended families use therapy vers
 
 Therapy for blended families rarely looks like one thing. Here's how I'd think about the options:
 
-**Couple therapy** is usually where I'd start, particularly if the presenting issue is conflict between partners about parenting or the kids. This is private, relatively contained, and lets the adults get aligned before bringing children into a room with a therapist.
+**Couple therapy** is usually the best starting point, particularly if the presenting issue is conflict between partners about parenting or the kids. This is private, relatively contained, and lets the adults get aligned before bringing children into a room with a therapist.
 
 **Family therapy with select members** is worth considering when there's a specific relationship that needs direct attention. Maybe it's a stepparent and one particular stepchild. Maybe it's two stepsiblings who are in open conflict. You don't always need the whole household in one session.
 
@@ -68,7 +68,7 @@ Therapy for blended families rarely looks like one thing. Here's how I'd think a
 
 **Child therapy** becomes important if a child is showing behavioral changes, school problems, or significant withdrawal. Younger children especially may not have the language to express loyalty conflicts or grief about their parents' divorce, and play therapy can reach places that talk therapy can't.
 
-Scenario: A mother of two (ages 9 and 13) remarried and moved in with a partner who had a 15-year-old son. Within four months, the adults were arguing almost nightly about the teenager's behavior and perceived favoritism. Action taken: They started with six weeks of couple therapy focused on parenting alignment, then added monthly whole-family sessions with a stepfamily-trained therapist. Result: By month five, nightly arguments had dropped to roughly once a week, and the adults reported feeling like a team again, even when the kids were difficult. The 13-year-old, notably, took longest to warm up. That's developmentally normal.
+For example, consider a mother of two (ages 9 and 13) who remarries and moves in with a partner who has a 15-year-old son. Within four months, the adults were arguing almost nightly about the teenager's behavior and perceived favoritism. In such a situation, starting with six weeks of couple therapy focused on parenting alignment, then adding monthly whole-family sessions with a stepfamily-trained therapist, can make a significant difference. By month five, nightly arguments might drop to roughly once a week, and the adults could find themselves feeling like a team again, even when the kids are difficult. The middle child may take longest to warm up. That's developmentally normal.
 
 ---
 
@@ -94,7 +94,7 @@ On cost: therapy fees vary widely. Many therapists in major cities charge betwee
 
 This one comes up constantly. A stepchild is "acting out." The parents bring her to therapy to fix her behavior. The therapist quickly realizes the child is the messenger for a family system in distress.
 
-Scenario: A dad brought his 11-year-old son to therapy because of aggression at school following a remarriage. The son had two sessions of individual therapy. Action taken: The therapist recommended a family systems approach and brought in the dad and stepmother for four joint sessions. Result: The aggression at school decreased significantly over eight weeks once the adults worked on consistency and the son had explicit permission, from both his dad and stepmom, to love both households.
+For example, imagine a dad who brings his 11-year-old son to therapy because of aggression at school following a remarriage. The son had two sessions of individual therapy. A therapist might recommend a family systems approach and bring in the dad and stepmother for joint sessions. The aggression at school may decrease significantly once the adults work on consistency and the child has explicit permission, from both his dad and stepmom, to love both households.
 
 This is more common than most people expect. The [National Alliance on Mental Illness (NAMI)](https://www.nami.org/) notes that children in family transitions show higher rates of anxiety and behavioral changes, most of which resolve with stable, warm adult relationships rather than individual treatment alone.
 

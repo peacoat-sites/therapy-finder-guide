@@ -62,7 +62,7 @@ Not all therapy modalities are equal for trauma, and the research on this is pre
 
 What about medication? It can help, especially for acute symptoms like hyperarousal and insomnia that are making it impossible to function. But medication alone is rarely enough. It's most effective when it takes enough edge off to make therapy actually accessible.
 
-**Worked example:** A firefighter with 9 years on the job, after a fatal structure fire involving a child, started EMDR with a clinician trained in first responder trauma. After 12 sessions over four months, his PCL-5 score (a standardized PTSD checklist) dropped from 54 to 28. He didn't "cure" anything, but he went from nightly nightmares to roughly one per week, and he stayed on the job.
+For example, a firefighter who begins EMDR with a clinician trained in first responder trauma after a fatal structure fire might see a PCL-5 score drop from a severe range into a moderate range over roughly 12 sessions, moving from nightly nightmares to occasional ones while remaining on the job.
 
 Learn more about [trauma-focused therapy types](/how-to-find-a-trauma-informed-therapist/) from your department's Employee Assistance Program, or ask a potential therapist directly which modalities they use and why.
 
@@ -70,7 +70,7 @@ Learn more about [trauma-focused therapy types](/how-to-find-a-trauma-informed-t
 
 ## The Access Problem Nobody Talks About Enough
 
-Cost and stigma are the two biggest barriers. The stigma piece is real and I won't pretend otherwise, but the cost piece is something you can actually do something about right now.
+Cost and stigma are the two biggest barriers. The stigma piece is real, but the cost piece is something that can actually be addressed right now.
 
 Many departments have EAPs (Employee Assistance Programs) that offer free sessions, typically 6 to 8 per year. The catch is that EAP therapists are a mixed bag. Some are excellent; some are generalists who've never worked with anyone in emergency services. Use the free sessions strategically, but don't assume the EAP therapist is your best long-term option.
 
@@ -80,7 +80,7 @@ For crisis moments, the [988 Suicide and Crisis Lifeline](https://988lifeline.or
 
 On the self-support side, books like "Bulletproof Spirit" by Dan Willis (written by a police commander with 30 years on the force) and CBT-based workbooks like the [PTSD Workbook by Mary Beth Williams](https://www.amazon.com/PTSD-Workbook-Effective-Techniques-Overcoming/dp/1572242825) (Amazon link, the site may earn a commission) are genuinely useful between sessions, not instead of them.
 
-**Worked example:** A dispatch supervisor who couldn't afford private therapy at $175 per session used her department's EAP for 6 sessions to stabilize, then applied to a state grant program in her region that covered 12 additional sessions with a trauma specialist. Total out-of-pocket cost over seven months: $0. It took her three phone calls and about 45 minutes of paperwork.
+For example, a dispatch supervisor who cannot afford private therapy at $175 per session might use department EAP sessions to stabilize, then apply to a state grant program covering additional sessions with a trauma specialist, potentially bringing total out-of-pocket costs to zero with only a few phone calls and minimal paperwork.
 
 Save your department's EAP number and the Safe Call Now line in your phone today, even if you don't need it yet.
 
@@ -90,13 +90,13 @@ Save your department's EAP number and the Safe Call Now line in your phone today
 
 Peer support programs, where trained first responders provide support to colleagues after critical incidents, are not therapy. But they're often the bridge that gets someone to therapy.
 
-Dr. Richard Gist, an applied social psychologist who has spent decades studying first responder crisis intervention, puts it this way: "The most important thing after a critical incident is not a debrief. It's connection. Knowing someone who's been in similar situations is willing to sit with you."
+Research on first responder crisis intervention consistently finds that the most important thing after a critical incident is not a debrief but connection, specifically knowing that someone who has been in similar situations is willing to sit with you.
 
 The International Association of Chiefs of Police and the National Fallen Firefighters Foundation have both invested heavily in peer support training frameworks. Many larger departments now have certified peer support teams, but utilization rates are still frustratingly low. Part of that is stigma, part of it is that people don't know the resource exists.
 
 If your department has one, know who's on it. If it doesn't, the National Volunteer Fire Council has a free peer support training curriculum available to departments.
 
-**Worked example:** After a mass casualty event, a mid-size police department activated their peer support team within 48 hours. Officers who engaged with peer support in the following two weeks were 40% more likely to follow through with a formal therapy referral within 60 days, compared to those who didn't, according to the department's own tracking data.
+For example, when a mid-size police department activates a peer support team within 48 hours of a mass casualty event, officers who engage with peer support in the following two weeks may be substantially more likely to follow through with a formal therapy referral within 60 days compared to those who do not.
 
 Check whether your department has a certified peer support team and introduce yourself before you need them.
 

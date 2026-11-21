@@ -26,7 +26,7 @@ faqs:
     a: "ACT requires some capacity to engage in abstract thinking and self-reflection, which makes it less suitable for people in acute psychosis or severe cognitive impairment. People with significant dissociation may need modified approaches to the mindfulness components. It's not the first-line recommendation for acute PTSD without trauma-specific adaptation."
 ---
 
-Most people who ask me about ACT have already tried something else. They've done a round of CBT, maybe read a self-help book or two, possibly spent six months in [talk therapy](/how-does-talk-therapy-change-the-brain/) that felt like circling the same drain. They come in curious but a little guarded: "Is this just going to tell me to think positive thoughts again?" Honestly, I get it. And the answer is no. ACT is almost the opposite of that.
+Many people who seek out ACT have already tried something else. They've done a round of CBT, maybe read a self-help book or two, possibly spent six months in [talk therapy](/how-does-talk-therapy-change-the-brain/) that felt like circling the same drain. They arrive curious but a little guarded, often asking whether ACT is just going to tell them to think positive thoughts again. And the answer is no. ACT is almost the opposite of that.
 
 Acceptance and Commitment Therapy (usually pronounced like the word "act," not the letters) is a [behavioral therapy](/cognitive-behavioral-therapy-explained/) developed by psychologist Steven Hayes in the late 1980s. Hayes wasn't trying to build a shinier version of CBT. He was questioning a foundational assumption that most Western psychology had been running on: that psychological suffering is caused by distorted thinking, and that if we fix the thinking, we fix the person. ACT says something more uncomfortable. It says that trying to control, suppress, or eliminate unwanted thoughts and feelings is often what keeps people stuck. The goal isn't to feel better. It's to live better, even when you feel terrible.
 
@@ -42,7 +42,7 @@ ACT is built around what Hayes calls the "psychological flexibility model." Ther
 
 **Acceptance.** Not resignation. Not approval. Just willingness to have an experience without fighting it. If you've ever tried to fall asleep by telling yourself to stop being anxious, you already understand why the fighting doesn't work.
 
-**Present-moment awareness.** This overlaps with mindfulness, and yes, ACT borrows heavily from Buddhist concepts, though Hayes has been careful to frame it behaviorally rather than spiritually. The research backing on mindfulness specifically for anxiety and depression is strong enough that even skeptics (myself included) have had to update their priors.
+**Present-moment awareness.** This overlaps with mindfulness, and yes, ACT borrows heavily from Buddhist concepts, though Hayes has been careful to frame it behaviorally rather than spiritually. The research backing on mindfulness specifically for anxiety and depression is strong enough that even skeptics have had to update their priors.
 
 **Self-as-context** is the trickiest one to explain in a paragraph. The short version: ACT distinguishes between the "thinking self" (the voice narrating your experience) and the "observing self" (the part of you that notices the narration). When you're fused with the thinking self, you are your thoughts. Self-as-context helps you take a step back.
 
@@ -54,17 +54,17 @@ ACT is built around what Hayes calls the "psychological flexibility model." Ther
 
 For example, someone might come into ACT after months of CBT for health anxiety. They may have gotten decent at identifying cognitive distortions but keep relapsing whenever a new physical symptom appears. A therapist might try something different: instead of disputing the thought "this headache might be serious," they have the person hold the thought loosely, observe it like a cloud passing, and then ask: "What would someone who values being present with their kids do [right now](/the-va-is-testing-mdma-assisted-therapy-for-ptsd-right-now/)?"
 
-That reframe took about six sessions to feel natural to him. By week ten, he was reporting that he still had the health-related thoughts, but they had less grip. He wasn't spending three hours on symptom-checker websites anymore.
+That kind of reframe can take several sessions to feel natural. By around week ten, the health-related thoughts may still be present but carry less grip. Compulsive symptom-checker website visits tend to decrease significantly.
 
 That's a real outcome, not a cure. ACT doesn't promise you'll stop having hard thoughts. It promises you'll get better at not letting those thoughts run your life.
 
 A typical ACT session sequence might look like this:
 
-Scenario: Person with generalized anxiety disorder, avoiding social events for two years. The therapist introduces defusion exercises in weeks 1-3, then moves to values clarification in weeks 4-6 (journaling exercises, Valued Living Questionnaire). By weeks 7-10, the client is building "exposure" activities aligned with values (attending one low-stakes social event). By week 12, self-reported anxiety interference scores on the GAD-7 drop from 18 (severe) to 11 (moderate). Not symptom-free. Functioning meaningfully better.
+For example, consider someone with generalized anxiety disorder who has been avoiding social events for two years. A therapist might introduce defusion exercises in weeks 1-3, then move to values clarification in weeks 4-6 using journaling exercises and the Valued Living Questionnaire. By weeks 7-10, the person could be building exposure activities aligned with their values, such as attending one low-stakes social event. By week 12, self-reported anxiety interference scores on the GAD-7 might drop from 18 (severe) to 11 (moderate). Not symptom-free. Functioning meaningfully better.
 
 ## How ACT Compares to Other Common Therapies
 
-I get asked this constantly, so let me just lay it out plainly.
+This is a common question, so here is a plain comparison.
 
 | Therapy | Core assumption | Goal | Typical length | Homework? |
 |---|---|---|---|---|
@@ -84,15 +84,15 @@ Values clarification sounds elegant in theory. In practice, some people, especia
 
 The mindfulness components also aren't right for everyone. People with certain trauma backgrounds, particularly those prone to dissociation, can find formal mindfulness exercises destabilizing. If that's you, tell your therapist. There are adapted versions.
 
-And ACT has less evidence for psychosis than some of its advocates imply. The research exists and is promising, but I wouldn't overstate it.
+ACT also has less evidence for psychosis than some of its advocates imply. The research exists and is promising, but I wouldn't overstate it.
 
 ## Self-Directed ACT: Useful, But Know The Limits
 
-There's a solid body of self-help ACT material that's genuinely worth having on your shelf, and I say that with some caution because most self-help books are bad. The exceptions in ACT are Hayes's own *Get Out of Your Mind and Into Your Life* and Russ Harris's *The Happiness Trap*, which is probably the most accessible entry point for most people. Harris also has a companion workbook. If you want something more structured for daily practice, the *ACT Workbook for Anxiety* by Lara Fielding has practical exercises worth doing. (Full disclosure: if you buy through links on this site, we may earn a small commission.)
+There is a solid body of self-help ACT material that is genuinely worth having on your shelf, with the caveat that most self-help books are bad. The exceptions in ACT are Hayes's own *Get Out of Your Mind and Into Your Life* and Russ Harris's *The Happiness Trap*, which is probably the most accessible entry point for most people. Harris also has a companion workbook. If you want something more structured for daily practice, the *ACT Workbook for Anxiety* by Lara Fielding has practical exercises worth doing. (Full disclosure: if you buy through links on this site, we may earn a small commission.)
 
 A workbook won't replace a therapist if you're dealing with moderate-to-severe depression, suicidal ideation, trauma, or an eating disorder. If you're in crisis right now, please reach out to the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) by calling or texting 988.
 
-For mild-to-moderate anxiety or a kind of low-grade "I'm fine but not thriving" feeling? Self-directed ACT work is more useful than I initially gave it credit for. I was skeptical. Then I watched it help people in ways that surprised me.
+For mild-to-moderate anxiety or a low-grade sense of not quite thriving, self-directed ACT work is more useful than it is often given credit for.  The evidence and reported outcomes are, on balance, genuinely encouraging.
 
 ## Sources
 

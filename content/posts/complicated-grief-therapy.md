@@ -38,7 +38,7 @@ If you're here because you're worried about yourself, or someone you love, I wan
 
 Grief is supposed to hurt. A lot. That part is normal. What distinguishes complicated grief, sometimes called prolonged grief disorder (PGD) in current diagnostic language, is that the acute pain doesn't gradually soften over time. Instead, it stays sharp, or even intensifies, past the point where most bereaved people are beginning, slowly, to re-engage with life.
 
-The DSM-5-TR, updated in 2022, finally gave prolonged grief disorder its own diagnostic code (F43.8), which matters more than it sounds. Before that codification, clinicians often treated it as depression and got poor results. The key symptoms are distinct: intense longing for the deceased that doesn't ease, difficulty accepting the loss as permanent, bitterness or anger about the death, feeling that life is meaningless without that person, and an inability to trust others since the loss. You might be wondering whether you're just "grieving hard" versus something that warrants clinical attention. Here's what I tell people: if it's been more than twelve months and the pain hasn't softened at all, and your ability to work, connect with others, or care for yourself is significantly impaired, that's worth a professional assessment. Not because something is wrong with you. Because something specific is happening that has a specific treatment.
+The DSM-5-TR, updated in 2022, finally gave prolonged grief disorder its own diagnostic code (F43.8), which matters more than it sounds. Before that codification, clinicians often treated it as depression and got poor results. The key symptoms are distinct: intense longing for the deceased that doesn't ease, difficulty accepting the loss as permanent, bitterness or anger about the death, feeling that life is meaningless without that person, and an inability to trust others since the loss. You might be wondering whether you're just "grieving hard" versus something that warrants clinical attention. A general guideline: if it has been more than twelve months and the pain hasn't softened at all, and the ability to work, connect with others, or care for yourself is significantly impaired, that warrants a professional assessment. Not because something is wrong with you. Because something specific is happening that has a specific treatment.
 
 ## The therapy that actually works
 
@@ -54,7 +54,7 @@ A related approach worth knowing: Prolonged Grief Disorder therapy (PGD-therapy)
 
 This is where things get harder. CGT is a specialized protocol, and not every therapist offers it. As of August 2026, Columbia University's Center for Complicated Grief maintains a training program and a partial directory of trained clinicians. The International Association for Grief Therapists also maintains referral resources. For finding providers more broadly, SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) allows searches by specialty and is updated regularly.
 
-When I help people find a CGT provider, I always tell them to ask one specific question in the first call: "Have you completed formal training in Complicated Grief Treatment or a manualized prolonged grief protocol?" If the answer is "I've worked with a lot of grief clients," that's not the same thing and they should keep looking.
+When searching for a CGT provider, one specific question is worth asking on the first call: "Have you completed formal training in Complicated Grief Treatment or a manualized prolonged grief protocol?" If the answer is "I've worked with a lot of grief clients," that's not the same thing and they should keep looking.
 
 Here's what the experience actually looks like, in practical terms:
 
@@ -71,11 +71,11 @@ Here's what the experience actually looks like, in practical terms:
 
 Telehealth delivery deserves a specific mention: a 2020 study in *Depression and Anxiety* found that CGT delivered via videoconference showed comparable outcomes to in-person delivery. This matters because it opens access to people in rural areas or places where no local CGT-trained clinicians exist.
 
-Three examples from the work I've observed:
+To illustrate what treatment can look like, consider these hypothetical scenarios:
 
-A man in his early 40s who lost his adult son to overdose came into treatment with significant guilt and anger layered on the grief. In CGT, the loss-focused strand addressed the guilt directly through imaginal conversation techniques. At 16-session completion, he reported a clinician-rated improvement on the Inventory of Complicated Grief (ICG) scale from a score of 42 (severe) to 19 (below clinical threshold).
+For example, a man in his early 40s who lost his adult son to overdose might come into treatment with significant guilt and anger layered on the grief. In CGT, the loss-focused strand addressed the guilt directly through imaginal conversation techniques. By 16-session completion, clinician-rated scores on the Inventory of Complicated Grief (ICG) could improve from 42 (severe) to 19 (below clinical threshold).
 
-A college student who lost her mother during finals week, then pushed through and "didn't let herself grieve," presented two years later with what looked like treatment-resistant depression. The missed piece was complicated grief, identified when a clinician asked specifically about loss history. Eight sessions into CGT, her PHQ-9 score dropped from 18 to 9, even though three prior antidepressant trials had barely moved the needle.
+In another hypothetical case, a college student who lost her mother during finals week, then pushed through and "didn't let herself grieve," might present two years later with what looks like treatment-resistant depression. The missed piece was complicated grief, identified when a clinician asked specifically about loss history. Eight sessions into CGT, PHQ-9 scores can drop substantially, even when multiple prior antidepressant trials have barely moved the needle.
 
 ## What you can do right now
 
