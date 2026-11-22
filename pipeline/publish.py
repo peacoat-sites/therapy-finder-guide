@@ -908,7 +908,7 @@ Write with the judgment and practical detail of an experienced practitioner, wit
     content = msg.content[0].text
 
     title_hint = ""
-    if stats_mode:
+    if stats_mode and False:  # stats track off: figures pulled from bodies produced misleading titles
         _nums = re.findall(r"(?<![\w.])\$?\d[\d,]*(?:\.\d+)?%?", content)
         _nums = [n for n in dict.fromkeys(_nums) if not re.fullmatch(r"(?:19|20)\d\d", n) and len(n.strip("$%")) > 1][:5]
         if _nums:
@@ -1509,7 +1509,7 @@ When done researching, output ONLY a JSON object (no prose before or after):
     _new = _ttoks(title)
     for _prev in recent_topics:
         _old = _ttoks(_prev)
-        if _new and _old and len(_new & _old) / len(_new | _old) >= 0.55:
+        if _new and _old and len(_new & _old) / len(_new | _old) >= 0.45:
             print(f"    [topical] near-duplicate of existing '{str(_prev)[:60]}'; skipping")
             return None
     facts = "\n".join(f"- {f}" for f in brief.get("key_facts", []))

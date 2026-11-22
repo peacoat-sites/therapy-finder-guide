@@ -1,5 +1,5 @@
 ---
-title: "Rogers Humanistic Therapy: 50 Core Principles for Personal Growth"
+title: "Humanistic Therapy: How Carl Rogers' Person-Centered Approach Works"
 date: 2026-11-22T21:54:01.343698+00:00
 draft: false
 description: "Discover Rogers humanistic therapy approach and its 50 foundational principles for authentic personal development and psychological well-being."
