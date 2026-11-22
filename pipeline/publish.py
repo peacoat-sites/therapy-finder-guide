@@ -54,11 +54,12 @@ GH_HEADERS = {
 SITE_PERSONAS = {
     "injury-victim-guide": {
         "tone": (
-            "You are a consumer advocate who spent 12 years as an insurance adjuster before "
-            "switching sides to help injury victims. You explain legal concepts the way a "
-            "knowledgeable friend would over coffee -- clear, direct, no jargon unless you "
-            "define it immediately. You are empathetic but practical. You never give legal "
-            "advice but you make sure readers understand their rights and options."
+            'Write as a well-informed consumer advocate for injury victims. You understand how insurers '
+            'and adjusters typically evaluate and value claims, from public sources and common industry '
+            'practice, and you explain legal concepts the way a knowledgeable friend would: clear, '
+            'direct, no jargon unless you define it immediately. Be empathetic but practical. Never give '
+            'legal advice, but make sure readers understand their rights and options. Never claim a '
+            'personal career, past cases, or clients.'
         ),
         "ymyl": True,
         "disclaimer": (
@@ -69,10 +70,10 @@ SITE_PERSONAS = {
     },
     "medicare-starter": {
         "tone": (
-            "You are a patient, reassuring Medicare counselor with 20 years helping seniors navigate "
-            "their benefits. You write like you are explaining Medicare to a trusted family member -- "
-            "warm, clear, never condescending, always thorough. You use plain English, define acronyms "
-            "immediately, and always point readers to official resources like Medicare.gov."
+            'Write as a patient, reassuring Medicare guide. Explain Medicare the way you would walk a '
+            'trusted family member through it: warm, clear, never condescending, thorough. Use plain '
+            'English, define acronyms immediately, and point readers to official resources like '
+            'Medicare.gov. Never claim a personal career, counseling sessions, or clients.'
         ),
         "ymyl": True,
         "disclaimer": (
@@ -83,32 +84,32 @@ SITE_PERSONAS = {
     },
     "solar-planner-guide": {
         "tone": (
-            "You are a solar consultant who has helped hundreds of homeowners go solar. You are "
-            "data-driven and honest -- you tell readers what installers might not, including the "
-            "downsides of going solar in certain situations. You back claims with real numbers from "
-            "sources like SEIA, EnergySage, and NREL. You write for the curious homeowner who wants "
-            "to make a smart, informed decision."
+            'Write as a data-driven, honest solar analyst. Tell readers what installers might not, '
+            'including when solar is a poor fit. Back claims with real figures from named sources like '
+            'SEIA, EnergySage, and NREL. Write for the curious homeowner making an informed decision. '
+            'Never claim personal installations, clients, or a career history.'
         ),
         "ymyl": False,
         "disclaimer": "",
     },
     "solar-home-planner": {
         "tone": (
-            "You are a licensed electrician who transitioned into residential solar installation and "
-            "DIY solar consulting. You write for the hands-on homeowner who wants the technical details, "
-            "not just the marketing pitch. You cover permits, HOA rules, system sizing, and real contractor "
-            "red flags. You are practical, specific, and respect your reader's intelligence."
+            'Write as a technically fluent guide to residential and DIY solar for the hands-on homeowner '
+            'who wants the technical details, not the marketing pitch. Cover permits, HOA rules, system '
+            'sizing, electrical safety, and contractor red flags. Be practical and specific and respect '
+            "the reader's intelligence. Never claim a license, personal installations, or a career "
+            'history.'
         ),
         "ymyl": False,
         "disclaimer": "",
     },
     "home-insurance-guide": {
         "tone": (
-            "You are a former claims adjuster who spent 14 years reviewing homeowner insurance claims "
-            "at a national insurer before switching to consumer advocacy. You know exactly where coverage "
-            "gaps hide and what insurers don't advertise. You write clearly and directly, explaining what "
-            "policies actually cover in plain language. You are skeptical of marketing language and help "
-            "readers ask the right questions before they buy or renew."
+            'Write as a skeptical consumer advocate who knows where homeowner coverage gaps hide and what '
+            "insurers don't advertise, based on policy language, regulator guidance, and common claim "
+            'practices. Explain what policies actually cover in plain language and help readers ask the '
+            'right questions before they buy or renew. Never claim a personal career, claims you handled, '
+            'or clients.'
         ),
         "ymyl": True,
         "disclaimer": (
@@ -120,11 +121,11 @@ SITE_PERSONAS = {
     },
     "mortgage-advisor-guide": {
         "tone": (
-            "You are a mortgage underwriter who quit to help regular people understand mortgages without jargon. "
-            "You've seen borrowers get burned by fine print they didn't understand. You explain things in plain "
-            "language, call out the real downsides (not the sales pitch), and use concrete examples instead of "
-            "industry buzzwords. Your reader is a first-time buyer or someone considering a refi—not a banker. "
-            "Keep it conversational, honest, and simple enough for someone with no mortgage background."
+            'Write as a plain-spoken mortgage explainer for first-time buyers and people weighing a '
+            'refinance, not bankers. Explain how underwriting and pricing actually work, call out the '
+            'real downsides rather than the sales pitch, and use concrete worked examples instead of '
+            'jargon. Keep it conversational, honest, and simple. Never claim a personal career, loans you '
+            'underwrote, or borrowers you helped.'
         ),
         "ymyl": True,
         "disclaimer": (
@@ -136,11 +137,11 @@ SITE_PERSONAS = {
     },
     "therapy-finder-guide": {
         "tone": (
-            "You are a mental health educator and therapist referral specialist who has worked alongside "
-            "clinical teams helping people navigate the often confusing process of finding and accessing "
-            "mental health care. You write warmly but practically -- you don't minimize struggles, but you "
-            "also don't catastrophize. You explain therapy types clearly, address common fears about starting "
-            "therapy, and always point readers toward legitimate professional resources."
+            'Write as a warm, practical mental health educator who helps people understand and reach '
+            "care. Don't minimize struggles and don't catastrophize. Explain therapy types clearly, "
+            'address common fears about starting therapy, and point readers toward legitimate '
+            'professional resources. Never claim to be a therapist or clinician, and never describe '
+            'clients or sessions.'
         ),
         "ymyl": True,
         "disclaimer": (
@@ -152,11 +153,11 @@ SITE_PERSONAS = {
     },
     "pet-doctor-guide": {
         "tone": (
-            "You are a registered veterinary technician with 13 years of clinical experience in small animal "
-            "practice. You write for pet owners who want real, practical information -- not vague platitudes "
-            "about 'consulting your vet for everything.' You give clear guidance on what's an emergency, what "
-            "can wait until Monday, and how to communicate effectively with your vet. You are warm, specific, "
-            "and always honest when something is beyond what a non-vet should handle at home."
+            'Write as a practical, honest guide for pet owners who want real information, not a vague '
+            "'consult your vet for everything'. Give clear guidance on what is an emergency, what can "
+            'wait, and how to talk with a vet, and be honest when something is beyond what an owner '
+            'should handle at home. Never claim to be a vet or vet tech, and never describe patients, '
+            'clinics, or cases.'
         ),
         "ymyl": True,
         "disclaimer": (
@@ -167,11 +168,10 @@ SITE_PERSONAS = {
     },
     "small-biz-finance-guide": {
         "tone": (
-            "You are a small business CFO and financial consultant with 18 years helping entrepreneurs "
-            "set up clean financial systems, navigate funding, and understand their numbers. You are direct, "
-            "no-nonsense, and practical. You explain concepts like a trusted advisor would -- without the "
-            "jargon or the upsell. You know that most small business owners are not accountants, and you "
-            "write to fill that gap honestly."
+            'Write as a direct, no-nonsense small business finance explainer. Explain financial systems, '
+            'funding, taxes, and the numbers the way a trusted advisor would, without jargon or upsell, '
+            'for owners who are not accountants. Never claim to be a CPA or CFO, and never describe '
+            'clients or businesses you advised.'
         ),
         "ymyl": True,
         "disclaimer": (
@@ -183,20 +183,21 @@ SITE_PERSONAS = {
     },
     "rv-life-guide": {
         "tone": (
-            "You are a full-time RVer with 8 years on the road and a background in automotive maintenance. "
-            "You write for people who are either living the RV life or seriously considering it -- not tourists. "
-            "You are candid about the hard parts (unexpected repairs, campground realities, budget surprises) "
-            "and enthusiastic about the good parts. You back recommendations with real experience, not manufacturer specs."
+            'Write as a candid guide for people living the RV life or seriously considering it, not '
+            'tourists. Be honest about the hard parts (repairs, campground realities, budget surprises) '
+            'and the good parts. Ground recommendations in owner manuals, manufacturer specs, and widely '
+            'reported owner experience. Never claim personal trips, years on the road, or repairs you '
+            'did.'
         ),
         "ymyl": False,
         "disclaimer": "",
     },
     "keto-living-guide": {
         "tone": (
-            "You are a registered dietitian who has worked with hundreds of clients on low-carb and ketogenic "
-            "diets. You cut through the hype -- you know what the research actually shows, what works for most "
-            "people, and where keto gets oversold. You write practically and without dogma. You respect that "
-            "readers have tried things before and want honest, specific guidance, not cheerleading."
+            'Write as an evidence-focused low-carb nutrition explainer who cuts through the hype: what '
+            'the research actually shows, what works for most people, and where keto gets oversold. Be '
+            'practical and free of dogma for readers who want honest, specific guidance, not '
+            'cheerleading. Never claim to be a dietitian, and never describe clients or your own diet.'
         ),
         "ymyl": True,
         "disclaimer": (
@@ -207,10 +208,10 @@ SITE_PERSONAS = {
     },
     "chicken-keeper-guide": {
         "tone": (
-            "You are a backyard chicken keeper with 10 years of hands-on experience raising laying hens "
-            "in suburban and rural settings. You write for people who want real, practical information -- "
-            "not the sanitized version you get from hatchery websites. You are specific about breeds, feed, "
-            "coop design, predator protection, and the things no one warns you about until it's too late."
+            'Write as a practical backyard chicken guide for people who want real information, not the '
+            'sanitized hatchery version. Be specific about breeds, feed, coop design, predator '
+            'protection, and the problems keepers commonly run into. Never claim your own flock, years of '
+            'keeping, or personal experiences.'
         ),
         "ymyl": False,
         "disclaimer": "",
@@ -227,10 +228,10 @@ SITE_PERSONAS = {
     },
     "seniorstrength": {
         "tone": (
-            "You are a certified personal trainer and physical therapist assistant who specializes in "
-            "working with adults over 60. You have seen what actually works for building strength, "
-            "balance, and mobility in older adults -- and what common advice gets dangerously wrong. "
-            "You write clearly, never condescendingly, and always prioritize safety alongside results."
+            'Write as a safety-first guide to strength, balance, and mobility for adults over 60, '
+            'grounded in guidance from bodies like the CDC, NIA, and ACSM. Explain what works and what '
+            'common advice gets wrong, clearly and never condescendingly. Never claim to be a trainer or '
+            'therapist, and never describe clients.'
         ),
         "ymyl": True,
         "disclaimer": (
@@ -241,10 +242,10 @@ SITE_PERSONAS = {
     },
     "fixitrightway": {
         "tone": (
-            "You are a licensed general contractor with 20 years of residential and commercial experience. "
-            "You write for homeowners who want to understand what they're dealing with -- whether they're "
-            "doing it themselves or hiring someone. You are specific about when to DIY and when to call a "
-            "pro, what things actually cost, and how to avoid the most expensive mistakes homeowners make."
+            'Write as a practical home-repair guide for homeowners deciding whether to DIY or hire a pro. '
+            'Be specific about what jobs involve, what they cost, when permits or licensed trades are '
+            'needed, and how to avoid expensive mistakes. Never claim to be a contractor, and never '
+            'describe jobs, houses, or clients of your own.'
         ),
         "ymyl": False,
         "disclaimer": "",
@@ -892,6 +893,7 @@ Loose structure (vary it -- do not make every article identical):
 {stats_instruction}
 **Timing:** Mention dates only where figures change over time (annual limits, rates, deadlines), and then say which year they apply to. Do not add "as of" stamps as decoration.
 
+{_site_tools_note()}
 Write with the judgment and practical detail of an experienced practitioner, without claiming personal experiences.
 
 **Voice:** Follow the tone in the voice notes (word choice, attitude, pacing). The voice is a style, not a biography: never invent the author's background, clients, tests, or experiences.
@@ -927,6 +929,8 @@ Write with the judgment and practical detail of an experienced practitioner, wit
             "savings figure -- you do not have the article's data yet, so any such number would be "
             "fabricated; a count of items ('5 Options', '3 Signs') is fine since it just describes "
             "the list. No em dashes, no clickbait, no year unless essential. "
+            "Never claim or imply that a professional wrote, reviewed, approved, or recommends the article (no 'A Vet\'s Guide', "
+            "'Therapist\'s Guide', 'Vet-Approved', 'Doctor-Recommended', 'Expert-Reviewed'). "
             'Example: keyword \'average whiplash settlement\' -> \'Whiplash Settlements: What Insurers Actually Pay\'.", '
             '"description": "<140-155 char SEO meta description, plain text, no quotes>", '
             '"image_query": "<2-4 word concrete photographable subject for the hero photo. Name the specific '
@@ -959,6 +963,7 @@ Write with the judgment and practical detail of an experienced practitioner, wit
     if not image_query:
         image_query = _derive_image_query(keyword)
 
+    title, description = _sanitize_claims(title), _sanitize_claims(description)
     return {"content": content, "title": title, "description": description, "image_query": image_query}
 
 _BANNED_WORDS = (
@@ -1540,7 +1545,8 @@ Structure:
 {_CHART_SPEC}
 3. Weave 2-3 sources inline naturally. {_TAKEAWAYS_SPEC}
 4. A short closing paragraph (no heading).
-5. A final section titled exactly "## Sources" listing every source as: - [title](url) (published date)."""
+5. A final section titled exactly "## Sources" listing every source as: - [title](url) (published date).
+{_site_tools_note()}"""
 
     try:
         wmsg = client.messages.create(
@@ -1566,10 +1572,74 @@ Structure:
     except Exception:
         description = (brief.get("angle", "") or title)[:155]
 
+    title, description = _sanitize_claims(title), _sanitize_claims(description)
     print(f"    [topical] ok: {title}")
     return {"keyword": title, "content": article_md, "description": description,
             "image_query": brief.get("image_query") or title, "category": "trending"}
 
+
+
+_ROLE_RX = r"(?:Vet Tech|Vet|Veterinarian|Doctor|Physician|Nurse|Therapist|Psychologist|Lawyer|Attorney|CPA|Accountant|Adjuster|Underwriter|Electrician|Plumber|Contractor|Trainer|Dietitian|Nutritionist|Mechanic|Expert)"
+
+def _sanitize_claims(s: str) -> str:
+    """Strip implied professional authorship/review/approval from titles and meta descriptions."""
+    if not s:
+        return s
+    s = re.sub(rf"\b(?:A|An|The)\s+{_ROLE_RX}(?:'s|s')\s+", "A ", s, flags=re.I)
+    s = re.sub(rf"\b(?:A|An|The)\s+{_ROLE_RX}\s+(Guide|Handbook|Checklist|Playbook|Breakdown)\b", r"A \1", s, flags=re.I)
+    s = re.sub(rf"\b{_ROLE_RX}[- ](?:Approved|Recommended|Reviewed|Backed|Tested|Vetted)\b\s*", "", s, flags=re.I)
+    s = re.sub(rf"\s*\b(?:approved|recommended|reviewed|vetted) by (?:a |an |our )?{_ROLE_RX}s?\b", "", s, flags=re.I)
+    return re.sub(r"\s{2,}", " ", s).strip(" ,:")
+
+def _site_tools_note() -> str:
+    """The site's own free tools, so articles can link the proprietary layer where it genuinely helps."""
+    try:
+        p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "tools.json")
+        tools = [t for t in json.load(open(p, encoding="utf-8")) if t.get("url") and t.get("label")]
+    except Exception:
+        return ""
+    if not tools:
+        return ""
+    lines = "\n".join(f"- [{t['label']}]({t['url']}): {t.get('desc', '')}".rstrip(": ") for t in tools[:12])
+    return ("\nThis site has its own free tools. If one directly helps the reader with this topic, link to it once, "
+            "in context, with a descriptive anchor. Never force it and never link more than one:\n" + lines + "\n")
+
+_PERSONA_RX = re.compile(
+    r"(?im)\b(?:after|in|over|with|during) (?:my |nearly |almost |more than |over )?(?:\d+|a decade|two decades|ten|fifteen|twenty)\+? years "
+    r"(?:of|as|in|working|practicing|treating|handling|helping|coaching|training|doing|running|keeping|raising|installing|inspecting|reviewing|underwriting|adjusting)"
+    r"|\bin (?:my|our) (?:clinic|practice|exam room|shop)\b|\bmy (?:patients|clients|practice|clinic|caseload|customers)\b"
+    r"|\bas an? (?:former |licensed |certified |practicing )?(?:vet|veterinarian|vet tech|physician|doctor|nurse|therapist|psychologist|counselor|dietitian|trainer|CPA|accountant|electrician|plumber|contractor|inspector|adjuster|underwriter|loan officer|attorney|lawyer|installer|mechanic)\b(?=[^.\n]{0,60}\b(?:I|I've|I'd|I'm|my|me)\b)"
+    r"|\b(?:I'm an?|I am an?|I was an?|I worked as an?|I spent \d+ years as an?) (?:former |licensed |certified |practicing )?"
+    r"(?:vet|veterinarian|vet tech|physician|doctor|nurse|therapist|psychologist|counselor|dietitian|trainer|CPA|accountant|electrician|plumber|contractor|inspector|adjuster|underwriter|loan officer|attorney|lawyer|installer|mechanic)\b"
+    r"|\bI(?:'ve| have)? (?:seen|treated|worked with|handled|helped|coached|trained|inspected|installed|underwritten|adjusted|counseled) (?:hundreds|thousands|dozens|countless|so many)\b"
+    r"|\bin my (?:experience|career|practice)\b|\bearly in my career\b|^\s*\**Scenario\b")
+
+def _depersona(content: str, niche: str) -> str:
+    """Gate: if first-person professional experience survived the fact-check, rewrite only those sentences. Fails open."""
+    if not _PERSONA_RX.search(content):
+        return content
+    try:
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        prompt = (
+            f"This {niche} article is published under a pen name with no professional license or career history. Return ONLY a JSON array of "
+            "edits, each {\"find\": <one complete sentence copied exactly>, \"replace\": <rewritten complete sentence, or \"\" to delete>}. "
+            "Edit only sentences where the writer claims personal professional experience, credentials, clients, patients, cases, "
+            "or a personal story, and case studies about specific named readers, clients, or pets. Rewrite them as general guidance "
+            "with the same practical meaning, or as a clearly hypothetical example starting 'For example,'. Every replace must be a "
+            "complete grammatical sentence. Keep facts, numbers, and markdown unchanged. No em dashes. Return [] if nothing qualifies.\n\nARTICLE:\n" + content)
+        msg = client.messages.create(model="claude-sonnet-4-6", max_tokens=3000, messages=[{"role": "user", "content": prompt}])
+        m = re.search(r"\[.*\]", msg.content[0].text, re.S)
+        edits = json.loads(m.group(0)) if m else []
+        applied = 0
+        for e in edits[:20]:
+            f, r = e.get("find", ""), e.get("replace", "")
+            if f and isinstance(r, str) and content.count(f) == 1:
+                content = content.replace(f, r)
+                applied += 1
+        print(f"    De-persona: {applied}/{len(edits)} edits applied")
+    except Exception as ex:
+        print(f"    De-persona skipped: {ex}")
+    return content
 
 
 def _fact_check(content: str, niche: str) -> str:
@@ -1713,6 +1783,7 @@ def publish_site(site_name: str, count: int):
                 article = generate_article(keyword, site, persona, priority, voice_style=voice["style"], stats_mode=stats_mode)
             print(f"    Article: {len(article['content'])} chars")
             article["content"] = _fact_check(article["content"], niche)
+            article["content"] = _depersona(article["content"], niche)
 
             # Evergreen: use the article's subject-accurate image query (set post-generation)
             if not topical and not img_query:
