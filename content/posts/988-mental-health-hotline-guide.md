@@ -1,5 +1,5 @@
 ---
-title: "When To Call 988: A Therapist's Guide To Crisis Support"
+title: "When To Call 988: A Guide To Crisis Support"
 date: 2026-06-25T16:06:26.833751+00:00
 draft: false
 description: "Learn how the 988 mental health hotline works, who to call, what to expect, and how it connects you to free crisis support anytime."

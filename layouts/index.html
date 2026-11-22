@@ -63,7 +63,7 @@
           <div class="hero-slide" aria-label="Article {{ add $i 1 }} of {{ len $slides }}">
             <a href="{{ $p.Permalink }}" class="hero-feature-card">
               <div class="hero-feature-img">
-                <img src="{{ $p.Params.image }}" alt="{{ $p.Title }}" loading="{{ if eq $i 0 }}eager{{ else }}lazy{{ end }}">
+                <img src="{{ $p.Params.image }}" alt="{{ $p.Title }}" loading="{{ if lt $i 3 }}eager{{ else }}lazy{{ end }}"{{ if eq $i 0 }} fetchpriority="high"{{ end }}>
               </div>
               <div class="hero-feature-body">
                 <div class="hero-feature-labels">

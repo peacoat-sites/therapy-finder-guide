@@ -1,5 +1,5 @@
 ---
-title: "How to Heal: A Therapist's Guide to Grief"
+title: "How to Heal: A Guide to Grief Therapy"
 date: 2026-06-11T17:08:14.333047+00:00
 draft: false
 description: "Discover how therapy can help you heal after losing a loved one. Explore grief counseling options, coping strategies, and compassionate support to guide your jo"
