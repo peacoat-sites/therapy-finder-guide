@@ -1,5 +1,5 @@
 ---
-title: "Your First Therapy Appointment: What To Expect"
+title: "Starting Therapy as an Adult: A Practical First-Timer's Guide"
 date: 2026-05-22T07:31:43.242288+00:00
 draft: false
 description: "Thinking about starting therapy as an adult? Discover practical tips on finding the right therapist, what to expect, and how to make the most of every session."

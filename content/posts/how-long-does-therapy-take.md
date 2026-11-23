@@ -39,7 +39,7 @@ The question assumes therapy is like a course of antibiotics. Take the full roun
 
 What the research actually shows is useful. A frequently cited meta-analysis published in the Journal of Consulting and Clinical Psychology found that roughly 50% of clients showed clinically significant improvement after about 15 to 20 sessions. Another analysis found that closer to 75% improved by session 50. Those are averages across thousands of people with wildly different presentations. Your trajectory might look nothing like those numbers, and that's not a failure.
 
-What the data does suggest: the first 8 to 12 sessions are often the most telling. If you're not noticing *anything* shifting, whether that's a slight reduction in anxiety, better sleep, or just feeling slightly less alone with your thoughts, that's worth a [direct conversation with your therapist](/when-to-switch-therapists/). Not a reason to quit. A reason to talk.
+What the data does suggest: the first 8 to 12 sessions are often the most telling. If you're not noticing *anything* shifting, whether that's a slight reduction in anxiety, better sleep, or just feeling slightly less alone with your thoughts, that's worth a direct conversation with your therapist. Not a reason to quit. A reason to talk.
 
 ## The Therapy Type Has More Influence Than Most People Realize
 

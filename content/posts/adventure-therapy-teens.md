@@ -52,7 +52,7 @@ Programs vary, but a credible adventure therapy setup for teens will look someth
 
 The field work, carrying a pack, setting up camp, navigating, is interwoven with the therapy rather than being separate from it. A breakdown during a difficult river crossing becomes material for the afternoon processing session. A moment of genuine teamwork gets examined: what did it feel like, when did you want to give up, what story were you telling yourself?
 
-That last part is where [cognitive behavioral therapy principles](/child-therapy-guide-for-parents/) tend to show up most explicitly. Many programs are drawing on CBT, DBT, and motivational interviewing, just delivered in an environment where the usual resistance strategies teenagers rely on are harder to maintain. You can't disengage from a rock face the way you can disengage from a therapist's office.
+That last part is where cognitive behavioral therapy principles tend to show up most explicitly. Many programs are drawing on CBT, DBT, and motivational interviewing, just delivered in an environment where the usual resistance strategies teenagers rely on are harder to maintain. You can't disengage from a rock face the way you can disengage from a therapist's office.
 
 If you want to support the work teenagers are doing in these settings, or if you're a parent preparing a teenager before enrollment, workbooks grounded in CBT can be genuinely useful preparation. [*The Anxiety and Worry Workbook* by Clark and Beck](https://www.amazon.com/s?k=anxiety+worry+workbook+clark+beck) is accessible for older teens and helps build the kind of cognitive awareness programs build on. (The site may earn a commission on purchases like this.)
 

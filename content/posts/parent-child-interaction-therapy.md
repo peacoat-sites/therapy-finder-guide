@@ -40,9 +40,9 @@ A common misconception is that CDI will feel easy for most parents and that the 
 
 ## Who It's Designed For
 
-PCIT is designed for children between roughly 2 and 7 years old (some programs extend to age 12 with modifications) who are showing disruptive behavior, defiance, aggression, or emotional dysregulation. It's also been adapted for families where there are concerns about attachment disruptions, [trauma exposure](/how-to-find-a-trauma-informed-therapist/), or where child welfare has been involved. As of June 2026, PCIT-T (the Toddler adaptation for children 12 to 24 months) is gaining traction in early intervention programs, which is exciting given how early the window for attachment intervention really is.
+PCIT is designed for children between roughly 2 and 7 years old (some programs extend to age 12 with modifications) who are showing disruptive behavior, defiance, aggression, or emotional dysregulation. It's also been adapted for families where there are concerns about attachment disruptions, trauma exposure, or where child welfare has been involved. As of June 2026, PCIT-T (the Toddler adaptation for children 12 to 24 months) is gaining traction in early intervention programs, which is exciting given how early the window for attachment intervention really is.
 
-It's not a fit for every situation. If a child's primary presenting concern is anxiety, inattention, or autism spectrum disorder without significant behavioral dysregulation, a different [evidence-based approach](/child-therapy-guide-for-parents/) may serve them better. A good clinician will tell you this honestly at assessment rather than fitting you into whatever they happen to offer.
+It's not a fit for every situation. If a child's primary presenting concern is anxiety, inattention, or autism spectrum disorder without significant behavioral dysregulation, a different evidence-based approach may serve them better. A good clinician will tell you this honestly at assessment rather than fitting you into whatever they happen to offer.
 
 ## What the Research Actually Shows
 

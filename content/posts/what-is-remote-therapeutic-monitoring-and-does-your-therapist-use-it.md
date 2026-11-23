@@ -14,7 +14,7 @@ slug: "what-is-remote-therapeutic-monitoring-and-does-your-therapist-use-it"
 affiliate_disclosure: true
 ---
 
-Most coverage of Remote Therapeutic Monitoring treats it as a physical health story: wearable devices, post-surgical rehab, orthopedic care. [Mental health](/what-happens-when-you-use-ai-to-self-diagnose-a-mental-health-conditio/) barely gets a mention. That framing is now outdated, and if you see a therapist who bills Medicare, the change affects you directly.
+Most coverage of Remote Therapeutic Monitoring treats it as a physical health story: wearable devices, post-surgical rehab, orthopedic care. Mental health barely gets a mention. That framing is now outdated, and if you see a therapist who bills Medicare, the change affects you directly.
 
 As of January 1, 2026, the Centers for Medicare & Medicaid Services finalized a rule that explicitly extended RTM billing eligibility to non-physician qualified healthcare professionals, including licensed mental health providers. That's a significant policy shift buried inside the 2026 Medicare Physician Fee Schedule Final Rule, and most therapy clients have no idea it happened.
 
@@ -38,7 +38,7 @@ The 2026 rule introduced three CPT codes relevant to mental health RTM. Two are 
 
 The management time floor dropped too. The original treatment management codes required at least 20 minutes of provider time per month. The new 98979 code requires only 10 minutes. For a private-practice therapist seeing 20 clients, that's a meaningful difference in what's actually achievable.
 
-According to Limber Health's May 2026 billing guide, the 2026 conversion factor for RTM services sits at $33.40 for non-APM providers. That's not life-changing money per client, but it's enough to justify the administrative overhead for practices that [are already using](/your-therapist-knows-youre-using-ai-between-sessions/) digital tools.
+According to Limber Health's May 2026 billing guide, the 2026 conversion factor for RTM services sits at $33.40 for non-APM providers. That's not life-changing money per client, but it's enough to justify the administrative overhead for practices that are already using digital tools.
 
 | CPT Code | Purpose | Monthly Data Days Required | Min. Provider Time |
 |---|---|---|---|

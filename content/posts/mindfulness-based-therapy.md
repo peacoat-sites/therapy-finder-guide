@@ -102,7 +102,7 @@ Understanding where mindfulness-based therapy fits relative to other approaches 
 | Psychodynamic | Unconscious patterns and past experience | Low | Long-term character issues |
 | EMDR | Trauma reprocessing via bilateral stimulation | Low | PTSD, trauma |
 
-If you're weighing MBCT against standard CBT, our article on [psychodynamic therapy vs CBT](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) provides useful context for thinking through different therapeutic philosophies. For trauma, [EMDR therapy](/emdr-phases-explained/) is worth understanding.
+If you're weighing MBCT against standard CBT, our article on [psychodynamic therapy vs CBT](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) provides useful context for thinking through different therapeutic philosophies. For trauma, EMDR therapy is worth understanding.
 
 The choice isn't always either/or. Many therapists blend them. A skilled practitioner might use MBCT techniques within an otherwise CBT structure. The real thing is fit: does it match your needs, and is your therapist actually trained in it?
 

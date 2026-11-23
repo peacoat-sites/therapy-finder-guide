@@ -1,5 +1,5 @@
 ---
-title: "Which Therapy Format Works Best For Your Needs"
+title: "Online Therapy vs In Person: How to Choose What Works"
 date: 2026-05-22T04:57:50.458519+00:00
 draft: false
 description: "Discover the key differences between online therapy and in-person therapy to help you choose the best option for your mental health needs and lifestyle."

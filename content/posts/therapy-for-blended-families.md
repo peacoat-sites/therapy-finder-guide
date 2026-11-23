@@ -64,7 +64,7 @@ Therapy for blended families rarely looks like one thing. Here's how I'd think a
 
 **Family therapy with select members** is worth considering when there's a specific relationship that needs direct attention. Maybe it's a stepparent and one particular stepchild. Maybe it's two stepsiblings who are in open conflict. You don't always need the whole household in one session.
 
-**[Individual therapy for the stepparent](/therapy-for-relationship-issues/)** often gets overlooked. Stepparents carry an enormous amount of unspoken grief and resentment, partly because they feel like they're not allowed to complain. They signed up for this, right? The truth is, stepparenting is one of the most emotionally demanding roles in family life, and having your own space to process it, without worrying about how it lands with your partner, can be genuinely protective.
+**Individual therapy for the stepparent** often gets overlooked. Stepparents carry an enormous amount of unspoken grief and resentment, partly because they feel like they're not allowed to complain. They signed up for this, right? The truth is, stepparenting is one of the most emotionally demanding roles in family life, and having your own space to process it, without worrying about how it lands with your partner, can be genuinely protective.
 
 **Child therapy** becomes important if a child is showing behavioral changes, school problems, or significant withdrawal. Younger children especially may not have the language to express loyalty conflicts or grief about their parents' divorce, and play therapy can reach places that talk therapy can't.
 

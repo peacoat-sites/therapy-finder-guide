@@ -1088,36 +1088,60 @@ def _render_takeaways(content: str) -> str:
     return _TAKEAWAYS_FENCE_RE.sub(one, content, count=1)
 
 _LINK_STOP = {"2024", "2025", "2026", "the", "and", "for", "with", "your", "what", "when", "how",
-              "why", "guide", "best", "you", "can", "does", "much", "get", "top", "new"}
+              "why", "guide", "best", "you", "can", "does", "much", "get", "top", "new", "actually", "really", "explained"}
 
 def _inject_internal_links(content: str, published, url_prefix: str = "/", max_links: int = 3) -> str:
+    # Anchor must cover >=70% of the target slug's IDF-weighted words (so generic phrases like
+    # "homeowners insurance" never point at a narrow page); never in the opening paragraph or Sources.
+    import math
+    toks_of = {s: [t for t in s.split("-") if t and t not in _LINK_STOP and len(t) > 2] for s in published}
+    df = {}
+    for ts in toks_of.values():
+        for t in set(ts):
+            df[t] = df.get(t, 0) + 1
+    n = max(len(toks_of), 1)
+    idf = {t: math.log(n / c) + 0.1 for t, c in df.items()}
+    def tok_re(t):
+        return re.escape(t[:-1]) + "s?" if len(t) > 3 and t.endswith("s") and not t.endswith("ss") else re.escape(t) + "s?"
     cands = []
-    for slug in published:
-        toks = [t for t in slug.split("-") if t not in _LINK_STOP and len(t) > 2]
-        for size in (3, 2):
+    for slug, toks in toks_of.items():
+        total = sum(idf[t] for t in toks)
+        if len(toks) < 2 or not total:
+            continue
+        for size in (5, 4, 3, 2):
             for i in range(len(toks) - size + 1):
-                cands.append((slug, " ".join(toks[i:i + size])))
-    cands.sort(key=lambda x: -len(x[1]))
+                ph = toks[i:i + size]
+                cov = sum(idf[t] for t in ph) / total
+                if cov >= 0.7:
+                    pat = r"(?i)\b(" + r"\s+(?:[a-z]{1,4}\s+)?".join(tok_re(t) for t in ph) + r")\b"
+                    cands.append((cov, size, slug, pat))
+    cands.sort(key=lambda x: (-x[0], -x[1]))
     lines = content.split("\n")
-    used_slugs, used_phrases, linked = set(), set(), 0
-    in_fence = False
+    used, linked, in_fence, seen_prose, in_refs = set(), 0, False, False, False
     for li, line in enumerate(lines):
-        if line.strip().startswith("```"):
+        s = line.strip()
+        if s.startswith("```"):
             in_fence = not in_fence
             continue
-        if in_fence or linked >= max_links:
+        if re.match(r"#{2,3}\s+(Sources|References|Recommended Resources|Further Reading)\b", s, re.I):
+            in_refs = True
+        elif s.startswith("## "):
+            in_refs = False
+        if in_fence or in_refs or not s or s.startswith(("#", "|", ">", "-", "*", "<", "!")):
             continue
-        s = line.strip()
-        if not s or s.startswith(("#", "|", ">", "-", "*", "<", "!")) or "](" in s or "http" in s:
+        if not seen_prose:
+            seen_prose = True
             continue
-        for slug, phrase in cands:
-            if slug in used_slugs or phrase in used_phrases:
+        if linked >= max_links or "](" in s or "http" in s:
+            continue
+        for cov, size, slug, pat in cands:
+            if slug in used:
                 continue
-            m = re.search(r"(?i)\b(" + re.escape(phrase) + r")\b", line)
+            m = re.search(pat, line)
             if not m:
                 continue
             lines[li] = line[:m.start(1)] + f"[{m.group(1)}]({url_prefix}{slug}/)" + line[m.end(1):]
-            used_slugs.add(slug); used_phrases.add(phrase.lower()); linked += 1
+            used.add(slug); linked += 1
             break
     return "\n".join(lines)
 
@@ -1793,7 +1817,7 @@ def publish_site(site_name: str, count: int):
             persona  = {"name": voice["name"], "bio": voice["bio"]}
 
         # ── Track rotation (round-robin): topical / stats-led / evergreen ──
-        _slot = (voice_offset + i) % 3
+        _slot = (voice_offset + i) % 6  # topical 1 in 6: evergreen gets ~8x the search impressions
         stats_mode = _slot == 1
         topical = None
         if _slot == 0:

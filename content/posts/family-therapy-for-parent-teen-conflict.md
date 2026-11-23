@@ -47,7 +47,7 @@ A common misconception is that family therapy means everyone sits in a circle an
 
 The first joint sessions are usually assessment-focused. The therapist is watching how the family communicates, who holds power, who goes quiet, who escalates, and what topics produce the most heat. That information shapes everything that follows.
 
-Middle sessions get more active. The therapist introduces specific communication tools, interrupts old patterns in real time, and assigns structured work [between sessions](/your-therapist-knows-youre-using-ai-between-sessions/). The best therapists aren't passive. They redirect, name what they're seeing, and sometimes say uncomfortable things directly. If your family therapist just nods along for twelve sessions without ever challenging anyone's framing, something is off.
+Middle sessions get more active. The therapist introduces specific communication tools, interrupts old patterns in real time, and assigns structured work between sessions. The best therapists aren't passive. They redirect, name what they're seeing, and sometimes say uncomfortable things directly. If your family therapist just nods along for twelve sessions without ever challenging anyone's framing, something is off.
 
 Late sessions start to focus on what the family will do when the therapist isn't in the room. That's the actual goal: not dependency on a weekly meeting, but a changed default pattern.
 

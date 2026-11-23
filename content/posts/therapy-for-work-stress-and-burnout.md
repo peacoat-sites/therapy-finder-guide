@@ -1,5 +1,5 @@
 ---
-title: "How Therapy Helps You Recover From Burnout"
+title: "Therapy for Burnout: How to Recover From Work Stress"
 date: 2026-05-23T04:47:39.607901+00:00
 draft: false
 description: "Struggling with work stress and burnout? Discover how therapy can help you set boundaries, rebuild energy, and restore balance. Take the first step toward feeli"
@@ -39,7 +39,7 @@ What makes burnout particularly tricky is that it mimics other things. Depressio
 
 You might be wondering what you'd even talk about in therapy for work stress. The answer is: more than you think, and probably different than you're imagining.
 
-Therapy for burnout isn't about lying on a couch describing your childhood. It's often quite active and skills-based. The most well-researched approach for work stress and burnout is Cognitive Behavioral Therapy, or CBT. CBT works by examining the relationship between thoughts, feelings, and behaviors. For someone who's burned out, that often means looking at patterns like perfectionism, difficulty delegating, [fear of disappointing others](/therapy-for-people-pleasing/), or the belief that your worth is tied entirely to your productivity. Those aren't personal flaws. They're learned patterns that many high-functioning people carry, and they respond well to structured work.
+Therapy for burnout isn't about lying on a couch describing your childhood. It's often quite active and skills-based. The most well-researched approach for work stress and burnout is Cognitive Behavioral Therapy, or CBT. CBT works by examining the relationship between thoughts, feelings, and behaviors. For someone who's burned out, that often means looking at patterns like perfectionism, difficulty delegating, fear of disappointing others, or the belief that your worth is tied entirely to your productivity. Those aren't personal flaws. They're learned patterns that many high-functioning people carry, and they respond well to structured work.
 
 Here's what the main therapy types look like and how they apply to burnout:
 

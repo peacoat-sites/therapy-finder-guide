@@ -28,7 +28,7 @@ faqs:
 
 Most articles about divorce and therapy will tell you to "seek support" and then list the five stages of grief. That's not wrong, exactly. It's just not useful.
 
-Research published in the *Journal of Divorce & Remarriage* found that roughly 40% of people who go through divorce meet diagnostic criteria for a major depressive episode within the first year. Not "feel sad." Clinically depressed. That's not a reason to panic; it's a reason to take the [mental health](/inpatient-vs-outpatient-mental-health-treatment/) side of this process as seriously as you'd take the legal side.
+Research published in the *Journal of Divorce & Remarriage* found that roughly 40% of people who go through divorce meet diagnostic criteria for a major depressive episode within the first year. Not "feel sad." Clinically depressed. That's not a reason to panic; it's a reason to take the mental health side of this process as seriously as you'd take the legal side.
 
 Divorce therapy isn't a luxury add-on for people who have extra time and money. For a lot of people, it's the thing that determines whether they come out of this with some functional version of themselves intact, or spend the next three years making decisions driven by grief, rage, or fear.
 

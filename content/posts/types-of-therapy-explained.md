@@ -1,5 +1,5 @@
 ---
-title: "Find Your Ideal Therapy: 6 Major Approaches Compared"
+title: "Types of Therapy Explained: Six Major Approaches Compared"
 date: 2026-05-21T06:24:19.414039+00:00
 draft: false
 description: "Explore the most common types of therapy explained simply, from CBT to psychodynamic approaches, to help you find the right mental health support for your needs"

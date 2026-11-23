@@ -25,7 +25,7 @@ faqs:
     a: "Ask them directly for their license number and state of licensure, then verify it on your state's professional licensing board website. All U.S. states have a searchable public database for licensed mental health professionals. Any legitimate therapist will give you this information without hesitation."
 ---
 
-Therapy apps are genuinely useful for some people and genuinely insufficient for others. That distinction matters more than any feature comparison, so let's start there: if you're managing a diagnosed condition like bipolar disorder, experiencing psychosis, or in acute crisis, an app is not a substitute for clinical care. Full stop. For everyone else, the right app can bridge gaps [between sessions](/your-therapist-knows-youre-using-ai-between-sessions/), build skills, or serve as a first step when in-person therapy feels too expensive or too far away.
+Therapy apps are genuinely useful for some people and genuinely insufficient for others. That distinction matters more than any feature comparison, so let's start there: if you're managing a diagnosed condition like bipolar disorder, experiencing psychosis, or in acute crisis, an app is not a substitute for clinical care. Full stop. For everyone else, the right app can bridge gaps between sessions, build skills, or serve as a first step when in-person therapy feels too expensive or too far away.
 
 The market has expanded dramatically. BetterHelp, Talkspace, Headspace, Calm, Woebot, and a dozen others compete for the same users, and their differences are significant enough that picking the wrong one wastes both money and motivation.
 

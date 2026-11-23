@@ -28,7 +28,7 @@ faqs:
 
 Most people who land on an article like this one have already tried everything they can think of. You've done the melatonin. You've tried cutting caffeine. You've downloaded the sleep apps. You've Googled "why can't I sleep" at 2 in the morning more times than you'd like to admit.
 
-If chronic insomnia is what you're dealing with, those approaches aren't designed to fix it. They might take the edge off. But [Cognitive Behavioral Therapy](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) for Insomnia, CBT-I, is the intervention that actually targets the mechanism keeping you awake. And most people have never heard of it.
+If chronic insomnia is what you're dealing with, those approaches aren't designed to fix it. They might take the edge off. But Cognitive Behavioral Therapy for Insomnia, CBT-I, is the intervention that actually targets the mechanism keeping you awake. And most people have never heard of it.
 
 The number that stopped me cold the first time I saw it: a 2021 meta-analysis published in *Sleep Medicine Reviews* found that CBT-I produces lasting improvement in sleep onset and sleep efficiency in roughly 70-80% of patients who complete a full course. That's not "slightly better sleep." That's remission-level outcomes, in many cases comparable to what sleeping pills produce in the short term, but with effects that hold up one and two years later. Medication doesn't do that. This is why the American College of Physicians now recommends CBT-I as the *first-line* treatment for chronic insomnia, ahead of any medication.
 

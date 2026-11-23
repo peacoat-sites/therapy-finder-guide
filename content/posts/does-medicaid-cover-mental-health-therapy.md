@@ -1,5 +1,5 @@
 ---
-title: "Does Medicaid Cover Mental Health Therapy in 2024"
+title: "Does Medicaid Cover Mental Health Therapy?"
 date: 2026-07-17T15:01:21.961584+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -26,7 +26,7 @@ faqs:
     a: "Yes. Children enrolled in Medicaid are covered for mental health services, often with even broader access through the Early and Periodic Screening, Diagnostic, and Treatment (EPSDT) benefit, which requires states to cover any medically necessary service for children under 21, even if it's not in the standard state plan. This is one of the most expansive mental health coverage provisions in American healthcare and it's genuinely underused."
 ---
 
-More than 90 million Americans are enrolled in Medicaid right now, and a significant portion of them have no idea that [mental health](/medicaid-cuts-are-coming-for-mental-health-care-now-what/) therapy is a covered benefit. That gap between what people are entitled to and what they actually use bothers me more than almost anything else I see in this field.
+More than 90 million Americans are enrolled in Medicaid right now, and a significant portion of them have no idea that mental health therapy is a covered benefit. That gap between what people are entitled to and what they actually use bothers me more than almost anything else I see in this field.
 
 If you're reading this because you're wondering whether you can afford therapy, or whether your Medicaid plan will actually pay for it, I want to be direct with you: yes, in most cases, it will. But the details matter, and they vary more than they should. What's covered in Ohio might work differently in Texas. A session with a licensed counselor might be billed differently than one with a psychiatrist. And the process of actually getting connected to someone, even with coverage in hand, can feel absurdly complicated for no good reason.
 
@@ -73,7 +73,7 @@ One thing I didn't know until I sat in on a case management meeting years ago: m
 
 ## How Coverage Works for Different Types of Therapy
 
-People often ask me whether Medicaid will cover a specific type of therapy, like [cognitive behavioral therapy](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) (CBT) or EMDR for trauma. The honest answer is: Medicaid covers the session, not the modality. A therapist licensed to practice in your state who accepts Medicaid can use CBT, DBT, motivational interviewing, psychodynamic approaches, or whatever evidence-based method they're trained in. You don't need a separate authorization for the type of therapy your clinician chooses.
+People often ask me whether Medicaid will cover a specific type of therapy, like cognitive behavioral therapy (CBT) or EMDR for trauma. The honest answer is: Medicaid covers the session, not the modality. A therapist licensed to practice in your state who accepts Medicaid can use CBT, DBT, motivational interviewing, psychodynamic approaches, or whatever evidence-based method they're trained in. You don't need a separate authorization for the type of therapy your clinician chooses.
 
 Here's a comparison that might clear up the most common questions:
 

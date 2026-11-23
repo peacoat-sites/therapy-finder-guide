@@ -36,7 +36,7 @@ Finding the [right therapist](/how-to-find-a-therapist/) and understanding what 
 
 ## What "Trauma-Informed" Actually Means
 
-The term comes largely from SAMHSA's (Substance Abuse and [Mental Health](/best-therapy-apps-for-daily-mental-health-support/) Services Administration) work defining a framework built around six core principles: safety, trustworthiness, peer support, collaboration, empowerment, and cultural sensitivity. That framework was formalized in their 2014 guidance document, and it's still the standard most clinical training programs reference today.
+The term comes largely from SAMHSA's (Substance Abuse and Mental Health Services Administration) work defining a framework built around six core principles: safety, trustworthiness, peer support, collaboration, empowerment, and cultural sensitivity. That framework was formalized in their 2014 guidance document, and it's still the standard most clinical training programs reference today.
 
 In practice, a trauma-informed approach means your therapist understands that a lot of behaviors that look like "problems" are actually very logical adaptations to something that happened to you. Hypervigilance, difficulty trusting, emotional numbness, explosive reactions to small things, these aren't character flaws. They're responses your nervous system learned because they kept you safe at some point. A trauma-informed clinician won't try to argue you out of those responses before they understand them.
 
@@ -66,7 +66,7 @@ A 2020 study in the *Journal of Traumatic Stress* found that cumulative "small t
 
 ## What to Actually Look for in a Therapist
 
-You're probably wondering how to tell the [difference between](/therapist-vs-psychologist-vs-psychiatrist/) a therapist who says they're trauma-informed and one who actually is. I made this mistake myself early on. I assumed any therapist would handle this appropriately. They don't.
+You're probably wondering how to tell the difference between a therapist who says they're trauma-informed and one who actually is. I made this mistake myself early on. I assumed any therapist would handle this appropriately. They don't.
 
 Some things to ask in a consultation call (which most therapists offer free for 15-20 minutes):
 

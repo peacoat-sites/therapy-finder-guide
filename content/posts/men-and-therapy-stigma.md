@@ -38,7 +38,7 @@ Many men arrive at therapy convinced their hesitation is unique. It isn't. The r
 
 It would be easy to blame toxic masculinity and leave it there. But that framing, as accurate as it is in some respects, doesn't give men anything useful to work with. Let me be more specific.
 
-The stigma around men and therapy has at least three distinct layers, and they operate differently. The first is external: what men fear other people will think. The second is internal: what they think about themselves for considering it. The third, and most underrated, is institutional: the ways that [mental health](/best-therapy-apps-for-daily-mental-health-support/) systems historically weren't designed with men in mind.
+The stigma around men and therapy has at least three distinct layers, and they operate differently. The first is external: what men fear other people will think. The second is internal: what they think about themselves for considering it. The third, and most underrated, is institutional: the ways that mental health systems historically weren't designed with men in mind.
 
 The external fear is real but often overestimated. When researchers have asked men about this directly, men consistently predict more judgment from peers than peers actually report having. A 2021 study published in the *Journal of Counseling Psychology* found that men anticipated significantly higher stigma from male friends than those friends actually expressed when asked. In other words, men are often hiding from a judgment that isn't as severe as they imagine.
 

@@ -1,5 +1,5 @@
 ---
-title: "How to Navigate Grief With Professional Support"
+title: "Grief Counseling: How to Find Support and What to Expect"
 date: 2026-05-24T13:42:49.735760+00:00
 draft: false
 description: "Discover how grief counseling can help you navigate loss and find healing. Learn about different therapy types, finding the right counselor, and coping strategi"

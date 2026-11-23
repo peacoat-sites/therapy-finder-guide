@@ -1,5 +1,5 @@
 ---
-title: "Signs Your Therapy Is Actually Working"
+title: "How to Know if Therapy Is Working: Signs to Look For"
 date: 2026-05-29T12:49:28.167265+00:00
 draft: false
 description: "Wondering if therapy is actually helping you? Learn the key signs that therapy is working, from improved mood to better relationships, and when to reassess your"
@@ -53,7 +53,7 @@ None of these are dramatic. That's the point.
 
 Here's a harder truth: sometimes therapy really isn't working, and not because therapy itself is broken. The fit, the approach, or the timing might be off.
 
-There's a difference between the discomfort of doing real work and the stagnation of spinning your wheels. Therapy should sometimes feel uncomfortable. But after a reasonable amount of time, typically [three to six months](/how-long-does-therapy-take/) for many people, though this varies widely depending on what you're addressing, you should be able to point to *something* that's shifted.
+There's a difference between the discomfort of doing real work and the stagnation of spinning your wheels. Therapy should sometimes feel uncomfortable. But after a reasonable amount of time, typically three to six months for many people, though this varies widely depending on what you're addressing, you should be able to point to *something* that's shifted.
 
 Watch for these signs that something needs to change:
 

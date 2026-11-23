@@ -54,7 +54,7 @@ This work is not the right first stop if someone is in acute crisis, actively st
 
 ## What Happens in a Session
 
-The first time I sat in on a demonstration session of IFS-based inner child work during a training in 2019 (I was helping a clinical team onboard new therapists at a community [health center](/community-mental-health-center-access/)), I expected it to feel theatrical. It rarely does.
+The first time I sat in on a demonstration session of IFS-based inner child work during a training in 2019 (I was helping a clinical team onboard new therapists at a community health center), I expected it to feel theatrical. It rarely does.
 
 Typical inner child work in session isn't regression therapy in the old Freudian sense. A therapist isn't hypnotizing you or asking you to "become" your child self. What actually happens, depending on the modality, often looks like this:
 

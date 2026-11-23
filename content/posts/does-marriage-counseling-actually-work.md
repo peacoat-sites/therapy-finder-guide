@@ -1,5 +1,5 @@
 ---
-title: "Does Marriage Counseling Really Help Couples?"
+title: "Does Marriage Counseling Work? What the Research Shows"
 date: 2026-06-10T16:51:20.178339+00:00
 draft: false
 description: "Wondering if marriage counseling actually works? Discover success rates, what factors influence outcomes, and how couples therapy can help save or strengthen yo"

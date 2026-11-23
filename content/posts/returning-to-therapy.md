@@ -1,5 +1,5 @@
 ---
-title: "When Should You Go Back To Therapy?"
+title: "Returning to Therapy: When and How to Go Back"
 date: 2026-06-13T15:19:00.198411+00:00
 draft: false
 description: "Thinking about returning to therapy? Discover helpful tips on how to reconnect with a therapist, what to expect, and how to make the most of your sessions."

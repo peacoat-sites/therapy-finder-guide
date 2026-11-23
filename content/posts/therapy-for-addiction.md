@@ -66,7 +66,7 @@ Not every licensed therapist has meaningful training in addiction. A general pra
 
 A 34-year-old man in Ohio with alcohol use disorder tried a general therapist for 6 months with minimal progress. He was referred to a CADC-certified counselor (Certified Alcohol and Drug Counselor) who added naltrexone in coordination with his prescriber. Within 4 months, his drinking days dropped from 25 per month to fewer than 5. The specific credential mattered.
 
-A woman in her late 40s [dealing with opioid dependence](/therapy-for-trauma-survivors/) post-surgery was told by her first program she'd need 30 days of residential treatment. She couldn't take leave from work. She found an intensive outpatient program (IOP) instead: 9 hours of therapy per week, MAT included, while keeping her job. At 12 months, she remained in recovery. IOP works. Don't let anyone tell you it's the lesser option by default.
+A woman in her late 40s dealing with opioid dependence post-surgery was told by her first program she'd need 30 days of residential treatment. She couldn't take leave from work. She found an intensive outpatient program (IOP) instead: 9 hours of therapy per week, MAT included, while keeping her job. At 12 months, she remained in recovery. IOP works. Don't let anyone tell you it's the lesser option by default.
 
 A college student struggling with cannabis and alcohol was referred through his university's counseling center to four sessions of Motivational Interviewing before deciding on next steps. He didn't want to label himself as having an "addiction" and wasn't ready for a formal program. The MI helped him move from ambivalence to enrolling in outpatient CBT on his own terms. Sometimes meeting someone where they are is the whole intervention.
 

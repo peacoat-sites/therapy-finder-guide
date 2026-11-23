@@ -49,9 +49,9 @@ Teen therapy isn't one thing. A handful of distinct approaches have strong resea
 
 **Acceptance and Commitment Therapy (ACT)** is picking up steam with adolescents, especially those dealing with anxiety or chronic illness. Instead of fighting difficult thoughts, ACT teaches teens to notice them without letting them control what happens next. For teens who've tried CBT and gotten frustrated that "positive thinking" doesn't stick, ACT can land differently.
 
-**[Family Therapy](/parent-child-interaction-therapy/)** brings the whole household (or at least a parent) into sessions. This doesn't mean your teen gets off easy. It means the relationships themselves are part of the problem and part of the solution. Teens usually have individual sessions running alongside the family work.
+**Family Therapy** brings the whole household (or at least a parent) into sessions. This doesn't mean your teen gets off easy. It means the relationships themselves are part of the problem and part of the solution. Teens usually have individual sessions running alongside the family work.
 
-**[Trauma-Focused CBT (TF-CBT)](/how-to-find-a-trauma-informed-therapist/)** is built specifically for kids and teens who've been through trauma. It's a structured protocol, not just a vibe, and it actively involves caregivers. If there's any history of abuse, significant loss, community violence, or major trauma, a trauma-informed approach isn't optional. It's necessary.
+**Trauma-Focused CBT (TF-CBT)** is built specifically for kids and teens who've been through trauma. It's a structured protocol, not just a vibe, and it actively involves caregivers. If there's any history of abuse, significant loss, community violence, or major trauma, a trauma-informed approach isn't optional. It's necessary.
 
 Art therapy, somatic work, and equine therapy exist for teens who push back against talking. The research is thinner than CBT or DBT, but they have supporters.
 

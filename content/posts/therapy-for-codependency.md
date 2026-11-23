@@ -40,7 +40,7 @@ The word "codependency" got popularized through addiction recovery circles in th
 
 What that looks like in practice: difficulty saying no without crushing guilt, feeling responsible for other people's emotional states, losing track of your own preferences or opinions inside close relationships, and a persistent sense that your value depends on being needed. Some people reading this will recognize themselves immediately. Others will think, "That's just being a good partner or parent." That ambiguity is part of why therapy is necessary, the line between care and self-erasure is genuinely hard to see from inside the pattern.
 
-The research here points pretty clearly toward early attachment as the root. A 2019 study published in the *Journal of [Mental Health](/inpatient-vs-outpatient-mental-health-treatment/) Counseling* found that people meeting codependency criteria were significantly more likely to report emotionally unavailable or inconsistent caregiving in childhood. Which means the pattern isn't a choice or a weakness. It's an adaptation that made sense once and stopped serving you.
+The research here points pretty clearly toward early attachment as the root. A 2019 study published in the *Journal of Mental Health Counseling* found that people meeting codependency criteria were significantly more likely to report emotionally unavailable or inconsistent caregiving in childhood. Which means the pattern isn't a choice or a weakness. It's an adaptation that made sense once and stopped serving you.
 
 ## Which Therapy Actually Works
 
@@ -96,7 +96,7 @@ If you're reading this because you're concerned about a partner, sibling, or fri
 
 You cannot diagnose someone else with codependency. The pattern looks different from the outside than it is on the inside, and labeling someone else's behavior is more likely to damage the relationship than help it. What you can do is get your own therapy, set your own limits clearly, and stop participating in the parts of the dynamic that maintain the pattern. Your behavior is in the system too.
 
-Worked example: A couple I was aware of through a clinical colleague, she was in individual therapy for codependent patterns, he was not in any treatment. Progress stalled repeatedly until he joined [couples therapy](/gottman-method-couples-therapy/). Once both people were working on their respective roles in the dynamic, change accelerated substantially. Within four months of adding the couples component, both partners reported qualitatively different interactions.
+Worked example: A couple I was aware of through a clinical colleague, she was in individual therapy for codependent patterns, he was not in any treatment. Progress stalled repeatedly until he joined couples therapy. Once both people were working on their respective roles in the dynamic, change accelerated substantially. Within four months of adding the couples component, both partners reported qualitatively different interactions.
 
 The relational system often has to shift, not just the individual.
 

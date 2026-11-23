@@ -26,7 +26,7 @@ faqs:
     a: "Plan for 60 to 90 minutes. You'll complete paperwork, provide basic history, and usually meet with a social worker or psychologist for an initial assessment. Bring your DD-214 if you have it, though it's not always required on the first visit. After that appointment, wait times for ongoing therapy vary significantly by facility."
 ---
 
-Most people assume military [mental health care](/medicaid-cuts-are-coming-for-mental-health-care-now-what/) is either unavailable or buried under so much red tape it's not worth pursuing. That assumption is partially earned. The system is genuinely complicated. Many solid, often free resources exist right now that servicemembers and veterans simply don't know about, or have written off based on outdated information.
+Most people assume military mental health care is either unavailable or buried under so much red tape it's not worth pursuing. That assumption is partially earned. The system is genuinely complicated. Many solid, often free resources exist right now that servicemembers and veterans simply don't know about, or have written off based on outdated information.
 
 The landscape has shifted meaningfully in the past few years. Stigma inside military culture around [mental health](/community-mental-health-center-access/) help-seeking hasn't evaporated, but it has softened, particularly among younger cohorts. Access gaps remain real, especially in rural areas and for National Guard and Reserve members who aren't on active installations. And the bureaucratic friction at the VA is genuine. But the resources themselves? Considerably better than most people in uniform believe.
 
@@ -38,7 +38,7 @@ What follows covers what actually exists, what works, and a few things worth kno
 
 This is a common and consequential misconception. I assumed VA mental health benefits were primarily for combat veterans or those with service-connected diagnoses. That's wrong, and it's a misunderstanding that keeps people from even applying.
 
-As of August 2026, any veteran who served on active duty and was discharged under conditions other than dishonorable is eligible for VA mental health services. That includes primary care mental health integration, individual therapy, group therapy, psychiatric evaluation, and [medication management](/psychiatrist-medication-management/). There's no copay for most mental health services, which matters enormously when you consider that a single hour with an out-of-network therapist in a city like Denver or Seattle can run $175 to $250.
+As of August 2026, any veteran who served on active duty and was discharged under conditions other than dishonorable is eligible for VA mental health services. That includes primary care mental health integration, individual therapy, group therapy, psychiatric evaluation, and medication management. There's no copay for most mental health services, which matters enormously when you consider that a single hour with an out-of-network therapist in a city like Denver or Seattle can run $175 to $250.
 
 Active duty servicemembers have a separate system: TRICARE, which covers inpatient and outpatient mental health care. Depending on the plan (Prime, Select, or overseas variants), cost-sharing varies, but active duty members using military treatment facilities (MTFs) typically pay nothing. Their covered dependents have more variation, sometimes requiring copays in the $30 to $65 range per outpatient visit under Select plans.
 

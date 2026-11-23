@@ -26,9 +26,9 @@ faqs:
     a: "Yes, and it often works best that way. Most MT-BCs operate as part of a multidisciplinary team or coordinate with a client's existing providers. It's not a replacement for psychiatric medication when medication is clinically indicated; it's a complement to a broader treatment plan."
 ---
 
-Sixty-seven percent of music therapy clients in a 2023 meta-analysis published in *JAMA Network Open* showed clinically significant reductions in anxiety after just six weeks of treatment. Six weeks is notably brief in the [mental health](/mental-health-crisis-resources/) world. Most people are still on a waitlist at six weeks.
+Sixty-seven percent of music therapy clients in a 2023 meta-analysis published in *JAMA Network Open* showed clinically significant reductions in anxiety after just six weeks of treatment. Six weeks is notably brief in the mental health world. Most people are still on a waitlist at six weeks.
 
-Music therapy doesn't get nearly enough credit in mainstream conversations about [mental health care](/medicaid-cuts-are-coming-for-mental-health-care-now-what/). People often picture someone strumming a guitar in a hospital waiting room, but the clinical reality is more interesting and more rigorous than that image suggests. What they do looks simple from the outside and is genuinely complicated on the inside.
+Music therapy doesn't get nearly enough credit in mainstream conversations about mental health care. People often picture someone strumming a guitar in a hospital waiting room, but the clinical reality is more interesting and more rigorous than that image suggests. What they do looks simple from the outside and is genuinely complicated on the inside.
 
 If you're here because someone mentioned music therapy and you half-dismissed it, I want to make a case for why it deserves a closer look.
 

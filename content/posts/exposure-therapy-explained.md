@@ -26,7 +26,7 @@ faqs:
     a: "Yes. Some of the strongest outcome data exists for pediatric anxiety and OCD, where exposure-based treatments (often combined with parent coaching) show excellent response rates. The POTS trial (Pediatric OCD Treatment Study) from 2004 remains a benchmark, showing ERP outperformed medication alone and was comparable to combination treatment for kids with OCD."
 ---
 
-Most people picture exposure therapy as something close to torture. You're afraid of spiders, so a therapist dumps a tarantula in your lap. Done. Cured. That version is wrong, and honestly, it's one of the most damaging myths in [mental health](/samhsa-mental-health-resources/) because it keeps people from accessing one of the most well-validated treatments we have.
+Most people picture exposure therapy as something close to torture. You're afraid of spiders, so a therapist dumps a tarantula in your lap. Done. Cured. That version is wrong, and honestly, it's one of the most damaging myths in mental health because it keeps people from accessing one of the most well-validated treatments we have.
 
 A common concern about exposure therapy is whether everyday people can tolerate the process well enough to benefit from it. The treatment often looks quite different from what people expect: it's typically less dramatic and less immediately distressing than months of avoidance.
 

@@ -1,5 +1,5 @@
 ---
-title: "ACT Therapy: Break Free From Unhelpful Thought Patterns"
+title: "ACT Therapy for Anxiety: How It Works and What to Expect"
 date: 2026-05-21T22:37:04.862909+00:00
 draft: false
 description: "Acceptance and Commitment Therapy (ACT) is a psychological treatment that helps you build psychological flexibility by accepting thoughts and committing to valu"

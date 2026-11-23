@@ -28,13 +28,13 @@ The trial data that convinced the FDA is worth sitting with for a moment. A rand
 
 Transcranial direct current stimulation delivers a low-level electrical current through electrodes placed on the scalp, targeting the left dorsolateral prefrontal cortex, a region consistently underactive in major depression. The current doesn't cause seizures, doesn't require anesthesia, and doesn't produce the muscle contractions associated with electroconvulsive therapy. Most users report a mild tingling or warmth during sessions.
 
-What it isn't: a replacement for addressing the cognitive patterns, relational wounds, or situational stressors that [therapy works](/couples-therapy-how-it-works/) on directly. The device modulates neuronal excitability. It doesn't teach distress tolerance. It doesn't process grief. It doesn't restructure the thinking habits that keep someone stuck. That's not a knock on the technology. It's a description of what any biological treatment does and doesn't reach.
+What it isn't: a replacement for addressing the cognitive patterns, relational wounds, or situational stressors that therapy works on directly. The device modulates neuronal excitability. It doesn't teach distress tolerance. It doesn't process grief. It doesn't restructure the thinking habits that keep someone stuck. That's not a knock on the technology. It's a description of what any biological treatment does and doesn't reach.
 
 The FDA authorization specifically allows FL-100 as a standalone treatment or in combination with antidepressants and psychotherapy. That "or" is doing a lot of work. It means clinicians will face real decisions about sequencing, monitoring, and coordination.
 
 ## How It Compares to Existing Options
 
-Patients evaluating the FL-100 against other treatments will be doing the mental math. Here's a direct comparison of the main [depression treatment](/a-single-dose-lsd-drug-just-beat-every-approved-depression-treatment/) modalities, including the new device:
+Patients evaluating the FL-100 against other treatments will be doing the mental math. Here's a direct comparison of the main depression treatment modalities, including the new device:
 
 | Treatment | Setting | Typical Cost | Requires Prescription | FDA Cleared for Depression |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ The one-time cost model is significant. Unlike Spravato, which requires repeated
 
 ## Who Should Actually Use This
 
-The [FDA cleared](/prescription-digital-therapeutics-what-fda-cleared-therapy-apps-mean-f/) FL-100 for moderate-to-severe major depressive disorder. That's not mild situational sadness or adjustment disorder. The trial enrolled adults with diagnosed MDD, and the remission rates apply to that population.
+The FDA cleared FL-100 for moderate-to-severe major depressive disorder. That's not mild situational sadness or adjustment disorder. The trial enrolled adults with diagnosed MDD, and the remission rates apply to that population.
 
 The device is likely a strong candidate for patients who can't access or afford clinic-based TMS, who have tried one or more antidepressants without full remission, who are medically unsuitable for certain medications, or who want to avoid pharmacological treatment entirely. It may also appeal to people in rural or underserved areas where specialty psychiatric care is a two-hour drive.
 

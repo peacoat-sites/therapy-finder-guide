@@ -26,7 +26,7 @@ faqs:
     a: "For most people managing established conditions, yes, the research supports comparable outcomes. Telepsychiatry has expanded access meaningfully, especially in rural areas. The limitations tend to be in initial complex evaluations where physical observation matters, and for patients whose conditions require close monitoring. As of 2026, most major insurance plans cover telehealth psychiatric visits at the same rate as in-person."
 ---
 
-Most people who end up in a psychiatrist's office didn't plan to be there. They spent months, sometimes years, trying to manage things on their own, or they finally got referred by a primary care doctor who said, honestly, "this is beyond what I can help with from here." If that's where you are [right now](/the-va-is-testing-mdma-assisted-therapy-for-ptsd-right-now/), I want you to know: that referral isn't a failure. It's a door.
+Most people who end up in a psychiatrist's office didn't plan to be there. They spent months, sometimes years, trying to manage things on their own, or they finally got referred by a primary care doctor who said, honestly, "this is beyond what I can help with from here." If that's where you are right now, I want you to know: that referral isn't a failure. It's a door.
 
 Medication management with a psychiatrist is one of those phrases that sounds more intimidating than it actually is. You might be wondering whether it means you'll be on pills forever, or whether a psychiatrist is just going to spend fifteen minutes with you and hand you a prescription. Those fears are real, and they're worth taking seriously. They're also, in most cases, not what actually happens.
 

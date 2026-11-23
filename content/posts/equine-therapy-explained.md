@@ -40,7 +40,7 @@ For people who have learned to intellectualize their feelings, or who have spent
 
 The research base is strongest for a few specific populations, and I think it's worth being honest about that rather than claiming equine therapy fixes everything.
 
-Trauma survivors, especially those with complex PTSD, tend to respond well. A 2018 paper in the Journal of Trauma & Dissociation found significant reductions in PTSD symptom severity in veterans following equine-assisted psychotherapy, and this lines up with what clinicians report anecdotally. The non-verbal, [body-based nature of EAP](/somatic-therapy-explained/) fits with what we know about trauma: it's stored somatically, and talk therapy alone sometimes can't reach it.
+Trauma survivors, especially those with complex PTSD, tend to respond well. A 2018 paper in the Journal of Trauma & Dissociation found significant reductions in PTSD symptom severity in veterans following equine-assisted psychotherapy, and this lines up with what clinicians report anecdotally. The non-verbal, body-based nature of EAP fits with what we know about trauma: it's stored somatically, and talk therapy alone sometimes can't reach it.
 
 Adolescents with behavioral issues, people in addiction recovery, and individuals on the autism spectrum are also populations where there's meaningful clinical evidence. [NAMI](https://www.nami.org/) acknowledges animal-assisted therapy as a complementary intervention for several mental health conditions, though they're appropriately careful about calling it a standalone treatment.
 

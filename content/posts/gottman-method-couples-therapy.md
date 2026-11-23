@@ -1,5 +1,5 @@
 ---
-title: "Does The Gottman Method Really Save Marriages?"
+title: "Gottman Method Couples Therapy: Does It Work?"
 date: 2026-07-03T15:37:09.061675+00:00
 draft: false
 description: "Learn about the Gottman method in couples therapy. Discover evidence-based techniques to improve communication, resolve conflict, and strengthen your relationsh"
@@ -30,7 +30,7 @@ Most [couples therapy articles](/couples-therapy-how-it-works/) act like every a
 
 Here's what I mean by "specific." John and Julie Gottman spent decades in their lab at the University of Washington filming couples, measuring their heart rates, analyzing their language patterns down to individual words. They didn't guess. They watched what actually predicts divorce and what keeps relationships stable, then built a method around that data. The approach isn't "express your feelings more" or "listen better." It's "here are the four patterns destroying your marriage, here's how we measure them, and here's exactly how we interrupt them."
 
-When I started working with couples who'd tried [other therapies first](/emotionally-focused-therapy-eft/), the ones who'd done Gottman before almost always said the same thing: "It felt less like therapy and more like someone diagnosing what was actually broken." That matters. A lot of people spend months in therapy feeling like something's happening without knowing if anything real is shifting. Gottman makes the diagnosis visible.
+When I started working with couples who'd tried other therapies first, the ones who'd done Gottman before almost always said the same thing: "It felt less like therapy and more like someone diagnosing what was actually broken." That matters. A lot of people spend months in therapy feeling like something's happening without knowing if anything real is shifting. Gottman makes the diagnosis visible.
 
 ## The Four Horsemen, and Why They Matter
 

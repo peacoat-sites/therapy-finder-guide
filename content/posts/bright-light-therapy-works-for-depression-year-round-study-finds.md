@@ -16,7 +16,7 @@ affiliate_disclosure: true
 
 November is not kind to people managing depression. The days are shortening fast, therapy appointment slots fill up or get skipped, and the cultural pressure to feel festive sits on top of symptoms that were already hard to carry. So the timing of a new meta-analysis published in JAMA Psychiatry is worth paying attention to. Reviewed by Psychiatric Times on November 13, 2026, the study pooled 11 randomized controlled trials covering 858 adults and found that bright light therapy (BLT) significantly improved remission rates for nonseasonal depression, the kind that doesn't follow a seasonal pattern and affects far more people than winter SAD does.
 
-This matters because BLT has long been recommended mainly for seasonal affective disorder. The new analysis shifts that picture. Remission rates reached 40.7% in the BLT group versus 23.5% in controls, an odds ratio of 2.42, with a p-value under .001. Treatment response rates were 60.4% versus 38.6%. These aren't trivial differences, and they come from a treatment most people can access at home for under $50 to $100 for a basic lamp. That's a meaningful gap to close, especially [right now](/could-talking-to-someone-help-right-now/), when Data reported by Stacker on November 12, 2026 shows therapy bookings drop 11% in November and December compared to September and October.
+This matters because BLT has long been recommended mainly for seasonal affective disorder. The new analysis shifts that picture. Remission rates reached 40.7% in the BLT group versus 23.5% in controls, an odds ratio of 2.42, with a p-value under .001. Treatment response rates were 60.4% versus 38.6%. These aren't trivial differences, and they come from a treatment most people can access at home for under $50 to $100 for a basic lamp. That's a meaningful gap to close, especially right now, when Data reported by Stacker on November 12, 2026 shows therapy bookings drop 11% in November and December compared to September and October.
 
 People aren't stopping their need for care in winter. They're just stopping their access to it.
 
@@ -42,7 +42,7 @@ One caveat worth naming: the meta-analysis pooled 11 trials with 858 participant
 
 ## How Bright Light Therapy Compares to Other Adjunct Options
 
-BLT is one of several adjunctive strategies that people use alongside primary [depression treatment](/a-single-dose-lsd-drug-just-beat-every-approved-depression-treatment/). Here's how it compares on a few practical dimensions, based on what's currently known:
+BLT is one of several adjunctive strategies that people use alongside primary depression treatment. Here's how it compares on a few practical dimensions, based on what's currently known:
 
 | Adjunct Option | Typical Cost | Requires Prescription | Level of Evidence for Nonseasonal MDD |
 |---|---|---|---|

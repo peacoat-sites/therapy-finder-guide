@@ -33,7 +33,7 @@ CMHCs are publicly funded mental health clinics, usually run at the county or re
 
 Walk into a well-resourced CMHC and you'll find outpatient therapy, psychiatric medication management, crisis intervention, case management, substance use treatment, and sometimes housing and employment support. That's not stripped-down. For someone managing serious mental illness, that's an integrated system of care under one roof.
 
-Quality varies. A CMHC in a well-funded urban county looks different from one in a rural area scraping by on thin state funding. But the baseline is consistent: sliding-scale fees, [Medicaid acceptance](/does-insurance-cover-therapy/), and mandatory emergency psychiatric services everywhere.
+Quality varies. A CMHC in a well-funded urban county looks different from one in a rural area scraping by on thin state funding. But the baseline is consistent: sliding-scale fees, Medicaid acceptance, and mandatory emergency psychiatric services everywhere.
 
 ## Who Qualifies (And Why Most People Assume They Don't)
 
@@ -102,7 +102,7 @@ Getting mental health support shouldn't require decoding bureaucratic puzzles. C
 
 ---
 
-*This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the [988 Suicide and Crisis Lifeline](/how-to-find-an-affordable-therapist-near-me/) (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
+*This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
 

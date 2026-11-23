@@ -1,5 +1,5 @@
 ---
-title: "How 988 Connects You To Crisis Support Now"
+title: "988 Suicide and Crisis Lifeline: How It Works"
 date: 2026-06-20T15:23:08.254483+00:00
 draft: false
 description: "Learn how the 988 Suicide and Crisis Lifeline works, who answers your call, and what to expect when you reach out for immediate mental health support."

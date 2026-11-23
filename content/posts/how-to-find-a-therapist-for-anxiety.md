@@ -1,5 +1,5 @@
 ---
-title: "41% of Anxious Adults Skip Help: How to Find a Therapist"
+title: "Anxiety Disorder Therapist: How to Find the Right One"
 date: 2026-07-10T15:58:08.233503+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false

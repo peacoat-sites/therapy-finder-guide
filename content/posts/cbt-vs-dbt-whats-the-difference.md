@@ -1,5 +1,5 @@
 ---
-title: "CBT vs DBT: Which Therapy Works Better for Your Needs"
+title: "CBT vs DBT: What the Difference Means for You"
 date: 2026-08-07T14:34:36.704852+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -38,7 +38,7 @@ Roughly 75% of people who complete a full course of [Cognitive Behavioral Therap
 
 CBT, [Cognitive Behavioral](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) Therapy, is the most studied psychotherapy in existence. That's not an opinion: a 2021 review in *Psychological Medicine* counted over 1,000 randomized controlled trials examining it. The core idea is straightforward. Thoughts drive feelings, which drive behavior. If your thoughts are distorted or catastrophic, the downstream emotions and actions follow suit. CBT teaches you to catch those distorted thoughts, examine the evidence for and against them, and replace them with more accurate ones.
 
-What CBT is not: a feelings diary, a venting session, or a generic "talk about your problems" format. A good CBT therapist will assign you homework. You'll log automatic thoughts, complete behavioral experiments, and track mood [between sessions](/your-therapist-knows-youre-using-ai-between-sessions/). The first time I observed a CBT session in a clinical setting, I was struck by how much it resembled tutoring more than what most people picture as therapy. Structured, goal-directed, slightly uncomfortable for people who'd rather talk in circles.
+What CBT is not: a feelings diary, a venting session, or a generic "talk about your problems" format. A good CBT therapist will assign you homework. You'll log automatic thoughts, complete behavioral experiments, and track mood between sessions. The first time I observed a CBT session in a clinical setting, I was struck by how much it resembled tutoring more than what most people picture as therapy. Structured, goal-directed, slightly uncomfortable for people who'd rather talk in circles.
 
 CBT is well-validated for depression, generalized anxiety disorder, panic disorder, OCD, PTSD, social anxiety, and insomnia (CBT-I for insomnia has remission rates that exceed those of sleep medication in long-term follow-up studies). For most common mental health presentations, it's a reasonable first-line choice.
 

@@ -58,7 +58,7 @@ PE means gradually facing trauma-related memories and situations you've been dod
 
 **EMDR Therapy**
 
-Eye Movement Desensitization and Reprocessing looks weird from the outside, which is why it confuses people. A therapist guides you to recall traumatic memories while your eyes follow a moving object or you receive tapping stimulation. The theory: bilateral stimulation helps your brain reprocess the memory the way REM sleep does with daily experiences. The results are documented. Our detailed [EMDR therapy explained](/emdr-phases-explained/) guide covers exactly how sessions work if you want to understand it first.
+Eye Movement Desensitization and Reprocessing looks weird from the outside, which is why it confuses people. A therapist guides you to recall traumatic memories while your eyes follow a moving object or you receive tapping stimulation. The theory: bilateral stimulation helps your brain reprocess the memory the way REM sleep does with daily experiences. The results are documented. Our detailed EMDR therapy explained guide covers exactly how sessions work if you want to understand it first.
 
 All three are recommended by the American Psychological Association and the U.S. Department of Veterans Affairs as first-line PTSD treatments. That endorsement matters.
 

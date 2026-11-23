@@ -1,5 +1,5 @@
 ---
-title: "Healing From Alcoholic Parents: A Therapy Guide"
+title: "Therapy for Adult Children of Alcoholics: A Practical Guide"
 date: 2026-06-21T15:30:58.100585+00:00
 draft: false
 description: "Discover effective therapy options for adult children of alcoholics to heal childhood trauma, break unhealthy patterns, and build healthier relationships."
@@ -46,7 +46,7 @@ Here's the contrarian take: for many ACAs, standard supportive counseling ("tell
 
 A therapist who doesn't know the ACA profile can spend months in perfectly warm, productive-seeming conversation that never touches the actual wound. I've heard from people who spent two or three years in therapy before anyone connected their patterns to their family history. That's not catastrophic, but it is avoidable.
 
-The modalities that tend to work best aren't necessarily the most famous ones. Schema therapy, which identifies and directly targets early maladaptive patterns formed in childhood, is well-suited to ACA work. EMDR (Eye Movement Desensitization and Reprocessing) is increasingly well-supported for [childhood relational trauma](/therapy-for-trauma-survivors/), not just acute events. Internal Family Systems (IFS) is particularly useful because it maps the different "parts" that formed in response to family dysfunction, which many ACAs find more intuitive than conventional frameworks. And trauma-focused CBT, though it requires a therapist skilled in applying it to chronic relational patterns rather than discrete events, addresses the cognitive distortions ACAs carry with uncomfortable accuracy.
+The modalities that tend to work best aren't necessarily the most famous ones. Schema therapy, which identifies and directly targets early maladaptive patterns formed in childhood, is well-suited to ACA work. EMDR (Eye Movement Desensitization and Reprocessing) is increasingly well-supported for childhood relational trauma, not just acute events. Internal Family Systems (IFS) is particularly useful because it maps the different "parts" that formed in response to family dysfunction, which many ACAs find more intuitive than conventional frameworks. And trauma-focused CBT, though it requires a therapist skilled in applying it to chronic relational patterns rather than discrete events, addresses the cognitive distortions ACAs carry with uncomfortable accuracy.
 
 If you're starting therapy, it's completely reasonable to ask a prospective therapist directly: "Do you have experience working with adult children of alcoholics or with childhood relational trauma?" A good therapist won't take offense. An evasive answer is information.
 

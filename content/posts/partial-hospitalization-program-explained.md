@@ -1,5 +1,5 @@
 ---
-title: "When Intensive Therapy Works Better Than Weekly Sessions"
+title: "Partial Hospitalization Program Explained: What to Expect"
 date: 2026-06-16T18:21:35.435534+00:00
 draft: false
 description: "Learn what a partial hospitalization program is, how it works, who it helps, and what to expect during treatment in this clear, complete overview."

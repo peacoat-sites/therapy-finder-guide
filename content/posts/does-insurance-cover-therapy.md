@@ -63,7 +63,7 @@ The **out-of-pocket maximum** is your ceiling. Once your cumulative spending hit
 
 **In-network versus out-of-network** is probably the single most important distinction to understand. In-network therapists have contracted with your insurance company at agreed-upon rates. Out-of-network therapists haven't, so your insurer may cover less of the cost, or nothing at all. If you have a PPO plan, you likely have some out-of-network benefits. HMO plans typically don't cover out-of-network care except in emergencies.
 
-When a therapist offers a **[superbill](/out-of-network-therapy-reimbursement/)**, they're giving you an itemized receipt that you can submit directly to your insurance for partial reimbursement. This is the most common way to see an out-of-network therapist while still using your benefits. Many people don't know this option exists.
+When a therapist offers a **superbill**, they're giving you an itemized receipt that you can submit directly to your insurance for partial reimbursement. This is the most common way to see an out-of-network therapist while still using your benefits. Many people don't know this option exists.
 
 ## How to Actually Verify Your Therapy Benefits: Step by Step
 

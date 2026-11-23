@@ -1,5 +1,5 @@
 ---
-title: "Stop Feeling Like a Fraud: Real Therapy Solutions"
+title: "Therapy for Imposter Syndrome: What Helps"
 date: 2026-06-21T15:28:31.112921+00:00
 draft: false
 description: "Discover effective therapy options for imposter syndrome to build confidence, silence self-doubt, and embrace your true abilities and accomplishments."
@@ -46,7 +46,7 @@ The research here is genuinely mixed, and I'd rather tell you that than pretend 
 
 **Acceptance and Commitment Therapy (ACT)** takes a different angle, and honestly, for some people I think it works better than pure CBT. Rather than challenging whether the imposter thought is true, ACT teaches you to notice the thought without being governed by it. "I'm having the thought that I don't belong here" is a different relationship with that thought than "I don't belong here." For high-achieving people who've already tried to logic their way out of these feelings and failed, ACT's defusion techniques can feel genuinely new.
 
-**Schema therapy** is less commonly discussed in this context but worth knowing about. It's designed for deeply entrenched belief systems, often rooted in childhood experiences around achievement, worth, and [conditional acceptance](/therapy-for-perfectionism/). If your imposter pattern feels less like a cognitive habit and more like something baked into your bones, schema work might be where you need to go.
+**Schema therapy** is less commonly discussed in this context but worth knowing about. It's designed for deeply entrenched belief systems, often rooted in childhood experiences around achievement, worth, and conditional acceptance. If your imposter pattern feels less like a cognitive habit and more like something baked into your bones, schema work might be where you need to go.
 
 The evidence for group therapy specifically for imposter syndrome is thin but promising. There's something powerful about hearing a genuinely accomplished person describe feeling exactly as fraudulent as you do. It disrupts the belief in a way that one-on-one work sometimes can't.
 

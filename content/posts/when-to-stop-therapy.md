@@ -53,11 +53,11 @@ Your therapist has said, explicitly or implicitly, that you're approaching the e
 
 Stopping because you're uncomfortable is not the same as stopping because you're done. These are genuinely easy to confuse.
 
-Therapy often gets harder before it gets easier. [Cognitive Behavioral Therapy](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) (CBT), for example, requires you to actively challenge beliefs you've held for years. Trauma-focused approaches like EMDR or Prolonged Exposure ask you to revisit painful material. Feeling worse in week six is not a sign the therapy isn't working; it can be a sign you're doing real work.
+Therapy often gets harder before it gets easier. Cognitive Behavioral Therapy (CBT), for example, requires you to actively challenge beliefs you've held for years. Trauma-focused approaches like EMDR or Prolonged Exposure ask you to revisit painful material. Feeling worse in week six is not a sign the therapy isn't working; it can be a sign you're doing real work.
 
-The wrong reasons include: cost pressure without exploring alternatives, a scheduling conflict that feels too hard to solve, a therapist who said something that stung, or a few good weeks that feel like a cure. If any of those ring true, the better move is to talk to your [therapist before](/questions-to-ask-a-therapist-before-first-session/) you stop.
+The wrong reasons include: cost pressure without exploring alternatives, a scheduling conflict that feels too hard to solve, a therapist who said something that stung, or a few good weeks that feel like a cure. If any of those ring true, the better move is to talk to your therapist before you stop.
 
-Insurance running out is a practical constraint, not a clinical one. If your sessions are ending due to coverage, that's the right time to ask about sliding scale fees, [community mental health](/community-mental-health-center-access/) centers, or whether a step-down in frequency could stretch your remaining sessions further.
+Insurance running out is a practical constraint, not a clinical one. If your sessions are ending due to coverage, that's the right time to ask about sliding scale fees, community mental health centers, or whether a step-down in frequency could stretch your remaining sessions further.
 
 ## What a Planned Ending Looks Like
 

@@ -33,7 +33,7 @@ Obsessive-Compulsive Disorder affects approximately 1 in 100 adults in the Unite
 
 Before talking about treatment, it helps to get clear on what OCD actually involves, because the popular image of it is badly distorted.
 
-OCD is not a quirky personality trait. It's not being "a little OCD" because you like a tidy desk. Clinically, OCD has two core components: obsessions and compulsions. Obsessions are unwanted, [intrusive thoughts](/signs-you-may-have-high-functioning-anxiety/), images, or urges that feel impossible to dismiss. Compulsions are the behaviors or mental rituals a person performs to neutralize the anxiety those thoughts produce.
+OCD is not a quirky personality trait. It's not being "a little OCD" because you like a tidy desk. Clinically, OCD has two core components: obsessions and compulsions. Obsessions are unwanted, intrusive thoughts, images, or urges that feel impossible to dismiss. Compulsions are the behaviors or mental rituals a person performs to neutralize the anxiety those thoughts produce.
 
 The relief from a compulsion is real. It's brief. And critically, it makes the obsession stronger over time, not weaker. The brain learns: "When this thought appears, perform the ritual to feel safe." The cycle deepens. That's the trap.
 

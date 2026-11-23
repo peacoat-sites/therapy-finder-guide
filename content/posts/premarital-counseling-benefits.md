@@ -33,9 +33,9 @@ Let's get one thing straight: premarital counseling is not for couples in crisis
 
 Premarital counseling is structured, therapist-led work done before marriage, typically over four to eight sessions. A licensed therapist or counselor guides you through topics that couples tend to avoid, not because they're cruel topics, but because they're awkward or feel presumptuous to raise before a wedding. Money. Sex. Extended family. Parenting expectations. What happens when one of you gets seriously ill. How you both define a "good enough" life.
 
-It's different from [marriage counseling](/couples-therapy-how-it-works/), which usually starts after patterns have calcified and resentment has a head start. Premarital work happens when both people are motivated, hopeful, and not yet entrenched in their defensive positions. That timing is a significant advantage.
+It's different from marriage counseling, which usually starts after patterns have calcified and resentment has a head start. Premarital work happens when both people are motivated, hopeful, and not yet entrenched in their defensive positions. That timing is a significant advantage.
 
-Some premarital counseling is faith-based, offered through a church, synagogue, or mosque, and that's a legitimate route for couples for whom spiritual alignment is central to the marriage. Secular options through licensed therapists are equally valid and usually draw from evidence-based models like the Gottman Method or [Emotionally Focused Therapy](/emotionally-focused-therapy-eft/). Neither is objectively better. What matters is fit.
+Some premarital counseling is faith-based, offered through a church, synagogue, or mosque, and that's a legitimate route for couples for whom spiritual alignment is central to the marriage. Secular options through licensed therapists are equally valid and usually draw from evidence-based models like the Gottman Method or Emotionally Focused Therapy. Neither is objectively better. What matters is fit.
 
 ## The Specific Benefits, Ranked by Impact
 

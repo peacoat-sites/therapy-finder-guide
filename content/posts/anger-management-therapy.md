@@ -1,5 +1,5 @@
 ---
-title: "How to Stop Anger Before It Controls You"
+title: "Anger Management Therapy: How It Works and Who It Helps"
 date: 2026-05-25T22:13:59.812462+00:00
 draft: false
 description: "Anger management therapy helps you understand and control anger triggers. Learn effective techniques to reduce stress, improve relationships, and achieve emotio"

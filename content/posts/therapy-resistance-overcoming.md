@@ -1,5 +1,5 @@
 ---
-title: "Breaking Through When Therapy Isn't Working"
+title: "Overcoming Therapy Resistance When It Isn't Working"
 date: 2026-06-18T16:48:50.036962+00:00
 draft: false
 description: "Discover proven strategies to overcome therapy resistance and make real progress in mental health treatment with expert-backed techniques."
@@ -55,7 +55,7 @@ One thing that helps enormously is reframing what you're actually committing to.
 
 Go to [one session](/what-to-expect-first-therapy-session/). Treat it like a consultation, not a contract. You can tell the therapist outright that you're skeptical, that you're only there to see how this feels. A good therapist won't be thrown by that. They'll appreciate the honesty.
 
-Finding the right therapist matters more than most articles admit. The research on therapeutic outcomes consistently points to the "therapeutic alliance," which just means: do you feel basically safe and understood with this person? If you don't feel that after two or three sessions, it's not a failure. It's the [wrong fit](/when-to-switch-therapists/). Psychology Today's therapist directory lets you filter by specialty, insurance, and approach before you commit to a call.
+Finding the right therapist matters more than most articles admit. The research on therapeutic outcomes consistently points to the "therapeutic alliance," which just means: do you feel basically safe and understood with this person? If you don't feel that after two or three sessions, it's not a failure. It's the wrong fit. Psychology Today's therapist directory lets you filter by specialty, insurance, and approach before you commit to a call.
 
 ## What Type of Therapy Actually Helps Resistance?
 

@@ -1,5 +1,5 @@
 ---
-title: "Red Flags It's Time to Find a New Therapist"
+title: "How to Switch Therapists: A Step-by-Step Guide"
 date: 2026-05-22T04:28:25.616035+00:00
 draft: false
 description: "Sessions feel like just going through the motions? Learn the real signs it is time to switch therapists and how to make the change without guilt."

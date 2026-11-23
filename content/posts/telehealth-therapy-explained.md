@@ -1,5 +1,5 @@
 ---
-title: "How Online Therapy Sessions Actually Work"
+title: "Telehealth Therapy Sessions: How They Work in Practice"
 date: 2026-05-28T21:16:32.997617+00:00
 draft: false
 description: "Telehealth therapy explained: Learn how online mental health counseling works, its benefits, effectiveness, and what to expect from virtual therapy sessions."
@@ -47,7 +47,7 @@ There's another group worth naming directly: people trying therapy for the first
 
 Where it falls short: people in active psychosis, with severe eating disorders needing medical oversight, or actively suicidal typically need in-person or higher-level care. If you're in immediate danger, call or text the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) at 988. It's available 24/7 and built exactly for moments when telehealth isn't enough.
 
-Most therapy types work across telehealth. Cognitive behavioral therapy translates beautifully to video. If you want background on how it works, our guide on [cognitive behavioral therapy explained](/cognitive-behavioral-therapy-explained/) covers the fundamentals. DBT skills groups have shifted online successfully. Even [EMDR therapy](/emdr-phases-explained/), which many assumed required in-person work, adapts well to telehealth with the right tools and training.
+Most therapy types work across telehealth. Cognitive behavioral therapy translates beautifully to video. If you want background on how it works, our guide on [cognitive behavioral therapy explained](/cognitive-behavioral-therapy-explained/) covers the fundamentals. DBT skills groups have shifted online successfully. Even EMDR therapy, which many assumed required in-person work, adapts well to telehealth with the right tools and training.
 
 ## How to Get Started: A Practical Step-by-Step Guide
 
@@ -106,7 +106,7 @@ Many private plans now cover telehealth mental health services at parity with in
 
 If you're uninsured or underinsured, community mental health centers often offer telehealth on a sliding scale. Some university training clinics now run telehealth with lower-cost sessions supervised by experienced clinicians. Open Path Collective is a nonprofit network offering reduced fees specifically for underinsured people.
 
-For a full look at how therapy costs are structured across different payment types, our article on [how much therapy costs](/how-much-does-therapy-cost-without-insurance/) covers the range without sugarcoating what most people actually pay.
+For a full look at how therapy costs are structured across different payment types, our article on how much therapy costs covers the range without sugarcoating what most people actually pay.
 
 ---
 

@@ -28,7 +28,7 @@ faqs:
 
 About 10 to 15 percent of bereaved people will develop what clinicians call complicated grief, and most of them won't get the right treatment for it, not because it doesn't exist, but because neither they nor their doctors know to look for it.
 
-That number comes from a 2021 meta-analysis published in *World Psychiatry*. Some people who've lost someone six, eight, or fourteen months earlier remain completely unable to function despite trying standard [depression treatment](/a-single-dose-lsd-drug-just-beat-every-approved-depression-treatment/) or general talk therapy, and may be told, gently but wrongly, that they just need more time. What they actually needed was a specific, evidence-based approach called Complicated Grief Treatment, or CGT, and in most communities it remains genuinely hard to find.
+That number comes from a 2021 meta-analysis published in *World Psychiatry*. Some people who've lost someone six, eight, or fourteen months earlier remain completely unable to function despite trying standard depression treatment or general talk therapy, and may be told, gently but wrongly, that they just need more time. What they actually needed was a specific, evidence-based approach called Complicated Grief Treatment, or CGT, and in most communities it remains genuinely hard to find.
 
 If you're here because you're worried about yourself, or someone you love, I want you to know: what you're experiencing has a name, it has structure, and there are trained people who can help.
 

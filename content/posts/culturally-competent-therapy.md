@@ -1,5 +1,5 @@
 ---
-title: "How To Find A Therapist Who Gets Your Background"
+title: "Culturally Competent Therapy: How to Find the Right Fit"
 date: 2026-06-17T16:47:43.803794+00:00
 draft: false
 description: "Discover how culturally competent therapy improves mental health outcomes by honoring your background, values, and identity in every session."
@@ -45,7 +45,7 @@ A common misconception is that you need a therapist who shares your background. 
 
 ## Why It Matters More Than the Field Often Admits
 
-Research shows that clients from racial and ethnic minority groups terminate therapy earlier and report lower satisfaction than white clients, even when controlling for socioeconomic factors. The [therapeutic alliance](/how-to-find-a-therapist/), that relationship between client and therapist, is the single strongest predictor of outcome across therapy types. If a client spends energy every session code-switching, educating their therapist, or managing microaggressions, that alliance erodes in real time.
+Research shows that clients from racial and ethnic minority groups terminate therapy earlier and report lower satisfaction than white clients, even when controlling for socioeconomic factors. The therapeutic alliance, that relationship between client and therapist, is the single strongest predictor of outcome across therapy types. If a client spends energy every session code-switching, educating their therapist, or managing microaggressions, that alliance erodes in real time.
 
 There are also structural problems. Collectivist cultures, including many South Asian, Middle Eastern, African, and Indigenous communities, frame mental health as a family or community matter rather than an individual one. Standard CBT's emphasis on individual autonomy and self-differentiation can feel not just foreign but actively wrong to someone raised in a culture where your choices belong to the collective. A culturally competent therapist doesn't abandon evidence-based treatment. They adapt how they apply it.
 

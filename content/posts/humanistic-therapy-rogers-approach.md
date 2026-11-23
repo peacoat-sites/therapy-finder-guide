@@ -85,7 +85,7 @@ If you're drawn to humanistic values but want more structure, Emotion-Focused Th
 
 ## Finding a Person-Centered Therapist
 
-Therapists often list their orientations on directories like Psychology Today's therapist finder or the BACP [therapist directory](/bipoc-therapist-directory/) (if you're in the UK). Search "person-centered" or "client-centered" as a filter. That said, many therapists integrate approaches, so a therapist who lists person-centered as their primary orientation but also uses motivational interviewing or mindfulness is working in a coherent tradition, not contradicting it.
+Therapists often list their orientations on directories like Psychology Today's therapist finder or the BACP therapist directory (if you're in the UK). Search "person-centered" or "client-centered" as a filter. That said, many therapists integrate approaches, so a therapist who lists person-centered as their primary orientation but also uses motivational interviewing or mindfulness is working in a coherent tradition, not contradicting it.
 
 Questions worth asking in a [first session](/questions-to-ask-a-therapist-before-first-session/) or consultation call:
 

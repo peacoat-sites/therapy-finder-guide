@@ -1,5 +1,5 @@
 ---
-title: "Constant Anxiety: When Worry Becomes the Norm and What It Means"
+title: "Is It Normal to Feel Anxious All the Time?"
 date: 2026-07-30T15:34:03.748221+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -79,11 +79,11 @@ Third, and this one surprised me the first time I heard it articulated clearly: 
 
 ## What Actually Helps
 
-[Cognitive Behavioral Therapy](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) (CBT) is the best-studied intervention for anxiety disorders, full stop. Not the most popular, not the trendiest. The most evidence-backed. It's structured, it's skill-based, and you'll leave sessions with things to actually practice (which some people love and others find annoying, fair enough).
+Cognitive Behavioral Therapy (CBT) is the best-studied intervention for anxiety disorders, full stop. Not the most popular, not the trendiest. The most evidence-backed. It's structured, it's skill-based, and you'll leave sessions with things to actually practice (which some people love and others find annoying, fair enough).
 
 For those who want something to work with [between sessions](/your-therapist-knows-youre-using-ai-between-sessions/), or while waiting for an appointment, Aaron Beck's *Feeling Good* by David Burns (affiliate link, the site may earn a small commission) is the closest thing to validated bibliotherapy for anxiety and depression. It's $15 on Amazon and based on CBT principles. I've recommended it to hundreds of people. A small number find it too clinical; most find it genuinely useful.
 
-Medication, usually SSRIs or SNRIs, is appropriate for a meaningful subset of people with GAD, either as a primary treatment or alongside therapy. This is a conversation for a psychiatrist or your GP, not an article. What I will say is that the old hierarchy of "try [therapy first](/therapy-for-first-responders/), medication as a last resort" is increasingly outdated. For moderate to severe presentations, combined treatment often outperforms either alone.
+Medication, usually SSRIs or SNRIs, is appropriate for a meaningful subset of people with GAD, either as a primary treatment or alongside therapy. This is a conversation for a psychiatrist or your GP, not an article. What I will say is that the old hierarchy of "try therapy first, medication as a last resort" is increasingly outdated. For moderate to severe presentations, combined treatment often outperforms either alone.
 
 Mindfulness-based interventions, specifically MBSR (Mindfulness-Based Stress Reduction), have a decent evidence base for anxiety, though the effect sizes are more modest than CBT. The [Insight Timer](https://www.amazon.com/s?k=mindfulness+anxiety+workbook) app and workbooks like *The Mindfulness and Acceptance Workbook for Anxiety* by John P. Forsyth are reasonable starting points (affiliate link). They won't replace a good therapist, but they're not nothing either.
 

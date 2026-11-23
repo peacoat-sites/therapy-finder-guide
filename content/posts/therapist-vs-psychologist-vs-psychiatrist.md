@@ -1,5 +1,5 @@
 ---
-title: "Which Mental Health Professional Do You Actually Need?"
+title: "Therapist vs Psychologist vs Psychiatrist: Who Do You Need?"
 date: 2026-05-18T06:57:23.565941+00:00
 draft: false
 description: "Confused about therapist vs psychologist vs psychiatrist? Learn the key differences in training, treatment approaches, and when to see each mental health profes"

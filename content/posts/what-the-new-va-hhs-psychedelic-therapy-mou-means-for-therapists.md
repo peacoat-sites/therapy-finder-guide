@@ -43,7 +43,7 @@ Before this MOU, the VA wasn't standing still. The numbers are worth putting sid
 | NIDA ibogaine IND funding awarded | $2.3 million |
 | MOU duration | 5 years (2026-2031) |
 
-The RAND figure of 4.8 million veterans who have already used psychedelic drugs is the one that stopped me. That's not a fringe population experimenting at the margins. That's a massive portion of the veteran community that has, in many cases, self-medicated or sought treatment through underground or international channels precisely because clinical options didn't exist domestically. Half of veterans supporting formal VA access if FDA-approved is a high number. These clients aren't waiting for policy to catch up to their reality. Many of them [are already](/your-therapist-knows-youre-using-ai-between-sessions/) in your office, just not telling you everything.
+The RAND figure of 4.8 million veterans who have already used psychedelic drugs is the one that stopped me. That's not a fringe population experimenting at the margins. That's a massive portion of the veteran community that has, in many cases, self-medicated or sought treatment through underground or international channels precisely because clinical options didn't exist domestically. Half of veterans supporting formal VA access if FDA-approved is a high number. These clients aren't waiting for policy to catch up to their reality. Many of them are already in your office, just not telling you everything.
 
 ## What the FDA Guidance Actually Means for Clinical Practice
 
