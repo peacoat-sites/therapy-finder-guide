@@ -1444,6 +1444,32 @@ def _parse_json_block(text):
                     return None
     return None
 
+def _intent_dup(candidate: str, existing) -> str:
+    """Existing slug that already covers the candidate's reader question or news story, else ''."""
+    existing = sorted(set(existing))
+    if not existing or not candidate:
+        return ''
+    try:
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        msg = client.messages.create(
+            model="claude-haiku-4-5-20251001", max_tokens=150,
+            messages=[{"role": "user", "content": (
+                "Existing articles on a website (URL slugs, one per line):\n" + "\n".join(existing) +
+                f"\n\nProposed new article: \"{candidate}\"\n\n"
+                "Would the proposed article mainly answer the same reader question, or cover the same news story or law change, "
+                "as one existing article, so readers and search engines would see the two pages as duplicates?\n"
+                "- Reworded titles, a different year, or a 'what it means now' follow-up on the same story ARE duplicates.\n"
+                "- A narrower page is NOT a duplicate when it has its own distinct question (a specific injury, state, product, "
+                "or situation versus a general guide).\n"
+                'Reply with only JSON: {"duplicate": true or false, "slug": "matching existing slug or empty"}')}])
+        d = _parse_json_block(msg.content[0].text) or {}
+        s = str(d.get("slug", "")).strip().strip("/")
+        return s if d.get("duplicate") and s in existing else ''
+    except Exception as e:
+        print(f"    [dedup] intent check skipped ({e})")
+        return ''
+
+
 def generate_topical_article(site_config: dict, persona: dict, voice_style: str = "", recent_topics=None):
     """Discover a current topic via web search, research it, and write a timely article.
     Returns dict(keyword, content, description, image_query, category) or None on any failure."""
@@ -1460,7 +1486,7 @@ def generate_topical_article(site_config: dict, persona: dict, voice_style: str 
     current_year = now.year
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
     scope_lead = comm["scope"].split(":")[0]
-    recent_blurb = ("; ".join(recent_topics[:30])) or "none yet"
+    recent_blurb = ("; ".join(recent_topics)) or "none yet"
 
     radar_prompt = f"""You are a content strategist for a website about {comm['scope']}.
 Today is {current_date}.
@@ -1512,6 +1538,10 @@ When done researching, output ONLY a JSON object (no prose before or after):
         if _new and _old and len(_new & _old) / len(_new | _old) >= 0.45:
             print(f"    [topical] near-duplicate of existing '{str(_prev)[:60]}'; skipping")
             return None
+    _dup = _intent_dup(f"{title}. {brief.get('angle', '')}", [str(t).replace(' ', '-') for t in recent_topics])
+    if _dup:
+        print(f"    [topical] same story as existing /{_dup}/; skipping")
+        return None
     facts = "\n".join(f"- {f}" for f in brief.get("key_facts", []))
     srcs = brief.get("sources", []) or []
     src_lines = "\n".join(f"- {s.get('title','source')} | {s.get('url','')} | {s.get('published','')}" for s in srcs)
@@ -1723,7 +1753,21 @@ def publish_site(site_name: str, count: int):
         print(f"  All keywords already published!")
         return
 
-    to_publish   = unpublished[:count]
+    # Intent-duplicate guard: skip keywords whose reader question an existing article already answers
+    to_publish, _pool, _checks = [], set(published), 0
+    for _kw in unpublished:
+        if len(to_publish) >= count or _checks >= count + 10:
+            break
+        _checks += 1
+        _m = _intent_dup(_kw.get("keyword", ""), _pool)
+        if _m:
+            print(f"  Skipped '{_kw.get('keyword', '')}': same intent as existing /{_m}/")
+            continue
+        to_publish.append(_kw)
+        _pool.add(keyword_to_slug(_kw.get("keyword", "")))
+    if not to_publish:
+        print("  No non-duplicate keywords left in this batch")
+        return
     used_img_ids = get_used_image_ids(repo)
     if used_img_ids:
         print(f"  Pre-seeded {len(used_img_ids)} existing image IDs for dedup")
