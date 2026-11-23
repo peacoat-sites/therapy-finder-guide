@@ -60,7 +60,7 @@ Anger management therapy isn't one-size-fits-all. Depending on your specific pat
 
 **Dialectical Behavior Therapy (DBT)** stacks skills training on top of that framework. It's particularly good if your anger escalates fast and hard. DBT means a lot of practice with distress tolerance, emotional regulation, and communicating clearly in tense moments. Our [DBT therapy overview](/dbt-therapy-what-is-it/) breaks down the full skill set.
 
-**EMDR (Eye Movement Desensitization and Reprocessing)** becomes relevant if trauma is underneath the anger. A lot of people who were abused, neglected, or went through something acutely traumatic end up with anger that fires instantly, as a leftover survival reflex. EMDR works directly with the stored traumatic memories that keep your nervous system locked in threat mode. Read more in our [EMDR therapy explanation](/emdr-therapy-explained/).
+**EMDR (Eye Movement Desensitization and Reprocessing)** becomes relevant if trauma is underneath the anger. A lot of people who were abused, neglected, or went through something acutely traumatic end up with anger that fires instantly, as a leftover survival reflex. EMDR works directly with the stored traumatic memories that keep your nervous system locked in threat mode. Read more in our [EMDR therapy explanation](/emdr-phases-explained/).
 
 **Acceptance and Commitment Therapy (ACT)** works differently. Instead of fighting angry thoughts, ACT teaches you to notice them without obeying them, and to keep moving toward what actually matters to you even when you're emotionally flooded.
 

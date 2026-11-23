@@ -47,7 +47,7 @@ There's another group worth naming directly: people trying therapy for the first
 
 Where it falls short: people in active psychosis, with severe eating disorders needing medical oversight, or actively suicidal typically need in-person or higher-level care. If you're in immediate danger, call or text the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) at 988. It's available 24/7 and built exactly for moments when telehealth isn't enough.
 
-Most therapy types work across telehealth. Cognitive behavioral therapy translates beautifully to video. If you want background on how it works, our guide on [cognitive behavioral therapy explained](/cognitive-behavioral-therapy-explained/) covers the fundamentals. DBT skills groups have shifted online successfully. Even [EMDR therapy](/emdr-therapy-explained/), which many assumed required in-person work, adapts well to telehealth with the right tools and training.
+Most therapy types work across telehealth. Cognitive behavioral therapy translates beautifully to video. If you want background on how it works, our guide on [cognitive behavioral therapy explained](/cognitive-behavioral-therapy-explained/) covers the fundamentals. DBT skills groups have shifted online successfully. Even [EMDR therapy](/emdr-phases-explained/), which many assumed required in-person work, adapts well to telehealth with the right tools and training.
 
 ## How to Get Started: A Practical Step-by-Step Guide
 
@@ -60,7 +60,7 @@ You don't need a diagnosis or a perfectly worded problem. A rough sense helps, w
 Coverage expanded significantly after 2020. Many plans now cover telehealth at the same rate as in-person visits. Our guide on [whether insurance covers therapy](/does-insurance-cover-therapy/) explains what to look for. Call your insurance's member services number and ask directly: "Does my plan cover telehealth therapy with a licensed mental health provider?"
 
 **Step 3: Search for providers.**
-SAMHSA's [treatment locator at findtreatment.gov](https://findtreatment.gov/) is free and government-maintained. It helps you find licensed providers by location and specialty, including those offering telehealth. Psychology Today's therapist finder has a telehealth filter too. Our article on [how to find the right therapist](/how-to-find-the-right-therapist/) covers additional factors beyond just credentials.
+SAMHSA's [treatment locator at findtreatment.gov](https://findtreatment.gov/) is free and government-maintained. It helps you find licensed providers by location and specialty, including those offering telehealth. Psychology Today's therapist finder has a telehealth filter too. Our article on [how to find the right therapist](/how-to-find-a-therapist/) covers additional factors beyond just credentials.
 
 **Step 4: Book a consultation.**
 Most therapists offer a free 15 to 20-minute phone or video consultation. Use it. Ask about their experience with your specific issue, their theoretical approach, and their openness. Fit matters as much as credentials.
@@ -106,7 +106,7 @@ Many private plans now cover telehealth mental health services at parity with in
 
 If you're uninsured or underinsured, community mental health centers often offer telehealth on a sliding scale. Some university training clinics now run telehealth with lower-cost sessions supervised by experienced clinicians. Open Path Collective is a nonprofit network offering reduced fees specifically for underinsured people.
 
-For a full look at how therapy costs are structured across different payment types, our article on [how much therapy costs](/how-much-does-therapy-cost/) covers the range without sugarcoating what most people actually pay.
+For a full look at how therapy costs are structured across different payment types, our article on [how much therapy costs](/how-much-does-therapy-cost-without-insurance/) covers the range without sugarcoating what most people actually pay.
 
 ---
 

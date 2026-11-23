@@ -38,7 +38,7 @@ The nine questions map directly to the DSM criteria for major depressive disorde
 
 The interactive tool below works exactly like the real questionnaire. Read each question carefully. Select the response that matches how you've felt over the **last two weeks**. Be honest. There's no scoring trick here.
 
-Question 9 asks about [thoughts of death or self-harm](/anxiety-screening/). Pay attention to it. If you pick anything other than "Not at all," crisis resources will appear immediately. Use them if you need to.
+Question 9 asks about thoughts of death or self-harm. Pay attention to it. If you pick anything other than "Not at all," crisis resources will appear immediately. Use them if you need to.
 
 When you finish all nine questions, hit the button to see your score. You'll get your total, a severity category, and what comes next.
 
@@ -60,7 +60,7 @@ Your score is a conversation starter, not a final answer. Here's what each range
 
 **Mild (5-9):** Mild distress or situational stress showing up. Self-care, watchful waiting, and a check-in with your doctor usually work here.
 
-**Moderate (10-14):** This is where clinical guidelines say active treatment helps. Therapy, medication, or both. [Finding a therapist](/find-therapist/) is a solid first move.
+**Moderate (10-14):** This is where clinical guidelines say active treatment helps. Therapy, medication, or both. Finding a therapist is a solid first move.
 
 **Moderately severe (15-19) or severe (20-27):** You're dealing with significant distress. Professional evaluation and treatment aren't optional. If you're already working with someone, show them these results. If not, reach out to a mental health professional soon.
 
@@ -70,7 +70,7 @@ Thoughts of suicide or self-harm don't wait for a score. Call or text 988 immedi
 
 ## Next Steps After Screening
 
-If your results point toward professional support, you have more paths than you probably think. Many therapists charge on a sliding scale. Telehealth lets you work from home. Our guide to [finding a therapist](/find-therapist/) walks you through the options, what a first appointment looks like, and which type of therapy might fit your situation. Treatment for depression works. Making the call is the hardest part.
+If your results point toward professional support, you have more paths than you probably think. Many therapists charge on a sliding scale. Telehealth lets you work from home. Our guide to finding a therapist walks you through the options, what a first appointment looks like, and which type of therapy might fit your situation. Treatment for depression works. Making the call is the hardest part.
 
 *This content is provided for informational and educational purposes only. It does not constitute medical advice and is not a substitute for professional mental health care. Always discuss screening results with a qualified healthcare provider.*
 

@@ -97,7 +97,7 @@ Beyond individual private-pay therapists exists an entire tier of services most 
 | Online therapy platforms | Varies by plan | Often $60 to $100/week; subscription model |
 | EAP (through employer) | Free (3 to 8 sessions) | Check with HR; often overlooked |
 
-One honest note about [online therapy platforms](/best-online-therapy-platforms-2026/): the research on their effectiveness is still developing, and they work better for some conditions and some people than others. They're particularly useful for mild to moderate anxiety and depression, for people in areas with limited local options, and for people whose schedules don't allow in-person appointments. They're generally not the right fit for people in acute crisis, those dealing with severe mental illness, or anyone needing medication management.
+One honest note about [online therapy platforms](/best-online-therapy-platforms/): the research on their effectiveness is still developing, and they work better for some conditions and some people than others. They're particularly useful for mild to moderate anxiety and depression, for people in areas with limited local options, and for people whose schedules don't allow in-person appointments. They're generally not the right fit for people in acute crisis, those dealing with severe mental illness, or anyone needing medication management.
 
 ---
 

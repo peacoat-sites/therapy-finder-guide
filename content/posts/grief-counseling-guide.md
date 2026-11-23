@@ -60,7 +60,7 @@ Grief counseling isn't one-size-fits-all. Different therapeutic approaches work 
 
 **Complicated Grief Treatment (CGT):** Developed specifically for PGD, this is a structured, evidence-based protocol running about 16 sessions. It borrows from both CBT and interpersonal therapy. Research from Columbia University found it outperformed standard CBT for complicated grief specifically.
 
-**EMDR (Eye Movement Desensitization and Reprocessing):** Often linked to trauma work, EMDR is increasingly used for grief, especially when the loss was sudden, violent, or involved witnessing something traumatic. You can read more about [how EMDR therapy works](/emdr-therapy-explained/) if that's relevant to what you've experienced.
+**EMDR (Eye Movement Desensitization and Reprocessing):** Often linked to trauma work, EMDR is increasingly used for grief, especially when the loss was sudden, violent, or involved witnessing something traumatic. You can read more about [how EMDR therapy works](/emdr-phases-explained/) if that's relevant to what you've experienced.
 
 **Acceptance and Commitment Therapy (ACT):** Instead of fighting painful emotions, ACT teaches you to accept them while reconnecting with what actually matters in your life, even while grieving.
 
@@ -82,7 +82,7 @@ Finding a therapist when you're already exhausted by grief is genuinely hard. He
 
 **Step 5: Ask one or two key questions in the first call.** You don't need to grill someone like you're hiring a CEO, but it's reasonable to ask: "What's your approach to working with grief?" and "Have you worked with losses similar to mine?" Trust your gut on how they respond.
 
-**Step 6: Give it at least three sessions before deciding it's not working.** The first session is mostly information gathering. The second and third are when you start to get a real sense of the fit. Our guide to [finding the right therapist](/how-to-find-the-right-therapist/) has more on evaluating fit over time.
+**Step 6: Give it at least three sessions before deciding it's not working.** The first session is mostly information gathering. The second and third are when you start to get a real sense of the fit. Our guide to [finding the right therapist](/how-to-find-a-therapist/) has more on evaluating fit over time.
 
 ## Grief Counseling for Specific Situations
 

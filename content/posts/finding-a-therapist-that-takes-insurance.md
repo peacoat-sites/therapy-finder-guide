@@ -70,7 +70,7 @@ Once you know your plan details, you have several concrete search options beyond
 
 **Open Path Collective** at openpathcollective.org isn't an insurance tool, but it's worth knowing about: it connects people with therapists who offer reduced-rate sessions between $30 and $80 for those who don't have or can't use insurance. That's a real alternative if your insurance search stalls.
 
-**Your employer's EAP ([Employee Assistance Program](/how-to-find-affordable-therapy-near-me/))**, if you have one, is frequently overlooked. EAPs typically offer three to eight free sessions with a therapist at no cost and no deductible, completely separate from your health insurance. This is often the fastest way to get in front of someone qualified while you continue searching for a longer-term therapist.
+**Your employer's EAP ([Employee Assistance Program](/how-to-find-an-affordable-therapist-near-me/))**, if you have one, is frequently overlooked. EAPs typically offer three to eight free sessions with a therapist at no cost and no deductible, completely separate from your health insurance. This is often the fastest way to get in front of someone qualified while you continue searching for a longer-term therapist.
 
 ## How to Vet a Therapist Once You Find One
 

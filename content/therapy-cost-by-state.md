@@ -48,7 +48,7 @@ The ranges are typical self-pay rates for a standard 45 to 60 minute individual 
 - **Low-cost states are often low-supply states.** Mississippi and West Virginia have some of the country's lowest session rates and also some of its worst therapist-to-population ratios. PSYPACT membership helps both: all three of the cheapest states in the table are members, so residents can also shop the wider compact market.
 - **Listed price is the ceiling, not the floor.** Roughly half of private-practice therapists offer sliding-scale spots. Our guide to [free and low-cost therapy options](/free-or-low-cost-therapy-options/) covers how to ask, and training clinics routinely run $30 to $60 in even the priciest metros.
 
-If you want to translate a range into your actual annual number for weekly, biweekly, or monthly sessions, the [therapy cost calculator](/therapy-cost-calculator/) does that math, and the full breakdown of what drives pricing is in [how much therapy costs](/how-much-does-therapy-cost/).
+If you want to translate a range into your actual annual number for weekly, biweekly, or monthly sessions, the [therapy cost calculator](/therapy-cost-calculator/) does that math, and the full breakdown of what drives pricing is in [how much therapy costs](/how-much-does-therapy-cost-without-insurance/).
 
 ## Deciding between local and cross-state care
 

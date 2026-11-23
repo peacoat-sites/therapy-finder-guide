@@ -60,7 +60,7 @@ CBT isn't one fixed technique. It's a family of approaches, and the worksheets r
 
 **Thought records** are the classic starting point. Start here if you're only going to use one tool.
 
-**Behavioral activation worksheets** get used a lot in [CBT for depression](/cbt-vs-dbt-therapy-what-is-the-difference/). They track what you're doing each day alongside your mood, helping you spot which activities actually lift your energy and which ones drain it. Sounds simple. In practice, people are consistently surprised by what they find.
+**Behavioral activation worksheets** get used a lot in [CBT for depression](/cbt-vs-dbt-whats-the-difference/). They track what you're doing each day alongside your mood, helping you spot which activities actually lift your energy and which ones drain it. Sounds simple. In practice, people are consistently surprised by what they find.
 
 **Worry logs and postponement worksheets** work well for anxiety. The idea is that you write down a worry, schedule a specific time to "worry about it," then return your attention to the present. The research on this technique is reasonably solid, particularly for generalized anxiety.
 

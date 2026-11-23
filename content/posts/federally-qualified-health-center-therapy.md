@@ -31,7 +31,7 @@ You're reading about Federally Qualified Health Centers because you need help an
 
 An FQHC is a community health clinic that gets federal funding through the Health Center Program, run by the Health Resources and Services Administration (HRSA). There are roughly 1,400 FQHCs running more than 14,000 service sites across the U.S., specifically built for people the standard healthcare system leaves behind: uninsured patients, underinsured patients, people on Medicaid, rural residents, people experiencing homelessness.
 
-The thing that actually matters is the [sliding fee scale](/therapy-sliding-scale-fees/). Federal law requires FQHCs to charge you based on your income and family size, tied to the Federal Poverty Level. Nobody gets turned away for not being able to pay full price. For some patients, that means a few dollars per visit. For others, it's nothing.
+The thing that actually matters is the [sliding fee scale](/sliding-scale-therapy-how-does-it-work/). Federal law requires FQHCs to charge you based on your income and family size, tied to the Federal Poverty Level. Nobody gets turned away for not being able to pay full price. For some patients, that means a few dollars per visit. For others, it's nothing.
 
 Mental health services, including individual therapy, are something FQHCs have to offer. Not every location has every specialty, but integrated behavioral health is standard now. You might see a licensed clinical social worker, a licensed professional counselor, or a psychologist depending on the site.
 
@@ -95,11 +95,11 @@ FQHCs have one real advantage: they're integrated medical clinics. If your depre
 
 ---
 
-The system isn't built for people who need [affordable mental health care](/how-much-does-therapy-cost/), and lying about that helps nobody. FQHCs work because they're legally required to serve you no matter what you can pay. The only thing standing between "I should probably talk to someone" and actually sitting across from a therapist is logistics. You've got those now.
+The system isn't built for people who need [affordable mental health care](/how-much-does-therapy-cost-without-insurance/), and lying about that helps nobody. FQHCs work because they're legally required to serve you no matter what you can pay. The only thing standing between "I should probably talk to someone" and actually sitting across from a therapist is logistics. You've got those now.
 
 ---
 
-*This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the [988 Suicide and Crisis Lifeline](/how-to-find-affordable-therapy-near-me/) (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
+*This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the [988 Suicide and Crisis Lifeline](/how-to-find-an-affordable-therapist-near-me/) (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
 

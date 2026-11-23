@@ -37,7 +37,7 @@ A psychiatrist named Aaron Beck developed it in the 1960s while treating depress
 
 It's now probably the most researched form of psychotherapy ever. The American Psychological Association recommends it for depression, anxiety disorders, PTSD, OCD, eating disorders, substance use issues. That long list isn't marketing hype. It reflects decades of randomized controlled trials across different populations.
 
-What sets it apart from [older talk therapies](/psychodynamic-therapy-vs-cbt/) is its laser focus. CBT stays present-centered and goal-oriented. You're not excavating your childhood for months. You're targeting specific, concrete problems happening right now, with a defined toolkit.
+What sets it apart from [older talk therapies](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) is its laser focus. CBT stays present-centered and goal-oriented. You're not excavating your childhood for months. You're targeting specific, concrete problems happening right now, with a defined toolkit.
 
 ## The Core Model: Thoughts, Feelings, and Behaviors
 
@@ -78,7 +78,7 @@ Most CBT runs 12 to 20 sessions, though it varies. A simple phobia might resolve
 |---|---|---|
 | Thought Records | Distorted thinking, anxiety, depression | You write the situation, automatic thought, emotion, evidence for/against, and a more balanced alternative thought |
 | Behavioral Activation | Depression, low motivation | Schedule small, doable activities to break the withdrawal-depression cycle |
-| [Exposure and Response Prevention](/cbt-vs-dbt-therapy-what-is-the-difference/) (ERP) | OCD, phobias, anxiety disorders | Gradual, structured exposure to feared situations while resisting compulsive or avoidant responses |
+| [Exposure and Response Prevention](/cbt-vs-dbt-whats-the-difference/) (ERP) | OCD, phobias, anxiety disorders | Gradual, structured exposure to feared situations while resisting compulsive or avoidant responses |
 | Cognitive Restructuring | General negative thinking patterns | Identify distortions (catastrophizing, all-or-nothing thinking) and build more realistic appraisals |
 | Relaxation Training | Physical anxiety symptoms, insomnia | Diaphragmatic breathing and progressive muscle relaxation to calm your nervous system |
 | Behavioral Experiments | Testing unhelpful beliefs | Design a small real-world test of a belief (like "If I speak up, people will judge me") and see what actually happens |

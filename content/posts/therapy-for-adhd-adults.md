@@ -80,7 +80,7 @@ If you were diagnosed with ADHD as an adult, you probably spent years being misl
 
 Therapy is one of the few spaces where you can actually process that history. Not just manage symptoms, but make sense of why you developed certain coping strategies, why your relationships have followed certain patterns, why you've avoided certain careers or opportunities. For example, what looks like procrastination might be an avoidance pattern built around fear of failure, sometimes rooted in earlier experiences of embarrassment or shame.
 
-If there's a trauma component in your history, EMDR therapy is worth knowing about. Trauma and ADHD co-occur at higher-than-chance rates, and EMDR has strong evidence for processing traumatic memories in ways that talk therapy alone sometimes can't reach. Our article on [EMDR therapy explained](/emdr-therapy-explained/) covers the basics in plain language.
+If there's a trauma component in your history, EMDR therapy is worth knowing about. Trauma and ADHD co-occur at higher-than-chance rates, and EMDR has strong evidence for processing traumatic memories in ways that talk therapy alone sometimes can't reach. Our article on [EMDR therapy explained](/emdr-phases-explained/) covers the basics in plain language.
 
 Anger is another area that often gets overlooked in ADHD treatment. Impulsive anger, the kind that flares and passes fast but leaves damage in its wake, is a documented feature of ADHD for many adults. Targeted [anger management therapy](/anger-management-therapy/) can work well alongside a core ADHD treatment plan.
 
@@ -97,7 +97,7 @@ When you're searching, look for therapists who:
 
 [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by specialty, insurance, and location, which makes initial screening much less overwhelming. If cost or insurance access is a barrier, [SAMHSA's treatment locator at findtreatment.gov](https://findtreatment.gov/) connects people with community mental health resources, including sliding-scale and low-cost options.
 
-For the full walkthrough, [how to find the right therapist](/how-to-find-the-right-therapist/) covers what questions to ask, red flags to watch for, and how to make the most of a first consultation. And if you're concerned about coverage and out-of-pocket costs, [understanding whether insurance covers therapy](/does-insurance-cover-therapy/) will give you clarity on how that works.
+For the full walkthrough, [how to find the right therapist](/how-to-find-a-therapist/) covers what questions to ask, red flags to watch for, and how to make the most of a first consultation. And if you're concerned about coverage and out-of-pocket costs, [understanding whether insurance covers therapy](/does-insurance-cover-therapy/) will give you clarity on how that works.
 
 A few ADHD-specific tools can also support what you're doing in therapy. Structured journals designed around CBT principles, like the [Cognitive Behavioral Therapy Workbook for Adults](https://www.amazon.com/s?k=CBT+workbook+for+adults+ADHD) (Amazon, and yes, this site may earn a small commission on purchases), give you a between-session anchor. Mindfulness apps like Headspace or Calm can reinforce the distress tolerance skills you build in DBT-based work. They're not replacements for therapy, but they help you practice.
 

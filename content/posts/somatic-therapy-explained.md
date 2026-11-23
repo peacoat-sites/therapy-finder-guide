@@ -35,7 +35,7 @@ Somatic therapy is an umbrella term for therapeutic approaches that treat the bo
 
 This differs sharply from [traditional talk therapies](/cognitive-behavioral-therapy-explained/), which work primarily "top-down," meaning from the thinking brain downward. Somatic approaches work "bottom-up," starting with physical sensation and moving toward cognitive understanding. Neither is universally better. They're often most powerful when combined.
 
-The umbrella covers several distinct modalities. Somatic Experiencing (SE), developed by Dr. Peter Levine, focuses on tracking bodily sensations and completing interrupted stress responses. Sensorimotor Psychotherapy integrates sensory and motor processing with psychological insight. The Hakomi Method uses mindfulness and gentle physical experiments to access unconscious material. EMDR, while sometimes categorized separately, shares significant overlap by engaging the body during trauma processing. If you want to understand how EMDR specifically works, [this explanation of EMDR therapy](/emdr-therapy-explained/) lays it out clearly.
+The umbrella covers several distinct modalities. Somatic Experiencing (SE), developed by Dr. Peter Levine, focuses on tracking bodily sensations and completing interrupted stress responses. Sensorimotor Psychotherapy integrates sensory and motor processing with psychological insight. The Hakomi Method uses mindfulness and gentle physical experiments to access unconscious material. EMDR, while sometimes categorized separately, shares significant overlap by engaging the body during trauma processing. If you want to understand how EMDR specifically works, [this explanation of EMDR therapy](/emdr-phases-explained/) lays it out clearly.
 
 These aren't fringe approaches. Research published in journals like the *Journal of Traumatic Stress* has supported somatic interventions for PTSD, anxiety, and chronic pain. The National Alliance on Mental Illness (NAMI) acknowledges body-based therapies as part of evidence-informed mental health care at [nami.org](https://www.nami.org/).
 
@@ -91,11 +91,11 @@ Here are practical steps:
 
 **Step 3: Ask direct questions.** When you contact a potential therapist, ask: "What somatic training have you completed? How many hours? Do you use a specific model?" A well-trained practitioner will answer confidently and specifically.
 
-**Step 4: Consider cost and insurance early.** Many somatic therapists are in private practice and don't take insurance. This is a real barrier. Check out [how therapy costs are structured](/how-much-does-therapy-cost/) and [whether insurance covers therapy options](/does-insurance-cover-therapy/) to understand your options before you fall in love with a therapist who's out of reach financially.
+**Step 4: Consider cost and insurance early.** Many somatic therapists are in private practice and don't take insurance. This is a real barrier. Check out [how therapy costs are structured](/how-much-does-therapy-cost-without-insurance/) and [whether insurance covers therapy options](/does-insurance-cover-therapy/) to understand your options before you fall in love with a therapist who's out of reach financially.
 
 **Step 5: Try a consultation session.** Most therapists offer a 15-20 minute free consultation. Use it. Notice how you feel in their presence. Somatic work, especially, depends on a sense of safety with your therapist.
 
-For those doing this search for the first time, the broader guide on [how to find the right therapist](/how-to-find-the-right-therapist/) is a solid starting point.
+For those doing this search for the first time, the broader guide on [how to find the right therapist](/how-to-find-a-therapist/) is a solid starting point.
 
 Between sessions, some people find it helpful to use supportive tools for body awareness and self-regulation. Mindfulness and body-scan workbooks, like the well-reviewed [Body Keeps the Score Workbook](https://www.amazon.com/s?k=somatic+therapy+workbook) or guided mindfulness journals available on Amazon, can complement professional work. This site may earn a small commission from qualifying purchases, and these tools are meant to supplement, not replace, professional care.
 

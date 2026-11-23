@@ -25,7 +25,7 @@ faqs:
     a: "Ask them directly for their license number and state of licensure, then verify it on your state's professional licensing board website. All U.S. states have a searchable public database for licensed mental health professionals. Any legitimate therapist will give you this information without hesitation."
 ---
 
-Therapy apps are genuinely useful for some people and genuinely insufficient for others. That distinction matters more than any feature comparison, so let's start there: if you're managing a diagnosed condition like bipolar disorder, experiencing psychosis, or in acute crisis, an app is not a substitute for clinical care. Full stop. For everyone else, the right app can bridge gaps [between sessions](/your-patients-are-using-ai-between-sessions-now-what/), build skills, or serve as a first step when in-person therapy feels too expensive or too far away.
+Therapy apps are genuinely useful for some people and genuinely insufficient for others. That distinction matters more than any feature comparison, so let's start there: if you're managing a diagnosed condition like bipolar disorder, experiencing psychosis, or in acute crisis, an app is not a substitute for clinical care. Full stop. For everyone else, the right app can bridge gaps [between sessions](/your-therapist-knows-youre-using-ai-between-sessions/), build skills, or serve as a first step when in-person therapy feels too expensive or too far away.
 
 The market has expanded dramatically. BetterHelp, Talkspace, Headspace, Calm, Woebot, and a dozen others compete for the same users, and their differences are significant enough that picking the wrong one wastes both money and motivation.
 
@@ -59,7 +59,7 @@ Prices shift. Confirm current rates directly on each app's pricing page before s
 
 The honest decision rule: if you want to talk to a licensed therapist, use BetterHelp or Talkspace, then verify credentials in your state's licensing database. If you want to build a mindfulness practice or manage everyday stress, Headspace or Calm will serve you well. If you want structured CBT exercises without paying for therapy, Sanvello or Woebot are worth trying.
 
-One thing the app comparison articles rarely mention: therapist quality on live [therapy platforms](/best-online-therapy-platforms-2026/) varies considerably. BetterHelp has faced criticism about its matching algorithm and therapist vetting, and Talkspace has had its own controversies around therapist compensation affecting retention. Neither is a dealbreaker, but they're reasons to treat the first match as provisional. Both platforms let you switch therapists. Use that option if the fit is poor, ideally within the first two weeks.
+One thing the app comparison articles rarely mention: therapist quality on live [therapy platforms](/best-online-therapy-platforms/) varies considerably. BetterHelp has faced criticism about its matching algorithm and therapist vetting, and Talkspace has had its own controversies around therapist compensation affecting retention. Neither is a dealbreaker, but they're reasons to treat the first match as provisional. Both platforms let you switch therapists. Use that option if the fit is poor, ideally within the first two weeks.
 
 If you need a broader search, [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists) lets you filter by insurance, specialty, and telehealth availability, and includes therapists who work outside any single platform.
 

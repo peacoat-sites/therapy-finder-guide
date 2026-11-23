@@ -55,7 +55,7 @@ This is one of the most well-researched modalities for trauma, particularly for 
 
 **EMDR (Eye Movement Desensitization and Reprocessing)**
 
-EMDR might sound unusual. You recall traumatic memories while following a therapist's finger movements or other bilateral stimulation. But the research is substantial. The World Health Organization recommends EMDR as a front-line treatment for PTSD, and multiple clinical trials have shown it can reduce trauma symptoms significantly, often in fewer sessions than traditional talk therapy. Our [EMDR therapy explained guide](/emdr-therapy-explained/) walks through how this actually works.
+EMDR might sound unusual. You recall traumatic memories while following a therapist's finger movements or other bilateral stimulation. But the research is substantial. The World Health Organization recommends EMDR as a front-line treatment for PTSD, and multiple clinical trials have shown it can reduce trauma symptoms significantly, often in fewer sessions than traditional talk therapy. Our [EMDR therapy explained guide](/emdr-phases-explained/) walks through how this actually works.
 
 **Somatic Experiencing**
 
@@ -84,7 +84,7 @@ Finding the right therapist is one of the most practical hurdles people face. It
 
 That last question matters a lot. Good trauma therapy almost never starts with diving straight into the painful details. A skilled trauma therapist will spend the early phase building what's called a "therapeutic alliance" and teaching you stabilization and grounding techniques first. If a therapist pushes you to detail traumatic events in session one with no preparation, that's a red flag.
 
-For step-by-step guidance on the search itself, our article on [how to find the right therapist](/how-to-find-the-right-therapist/) walks through the process. SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) also lets you search by location and specialty, including trauma-focused providers.
+For step-by-step guidance on the search itself, our article on [how to find the right therapist](/how-to-find-a-therapist/) walks through the process. SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) also lets you search by location and specialty, including trauma-focused providers.
 
 ---
 

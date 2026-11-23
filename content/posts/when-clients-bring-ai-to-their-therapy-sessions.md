@@ -58,7 +58,7 @@ This matters for therapists, not because they're liable for what a chatbot said 
 
 The APA published guidance alongside the survey, specifically a resource on discussing AI use in therapy, also released June 16, 2026. The core recommendation is direct: ask. Make AI use a standard part of intake and ongoing assessment, the way you'd ask about medication or substance use. Not with alarm, with genuine clinical curiosity.
 
-A useful framing might be: "Some people have been using AI tools [between sessions](/your-patients-are-using-ai-between-sessions-now-what/) or before starting therapy. Have you? I'm not judging it, I just want to understand your experience." That question can reveal information about the client's expectations, their self-concept, their attachment patterns, and what narratives they brought to therapy.
+A useful framing might be: "Some people have been using AI tools [between sessions](/your-therapist-knows-youre-using-ai-between-sessions/) or before starting therapy. Have you? I'm not judging it, I just want to understand your experience." That question can reveal information about the client's expectations, their self-concept, their attachment patterns, and what narratives they brought to therapy.
 
 When a client has been using a chatbot heavily, the therapeutic work often includes some gentle deconstruction of the AI-generated narrative, not by dismissing the client's experience, but by helping them hold it more loosely. The chatbot's label isn't the truth. It's a starting point, and often an imprecise one.
 

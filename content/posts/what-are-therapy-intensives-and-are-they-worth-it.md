@@ -14,7 +14,7 @@ slug: "what-are-therapy-intensives-and-are-they-worth-it"
 affiliate_disclosure: true
 ---
 
-The coverage of therapy intensives you'll [find right](/how-to-find-the-right-therapist/) now focuses almost entirely on whether they're "right for you," which is useful advice buried under a fog of vague optimism. The more honest question is structural: why are they exploding in 2026 specifically, what do they actually cost and deliver, and when are they genuinely the better option versus when are they just an expensive detour?
+The coverage of therapy intensives you'll [find right](/how-to-find-a-therapist/) now focuses almost entirely on whether they're "right for you," which is useful advice buried under a fog of vague optimism. The more honest question is structural: why are they exploding in 2026 specifically, what do they actually cost and deliver, and when are they genuinely the better option versus when are they just an expensive detour?
 
 Here's the short version. Waitlists for traditional weekly therapy remain brutally long in most U.S. cities. Summer opens up unstructured time for a lot of adults and families. And the profession itself is openly rethinking delivery models. SimplePractice's 2026 industry trends report names therapy intensives as one of six major forces reshaping the field, alongside AI and VR integration. That's not a niche wellness trend anymore. That's a structural shift in how [mental health care](/medicaid-cuts-are-coming-for-mental-health-care-now-what/) gets delivered.
 

@@ -40,7 +40,7 @@ Let's do the practical stuff first, because almost no one talks about it and the
 
 Your insurance card, if you're using insurance. A photo ID. Any intake forms the practice sent you (most will email these ahead of time now; if you haven't gotten them by two days before your appointment, call the office, because the administrative delay is often where things break down). If you're on any psychiatric medications, or even medications that affect your mood or sleep, write them down with dosages. Your therapist isn't your prescriber, but that information matters for the full picture.
 
-Many practices have you fill out a PHQ-9 (a standardized nine-question [depression screening](/depression-screening/)) and a GAD-7 (anxiety screening) right there in the waiting room before you've even met anyone. Your scores go in your chart. It sounds clinical and cold, but knowing this ahead of time means you won't be blindsided by a clipboard full of questions about suicidal ideation before you've had a chance to sit down. It's routine. It doesn't mean they already think something is wrong with you.
+Many practices have you fill out a PHQ-9 (a standardized nine-question depression screening) and a GAD-7 (anxiety screening) right there in the waiting room before you've even met anyone. Your scores go in your chart. It sounds clinical and cold, but knowing this ahead of time means you won't be blindsided by a clipboard full of questions about suicidal ideation before you've had a chance to sit down. It's routine. It doesn't mean they already think something is wrong with you.
 
 You don't need a diagnosis. You don't need a clear reason. You don't need notes, a symptom timeline, or a prepared speech.
 

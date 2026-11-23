@@ -28,7 +28,7 @@ Anxiety is the most common mental health challenge in the United States, affecti
 
 ## About the GAD-7 Screening Questionnaire
 
-Dr. Robert Spitzer and colleagues created the GAD-7 and published it in 2006 in the Archives of Internal Medicine. Think of it as the anxiety equivalent of the [PHQ-9 for depression](/depression-screening/), designed to help overworked primary care doctors quickly spot patients who need a closer look. It's now used globally in clinics, research, and public health programs.
+Dr. Robert Spitzer and colleagues created the GAD-7 and published it in 2006 in the Archives of Internal Medicine. Think of it as the anxiety equivalent of the PHQ-9 for depression, designed to help overworked primary care doctors quickly spot patients who need a closer look. It's now used globally in clinics, research, and public health programs.
 
 The seven questions assess what generalized anxiety disorder actually looks like: excessive worrying, trouble shutting your brain off, restlessness, fatigue, concentration problems, irritability, and physical tension. You rate how often you've felt each symptom over the past two weeks. Scores range from 0 to 21, broken into mild (5-9), moderate (10-14), and severe (15-21).
 
@@ -51,7 +51,7 @@ Answer each of the seven questions below as honestly as you can, reflecting on h
 
 Your GAD-7 score gives you and your healthcare provider a shared language for talking about anxiety. Here's what the ranges mean:
 
-**Minimal (0-4):** You're not dealing with much. Stress and worry at this level usually don't interfere with how you function. Check in with yourself now and then, maybe try some [mindfulness or relaxation work](/cognitive-behavioral-therapy-techniques-for-anxiety/) if things feel tight.
+**Minimal (0-4):** You're not dealing with much. Stress and worry at this level usually don't interfere with how you function. Check in with yourself now and then, maybe try some mindfulness or relaxation work if things feel tight.
 
 **Mild (5-9):** Some anxiety is showing up, but you might manage it with self-care, lifestyle tweaks, and support from people you trust. Chat with your doctor if symptoms stick around or get worse.
 
@@ -63,7 +63,7 @@ Your GAD-7 score gives you and your healthcare provider a shared language for ta
 
 A moderate or severe score means it's time to talk to someone qualified to do a real assessment and figure out what might help. Anxiety treatment comes in several flavors: cognitive-behavioral therapy, acceptance and commitment therapy, exposure therapy, medication, or combinations depending on what fits your situation.
 
-Our [guide to finding a therapist](/find-therapist/) walks you through what to look for, what a first session actually looks like, and how to handle the logistics, insurance, cost, whether you need a referral. Most therapists don't require referrals, and plenty do telehealth now.
+Our guide to finding a therapist walks you through what to look for, what a first session actually looks like, and how to handle the logistics, insurance, cost, whether you need a referral. Most therapists don't require referrals, and plenty do telehealth now.
 
 Anxiety is treatable. Millions of people have gotten real relief through therapy. You can too.
 

@@ -31,7 +31,7 @@ Most people spend more time researching a new laptop than they spend researching
 
 The sticker price is real. A standard therapy session with a licensed private-practice clinician runs anywhere from $100 to $300 per hour in most U.S. cities, and that number genuinely excludes a lot of people. But "private-practice, full fee" is only one option on a much longer list, and it's usually the only one people see because it's the most visible.
 
-What most coverage misses: the mental health care system is layered. Community mental health centers operate on [sliding-scale fees](/how-to-find-a-therapist-that-takes-my-insurance/). University training clinics charge $0 to $30 per session. Employer assistance programs cover sessions most employees never touch. Online platforms undercut traditional costs significantly. None of these are secret. They're just not marketed the way private therapists are.
+What most coverage misses: the mental health care system is layered. Community mental health centers operate on [sliding-scale fees](/finding-a-therapist-that-takes-insurance/). University training clinics charge $0 to $30 per session. Employer assistance programs cover sessions most employees never touch. Online platforms undercut traditional costs significantly. None of these are secret. They're just not marketed the way private therapists are.
 
 Many people assume they can't afford therapy without researching options, while others end up paying premium rates when comparable care is available at a fraction of the cost. The difference was almost always information, not income.
 

@@ -35,7 +35,7 @@ EMDR stands for Eye Movement Desensitization and Reprocessing. Psychologist Fran
 
 Here's the core idea: when a traumatic or deeply distressing experience happens, the brain sometimes fails to process it the way it handles ordinary memories. The event gets stored in a raw, unintegrated form, complete with the original sensory details, emotions, and physical sensations. Years later, something triggers that stored memory, and the nervous system reacts as though the event is happening right now. EMDR's job is to help the brain reprocess that stuck memory so it becomes something more like a normal autobiographical memory: something that happened, rather than something still happening.
 
-It's not hypnosis. You're awake, aware, and in control throughout. You don't have to narrate every detail of a traumatic event out loud, which is one reason people who can't tolerate traditional [exposure-based approaches](/cbt-vs-dbt-therapy-what-is-the-difference/) sometimes do better with EMDR.
+It's not hypnosis. You're awake, aware, and in control throughout. You don't have to narrate every detail of a traumatic event out loud, which is one reason people who can't tolerate traditional [exposure-based approaches](/cbt-vs-dbt-whats-the-difference/) sometimes do better with EMDR.
 
 ---
 

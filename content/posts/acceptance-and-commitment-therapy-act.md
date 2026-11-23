@@ -44,7 +44,7 @@ ACT (you pronounce it like the word "act," not the letters) is a form of psychot
 
 Here's what separates ACT from most therapy you've probably heard of: it doesn't ask you to argue with negative thoughts or swap them for positive ones. Instead, it says painful thoughts and feelings are just part of being human, and you're going to take meaningful action based on your values anyway. The goal isn't to feel better. It's to live better, even when you don't feel great.
 
-That's pretty different from Cognitive Behavioral Therapy, which zeroes in on finding distorted thoughts and restructuring them. If you want to see how these two compare directly, our guide on [psychodynamic therapy vs CBT](/psychodynamic-therapy-vs-cbt/) gives some helpful perspective on the bigger therapy landscape. ACT and CBT are cousins, but they split in different directions. You're not arguing with your brain. You're learning how to carry it.
+That's pretty different from Cognitive Behavioral Therapy, which zeroes in on finding distorted thoughts and restructuring them. If you want to see how these two compare directly, our guide on [psychodynamic therapy vs CBT](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) gives some helpful perspective on the bigger therapy landscape. ACT and CBT are cousins, but they split in different directions. You're not arguing with your brain. You're learning how to carry it.
 
 ## The Six Core Processes of ACT
 
@@ -82,7 +82,7 @@ Some of the most studied uses:
 - **Depression:** Instead of waiting to feel motivated, ACT encourages small, values-based actions that build momentum.
 - **Chronic pain:** ACT has particularly strong evidence here. People build meaningful lives despite ongoing physical discomfort.
 - **OCD:** Increasingly used with Exposure and Response Prevention (ERP) to weaken the grip of obsessive thoughts.
-- **PTSD:** Sometimes paired with or used instead of trauma-focused approaches like [EMDR therapy](/emdr-therapy-explained/).
+- **PTSD:** Sometimes paired with or used instead of trauma-focused approaches like [EMDR therapy](/emdr-phases-explained/).
 - **Eating disorders and substance use:** Acceptance-based work can interrupt the shame spirals that trigger relapse.
 
 If anger's a big part of what you're navigating, note that ACT principles show up in some [anger management therapy](/anger-management-therapy/) programs too, since a lot of anger comes from trying to avoid the pain underneath.
@@ -121,7 +121,7 @@ If you want structured exercises to do between sessions, *The Happiness Trap* by
 
 Not every therapist listing ACT on their profile actually knows it well. The Association for Contextual Behavioral Science (ACBS) keeps a therapist directory at contextualscience.org, which is a solid starting point for someone genuinely trained.
 
-More broadly, our guide on [how to find the right therapist](/how-to-find-the-right-therapist/) walks you through the whole vetting process, including what to ask on that first call. You might ask directly: "How do you typically use ACT in your work?" A good answer names specific processes like defusion or values clarification instead of just calling it "mindfulness-based."
+More broadly, our guide on [how to find the right therapist](/how-to-find-a-therapist/) walks you through the whole vetting process, including what to ask on that first call. You might ask directly: "How do you typically use ACT in your work?" A good answer names specific processes like defusion or values clarification instead of just calling it "mindfulness-based."
 
 Cost can be a real barrier. Before you assume ACT is out of reach, check our breakdown of [does insurance cover therapy](/does-insurance-cover-therapy/). Many insurers cover ACT since it's considered evidence-based. For other options, SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) can help you find lower-cost or sliding-scale providers near you.
 

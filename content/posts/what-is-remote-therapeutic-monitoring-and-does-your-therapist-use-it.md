@@ -38,7 +38,7 @@ The 2026 rule introduced three CPT codes relevant to mental health RTM. Two are 
 
 The management time floor dropped too. The original treatment management codes required at least 20 minutes of provider time per month. The new 98979 code requires only 10 minutes. For a private-practice therapist seeing 20 clients, that's a meaningful difference in what's actually achievable.
 
-According to Limber Health's May 2026 billing guide, the 2026 conversion factor for RTM services sits at $33.40 for non-APM providers. That's not life-changing money per client, but it's enough to justify the administrative overhead for practices that [are already using](/your-patients-are-already-using-ai-chatbots-in-therapy/) digital tools.
+According to Limber Health's May 2026 billing guide, the 2026 conversion factor for RTM services sits at $33.40 for non-APM providers. That's not life-changing money per client, but it's enough to justify the administrative overhead for practices that [are already using](/your-therapist-knows-youre-using-ai-between-sessions/) digital tools.
 
 | CPT Code | Purpose | Monthly Data Days Required | Min. Provider Time |
 |---|---|---|---|

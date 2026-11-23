@@ -73,7 +73,7 @@ This isn't a competition. Lots of people do both simultaneously, seeing an indiv
 | Insurance coverage | Widely covered | Usually covered (verify first) |
 | Best for | Deep individual work, trauma processing | Interpersonal issues, isolation, skill-building |
 
-Cost is real. Group therapy is generally cheaper than individual therapy because the therapist's time spreads across several people. If cost or access has been a barrier, our article on [how much therapy costs](/how-much-does-therapy-cost/) and our guide to [finding a therapist that takes insurance](/finding-a-therapist-that-takes-insurance/) can help you map your options.
+Cost is real. Group therapy is generally cheaper than individual therapy because the therapist's time spreads across several people. If cost or access has been a barrier, our article on [how much therapy costs](/how-much-does-therapy-cost-without-insurance/) and our guide to [finding a therapist that takes insurance](/finding-a-therapist-that-takes-insurance/) can help you map your options.
 
 ## How to Find and Start a Therapy Group
 

@@ -69,7 +69,7 @@ A session-by-session look at how this progresses:
 
 **Healthy adult development:** The long-term goal of schema therapy isn't just insight. It's building what Young called the "healthy adult mode," an internal capacity to meet your own emotional needs, set limits with yourself and others, and engage with life from a less defended place.
 
-The typical treatment length is longer than CBT. Realistically, schema therapy often runs 50 to 100+ sessions for complex presentations. For people with borderline personality disorder or significant [childhood trauma](/emdr-therapy-explained/), two to four years isn't unusual. That's a real commitment of time and money, and I'd rather be straight with you about that than have you feel blindsided at session twelve.
+The typical treatment length is longer than CBT. Realistically, schema therapy often runs 50 to 100+ sessions for complex presentations. For people with borderline personality disorder or significant [childhood trauma](/emdr-phases-explained/), two to four years isn't unusual. That's a real commitment of time and money, and I'd rather be straight with you about that than have you feel blindsided at session twelve.
 
 ## Who It's Designed For (and Who It Might Not Suit)
 

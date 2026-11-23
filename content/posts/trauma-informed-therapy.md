@@ -30,7 +30,7 @@ Most people who land on an article like this one have already been sitting with 
 
 Here's what I tell people who come to me with those questions: trauma-informed therapy isn't a single technique or a specific school of thought. It's more like a set of principles that shape how a therapist understands and responds to you, principles that change everything about how the work feels, even when the actual interventions look similar to what you'd find in other types of care.
 
-Finding the [right therapist](/how-to-find-the-right-therapist/) and understanding what to expect matters. People can leave a first session feeling worse than before they arrived, not because the therapist was bad, but because the approach wasn't calibrated for someone carrying a trauma history. That mismatch matters. A lot.
+Finding the [right therapist](/how-to-find-a-therapist/) and understanding what to expect matters. People can leave a first session feeling worse than before they arrived, not because the therapist was bad, but because the approach wasn't calibrated for someone carrying a trauma history. That mismatch matters. A lot.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Trauma-informed therapy is a framework, not a single technique; it shapes how all care is delivered.</li><li style="margin:5px 0">"Big T" and "small t" trauma both qualify; you don't need a dramatic event to benefit.</li><li style="margin:5px 0">EMDR and Somatic Experiencing have strong research backing for trauma specifically.</li><li style="margin:5px 0">A good trauma-informed therapist will never push you to recount details before you're ready.</li><li style="margin:5px 0">SAMHSA's treatment locator can filter specifically for trauma-specialized providers near you.</li></ul></div>
 
@@ -66,7 +66,7 @@ A 2020 study in the *Journal of Traumatic Stress* found that cumulative "small t
 
 ## What to Actually Look for in a Therapist
 
-You're probably wondering how to tell the [difference between](/difference-between-psychologist-psychiatrist-and-therapist/) a therapist who says they're trauma-informed and one who actually is. I made this mistake myself early on. I assumed any therapist would handle this appropriately. They don't.
+You're probably wondering how to tell the [difference between](/therapist-vs-psychologist-vs-psychiatrist/) a therapist who says they're trauma-informed and one who actually is. I made this mistake myself early on. I assumed any therapist would handle this appropriately. They don't.
 
 Some things to ask in a consultation call (which most therapists offer free for 15-20 minutes):
 

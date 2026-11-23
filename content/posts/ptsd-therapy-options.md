@@ -58,7 +58,7 @@ PE means gradually facing trauma-related memories and situations you've been dod
 
 **EMDR Therapy**
 
-Eye Movement Desensitization and Reprocessing looks weird from the outside, which is why it confuses people. A therapist guides you to recall traumatic memories while your eyes follow a moving object or you receive tapping stimulation. The theory: bilateral stimulation helps your brain reprocess the memory the way REM sleep does with daily experiences. The results are documented. Our detailed [EMDR therapy explained](/emdr-therapy-explained/) guide covers exactly how sessions work if you want to understand it first.
+Eye Movement Desensitization and Reprocessing looks weird from the outside, which is why it confuses people. A therapist guides you to recall traumatic memories while your eyes follow a moving object or you receive tapping stimulation. The theory: bilateral stimulation helps your brain reprocess the memory the way REM sleep does with daily experiences. The results are documented. Our detailed [EMDR therapy explained](/emdr-phases-explained/) guide covers exactly how sessions work if you want to understand it first.
 
 All three are recommended by the American Psychological Association and the U.S. Department of Veterans Affairs as first-line PTSD treatments. That endorsement matters.
 
@@ -99,13 +99,13 @@ Knowing which therapy works is step one. Actually finding someone qualified who 
 
 **Step 4: Ask how they approach safety.** A solid trauma therapist won't push you to spill details before you're ready. They'll check your stability, your coping skills, your readiness before diving into trauma work. If a therapist shoves you into deep trauma processing on session one, walk out.
 
-**Step 5: Give it a real shot, but listen to yourself.** Therapeutic alliance, the quality of the relationship with your therapist, predicts good outcomes better than almost anything else. If after 3-4 sessions something consistently feels wrong (not uncomfortable, but genuinely off), it's fine to find someone else. Our piece on [how to find the right therapist](/how-to-find-the-right-therapist/) has real guidance on evaluating fit.
+**Step 5: Give it a real shot, but listen to yourself.** Therapeutic alliance, the quality of the relationship with your therapist, predicts good outcomes better than almost anything else. If after 3-4 sessions something consistently feels wrong (not uncomfortable, but genuinely off), it's fine to find someone else. Our piece on [how to find the right therapist](/how-to-find-a-therapist/) has real guidance on evaluating fit.
 
 ## Crisis, Cost, and Other Practical Realities
 
 PTSD can spiral. Flashbacks, dissociation, the weight of carrying all that trauma. It can push people toward very dark thinking. If you're in crisis right now, call or text the [988 Suicide and Crisis Lifeline](https://988lifeline.org/). It's free, confidential, available 24/7. You don't have to be suicidal to call. Crushing distress is reason enough.
 
-Cost-wise: PTSD therapy costs money, and that's real. Price depends on location, provider type, and insurance. The range is wide. Our [guide on how much therapy costs](/how-much-does-therapy-cost/) gives you an honest picture, including sliding scale options and community mental health centers that charge less.
+Cost-wise: PTSD therapy costs money, and that's real. Price depends on location, provider type, and insurance. The range is wide. Our [guide on how much therapy costs](/how-much-does-therapy-cost-without-insurance/) gives you an honest picture, including sliding scale options and community mental health centers that charge less.
 
 Veterans get CPT and PE free through the VA. Active duty gets coverage through TRICARE. Those are significant resources. Use them if you can.
 

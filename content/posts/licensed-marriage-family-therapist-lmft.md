@@ -42,7 +42,7 @@ The training pipeline is rigorous. A master's degree in marriage and [family the
 
 ## How LMFTs Compare to Other Therapists
 
-I get this question more than almost any other: "What's the actual [difference between](/difference-between-psychologist-psychiatrist-and-therapist/) an LMFT and an LCSW or an LPC?"
+I get this question more than almost any other: "What's the actual [difference between](/therapist-vs-psychologist-vs-psychiatrist/) an LMFT and an LCSW or an LPC?"
 
 In day-to-day practice there's more overlap than the licensing categories suggest. A skilled LCSW can absolutely do couples therapy. An LPC can work with family systems. But the *training emphasis* is different, and that matters when you're picking someone for a specific problem.
 

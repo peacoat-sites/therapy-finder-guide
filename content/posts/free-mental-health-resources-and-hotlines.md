@@ -47,7 +47,7 @@ The [988 Suicide and Crisis Lifeline](https://988lifeline.org/) is the single mo
 A few other lines worth saving to your phone:
 
 - **Crisis Text Line:** Text HOME to 741741. Perfect if you're in a situation where a call feels too risky, like when you're not alone and can't talk out loud.
-- **The Trevor Project:** 1-866-488-7386 or text START to 678-678. Built for [LGBTQ+ youth under 25](/therapist-for-lgbtq-clients/), staffed by people who actually understand the specific pressure that community deals with.
+- **The Trevor Project:** 1-866-488-7386 or text START to 678-678. Built for [LGBTQ+ youth under 25](/therapy-for-lgbtq-affirming-counselors/), staffed by people who actually understand the specific pressure that community deals with.
 - **Veterans Crisis Line:** Call 988 and press 1, or text 838255. You'll reach VA-trained counselors who specialize in military trauma.
 - **SAMHSA National Helpline:** 1-800-662-4357. Less of a crisis line, more of a treatment referral service, but it's free, confidential, and runs 24/7 for substance use or mental health stuff.
 
@@ -73,7 +73,7 @@ Beyond crisis support, there's a whole tier of actual therapy options that most 
 
 The research on apps replacing therapy is mixed. But as a stopgap while waiting for an appointment, or as something to use alongside other support, a few have actual evidence backing them.
 
-**Woebot** is a free AI chatbot built on [Cognitive Behavioral Therapy principles](/best-online-therapy-platforms-2026/). It won't replace a human therapist. A trained clinician would catch things it misses. But if you're stuck at 11pm with spinning negative thoughts and every therapist's office is closed, it's something real.
+**Woebot** is a free AI chatbot built on [Cognitive Behavioral Therapy principles](/best-online-therapy-platforms/). It won't replace a human therapist. A trained clinician would catch things it misses. But if you're stuck at 11pm with spinning negative thoughts and every therapist's office is closed, it's something real.
 
 **Wysa** works the same way: free at the basic level, and research actually backs it up. A 2018 study in JMIR mHealth showed statistically significant mood improvements in people using it consistently.
 

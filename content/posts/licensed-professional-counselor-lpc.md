@@ -26,7 +26,7 @@ faqs:
     a: "Every state has a licensing board with a public lookup tool. Search '[your state] LPC license verification' and you can confirm a counselor's credential, license number, and status in about two minutes. Worth doing."
 ---
 
-Most people who Google "what is an LPC" [are already](/your-patients-are-already-using-ai-chatbots-in-therapy/) pretty far down the road of realizing they need help. They're not browsing casually. So I want to skip the fluff and tell you what I've learned after years of working alongside clinical teams and helping people figure out who, exactly, they should call.
+Most people who Google "what is an LPC" [are already](/your-therapist-knows-youre-using-ai-between-sessions/) pretty far down the road of realizing they need help. They're not browsing casually. So I want to skip the fluff and tell you what I've learned after years of working alongside clinical teams and helping people figure out who, exactly, they should call.
 
 Many people assume "therapist" and "LPC" are basically interchangeable synonyms, when they're actually not. An LPC is a specific licensed credential, with specific training requirements, that varies meaningfully by state. "Therapist" is just a category. An LPC is a legal designation. That distinction matters a lot when you're trying to understand what someone can and can't do for you.
 
@@ -36,7 +36,7 @@ I'll be honest, I thought I had a pretty good handle on LPC licensure until I st
 
 ## What the Credential Actually Means
 
-LPC stands for Licensed Professional Counselor. To get there, a person has to earn a master's degree in counseling or a closely related field (typically 60 credit hours, which is two to three years of graduate school), accumulate thousands of hours of supervised clinical experience after graduation, and pass a national licensing exam, usually the NCE (National Counselor Examination) or the NCMHCE (National Clinical [Mental Health](/your-therapist-knows-youre-using-ai-for-mental-health-support/) Counseling Examination). Then they apply for licensure through their state board.
+LPC stands for Licensed Professional Counselor. To get there, a person has to earn a master's degree in counseling or a closely related field (typically 60 credit hours, which is two to three years of graduate school), accumulate thousands of hours of supervised clinical experience after graduation, and pass a national licensing exam, usually the NCE (National Counselor Examination) or the NCMHCE (National Clinical [Mental Health](/your-therapist-knows-youre-using-ai-between-sessions/) Counseling Examination). Then they apply for licensure through their state board.
 
 What surprised me, digging into this, was how much the post-degree supervised hours requirement swings by state. Texas requires 3,000 hours. California, which uses the title LPCC rather than LPC, requires 3,000 hours as well but structures them differently. Virginia requires 3,400. Some states hover closer to 2,000. There's no single national standard, which is one reason an LPC licensed in Georgia can't automatically practice in Oregon. Licensure is state-specific.
 

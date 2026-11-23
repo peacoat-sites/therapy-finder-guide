@@ -47,7 +47,7 @@ Plug in your insurance details, how often you'd go, and how long you think you'l
 | Community Mental Health Centers | $0-sliding scale | Low-to-moderate income | Publicly funded, income-based pricing |
 | University Training Clinics | $0-$20 | Budget-conscious, patient with trainees | Graduate student therapists with supervisor oversight |
 
-Those numbers sting? There are concrete ways to get quality therapy without paying therapist-in-a-high-rise prices. Most people miss the biggest one: your **[Employee Assistance Program (EAP)](/best-online-therapy-platforms-2026/)**. If your employer has more than a few dozen people, it almost certainly offers this. You get six to twelve free therapy sessions per year. It's completely separate from your health insurance and costs you nothing. Call HR or log into your benefits portal. It's there.
+Those numbers sting? There are concrete ways to get quality therapy without paying therapist-in-a-high-rise prices. Most people miss the biggest one: your **[Employee Assistance Program (EAP)](/best-online-therapy-platforms/)**. If your employer has more than a few dozen people, it almost certainly offers this. You get six to twelve free therapy sessions per year. It's completely separate from your health insurance and costs you nothing. Call HR or log into your benefits portal. It's there.
 
 **Open Path Collective** deserves real attention. Licensed therapists in this network charge $30 to $80 per session for people who qualify by income. Same training, same credentials, same care. They're doing it at reduced rates because they believe mental health shouldn't be gatekept by money.
 
@@ -61,7 +61,7 @@ The Mental Health Parity and Addiction Equity Act requires insurers to cover men
 
 Therapist offices often have someone who can verify your benefits before you walk in the door. Call the member services number on your insurance card and ask about outpatient mental health benefits, your deductible, copay or coinsurance, and whether you need pre-authorization. Ask specific questions. Get specific answers.
 
-Therapy is one of the best investments you can make in your future. Once you actually know what it costs, the first appointment stops feeling impossible. Our [guide to finding a therapist](/find-therapist/) walks you through the next steps.
+Therapy is one of the best investments you can make in your future. Once you actually know what it costs, the first appointment stops feeling impossible. Our guide to finding a therapist walks you through the next steps.
 
 *Cost estimates provided by this calculator are for general planning purposes only. Actual costs depend on your specific insurance plan, provider, and location. Always verify your benefits directly with your insurance company before beginning treatment.*
 

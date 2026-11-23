@@ -17,7 +17,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 I'll be honest: most people pick therapy based on vibes or whatever they found on Google, then get surprised when it doesn't feel like what they expected. The real difference between psychodynamic and CBT isn't about one being "better", it's about how they actually work, what you're signing up for, and whether that matches what you actually need right now.
 
-I started paying close attention to this question after a friend spent six months in CBT working through anxiety, felt like she was checking boxes on homework assignments, then switched to [psychodynamic therapy](/psychodynamic-therapy-vs-cbt/) and said, "Oh, *this* is why I have anxiety", totally different experience. That gap got me curious about what was actually happening in those rooms.
+I started paying close attention to this question after a friend spent six months in CBT working through anxiety, felt like she was checking boxes on homework assignments, then switched to psychodynamic therapy and said, "Oh, *this* is why I have anxiety", totally different experience. That gap got me curious about what was actually happening in those rooms.
 
 ## What's really going on in CBT
 

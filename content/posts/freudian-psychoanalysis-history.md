@@ -4,7 +4,7 @@ date: 2026-11-21T20:15:06.935821+00:00
 draft: false
 description: "Explore how Freud's revolutionary psychoanalytic theory emerged in 1895 and shaped modern psychology through the 20th century."
 image: "/img/heroes/37503529.jpg"
-categories: ["General Info"]
+categories: ["Getting Started"]
 tags: ["freudian", "psychoanalysis", "history"]
 author: "Jamie Sullivan"
 author_slug: "jamie-sullivan"
@@ -67,7 +67,7 @@ The differences between what Freud practiced and what a psychodynamically orient
 | Evidence base | Very limited for classical form | Growing; short-term psychodynamic therapy has RCT support |
 | Cost | High (multiple sessions/week) | More accessible; ranges widely by provider |
 
-Modern [psychodynamic therapy](/psychodynamic-therapy-vs-cbt/) keeps the core idea that unconscious patterns, often rooted in early relationships, shape current problems. It drops a lot of the theoretical scaffolding that was never well-supported.
+Modern [psychodynamic therapy](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) keeps the core idea that unconscious patterns, often rooted in early relationships, shape current problems. It drops a lot of the theoretical scaffolding that was never well-supported.
 
 ## What Held Up, What Didn't
 

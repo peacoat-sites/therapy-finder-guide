@@ -3,7 +3,7 @@ title: "What to Expect at Your First Therapy Session: A Checklist"
 description: "Prepare for your first therapy appointment with our interactive checklist. Know what to bring, what questions to ask, and what to expect from the intake session."
 date: 2026-06-10
 slug: "first-therapy-session-checklist"
-categories: ["Finding a Therapist"]
+categories: ["Finding Help"]
 author: "Dr. Chris Peterson"
 author_slug: "dr-chris-peterson"
 image: "https://images.pexels.com/photos/9562136/pexels-photo-9562136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

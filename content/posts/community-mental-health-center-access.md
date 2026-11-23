@@ -102,7 +102,7 @@ Getting mental health support shouldn't require decoding bureaucratic puzzles. C
 
 ---
 
-*This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the [988 Suicide and Crisis Lifeline](/how-to-find-affordable-therapy-near-me/) (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
+*This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the [988 Suicide and Crisis Lifeline](/how-to-find-an-affordable-therapist-near-me/) (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
 
 ---
 

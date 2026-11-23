@@ -24,7 +24,7 @@ What surprised me, digging into the details, is how carefully the MOU threads a 
 
 ## Why Ibogaine Is the Name You Should Know Right Now
 
-MDMA and psilocybin have dominated [psychedelic therapy](/what-the-new-hhs-va-psychedelic-therapy-deal-means-for-veterans/) conversations for years. I'll be honest: I assumed they'd continue to lead the federal agenda. But Executive Order 14401, signed by the president on April 18, 2026, specifically named ibogaine as the "next big one," and that framing has stuck in the policy world. NIDA has already awarded $2.3 million to support an Investigational New Drug application for ibogaine, and ARPA-H has opened competitive funding for ibogaine research targeting opioid use disorder specifically.
+MDMA and psilocybin have dominated psychedelic therapy conversations for years. I'll be honest: I assumed they'd continue to lead the federal agenda. But Executive Order 14401, signed by the president on April 18, 2026, specifically named ibogaine as the "next big one," and that framing has stuck in the policy world. NIDA has already awarded $2.3 million to support an Investigational New Drug application for ibogaine, and ARPA-H has opened competitive funding for ibogaine research targeting opioid use disorder specifically.
 
 Why ibogaine? The veteran population context matters here. Veterans face compounding crises: PTSD, TBI, depression, and opioid use disorder often exist together in the same person. Ibogaine, a naturally occurring psychoactive compound derived from the iboga plant, has shown early promise for opioid use disorder in international research settings, but it also carries cardiac risks that make rigorous clinical infrastructure non-negotiable. The federal emphasis on ibogaine isn't impulsive. It reflects the gap between what conventional pharmacology handles and what this population actually needs.
 
@@ -43,7 +43,7 @@ Before this MOU, the VA wasn't standing still. The numbers are worth putting sid
 | NIDA ibogaine IND funding awarded | $2.3 million |
 | MOU duration | 5 years (2026-2031) |
 
-The RAND figure of 4.8 million veterans who have already used psychedelic drugs is the one that stopped me. That's not a fringe population experimenting at the margins. That's a massive portion of the veteran community that has, in many cases, self-medicated or sought treatment through underground or international channels precisely because clinical options didn't exist domestically. Half of veterans supporting formal VA access if FDA-approved is a high number. These clients aren't waiting for policy to catch up to their reality. Many of them [are already](/your-patients-are-already-using-ai-chatbots-in-therapy/) in your office, just not telling you everything.
+The RAND figure of 4.8 million veterans who have already used psychedelic drugs is the one that stopped me. That's not a fringe population experimenting at the margins. That's a massive portion of the veteran community that has, in many cases, self-medicated or sought treatment through underground or international channels precisely because clinical options didn't exist domestically. Half of veterans supporting formal VA access if FDA-approved is a high number. These clients aren't waiting for policy to catch up to their reality. Many of them [are already](/your-therapist-knows-youre-using-ai-between-sessions/) in your office, just not telling you everything.
 
 ## What the FDA Guidance Actually Means for Clinical Practice
 

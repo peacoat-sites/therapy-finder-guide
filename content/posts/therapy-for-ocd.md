@@ -73,7 +73,7 @@ This is where a lot of people get stuck.
 
 **Step 1: Understand what you're looking for.** You want a licensed therapist (LCSW, LPC, psychologist, or similar) with specific training in ERP for OCD. General CBT training is not the same thing. Ask directly: "Have you been trained in ERP for OCD specifically? Do you regularly treat OCD clients?"
 
-**Step 2: Use the right directories.** Start with the IOCDF's "Find a Therapist" tool at iocdf.org. Then cross-reference with Psychology Today's therapist directory to read provider bios and check insurance. Our guide to [how to find the right therapist](/how-to-find-the-right-therapist/) walks through the vetting process in more detail.
+**Step 2: Use the right directories.** Start with the IOCDF's "Find a Therapist" tool at iocdf.org. Then cross-reference with Psychology Today's therapist directory to read provider bios and check insurance. Our guide to [how to find the right therapist](/how-to-find-a-therapist/) walks through the vetting process in more detail.
 
 **Step 3: Sort out the insurance question early.** Don't wait until you've found someone you like to check coverage. Call your insurance company and ask: "Does my plan cover outpatient mental health services? Do I need a referral? Does [therapist's name] accept my plan?" Our article on [finding a therapist that takes insurance](/finding-a-therapist-that-takes-insurance/) can help you prepare for that conversation.
 

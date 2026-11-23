@@ -17,7 +17,7 @@ This is a gentle, 2-minute self-reflection, not a test you can pass or fail and 
 
 {{< quiz >}}
 
-However your answers landed, reaching out for support is a sign of strength, not weakness. You don't have to be in crisis to deserve help. When you're ready, [browsing a few beginner-friendly guides](/best-online-therapy-platforms-2026/) can make that first step feel a lot smaller. Be kind to yourself today.
+However your answers landed, reaching out for support is a sign of strength, not weakness. You don't have to be in crisis to deserve help. When you're ready, [browsing a few beginner-friendly guides](/best-online-therapy-platforms/) can make that first step feel a lot smaller. Be kind to yourself today.
 
 ## Sources & References
 

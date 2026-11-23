@@ -3,7 +3,7 @@ title: "Which Type of Therapy Is Right for You? A Guide to 7 Common Approaches"
 hide_title: true
 date: 2026-06-10
 description: "Use our interactive therapy type matcher to explore which evidence-based therapy approach, CBT, EMDR, DBT, ACT, Psychodynamic, Somatic, or IFS, may fit your situation best."
-categories: ["Finding a Therapist"]
+categories: ["Finding Help"]
 author: "Kim Davis"
 author_slug: "kim-davis"
 slug: "which-therapy-type"
@@ -50,6 +50,6 @@ Answer five questions about what brings you to therapy, your preferences for str
 
 The matcher gives you a starting point for a conversation with a therapist, not a prescription. When you contact a therapist, you can mention the approaches you've read about and ask whether they practice those modalities. Many therapists are trained in multiple methods and integrate them based on client needs.
 
-When looking for a therapist, our [guide to finding a therapist](/find-therapist/) covers directories to use, how to filter by specialty and insurance, and what questions to ask in an initial consultation. Most therapists offer a brief free consultation call, use it to ask about their approach and whether they have experience with your specific concerns.
+When looking for a therapist, our guide to finding a therapist covers directories to use, how to filter by specialty and insurance, and what questions to ask in an initial consultation. Most therapists offer a brief free consultation call, use it to ask about their approach and whether they have experience with your specific concerns.
 
 You do not need to know exactly which therapy type you want before starting. A good therapist will assess your situation and explain their approach. What matters most is that you feel heard, safe, and like you can speak openly. That relationship is where healing begins.
