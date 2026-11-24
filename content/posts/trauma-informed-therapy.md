@@ -28,7 +28,7 @@ faqs:
 
 Most people who land on an article like this one have already been sitting with something heavy for a while. Maybe you've tried therapy before and it didn't quite fit. Maybe you've heard the phrase "trauma-informed" thrown around and you're not sure if it means anything specific or if it's just a buzzword clinicians use to sound more compassionate. Maybe you're trying to figure out if what you've been through counts as "real" trauma. (It probably does. More on that in a minute.)
 
-Here's what I tell people who come to me with those questions: trauma-informed therapy isn't a single technique or a specific school of thought. It's more like a set of principles that shape how a therapist understands and responds to you, principles that change everything about how the work feels, even when the actual interventions look similar to what you'd find in other types of care.
+Trauma-informed therapy isn't a single technique or a specific school of thought. It's more like a set of principles that shape how a therapist understands and responds to you, principles that change everything about how the work feels, even when the actual interventions look similar to what you'd find in other types of care.
 
 Finding the [right therapist](/how-to-find-a-therapist/) and understanding what to expect matters. People can leave a first session feeling worse than before they arrived, not because the therapist was bad, but because the approach wasn't calibrated for someone carrying a trauma history. That mismatch matters. A lot.
 
@@ -100,9 +100,9 @@ The *The Complex PTSD Workbook* by Arielle Schwartz walks through CBT and somati
 
 ## Sources
 
-- SAMHSA (2014): *SAMHSA's Concept of Trauma and Guidance for a Trauma-Informed Approach* -- the foundational federal framework defining the six core principles cited in this article.
-- McLaughlin, K.A. et al. (2020): *Journal of Traumatic Stress* -- research on cumulative small-t trauma exposure and PTSD symptom development.
-- Ehlers, A. et al. (2010): *Psychological Medicine* -- comparative effectiveness data on CPT and trauma-focused CBT.
+- SAMHSA (2014): *SAMHSA's Concept of Trauma and Guidance for a Trauma-Informed Approach*, the foundational federal framework defining the six core principles cited in this article.
+- McLaughlin, K.A. et al. (2020): *Journal of Traumatic Stress*, research on cumulative small-t trauma exposure and PTSD symptom development.
+- Ehlers, A. et al. (2010): *Psychological Medicine*, comparative effectiveness data on CPT and trauma-focused CBT.
 - VA/DoD Clinical Practice Guidelines (current as of 2026): Recommendations for PTSD treatment including CPT and EMDR as first-line interventions.
 - SAMHSA National Helpline and treatment locator: findtreatment.gov, free, confidential resource for finding trauma-specialized care.
 

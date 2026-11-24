@@ -66,7 +66,7 @@ This is where it gets genuinely complicated. And I want to be honest: the resear
 
 What we do know is that chronic burnout is a significant risk factor for developing clinical depression. A 2020 meta-analysis published in *BMC Public Health* looked at 36 studies and found meaningful overlap between burnout and depressive symptom profiles, enough that some researchers have questioned whether burnout is a distinct construct at all, or a specific subtype of depression. The counter-argument (and I find it persuasive) is that the contextual specificity of burnout and its responsiveness to environmental change makes it meaningfully different from a clinical standpoint. But the honest answer is: we don't have this fully sorted yet.
 
-What that means practically: don't assume it's one or the other. If you've been running on empty for long enough, it's entirely possible to arrive at a place where you have both occupational burnout and a depressive episode simultaneously. I've sat with people in exactly that situation. The approach in those cases isn't "figure out which one it is first" -- the approach is get evaluated by someone qualified to assess both.
+What that means practically: don't assume it's one or the other. If you've been running on empty for long enough, it's entirely possible to arrive at a place where you have both occupational burnout and a depressive episode simultaneously. When both are present, the approach isn't "figure out which one it is first", the approach is to get evaluated by someone qualified to assess both.
 
 ## The Self-Assessment Piece (and Its Limits)
 
@@ -78,7 +78,7 @@ Where self-assessment fails is in the severity range. Mild to moderate symptoms,
 
 ## What Actually Helps (and What Doesn't)
 
-Burnout: Environmental change is the intervention. That might mean negotiating a reduced workload, taking protected leave, restructuring responsibilities, or in some cases, leaving the job entirely. Therapy helps, particularly in understanding why you kept going past your limits. Mindfulness tools can support stress regulation. (For a low-cost starting point, something like Jon Kabat-Zinn's [Full Catastrophe Living](https://www.amazon.com/Full-Catastrophe-Living-Revised-Illness/dp/0345536932/?tag=contentportfo-20) -- Amazon affiliate link, the site may earn a small commission, gives you the research base without needing an app subscription.)
+Burnout: Environmental change is the intervention. That might mean negotiating a reduced workload, taking protected leave, restructuring responsibilities, or in some cases, leaving the job entirely. Therapy helps, particularly in understanding why you kept going past your limits. Mindfulness tools can support stress regulation. (For a low-cost starting point, something like Jon Kabat-Zinn's [Full Catastrophe Living](https://www.amazon.com/Full-Catastrophe-Living-Revised-Illness/dp/0345536932/?tag=contentportfo-20), Amazon affiliate link, the site may earn a small commission, gives you the research base without needing an app subscription.)
 
 Depression: Therapy, medication, or a combination is usually what moves the needle. A 2018 analysis in *The Lancet* looked at 522 trials and confirmed that antidepressants are more effective than placebo across the board, though individual response varies considerably. [Cognitive Behavioral Therapy](/psychodynamic-therapy-vs-cognitive-behavioral-therapy/) (CBT) has the strongest evidence base among psychotherapy approaches. A good CBT workbook like David Burns' *Feeling Good* is genuinely useful as an adjunct, not a replacement for care, but a useful between-session tool that therapists actively recommend.
 
@@ -92,8 +92,8 @@ Three worked examples from my referral work:
 
 ## Sources
 
-- Kroenke K, Spitzer RL, Williams JBW (2001): Original validation of the PHQ-9 in the *Journal of General Internal Medicine* -- the standard depression screener used in primary care.
-- Maslach C, Leiter MP (2016): "Burnout" in *Stress: Concepts, Cognition, Emotion, and Behavior* -- foundational framework for distinguishing burnout dimensions.
+- Kroenke K, Spitzer RL, Williams JBW (2001): Original validation of the PHQ-9 in the *Journal of General Internal Medicine*, the standard depression screener used in primary care.
+- Maslach C, Leiter MP (2016): "Burnout" in *Stress: Concepts, Cognition, Emotion, and Behavior*, foundational framework for distinguishing burnout dimensions.
 - Rotenstein LS et al. (2018): *JAMA* study on physician burnout definitions and prevalence, highlighting diagnostic inconsistency.
 - Cipriani A et al. (2018): Large-scale *Lancet* network meta-analysis confirming antidepressant efficacy across 522 trials.
 - World Health Organization (ICD-11, current as of July 2026): Classification of burnout as an "occupational phenomenon," distinct from a medical condition.

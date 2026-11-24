@@ -106,13 +106,13 @@ Therapy once a week or once a month isn't enough time to practice everything. So
 
 For couples working on communication around parenting, *The Smart Stepfamily* by Ron Deal is genuinely good, evidence-informed, and not preachy. For stepparents specifically, Patricia Papernow's *Surviving and Thriving in Stepfamily Relationships* is thorough in a way that might feel like a textbook but also might make you feel, for the first time, like someone actually gets what you're going through.
 
-If one or both partners are working on their own reactivity or stress, a structured mindfulness practice can help. Something like a guided mindfulness journal (you can find a range of options [on Amazon](https://www.amazon.com/s?k=mindfulness+journal) -- note the site may earn a small commission on purchases) won't replace therapy, but it gives you somewhere to put the feelings that accumulate between sessions.
+If one or both partners are working on their own reactivity or stress, a structured mindfulness practice can help. Something like a guided mindfulness journal (you can find a range of options [on Amazon](https://www.amazon.com/s?k=mindfulness+journal), note the site may earn a small commission on purchases) won't replace therapy, but it gives you somewhere to put the feelings that accumulate between sessions.
 
 ---
 
 ## Sources
 
-- Patricia Papernow (2013): *Surviving and Thriving in Stepfamily Relationships* -- foundational research on stepfamily development stages and therapeutic approaches.
+- Patricia Papernow (2013): *Surviving and Thriving in Stepfamily Relationships*, foundational research on stepfamily development stages and therapeutic approaches.
 - *Journal of Family Psychology* (2015): Study on couple alliance as a predictor of stepfamily cohesion and child adjustment outcomes.
 - National Stepfamily Resource Center: Practitioner training standards and stepfamily statistics, maintained through Auburn University's Center for Children, Youth and Families.
 - Ron Deal, *The Smart Stepfamily* (updated edition): Research-informed guidance on stepfamily integration with practical application.

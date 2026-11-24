@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Parents often arrive at Parent-Child Interaction Therapy feeling exhausted, a little ashamed, and quietly terrified that something is permanently broken. Their child is melting down constantly, defying every instruction, maybe hitting or biting or screaming in a way that clears grocery stores. The parents have tried everything the internet suggested. Nothing stuck. And now someone is recommending "therapy" -- which, depending on your background, can feel like being told you've failed.
+Parents often arrive at Parent-Child Interaction Therapy feeling exhausted, a little ashamed, and quietly terrified that something is permanently broken. Their child is melting down constantly, defying every instruction, maybe hitting or biting or screaming in a way that clears grocery stores. The parents have tried everything the internet suggested. Nothing stuck. And now someone is recommending "therapy", which, depending on your background, can feel like being told you've failed.
 
 You haven't failed. PCIT is one of the most rigorously studied behavioral interventions available for young children, with decades of randomized controlled trial data behind it. That's not typical in this field, where a lot of well-meaning approaches are built on clinical intuition more than hard evidence. PCIT is different, and it's worth understanding what you're actually signing up for before your first session.
 

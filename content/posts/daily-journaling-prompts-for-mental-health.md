@@ -92,7 +92,7 @@ If you want something more guided, *The Anxiety and Worry Workbook* by Clark and
 
 Three concrete outcomes I've seen in the referral and education work I do:
 
-Mia, a 34-year-old teacher in Phoenix who came to me after a panic attack at work, started using the "what's the worst realistic vs. most likely outcome" prompt every morning before school. After six weeks, she tracked that her pre-work anxiety rating dropped from an average of 7/10 to about 4/10 on her own scale. She still started therapy. Journaling prepared her to articulate what was actually happening.
+Someone using the "what's the worst realistic vs. most likely outcome" prompt every morning can track changes in pre-work anxiety. After six weeks of this practice, anxiety ratings may drop noticeably, say, from an average of 7/10 to about 4/10 on a personal scale. Journaling this way can prepare someone to articulate what is actually happening, making it easier to discuss with a therapist if they choose to start one.
 
 Structured prompts can make concepts from therapy clearer. Daily prompts that focus on thoughts and patterns may help readers understand what therapists mean by terms like "cognitive distortions" and connect the practice to their therapy work.
 

@@ -49,7 +49,7 @@ Definium, which trades on Nasdaq as DFTX and was formerly known as MindMed, has 
 
 ## What This Means If You're Currently in Treatment
 
-Here's what I tell people who come to me after reading news like this: don't stop your current medication. I want to be very clear about that. Nothing in the Emerge data changes what you should be doing today, and stopping an antidepressant abruptly, or even gradually without medical supervision, carries real risks. Any decision about your current treatment belongs between you and your prescribing physician.
+Don't stop your current medication. This is important to be clear about. Nothing in the Emerge data changes what you should be doing today, and stopping an antidepressant abruptly, or even gradually without medical supervision, carries real risks. Any decision about your current treatment belongs between you and your prescribing physician.
 
 What this news does change is the shape of the conversation you can have with that physician. If you've tried multiple antidepressants and haven't found adequate relief, that's called [treatment-resistant depression](/deep-tms-for-ptsd-and-depression-what-the-new-data-show/), and it affects roughly 30% of people with MDD. For that population especially, the arrival of a treatment option with this kind of efficacy profile is significant. You don't have to wait passively. You can ask your psychiatrist or primary care provider what they know about the DT120 pipeline, whether you might be a candidate for clinical trials while FDA review is pending, and what your options look like given your specific history.
 

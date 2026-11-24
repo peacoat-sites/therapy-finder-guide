@@ -92,11 +92,11 @@ If you want to do some reading between sessions, a workbook like the [Cognitive 
 
 ## Sources
 
-- [SAMHSA (2023): National Survey on Drug Use and Health](https://www.samhsa.gov/data/nsduh) -- Annual federal survey on mental health treatment access and barriers, including affordability data
-- [HRSA Health Center Program Data](https://data.hrsa.gov/tools/data-reporting/program-data) -- Official data on Federally Qualified Health Centers, service sites, and sliding fee scale requirements
-- [Open Path Collective](https://openpathcollective.org) -- Vetted network of licensed therapists offering reduced-fee sessions; membership and therapist listings current as of 2026
-- [Psychotherapy (APA Journal), 2021: Flückiger et al.](https://psycnet.apa.org/record/2018-13517-001) -- Meta-analysis on therapeutic alliance and client outcomes across therapy types
-- [National Alliance on Mental Illness (NAMI) Resource Directory](https://www.nami.org/Support-Education/NAMI-HelpLine) -- Searchable database of local mental health resources including low-cost and sliding scale providers
+- [SAMHSA (2023): National Survey on Drug Use and Health](https://www.samhsa.gov/data/nsduh), Annual federal survey on mental health treatment access and barriers, including affordability data
+- [HRSA Health Center Program Data](https://data.hrsa.gov/tools/data-reporting/program-data), Official data on Federally Qualified Health Centers, service sites, and sliding fee scale requirements
+- [Open Path Collective](https://openpathcollective.org), Vetted network of licensed therapists offering reduced-fee sessions; membership and therapist listings current as of 2026
+- [Psychotherapy (APA Journal), 2021: Flückiger et al.](https://psycnet.apa.org/record/2018-13517-001), Meta-analysis on therapeutic alliance and client outcomes across therapy types
+- [National Alliance on Mental Illness (NAMI) Resource Directory](https://www.nami.org/Support-Education/NAMI-HelpLine), Searchable database of local mental health resources including low-cost and sliding scale providers
 
 ---
 

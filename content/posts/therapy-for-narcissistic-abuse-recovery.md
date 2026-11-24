@@ -106,7 +106,7 @@ One thing I've noticed: in the early months, many survivors significantly overco
 
 ## Sources
 
-- Herman, Judith (1992): *Trauma and Recovery* -- foundational text establishing complex trauma as a distinct clinical category
+- Herman, Judith (1992): *Trauma and Recovery*, foundational text establishing complex trauma as a distinct clinical category
 - Novo Navarro, P. et al. (2018): Meta-analysis of EMDR for PTSD, published in *F1000Research*, supporting EMDR as first-line trauma treatment
 - [World Health Organization ICD-11 Classification](https://icd.who.int/): Formal recognition of Complex PTSD (6B41) as a distinct diagnosis
 - [Psychology Today Therapist Directory](https://www.psychologytoday.com/us/therapists): Searchable database with specialty and insurance filters
