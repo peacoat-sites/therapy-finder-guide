@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="page-wrap">
   <article class="page-main">
-    {{ $lead := and (eq (.Params.hide_title | default false) true) (hasPrefix (trim (string .Content) " \r\n") "<h2") }}{{ if not $lead }}
+    {{ $hide := eq (.Params.hide_title | default false) true }}{{ $body := trim (string .Content) " \r\n" }}{{ $lead := and $hide (hasPrefix $body "<h2") }}{{ if not (or $lead (and $hide (in $body "<h1"))) }}
     <header class="page-header">
       <h1 class="page-title">{{ .Title }}</h1>
       {{ if .Params.subtitle }}<p class="page-subtitle">{{ .Params.subtitle }}</p>{{ end }}
