@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="page-wrap">
   <article class="page-main">
-    {{ if not (eq (.Params.hide_title | default false) true) }}
+    {{ $lead := and (eq (.Params.hide_title | default false) true) (hasPrefix (trim (string .Content) " \r\n") "<h2") }}{{ if not $lead }}
     <header class="page-header">
       <h1 class="page-title">{{ .Title }}</h1>
       {{ if .Params.subtitle }}<p class="page-subtitle">{{ .Params.subtitle }}</p>{{ end }}
@@ -11,7 +11,7 @@
     <div class="post-meta" style="margin-bottom:18px"><span style="display:inline-flex;align-items:center;gap:6px">By <a href="/{{ $pSlug }}/" rel="author" style="display:inline-flex;align-items:center;gap:6px;color:inherit;font-weight:600;text-decoration:none"><img src="/img/authors/{{ $pSlug }}.jpg" alt="{{ .Params.author }}" style="width:22px;height:22px;border-radius:50%;object-fit:cover;flex-shrink:0" onerror="this.style.display='none'">{{ .Params.author }}</a></span>{{ if .PublishDate }}<span style="margin-left:12px;color:var(--muted,#64748b);font-size:.9rem">{{ .PublishDate.Format "January 2, 2006" }}</span>{{ end }} {{ partial "reviewed-by.html" . }}</div>
     {{ end }}
     <div class="post-content page-content">
-      {{ .Content }}
+      {{ if $lead }}{{ replaceRE "(?s)^(\\s*)<h2([^>]*)>(.*?)</h2>" "$1<h1$2>$3</h1>" .Content 1 | safeHTML }}{{ else }}{{ .Content }}{{ end }}
     </div>
     {{- if .Params.faqs }}
     <div class="faq-section">

@@ -14,7 +14,7 @@
 
 <article class="about-content">
   <div class="about-wrap">
-    {{ .Content }}
+    {{ if and (hasPrefix (trim (string .Content) " \r\n") "<h2") (not (in (string .Content) "<h1")) }}{{ replaceRE "(?s)^(\\s*)<h2([^>]*)>(.*?)</h2>" "$1<h1$2>$3</h1>" .Content 1 | safeHTML }}{{ else }}{{ .Content }}{{ end }}
   </div>
 </article>
 
