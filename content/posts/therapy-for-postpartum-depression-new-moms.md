@@ -74,8 +74,6 @@ If you're having thoughts of harming yourself or your baby, please reach out now
 
 ---
 
----
-
 Getting help for PPD is not self-indulgent. Treating it is one of the most direct things you can do for your baby, because a mother who's received treatment is more present, more regulated, and more able to build the early attachment that shapes everything. You deserve to feel better. The help exists. Start with one phone call, or one search on the PSI directory. That's enough for today.
 
 ---
@@ -86,17 +84,8 @@ Getting help for PPD is not self-indulgent. Treating it is one of the most direc
 
 ## Sources
 
-- [The Postpartum Stress Card](https://www.amazon.com/s?k=postpartum+depression+CBT+workbook)
-- [Aura Smart Sleep and Meditation Lamp](https://www.amazon.com/dp/B08FT3BK6S?tag=contentportfo-20)
 - [Psychology Today's therapist directory](https://www.psychologytoday.com/us/therapists)
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
-- [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10), Daily check-in journal for depression, structured mood tracking and reflection prompts designed around therapeutic principles.
 
 ---
 
@@ -107,4 +96,3 @@ Getting help for PPD is not self-indulgent. Treating it is one of the most direc
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 - **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10), Daily check-in journal for depression, structured mood tracking and reflection prompts designed around therapeutic principles.
-

@@ -96,8 +96,6 @@ One more thing, and this is the part that's easy to skip: don't disappear after 
 
 ---
 
----
-
 If you're looking for structured support between sessions, some men find CBT workbooks useful for building skills. One option worth knowing about: *Mind Over Mood* by Greenberger and Padesky is a clinically grounded CBT workbook that a lot of therapists actually assign to clients. (Disclosure: links to products on Amazon may earn this site a commission.) It's not a substitute for professional support, but it's a genuinely practical tool.
 
 The first appointment is the hardest part. Everything that comes after it is more manageable than the months you spend avoiding it.
@@ -116,4 +114,3 @@ The first appointment is the hardest part. Everything that comes after it is mor
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

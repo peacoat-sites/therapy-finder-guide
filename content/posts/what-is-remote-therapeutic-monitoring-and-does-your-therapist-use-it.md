@@ -20,9 +20,7 @@ As of January 1, 2026, the Centers for Medicare & Medicaid Services finalized a 
 
 Here's why it matters: your therapist may now be reimbursed for tracking your progress [between sessions](/your-therapist-knows-youre-using-ai-between-sessions/) using apps, mood logs, and digital therapeutic tools. That homework your CBT therapist assigns? The app that prompts you to log anxiety levels twice a day? Under the new framework, those activities can count as billable care.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">As of Jan 1, 2026, CMS allows mental health providers (not just physicians) to bill Medicare for between-session digital monitoring.</li><li style="margin:5px 0">New CPT code 98979 requires only 10 minutes of management time and as few as 2 data-collection days per month.</li><li style="margin:5px 0">The 2026 reimbursement rate is $33.40 per unit (non-APM), making RTM financially viable for private-practice therapists for the first time.</li><li style="margin:5px 0">RTM-eligible mental health tools include mood tracking apps, CBT homework platforms, and digital coping skill exercises.</li><li style="margin:5px 0">Clients in short-term therapy now qualify: the 16-day data threshold dropped to as few as 2 days in a 30-day period.</li></ul></div>
-
 
 ## What RTM Actually Means in a Mental Health Context
 
@@ -97,4 +95,3 @@ Whether that translates to measurably better outcomes at scale is still being st
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

@@ -97,10 +97,6 @@ Three real scenarios from referral work I've done:
 
 ---
 
-If you're working through any of this, a structured workbook can help in between sessions. The [Divorce Recovery Workbook by Mark Rye and Crystal Peacock](https://www.amazon.com/s?k=divorce+recovery+workbook) is one of the more evidence-adjacent options out there, built around CBT principles. (Disclosure: this site may earn a small commission from qualifying Amazon purchases.)
-
----
-
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
@@ -116,4 +112,3 @@ If you're working through any of this, a structured workbook can help in between
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 - **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.
-

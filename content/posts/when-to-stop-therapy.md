@@ -31,9 +31,7 @@ Stopping therapy isn't quitting. That's a misconception worth naming directly, b
 
 There's also the opposite problem: people who stop too early. Not because they're feeling better, but because progress feels uncomfortable, the cost adds up, or life gets busy. Premature termination (the clinical term for stopping before treatment goals are met) is genuinely common and worth flagging, because it's easy to confuse "this is hard" with "this isn't working."
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Therapy ending is appropriate when original goals are met and coping tools are in place.</li><li style="margin:5px 0">"Feeling better" alone isn't sufficient reason to stop, stability should be tested across varied life circumstances.</li><li style="margin:5px 0">Premature termination is common and often mistaken for natural completion; check in with your therapist before deciding.</li><li style="margin:5px 0">A planned "step-down" (reducing session frequency before stopping) lowers relapse risk for most people.</li><li style="margin:5px 0">Stopping can always be temporary, returning to therapy later is not a failure.</li></ul></div>
-
 
 ## Signs You're Actually Ready
 
@@ -115,7 +113,6 @@ The goal of therapy was never lifelong dependency. It was to give you something 
 
 ---
 
-
 *Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*
 
 ---
@@ -130,4 +127,3 @@ The goal of therapy was never lifelong dependency. It was to give you something 
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

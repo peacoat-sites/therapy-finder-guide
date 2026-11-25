@@ -111,10 +111,6 @@ One question that consistently reveals a lot: "What would tell you that our work
 
 ---
 
----
-
-If you want something to work through while you're searching, the workbook [*Mind Over Mood* by Greenberger and Padesky](https://www.amazon.com/Mind-Over-Mood-Second-Cognitive/dp/1462520421) is one I genuinely recommend for CBT-based self-work in between or before sessions. (Disclosure: as an Amazon Associate, this site may earn a small commission on purchases.) It won't replace a therapist, but it'll give you language and frameworks that make those first sessions significantly more productive.
-
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
@@ -130,4 +126,3 @@ If you want something to work through while you're searching, the workbook [*Min
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 - **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
-

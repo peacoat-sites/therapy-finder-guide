@@ -29,9 +29,7 @@ Most people searching for a therapist have no idea what the letters after a clin
 
 The most important thing to know upfront is that **not all mental health credentials are equivalent**, and some titles are more protected (meaning legally restricted) than others. A "therapist" or "counselor" can mean almost anything depending on where you live. "Psychologist," "licensed clinical social worker," and "[licensed professional counselor](/licensed-professional-counselor-lpc/)" have specific legal definitions and training requirements. Knowing the difference helps you match the type of help you need to the person actually qualified to provide it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">"Therapist" and "counselor" are unprotected titles in many states; always check the specific license.</li><li style="margin:5px 0">Psychiatrists are medical doctors who can prescribe medication; most other mental health providers cannot.</li><li style="margin:5px 0">A PhD or PsyD indicates doctoral-level psychology training; an LCSW or LPC indicates master's-level clinical training.</li><li style="margin:5px 0">"Supervised hours" matter: most licenses require 2,000–4,000 hours of supervised work after the degree.</li><li style="margin:5px 0">State licensing boards are the authoritative source for verifying any credential, not the therapist's website.</li></ul></div>
-
 
 ## The Credential Hierarchy (and Why It Exists)
 
@@ -112,7 +110,6 @@ If you're doing some early reading while working up to making an appointment, th
 
 ---
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -127,4 +124,3 @@ If you're doing some early reading while working up to making an appointment, th
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

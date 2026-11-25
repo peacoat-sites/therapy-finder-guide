@@ -18,9 +18,7 @@ Something significant happened in federal [mental health](/mental-health-crisis-
 
 What surprised me, digging into the details, is how carefully the MOU threads a needle between scientific urgency and regulatory caution. The agreement explicitly states that clinical use outside of research settings will only happen after FDA approval. Experts quoted in coverage from Military Times and Forbes have been consistent on this: we're talking about a timeline measured in years, not months. So this isn't a green light for practice. It's the beginning of a structured federal commitment that will eventually reshape the field, but not tomorrow.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The VA-HHS MOU signed July 13, 2026, covers five years of coordinated psychedelic research, training, and data-sharing.</li><li style="margin:5px 0">Clinical use outside research is explicitly prohibited until FDA approval, which experts say is years away.</li><li style="margin:5px 0">The VA already has 20 active psychedelic therapy trials backed by over $23 million in external funding.</li><li style="margin:5px 0">NIDA awarded $2.3 million specifically toward an ibogaine IND application as of July 2026.</li><li style="margin:5px 0">A RAND study found roughly half of veterans support VA-provided psilocybin or MDMA therapy if FDA-approved.</li></ul></div>
-
 
 ## Why Ibogaine Is the Name You Should Know Right Now
 
@@ -85,4 +83,3 @@ As the MOU's five-year framework takes shape through 2031, the therapists who wi
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

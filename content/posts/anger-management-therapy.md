@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 You're sitting in your car in the parking lot, hands gripping the steering wheel, replaying the argument you just had with your partner for the twentieth time. The rage has faded into something worse: shame. You know you said things you didn't mean. You know this keeps happening. And somewhere between the anger and the regret, you're wondering if something is actually wrong with you, or if there's a way to change this pattern. There isn't anything wrong with you, exactly. But there is something you can learn. Anger management therapy is real, it works, and it's far more nuanced than the court-ordered stereotype most people picture.
 
-
 <div class="value-module">
  <div class="vm-head">Anger Episode Self-Assessment Checklist</div>
  <div class="vm-body">
@@ -40,7 +39,6 @@ You're sitting in your car in the parking lot, hands gripping the steering wheel
 ## What Anger Management Therapy Actually Is (And Isn't)
 
 **"Therapy means something is wrong with you"**: Most people assume seeking anger management therapy signals a psychological problem or character flaw. But research shows 1 in 4 adults use therapy for skill-building rather than crisis intervention. A 2023 American Psychological Association survey found 46% of therapy clients cite "personal growth" as their primary reason, not pathology. Anger management therapy functions like athletic coaching: elite performers use it to optimize performance, not fix brokenness. People with high-stress careers, leadership roles, and strong relationships increasingly use anger management therapy as preventative maintenance, similar to how executives use executive coaches.
-
 
 Anger management therapy isn't about suppressing your anger or pretending you don't feel it. That wouldn't work, and frankly, it'd be condescending to what you're actually dealing with.
 
@@ -145,17 +143,8 @@ That parking lot moment at the start. A lot of people know it. The shame after t
 
 ## Sources
 
-- [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
 - [NAMI](https://www.nami.org/)
-- [CBT-based anger journal on Amazon](https://www.amazon.com/s?k=CBT+anger+journal)
 - [psychologytoday.com/us/therapists](https://www.psychologytoday.com/us/therapists)
-- [Anxiety Relief Journal with CBT Prompts and Mood Tracker](https://www.amazon.com/dp/B09B8LGTDG?tag=contentportfo-20)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 
 ---
 
@@ -165,4 +154,3 @@ That parking lot moment at the start. A lot of people know it. The shame after t
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

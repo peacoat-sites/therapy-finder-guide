@@ -106,7 +106,6 @@ SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) ca
 
 - [American College of Physicians (2016): Clinical Practice Guideline recommending CBT-I as first-line treatment for chronic insomnia disorder in adults.](https://www.acpjournals.org/doi/10.7326/M15-2175)
 - [van Straten et al., *Sleep Medicine Reviews* (2018): Meta-analysis of 87 studies on CBT-I efficacy, supporting 70-80% responder rates across formats.](https://www.sciencedirect.com/science/article/pii/S1087079216301216)
-- [Jacobs, G.D. (2009). *Say Good Night to Insomnia*. Harvard Medical School-affiliated self-help protocol.](https://www.amazon.com/Say-Good-Night-Insomnia/dp/0805089586)
 - [Somryst (Pear Therapeutics): FDA-cleared prescription digital therapeutic for chronic insomnia, with independent RCT validation.](https://somryst.com/)
 - [SAMHSA National Helpline and treatment locator (findtreatment.gov): Free, confidential referral service for mental health and behavioral health providers.](https://findtreatment.gov/)
 
@@ -127,4 +126,3 @@ SAMHSA's treatment locator at [findtreatment.gov](https://findtreatment.gov/) ca
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 - **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.
-

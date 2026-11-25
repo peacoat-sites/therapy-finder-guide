@@ -20,9 +20,7 @@ But you might be wondering: what does this actually mean for you, right now, thi
 
 According to Otsuka's official approval announcement, ADHD affects approximately 22.5 million children, adolescents, and adults in the U.S. That's a lot of people who've been managing with tools that work imperfectly, at best. What centanafadine brings to the table, at least on paper, is a legitimately different angle of attack.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Simtriyo (centanafadine) was FDA-approved July 24, 2026, the first NDSRI approved for ADHD.</li><li style="margin:5px 0">It's approved for adults and children ages 6+ weighing at least 44 lbs, based on four Phase 3 trials.</li><li style="margin:5px 0">Simtriyo is NOT yet available at pharmacies; DEA scheduling could take up to three months.</li><li style="margin:5px 0">Phase 3b data from June 25, 2026 showed positive results in adults with ADHD and comorbid anxiety.</li><li style="margin:5px 0">Medication alone is still insufficient, behavioral therapy remains a necessary part of long-term treatment.</li></ul></div>
-
 
 ## What Makes Simtriyo Actually Different
 
@@ -85,4 +83,3 @@ Simtriyo isn't a cure, and it won't be right for everyone. But for a population 
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

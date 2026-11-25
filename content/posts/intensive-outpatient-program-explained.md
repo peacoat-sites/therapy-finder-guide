@@ -89,8 +89,6 @@ If you're looking for tools to supplement what you're working on in the program,
 
 ---
 
----
-
 The hard truth about IOPs is that their effectiveness depends heavily on the quality of the specific program and your engagement in it. Showing up and going through the motions won't do much. Showing up and actually practicing the skills outside of sessions will. That's less about the program and more about what you're willing to put in, which is uncomfortable to hear, and also true.
 
 ---
@@ -102,15 +100,7 @@ The hard truth about IOPs is that their effectiveness depends heavily on the qua
 ## Sources
 
 - [988 Suicide and Crisis Lifeline](https://988lifeline.org/)
-- [Get Out of Your Mind and Into Your Life (ACT Workbook)](https://www.amazon.com/dp/1626254346?tag=contentportfo-20)
 - [NAMI](https://www.nami.org/)
-- [The DBT Skills Workbook](https://www.amazon.com/s?k=DBT+skills+workbook&tag=contentportfo-20)
-- [CBT thought record journal](https://www.amazon.com/s?k=CBT+thought+record+journal&tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 
 ---
 
@@ -120,4 +110,3 @@ The hard truth about IOPs is that their effectiveness depends heavily on the qua
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

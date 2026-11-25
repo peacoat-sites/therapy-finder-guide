@@ -20,9 +20,7 @@ This matters because BLT has long been recommended mainly for seasonal affective
 
 People aren't stopping their need for care in winter. They're just stopping their access to it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">BLT remission rate was 40.7% vs. 23.5% for controls in an 858-person JAMA Psychiatry meta-analysis.</li><li style="margin:5px 0">BLT response rate hit 60.4% vs. 38.6% in controls (OR 2.42).</li><li style="margin:5px 0">Within four weeks, early remission was 27.4% with BLT vs. 9.2% in controls.</li><li style="margin:5px 0">Findings apply to nonseasonal depression, not just winter SAD, expanding who can benefit.</li><li style="margin:5px 0">Therapy bookings drop 11% in November-December, making low-barrier add-ons especially timely.</li></ul></div>
-
 
 ## What the Research Actually Found
 
@@ -92,4 +90,3 @@ If you're in a rough patch and not currently connected to care, the SAMHSA Natio
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 - **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10), Daily check-in journal for depression, structured mood tracking and reflection prompts designed around therapeutic principles.
-

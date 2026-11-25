@@ -29,9 +29,7 @@ Therapy confidentiality is real, legally enforceable, and much stronger than mos
 
 The short version: therapists are legally and ethically required to keep your disclosures private with a small number of well-defined exceptions. Those exceptions matter, and you deserve to understand them before your first session, not after.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Therapy conversations are legally protected by confidentiality in all 50 U.S. states and by HIPAA at the federal level.</li><li style="margin:5px 0">Therapists must break confidentiality in 3 main situations: imminent danger to self or others, child/elder abuse, and valid court orders.</li><li style="margin:5px 0">Your records can't be shared with employers, family, or insurers without your written consent (with narrow exceptions).</li><li style="margin:5px 0">"Privileged communication" means your therapist can refuse to testify about your sessions in most court proceedings.</li><li style="margin:5px 0">You can ask your therapist about their exact confidentiality policies before disclosing anything sensitive.</li></ul></div>
-
 
 ## What "Confidential" Actually Means in a Legal Sense
 
@@ -104,9 +102,6 @@ Group therapy confidentiality is worth addressing directly because it's often mi
 
 ---
 
-
----
-
 Confidentiality in therapy is a lot stronger than most people fear, and the exceptions exist for real reasons. Understanding both the protection and its limits lets you walk into a first session with a clearer head, and with better questions to ask. If you're still figuring out what kind of support you're looking for, [NAMI's website](https://www.nami.org/) has plain-language guidance on finding care and understanding your rights as a patient.
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
@@ -123,4 +118,3 @@ Confidentiality in therapy is a lot stronger than most people fear, and the exce
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

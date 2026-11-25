@@ -94,8 +94,6 @@ Calling 988 once doesn't obligate you to anything. It doesn't open a file on you
 
 ---
 
----
-
 The number is 988. You can call it right now, or save it for later, or share it with someone who might need it. That's enough for today.
 
 ---
@@ -106,16 +104,8 @@ The number is 988. You can call it right now, or save it for later, or share it 
 
 ## Sources
 
-- [First, We Make the Beast Beautiful by Sarah Wilson](https://www.amazon.com/dp/0062409603?tag=contentportfo-20)
 - [National Alliance on Mental Illness (NAMI)](https://www.nami.org/)
-- [Dialectical Behavior Therapy Skills Workbook](https://www.amazon.com/Dialectical-Behavior-Therapy-Skills-Workbook/dp/1572245131/?tag=contentportfo-20)
 - [SAMHSA's treatment locator](https://findtreatment.gov/)
-- [Maybe You Should Talk to Someone by Lori Gottlieb](https://www.amazon.com/dp/0143133462?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 
 ---
 
@@ -125,4 +115,3 @@ The number is 988. You can call it right now, or save it for later, or share it 
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

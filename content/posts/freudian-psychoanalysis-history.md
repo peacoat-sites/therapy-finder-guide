@@ -29,9 +29,7 @@ Freud got a lot wrong. That's worth saying upfront, before we spend any time on 
 
 Freud practiced in Vienna during the late 19th and early 20th centuries, initially working alongside Josef Breuer on cases of what was then called "hysteria." Their collaboration produced *Studies on Hysteria* (1895), a text that introduced the idea that psychological symptoms could be caused by repressed memories and that talking, with the right kind of attention, could relieve them. That concept, the "talking cure," didn't originate with Freud alone. Breuer's patient Anna O. reportedly coined the phrase. But Freud took it further than anyone else at the time was willing to.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Freudian psychoanalysis began formally with Freud and Breuer's *Studies on Hysteria* (1895).</li><li style="margin:5px 0">Core claims: the unconscious mind drives behavior; repression causes symptoms; free association reveals hidden conflicts.</li><li style="margin:5px 0">Many Freudian concepts have weak empirical support, but descendants like psychodynamic therapy do show clinical benefit.</li><li style="margin:5px 0">Freud's ideas about women and sexuality are now widely rejected; his structural model (id, ego, superego) influenced developmental psychology.</li><li style="margin:5px 0">Modern psychodynamic therapy is shorter, more flexible, and more evidence-based than classical analysis.</li></ul></div>
-
 
 ## The Core Theory
 
@@ -97,7 +95,6 @@ For readers curious about understanding their own relational patterns before or 
 
 ---
 
-
 *Photo: [Eleonora Vokueva](https://www.pexels.com/@eleonora-vokueva-2161345723) via Pexels*
 
 ---
@@ -112,4 +109,3 @@ For readers curious about understanding their own relational patterns before or 
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

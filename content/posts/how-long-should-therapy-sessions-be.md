@@ -31,9 +31,7 @@ The 50-minute "therapy hour" dates back to Freudian psychoanalysis. Analysts sch
 
 What nobody tells you upfront: the right session length depends less on how much pain you're carrying and more on what kind of therapy you're doing, how your nervous system handles sustained emotional work, and whether your insurance cares.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Standard therapy sessions run 50 minutes; 45- and 60-minute formats are also common.</li><li style="margin:5px 0">Specialized formats like EMDR or exposure therapy often require 90-minute sessions.</li><li style="margin:5px 0">Psychiatric medication appointments are typically 15-30 minutes, not full therapy sessions.</li><li style="margin:5px 0">Longer sessions cost more out-of-pocket; check your plan's exact covered duration before booking.</li><li style="margin:5px 0">If you consistently feel unfinished at 50 minutes, ask your therapist about extended sessions before switching providers.</li></ul></div>
-
 
 ## The Standard Formats and What They're Actually For
 
@@ -103,7 +101,6 @@ Therapists respect these questions. They signal that you're engaged rather than 
 
 ---
 
-
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
@@ -118,4 +115,3 @@ Therapists respect these questions. They signal that you're engaged rather than 
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

@@ -29,9 +29,7 @@ Virtual reality therapy is no longer experimental in any meaningful sense. It's 
 
 The short answer: VR therapy works best for specific phobias, PTSD, anxiety disorders, and chronic pain management. It doesn't replace a therapist. It's a tool a therapist uses, and the clinical outcomes in those target areas have been strong enough to shift practice guidelines. For conditions like schizophrenia or severe dissociative disorders, the picture is more complicated, and some clinicians actively avoid immersive VR with those populations.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">VR therapy shows strongest evidence for PTSD, phobias, and anxiety disorders.</li><li style="margin:5px 0">It requires a licensed therapist guiding sessions; it's not a standalone treatment.</li><li style="margin:5px 0">Commercially available VR headsets are NOT the same as clinical VR therapy systems.</li><li style="margin:5px 0">Session costs typically range from $100–$300+ when bundled with a therapist's time.</li><li style="margin:5px 0">Motion sickness (cybersickness) affects roughly 10–40% of users and can be managed.</li></ul></div>
-
 
 ## What VR Therapy Actually Is (and Isn't)
 
@@ -90,7 +88,6 @@ Practical steps that reduce it: shorter initial sessions (10-15 minutes rather t
 
 ---
 
-
 *Photo: [VAZHNIK](https://www.pexels.com/@vazhnik) via Pexels*
 
 ---
@@ -105,4 +102,3 @@ Practical steps that reduce it: shorter initial sessions (10-15 minutes rather t
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

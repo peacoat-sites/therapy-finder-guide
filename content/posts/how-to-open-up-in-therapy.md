@@ -108,16 +108,11 @@ Scenario: A client with severe social anxiety completes a mindfulness-based body
 - *Psychotherapy* journal meta-analysis on therapy dropout: Data on early dropout rates and primary reasons for attrition in outpatient psychotherapy
 - Swift, J.K. & Greenberg, R.P. (2012): "Premature Discontinuation in Adult Psychotherapy," meta-analysis identifying dropout predictors across 669 studies
 - Norcross, J.C. (2010): "The Therapeutic Relationship," *Psychotherapy* research on alliance as a predictor of outcomes
-- van der Kolk, B. (2014): *The Body Keeps the Score*, foundational research on trauma's effect on language and self-disclosure
 - American Psychological Association Practice Guidelines: Outcome data on session counts and symptom improvement in outpatient therapy
 
 ---
 
----
-
 *This article is for general informational purposes only and does not constitute mental health, medical, or clinical advice. If you are in crisis or experiencing a mental health emergency, please contact the 988 Suicide and Crisis Lifeline (call or text 988) or go to your nearest emergency room. Always consult a licensed mental health professional for care specific to your needs.*
-
----
 
 ---
 
@@ -127,4 +122,3 @@ Scenario: A client with severe social anxiety completes a mindfulness-based body
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

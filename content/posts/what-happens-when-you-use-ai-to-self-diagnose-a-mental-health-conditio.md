@@ -24,9 +24,7 @@ The APA's 2026 Chatbots and Mental Health Survey went out in April 2026 to more 
 
 The headline figure, 77% of psychologists reporting patients who used AI for mental health support, tells you how normalized this has become. But the more specific numbers reveal the pattern clinicians are worried about.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">What psychologists reported about patients using AI</div><div class="sc-row"><span class="sc-label">Used AI for mental health support</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">77%</span></div><div class="sc-row"><span class="sc-label">Used AI to self-diagnose</span><span class="sc-track"><span class="sc-bar" style="width:51%"></span></span><span class="sc-val">39%</span></div><div class="sc-row"><span class="sc-label">Appeared dependent on chatbot</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">36%</span></div><div class="sc-row"><span class="sc-label">Developed delusional beliefs</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">15%</span></div><div class="sc-src">Source: APA 2026 Chatbots and Mental Health Survey</div></div>
-
 
 That 15% figure for delusional beliefs is the one that made clinicians take notice. Dependency at 36% is high but arguably predictable, given that engagement metrics are baked into most app design. Delusional thinking is a different category of harm entirely.
 
@@ -87,12 +85,9 @@ The APA's advisory doesn't mean technology is the enemy of mental health care. I
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

@@ -20,9 +20,7 @@ The short answer, right now, is probably not through insurance. And even after a
 
 According to Psychedelic Alpha's November 20, 2026 coverage, the question of who pays for [psychedelic therapy](/what-the-new-va-hhs-psychedelic-therapy-mou-means-for-therapists/) is becoming urgent precisely because approval could arrive before any coverage framework is in place. Compass has said it's preparing patient support and affordability programs, but the specifics haven't been announced. What we know is what people are paying out-of-pocket right now in state-legal markets: between $500 and $3,400 per session, with zero insurance reimbursement available.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Compass Pathways filed its psilocybin NDA on November 9, 2026; FDA review could proceed on an expedited timeline due to the National Priority Voucher.</li><li style="margin:5px 0">COMP360 hit primary endpoints in both Phase 3 trials (COMP005 and COMP006), the strongest clinical record for any classic psychedelic therapy.</li><li style="margin:5px 0">Current out-of-pocket psilocybin session costs run $500 to $3,400 with no insurance coverage available.</li><li style="margin:5px 0">Insurers are expected to initially block coverage, mirroring SPRAVATO's slow reimbursement rollout.</li><li style="margin:5px 0">Usona Institute and Transcend Therapeutics also received National Priority Vouchers in April 2026, expanding the pipeline.</li></ul></div>
-
 
 ## Why COMP360 Is Different From What You've Heard Before
 
@@ -86,4 +84,3 @@ This is a genuinely unusual moment in mental health treatment. A therapy that wa
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

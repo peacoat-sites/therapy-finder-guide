@@ -29,9 +29,7 @@ Therapy apps are genuinely useful for some people and genuinely insufficient for
 
 The market has expanded dramatically. BetterHelp, Talkspace, Headspace, Calm, Woebot, and a dozen others compete for the same users, and their differences are significant enough that picking the wrong one wastes both money and motivation.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">BetterHelp and Talkspace connect you with licensed therapists; most other apps do not.</li><li style="margin:5px 0">Subscription costs range from roughly $60/month (self-guided) to $400+/month (live therapy).</li><li style="margin:5px 0">Apps are best for mild-to-moderate anxiety, stress, low mood, and skill-building, not crisis care.</li><li style="margin:5px 0">Always call or text 988 (Suicide and Crisis Lifeline) if you're in acute distress, no app substitutes this.</li><li style="margin:5px 0">Insurance rarely covers self-guided apps; some plans now cover Talkspace or similar platforms.</li></ul></div>
-
 
 ## The two categories most people conflate
 
@@ -87,7 +85,6 @@ For readers who want to deepen their own skill work between sessions, CBT-based 
 
 ---
 
-
 *Photo: [Joslyn Pickens](https://www.pexels.com/@joslyn-pickens-2185980) via Pexels*
 
 ---
@@ -102,4 +99,3 @@ For readers who want to deepen their own skill work between sessions, CBT-based 
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

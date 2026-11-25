@@ -112,8 +112,6 @@ Check whether your department has a certified peer support team and introduce yo
 
 ---
 
----
-
 The culture is changing, slowly. Departments that wouldn't have acknowledged mental health a decade ago are now funding peer support teams and mandating post-incident check-ins. That's real progress. But it doesn't happen fast enough for the person sitting in their car after a shift, not ready to go inside yet.
 
 If that's where you are right now, you've already done something useful today. You read this. That's a real start.
@@ -124,12 +122,9 @@ If that's where you are right now, you've already done something useful today. Y
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

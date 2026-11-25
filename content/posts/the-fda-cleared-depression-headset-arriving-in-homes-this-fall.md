@@ -20,9 +20,7 @@ Flow Neuroscience's FL-100 headset received FDA clearance in December 2025, maki
 
 The trial data that convinced the FDA is worth sitting with for a moment. A randomized, double-blind study of 174 adults found 58% achieved remission after 10 weeks of use, against a 29% placebo remission rate, according to reporting by *Psychiatric Times*. Among Flow's 55,000 European users, where the device has been commercially available for years, 77% reported symptom improvement within three weeks. Those are genuinely strong numbers. They're also not a guarantee for any individual patient, and that distinction matters enormously for how clinicians and patients should approach this.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">FDA cleared the FL-100 in December 2025; U.S. sales begin September 1, 2026.</li><li style="margin:5px 0">Pivotal trial: 58% remission at 10 weeks vs. 29% for placebo (174 adults).</li><li style="margin:5px 0">Cost is $500–$800, far below clinic-based TMS at roughly $10,000–$15,000.</li><li style="margin:5px 0">FDA authorizes use as standalone treatment or alongside antidepressants and therapy.</li><li style="margin:5px 0">77% of 55,000 European users reported symptom improvement within three weeks.</li></ul></div>
-
 
 ## What tDCS Actually Does (and Doesn't Do)
 
@@ -46,9 +44,7 @@ Patients evaluating the FL-100 against other treatments will be doing the mental
 
 The one-time cost model is significant. Unlike Spravato, which requires repeated clinic visits at $700 to $900 each, or antidepressants that accrue monthly, the FL-100 is a device purchase. Flow has insurance negotiations underway, which could reduce the barrier further. If even one major insurer covers it before the end of 2026, adoption will accelerate sharply.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Depression treatment cost comparison</div><div class="sc-row"><span class="sc-label">SSRIs/month (generic)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$30</span></div><div class="sc-row"><span class="sc-label">FL-100 (one-time)</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">$650</span></div><div class="sc-row"><span class="sc-label">Spravato/session</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">$800</span></div><div class="sc-row"><span class="sc-label">Clinic TMS (course)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$12,500</span></div><div class="sc-src">Source: Psychiatric Times, Forbes, clinical pricing data 2026</div></div>
-
 
 ## Who Should Actually Use This
 
@@ -98,4 +94,3 @@ The field will learn a lot from the first wave of U.S. adopters this fall. Pay a
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 - **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10), Daily check-in journal for depression, structured mood tracking and reflection prompts designed around therapeutic principles.
-

@@ -29,9 +29,7 @@ Most families hit a wall somewhere between a child's thirteenth and eighteenth b
 
 Family therapy doesn't treat one person in isolation. It treats the relationship system, which is exactly the right target when the problem is a collision between two people (or five people) living under the same roof. For most parent-teen conflicts, that distinction matters more than any other.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Family therapy targets the relationship system, not just the teen's behavior.</li><li style="margin:5px 0">Most families see meaningful progress within 8-16 sessions when conflict is the primary issue.</li><li style="margin:5px 0">Functional Family Therapy (FFT) has the strongest evidence base for high-conflict parent-teen situations.</li><li style="margin:5px 0">You don't need a diagnosis to qualify for family therapy; relational distress is enough.</li><li style="margin:5px 0">A therapist who works with both parties separately first, then together, tends to get better results faster.</li></ul></div>
-
 
 ## Why Individual Therapy Often Isn't Enough
 
@@ -107,7 +105,6 @@ What doesn't help: relitigating sessions in the car on the way home, using what 
 
 ---
 
-
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
@@ -124,4 +121,3 @@ What doesn't help: relitigating sessions in the car on the way home, using what 
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
 - **[Anti-Anxiety Journal](https://www.amazon.com/dp/B095WS28JL/?tag=contentportfo-20)** (~$9), Daily structured journal for tracking anxiety triggers, patterns, and progress, ideal between therapy sessions.
 - **[The Feeling Good Handbook](https://www.amazon.com/dp/0452281326/?tag=contentportfo-20)** (~$18), Practical workbook companion to Feeling Good, structured CBT exercises for depression, anxiety, and relationship problems.
-

@@ -31,9 +31,7 @@ If you're wondering whether this kind of therapy might fit you, the short versio
 
 Rogers didn't want therapists to be experts who dispensed solutions. He believed the therapeutic relationship itself was the mechanism of change, not techniques layered on top of it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Person-centered therapy centers on unconditional positive regard, empathy, and congruence as the core conditions for change.</li><li style="margin:5px 0">It's not technique-driven; the quality of the therapeutic relationship is the primary tool.</li><li style="margin:5px 0">Best fit for self-worth struggles, identity questions, and people who feel chronically judged or unheard.</li><li style="margin:5px 0">Less structured than CBT; not the strongest standalone choice for OCD, phobias, or acute trauma processing.</li><li style="margin:5px 0">A trained person-centered therapist won't diagnose or advise heavily; sessions are led by the client's agenda.</li></ul></div>
-
 
 ## The Three Conditions Rogers Insisted On
 
@@ -109,7 +107,6 @@ For self-directed reading alongside therapy, Rogers's own book *On Becoming a Pe
 
 ---
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -124,4 +121,3 @@ For self-directed reading alongside therapy, Rogers's own book *On Becoming a Pe
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

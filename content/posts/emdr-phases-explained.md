@@ -104,7 +104,6 @@ If you're doing EMDR work and your therapist has recommended [journaling between
 - [EMDR International Association (EMDRIA)](https://www.emdria.org): Professional organization for EMDR practitioners; publishes training standards and research guidelines
 - Shapiro, F. (2018). *Eye Movement Desensitization and Reprocessing (EMDR) Therapy: Basic Principles, Protocols, and Procedures* (3rd ed.). Guilford Press: The definitive clinical text on EMDR protocol
 - [World Health Organization (2013). Guidelines for the Management of Conditions Specifically Related to Stress](https://www.who.int/publications/i/item/9789241505406): Recommends EMDR as a first-line treatment for PTSD in adults
-- van der Kolk, B. (2014). *The Body Keeps the Score*: Research on somatic trauma storage; foundational context for understanding why EMDR includes a body scan
 - [VA/DoD Clinical Practice Guideline for PTSD (2023)](https://www.healthquality.va.gov/guidelines/mh/ptsd/): Lists EMDR among strongly recommended treatments for PTSD
 
 ---
@@ -123,4 +122,3 @@ If you're doing EMDR work and your therapist has recommended [journaling between
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-

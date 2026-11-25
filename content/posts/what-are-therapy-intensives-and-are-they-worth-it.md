@@ -20,9 +20,7 @@ Here's the short version. Waitlists for traditional weekly therapy remain brutal
 
 The demand side is real too. NortexPsychiatry reported in July 2026 that 62% of Americans have now consulted a [mental health](/samhsa-mental-health-resources/) professional in their lifetime, up from 48% just one year prior. More people seeking care, combined with a supply system that hasn't caught up, is exactly the environment where compressed formats thrive.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Therapy intensives compress weeks or months of treatment into multi-hour or multi-day sessions.</li><li style="margin:5px 0">Best evidence supports intensive formats for trauma (EMDR), PTSD, OCD, and acute anxiety, not general stress.</li><li style="margin:5px 0">A standard private-pay intensive runs $1,500–$4,000 for a 2–3 day format; weekly therapy runs ~$150–$250/session.</li><li style="margin:5px 0">Summer 2026 is a practical window: schedules open up and programs like Compass Health Center's IOP are actively enrolling.</li><li style="margin:5px 0">Intensives aren't a shortcut for mild symptoms; they're a format match for specific conditions and specific life windows.</li></ul></div>
-
 
 ## What a Therapy Intensive Actually Is
 
@@ -101,4 +99,3 @@ The breakout interest in therapy intensives this summer isn't hype chasing a tre
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.
-
