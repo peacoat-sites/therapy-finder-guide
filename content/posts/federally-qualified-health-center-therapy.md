@@ -2,7 +2,7 @@
 title: "Affordable Therapy at Federally Qualified Health Centers"
 date: 2026-05-22T06:20:57.288732+00:00
 draft: false
-description: "Discover how federally qualified health centers provide affordable therapy services to underserved communities, offering sliding scale fees and comprehensive me"
+description: "FQHCs offer therapy on a sliding fee scale based on income and family size, with no insurance required. Learn who qualifies, what to bring, and how to find one."
 image: "/img/heroes/8460030.jpg"
 categories: ["Cost & Access"]
 tags: ["federally", "qualified", "health", "center", "therapy"]
@@ -19,11 +19,15 @@ faqs:
    a: "Sometimes. Larger sites with multiple behavioral health providers may give you some choice. Smaller sites may have one or two therapists and no alternatives. If the fit genuinely isn't working after a few sessions, it's worth asking whether a different provider is available."
  - q: "Is FQHC therapy confidential?"
    a: "Yes. The same HIPAA protections that apply to any licensed clinical setting apply here. Your therapy records are kept separate from your general medical records in most systems, and sharing between providers within the same FQHC requires your consent except in specific clinical situations. Ask the intake coordinator about records practices if this is a concern."
+ - q: "What mental health services do FQHCs offer?"
+   a: "FQHCs are required to offer mental health services, including individual therapy. You might see a licensed clinical social worker, a licensed professional counselor, or a psychologist, depending on the site. Some locations also offer psychiatric services such as medication evaluation and management. Not every site has every specialty, so call ahead and ask what behavioral health care is available."
+ - q: "Do FQHCs take insurance for mental health care?"
+   a: "Yes. If you have private insurance, an FQHC will bill your insurer and you pay your normal cost-sharing. If you are uninsured or underinsured, you can apply for the sliding fee discount instead. Insurance is not required to be seen."
 author: "Taylor Brooks"
 author_slug: "taylor-brooks"
 author_title: "Community Support"
 author_bio: "Taylor Brooks is the byline used at Therapy Finder Guide for articles on peer support and community-based mental health resources. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
 You're reading about Federally Qualified Health Centers because you need help and you want to know if you can afford it. The answer is almost certainly yes. Here's how.
 
@@ -47,7 +51,7 @@ Here's what you bring:
 
 No credit check. No insurance requirement. No proof of citizenship at most sites, because FQHCs have to serve all patients regardless of immigration status.
 
-A common mistake is putting off care for months based on an assumption about income limits for reduced fees. The actual numbers often shock them. A single adult earning $30,000 a year might still qualify for a real discount at plenty of sites.
+A common mistake is putting off care for months based on an assumption about income limits for reduced fees. Many people assume they earn too much to qualify, but a single adult earning $30,000 a year might still qualify for a real discount at plenty of sites.
 
 ## What to Expect from Therapy at an FQHC
 

@@ -2,7 +2,7 @@
 title: "Bright Light Therapy Works for Depression Year-Round, Study Finds"
 date: 2026-11-16T16:00:30.081086+00:00
 draft: false
-description: "Bright light therapy effectively treats depression throughout the year, according to new research. Discover how light exposure can improve mood and mental healt"
+description: "A JAMA Psychiatry meta-analysis of 11 trials found bright light therapy improved remission in nonseasonal depression. See the results, how to use it, and cautions."
 image: "/img/heroes/6029037.jpg"
 categories: ["trending"]
 tags: ["bright", "light", "therapy", "works", "depression"]
@@ -12,9 +12,15 @@ author_title: "Therapy Access"
 author_bio: "Alex Morgan is the byline used at Therapy Finder Guide for articles on how to find and start therapy, from insurance to the first appointment. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "bright-light-therapy-works-for-depression-year-round-study-finds"
 affiliate_disclosure: true
+faqs:
+  - q: "Does bright light therapy work for depression?"
+    a: "A JAMA Psychiatry meta-analysis of 11 randomized controlled trials covering 858 adults found that bright light therapy improved remission rates in nonseasonal depression compared with controls (40.7% vs. 23.5%). The researchers position it as an adjunct to standard care, not a replacement for medication or therapy. Talk with your prescriber or therapist before adding it."
+  - q: "Who should be careful with bright light therapy?"
+    a: "People with bipolar disorder should use light therapy only with careful clinical supervision, because it can trigger manic episodes. It is also worth checking with your provider if you take medications that increase light sensitivity or have an eye condition. Side effects such as headache, eye strain, or feeling jittery are generally mild and tend to resolve quickly."
+lastmod: 2026-11-26
 ---
 
-November is not kind to people managing depression. The days are shortening fast, therapy appointment slots fill up or get skipped, and the cultural pressure to feel festive sits on top of symptoms that were already hard to carry. So the timing of a new meta-analysis published in JAMA Psychiatry is worth paying attention to. Reviewed by Psychiatric Times on November 13, 2026, the study pooled 11 randomized controlled trials covering 858 adults and found that bright light therapy (BLT) significantly improved remission rates for nonseasonal depression, the kind that doesn't follow a seasonal pattern and affects far more people than winter SAD does.
+November is not kind to people managing depression. The days are shortening fast, therapy appointment slots fill up or get skipped, and the cultural pressure to feel festive sits on top of symptoms that were already hard to carry. So the timing of a new meta-analysis published in JAMA Psychiatry is worth paying attention to. In short, yes: bright light therapy appears to help with depression, including nonseasonal depression, when it is used alongside standard care. Reviewed by Psychiatric Times on November 13, 2026, the study pooled 11 randomized controlled trials covering 858 adults and found that bright light therapy (BLT) significantly improved remission rates for nonseasonal depression, the kind that doesn't follow a seasonal pattern and affects far more people than winter SAD does.
 
 This matters because BLT has long been recommended mainly for seasonal affective disorder. The new analysis shifts that picture. Remission rates reached 40.7% in the BLT group versus 23.5% in controls, an odds ratio of 2.42, with a p-value under .001. Treatment response rates were 60.4% versus 38.6%. These aren't trivial differences, and they come from a treatment most people can access at home for under $50 to $100 for a basic lamp. That's a meaningful gap to close, especially right now, when Data reported by Stacker on November 12, 2026 shows therapy bookings drop 11% in November and December compared to September and October.
 
