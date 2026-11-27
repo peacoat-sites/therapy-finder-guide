@@ -103,12 +103,3 @@ The system isn't built for people who need [affordable mental health care](/how-
 
 - [HRSA, Find a Health Center](https://findahealthcenter.hrsa.gov/), Official tool to locate FQHCs nationwide
 - [SAMHSA, National Helpline](https://www.samhsa.gov/find-help/national-helpline), Free, confidential treatment referral and information service
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), A popular self-help book on CBT-based self-treatment for depression. It is not a substitute for professional care.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

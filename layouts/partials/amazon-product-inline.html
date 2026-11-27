@@ -1,3 +1,4 @@
+{{- if not site.Params.hide_amazon -}}
 {{- /* amazon-product-inline.html
      Renders ONE tag-matched product card inline (mid-article, after 2nd H2).
      Falls back to first product if no tag matches.
@@ -23,4 +24,5 @@
     <span class="amazon-inline-btn">Check Price &#x2192;</span>
   </a>
 </div>
+{{- end -}}
 {{- end -}}

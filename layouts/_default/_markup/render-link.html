@@ -1,7 +1,9 @@
 {{- $dest := .Destination -}}
 {{- $isAmazon    := or (strings.Contains $dest "amazon.com") (strings.Contains $dest "amzn.to") -}}
 {{- $isExternal  := strings.HasPrefix $dest "http" -}}
-{{- if $isAmazon -}}
+{{- if and $isAmazon site.Params.hide_amazon -}}
+{{ .Text | safeHTML }}
+{{- else if $isAmazon -}}
 <a href="{{ $dest }}" rel="nofollow sponsored noopener noreferrer" target="_blank"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
 {{- else if $isExternal -}}
 <a href="{{ $dest }}" rel="noopener noreferrer" target="_blank"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>

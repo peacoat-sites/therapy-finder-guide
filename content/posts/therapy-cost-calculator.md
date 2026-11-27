@@ -64,12 +64,3 @@ Therapist offices often have someone who can verify your benefits before you wal
 Therapy is one of the best investments you can make in your future. Once you actually know what it costs, the first appointment stops feeling impossible. Our guide to finding a therapist walks you through the next steps.
 
 *Cost estimates provided by this calculator are for general planning purposes only. Actual costs depend on your specific insurance plan, provider, and location. Always verify your benefits directly with your insurance company before beginning treatment.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression & Anxiety Therapy Journal](https://www.amazon.com/dp/169327972X/?tag=contentportfo-20)** (~$10), 8-week guided journal with trigger tracking and mood diary, mirrors the homework your therapist would assign between sessions.

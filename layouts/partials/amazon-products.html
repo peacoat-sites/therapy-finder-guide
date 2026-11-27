@@ -1,3 +1,4 @@
+{{- if not site.Params.hide_amazon -}}
 {{- $pageKw := slice -}}
 {{- range .Params.tags -}}{{- $pageKw = $pageKw | append (lower .) -}}{{- end -}}
 {{- range .Params.keywords -}}{{- $pageKw = $pageKw | append (lower .) -}}{{- end -}}
@@ -27,4 +28,5 @@
   </div>
   <p class="amazon-note"><em>As an Amazon Associate we earn from qualifying purchases.</em></p>
 </div>
+{{- end -}}
 {{- end -}}

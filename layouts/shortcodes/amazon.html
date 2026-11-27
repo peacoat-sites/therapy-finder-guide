@@ -1,3 +1,4 @@
+{{- if not site.Params.hide_amazon -}}
 {{- $asin := .Get "asin" -}}
 {{- $title := .Get "title" | default "Amazon Product" -}}
 {{- $desc := .Get "desc" | default "" -}}
@@ -9,3 +10,4 @@
   </a>
   <p class="amazon-note"><em>Amazon affiliate link — we earn from qualifying purchases.</em></p>
 </div>
+{{- end -}}
