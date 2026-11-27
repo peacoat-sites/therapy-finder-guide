@@ -40,7 +40,7 @@
     <div class="footer-bottom">
       <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
       <p class="disclaimer">The information on this site is for general educational purposes only and does not constitute professional advice. Always consult a qualified professional for advice specific to your situation.</p>
-      <p class="affiliate-disclosure">This site participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. We may earn a commission on qualifying purchases at no extra cost to you.</p>
+      {{ if not site.Params.hide_amazon }}<p class="affiliate-disclosure">This site participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. We may earn a commission on qualifying purchases at no extra cost to you.</p>{{ end }}
     </div>
   </div>
 </footer>
