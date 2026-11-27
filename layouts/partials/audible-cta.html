@@ -1,3 +1,4 @@
+{{- if not site.Params.hide_amazon -}}
 {{ $a := site.Data.promos.audible }}
 {{ if and $a $a.url (lt now (time "2026-12-31")) }}
 <div class="audible-cta-strip" style="display:flex;align-items:center;gap:16px;background:linear-gradient(135deg,#1a1207 0%,#3d2a08 100%);border-radius:10px;padding:16px 20px;margin:2rem 0;flex-wrap:wrap">
@@ -12,3 +13,4 @@
   </a>
 </div>
 {{ end }}
+{{- end -}}
