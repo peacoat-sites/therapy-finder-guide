@@ -200,6 +200,20 @@ body { font-feature-settings: "cv11", "ss01"; }
   .post-content table th { color: #fff; }
   ::selection { background: color-mix(in srgb, var(--accent) 40%, transparent); }
 }
+
+/* modern-layer v3 (2026-11-27): answer-first mobile article header, so the article text starts on the first screen */
+@media (max-width: 720px) {
+  .post-main > .breadcrumb { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 10px; }
+  .post-main > .post-title { margin-bottom: 10px; }
+  .post-main > .post-meta { font-size: .8rem; line-height: 1.45; margin-bottom: 14px; padding-bottom: 0; border-bottom: 0; }
+  .post-main > .post-meta .post-meta-main { gap: 2px 10px !important; }
+  .post-main > .post-meta .post-share:not(.post-share-bottom) { display: none !important; }
+  .post-main > .post-featured-image { margin-bottom: 14px; }
+  .post-main > .post-featured-image img { aspect-ratio: 16 / 9; height: auto; max-height: none !important; }
+}
+@media (prefers-color-scheme: dark) {
+  :root body :is(.toc, .toc-rail) #TableOfContents a { color: var(--text) !important; }
+}
 </style>
 <script type="speculationrules">
 {"prefetch":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/search/*"}},{"not":{"selector_matches":"[rel~=nofollow],[target=_blank]"}}]},"eagerness":"moderate"}]}
